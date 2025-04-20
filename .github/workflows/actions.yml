@@ -33,8 +33,14 @@ jobs:
           git add -A
           git diff-index --quiet HEAD || (git commit -a -m "Auto-update")
           
-      - name: push changes
-        uses: ad-m/github-push-action@v0.6.0
-        with:
-          github_token: ${{ secrets.BOT_GITHUB_TOKEN }}
-          branch: main
+      - name: commit files
+        env:
+          BOT_GITHUB_TOKEN: ${{ secrets.BOT_GITHUB_TOKEN }}
+        run: |
+          set -eux
+          git config --local user.email "githubbot@ian.mn"
+          git config --local user.name "Ian Mckay [bot]"
+          git add .
+          git commit -m "Update data" -a || exit 0
+          remote_repo="https://iann0036-bot:${BOT_GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+          git push "${remote_repo}" HEAD:main
