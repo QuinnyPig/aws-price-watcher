@@ -15,12 +15,12 @@ def save_file(filename, contents):
         with open(filename, 'w') as file:
             file.write(contents)
     except IOError as e:
-        print(f"Error saving the file: {e}")
+        print("Error saving the file: {}".format(e))
 
 def load_file(filename):
     existing_contents = None
     try:
-        existing_file = open(f"raw/{sanitized_service_name}.json", "r")
+        existing_file = open("raw/{}.json".format(sanitized_service_name), "r")
         existing_contents = existing_file.read()
         existing_file.close()
     except FileNotFoundError:
@@ -41,11 +41,11 @@ if service_list:
     try:
         service_list_obj = json.loads(service_list)
     except json.JSONDecodeError as e:
-        print(f"Error decoding JSON: {e}")
+        print("Error decoding JSON: {}".format(e))
 
     for service in service_list_obj["offers"].keys():
         sanitized_service_name = service.lower().removeprefix("amazon").removeprefix("aws")
-        contents = get_url_contents(f"https://b0.p.awsstatic.com/pricing/2.0/meteredUnitMaps/{sanitized_service_name}/USD/current/{sanitized_service_name}.json")
+        contents = get_url_contents("https://b0.p.awsstatic.com/pricing/2.0/meteredUnitMaps/{}/USD/current/{}.json".format(sanitized_service_name, sanitized_service_name))
         if contents:
             contents_obj = json.loads(contents)
             existing_contents = load_file(sanitized_service_name)
@@ -58,11 +58,11 @@ if service_list:
             else:
                 new_services.append(sanitized_service_name)
             
-            save_file(f"raw/{sanitized_service_name}.json", contents)
+            save_file("raw/{}.json".format(sanitized_service_name), contents)
         else:
             not_found.append(sanitized_service_name)
 
     print("## Latest Changes\n\n")
-    print(f"**New services:**\n\n- {'\n- '.join(new_services)}")
-    print(f"\n**Modified services:**\n\n- {'\n- '.join(modified_services)}")
-    print(f"\n**Not found services:**\n\n- {'\n- '.join(not_found)}")
+    print("**New services:**\n\n- {}".format('\n- '.join(new_services)))
+    print("\n**Modified services:**\n\n- {}".format('\n- '.join(modified_services)))
+    print("\n**Not found services:**\n\n- {}".format('\n- '.join(not_found)))
