@@ -25,14 +25,7 @@ jobs:
           
       - name: execute py script # run main.py
         run: python main.py > README.md
-          
-      - name: commit files
-        run: |
-          git config --local user.email "githubbot@ian.mn"
-          git config --local user.name "Ian Mckay [bot]"
-          git add -A
-          git diff-index --quiet HEAD || (git commit -a -m "Auto-update")
-          
+      
       - name: commit files
         env:
           BOT_GITHUB_TOKEN: ${{ secrets.BOT_GITHUB_TOKEN }}
