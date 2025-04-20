@@ -32,7 +32,7 @@ if service_list:
         print(f"Error decoding JSON: {e}")
 
     for service in service_list_obj["offers"].keys():
-        sanitized_service_name = service.removeprefix("Amazon").removeprefix("AWS").lower()
+        sanitized_service_name = service.lower().removeprefix("amazon").removeprefix("aws")
         contents = get_url_contents(f"https://b0.p.awsstatic.com/pricing/2.0/meteredUnitMaps/{sanitized_service_name}/USD/current/{sanitized_service_name}.json")
         if contents:
             save_file(f"raw/{sanitized_service_name}.json", contents)
