@@ -1,1 +1,1443 @@
-{"manifest":{"serviceId":"networkfirewall","accessType":"publish","esIndex":"plc-networkfirewall-usd-20250327151811","hawkFilePublicationDate":"2025-03-26T21:09:20Z","ETLIngestionTriggerDate":"2025-03-27T15:18:11Z","currencyCode":"USD","source":"networkfirewall","isMapped":"true"},"sets":{},"regions":{"US West (Oregon)":{"-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY":{"rateCode":"GX2FKXFZXPXCDS2W.JRTCKXETXF.6YS6EN2CT7","price":"0.0650000000","RegionlessRateCode":"-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"},"-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo":{"rateCode":"WWS5YKUZVM6E8TUF.JRTCKXETXF.6YS6EN2CT7","price":"0.3950000000","RegionlessRateCode":"-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"},"YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw":{"rateCode":"KM8GNEW72P2ZE3K5.JRTCKXETXF.6YS6EN2CT7","price":"0.3800000000","RegionlessRateCode":"YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"},"eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y":{"rateCode":"2T6C9M8239WWC24W.JRTCKXETXF.6YS6EN2CT7","price":"0.0000000000","RegionlessRateCode":"eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"},"AWS Firewall per Throughput":{"rateCode":"GX2FKXFZXPXCDS2W.JRTCKXETXF.6YS6EN2CT7","price":"0.0650000000","RegionlessRateCode":"-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"},"AWS Firewall per Endpoint":{"rateCode":"WWS5YKUZVM6E8TUF.JRTCKXETXF.6YS6EN2CT7","price":"0.3950000000","RegionlessRateCode":"-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"},"AWS Firewall per Endpoint-Advanced":{"rateCode":"KM8GNEW72P2ZE3K5.JRTCKXETXF.6YS6EN2CT7","price":"0.3800000000","RegionlessRateCode":"YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"},"AWS Firewall per Throughput-Advanced":{"rateCode":"2T6C9M8239WWC24W.JRTCKXETXF.6YS6EN2CT7","price":"0.0000000000","RegionlessRateCode":"eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"}},"US West (N. California)":{"-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY":{"rateCode":"6KJCXXWHFGQ6N3VY.JRTCKXETXF.6YS6EN2CT7","price":"0.0650000000","RegionlessRateCode":"-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"},"-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo":{"rateCode":"W2CQ2AMYY8UCMSTM.JRTCKXETXF.6YS6EN2CT7","price":"0.3950000000","RegionlessRateCode":"-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"},"YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw":{"rateCode":"D3ZJK36N45ASJVQ3.JRTCKXETXF.6YS6EN2CT7","price":"1.0550000000","RegionlessRateCode":"YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"},"eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y":{"rateCode":"JKYYHCAFQRMT6KUT.JRTCKXETXF.6YS6EN2CT7","price":"0.0050000000","RegionlessRateCode":"eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"},"AWS Firewall per Throughput":{"rateCode":"6KJCXXWHFGQ6N3VY.JRTCKXETXF.6YS6EN2CT7","price":"0.0650000000","RegionlessRateCode":"-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"},"AWS Firewall per Endpoint":{"rateCode":"W2CQ2AMYY8UCMSTM.JRTCKXETXF.6YS6EN2CT7","price":"0.3950000000","RegionlessRateCode":"-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"},"AWS Firewall per Endpoint-Advanced":{"rateCode":"D3ZJK36N45ASJVQ3.JRTCKXETXF.6YS6EN2CT7","price":"1.0550000000","RegionlessRateCode":"YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"},"AWS Firewall per Throughput-Advanced":{"rateCode":"JKYYHCAFQRMT6KUT.JRTCKXETXF.6YS6EN2CT7","price":"0.0050000000","RegionlessRateCode":"eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"}},"US East (Ohio)":{"-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY":{"rateCode":"6DR286TAGDU5M9BR.JRTCKXETXF.6YS6EN2CT7","price":"0.0650000000","RegionlessRateCode":"-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"},"-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo":{"rateCode":"952WEAEH3PRJYHH9.JRTCKXETXF.6YS6EN2CT7","price":"0.3950000000","RegionlessRateCode":"-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"},"YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw":{"rateCode":"8R9VM4SZR9HXF8XN.JRTCKXETXF.6YS6EN2CT7","price":"0.3800000000","RegionlessRateCode":"YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"},"eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y":{"rateCode":"WXVK7PJCGYRSFMTQ.JRTCKXETXF.6YS6EN2CT7","price":"0.0000000000","RegionlessRateCode":"eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"},"AWS Firewall per Throughput":{"rateCode":"6DR286TAGDU5M9BR.JRTCKXETXF.6YS6EN2CT7","price":"0.0650000000","RegionlessRateCode":"-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"},"AWS Firewall per Endpoint":{"rateCode":"952WEAEH3PRJYHH9.JRTCKXETXF.6YS6EN2CT7","price":"0.3950000000","RegionlessRateCode":"-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"},"AWS Firewall per Endpoint-Advanced":{"rateCode":"8R9VM4SZR9HXF8XN.JRTCKXETXF.6YS6EN2CT7","price":"0.3800000000","RegionlessRateCode":"YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"},"AWS Firewall per Throughput-Advanced":{"rateCode":"WXVK7PJCGYRSFMTQ.JRTCKXETXF.6YS6EN2CT7","price":"0.0000000000","RegionlessRateCode":"eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"}},"US East (N. Virginia)":{"-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY":{"rateCode":"XV96EJWPVQM4WXNF.JRTCKXETXF.6YS6EN2CT7","price":"0.0650000000","RegionlessRateCode":"-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"},"-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo":{"rateCode":"HANDG4QVMZC2NMJY.JRTCKXETXF.6YS6EN2CT7","price":"0.3950000000","RegionlessRateCode":"-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"},"YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw":{"rateCode":"M2YB3S9RC6PQZW4H.JRTCKXETXF.6YS6EN2CT7","price":"0.3800000000","RegionlessRateCode":"YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"},"eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y":{"rateCode":"2S7HKK9N3AYGCJKB.JRTCKXETXF.6YS6EN2CT7","price":"0.0000000000","RegionlessRateCode":"eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"},"AWS Firewall per Throughput":{"rateCode":"XV96EJWPVQM4WXNF.JRTCKXETXF.6YS6EN2CT7","price":"0.0650000000","RegionlessRateCode":"-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"},"AWS Firewall per Endpoint":{"rateCode":"HANDG4QVMZC2NMJY.JRTCKXETXF.6YS6EN2CT7","price":"0.3950000000","RegionlessRateCode":"-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"},"AWS Firewall per Endpoint-Advanced":{"rateCode":"M2YB3S9RC6PQZW4H.JRTCKXETXF.6YS6EN2CT7","price":"0.3800000000","RegionlessRateCode":"YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"},"AWS Firewall per Throughput-Advanced":{"rateCode":"2S7HKK9N3AYGCJKB.JRTCKXETXF.6YS6EN2CT7","price":"0.0000000000","RegionlessRateCode":"eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"}},"South America (Sao Paulo)":{"-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY":{"rateCode":"XBRSBBXPAFPFN9J7.JRTCKXETXF.6YS6EN2CT7","price":"0.0650000000","RegionlessRateCode":"-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"},"-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo":{"rateCode":"85TQG63VPVZP8VFV.JRTCKXETXF.6YS6EN2CT7","price":"0.3950000000","RegionlessRateCode":"-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"},"YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw":{"rateCode":"NHH6QWDY5G7M8N6R.JRTCKXETXF.6YS6EN2CT7","price":"1.1550000000","RegionlessRateCode":"YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"},"eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y":{"rateCode":"6YSH968FPARJWCVC.JRTCKXETXF.6YS6EN2CT7","price":"0.0050000000","RegionlessRateCode":"eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"},"AWS Firewall per Throughput":{"rateCode":"XBRSBBXPAFPFN9J7.JRTCKXETXF.6YS6EN2CT7","price":"0.0650000000","RegionlessRateCode":"-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"},"AWS Firewall per Endpoint":{"rateCode":"85TQG63VPVZP8VFV.JRTCKXETXF.6YS6EN2CT7","price":"0.3950000000","RegionlessRateCode":"-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"},"AWS Firewall per Endpoint-Advanced":{"rateCode":"NHH6QWDY5G7M8N6R.JRTCKXETXF.6YS6EN2CT7","price":"1.1550000000","RegionlessRateCode":"YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"},"AWS Firewall per Throughput-Advanced":{"rateCode":"6YSH968FPARJWCVC.JRTCKXETXF.6YS6EN2CT7","price":"0.0050000000","RegionlessRateCode":"eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"}},"Middle East (UAE)":{"-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY":{"rateCode":"U4EZT6GK6V9PBMZT.JRTCKXETXF.6YS6EN2CT7","price":"0.0650000000","RegionlessRateCode":"-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"},"-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo":{"rateCode":"KCPB42F2GB2SUZFT.JRTCKXETXF.6YS6EN2CT7","price":"0.4150000000","RegionlessRateCode":"-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"},"YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw":{"rateCode":"4E5XWBRTW3GZBX6C.JRTCKXETXF.6YS6EN2CT7","price":"0.3600000000","RegionlessRateCode":"YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"},"eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y":{"rateCode":"RVS7JSRJ8BQE25HP.JRTCKXETXF.6YS6EN2CT7","price":"0.0000000000","RegionlessRateCode":"eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"},"AWS Firewall per Throughput":{"rateCode":"U4EZT6GK6V9PBMZT.JRTCKXETXF.6YS6EN2CT7","price":"0.0650000000","RegionlessRateCode":"-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"},"AWS Firewall per Endpoint":{"rateCode":"KCPB42F2GB2SUZFT.JRTCKXETXF.6YS6EN2CT7","price":"0.4150000000","RegionlessRateCode":"-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"},"AWS Firewall per Endpoint-Advanced":{"rateCode":"4E5XWBRTW3GZBX6C.JRTCKXETXF.6YS6EN2CT7","price":"0.3600000000","RegionlessRateCode":"YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"},"AWS Firewall per Throughput-Advanced":{"rateCode":"RVS7JSRJ8BQE25HP.JRTCKXETXF.6YS6EN2CT7","price":"0.0000000000","RegionlessRateCode":"eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"}},"Middle East (Bahrain)":{"-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY":{"rateCode":"BVN4ZMJYHHAA3YFE.JRTCKXETXF.6YS6EN2CT7","price":"0.0650000000","RegionlessRateCode":"-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"},"-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo":{"rateCode":"PFQDGQPNPNEPA7RJ.JRTCKXETXF.6YS6EN2CT7","price":"0.3950000000","RegionlessRateCode":"-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"},"YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw":{"rateCode":"HWQ84HZPMU2NXY75.JRTCKXETXF.6YS6EN2CT7","price":"0.3800000000","RegionlessRateCode":"YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"},"eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y":{"rateCode":"ZD2CBGW55QBJPUQ5.JRTCKXETXF.6YS6EN2CT7","price":"0.0010000000","RegionlessRateCode":"eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"},"AWS Firewall per Throughput":{"rateCode":"BVN4ZMJYHHAA3YFE.JRTCKXETXF.6YS6EN2CT7","price":"0.0650000000","RegionlessRateCode":"-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"},"AWS Firewall per Endpoint":{"rateCode":"PFQDGQPNPNEPA7RJ.JRTCKXETXF.6YS6EN2CT7","price":"0.3950000000","RegionlessRateCode":"-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"},"AWS Firewall per Endpoint-Advanced":{"rateCode":"HWQ84HZPMU2NXY75.JRTCKXETXF.6YS6EN2CT7","price":"0.3800000000","RegionlessRateCode":"YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"},"AWS Firewall per Throughput-Advanced":{"rateCode":"ZD2CBGW55QBJPUQ5.JRTCKXETXF.6YS6EN2CT7","price":"0.0010000000","RegionlessRateCode":"eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"}},"Mexico (Central)":{"-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY":{"rateCode":"U22RWZNSHJGHXMSD.JRTCKXETXF.6YS6EN2CT7","price":"0.0650000000","RegionlessRateCode":"-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"},"-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo":{"rateCode":"EKP593ZKTFP3922A.JRTCKXETXF.6YS6EN2CT7","price":"0.5850000000","RegionlessRateCode":"-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"},"YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw":{"rateCode":"ZNBM2HD36YTVZEKJ.JRTCKXETXF.6YS6EN2CT7","price":"0.3800000000","RegionlessRateCode":"YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"},"eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y":{"rateCode":"6852ETSBP8NEGUSP.JRTCKXETXF.6YS6EN2CT7","price":"0.0000000000","RegionlessRateCode":"eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"},"AWS Firewall per Throughput":{"rateCode":"U22RWZNSHJGHXMSD.JRTCKXETXF.6YS6EN2CT7","price":"0.0650000000","RegionlessRateCode":"-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"},"AWS Firewall per Endpoint":{"rateCode":"EKP593ZKTFP3922A.JRTCKXETXF.6YS6EN2CT7","price":"0.5850000000","RegionlessRateCode":"-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"},"AWS Firewall per Endpoint-Advanced":{"rateCode":"ZNBM2HD36YTVZEKJ.JRTCKXETXF.6YS6EN2CT7","price":"0.3800000000","RegionlessRateCode":"YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"},"AWS Firewall per Throughput-Advanced":{"rateCode":"6852ETSBP8NEGUSP.JRTCKXETXF.6YS6EN2CT7","price":"0.0000000000","RegionlessRateCode":"eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"}},"Israel (Tel Aviv)":{"-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY":{"rateCode":"KKHDZDDGV77AJ8CF.JRTCKXETXF.6YS6EN2CT7","price":"0.0650000000","RegionlessRateCode":"-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"},"-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo":{"rateCode":"4VHFEDHCC463FCF9.JRTCKXETXF.6YS6EN2CT7","price":"0.5650000000","RegionlessRateCode":"-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"},"YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw":{"rateCode":"V9MNVNZH48HU22V5.JRTCKXETXF.6YS6EN2CT7","price":"0.3600000000","RegionlessRateCode":"YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"},"eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y":{"rateCode":"E3BTP9KE5XJEQ689.JRTCKXETXF.6YS6EN2CT7","price":"0.0000000000","RegionlessRateCode":"eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"},"AWS Firewall per Throughput":{"rateCode":"KKHDZDDGV77AJ8CF.JRTCKXETXF.6YS6EN2CT7","price":"0.0650000000","RegionlessRateCode":"-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"},"AWS Firewall per Endpoint":{"rateCode":"4VHFEDHCC463FCF9.JRTCKXETXF.6YS6EN2CT7","price":"0.5650000000","RegionlessRateCode":"-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"},"AWS Firewall per Endpoint-Advanced":{"rateCode":"V9MNVNZH48HU22V5.JRTCKXETXF.6YS6EN2CT7","price":"0.3600000000","RegionlessRateCode":"YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"},"AWS Firewall per Throughput-Advanced":{"rateCode":"E3BTP9KE5XJEQ689.JRTCKXETXF.6YS6EN2CT7","price":"0.0000000000","RegionlessRateCode":"eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"}},"EU (Zurich)":{"-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY":{"rateCode":"ZVVRE4372SYHDB5K.JRTCKXETXF.6YS6EN2CT7","price":"0.0750000000","RegionlessRateCode":"-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"},"-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo":{"rateCode":"QTPUTZD5YC3M7359.JRTCKXETXF.6YS6EN2CT7","price":"1.0750000000","RegionlessRateCode":"-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"},"YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw":{"rateCode":"DQ4Z8VCA72FCDWFR.JRTCKXETXF.6YS6EN2CT7","price":"0.3800000000","RegionlessRateCode":"YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"},"eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y":{"rateCode":"9XKRV5H96AP279P8.JRTCKXETXF.6YS6EN2CT7","price":"0.0000000000","RegionlessRateCode":"eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"},"AWS Firewall per Throughput":{"rateCode":"ZVVRE4372SYHDB5K.JRTCKXETXF.6YS6EN2CT7","price":"0.0750000000","RegionlessRateCode":"-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"},"AWS Firewall per Endpoint":{"rateCode":"QTPUTZD5YC3M7359.JRTCKXETXF.6YS6EN2CT7","price":"1.0750000000","RegionlessRateCode":"-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"},"AWS Firewall per Endpoint-Advanced":{"rateCode":"DQ4Z8VCA72FCDWFR.JRTCKXETXF.6YS6EN2CT7","price":"0.3800000000","RegionlessRateCode":"YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"},"AWS Firewall per Throughput-Advanced":{"rateCode":"9XKRV5H96AP279P8.JRTCKXETXF.6YS6EN2CT7","price":"0.0000000000","RegionlessRateCode":"eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"}},"EU (Stockholm)":{"-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY":{"rateCode":"S65VDRVMY6HW83S7.JRTCKXETXF.6YS6EN2CT7","price":"0.0650000000","RegionlessRateCode":"-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"},"-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo":{"rateCode":"UXY8P3Z53GARUATE.JRTCKXETXF.6YS6EN2CT7","price":"0.3950000000","RegionlessRateCode":"-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"},"YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw":{"rateCode":"H8ZD82T9JN5WTP4T.JRTCKXETXF.6YS6EN2CT7","price":"0.5110000000","RegionlessRateCode":"YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"},"eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y":{"rateCode":"C32W63599S9UX3ZB.JRTCKXETXF.6YS6EN2CT7","price":"0.0000000000","RegionlessRateCode":"eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"},"AWS Firewall per Throughput":{"rateCode":"S65VDRVMY6HW83S7.JRTCKXETXF.6YS6EN2CT7","price":"0.0650000000","RegionlessRateCode":"-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"},"AWS Firewall per Endpoint":{"rateCode":"UXY8P3Z53GARUATE.JRTCKXETXF.6YS6EN2CT7","price":"0.3950000000","RegionlessRateCode":"-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"},"AWS Firewall per Endpoint-Advanced":{"rateCode":"H8ZD82T9JN5WTP4T.JRTCKXETXF.6YS6EN2CT7","price":"0.5110000000","RegionlessRateCode":"YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"},"AWS Firewall per Throughput-Advanced":{"rateCode":"C32W63599S9UX3ZB.JRTCKXETXF.6YS6EN2CT7","price":"0.0000000000","RegionlessRateCode":"eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"}},"EU (Spain)":{"-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY":{"rateCode":"3ZMRRE7JA75VJC3F.JRTCKXETXF.6YS6EN2CT7","price":"0.0650000000","RegionlessRateCode":"-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"},"-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo":{"rateCode":"JAAFGN7D7MN7C2PC.JRTCKXETXF.6YS6EN2CT7","price":"0.3950000000","RegionlessRateCode":"-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"},"YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw":{"rateCode":"MRXGVMHN7XASG3XY.JRTCKXETXF.6YS6EN2CT7","price":"0.3800000000","RegionlessRateCode":"YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"},"eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y":{"rateCode":"2VRHG98PTX7Q9B5Y.JRTCKXETXF.6YS6EN2CT7","price":"0.0000000000","RegionlessRateCode":"eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"},"AWS Firewall per Throughput":{"rateCode":"3ZMRRE7JA75VJC3F.JRTCKXETXF.6YS6EN2CT7","price":"0.0650000000","RegionlessRateCode":"-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"},"AWS Firewall per Endpoint":{"rateCode":"JAAFGN7D7MN7C2PC.JRTCKXETXF.6YS6EN2CT7","price":"0.3950000000","RegionlessRateCode":"-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"},"AWS Firewall per Endpoint-Advanced":{"rateCode":"MRXGVMHN7XASG3XY.JRTCKXETXF.6YS6EN2CT7","price":"0.3800000000","RegionlessRateCode":"YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"},"AWS Firewall per Throughput-Advanced":{"rateCode":"2VRHG98PTX7Q9B5Y.JRTCKXETXF.6YS6EN2CT7","price":"0.0000000000","RegionlessRateCode":"eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"}},"EU (Paris)":{"-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY":{"rateCode":"8VRNAQEMA7G4F6X5.JRTCKXETXF.6YS6EN2CT7","price":"0.0650000000","RegionlessRateCode":"-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"},"-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo":{"rateCode":"254XCDXGSMV3WVXC.JRTCKXETXF.6YS6EN2CT7","price":"0.3950000000","RegionlessRateCode":"-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"},"YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw":{"rateCode":"FU4EJ5PRYEW6C492.JRTCKXETXF.6YS6EN2CT7","price":"0.5500000000","RegionlessRateCode":"YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"},"eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y":{"rateCode":"52Q5V7PD9KJKQ6PJ.JRTCKXETXF.6YS6EN2CT7","price":"0.0000000000","RegionlessRateCode":"eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"},"AWS Firewall per Throughput":{"rateCode":"8VRNAQEMA7G4F6X5.JRTCKXETXF.6YS6EN2CT7","price":"0.0650000000","RegionlessRateCode":"-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"},"AWS Firewall per Endpoint":{"rateCode":"254XCDXGSMV3WVXC.JRTCKXETXF.6YS6EN2CT7","price":"0.3950000000","RegionlessRateCode":"-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"},"AWS Firewall per Endpoint-Advanced":{"rateCode":"FU4EJ5PRYEW6C492.JRTCKXETXF.6YS6EN2CT7","price":"0.5500000000","RegionlessRateCode":"YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"},"AWS Firewall per Throughput-Advanced":{"rateCode":"52Q5V7PD9KJKQ6PJ.JRTCKXETXF.6YS6EN2CT7","price":"0.0000000000","RegionlessRateCode":"eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"}},"EU (Milan)":{"-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY":{"rateCode":"X7EAFXUMRRQQH6VV.JRTCKXETXF.6YS6EN2CT7","price":"0.0650000000","RegionlessRateCode":"-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"},"-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo":{"rateCode":"GHW4Z2ZAMQDZW23X.JRTCKXETXF.6YS6EN2CT7","price":"0.3950000000","RegionlessRateCode":"-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"},"YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw":{"rateCode":"PJ6DWB4JUZ7J7J49.JRTCKXETXF.6YS6EN2CT7","price":"1.1550000000","RegionlessRateCode":"YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"},"eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y":{"rateCode":"68KSG4FMKVTQ665H.JRTCKXETXF.6YS6EN2CT7","price":"0.0050000000","RegionlessRateCode":"eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"},"AWS Firewall per Throughput":{"rateCode":"X7EAFXUMRRQQH6VV.JRTCKXETXF.6YS6EN2CT7","price":"0.0650000000","RegionlessRateCode":"-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"},"AWS Firewall per Endpoint":{"rateCode":"GHW4Z2ZAMQDZW23X.JRTCKXETXF.6YS6EN2CT7","price":"0.3950000000","RegionlessRateCode":"-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"},"AWS Firewall per Endpoint-Advanced":{"rateCode":"PJ6DWB4JUZ7J7J49.JRTCKXETXF.6YS6EN2CT7","price":"1.1550000000","RegionlessRateCode":"YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"},"AWS Firewall per Throughput-Advanced":{"rateCode":"68KSG4FMKVTQ665H.JRTCKXETXF.6YS6EN2CT7","price":"0.0050000000","RegionlessRateCode":"eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"}},"EU (London)":{"-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY":{"rateCode":"Y6BZ5VNEF74F2EAP.JRTCKXETXF.6YS6EN2CT7","price":"0.0650000000","RegionlessRateCode":"-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"},"-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo":{"rateCode":"NVAS6GPGBEEYUP6X.JRTCKXETXF.6YS6EN2CT7","price":"0.3950000000","RegionlessRateCode":"-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"},"YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw":{"rateCode":"AYVV6Z95XG2XDVEK.JRTCKXETXF.6YS6EN2CT7","price":"1.1270000000","RegionlessRateCode":"YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"},"eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y":{"rateCode":"F5SWDP9R7TRWNADC.JRTCKXETXF.6YS6EN2CT7","price":"0.0000000000","RegionlessRateCode":"eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"},"AWS Firewall per Throughput":{"rateCode":"Y6BZ5VNEF74F2EAP.JRTCKXETXF.6YS6EN2CT7","price":"0.0650000000","RegionlessRateCode":"-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"},"AWS Firewall per Endpoint":{"rateCode":"NVAS6GPGBEEYUP6X.JRTCKXETXF.6YS6EN2CT7","price":"0.3950000000","RegionlessRateCode":"-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"},"AWS Firewall per Endpoint-Advanced":{"rateCode":"AYVV6Z95XG2XDVEK.JRTCKXETXF.6YS6EN2CT7","price":"1.1270000000","RegionlessRateCode":"YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"},"AWS Firewall per Throughput-Advanced":{"rateCode":"F5SWDP9R7TRWNADC.JRTCKXETXF.6YS6EN2CT7","price":"0.0000000000","RegionlessRateCode":"eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"}},"EU (Ireland)":{"-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY":{"rateCode":"4RSP654W45TP5D7U.JRTCKXETXF.6YS6EN2CT7","price":"0.0650000000","RegionlessRateCode":"-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"},"-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo":{"rateCode":"7RY6A6RE9DGXC32Z.JRTCKXETXF.6YS6EN2CT7","price":"0.3950000000","RegionlessRateCode":"-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"},"YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw":{"rateCode":"U7QGCFBYU3BCT7TP.JRTCKXETXF.6YS6EN2CT7","price":"0.4890000000","RegionlessRateCode":"YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"},"eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y":{"rateCode":"AEZ3KFP85XDFU7D8.JRTCKXETXF.6YS6EN2CT7","price":"0.0000000000","RegionlessRateCode":"eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"},"AWS Firewall per Throughput":{"rateCode":"4RSP654W45TP5D7U.JRTCKXETXF.6YS6EN2CT7","price":"0.0650000000","RegionlessRateCode":"-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"},"AWS Firewall per Endpoint":{"rateCode":"7RY6A6RE9DGXC32Z.JRTCKXETXF.6YS6EN2CT7","price":"0.3950000000","RegionlessRateCode":"-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"},"AWS Firewall per Endpoint-Advanced":{"rateCode":"U7QGCFBYU3BCT7TP.JRTCKXETXF.6YS6EN2CT7","price":"0.4890000000","RegionlessRateCode":"YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"},"AWS Firewall per Throughput-Advanced":{"rateCode":"AEZ3KFP85XDFU7D8.JRTCKXETXF.6YS6EN2CT7","price":"0.0000000000","RegionlessRateCode":"eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"}},"EU (Frankfurt)":{"-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY":{"rateCode":"RZQF6VFUZQZPGBVM.JRTCKXETXF.6YS6EN2CT7","price":"0.0650000000","RegionlessRateCode":"-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"},"-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo":{"rateCode":"DWN2P22KS7H6SVZY.JRTCKXETXF.6YS6EN2CT7","price":"0.3950000000","RegionlessRateCode":"-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"},"YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw":{"rateCode":"C2NCEKB6Q9FZQAHC.JRTCKXETXF.6YS6EN2CT7","price":"0.9260000000","RegionlessRateCode":"YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"},"eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y":{"rateCode":"3YQ46RSVBAZPQDAH.JRTCKXETXF.6YS6EN2CT7","price":"0.0000000000","RegionlessRateCode":"eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"},"AWS Firewall per Throughput":{"rateCode":"RZQF6VFUZQZPGBVM.JRTCKXETXF.6YS6EN2CT7","price":"0.0650000000","RegionlessRateCode":"-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"},"AWS Firewall per Endpoint":{"rateCode":"DWN2P22KS7H6SVZY.JRTCKXETXF.6YS6EN2CT7","price":"0.3950000000","RegionlessRateCode":"-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"},"AWS Firewall per Endpoint-Advanced":{"rateCode":"C2NCEKB6Q9FZQAHC.JRTCKXETXF.6YS6EN2CT7","price":"0.9260000000","RegionlessRateCode":"YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"},"AWS Firewall per Throughput-Advanced":{"rateCode":"3YQ46RSVBAZPQDAH.JRTCKXETXF.6YS6EN2CT7","price":"0.0000000000","RegionlessRateCode":"eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"}},"Canada West (Calgary)":{"-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY":{"rateCode":"HQTN3ZD7HNNFJA2Z.JRTCKXETXF.6YS6EN2CT7","price":"0.0650000000","RegionlessRateCode":"-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"},"-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo":{"rateCode":"2K9M7JTRVU24SXFM.JRTCKXETXF.6YS6EN2CT7","price":"0.7050000000","RegionlessRateCode":"-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"},"YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw":{"rateCode":"33HUG6KV5AT9M9FT.JRTCKXETXF.6YS6EN2CT7","price":"0.4300000000","RegionlessRateCode":"YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"},"eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y":{"rateCode":"2ETBDXBV4JRMW7BX.JRTCKXETXF.6YS6EN2CT7","price":"0.0000000000","RegionlessRateCode":"eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"},"AWS Firewall per Throughput":{"rateCode":"HQTN3ZD7HNNFJA2Z.JRTCKXETXF.6YS6EN2CT7","price":"0.0650000000","RegionlessRateCode":"-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"},"AWS Firewall per Endpoint":{"rateCode":"2K9M7JTRVU24SXFM.JRTCKXETXF.6YS6EN2CT7","price":"0.7050000000","RegionlessRateCode":"-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"},"AWS Firewall per Endpoint-Advanced":{"rateCode":"33HUG6KV5AT9M9FT.JRTCKXETXF.6YS6EN2CT7","price":"0.4300000000","RegionlessRateCode":"YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"},"AWS Firewall per Throughput-Advanced":{"rateCode":"2ETBDXBV4JRMW7BX.JRTCKXETXF.6YS6EN2CT7","price":"0.0000000000","RegionlessRateCode":"eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"}},"Canada (Central)":{"-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY":{"rateCode":"NSHAFSJU7B3B3NWR.JRTCKXETXF.6YS6EN2CT7","price":"0.0650000000","RegionlessRateCode":"-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"},"-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo":{"rateCode":"2Y3BZ2S45MEG3GBJ.JRTCKXETXF.6YS6EN2CT7","price":"0.3950000000","RegionlessRateCode":"-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"},"YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw":{"rateCode":"BESU9DFK68VMKBVV.JRTCKXETXF.6YS6EN2CT7","price":"0.7120000000","RegionlessRateCode":"YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"},"eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y":{"rateCode":"BU256RKFZMMCWDAM.JRTCKXETXF.6YS6EN2CT7","price":"0.0000000000","RegionlessRateCode":"eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"},"AWS Firewall per Throughput":{"rateCode":"NSHAFSJU7B3B3NWR.JRTCKXETXF.6YS6EN2CT7","price":"0.0650000000","RegionlessRateCode":"-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"},"AWS Firewall per Endpoint":{"rateCode":"2Y3BZ2S45MEG3GBJ.JRTCKXETXF.6YS6EN2CT7","price":"0.3950000000","RegionlessRateCode":"-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"},"AWS Firewall per Endpoint-Advanced":{"rateCode":"BESU9DFK68VMKBVV.JRTCKXETXF.6YS6EN2CT7","price":"0.7120000000","RegionlessRateCode":"YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"},"AWS Firewall per Throughput-Advanced":{"rateCode":"BU256RKFZMMCWDAM.JRTCKXETXF.6YS6EN2CT7","price":"0.0000000000","RegionlessRateCode":"eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"}},"Asia Pacific (Tokyo)":{"-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY":{"rateCode":"DUNCV285YHHZX8SF.JRTCKXETXF.6YS6EN2CT7","price":"0.0650000000","RegionlessRateCode":"-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"},"-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo":{"rateCode":"CWTZWA8K9VDUWMK7.JRTCKXETXF.6YS6EN2CT7","price":"0.3950000000","RegionlessRateCode":"-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"},"YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw":{"rateCode":"UJR6GAUCJHZFEKPK.JRTCKXETXF.6YS6EN2CT7","price":"1.0950000000","RegionlessRateCode":"YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"},"eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y":{"rateCode":"2QZGTPAUJYQ8PBD2.JRTCKXETXF.6YS6EN2CT7","price":"0.0050000000","RegionlessRateCode":"eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"},"AWS Firewall per Throughput":{"rateCode":"DUNCV285YHHZX8SF.JRTCKXETXF.6YS6EN2CT7","price":"0.0650000000","RegionlessRateCode":"-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"},"AWS Firewall per Endpoint":{"rateCode":"CWTZWA8K9VDUWMK7.JRTCKXETXF.6YS6EN2CT7","price":"0.3950000000","RegionlessRateCode":"-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"},"AWS Firewall per Endpoint-Advanced":{"rateCode":"UJR6GAUCJHZFEKPK.JRTCKXETXF.6YS6EN2CT7","price":"1.0950000000","RegionlessRateCode":"YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"},"AWS Firewall per Throughput-Advanced":{"rateCode":"2QZGTPAUJYQ8PBD2.JRTCKXETXF.6YS6EN2CT7","price":"0.0050000000","RegionlessRateCode":"eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"}},"Asia Pacific (Thailand)":{"-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY":{"rateCode":"TRHRAS3G7JFCJZSA.JRTCKXETXF.6YS6EN2CT7","price":"0.0650000000","RegionlessRateCode":"-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"},"-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo":{"rateCode":"YHGGAWA52UPUTCBN.JRTCKXETXF.6YS6EN2CT7","price":"0.6600000000","RegionlessRateCode":"-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"},"YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw":{"rateCode":"TBDJ4KHS86MGH755.JRTCKXETXF.6YS6EN2CT7","price":"0.6400000000","RegionlessRateCode":"YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"},"eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y":{"rateCode":"SS6VH8M5ZJ6T8G3V.JRTCKXETXF.6YS6EN2CT7","price":"0.0000000000","RegionlessRateCode":"eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"},"AWS Firewall per Throughput":{"rateCode":"TRHRAS3G7JFCJZSA.JRTCKXETXF.6YS6EN2CT7","price":"0.0650000000","RegionlessRateCode":"-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"},"AWS Firewall per Endpoint":{"rateCode":"YHGGAWA52UPUTCBN.JRTCKXETXF.6YS6EN2CT7","price":"0.6600000000","RegionlessRateCode":"-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"},"AWS Firewall per Endpoint-Advanced":{"rateCode":"TBDJ4KHS86MGH755.JRTCKXETXF.6YS6EN2CT7","price":"0.6400000000","RegionlessRateCode":"YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"},"AWS Firewall per Throughput-Advanced":{"rateCode":"SS6VH8M5ZJ6T8G3V.JRTCKXETXF.6YS6EN2CT7","price":"0.0000000000","RegionlessRateCode":"eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"}},"Asia Pacific (Sydney)":{"-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY":{"rateCode":"WDFFDWTXJPK82JGU.JRTCKXETXF.6YS6EN2CT7","price":"0.0650000000","RegionlessRateCode":"-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"},"-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo":{"rateCode":"57R829NNRPT43VWX.JRTCKXETXF.6YS6EN2CT7","price":"0.3950000000","RegionlessRateCode":"-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"},"YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw":{"rateCode":"EF5QHNJ845FPXC56.JRTCKXETXF.6YS6EN2CT7","price":"0.7110000000","RegionlessRateCode":"YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"},"eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y":{"rateCode":"MVKXTXKUSYQBCX4P.JRTCKXETXF.6YS6EN2CT7","price":"0.0090000000","RegionlessRateCode":"eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"},"AWS Firewall per Throughput":{"rateCode":"WDFFDWTXJPK82JGU.JRTCKXETXF.6YS6EN2CT7","price":"0.0650000000","RegionlessRateCode":"-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"},"AWS Firewall per Endpoint":{"rateCode":"57R829NNRPT43VWX.JRTCKXETXF.6YS6EN2CT7","price":"0.3950000000","RegionlessRateCode":"-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"},"AWS Firewall per Endpoint-Advanced":{"rateCode":"EF5QHNJ845FPXC56.JRTCKXETXF.6YS6EN2CT7","price":"0.7110000000","RegionlessRateCode":"YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"},"AWS Firewall per Throughput-Advanced":{"rateCode":"MVKXTXKUSYQBCX4P.JRTCKXETXF.6YS6EN2CT7","price":"0.0090000000","RegionlessRateCode":"eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"}},"Asia Pacific (Singapore)":{"-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY":{"rateCode":"49RWYTFD4SCV3GXE.JRTCKXETXF.6YS6EN2CT7","price":"0.0650000000","RegionlessRateCode":"-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"},"-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo":{"rateCode":"C7R4A7MZX8G247PF.JRTCKXETXF.6YS6EN2CT7","price":"0.3950000000","RegionlessRateCode":"-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"},"YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw":{"rateCode":"A7DS32NYEDHRM2QF.JRTCKXETXF.6YS6EN2CT7","price":"0.8720000000","RegionlessRateCode":"YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"},"eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y":{"rateCode":"8MJQBKV3ENQGZZ5P.JRTCKXETXF.6YS6EN2CT7","price":"0.0090000000","RegionlessRateCode":"eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"},"AWS Firewall per Throughput":{"rateCode":"49RWYTFD4SCV3GXE.JRTCKXETXF.6YS6EN2CT7","price":"0.0650000000","RegionlessRateCode":"-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"},"AWS Firewall per Endpoint":{"rateCode":"C7R4A7MZX8G247PF.JRTCKXETXF.6YS6EN2CT7","price":"0.3950000000","RegionlessRateCode":"-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"},"AWS Firewall per Endpoint-Advanced":{"rateCode":"A7DS32NYEDHRM2QF.JRTCKXETXF.6YS6EN2CT7","price":"0.8720000000","RegionlessRateCode":"YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"},"AWS Firewall per Throughput-Advanced":{"rateCode":"8MJQBKV3ENQGZZ5P.JRTCKXETXF.6YS6EN2CT7","price":"0.0090000000","RegionlessRateCode":"eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"}},"Asia Pacific (Seoul)":{"-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY":{"rateCode":"EAJEYKG3T3VJJ8X3.JRTCKXETXF.6YS6EN2CT7","price":"0.0650000000","RegionlessRateCode":"-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"},"-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo":{"rateCode":"C3FQTGX5TSHAUU79.JRTCKXETXF.6YS6EN2CT7","price":"0.3950000000","RegionlessRateCode":"-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"},"YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw":{"rateCode":"FHVQVZFDJRKUDWAF.JRTCKXETXF.6YS6EN2CT7","price":"0.7920000000","RegionlessRateCode":"YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"},"eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y":{"rateCode":"DWHN6BWDAVKZMBR8.JRTCKXETXF.6YS6EN2CT7","price":"0.0090000000","RegionlessRateCode":"eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"},"AWS Firewall per Throughput":{"rateCode":"EAJEYKG3T3VJJ8X3.JRTCKXETXF.6YS6EN2CT7","price":"0.0650000000","RegionlessRateCode":"-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"},"AWS Firewall per Endpoint":{"rateCode":"C3FQTGX5TSHAUU79.JRTCKXETXF.6YS6EN2CT7","price":"0.3950000000","RegionlessRateCode":"-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"},"AWS Firewall per Endpoint-Advanced":{"rateCode":"FHVQVZFDJRKUDWAF.JRTCKXETXF.6YS6EN2CT7","price":"0.7920000000","RegionlessRateCode":"YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"},"AWS Firewall per Throughput-Advanced":{"rateCode":"DWHN6BWDAVKZMBR8.JRTCKXETXF.6YS6EN2CT7","price":"0.0090000000","RegionlessRateCode":"eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"}},"Asia Pacific (Osaka)":{"-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY":{"rateCode":"YRS2TMPMHP4H5945.JRTCKXETXF.6YS6EN2CT7","price":"0.0650000000","RegionlessRateCode":"-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"},"-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo":{"rateCode":"JPT5FMT6V4PG3VQX.JRTCKXETXF.6YS6EN2CT7","price":"0.3950000000","RegionlessRateCode":"-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"},"YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw":{"rateCode":"3Y8PAHFZTD7K84KY.JRTCKXETXF.6YS6EN2CT7","price":"1.0950000000","RegionlessRateCode":"YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"},"eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y":{"rateCode":"45CZ5DKVA96PQG3J.JRTCKXETXF.6YS6EN2CT7","price":"0.0050000000","RegionlessRateCode":"eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"},"AWS Firewall per Throughput":{"rateCode":"YRS2TMPMHP4H5945.JRTCKXETXF.6YS6EN2CT7","price":"0.0650000000","RegionlessRateCode":"-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"},"AWS Firewall per Endpoint":{"rateCode":"JPT5FMT6V4PG3VQX.JRTCKXETXF.6YS6EN2CT7","price":"0.3950000000","RegionlessRateCode":"-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"},"AWS Firewall per Endpoint-Advanced":{"rateCode":"3Y8PAHFZTD7K84KY.JRTCKXETXF.6YS6EN2CT7","price":"1.0950000000","RegionlessRateCode":"YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"},"AWS Firewall per Throughput-Advanced":{"rateCode":"45CZ5DKVA96PQG3J.JRTCKXETXF.6YS6EN2CT7","price":"0.0050000000","RegionlessRateCode":"eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"}},"Asia Pacific (Mumbai)":{"-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY":{"rateCode":"6UZ9EWR5Q34MTVFV.JRTCKXETXF.6YS6EN2CT7","price":"0.0650000000","RegionlessRateCode":"-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"},"-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo":{"rateCode":"3SH8H74BPZWHW5D7.JRTCKXETXF.6YS6EN2CT7","price":"0.3950000000","RegionlessRateCode":"-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"},"YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw":{"rateCode":"H24FZBG8VRNFR2QS.JRTCKXETXF.6YS6EN2CT7","price":"0.3800000000","RegionlessRateCode":"YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"},"eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y":{"rateCode":"QJ96RVJHFQ9A6GXF.JRTCKXETXF.6YS6EN2CT7","price":"0.0050000000","RegionlessRateCode":"eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"},"AWS Firewall per Throughput":{"rateCode":"6UZ9EWR5Q34MTVFV.JRTCKXETXF.6YS6EN2CT7","price":"0.0650000000","RegionlessRateCode":"-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"},"AWS Firewall per Endpoint":{"rateCode":"3SH8H74BPZWHW5D7.JRTCKXETXF.6YS6EN2CT7","price":"0.3950000000","RegionlessRateCode":"-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"},"AWS Firewall per Endpoint-Advanced":{"rateCode":"H24FZBG8VRNFR2QS.JRTCKXETXF.6YS6EN2CT7","price":"0.3800000000","RegionlessRateCode":"YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"},"AWS Firewall per Throughput-Advanced":{"rateCode":"QJ96RVJHFQ9A6GXF.JRTCKXETXF.6YS6EN2CT7","price":"0.0050000000","RegionlessRateCode":"eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"}},"Asia Pacific (Melbourne)":{"-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY":{"rateCode":"8XK3BG5UJUPNN7U8.JRTCKXETXF.6YS6EN2CT7","price":"0.0650000000","RegionlessRateCode":"-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"},"-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo":{"rateCode":"E22DK4YQUYRYJ56E.JRTCKXETXF.6YS6EN2CT7","price":"0.7050000000","RegionlessRateCode":"-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"},"YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw":{"rateCode":"U3RDA3JCPYCAJB8M.JRTCKXETXF.6YS6EN2CT7","price":"0.4010000000","RegionlessRateCode":"YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"},"eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y":{"rateCode":"DWRT577Y3HU9XWVC.JRTCKXETXF.6YS6EN2CT7","price":"0.0090000000","RegionlessRateCode":"eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"},"AWS Firewall per Throughput":{"rateCode":"8XK3BG5UJUPNN7U8.JRTCKXETXF.6YS6EN2CT7","price":"0.0650000000","RegionlessRateCode":"-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"},"AWS Firewall per Endpoint":{"rateCode":"E22DK4YQUYRYJ56E.JRTCKXETXF.6YS6EN2CT7","price":"0.7050000000","RegionlessRateCode":"-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"},"AWS Firewall per Endpoint-Advanced":{"rateCode":"U3RDA3JCPYCAJB8M.JRTCKXETXF.6YS6EN2CT7","price":"0.4010000000","RegionlessRateCode":"YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"},"AWS Firewall per Throughput-Advanced":{"rateCode":"DWRT577Y3HU9XWVC.JRTCKXETXF.6YS6EN2CT7","price":"0.0090000000","RegionlessRateCode":"eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"}},"Asia Pacific (Malaysia)":{"-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY":{"rateCode":"Q7MCYM85CS7ATNAC.JRTCKXETXF.6YS6EN2CT7","price":"0.0650000000","RegionlessRateCode":"-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"},"-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo":{"rateCode":"DEYABGQCSTGN3SHG.JRTCKXETXF.6YS6EN2CT7","price":"0.6600000000","RegionlessRateCode":"-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"},"YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw":{"rateCode":"P6XN4NAVN7QTCJ6Z.JRTCKXETXF.6YS6EN2CT7","price":"0.6400000000","RegionlessRateCode":"YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"},"eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y":{"rateCode":"WEA5972VGC47XKDF.JRTCKXETXF.6YS6EN2CT7","price":"0.0000000000","RegionlessRateCode":"eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"},"AWS Firewall per Throughput":{"rateCode":"Q7MCYM85CS7ATNAC.JRTCKXETXF.6YS6EN2CT7","price":"0.0650000000","RegionlessRateCode":"-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"},"AWS Firewall per Endpoint":{"rateCode":"DEYABGQCSTGN3SHG.JRTCKXETXF.6YS6EN2CT7","price":"0.6600000000","RegionlessRateCode":"-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"},"AWS Firewall per Endpoint-Advanced":{"rateCode":"P6XN4NAVN7QTCJ6Z.JRTCKXETXF.6YS6EN2CT7","price":"0.6400000000","RegionlessRateCode":"YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"},"AWS Firewall per Throughput-Advanced":{"rateCode":"WEA5972VGC47XKDF.JRTCKXETXF.6YS6EN2CT7","price":"0.0000000000","RegionlessRateCode":"eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"}},"Asia Pacific (Jakarta)":{"-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY":{"rateCode":"RKZG6P2PUTEZG9BT.JRTCKXETXF.6YS6EN2CT7","price":"0.0750000000","RegionlessRateCode":"-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"},"-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo":{"rateCode":"KDYZUCCDJSD5FTPZ.JRTCKXETXF.6YS6EN2CT7","price":"0.4850000000","RegionlessRateCode":"-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"},"YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw":{"rateCode":"D95HU6HNXUC7CXYV.JRTCKXETXF.6YS6EN2CT7","price":"0.5480000000","RegionlessRateCode":"YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"},"eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y":{"rateCode":"5TNSZEM75B45RNKJ.JRTCKXETXF.6YS6EN2CT7","price":"0.0000000000","RegionlessRateCode":"eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"},"AWS Firewall per Throughput":{"rateCode":"RKZG6P2PUTEZG9BT.JRTCKXETXF.6YS6EN2CT7","price":"0.0750000000","RegionlessRateCode":"-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"},"AWS Firewall per Endpoint":{"rateCode":"KDYZUCCDJSD5FTPZ.JRTCKXETXF.6YS6EN2CT7","price":"0.4850000000","RegionlessRateCode":"-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"},"AWS Firewall per Endpoint-Advanced":{"rateCode":"D95HU6HNXUC7CXYV.JRTCKXETXF.6YS6EN2CT7","price":"0.5480000000","RegionlessRateCode":"YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"},"AWS Firewall per Throughput-Advanced":{"rateCode":"5TNSZEM75B45RNKJ.JRTCKXETXF.6YS6EN2CT7","price":"0.0000000000","RegionlessRateCode":"eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"}},"Asia Pacific (Hyderabad)":{"-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY":{"rateCode":"E78YEHK3TXVQNXC9.JRTCKXETXF.6YS6EN2CT7","price":"0.0650000000","RegionlessRateCode":"-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"},"-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo":{"rateCode":"K95UP5DHSXJG4FAM.JRTCKXETXF.6YS6EN2CT7","price":"0.5350000000","RegionlessRateCode":"-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"},"YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw":{"rateCode":"G8VM4N5WSFUYYNCW.JRTCKXETXF.6YS6EN2CT7","price":"0.3800000000","RegionlessRateCode":"YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"},"eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y":{"rateCode":"RVYBYGKVDHZMF3E7.JRTCKXETXF.6YS6EN2CT7","price":"0.0000000000","RegionlessRateCode":"eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"},"AWS Firewall per Throughput":{"rateCode":"E78YEHK3TXVQNXC9.JRTCKXETXF.6YS6EN2CT7","price":"0.0650000000","RegionlessRateCode":"-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"},"AWS Firewall per Endpoint":{"rateCode":"K95UP5DHSXJG4FAM.JRTCKXETXF.6YS6EN2CT7","price":"0.5350000000","RegionlessRateCode":"-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"},"AWS Firewall per Endpoint-Advanced":{"rateCode":"G8VM4N5WSFUYYNCW.JRTCKXETXF.6YS6EN2CT7","price":"0.3800000000","RegionlessRateCode":"YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"},"AWS Firewall per Throughput-Advanced":{"rateCode":"RVYBYGKVDHZMF3E7.JRTCKXETXF.6YS6EN2CT7","price":"0.0000000000","RegionlessRateCode":"eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"}},"Asia Pacific (Hong Kong)":{"-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY":{"rateCode":"3SSUX54Q9MVYYXKV.JRTCKXETXF.6YS6EN2CT7","price":"0.0650000000","RegionlessRateCode":"-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"},"-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo":{"rateCode":"6SBJ848K5ZFU5FMS.JRTCKXETXF.6YS6EN2CT7","price":"0.3950000000","RegionlessRateCode":"-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"},"YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw":{"rateCode":"3CBHMZ6DUKMK26SA.JRTCKXETXF.6YS6EN2CT7","price":"1.0250000000","RegionlessRateCode":"YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"},"eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y":{"rateCode":"MPBU5GRY3Z2UXE7V.JRTCKXETXF.6YS6EN2CT7","price":"0.0050000000","RegionlessRateCode":"eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"},"AWS Firewall per Throughput":{"rateCode":"3SSUX54Q9MVYYXKV.JRTCKXETXF.6YS6EN2CT7","price":"0.0650000000","RegionlessRateCode":"-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"},"AWS Firewall per Endpoint":{"rateCode":"6SBJ848K5ZFU5FMS.JRTCKXETXF.6YS6EN2CT7","price":"0.3950000000","RegionlessRateCode":"-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"},"AWS Firewall per Endpoint-Advanced":{"rateCode":"3CBHMZ6DUKMK26SA.JRTCKXETXF.6YS6EN2CT7","price":"1.0250000000","RegionlessRateCode":"YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"},"AWS Firewall per Throughput-Advanced":{"rateCode":"MPBU5GRY3Z2UXE7V.JRTCKXETXF.6YS6EN2CT7","price":"0.0050000000","RegionlessRateCode":"eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"}},"Africa (Cape Town)":{"-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY":{"rateCode":"66J9GBTHHRWC5DEP.JRTCKXETXF.6YS6EN2CT7","price":"0.0650000000","RegionlessRateCode":"-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"},"-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo":{"rateCode":"6CM7YVCQTD8QU5CW.JRTCKXETXF.6YS6EN2CT7","price":"0.3950000000","RegionlessRateCode":"-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"},"YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw":{"rateCode":"VRS9FNQQD27T8R9X.JRTCKXETXF.6YS6EN2CT7","price":"0.3800000000","RegionlessRateCode":"YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"},"eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y":{"rateCode":"NMRVMY86NXG5N25H.JRTCKXETXF.6YS6EN2CT7","price":"0.0060000000","RegionlessRateCode":"eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"},"AWS Firewall per Throughput":{"rateCode":"66J9GBTHHRWC5DEP.JRTCKXETXF.6YS6EN2CT7","price":"0.0650000000","RegionlessRateCode":"-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"},"AWS Firewall per Endpoint":{"rateCode":"6CM7YVCQTD8QU5CW.JRTCKXETXF.6YS6EN2CT7","price":"0.3950000000","RegionlessRateCode":"-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"},"AWS Firewall per Endpoint-Advanced":{"rateCode":"VRS9FNQQD27T8R9X.JRTCKXETXF.6YS6EN2CT7","price":"0.3800000000","RegionlessRateCode":"YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"},"AWS Firewall per Throughput-Advanced":{"rateCode":"NMRVMY86NXG5N25H.JRTCKXETXF.6YS6EN2CT7","price":"0.0060000000","RegionlessRateCode":"eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"}},"AWS GovCloud (US-East)":{"-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY":{"rateCode":"6B9KVJHQDTJKRMGK.JRTCKXETXF.6YS6EN2CT7","price":"0.0780000000","RegionlessRateCode":"-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"},"-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo":{"rateCode":"RAZBS7DE5QDHXEB3.JRTCKXETXF.6YS6EN2CT7","price":"0.4740000000","RegionlessRateCode":"-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"},"YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw":{"rateCode":"Q223AQQY9H4GT7J3.JRTCKXETXF.6YS6EN2CT7","price":"0.9370000000","RegionlessRateCode":"YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"},"eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y":{"rateCode":"KJJJ7KYH7VQEWYBN.JRTCKXETXF.6YS6EN2CT7","price":"0.0000000000","RegionlessRateCode":"eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"},"AWS Firewall per Throughput":{"rateCode":"6B9KVJHQDTJKRMGK.JRTCKXETXF.6YS6EN2CT7","price":"0.0780000000","RegionlessRateCode":"-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"},"AWS Firewall per Endpoint":{"rateCode":"RAZBS7DE5QDHXEB3.JRTCKXETXF.6YS6EN2CT7","price":"0.4740000000","RegionlessRateCode":"-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"},"AWS Firewall per Endpoint-Advanced":{"rateCode":"Q223AQQY9H4GT7J3.JRTCKXETXF.6YS6EN2CT7","price":"0.9370000000","RegionlessRateCode":"YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"},"AWS Firewall per Throughput-Advanced":{"rateCode":"KJJJ7KYH7VQEWYBN.JRTCKXETXF.6YS6EN2CT7","price":"0.0000000000","RegionlessRateCode":"eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"}},"AWS GovCloud (US)":{"-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY":{"rateCode":"2BVHZKAKCVSSPNE9.JRTCKXETXF.6YS6EN2CT7","price":"0.0780000000","RegionlessRateCode":"-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"},"-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo":{"rateCode":"QSTH7KRUMSHNK5SK.JRTCKXETXF.6YS6EN2CT7","price":"0.4740000000","RegionlessRateCode":"-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"},"YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw":{"rateCode":"3GQ8B2JP9FCYPKDK.JRTCKXETXF.6YS6EN2CT7","price":"0.7590000000","RegionlessRateCode":"YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"},"eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y":{"rateCode":"W6XZ839QYAXH2YA5.JRTCKXETXF.6YS6EN2CT7","price":"0.0000000000","RegionlessRateCode":"eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"},"AWS Firewall per Throughput":{"rateCode":"2BVHZKAKCVSSPNE9.JRTCKXETXF.6YS6EN2CT7","price":"0.0780000000","RegionlessRateCode":"-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"},"AWS Firewall per Endpoint":{"rateCode":"QSTH7KRUMSHNK5SK.JRTCKXETXF.6YS6EN2CT7","price":"0.4740000000","RegionlessRateCode":"-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"},"AWS Firewall per Endpoint-Advanced":{"rateCode":"3GQ8B2JP9FCYPKDK.JRTCKXETXF.6YS6EN2CT7","price":"0.7590000000","RegionlessRateCode":"YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"},"AWS Firewall per Throughput-Advanced":{"rateCode":"W6XZ839QYAXH2YA5.JRTCKXETXF.6YS6EN2CT7","price":"0.0000000000","RegionlessRateCode":"eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"}}}}
+{
+    "manifest": {
+        "serviceId": "networkfirewall",
+        "accessType": "publish",
+        "esIndex": "plc-networkfirewall-usd-20250327151811",
+        "hawkFilePublicationDate": "2025-03-26T21:09:20Z",
+        "ETLIngestionTriggerDate": "2025-03-27T15:18:11Z",
+        "currencyCode": "USD",
+        "source": "networkfirewall",
+        "isMapped": "true"
+    },
+    "sets": {},
+    "regions": {
+        "US West (Oregon)": {
+            "-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY": {
+                "rateCode": "GX2FKXFZXPXCDS2W.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0650000000",
+                "RegionlessRateCode": "-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"
+            },
+            "-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo": {
+                "rateCode": "WWS5YKUZVM6E8TUF.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.3950000000",
+                "RegionlessRateCode": "-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"
+            },
+            "YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw": {
+                "rateCode": "KM8GNEW72P2ZE3K5.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.3800000000",
+                "RegionlessRateCode": "YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"
+            },
+            "eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y": {
+                "rateCode": "2T6C9M8239WWC24W.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"
+            },
+            "AWS Firewall per Throughput": {
+                "rateCode": "GX2FKXFZXPXCDS2W.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0650000000",
+                "RegionlessRateCode": "-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"
+            },
+            "AWS Firewall per Endpoint": {
+                "rateCode": "WWS5YKUZVM6E8TUF.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.3950000000",
+                "RegionlessRateCode": "-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"
+            },
+            "AWS Firewall per Endpoint-Advanced": {
+                "rateCode": "KM8GNEW72P2ZE3K5.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.3800000000",
+                "RegionlessRateCode": "YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"
+            },
+            "AWS Firewall per Throughput-Advanced": {
+                "rateCode": "2T6C9M8239WWC24W.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"
+            }
+        },
+        "US West (N. California)": {
+            "-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY": {
+                "rateCode": "6KJCXXWHFGQ6N3VY.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0650000000",
+                "RegionlessRateCode": "-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"
+            },
+            "-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo": {
+                "rateCode": "W2CQ2AMYY8UCMSTM.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.3950000000",
+                "RegionlessRateCode": "-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"
+            },
+            "YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw": {
+                "rateCode": "D3ZJK36N45ASJVQ3.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.0550000000",
+                "RegionlessRateCode": "YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"
+            },
+            "eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y": {
+                "rateCode": "JKYYHCAFQRMT6KUT.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0050000000",
+                "RegionlessRateCode": "eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"
+            },
+            "AWS Firewall per Throughput": {
+                "rateCode": "6KJCXXWHFGQ6N3VY.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0650000000",
+                "RegionlessRateCode": "-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"
+            },
+            "AWS Firewall per Endpoint": {
+                "rateCode": "W2CQ2AMYY8UCMSTM.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.3950000000",
+                "RegionlessRateCode": "-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"
+            },
+            "AWS Firewall per Endpoint-Advanced": {
+                "rateCode": "D3ZJK36N45ASJVQ3.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.0550000000",
+                "RegionlessRateCode": "YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"
+            },
+            "AWS Firewall per Throughput-Advanced": {
+                "rateCode": "JKYYHCAFQRMT6KUT.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0050000000",
+                "RegionlessRateCode": "eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"
+            }
+        },
+        "US East (Ohio)": {
+            "-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY": {
+                "rateCode": "6DR286TAGDU5M9BR.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0650000000",
+                "RegionlessRateCode": "-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"
+            },
+            "-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo": {
+                "rateCode": "952WEAEH3PRJYHH9.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.3950000000",
+                "RegionlessRateCode": "-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"
+            },
+            "YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw": {
+                "rateCode": "8R9VM4SZR9HXF8XN.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.3800000000",
+                "RegionlessRateCode": "YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"
+            },
+            "eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y": {
+                "rateCode": "WXVK7PJCGYRSFMTQ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"
+            },
+            "AWS Firewall per Throughput": {
+                "rateCode": "6DR286TAGDU5M9BR.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0650000000",
+                "RegionlessRateCode": "-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"
+            },
+            "AWS Firewall per Endpoint": {
+                "rateCode": "952WEAEH3PRJYHH9.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.3950000000",
+                "RegionlessRateCode": "-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"
+            },
+            "AWS Firewall per Endpoint-Advanced": {
+                "rateCode": "8R9VM4SZR9HXF8XN.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.3800000000",
+                "RegionlessRateCode": "YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"
+            },
+            "AWS Firewall per Throughput-Advanced": {
+                "rateCode": "WXVK7PJCGYRSFMTQ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"
+            }
+        },
+        "US East (N. Virginia)": {
+            "-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY": {
+                "rateCode": "XV96EJWPVQM4WXNF.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0650000000",
+                "RegionlessRateCode": "-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"
+            },
+            "-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo": {
+                "rateCode": "HANDG4QVMZC2NMJY.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.3950000000",
+                "RegionlessRateCode": "-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"
+            },
+            "YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw": {
+                "rateCode": "M2YB3S9RC6PQZW4H.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.3800000000",
+                "RegionlessRateCode": "YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"
+            },
+            "eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y": {
+                "rateCode": "2S7HKK9N3AYGCJKB.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"
+            },
+            "AWS Firewall per Throughput": {
+                "rateCode": "XV96EJWPVQM4WXNF.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0650000000",
+                "RegionlessRateCode": "-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"
+            },
+            "AWS Firewall per Endpoint": {
+                "rateCode": "HANDG4QVMZC2NMJY.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.3950000000",
+                "RegionlessRateCode": "-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"
+            },
+            "AWS Firewall per Endpoint-Advanced": {
+                "rateCode": "M2YB3S9RC6PQZW4H.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.3800000000",
+                "RegionlessRateCode": "YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"
+            },
+            "AWS Firewall per Throughput-Advanced": {
+                "rateCode": "2S7HKK9N3AYGCJKB.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"
+            }
+        },
+        "South America (Sao Paulo)": {
+            "-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY": {
+                "rateCode": "XBRSBBXPAFPFN9J7.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0650000000",
+                "RegionlessRateCode": "-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"
+            },
+            "-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo": {
+                "rateCode": "85TQG63VPVZP8VFV.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.3950000000",
+                "RegionlessRateCode": "-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"
+            },
+            "YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw": {
+                "rateCode": "NHH6QWDY5G7M8N6R.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.1550000000",
+                "RegionlessRateCode": "YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"
+            },
+            "eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y": {
+                "rateCode": "6YSH968FPARJWCVC.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0050000000",
+                "RegionlessRateCode": "eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"
+            },
+            "AWS Firewall per Throughput": {
+                "rateCode": "XBRSBBXPAFPFN9J7.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0650000000",
+                "RegionlessRateCode": "-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"
+            },
+            "AWS Firewall per Endpoint": {
+                "rateCode": "85TQG63VPVZP8VFV.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.3950000000",
+                "RegionlessRateCode": "-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"
+            },
+            "AWS Firewall per Endpoint-Advanced": {
+                "rateCode": "NHH6QWDY5G7M8N6R.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.1550000000",
+                "RegionlessRateCode": "YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"
+            },
+            "AWS Firewall per Throughput-Advanced": {
+                "rateCode": "6YSH968FPARJWCVC.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0050000000",
+                "RegionlessRateCode": "eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"
+            }
+        },
+        "Middle East (UAE)": {
+            "-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY": {
+                "rateCode": "U4EZT6GK6V9PBMZT.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0650000000",
+                "RegionlessRateCode": "-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"
+            },
+            "-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo": {
+                "rateCode": "KCPB42F2GB2SUZFT.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.4150000000",
+                "RegionlessRateCode": "-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"
+            },
+            "YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw": {
+                "rateCode": "4E5XWBRTW3GZBX6C.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.3600000000",
+                "RegionlessRateCode": "YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"
+            },
+            "eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y": {
+                "rateCode": "RVS7JSRJ8BQE25HP.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"
+            },
+            "AWS Firewall per Throughput": {
+                "rateCode": "U4EZT6GK6V9PBMZT.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0650000000",
+                "RegionlessRateCode": "-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"
+            },
+            "AWS Firewall per Endpoint": {
+                "rateCode": "KCPB42F2GB2SUZFT.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.4150000000",
+                "RegionlessRateCode": "-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"
+            },
+            "AWS Firewall per Endpoint-Advanced": {
+                "rateCode": "4E5XWBRTW3GZBX6C.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.3600000000",
+                "RegionlessRateCode": "YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"
+            },
+            "AWS Firewall per Throughput-Advanced": {
+                "rateCode": "RVS7JSRJ8BQE25HP.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"
+            }
+        },
+        "Middle East (Bahrain)": {
+            "-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY": {
+                "rateCode": "BVN4ZMJYHHAA3YFE.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0650000000",
+                "RegionlessRateCode": "-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"
+            },
+            "-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo": {
+                "rateCode": "PFQDGQPNPNEPA7RJ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.3950000000",
+                "RegionlessRateCode": "-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"
+            },
+            "YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw": {
+                "rateCode": "HWQ84HZPMU2NXY75.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.3800000000",
+                "RegionlessRateCode": "YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"
+            },
+            "eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y": {
+                "rateCode": "ZD2CBGW55QBJPUQ5.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0010000000",
+                "RegionlessRateCode": "eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"
+            },
+            "AWS Firewall per Throughput": {
+                "rateCode": "BVN4ZMJYHHAA3YFE.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0650000000",
+                "RegionlessRateCode": "-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"
+            },
+            "AWS Firewall per Endpoint": {
+                "rateCode": "PFQDGQPNPNEPA7RJ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.3950000000",
+                "RegionlessRateCode": "-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"
+            },
+            "AWS Firewall per Endpoint-Advanced": {
+                "rateCode": "HWQ84HZPMU2NXY75.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.3800000000",
+                "RegionlessRateCode": "YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"
+            },
+            "AWS Firewall per Throughput-Advanced": {
+                "rateCode": "ZD2CBGW55QBJPUQ5.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0010000000",
+                "RegionlessRateCode": "eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"
+            }
+        },
+        "Mexico (Central)": {
+            "-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY": {
+                "rateCode": "U22RWZNSHJGHXMSD.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0650000000",
+                "RegionlessRateCode": "-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"
+            },
+            "-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo": {
+                "rateCode": "EKP593ZKTFP3922A.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.5850000000",
+                "RegionlessRateCode": "-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"
+            },
+            "YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw": {
+                "rateCode": "ZNBM2HD36YTVZEKJ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.3800000000",
+                "RegionlessRateCode": "YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"
+            },
+            "eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y": {
+                "rateCode": "6852ETSBP8NEGUSP.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"
+            },
+            "AWS Firewall per Throughput": {
+                "rateCode": "U22RWZNSHJGHXMSD.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0650000000",
+                "RegionlessRateCode": "-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"
+            },
+            "AWS Firewall per Endpoint": {
+                "rateCode": "EKP593ZKTFP3922A.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.5850000000",
+                "RegionlessRateCode": "-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"
+            },
+            "AWS Firewall per Endpoint-Advanced": {
+                "rateCode": "ZNBM2HD36YTVZEKJ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.3800000000",
+                "RegionlessRateCode": "YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"
+            },
+            "AWS Firewall per Throughput-Advanced": {
+                "rateCode": "6852ETSBP8NEGUSP.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"
+            }
+        },
+        "Israel (Tel Aviv)": {
+            "-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY": {
+                "rateCode": "KKHDZDDGV77AJ8CF.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0650000000",
+                "RegionlessRateCode": "-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"
+            },
+            "-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo": {
+                "rateCode": "4VHFEDHCC463FCF9.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.5650000000",
+                "RegionlessRateCode": "-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"
+            },
+            "YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw": {
+                "rateCode": "V9MNVNZH48HU22V5.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.3600000000",
+                "RegionlessRateCode": "YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"
+            },
+            "eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y": {
+                "rateCode": "E3BTP9KE5XJEQ689.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"
+            },
+            "AWS Firewall per Throughput": {
+                "rateCode": "KKHDZDDGV77AJ8CF.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0650000000",
+                "RegionlessRateCode": "-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"
+            },
+            "AWS Firewall per Endpoint": {
+                "rateCode": "4VHFEDHCC463FCF9.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.5650000000",
+                "RegionlessRateCode": "-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"
+            },
+            "AWS Firewall per Endpoint-Advanced": {
+                "rateCode": "V9MNVNZH48HU22V5.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.3600000000",
+                "RegionlessRateCode": "YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"
+            },
+            "AWS Firewall per Throughput-Advanced": {
+                "rateCode": "E3BTP9KE5XJEQ689.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"
+            }
+        },
+        "EU (Zurich)": {
+            "-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY": {
+                "rateCode": "ZVVRE4372SYHDB5K.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0750000000",
+                "RegionlessRateCode": "-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"
+            },
+            "-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo": {
+                "rateCode": "QTPUTZD5YC3M7359.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.0750000000",
+                "RegionlessRateCode": "-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"
+            },
+            "YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw": {
+                "rateCode": "DQ4Z8VCA72FCDWFR.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.3800000000",
+                "RegionlessRateCode": "YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"
+            },
+            "eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y": {
+                "rateCode": "9XKRV5H96AP279P8.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"
+            },
+            "AWS Firewall per Throughput": {
+                "rateCode": "ZVVRE4372SYHDB5K.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0750000000",
+                "RegionlessRateCode": "-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"
+            },
+            "AWS Firewall per Endpoint": {
+                "rateCode": "QTPUTZD5YC3M7359.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.0750000000",
+                "RegionlessRateCode": "-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"
+            },
+            "AWS Firewall per Endpoint-Advanced": {
+                "rateCode": "DQ4Z8VCA72FCDWFR.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.3800000000",
+                "RegionlessRateCode": "YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"
+            },
+            "AWS Firewall per Throughput-Advanced": {
+                "rateCode": "9XKRV5H96AP279P8.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"
+            }
+        },
+        "EU (Stockholm)": {
+            "-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY": {
+                "rateCode": "S65VDRVMY6HW83S7.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0650000000",
+                "RegionlessRateCode": "-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"
+            },
+            "-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo": {
+                "rateCode": "UXY8P3Z53GARUATE.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.3950000000",
+                "RegionlessRateCode": "-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"
+            },
+            "YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw": {
+                "rateCode": "H8ZD82T9JN5WTP4T.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.5110000000",
+                "RegionlessRateCode": "YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"
+            },
+            "eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y": {
+                "rateCode": "C32W63599S9UX3ZB.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"
+            },
+            "AWS Firewall per Throughput": {
+                "rateCode": "S65VDRVMY6HW83S7.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0650000000",
+                "RegionlessRateCode": "-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"
+            },
+            "AWS Firewall per Endpoint": {
+                "rateCode": "UXY8P3Z53GARUATE.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.3950000000",
+                "RegionlessRateCode": "-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"
+            },
+            "AWS Firewall per Endpoint-Advanced": {
+                "rateCode": "H8ZD82T9JN5WTP4T.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.5110000000",
+                "RegionlessRateCode": "YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"
+            },
+            "AWS Firewall per Throughput-Advanced": {
+                "rateCode": "C32W63599S9UX3ZB.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"
+            }
+        },
+        "EU (Spain)": {
+            "-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY": {
+                "rateCode": "3ZMRRE7JA75VJC3F.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0650000000",
+                "RegionlessRateCode": "-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"
+            },
+            "-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo": {
+                "rateCode": "JAAFGN7D7MN7C2PC.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.3950000000",
+                "RegionlessRateCode": "-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"
+            },
+            "YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw": {
+                "rateCode": "MRXGVMHN7XASG3XY.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.3800000000",
+                "RegionlessRateCode": "YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"
+            },
+            "eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y": {
+                "rateCode": "2VRHG98PTX7Q9B5Y.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"
+            },
+            "AWS Firewall per Throughput": {
+                "rateCode": "3ZMRRE7JA75VJC3F.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0650000000",
+                "RegionlessRateCode": "-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"
+            },
+            "AWS Firewall per Endpoint": {
+                "rateCode": "JAAFGN7D7MN7C2PC.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.3950000000",
+                "RegionlessRateCode": "-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"
+            },
+            "AWS Firewall per Endpoint-Advanced": {
+                "rateCode": "MRXGVMHN7XASG3XY.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.3800000000",
+                "RegionlessRateCode": "YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"
+            },
+            "AWS Firewall per Throughput-Advanced": {
+                "rateCode": "2VRHG98PTX7Q9B5Y.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"
+            }
+        },
+        "EU (Paris)": {
+            "-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY": {
+                "rateCode": "8VRNAQEMA7G4F6X5.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0650000000",
+                "RegionlessRateCode": "-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"
+            },
+            "-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo": {
+                "rateCode": "254XCDXGSMV3WVXC.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.3950000000",
+                "RegionlessRateCode": "-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"
+            },
+            "YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw": {
+                "rateCode": "FU4EJ5PRYEW6C492.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.5500000000",
+                "RegionlessRateCode": "YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"
+            },
+            "eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y": {
+                "rateCode": "52Q5V7PD9KJKQ6PJ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"
+            },
+            "AWS Firewall per Throughput": {
+                "rateCode": "8VRNAQEMA7G4F6X5.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0650000000",
+                "RegionlessRateCode": "-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"
+            },
+            "AWS Firewall per Endpoint": {
+                "rateCode": "254XCDXGSMV3WVXC.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.3950000000",
+                "RegionlessRateCode": "-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"
+            },
+            "AWS Firewall per Endpoint-Advanced": {
+                "rateCode": "FU4EJ5PRYEW6C492.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.5500000000",
+                "RegionlessRateCode": "YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"
+            },
+            "AWS Firewall per Throughput-Advanced": {
+                "rateCode": "52Q5V7PD9KJKQ6PJ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"
+            }
+        },
+        "EU (Milan)": {
+            "-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY": {
+                "rateCode": "X7EAFXUMRRQQH6VV.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0650000000",
+                "RegionlessRateCode": "-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"
+            },
+            "-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo": {
+                "rateCode": "GHW4Z2ZAMQDZW23X.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.3950000000",
+                "RegionlessRateCode": "-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"
+            },
+            "YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw": {
+                "rateCode": "PJ6DWB4JUZ7J7J49.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.1550000000",
+                "RegionlessRateCode": "YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"
+            },
+            "eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y": {
+                "rateCode": "68KSG4FMKVTQ665H.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0050000000",
+                "RegionlessRateCode": "eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"
+            },
+            "AWS Firewall per Throughput": {
+                "rateCode": "X7EAFXUMRRQQH6VV.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0650000000",
+                "RegionlessRateCode": "-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"
+            },
+            "AWS Firewall per Endpoint": {
+                "rateCode": "GHW4Z2ZAMQDZW23X.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.3950000000",
+                "RegionlessRateCode": "-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"
+            },
+            "AWS Firewall per Endpoint-Advanced": {
+                "rateCode": "PJ6DWB4JUZ7J7J49.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.1550000000",
+                "RegionlessRateCode": "YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"
+            },
+            "AWS Firewall per Throughput-Advanced": {
+                "rateCode": "68KSG4FMKVTQ665H.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0050000000",
+                "RegionlessRateCode": "eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"
+            }
+        },
+        "EU (London)": {
+            "-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY": {
+                "rateCode": "Y6BZ5VNEF74F2EAP.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0650000000",
+                "RegionlessRateCode": "-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"
+            },
+            "-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo": {
+                "rateCode": "NVAS6GPGBEEYUP6X.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.3950000000",
+                "RegionlessRateCode": "-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"
+            },
+            "YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw": {
+                "rateCode": "AYVV6Z95XG2XDVEK.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.1270000000",
+                "RegionlessRateCode": "YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"
+            },
+            "eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y": {
+                "rateCode": "F5SWDP9R7TRWNADC.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"
+            },
+            "AWS Firewall per Throughput": {
+                "rateCode": "Y6BZ5VNEF74F2EAP.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0650000000",
+                "RegionlessRateCode": "-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"
+            },
+            "AWS Firewall per Endpoint": {
+                "rateCode": "NVAS6GPGBEEYUP6X.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.3950000000",
+                "RegionlessRateCode": "-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"
+            },
+            "AWS Firewall per Endpoint-Advanced": {
+                "rateCode": "AYVV6Z95XG2XDVEK.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.1270000000",
+                "RegionlessRateCode": "YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"
+            },
+            "AWS Firewall per Throughput-Advanced": {
+                "rateCode": "F5SWDP9R7TRWNADC.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"
+            }
+        },
+        "EU (Ireland)": {
+            "-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY": {
+                "rateCode": "4RSP654W45TP5D7U.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0650000000",
+                "RegionlessRateCode": "-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"
+            },
+            "-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo": {
+                "rateCode": "7RY6A6RE9DGXC32Z.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.3950000000",
+                "RegionlessRateCode": "-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"
+            },
+            "YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw": {
+                "rateCode": "U7QGCFBYU3BCT7TP.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.4890000000",
+                "RegionlessRateCode": "YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"
+            },
+            "eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y": {
+                "rateCode": "AEZ3KFP85XDFU7D8.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"
+            },
+            "AWS Firewall per Throughput": {
+                "rateCode": "4RSP654W45TP5D7U.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0650000000",
+                "RegionlessRateCode": "-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"
+            },
+            "AWS Firewall per Endpoint": {
+                "rateCode": "7RY6A6RE9DGXC32Z.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.3950000000",
+                "RegionlessRateCode": "-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"
+            },
+            "AWS Firewall per Endpoint-Advanced": {
+                "rateCode": "U7QGCFBYU3BCT7TP.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.4890000000",
+                "RegionlessRateCode": "YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"
+            },
+            "AWS Firewall per Throughput-Advanced": {
+                "rateCode": "AEZ3KFP85XDFU7D8.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"
+            }
+        },
+        "EU (Frankfurt)": {
+            "-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY": {
+                "rateCode": "RZQF6VFUZQZPGBVM.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0650000000",
+                "RegionlessRateCode": "-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"
+            },
+            "-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo": {
+                "rateCode": "DWN2P22KS7H6SVZY.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.3950000000",
+                "RegionlessRateCode": "-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"
+            },
+            "YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw": {
+                "rateCode": "C2NCEKB6Q9FZQAHC.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.9260000000",
+                "RegionlessRateCode": "YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"
+            },
+            "eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y": {
+                "rateCode": "3YQ46RSVBAZPQDAH.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"
+            },
+            "AWS Firewall per Throughput": {
+                "rateCode": "RZQF6VFUZQZPGBVM.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0650000000",
+                "RegionlessRateCode": "-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"
+            },
+            "AWS Firewall per Endpoint": {
+                "rateCode": "DWN2P22KS7H6SVZY.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.3950000000",
+                "RegionlessRateCode": "-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"
+            },
+            "AWS Firewall per Endpoint-Advanced": {
+                "rateCode": "C2NCEKB6Q9FZQAHC.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.9260000000",
+                "RegionlessRateCode": "YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"
+            },
+            "AWS Firewall per Throughput-Advanced": {
+                "rateCode": "3YQ46RSVBAZPQDAH.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"
+            }
+        },
+        "Canada West (Calgary)": {
+            "-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY": {
+                "rateCode": "HQTN3ZD7HNNFJA2Z.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0650000000",
+                "RegionlessRateCode": "-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"
+            },
+            "-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo": {
+                "rateCode": "2K9M7JTRVU24SXFM.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.7050000000",
+                "RegionlessRateCode": "-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"
+            },
+            "YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw": {
+                "rateCode": "33HUG6KV5AT9M9FT.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.4300000000",
+                "RegionlessRateCode": "YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"
+            },
+            "eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y": {
+                "rateCode": "2ETBDXBV4JRMW7BX.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"
+            },
+            "AWS Firewall per Throughput": {
+                "rateCode": "HQTN3ZD7HNNFJA2Z.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0650000000",
+                "RegionlessRateCode": "-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"
+            },
+            "AWS Firewall per Endpoint": {
+                "rateCode": "2K9M7JTRVU24SXFM.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.7050000000",
+                "RegionlessRateCode": "-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"
+            },
+            "AWS Firewall per Endpoint-Advanced": {
+                "rateCode": "33HUG6KV5AT9M9FT.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.4300000000",
+                "RegionlessRateCode": "YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"
+            },
+            "AWS Firewall per Throughput-Advanced": {
+                "rateCode": "2ETBDXBV4JRMW7BX.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"
+            }
+        },
+        "Canada (Central)": {
+            "-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY": {
+                "rateCode": "NSHAFSJU7B3B3NWR.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0650000000",
+                "RegionlessRateCode": "-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"
+            },
+            "-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo": {
+                "rateCode": "2Y3BZ2S45MEG3GBJ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.3950000000",
+                "RegionlessRateCode": "-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"
+            },
+            "YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw": {
+                "rateCode": "BESU9DFK68VMKBVV.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.7120000000",
+                "RegionlessRateCode": "YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"
+            },
+            "eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y": {
+                "rateCode": "BU256RKFZMMCWDAM.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"
+            },
+            "AWS Firewall per Throughput": {
+                "rateCode": "NSHAFSJU7B3B3NWR.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0650000000",
+                "RegionlessRateCode": "-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"
+            },
+            "AWS Firewall per Endpoint": {
+                "rateCode": "2Y3BZ2S45MEG3GBJ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.3950000000",
+                "RegionlessRateCode": "-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"
+            },
+            "AWS Firewall per Endpoint-Advanced": {
+                "rateCode": "BESU9DFK68VMKBVV.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.7120000000",
+                "RegionlessRateCode": "YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"
+            },
+            "AWS Firewall per Throughput-Advanced": {
+                "rateCode": "BU256RKFZMMCWDAM.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"
+            }
+        },
+        "Asia Pacific (Tokyo)": {
+            "-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY": {
+                "rateCode": "DUNCV285YHHZX8SF.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0650000000",
+                "RegionlessRateCode": "-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"
+            },
+            "-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo": {
+                "rateCode": "CWTZWA8K9VDUWMK7.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.3950000000",
+                "RegionlessRateCode": "-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"
+            },
+            "YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw": {
+                "rateCode": "UJR6GAUCJHZFEKPK.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.0950000000",
+                "RegionlessRateCode": "YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"
+            },
+            "eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y": {
+                "rateCode": "2QZGTPAUJYQ8PBD2.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0050000000",
+                "RegionlessRateCode": "eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"
+            },
+            "AWS Firewall per Throughput": {
+                "rateCode": "DUNCV285YHHZX8SF.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0650000000",
+                "RegionlessRateCode": "-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"
+            },
+            "AWS Firewall per Endpoint": {
+                "rateCode": "CWTZWA8K9VDUWMK7.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.3950000000",
+                "RegionlessRateCode": "-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"
+            },
+            "AWS Firewall per Endpoint-Advanced": {
+                "rateCode": "UJR6GAUCJHZFEKPK.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.0950000000",
+                "RegionlessRateCode": "YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"
+            },
+            "AWS Firewall per Throughput-Advanced": {
+                "rateCode": "2QZGTPAUJYQ8PBD2.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0050000000",
+                "RegionlessRateCode": "eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"
+            }
+        },
+        "Asia Pacific (Thailand)": {
+            "-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY": {
+                "rateCode": "TRHRAS3G7JFCJZSA.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0650000000",
+                "RegionlessRateCode": "-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"
+            },
+            "-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo": {
+                "rateCode": "YHGGAWA52UPUTCBN.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.6600000000",
+                "RegionlessRateCode": "-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"
+            },
+            "YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw": {
+                "rateCode": "TBDJ4KHS86MGH755.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.6400000000",
+                "RegionlessRateCode": "YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"
+            },
+            "eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y": {
+                "rateCode": "SS6VH8M5ZJ6T8G3V.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"
+            },
+            "AWS Firewall per Throughput": {
+                "rateCode": "TRHRAS3G7JFCJZSA.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0650000000",
+                "RegionlessRateCode": "-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"
+            },
+            "AWS Firewall per Endpoint": {
+                "rateCode": "YHGGAWA52UPUTCBN.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.6600000000",
+                "RegionlessRateCode": "-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"
+            },
+            "AWS Firewall per Endpoint-Advanced": {
+                "rateCode": "TBDJ4KHS86MGH755.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.6400000000",
+                "RegionlessRateCode": "YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"
+            },
+            "AWS Firewall per Throughput-Advanced": {
+                "rateCode": "SS6VH8M5ZJ6T8G3V.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"
+            }
+        },
+        "Asia Pacific (Sydney)": {
+            "-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY": {
+                "rateCode": "WDFFDWTXJPK82JGU.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0650000000",
+                "RegionlessRateCode": "-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"
+            },
+            "-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo": {
+                "rateCode": "57R829NNRPT43VWX.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.3950000000",
+                "RegionlessRateCode": "-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"
+            },
+            "YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw": {
+                "rateCode": "EF5QHNJ845FPXC56.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.7110000000",
+                "RegionlessRateCode": "YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"
+            },
+            "eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y": {
+                "rateCode": "MVKXTXKUSYQBCX4P.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0090000000",
+                "RegionlessRateCode": "eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"
+            },
+            "AWS Firewall per Throughput": {
+                "rateCode": "WDFFDWTXJPK82JGU.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0650000000",
+                "RegionlessRateCode": "-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"
+            },
+            "AWS Firewall per Endpoint": {
+                "rateCode": "57R829NNRPT43VWX.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.3950000000",
+                "RegionlessRateCode": "-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"
+            },
+            "AWS Firewall per Endpoint-Advanced": {
+                "rateCode": "EF5QHNJ845FPXC56.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.7110000000",
+                "RegionlessRateCode": "YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"
+            },
+            "AWS Firewall per Throughput-Advanced": {
+                "rateCode": "MVKXTXKUSYQBCX4P.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0090000000",
+                "RegionlessRateCode": "eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"
+            }
+        },
+        "Asia Pacific (Singapore)": {
+            "-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY": {
+                "rateCode": "49RWYTFD4SCV3GXE.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0650000000",
+                "RegionlessRateCode": "-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"
+            },
+            "-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo": {
+                "rateCode": "C7R4A7MZX8G247PF.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.3950000000",
+                "RegionlessRateCode": "-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"
+            },
+            "YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw": {
+                "rateCode": "A7DS32NYEDHRM2QF.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.8720000000",
+                "RegionlessRateCode": "YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"
+            },
+            "eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y": {
+                "rateCode": "8MJQBKV3ENQGZZ5P.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0090000000",
+                "RegionlessRateCode": "eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"
+            },
+            "AWS Firewall per Throughput": {
+                "rateCode": "49RWYTFD4SCV3GXE.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0650000000",
+                "RegionlessRateCode": "-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"
+            },
+            "AWS Firewall per Endpoint": {
+                "rateCode": "C7R4A7MZX8G247PF.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.3950000000",
+                "RegionlessRateCode": "-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"
+            },
+            "AWS Firewall per Endpoint-Advanced": {
+                "rateCode": "A7DS32NYEDHRM2QF.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.8720000000",
+                "RegionlessRateCode": "YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"
+            },
+            "AWS Firewall per Throughput-Advanced": {
+                "rateCode": "8MJQBKV3ENQGZZ5P.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0090000000",
+                "RegionlessRateCode": "eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"
+            }
+        },
+        "Asia Pacific (Seoul)": {
+            "-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY": {
+                "rateCode": "EAJEYKG3T3VJJ8X3.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0650000000",
+                "RegionlessRateCode": "-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"
+            },
+            "-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo": {
+                "rateCode": "C3FQTGX5TSHAUU79.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.3950000000",
+                "RegionlessRateCode": "-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"
+            },
+            "YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw": {
+                "rateCode": "FHVQVZFDJRKUDWAF.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.7920000000",
+                "RegionlessRateCode": "YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"
+            },
+            "eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y": {
+                "rateCode": "DWHN6BWDAVKZMBR8.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0090000000",
+                "RegionlessRateCode": "eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"
+            },
+            "AWS Firewall per Throughput": {
+                "rateCode": "EAJEYKG3T3VJJ8X3.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0650000000",
+                "RegionlessRateCode": "-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"
+            },
+            "AWS Firewall per Endpoint": {
+                "rateCode": "C3FQTGX5TSHAUU79.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.3950000000",
+                "RegionlessRateCode": "-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"
+            },
+            "AWS Firewall per Endpoint-Advanced": {
+                "rateCode": "FHVQVZFDJRKUDWAF.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.7920000000",
+                "RegionlessRateCode": "YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"
+            },
+            "AWS Firewall per Throughput-Advanced": {
+                "rateCode": "DWHN6BWDAVKZMBR8.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0090000000",
+                "RegionlessRateCode": "eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"
+            }
+        },
+        "Asia Pacific (Osaka)": {
+            "-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY": {
+                "rateCode": "YRS2TMPMHP4H5945.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0650000000",
+                "RegionlessRateCode": "-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"
+            },
+            "-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo": {
+                "rateCode": "JPT5FMT6V4PG3VQX.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.3950000000",
+                "RegionlessRateCode": "-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"
+            },
+            "YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw": {
+                "rateCode": "3Y8PAHFZTD7K84KY.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.0950000000",
+                "RegionlessRateCode": "YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"
+            },
+            "eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y": {
+                "rateCode": "45CZ5DKVA96PQG3J.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0050000000",
+                "RegionlessRateCode": "eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"
+            },
+            "AWS Firewall per Throughput": {
+                "rateCode": "YRS2TMPMHP4H5945.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0650000000",
+                "RegionlessRateCode": "-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"
+            },
+            "AWS Firewall per Endpoint": {
+                "rateCode": "JPT5FMT6V4PG3VQX.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.3950000000",
+                "RegionlessRateCode": "-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"
+            },
+            "AWS Firewall per Endpoint-Advanced": {
+                "rateCode": "3Y8PAHFZTD7K84KY.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.0950000000",
+                "RegionlessRateCode": "YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"
+            },
+            "AWS Firewall per Throughput-Advanced": {
+                "rateCode": "45CZ5DKVA96PQG3J.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0050000000",
+                "RegionlessRateCode": "eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"
+            }
+        },
+        "Asia Pacific (Mumbai)": {
+            "-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY": {
+                "rateCode": "6UZ9EWR5Q34MTVFV.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0650000000",
+                "RegionlessRateCode": "-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"
+            },
+            "-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo": {
+                "rateCode": "3SH8H74BPZWHW5D7.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.3950000000",
+                "RegionlessRateCode": "-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"
+            },
+            "YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw": {
+                "rateCode": "H24FZBG8VRNFR2QS.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.3800000000",
+                "RegionlessRateCode": "YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"
+            },
+            "eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y": {
+                "rateCode": "QJ96RVJHFQ9A6GXF.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0050000000",
+                "RegionlessRateCode": "eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"
+            },
+            "AWS Firewall per Throughput": {
+                "rateCode": "6UZ9EWR5Q34MTVFV.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0650000000",
+                "RegionlessRateCode": "-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"
+            },
+            "AWS Firewall per Endpoint": {
+                "rateCode": "3SH8H74BPZWHW5D7.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.3950000000",
+                "RegionlessRateCode": "-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"
+            },
+            "AWS Firewall per Endpoint-Advanced": {
+                "rateCode": "H24FZBG8VRNFR2QS.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.3800000000",
+                "RegionlessRateCode": "YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"
+            },
+            "AWS Firewall per Throughput-Advanced": {
+                "rateCode": "QJ96RVJHFQ9A6GXF.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0050000000",
+                "RegionlessRateCode": "eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"
+            }
+        },
+        "Asia Pacific (Melbourne)": {
+            "-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY": {
+                "rateCode": "8XK3BG5UJUPNN7U8.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0650000000",
+                "RegionlessRateCode": "-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"
+            },
+            "-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo": {
+                "rateCode": "E22DK4YQUYRYJ56E.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.7050000000",
+                "RegionlessRateCode": "-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"
+            },
+            "YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw": {
+                "rateCode": "U3RDA3JCPYCAJB8M.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.4010000000",
+                "RegionlessRateCode": "YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"
+            },
+            "eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y": {
+                "rateCode": "DWRT577Y3HU9XWVC.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0090000000",
+                "RegionlessRateCode": "eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"
+            },
+            "AWS Firewall per Throughput": {
+                "rateCode": "8XK3BG5UJUPNN7U8.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0650000000",
+                "RegionlessRateCode": "-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"
+            },
+            "AWS Firewall per Endpoint": {
+                "rateCode": "E22DK4YQUYRYJ56E.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.7050000000",
+                "RegionlessRateCode": "-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"
+            },
+            "AWS Firewall per Endpoint-Advanced": {
+                "rateCode": "U3RDA3JCPYCAJB8M.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.4010000000",
+                "RegionlessRateCode": "YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"
+            },
+            "AWS Firewall per Throughput-Advanced": {
+                "rateCode": "DWRT577Y3HU9XWVC.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0090000000",
+                "RegionlessRateCode": "eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"
+            }
+        },
+        "Asia Pacific (Malaysia)": {
+            "-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY": {
+                "rateCode": "Q7MCYM85CS7ATNAC.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0650000000",
+                "RegionlessRateCode": "-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"
+            },
+            "-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo": {
+                "rateCode": "DEYABGQCSTGN3SHG.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.6600000000",
+                "RegionlessRateCode": "-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"
+            },
+            "YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw": {
+                "rateCode": "P6XN4NAVN7QTCJ6Z.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.6400000000",
+                "RegionlessRateCode": "YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"
+            },
+            "eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y": {
+                "rateCode": "WEA5972VGC47XKDF.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"
+            },
+            "AWS Firewall per Throughput": {
+                "rateCode": "Q7MCYM85CS7ATNAC.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0650000000",
+                "RegionlessRateCode": "-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"
+            },
+            "AWS Firewall per Endpoint": {
+                "rateCode": "DEYABGQCSTGN3SHG.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.6600000000",
+                "RegionlessRateCode": "-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"
+            },
+            "AWS Firewall per Endpoint-Advanced": {
+                "rateCode": "P6XN4NAVN7QTCJ6Z.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.6400000000",
+                "RegionlessRateCode": "YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"
+            },
+            "AWS Firewall per Throughput-Advanced": {
+                "rateCode": "WEA5972VGC47XKDF.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"
+            }
+        },
+        "Asia Pacific (Jakarta)": {
+            "-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY": {
+                "rateCode": "RKZG6P2PUTEZG9BT.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0750000000",
+                "RegionlessRateCode": "-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"
+            },
+            "-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo": {
+                "rateCode": "KDYZUCCDJSD5FTPZ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.4850000000",
+                "RegionlessRateCode": "-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"
+            },
+            "YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw": {
+                "rateCode": "D95HU6HNXUC7CXYV.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.5480000000",
+                "RegionlessRateCode": "YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"
+            },
+            "eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y": {
+                "rateCode": "5TNSZEM75B45RNKJ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"
+            },
+            "AWS Firewall per Throughput": {
+                "rateCode": "RKZG6P2PUTEZG9BT.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0750000000",
+                "RegionlessRateCode": "-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"
+            },
+            "AWS Firewall per Endpoint": {
+                "rateCode": "KDYZUCCDJSD5FTPZ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.4850000000",
+                "RegionlessRateCode": "-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"
+            },
+            "AWS Firewall per Endpoint-Advanced": {
+                "rateCode": "D95HU6HNXUC7CXYV.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.5480000000",
+                "RegionlessRateCode": "YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"
+            },
+            "AWS Firewall per Throughput-Advanced": {
+                "rateCode": "5TNSZEM75B45RNKJ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"
+            }
+        },
+        "Asia Pacific (Hyderabad)": {
+            "-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY": {
+                "rateCode": "E78YEHK3TXVQNXC9.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0650000000",
+                "RegionlessRateCode": "-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"
+            },
+            "-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo": {
+                "rateCode": "K95UP5DHSXJG4FAM.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.5350000000",
+                "RegionlessRateCode": "-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"
+            },
+            "YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw": {
+                "rateCode": "G8VM4N5WSFUYYNCW.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.3800000000",
+                "RegionlessRateCode": "YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"
+            },
+            "eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y": {
+                "rateCode": "RVYBYGKVDHZMF3E7.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"
+            },
+            "AWS Firewall per Throughput": {
+                "rateCode": "E78YEHK3TXVQNXC9.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0650000000",
+                "RegionlessRateCode": "-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"
+            },
+            "AWS Firewall per Endpoint": {
+                "rateCode": "K95UP5DHSXJG4FAM.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.5350000000",
+                "RegionlessRateCode": "-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"
+            },
+            "AWS Firewall per Endpoint-Advanced": {
+                "rateCode": "G8VM4N5WSFUYYNCW.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.3800000000",
+                "RegionlessRateCode": "YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"
+            },
+            "AWS Firewall per Throughput-Advanced": {
+                "rateCode": "RVYBYGKVDHZMF3E7.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"
+            }
+        },
+        "Asia Pacific (Hong Kong)": {
+            "-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY": {
+                "rateCode": "3SSUX54Q9MVYYXKV.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0650000000",
+                "RegionlessRateCode": "-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"
+            },
+            "-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo": {
+                "rateCode": "6SBJ848K5ZFU5FMS.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.3950000000",
+                "RegionlessRateCode": "-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"
+            },
+            "YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw": {
+                "rateCode": "3CBHMZ6DUKMK26SA.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.0250000000",
+                "RegionlessRateCode": "YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"
+            },
+            "eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y": {
+                "rateCode": "MPBU5GRY3Z2UXE7V.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0050000000",
+                "RegionlessRateCode": "eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"
+            },
+            "AWS Firewall per Throughput": {
+                "rateCode": "3SSUX54Q9MVYYXKV.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0650000000",
+                "RegionlessRateCode": "-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"
+            },
+            "AWS Firewall per Endpoint": {
+                "rateCode": "6SBJ848K5ZFU5FMS.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.3950000000",
+                "RegionlessRateCode": "-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"
+            },
+            "AWS Firewall per Endpoint-Advanced": {
+                "rateCode": "3CBHMZ6DUKMK26SA.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.0250000000",
+                "RegionlessRateCode": "YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"
+            },
+            "AWS Firewall per Throughput-Advanced": {
+                "rateCode": "MPBU5GRY3Z2UXE7V.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0050000000",
+                "RegionlessRateCode": "eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"
+            }
+        },
+        "Africa (Cape Town)": {
+            "-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY": {
+                "rateCode": "66J9GBTHHRWC5DEP.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0650000000",
+                "RegionlessRateCode": "-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"
+            },
+            "-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo": {
+                "rateCode": "6CM7YVCQTD8QU5CW.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.3950000000",
+                "RegionlessRateCode": "-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"
+            },
+            "YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw": {
+                "rateCode": "VRS9FNQQD27T8R9X.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.3800000000",
+                "RegionlessRateCode": "YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"
+            },
+            "eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y": {
+                "rateCode": "NMRVMY86NXG5N25H.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0060000000",
+                "RegionlessRateCode": "eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"
+            },
+            "AWS Firewall per Throughput": {
+                "rateCode": "66J9GBTHHRWC5DEP.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0650000000",
+                "RegionlessRateCode": "-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"
+            },
+            "AWS Firewall per Endpoint": {
+                "rateCode": "6CM7YVCQTD8QU5CW.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.3950000000",
+                "RegionlessRateCode": "-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"
+            },
+            "AWS Firewall per Endpoint-Advanced": {
+                "rateCode": "VRS9FNQQD27T8R9X.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.3800000000",
+                "RegionlessRateCode": "YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"
+            },
+            "AWS Firewall per Throughput-Advanced": {
+                "rateCode": "NMRVMY86NXG5N25H.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0060000000",
+                "RegionlessRateCode": "eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"
+            }
+        },
+        "AWS GovCloud (US-East)": {
+            "-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY": {
+                "rateCode": "6B9KVJHQDTJKRMGK.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0780000000",
+                "RegionlessRateCode": "-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"
+            },
+            "-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo": {
+                "rateCode": "RAZBS7DE5QDHXEB3.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.4740000000",
+                "RegionlessRateCode": "-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"
+            },
+            "YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw": {
+                "rateCode": "Q223AQQY9H4GT7J3.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.9370000000",
+                "RegionlessRateCode": "YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"
+            },
+            "eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y": {
+                "rateCode": "KJJJ7KYH7VQEWYBN.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"
+            },
+            "AWS Firewall per Throughput": {
+                "rateCode": "6B9KVJHQDTJKRMGK.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0780000000",
+                "RegionlessRateCode": "-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"
+            },
+            "AWS Firewall per Endpoint": {
+                "rateCode": "RAZBS7DE5QDHXEB3.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.4740000000",
+                "RegionlessRateCode": "-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"
+            },
+            "AWS Firewall per Endpoint-Advanced": {
+                "rateCode": "Q223AQQY9H4GT7J3.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.9370000000",
+                "RegionlessRateCode": "YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"
+            },
+            "AWS Firewall per Throughput-Advanced": {
+                "rateCode": "KJJJ7KYH7VQEWYBN.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"
+            }
+        },
+        "AWS GovCloud (US)": {
+            "-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY": {
+                "rateCode": "2BVHZKAKCVSSPNE9.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0780000000",
+                "RegionlessRateCode": "-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"
+            },
+            "-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo": {
+                "rateCode": "QSTH7KRUMSHNK5SK.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.4740000000",
+                "RegionlessRateCode": "-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"
+            },
+            "YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw": {
+                "rateCode": "3GQ8B2JP9FCYPKDK.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.7590000000",
+                "RegionlessRateCode": "YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"
+            },
+            "eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y": {
+                "rateCode": "W6XZ839QYAXH2YA5.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"
+            },
+            "AWS Firewall per Throughput": {
+                "rateCode": "2BVHZKAKCVSSPNE9.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0780000000",
+                "RegionlessRateCode": "-QCrv5DEL5MwD2dlAxqesxvDTaovekUOLIc_s1dAlQY"
+            },
+            "AWS Firewall per Endpoint": {
+                "rateCode": "QSTH7KRUMSHNK5SK.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.4740000000",
+                "RegionlessRateCode": "-ST8NbRA56hNwHghcSvawbuLlPT3I5bzQiR17_UGYUo"
+            },
+            "AWS Firewall per Endpoint-Advanced": {
+                "rateCode": "3GQ8B2JP9FCYPKDK.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.7590000000",
+                "RegionlessRateCode": "YKYkuWPPzIP4blnVUeHTtcHjBU37lg8i4edzp87PlIw"
+            },
+            "AWS Firewall per Throughput-Advanced": {
+                "rateCode": "W6XZ839QYAXH2YA5.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "eVrZt0aiYlw8GR_N_GxSDUGxTugjJ7ORYcmb6IHzD3Y"
+            }
+        }
+    }
+}

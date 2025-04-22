@@ -1,1 +1,27 @@
-{"manifest":{"serviceId":"alexatopsites","accessType":"publish","esIndex":"plc-alexatopsites-usd-20241002192558","hawkFilePublicationDate":"2024-08-26T15:36:23Z","ETLIngestionTriggerDate":"2024-10-02T19:25:58Z","currencyCode":"USD","source":"alexatopsites","isMapped":"true"},"sets":{},"regions":{"Any":{"v3o4gdIvxOREoizES4FliQFurpMYCBYuYeibECxp5pQ":{"rateCode":"T8VPSK3NY95ZPPX9.JRTCKXETXF.6YS6EN2CT7","price":"0.0025000000","RegionlessRateCode":"v3o4gdIvxOREoizES4FliQFurpMYCBYuYeibECxp5pQ"},"Alexa Top Sites":{"rateCode":"T8VPSK3NY95ZPPX9.JRTCKXETXF.6YS6EN2CT7","price":"0.0025000000","RegionlessRateCode":"v3o4gdIvxOREoizES4FliQFurpMYCBYuYeibECxp5pQ"}}}}
+{
+    "manifest": {
+        "serviceId": "alexatopsites",
+        "accessType": "publish",
+        "esIndex": "plc-alexatopsites-usd-20241002192558",
+        "hawkFilePublicationDate": "2024-08-26T15:36:23Z",
+        "ETLIngestionTriggerDate": "2024-10-02T19:25:58Z",
+        "currencyCode": "USD",
+        "source": "alexatopsites",
+        "isMapped": "true"
+    },
+    "sets": {},
+    "regions": {
+        "Any": {
+            "v3o4gdIvxOREoizES4FliQFurpMYCBYuYeibECxp5pQ": {
+                "rateCode": "T8VPSK3NY95ZPPX9.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0025000000",
+                "RegionlessRateCode": "v3o4gdIvxOREoizES4FliQFurpMYCBYuYeibECxp5pQ"
+            },
+            "Alexa Top Sites": {
+                "rateCode": "T8VPSK3NY95ZPPX9.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0025000000",
+                "RegionlessRateCode": "v3o4gdIvxOREoizES4FliQFurpMYCBYuYeibECxp5pQ"
+            }
+        }
+    }
+}

@@ -1,1 +1,595 @@
-{"manifest":{"serviceId":"gameliftstreams","accessType":"publish","esIndex":"plc-gameliftstreams-usd-20250411220302","hawkFilePublicationDate":"2025-04-11T22:03:02Z","ETLIngestionTriggerDate":"2025-04-11T22:03:02Z","currencyCode":"USD","source":"gameliftstreams"},"sets":{"Compute Instance OnDemand":["IZ3xeSxhQLdZb2vumQEGOd4E61zzuzWriFEuJtN92Io v1","m5hsTZTV1iF7TwfFdM0rhN6c5bF97dP2dubsdFXH7OU v1","3undpoYOHLvZLziC1Z2GW60ceBfAv38lWIOoNUza8gY v1","HTrQxQxvms-LfvfB_I108mM15-0sUtTx-4CZ5skBaFg v1","M9O_G1wSqpboQ-WCdSHjW96Q0Wwn4gHe0JGPM1Up8vw v1","rRcTL08VGbFmI8D_hghIEt--9n5Zvxdj-ZlMvABZxks v1"]},"regions":{"US West (Oregon)":{"IZ3xeSxhQLdZb2vumQEGOd4E61zzuzWriFEuJtN92Io v1":{"rateCode":"ANRD747PHU5ZHYPJ.JRTCKXETXF.6YS6EN2CT7","price":"0.4982000000","RegionlessRateCode":"IZ3xeSxhQLdZb2vumQEGOd4E61zzuzWriFEuJtN92Io","Stream Class":"gen4n_high","VCPU":"4","GPU":"NVIDIA T4 Tensor GPU","RAM":"16","VRAM":"8"},"m5hsTZTV1iF7TwfFdM0rhN6c5bF97dP2dubsdFXH7OU v1":{"rateCode":"NGPUNDH2P3VSKG8M.JRTCKXETXF.6YS6EN2CT7","price":"0.9288000000","RegionlessRateCode":"m5hsTZTV1iF7TwfFdM0rhN6c5bF97dP2dubsdFXH7OU","Stream Class":"gen4n_ultra","VCPU":"8","GPU":"NVIDIA T4 Tensor GPU","RAM":"32","VRAM":"16"},"3undpoYOHLvZLziC1Z2GW60ceBfAv38lWIOoNUza8gY v1":{"rateCode":"3RTJP694M65PEVDT.JRTCKXETXF.6YS6EN2CT7","price":"1.5120000000","RegionlessRateCode":"3undpoYOHLvZLziC1Z2GW60ceBfAv38lWIOoNUza8gY","Stream Class":"gen4n_win2022","VCPU":"8","GPU":"NVIDIA T4 Tensor GPU","RAM":"32","VRAM":"16"},"HTrQxQxvms-LfvfB_I108mM15-0sUtTx-4CZ5skBaFg v1":{"rateCode":"RPR92P5E9WXDSREA.JRTCKXETXF.6YS6EN2CT7","price":"0.7625000000","RegionlessRateCode":"HTrQxQxvms-LfvfB_I108mM15-0sUtTx-4CZ5skBaFg","Stream Class":"gen5n_high","VCPU":"4","GPU":"NVIDIA A10G Tensor GPU","RAM":"16","VRAM":"12"},"M9O_G1wSqpboQ-WCdSHjW96Q0Wwn4gHe0JGPM1Up8vw v1":{"rateCode":"8W28VTA8DHG923PU.JRTCKXETXF.6YS6EN2CT7","price":"1.4544000000","RegionlessRateCode":"M9O_G1wSqpboQ-WCdSHjW96Q0Wwn4gHe0JGPM1Up8vw","Stream Class":"gen5n_ultra","VCPU":"8","GPU":"NVIDIA A10G Tensor GPU","RAM":"32","VRAM":"24"},"rRcTL08VGbFmI8D_hghIEt--9n5Zvxdj-ZlMvABZxks v1":{"rateCode":"2TRRYEVX9SFGJC9T.JRTCKXETXF.6YS6EN2CT7","price":"2.1300000000","RegionlessRateCode":"rRcTL08VGbFmI8D_hghIEt--9n5Zvxdj-ZlMvABZxks","Stream Class":"gen5n_win2022","VCPU":"8","GPU":"NVIDIA A10G Tensor GPU","RAM":"32","VRAM":"24"},"3undpoYOHLvZLziC1Z2GW60ceBfAv38lWIOoNUza8gY":{"rateCode":"3RTJP694M65PEVDT.JRTCKXETXF.6YS6EN2CT7","price":"1.5120000000","RegionlessRateCode":"3undpoYOHLvZLziC1Z2GW60ceBfAv38lWIOoNUza8gY"},"HTrQxQxvms-LfvfB_I108mM15-0sUtTx-4CZ5skBaFg":{"rateCode":"RPR92P5E9WXDSREA.JRTCKXETXF.6YS6EN2CT7","price":"0.7625000000","RegionlessRateCode":"HTrQxQxvms-LfvfB_I108mM15-0sUtTx-4CZ5skBaFg"},"IZ3xeSxhQLdZb2vumQEGOd4E61zzuzWriFEuJtN92Io":{"rateCode":"ANRD747PHU5ZHYPJ.JRTCKXETXF.6YS6EN2CT7","price":"0.4982000000","RegionlessRateCode":"IZ3xeSxhQLdZb2vumQEGOd4E61zzuzWriFEuJtN92Io"},"M9O_G1wSqpboQ-WCdSHjW96Q0Wwn4gHe0JGPM1Up8vw":{"rateCode":"8W28VTA8DHG923PU.JRTCKXETXF.6YS6EN2CT7","price":"1.4544000000","RegionlessRateCode":"M9O_G1wSqpboQ-WCdSHjW96Q0Wwn4gHe0JGPM1Up8vw"},"apiK5yxIVFdgp8FkhEB4ihdjiG2OzP0EL6qNBsFI7js":{"rateCode":"KEG4NBEXQ2W4RWUJ.JRTCKXETXF.6YS6EN2CT7","price":"0.0296000000","RegionlessRateCode":"apiK5yxIVFdgp8FkhEB4ihdjiG2OzP0EL6qNBsFI7js"},"m5hsTZTV1iF7TwfFdM0rhN6c5bF97dP2dubsdFXH7OU":{"rateCode":"NGPUNDH2P3VSKG8M.JRTCKXETXF.6YS6EN2CT7","price":"0.9288000000","RegionlessRateCode":"m5hsTZTV1iF7TwfFdM0rhN6c5bF97dP2dubsdFXH7OU"},"rRcTL08VGbFmI8D_hghIEt--9n5Zvxdj-ZlMvABZxks":{"rateCode":"2TRRYEVX9SFGJC9T.JRTCKXETXF.6YS6EN2CT7","price":"2.1300000000","RegionlessRateCode":"rRcTL08VGbFmI8D_hghIEt--9n5Zvxdj-ZlMvABZxks"}},"US East (Ohio)":{"IZ3xeSxhQLdZb2vumQEGOd4E61zzuzWriFEuJtN92Io v1":{"rateCode":"M8NKUUQWVB97EE96.JRTCKXETXF.6YS6EN2CT7","price":"0.4982000000","RegionlessRateCode":"IZ3xeSxhQLdZb2vumQEGOd4E61zzuzWriFEuJtN92Io","Stream Class":"gen4n_high","VCPU":"4","GPU":"NVIDIA T4 Tensor GPU","RAM":"16","VRAM":"8"},"m5hsTZTV1iF7TwfFdM0rhN6c5bF97dP2dubsdFXH7OU v1":{"rateCode":"XD3M2PYYBDMX4GZE.JRTCKXETXF.6YS6EN2CT7","price":"0.9288000000","RegionlessRateCode":"m5hsTZTV1iF7TwfFdM0rhN6c5bF97dP2dubsdFXH7OU","Stream Class":"gen4n_ultra","VCPU":"8","GPU":"NVIDIA T4 Tensor GPU","RAM":"32","VRAM":"16"},"3undpoYOHLvZLziC1Z2GW60ceBfAv38lWIOoNUza8gY v1":{"rateCode":"GKW82YFAMKK8V9DV.JRTCKXETXF.6YS6EN2CT7","price":"1.5120000000","RegionlessRateCode":"3undpoYOHLvZLziC1Z2GW60ceBfAv38lWIOoNUza8gY","Stream Class":"gen4n_win2022","VCPU":"8","GPU":"NVIDIA T4 Tensor GPU","RAM":"32","VRAM":"16"},"HTrQxQxvms-LfvfB_I108mM15-0sUtTx-4CZ5skBaFg v1":{"rateCode":"WAB6WGHBEHGTZQ4X.JRTCKXETXF.6YS6EN2CT7","price":"0.7666000000","RegionlessRateCode":"HTrQxQxvms-LfvfB_I108mM15-0sUtTx-4CZ5skBaFg","Stream Class":"gen5n_high","VCPU":"4","GPU":"NVIDIA A10G Tensor GPU","RAM":"16","VRAM":"12"},"M9O_G1wSqpboQ-WCdSHjW96Q0Wwn4gHe0JGPM1Up8vw v1":{"rateCode":"NJCJXY4YG7NTPZ6K.JRTCKXETXF.6YS6EN2CT7","price":"1.4544000000","RegionlessRateCode":"M9O_G1wSqpboQ-WCdSHjW96Q0Wwn4gHe0JGPM1Up8vw","Stream Class":"gen5n_ultra","VCPU":"8","GPU":"NVIDIA A10G Tensor GPU","RAM":"32","VRAM":"24"},"rRcTL08VGbFmI8D_hghIEt--9n5Zvxdj-ZlMvABZxks v1":{"rateCode":"P5669T57DUPKBA2D.JRTCKXETXF.6YS6EN2CT7","price":"2.1300000000","RegionlessRateCode":"rRcTL08VGbFmI8D_hghIEt--9n5Zvxdj-ZlMvABZxks","Stream Class":"gen5n_win2022","VCPU":"8","GPU":"NVIDIA A10G Tensor GPU","RAM":"32","VRAM":"24"},"3undpoYOHLvZLziC1Z2GW60ceBfAv38lWIOoNUza8gY":{"rateCode":"GKW82YFAMKK8V9DV.JRTCKXETXF.6YS6EN2CT7","price":"1.5120000000","RegionlessRateCode":"3undpoYOHLvZLziC1Z2GW60ceBfAv38lWIOoNUza8gY"},"HTrQxQxvms-LfvfB_I108mM15-0sUtTx-4CZ5skBaFg":{"rateCode":"WAB6WGHBEHGTZQ4X.JRTCKXETXF.6YS6EN2CT7","price":"0.7666000000","RegionlessRateCode":"HTrQxQxvms-LfvfB_I108mM15-0sUtTx-4CZ5skBaFg"},"IZ3xeSxhQLdZb2vumQEGOd4E61zzuzWriFEuJtN92Io":{"rateCode":"M8NKUUQWVB97EE96.JRTCKXETXF.6YS6EN2CT7","price":"0.4982000000","RegionlessRateCode":"IZ3xeSxhQLdZb2vumQEGOd4E61zzuzWriFEuJtN92Io"},"M9O_G1wSqpboQ-WCdSHjW96Q0Wwn4gHe0JGPM1Up8vw":{"rateCode":"NJCJXY4YG7NTPZ6K.JRTCKXETXF.6YS6EN2CT7","price":"1.4544000000","RegionlessRateCode":"M9O_G1wSqpboQ-WCdSHjW96Q0Wwn4gHe0JGPM1Up8vw"},"apiK5yxIVFdgp8FkhEB4ihdjiG2OzP0EL6qNBsFI7js":{"rateCode":"R6HDKZD64NM8JMBP.JRTCKXETXF.6YS6EN2CT7","price":"0.0296000000","RegionlessRateCode":"apiK5yxIVFdgp8FkhEB4ihdjiG2OzP0EL6qNBsFI7js"},"m5hsTZTV1iF7TwfFdM0rhN6c5bF97dP2dubsdFXH7OU":{"rateCode":"XD3M2PYYBDMX4GZE.JRTCKXETXF.6YS6EN2CT7","price":"0.9288000000","RegionlessRateCode":"m5hsTZTV1iF7TwfFdM0rhN6c5bF97dP2dubsdFXH7OU"},"rRcTL08VGbFmI8D_hghIEt--9n5Zvxdj-ZlMvABZxks":{"rateCode":"P5669T57DUPKBA2D.JRTCKXETXF.6YS6EN2CT7","price":"2.1300000000","RegionlessRateCode":"rRcTL08VGbFmI8D_hghIEt--9n5Zvxdj-ZlMvABZxks"}},"US East (N. Virginia)":{"IZ3xeSxhQLdZb2vumQEGOd4E61zzuzWriFEuJtN92Io v1":{"rateCode":"6HKD53VM2Z6GFNYP.JRTCKXETXF.6YS6EN2CT7","price":"0.5205000000","RegionlessRateCode":"IZ3xeSxhQLdZb2vumQEGOd4E61zzuzWriFEuJtN92Io","Stream Class":"gen4n_high","VCPU":"4","GPU":"NVIDIA T4 Tensor GPU","RAM":"16","VRAM":"8"},"m5hsTZTV1iF7TwfFdM0rhN6c5bF97dP2dubsdFXH7OU v1":{"rateCode":"AH7H8GAHHUEJ2552.JRTCKXETXF.6YS6EN2CT7","price":"0.9927000000","RegionlessRateCode":"m5hsTZTV1iF7TwfFdM0rhN6c5bF97dP2dubsdFXH7OU","Stream Class":"gen4n_ultra","VCPU":"8","GPU":"NVIDIA T4 Tensor GPU","RAM":"32","VRAM":"16"},"3undpoYOHLvZLziC1Z2GW60ceBfAv38lWIOoNUza8gY v1":{"rateCode":"ZQNVDARBU5F6GYJA.JRTCKXETXF.6YS6EN2CT7","price":"1.5120000000","RegionlessRateCode":"3undpoYOHLvZLziC1Z2GW60ceBfAv38lWIOoNUza8gY","Stream Class":"gen4n_win2022","VCPU":"8","GPU":"NVIDIA T4 Tensor GPU","RAM":"32","VRAM":"16"},"HTrQxQxvms-LfvfB_I108mM15-0sUtTx-4CZ5skBaFg v1":{"rateCode":"EB6W2KPR8FF4EPAR.JRTCKXETXF.6YS6EN2CT7","price":"0.7544000000","RegionlessRateCode":"HTrQxQxvms-LfvfB_I108mM15-0sUtTx-4CZ5skBaFg","Stream Class":"gen5n_high","VCPU":"4","GPU":"NVIDIA A10G Tensor GPU","RAM":"16","VRAM":"12"},"M9O_G1wSqpboQ-WCdSHjW96Q0Wwn4gHe0JGPM1Up8vw v1":{"rateCode":"XJ47FBJT2PF6TAYV.JRTCKXETXF.6YS6EN2CT7","price":"1.4544000000","RegionlessRateCode":"M9O_G1wSqpboQ-WCdSHjW96Q0Wwn4gHe0JGPM1Up8vw","Stream Class":"gen5n_ultra","VCPU":"8","GPU":"NVIDIA A10G Tensor GPU","RAM":"32","VRAM":"24"},"rRcTL08VGbFmI8D_hghIEt--9n5Zvxdj-ZlMvABZxks v1":{"rateCode":"QQX3SX8HNTZVHWX3.JRTCKXETXF.6YS6EN2CT7","price":"2.1300000000","RegionlessRateCode":"rRcTL08VGbFmI8D_hghIEt--9n5Zvxdj-ZlMvABZxks","Stream Class":"gen5n_win2022","VCPU":"8","GPU":"NVIDIA A10G Tensor GPU","RAM":"32","VRAM":"24"},"3undpoYOHLvZLziC1Z2GW60ceBfAv38lWIOoNUza8gY":{"rateCode":"ZQNVDARBU5F6GYJA.JRTCKXETXF.6YS6EN2CT7","price":"1.5120000000","RegionlessRateCode":"3undpoYOHLvZLziC1Z2GW60ceBfAv38lWIOoNUza8gY"},"HTrQxQxvms-LfvfB_I108mM15-0sUtTx-4CZ5skBaFg":{"rateCode":"EB6W2KPR8FF4EPAR.JRTCKXETXF.6YS6EN2CT7","price":"0.7544000000","RegionlessRateCode":"HTrQxQxvms-LfvfB_I108mM15-0sUtTx-4CZ5skBaFg"},"IZ3xeSxhQLdZb2vumQEGOd4E61zzuzWriFEuJtN92Io":{"rateCode":"6HKD53VM2Z6GFNYP.JRTCKXETXF.6YS6EN2CT7","price":"0.5205000000","RegionlessRateCode":"IZ3xeSxhQLdZb2vumQEGOd4E61zzuzWriFEuJtN92Io"},"M9O_G1wSqpboQ-WCdSHjW96Q0Wwn4gHe0JGPM1Up8vw":{"rateCode":"XJ47FBJT2PF6TAYV.JRTCKXETXF.6YS6EN2CT7","price":"1.4544000000","RegionlessRateCode":"M9O_G1wSqpboQ-WCdSHjW96Q0Wwn4gHe0JGPM1Up8vw"},"m5hsTZTV1iF7TwfFdM0rhN6c5bF97dP2dubsdFXH7OU":{"rateCode":"AH7H8GAHHUEJ2552.JRTCKXETXF.6YS6EN2CT7","price":"0.9927000000","RegionlessRateCode":"m5hsTZTV1iF7TwfFdM0rhN6c5bF97dP2dubsdFXH7OU"},"rRcTL08VGbFmI8D_hghIEt--9n5Zvxdj-ZlMvABZxks":{"rateCode":"QQX3SX8HNTZVHWX3.JRTCKXETXF.6YS6EN2CT7","price":"2.1300000000","RegionlessRateCode":"rRcTL08VGbFmI8D_hghIEt--9n5Zvxdj-ZlMvABZxks"}},"EU (Ireland)":{"IZ3xeSxhQLdZb2vumQEGOd4E61zzuzWriFEuJtN92Io v1":{"rateCode":"P4RT8X3Y24TY88TY.JRTCKXETXF.6YS6EN2CT7","price":"0.5419000000","RegionlessRateCode":"IZ3xeSxhQLdZb2vumQEGOd4E61zzuzWriFEuJtN92Io","Stream Class":"gen4n_high","VCPU":"4","GPU":"NVIDIA T4 Tensor GPU","RAM":"16","VRAM":"8"},"m5hsTZTV1iF7TwfFdM0rhN6c5bF97dP2dubsdFXH7OU v1":{"rateCode":"RGRHSZ42D4ETZNMB.JRTCKXETXF.6YS6EN2CT7","price":"1.0126000000","RegionlessRateCode":"m5hsTZTV1iF7TwfFdM0rhN6c5bF97dP2dubsdFXH7OU","Stream Class":"gen4n_ultra","VCPU":"8","GPU":"NVIDIA T4 Tensor GPU","RAM":"32","VRAM":"16"},"3undpoYOHLvZLziC1Z2GW60ceBfAv38lWIOoNUza8gY v1":{"rateCode":"PHYZVZA8KGXRXT8Q.JRTCKXETXF.6YS6EN2CT7","price":"1.7005000000","RegionlessRateCode":"3undpoYOHLvZLziC1Z2GW60ceBfAv38lWIOoNUza8gY","Stream Class":"gen4n_win2022","VCPU":"8","GPU":"NVIDIA T4 Tensor GPU","RAM":"32","VRAM":"16"},"HTrQxQxvms-LfvfB_I108mM15-0sUtTx-4CZ5skBaFg v1":{"rateCode":"DQ9JDYC89M75BWAC.JRTCKXETXF.6YS6EN2CT7","price":"0.8504000000","RegionlessRateCode":"HTrQxQxvms-LfvfB_I108mM15-0sUtTx-4CZ5skBaFg","Stream Class":"gen5n_high","VCPU":"4","GPU":"NVIDIA A10G Tensor GPU","RAM":"16","VRAM":"12"},"M9O_G1wSqpboQ-WCdSHjW96Q0Wwn4gHe0JGPM1Up8vw v1":{"rateCode":"TXNFQUHJYPZZKTGJ.JRTCKXETXF.6YS6EN2CT7","price":"1.6236000000","RegionlessRateCode":"M9O_G1wSqpboQ-WCdSHjW96Q0Wwn4gHe0JGPM1Up8vw","Stream Class":"gen5n_ultra","VCPU":"8","GPU":"NVIDIA A10G Tensor GPU","RAM":"32","VRAM":"24"},"rRcTL08VGbFmI8D_hghIEt--9n5Zvxdj-ZlMvABZxks v1":{"rateCode":"PACAMNVD3SX82GU4.JRTCKXETXF.6YS6EN2CT7","price":"2.4266000000","RegionlessRateCode":"rRcTL08VGbFmI8D_hghIEt--9n5Zvxdj-ZlMvABZxks","Stream Class":"gen5n_win2022","VCPU":"8","GPU":"NVIDIA A10G Tensor GPU","RAM":"32","VRAM":"24"},"3undpoYOHLvZLziC1Z2GW60ceBfAv38lWIOoNUza8gY":{"rateCode":"PHYZVZA8KGXRXT8Q.JRTCKXETXF.6YS6EN2CT7","price":"1.7005000000","RegionlessRateCode":"3undpoYOHLvZLziC1Z2GW60ceBfAv38lWIOoNUza8gY"},"HTrQxQxvms-LfvfB_I108mM15-0sUtTx-4CZ5skBaFg":{"rateCode":"DQ9JDYC89M75BWAC.JRTCKXETXF.6YS6EN2CT7","price":"0.8504000000","RegionlessRateCode":"HTrQxQxvms-LfvfB_I108mM15-0sUtTx-4CZ5skBaFg"},"IZ3xeSxhQLdZb2vumQEGOd4E61zzuzWriFEuJtN92Io":{"rateCode":"P4RT8X3Y24TY88TY.JRTCKXETXF.6YS6EN2CT7","price":"0.5419000000","RegionlessRateCode":"IZ3xeSxhQLdZb2vumQEGOd4E61zzuzWriFEuJtN92Io"},"M9O_G1wSqpboQ-WCdSHjW96Q0Wwn4gHe0JGPM1Up8vw":{"rateCode":"TXNFQUHJYPZZKTGJ.JRTCKXETXF.6YS6EN2CT7","price":"1.6236000000","RegionlessRateCode":"M9O_G1wSqpboQ-WCdSHjW96Q0Wwn4gHe0JGPM1Up8vw"},"m5hsTZTV1iF7TwfFdM0rhN6c5bF97dP2dubsdFXH7OU":{"rateCode":"RGRHSZ42D4ETZNMB.JRTCKXETXF.6YS6EN2CT7","price":"1.0126000000","RegionlessRateCode":"m5hsTZTV1iF7TwfFdM0rhN6c5bF97dP2dubsdFXH7OU"},"rRcTL08VGbFmI8D_hghIEt--9n5Zvxdj-ZlMvABZxks":{"rateCode":"PACAMNVD3SX82GU4.JRTCKXETXF.6YS6EN2CT7","price":"2.4266000000","RegionlessRateCode":"rRcTL08VGbFmI8D_hghIEt--9n5Zvxdj-ZlMvABZxks"}},"EU (Frankfurt)":{"IZ3xeSxhQLdZb2vumQEGOd4E61zzuzWriFEuJtN92Io v1":{"rateCode":"BP3TFH8SBFBTAXS8.JRTCKXETXF.6YS6EN2CT7","price":"0.6571000000","RegionlessRateCode":"IZ3xeSxhQLdZb2vumQEGOd4E61zzuzWriFEuJtN92Io","Stream Class":"gen4n_high","VCPU":"4","GPU":"NVIDIA T4 Tensor GPU","RAM":"16","VRAM":"8"},"m5hsTZTV1iF7TwfFdM0rhN6c5bF97dP2dubsdFXH7OU v1":{"rateCode":"HSEBTU76SJ89AF6B.JRTCKXETXF.6YS6EN2CT7","price":"1.2352000000","RegionlessRateCode":"m5hsTZTV1iF7TwfFdM0rhN6c5bF97dP2dubsdFXH7OU","Stream Class":"gen4n_ultra","VCPU":"8","GPU":"NVIDIA T4 Tensor GPU","RAM":"32","VRAM":"16"},"3undpoYOHLvZLziC1Z2GW60ceBfAv38lWIOoNUza8gY v1":{"rateCode":"9E4ARCCPGM973F5W.JRTCKXETXF.6YS6EN2CT7","price":"1.8443000000","RegionlessRateCode":"3undpoYOHLvZLziC1Z2GW60ceBfAv38lWIOoNUza8gY","Stream Class":"gen4n_win2022","VCPU":"8","GPU":"NVIDIA T4 Tensor GPU","RAM":"32","VRAM":"16"},"HTrQxQxvms-LfvfB_I108mM15-0sUtTx-4CZ5skBaFg v1":{"rateCode":"VKSSVD9CUMHMN7AZ.JRTCKXETXF.6YS6EN2CT7","price":"0.9511000000","RegionlessRateCode":"HTrQxQxvms-LfvfB_I108mM15-0sUtTx-4CZ5skBaFg","Stream Class":"gen5n_high","VCPU":"4","GPU":"NVIDIA A10G Tensor GPU","RAM":"16","VRAM":"12"},"M9O_G1wSqpboQ-WCdSHjW96Q0Wwn4gHe0JGPM1Up8vw v1":{"rateCode":"XZ49EXFX4FSGBZBJ.JRTCKXETXF.6YS6EN2CT7","price":"1.8187000000","RegionlessRateCode":"M9O_G1wSqpboQ-WCdSHjW96Q0Wwn4gHe0JGPM1Up8vw","Stream Class":"gen5n_ultra","VCPU":"8","GPU":"NVIDIA A10G Tensor GPU","RAM":"32","VRAM":"24"},"rRcTL08VGbFmI8D_hghIEt--9n5Zvxdj-ZlMvABZxks v1":{"rateCode":"MXXVYWPFT8KD4TNJ.JRTCKXETXF.6YS6EN2CT7","price":"2.6559000000","RegionlessRateCode":"rRcTL08VGbFmI8D_hghIEt--9n5Zvxdj-ZlMvABZxks","Stream Class":"gen5n_win2022","VCPU":"8","GPU":"NVIDIA A10G Tensor GPU","RAM":"32","VRAM":"24"},"3undpoYOHLvZLziC1Z2GW60ceBfAv38lWIOoNUza8gY":{"rateCode":"9E4ARCCPGM973F5W.JRTCKXETXF.6YS6EN2CT7","price":"1.8443000000","RegionlessRateCode":"3undpoYOHLvZLziC1Z2GW60ceBfAv38lWIOoNUza8gY"},"HTrQxQxvms-LfvfB_I108mM15-0sUtTx-4CZ5skBaFg":{"rateCode":"VKSSVD9CUMHMN7AZ.JRTCKXETXF.6YS6EN2CT7","price":"0.9511000000","RegionlessRateCode":"HTrQxQxvms-LfvfB_I108mM15-0sUtTx-4CZ5skBaFg"},"IZ3xeSxhQLdZb2vumQEGOd4E61zzuzWriFEuJtN92Io":{"rateCode":"BP3TFH8SBFBTAXS8.JRTCKXETXF.6YS6EN2CT7","price":"0.6571000000","RegionlessRateCode":"IZ3xeSxhQLdZb2vumQEGOd4E61zzuzWriFEuJtN92Io"},"M9O_G1wSqpboQ-WCdSHjW96Q0Wwn4gHe0JGPM1Up8vw":{"rateCode":"XZ49EXFX4FSGBZBJ.JRTCKXETXF.6YS6EN2CT7","price":"1.8187000000","RegionlessRateCode":"M9O_G1wSqpboQ-WCdSHjW96Q0Wwn4gHe0JGPM1Up8vw"},"apiK5yxIVFdgp8FkhEB4ihdjiG2OzP0EL6qNBsFI7js":{"rateCode":"CA8CHTFSWNX6KNZW.JRTCKXETXF.6YS6EN2CT7","price":"0.0316000000","RegionlessRateCode":"apiK5yxIVFdgp8FkhEB4ihdjiG2OzP0EL6qNBsFI7js"},"m5hsTZTV1iF7TwfFdM0rhN6c5bF97dP2dubsdFXH7OU":{"rateCode":"HSEBTU76SJ89AF6B.JRTCKXETXF.6YS6EN2CT7","price":"1.2352000000","RegionlessRateCode":"m5hsTZTV1iF7TwfFdM0rhN6c5bF97dP2dubsdFXH7OU"},"rRcTL08VGbFmI8D_hghIEt--9n5Zvxdj-ZlMvABZxks":{"rateCode":"MXXVYWPFT8KD4TNJ.JRTCKXETXF.6YS6EN2CT7","price":"2.6559000000","RegionlessRateCode":"rRcTL08VGbFmI8D_hghIEt--9n5Zvxdj-ZlMvABZxks"}},"Asia Pacific (Tokyo)":{"IZ3xeSxhQLdZb2vumQEGOd4E61zzuzWriFEuJtN92Io v1":{"rateCode":"87CD7Q4B9WZ5RQ9U.JRTCKXETXF.6YS6EN2CT7","price":"0.8101000000","RegionlessRateCode":"IZ3xeSxhQLdZb2vumQEGOd4E61zzuzWriFEuJtN92Io","Stream Class":"gen4n_high","VCPU":"4","GPU":"NVIDIA T4 Tensor GPU","RAM":"16","VRAM":"8"},"m5hsTZTV1iF7TwfFdM0rhN6c5bF97dP2dubsdFXH7OU v1":{"rateCode":"TVBHSZ2WVUT9ZPW3.JRTCKXETXF.6YS6EN2CT7","price":"1.5347000000","RegionlessRateCode":"m5hsTZTV1iF7TwfFdM0rhN6c5bF97dP2dubsdFXH7OU","Stream Class":"gen4n_ultra","VCPU":"8","GPU":"NVIDIA T4 Tensor GPU","RAM":"32","VRAM":"16"},"3undpoYOHLvZLziC1Z2GW60ceBfAv38lWIOoNUza8gY v1":{"rateCode":"BCXFGBVZTY5D2DDG.JRTCKXETXF.6YS6EN2CT7","price":"2.2543000000","RegionlessRateCode":"3undpoYOHLvZLziC1Z2GW60ceBfAv38lWIOoNUza8gY","Stream Class":"gen4n_win2022","VCPU":"8","GPU":"NVIDIA T4 Tensor GPU","RAM":"32","VRAM":"16"},"HTrQxQxvms-LfvfB_I108mM15-0sUtTx-4CZ5skBaFg v1":{"rateCode":"W8FQRA4YM3A7D3H7.JRTCKXETXF.6YS6EN2CT7","price":"1.0961000000","RegionlessRateCode":"HTrQxQxvms-LfvfB_I108mM15-0sUtTx-4CZ5skBaFg","Stream Class":"gen5n_high","VCPU":"4","GPU":"NVIDIA A10G Tensor GPU","RAM":"16","VRAM":"12"},"M9O_G1wSqpboQ-WCdSHjW96Q0Wwn4gHe0JGPM1Up8vw v1":{"rateCode":"4W2UXZJCAAJGP28G.JRTCKXETXF.6YS6EN2CT7","price":"2.1093000000","RegionlessRateCode":"M9O_G1wSqpboQ-WCdSHjW96Q0Wwn4gHe0JGPM1Up8vw","Stream Class":"gen5n_ultra","VCPU":"8","GPU":"NVIDIA A10G Tensor GPU","RAM":"32","VRAM":"24"},"rRcTL08VGbFmI8D_hghIEt--9n5Zvxdj-ZlMvABZxks v1":{"rateCode":"ATZBQFYUYGXCA2QK.JRTCKXETXF.6YS6EN2CT7","price":"3.3634000000","RegionlessRateCode":"rRcTL08VGbFmI8D_hghIEt--9n5Zvxdj-ZlMvABZxks","Stream Class":"gen5n_win2022","VCPU":"8","GPU":"NVIDIA A10G Tensor GPU","RAM":"32","VRAM":"24"},"3undpoYOHLvZLziC1Z2GW60ceBfAv38lWIOoNUza8gY":{"rateCode":"BCXFGBVZTY5D2DDG.JRTCKXETXF.6YS6EN2CT7","price":"2.2543000000","RegionlessRateCode":"3undpoYOHLvZLziC1Z2GW60ceBfAv38lWIOoNUza8gY"},"HTrQxQxvms-LfvfB_I108mM15-0sUtTx-4CZ5skBaFg":{"rateCode":"W8FQRA4YM3A7D3H7.JRTCKXETXF.6YS6EN2CT7","price":"1.0961000000","RegionlessRateCode":"HTrQxQxvms-LfvfB_I108mM15-0sUtTx-4CZ5skBaFg"},"IZ3xeSxhQLdZb2vumQEGOd4E61zzuzWriFEuJtN92Io":{"rateCode":"87CD7Q4B9WZ5RQ9U.JRTCKXETXF.6YS6EN2CT7","price":"0.8101000000","RegionlessRateCode":"IZ3xeSxhQLdZb2vumQEGOd4E61zzuzWriFEuJtN92Io"},"M9O_G1wSqpboQ-WCdSHjW96Q0Wwn4gHe0JGPM1Up8vw":{"rateCode":"4W2UXZJCAAJGP28G.JRTCKXETXF.6YS6EN2CT7","price":"2.1093000000","RegionlessRateCode":"M9O_G1wSqpboQ-WCdSHjW96Q0Wwn4gHe0JGPM1Up8vw"},"apiK5yxIVFdgp8FkhEB4ihdjiG2OzP0EL6qNBsFI7js":{"rateCode":"8A5KBWZNPTHYWPJF.JRTCKXETXF.6YS6EN2CT7","price":"0.0322000000","RegionlessRateCode":"apiK5yxIVFdgp8FkhEB4ihdjiG2OzP0EL6qNBsFI7js"},"m5hsTZTV1iF7TwfFdM0rhN6c5bF97dP2dubsdFXH7OU":{"rateCode":"TVBHSZ2WVUT9ZPW3.JRTCKXETXF.6YS6EN2CT7","price":"1.5347000000","RegionlessRateCode":"m5hsTZTV1iF7TwfFdM0rhN6c5bF97dP2dubsdFXH7OU"},"rRcTL08VGbFmI8D_hghIEt--9n5Zvxdj-ZlMvABZxks":{"rateCode":"ATZBQFYUYGXCA2QK.JRTCKXETXF.6YS6EN2CT7","price":"3.3634000000","RegionlessRateCode":"rRcTL08VGbFmI8D_hghIEt--9n5Zvxdj-ZlMvABZxks"}}}}
+{
+    "manifest": {
+        "serviceId": "gameliftstreams",
+        "accessType": "publish",
+        "esIndex": "plc-gameliftstreams-usd-20250411220302",
+        "hawkFilePublicationDate": "2025-04-11T22:03:02Z",
+        "ETLIngestionTriggerDate": "2025-04-11T22:03:02Z",
+        "currencyCode": "USD",
+        "source": "gameliftstreams"
+    },
+    "sets": {
+        "Compute Instance OnDemand": [
+            "IZ3xeSxhQLdZb2vumQEGOd4E61zzuzWriFEuJtN92Io v1",
+            "m5hsTZTV1iF7TwfFdM0rhN6c5bF97dP2dubsdFXH7OU v1",
+            "3undpoYOHLvZLziC1Z2GW60ceBfAv38lWIOoNUza8gY v1",
+            "HTrQxQxvms-LfvfB_I108mM15-0sUtTx-4CZ5skBaFg v1",
+            "M9O_G1wSqpboQ-WCdSHjW96Q0Wwn4gHe0JGPM1Up8vw v1",
+            "rRcTL08VGbFmI8D_hghIEt--9n5Zvxdj-ZlMvABZxks v1"
+        ]
+    },
+    "regions": {
+        "US West (Oregon)": {
+            "IZ3xeSxhQLdZb2vumQEGOd4E61zzuzWriFEuJtN92Io v1": {
+                "rateCode": "ANRD747PHU5ZHYPJ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.4982000000",
+                "RegionlessRateCode": "IZ3xeSxhQLdZb2vumQEGOd4E61zzuzWriFEuJtN92Io",
+                "Stream Class": "gen4n_high",
+                "VCPU": "4",
+                "GPU": "NVIDIA T4 Tensor GPU",
+                "RAM": "16",
+                "VRAM": "8"
+            },
+            "m5hsTZTV1iF7TwfFdM0rhN6c5bF97dP2dubsdFXH7OU v1": {
+                "rateCode": "NGPUNDH2P3VSKG8M.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.9288000000",
+                "RegionlessRateCode": "m5hsTZTV1iF7TwfFdM0rhN6c5bF97dP2dubsdFXH7OU",
+                "Stream Class": "gen4n_ultra",
+                "VCPU": "8",
+                "GPU": "NVIDIA T4 Tensor GPU",
+                "RAM": "32",
+                "VRAM": "16"
+            },
+            "3undpoYOHLvZLziC1Z2GW60ceBfAv38lWIOoNUza8gY v1": {
+                "rateCode": "3RTJP694M65PEVDT.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.5120000000",
+                "RegionlessRateCode": "3undpoYOHLvZLziC1Z2GW60ceBfAv38lWIOoNUza8gY",
+                "Stream Class": "gen4n_win2022",
+                "VCPU": "8",
+                "GPU": "NVIDIA T4 Tensor GPU",
+                "RAM": "32",
+                "VRAM": "16"
+            },
+            "HTrQxQxvms-LfvfB_I108mM15-0sUtTx-4CZ5skBaFg v1": {
+                "rateCode": "RPR92P5E9WXDSREA.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.7625000000",
+                "RegionlessRateCode": "HTrQxQxvms-LfvfB_I108mM15-0sUtTx-4CZ5skBaFg",
+                "Stream Class": "gen5n_high",
+                "VCPU": "4",
+                "GPU": "NVIDIA A10G Tensor GPU",
+                "RAM": "16",
+                "VRAM": "12"
+            },
+            "M9O_G1wSqpboQ-WCdSHjW96Q0Wwn4gHe0JGPM1Up8vw v1": {
+                "rateCode": "8W28VTA8DHG923PU.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.4544000000",
+                "RegionlessRateCode": "M9O_G1wSqpboQ-WCdSHjW96Q0Wwn4gHe0JGPM1Up8vw",
+                "Stream Class": "gen5n_ultra",
+                "VCPU": "8",
+                "GPU": "NVIDIA A10G Tensor GPU",
+                "RAM": "32",
+                "VRAM": "24"
+            },
+            "rRcTL08VGbFmI8D_hghIEt--9n5Zvxdj-ZlMvABZxks v1": {
+                "rateCode": "2TRRYEVX9SFGJC9T.JRTCKXETXF.6YS6EN2CT7",
+                "price": "2.1300000000",
+                "RegionlessRateCode": "rRcTL08VGbFmI8D_hghIEt--9n5Zvxdj-ZlMvABZxks",
+                "Stream Class": "gen5n_win2022",
+                "VCPU": "8",
+                "GPU": "NVIDIA A10G Tensor GPU",
+                "RAM": "32",
+                "VRAM": "24"
+            },
+            "3undpoYOHLvZLziC1Z2GW60ceBfAv38lWIOoNUza8gY": {
+                "rateCode": "3RTJP694M65PEVDT.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.5120000000",
+                "RegionlessRateCode": "3undpoYOHLvZLziC1Z2GW60ceBfAv38lWIOoNUza8gY"
+            },
+            "HTrQxQxvms-LfvfB_I108mM15-0sUtTx-4CZ5skBaFg": {
+                "rateCode": "RPR92P5E9WXDSREA.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.7625000000",
+                "RegionlessRateCode": "HTrQxQxvms-LfvfB_I108mM15-0sUtTx-4CZ5skBaFg"
+            },
+            "IZ3xeSxhQLdZb2vumQEGOd4E61zzuzWriFEuJtN92Io": {
+                "rateCode": "ANRD747PHU5ZHYPJ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.4982000000",
+                "RegionlessRateCode": "IZ3xeSxhQLdZb2vumQEGOd4E61zzuzWriFEuJtN92Io"
+            },
+            "M9O_G1wSqpboQ-WCdSHjW96Q0Wwn4gHe0JGPM1Up8vw": {
+                "rateCode": "8W28VTA8DHG923PU.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.4544000000",
+                "RegionlessRateCode": "M9O_G1wSqpboQ-WCdSHjW96Q0Wwn4gHe0JGPM1Up8vw"
+            },
+            "apiK5yxIVFdgp8FkhEB4ihdjiG2OzP0EL6qNBsFI7js": {
+                "rateCode": "KEG4NBEXQ2W4RWUJ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0296000000",
+                "RegionlessRateCode": "apiK5yxIVFdgp8FkhEB4ihdjiG2OzP0EL6qNBsFI7js"
+            },
+            "m5hsTZTV1iF7TwfFdM0rhN6c5bF97dP2dubsdFXH7OU": {
+                "rateCode": "NGPUNDH2P3VSKG8M.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.9288000000",
+                "RegionlessRateCode": "m5hsTZTV1iF7TwfFdM0rhN6c5bF97dP2dubsdFXH7OU"
+            },
+            "rRcTL08VGbFmI8D_hghIEt--9n5Zvxdj-ZlMvABZxks": {
+                "rateCode": "2TRRYEVX9SFGJC9T.JRTCKXETXF.6YS6EN2CT7",
+                "price": "2.1300000000",
+                "RegionlessRateCode": "rRcTL08VGbFmI8D_hghIEt--9n5Zvxdj-ZlMvABZxks"
+            }
+        },
+        "US East (Ohio)": {
+            "IZ3xeSxhQLdZb2vumQEGOd4E61zzuzWriFEuJtN92Io v1": {
+                "rateCode": "M8NKUUQWVB97EE96.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.4982000000",
+                "RegionlessRateCode": "IZ3xeSxhQLdZb2vumQEGOd4E61zzuzWriFEuJtN92Io",
+                "Stream Class": "gen4n_high",
+                "VCPU": "4",
+                "GPU": "NVIDIA T4 Tensor GPU",
+                "RAM": "16",
+                "VRAM": "8"
+            },
+            "m5hsTZTV1iF7TwfFdM0rhN6c5bF97dP2dubsdFXH7OU v1": {
+                "rateCode": "XD3M2PYYBDMX4GZE.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.9288000000",
+                "RegionlessRateCode": "m5hsTZTV1iF7TwfFdM0rhN6c5bF97dP2dubsdFXH7OU",
+                "Stream Class": "gen4n_ultra",
+                "VCPU": "8",
+                "GPU": "NVIDIA T4 Tensor GPU",
+                "RAM": "32",
+                "VRAM": "16"
+            },
+            "3undpoYOHLvZLziC1Z2GW60ceBfAv38lWIOoNUza8gY v1": {
+                "rateCode": "GKW82YFAMKK8V9DV.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.5120000000",
+                "RegionlessRateCode": "3undpoYOHLvZLziC1Z2GW60ceBfAv38lWIOoNUza8gY",
+                "Stream Class": "gen4n_win2022",
+                "VCPU": "8",
+                "GPU": "NVIDIA T4 Tensor GPU",
+                "RAM": "32",
+                "VRAM": "16"
+            },
+            "HTrQxQxvms-LfvfB_I108mM15-0sUtTx-4CZ5skBaFg v1": {
+                "rateCode": "WAB6WGHBEHGTZQ4X.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.7666000000",
+                "RegionlessRateCode": "HTrQxQxvms-LfvfB_I108mM15-0sUtTx-4CZ5skBaFg",
+                "Stream Class": "gen5n_high",
+                "VCPU": "4",
+                "GPU": "NVIDIA A10G Tensor GPU",
+                "RAM": "16",
+                "VRAM": "12"
+            },
+            "M9O_G1wSqpboQ-WCdSHjW96Q0Wwn4gHe0JGPM1Up8vw v1": {
+                "rateCode": "NJCJXY4YG7NTPZ6K.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.4544000000",
+                "RegionlessRateCode": "M9O_G1wSqpboQ-WCdSHjW96Q0Wwn4gHe0JGPM1Up8vw",
+                "Stream Class": "gen5n_ultra",
+                "VCPU": "8",
+                "GPU": "NVIDIA A10G Tensor GPU",
+                "RAM": "32",
+                "VRAM": "24"
+            },
+            "rRcTL08VGbFmI8D_hghIEt--9n5Zvxdj-ZlMvABZxks v1": {
+                "rateCode": "P5669T57DUPKBA2D.JRTCKXETXF.6YS6EN2CT7",
+                "price": "2.1300000000",
+                "RegionlessRateCode": "rRcTL08VGbFmI8D_hghIEt--9n5Zvxdj-ZlMvABZxks",
+                "Stream Class": "gen5n_win2022",
+                "VCPU": "8",
+                "GPU": "NVIDIA A10G Tensor GPU",
+                "RAM": "32",
+                "VRAM": "24"
+            },
+            "3undpoYOHLvZLziC1Z2GW60ceBfAv38lWIOoNUza8gY": {
+                "rateCode": "GKW82YFAMKK8V9DV.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.5120000000",
+                "RegionlessRateCode": "3undpoYOHLvZLziC1Z2GW60ceBfAv38lWIOoNUza8gY"
+            },
+            "HTrQxQxvms-LfvfB_I108mM15-0sUtTx-4CZ5skBaFg": {
+                "rateCode": "WAB6WGHBEHGTZQ4X.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.7666000000",
+                "RegionlessRateCode": "HTrQxQxvms-LfvfB_I108mM15-0sUtTx-4CZ5skBaFg"
+            },
+            "IZ3xeSxhQLdZb2vumQEGOd4E61zzuzWriFEuJtN92Io": {
+                "rateCode": "M8NKUUQWVB97EE96.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.4982000000",
+                "RegionlessRateCode": "IZ3xeSxhQLdZb2vumQEGOd4E61zzuzWriFEuJtN92Io"
+            },
+            "M9O_G1wSqpboQ-WCdSHjW96Q0Wwn4gHe0JGPM1Up8vw": {
+                "rateCode": "NJCJXY4YG7NTPZ6K.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.4544000000",
+                "RegionlessRateCode": "M9O_G1wSqpboQ-WCdSHjW96Q0Wwn4gHe0JGPM1Up8vw"
+            },
+            "apiK5yxIVFdgp8FkhEB4ihdjiG2OzP0EL6qNBsFI7js": {
+                "rateCode": "R6HDKZD64NM8JMBP.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0296000000",
+                "RegionlessRateCode": "apiK5yxIVFdgp8FkhEB4ihdjiG2OzP0EL6qNBsFI7js"
+            },
+            "m5hsTZTV1iF7TwfFdM0rhN6c5bF97dP2dubsdFXH7OU": {
+                "rateCode": "XD3M2PYYBDMX4GZE.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.9288000000",
+                "RegionlessRateCode": "m5hsTZTV1iF7TwfFdM0rhN6c5bF97dP2dubsdFXH7OU"
+            },
+            "rRcTL08VGbFmI8D_hghIEt--9n5Zvxdj-ZlMvABZxks": {
+                "rateCode": "P5669T57DUPKBA2D.JRTCKXETXF.6YS6EN2CT7",
+                "price": "2.1300000000",
+                "RegionlessRateCode": "rRcTL08VGbFmI8D_hghIEt--9n5Zvxdj-ZlMvABZxks"
+            }
+        },
+        "US East (N. Virginia)": {
+            "IZ3xeSxhQLdZb2vumQEGOd4E61zzuzWriFEuJtN92Io v1": {
+                "rateCode": "6HKD53VM2Z6GFNYP.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.5205000000",
+                "RegionlessRateCode": "IZ3xeSxhQLdZb2vumQEGOd4E61zzuzWriFEuJtN92Io",
+                "Stream Class": "gen4n_high",
+                "VCPU": "4",
+                "GPU": "NVIDIA T4 Tensor GPU",
+                "RAM": "16",
+                "VRAM": "8"
+            },
+            "m5hsTZTV1iF7TwfFdM0rhN6c5bF97dP2dubsdFXH7OU v1": {
+                "rateCode": "AH7H8GAHHUEJ2552.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.9927000000",
+                "RegionlessRateCode": "m5hsTZTV1iF7TwfFdM0rhN6c5bF97dP2dubsdFXH7OU",
+                "Stream Class": "gen4n_ultra",
+                "VCPU": "8",
+                "GPU": "NVIDIA T4 Tensor GPU",
+                "RAM": "32",
+                "VRAM": "16"
+            },
+            "3undpoYOHLvZLziC1Z2GW60ceBfAv38lWIOoNUza8gY v1": {
+                "rateCode": "ZQNVDARBU5F6GYJA.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.5120000000",
+                "RegionlessRateCode": "3undpoYOHLvZLziC1Z2GW60ceBfAv38lWIOoNUza8gY",
+                "Stream Class": "gen4n_win2022",
+                "VCPU": "8",
+                "GPU": "NVIDIA T4 Tensor GPU",
+                "RAM": "32",
+                "VRAM": "16"
+            },
+            "HTrQxQxvms-LfvfB_I108mM15-0sUtTx-4CZ5skBaFg v1": {
+                "rateCode": "EB6W2KPR8FF4EPAR.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.7544000000",
+                "RegionlessRateCode": "HTrQxQxvms-LfvfB_I108mM15-0sUtTx-4CZ5skBaFg",
+                "Stream Class": "gen5n_high",
+                "VCPU": "4",
+                "GPU": "NVIDIA A10G Tensor GPU",
+                "RAM": "16",
+                "VRAM": "12"
+            },
+            "M9O_G1wSqpboQ-WCdSHjW96Q0Wwn4gHe0JGPM1Up8vw v1": {
+                "rateCode": "XJ47FBJT2PF6TAYV.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.4544000000",
+                "RegionlessRateCode": "M9O_G1wSqpboQ-WCdSHjW96Q0Wwn4gHe0JGPM1Up8vw",
+                "Stream Class": "gen5n_ultra",
+                "VCPU": "8",
+                "GPU": "NVIDIA A10G Tensor GPU",
+                "RAM": "32",
+                "VRAM": "24"
+            },
+            "rRcTL08VGbFmI8D_hghIEt--9n5Zvxdj-ZlMvABZxks v1": {
+                "rateCode": "QQX3SX8HNTZVHWX3.JRTCKXETXF.6YS6EN2CT7",
+                "price": "2.1300000000",
+                "RegionlessRateCode": "rRcTL08VGbFmI8D_hghIEt--9n5Zvxdj-ZlMvABZxks",
+                "Stream Class": "gen5n_win2022",
+                "VCPU": "8",
+                "GPU": "NVIDIA A10G Tensor GPU",
+                "RAM": "32",
+                "VRAM": "24"
+            },
+            "3undpoYOHLvZLziC1Z2GW60ceBfAv38lWIOoNUza8gY": {
+                "rateCode": "ZQNVDARBU5F6GYJA.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.5120000000",
+                "RegionlessRateCode": "3undpoYOHLvZLziC1Z2GW60ceBfAv38lWIOoNUza8gY"
+            },
+            "HTrQxQxvms-LfvfB_I108mM15-0sUtTx-4CZ5skBaFg": {
+                "rateCode": "EB6W2KPR8FF4EPAR.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.7544000000",
+                "RegionlessRateCode": "HTrQxQxvms-LfvfB_I108mM15-0sUtTx-4CZ5skBaFg"
+            },
+            "IZ3xeSxhQLdZb2vumQEGOd4E61zzuzWriFEuJtN92Io": {
+                "rateCode": "6HKD53VM2Z6GFNYP.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.5205000000",
+                "RegionlessRateCode": "IZ3xeSxhQLdZb2vumQEGOd4E61zzuzWriFEuJtN92Io"
+            },
+            "M9O_G1wSqpboQ-WCdSHjW96Q0Wwn4gHe0JGPM1Up8vw": {
+                "rateCode": "XJ47FBJT2PF6TAYV.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.4544000000",
+                "RegionlessRateCode": "M9O_G1wSqpboQ-WCdSHjW96Q0Wwn4gHe0JGPM1Up8vw"
+            },
+            "m5hsTZTV1iF7TwfFdM0rhN6c5bF97dP2dubsdFXH7OU": {
+                "rateCode": "AH7H8GAHHUEJ2552.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.9927000000",
+                "RegionlessRateCode": "m5hsTZTV1iF7TwfFdM0rhN6c5bF97dP2dubsdFXH7OU"
+            },
+            "rRcTL08VGbFmI8D_hghIEt--9n5Zvxdj-ZlMvABZxks": {
+                "rateCode": "QQX3SX8HNTZVHWX3.JRTCKXETXF.6YS6EN2CT7",
+                "price": "2.1300000000",
+                "RegionlessRateCode": "rRcTL08VGbFmI8D_hghIEt--9n5Zvxdj-ZlMvABZxks"
+            }
+        },
+        "EU (Ireland)": {
+            "IZ3xeSxhQLdZb2vumQEGOd4E61zzuzWriFEuJtN92Io v1": {
+                "rateCode": "P4RT8X3Y24TY88TY.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.5419000000",
+                "RegionlessRateCode": "IZ3xeSxhQLdZb2vumQEGOd4E61zzuzWriFEuJtN92Io",
+                "Stream Class": "gen4n_high",
+                "VCPU": "4",
+                "GPU": "NVIDIA T4 Tensor GPU",
+                "RAM": "16",
+                "VRAM": "8"
+            },
+            "m5hsTZTV1iF7TwfFdM0rhN6c5bF97dP2dubsdFXH7OU v1": {
+                "rateCode": "RGRHSZ42D4ETZNMB.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.0126000000",
+                "RegionlessRateCode": "m5hsTZTV1iF7TwfFdM0rhN6c5bF97dP2dubsdFXH7OU",
+                "Stream Class": "gen4n_ultra",
+                "VCPU": "8",
+                "GPU": "NVIDIA T4 Tensor GPU",
+                "RAM": "32",
+                "VRAM": "16"
+            },
+            "3undpoYOHLvZLziC1Z2GW60ceBfAv38lWIOoNUza8gY v1": {
+                "rateCode": "PHYZVZA8KGXRXT8Q.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.7005000000",
+                "RegionlessRateCode": "3undpoYOHLvZLziC1Z2GW60ceBfAv38lWIOoNUza8gY",
+                "Stream Class": "gen4n_win2022",
+                "VCPU": "8",
+                "GPU": "NVIDIA T4 Tensor GPU",
+                "RAM": "32",
+                "VRAM": "16"
+            },
+            "HTrQxQxvms-LfvfB_I108mM15-0sUtTx-4CZ5skBaFg v1": {
+                "rateCode": "DQ9JDYC89M75BWAC.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.8504000000",
+                "RegionlessRateCode": "HTrQxQxvms-LfvfB_I108mM15-0sUtTx-4CZ5skBaFg",
+                "Stream Class": "gen5n_high",
+                "VCPU": "4",
+                "GPU": "NVIDIA A10G Tensor GPU",
+                "RAM": "16",
+                "VRAM": "12"
+            },
+            "M9O_G1wSqpboQ-WCdSHjW96Q0Wwn4gHe0JGPM1Up8vw v1": {
+                "rateCode": "TXNFQUHJYPZZKTGJ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.6236000000",
+                "RegionlessRateCode": "M9O_G1wSqpboQ-WCdSHjW96Q0Wwn4gHe0JGPM1Up8vw",
+                "Stream Class": "gen5n_ultra",
+                "VCPU": "8",
+                "GPU": "NVIDIA A10G Tensor GPU",
+                "RAM": "32",
+                "VRAM": "24"
+            },
+            "rRcTL08VGbFmI8D_hghIEt--9n5Zvxdj-ZlMvABZxks v1": {
+                "rateCode": "PACAMNVD3SX82GU4.JRTCKXETXF.6YS6EN2CT7",
+                "price": "2.4266000000",
+                "RegionlessRateCode": "rRcTL08VGbFmI8D_hghIEt--9n5Zvxdj-ZlMvABZxks",
+                "Stream Class": "gen5n_win2022",
+                "VCPU": "8",
+                "GPU": "NVIDIA A10G Tensor GPU",
+                "RAM": "32",
+                "VRAM": "24"
+            },
+            "3undpoYOHLvZLziC1Z2GW60ceBfAv38lWIOoNUza8gY": {
+                "rateCode": "PHYZVZA8KGXRXT8Q.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.7005000000",
+                "RegionlessRateCode": "3undpoYOHLvZLziC1Z2GW60ceBfAv38lWIOoNUza8gY"
+            },
+            "HTrQxQxvms-LfvfB_I108mM15-0sUtTx-4CZ5skBaFg": {
+                "rateCode": "DQ9JDYC89M75BWAC.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.8504000000",
+                "RegionlessRateCode": "HTrQxQxvms-LfvfB_I108mM15-0sUtTx-4CZ5skBaFg"
+            },
+            "IZ3xeSxhQLdZb2vumQEGOd4E61zzuzWriFEuJtN92Io": {
+                "rateCode": "P4RT8X3Y24TY88TY.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.5419000000",
+                "RegionlessRateCode": "IZ3xeSxhQLdZb2vumQEGOd4E61zzuzWriFEuJtN92Io"
+            },
+            "M9O_G1wSqpboQ-WCdSHjW96Q0Wwn4gHe0JGPM1Up8vw": {
+                "rateCode": "TXNFQUHJYPZZKTGJ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.6236000000",
+                "RegionlessRateCode": "M9O_G1wSqpboQ-WCdSHjW96Q0Wwn4gHe0JGPM1Up8vw"
+            },
+            "m5hsTZTV1iF7TwfFdM0rhN6c5bF97dP2dubsdFXH7OU": {
+                "rateCode": "RGRHSZ42D4ETZNMB.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.0126000000",
+                "RegionlessRateCode": "m5hsTZTV1iF7TwfFdM0rhN6c5bF97dP2dubsdFXH7OU"
+            },
+            "rRcTL08VGbFmI8D_hghIEt--9n5Zvxdj-ZlMvABZxks": {
+                "rateCode": "PACAMNVD3SX82GU4.JRTCKXETXF.6YS6EN2CT7",
+                "price": "2.4266000000",
+                "RegionlessRateCode": "rRcTL08VGbFmI8D_hghIEt--9n5Zvxdj-ZlMvABZxks"
+            }
+        },
+        "EU (Frankfurt)": {
+            "IZ3xeSxhQLdZb2vumQEGOd4E61zzuzWriFEuJtN92Io v1": {
+                "rateCode": "BP3TFH8SBFBTAXS8.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.6571000000",
+                "RegionlessRateCode": "IZ3xeSxhQLdZb2vumQEGOd4E61zzuzWriFEuJtN92Io",
+                "Stream Class": "gen4n_high",
+                "VCPU": "4",
+                "GPU": "NVIDIA T4 Tensor GPU",
+                "RAM": "16",
+                "VRAM": "8"
+            },
+            "m5hsTZTV1iF7TwfFdM0rhN6c5bF97dP2dubsdFXH7OU v1": {
+                "rateCode": "HSEBTU76SJ89AF6B.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.2352000000",
+                "RegionlessRateCode": "m5hsTZTV1iF7TwfFdM0rhN6c5bF97dP2dubsdFXH7OU",
+                "Stream Class": "gen4n_ultra",
+                "VCPU": "8",
+                "GPU": "NVIDIA T4 Tensor GPU",
+                "RAM": "32",
+                "VRAM": "16"
+            },
+            "3undpoYOHLvZLziC1Z2GW60ceBfAv38lWIOoNUza8gY v1": {
+                "rateCode": "9E4ARCCPGM973F5W.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.8443000000",
+                "RegionlessRateCode": "3undpoYOHLvZLziC1Z2GW60ceBfAv38lWIOoNUza8gY",
+                "Stream Class": "gen4n_win2022",
+                "VCPU": "8",
+                "GPU": "NVIDIA T4 Tensor GPU",
+                "RAM": "32",
+                "VRAM": "16"
+            },
+            "HTrQxQxvms-LfvfB_I108mM15-0sUtTx-4CZ5skBaFg v1": {
+                "rateCode": "VKSSVD9CUMHMN7AZ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.9511000000",
+                "RegionlessRateCode": "HTrQxQxvms-LfvfB_I108mM15-0sUtTx-4CZ5skBaFg",
+                "Stream Class": "gen5n_high",
+                "VCPU": "4",
+                "GPU": "NVIDIA A10G Tensor GPU",
+                "RAM": "16",
+                "VRAM": "12"
+            },
+            "M9O_G1wSqpboQ-WCdSHjW96Q0Wwn4gHe0JGPM1Up8vw v1": {
+                "rateCode": "XZ49EXFX4FSGBZBJ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.8187000000",
+                "RegionlessRateCode": "M9O_G1wSqpboQ-WCdSHjW96Q0Wwn4gHe0JGPM1Up8vw",
+                "Stream Class": "gen5n_ultra",
+                "VCPU": "8",
+                "GPU": "NVIDIA A10G Tensor GPU",
+                "RAM": "32",
+                "VRAM": "24"
+            },
+            "rRcTL08VGbFmI8D_hghIEt--9n5Zvxdj-ZlMvABZxks v1": {
+                "rateCode": "MXXVYWPFT8KD4TNJ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "2.6559000000",
+                "RegionlessRateCode": "rRcTL08VGbFmI8D_hghIEt--9n5Zvxdj-ZlMvABZxks",
+                "Stream Class": "gen5n_win2022",
+                "VCPU": "8",
+                "GPU": "NVIDIA A10G Tensor GPU",
+                "RAM": "32",
+                "VRAM": "24"
+            },
+            "3undpoYOHLvZLziC1Z2GW60ceBfAv38lWIOoNUza8gY": {
+                "rateCode": "9E4ARCCPGM973F5W.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.8443000000",
+                "RegionlessRateCode": "3undpoYOHLvZLziC1Z2GW60ceBfAv38lWIOoNUza8gY"
+            },
+            "HTrQxQxvms-LfvfB_I108mM15-0sUtTx-4CZ5skBaFg": {
+                "rateCode": "VKSSVD9CUMHMN7AZ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.9511000000",
+                "RegionlessRateCode": "HTrQxQxvms-LfvfB_I108mM15-0sUtTx-4CZ5skBaFg"
+            },
+            "IZ3xeSxhQLdZb2vumQEGOd4E61zzuzWriFEuJtN92Io": {
+                "rateCode": "BP3TFH8SBFBTAXS8.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.6571000000",
+                "RegionlessRateCode": "IZ3xeSxhQLdZb2vumQEGOd4E61zzuzWriFEuJtN92Io"
+            },
+            "M9O_G1wSqpboQ-WCdSHjW96Q0Wwn4gHe0JGPM1Up8vw": {
+                "rateCode": "XZ49EXFX4FSGBZBJ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.8187000000",
+                "RegionlessRateCode": "M9O_G1wSqpboQ-WCdSHjW96Q0Wwn4gHe0JGPM1Up8vw"
+            },
+            "apiK5yxIVFdgp8FkhEB4ihdjiG2OzP0EL6qNBsFI7js": {
+                "rateCode": "CA8CHTFSWNX6KNZW.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0316000000",
+                "RegionlessRateCode": "apiK5yxIVFdgp8FkhEB4ihdjiG2OzP0EL6qNBsFI7js"
+            },
+            "m5hsTZTV1iF7TwfFdM0rhN6c5bF97dP2dubsdFXH7OU": {
+                "rateCode": "HSEBTU76SJ89AF6B.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.2352000000",
+                "RegionlessRateCode": "m5hsTZTV1iF7TwfFdM0rhN6c5bF97dP2dubsdFXH7OU"
+            },
+            "rRcTL08VGbFmI8D_hghIEt--9n5Zvxdj-ZlMvABZxks": {
+                "rateCode": "MXXVYWPFT8KD4TNJ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "2.6559000000",
+                "RegionlessRateCode": "rRcTL08VGbFmI8D_hghIEt--9n5Zvxdj-ZlMvABZxks"
+            }
+        },
+        "Asia Pacific (Tokyo)": {
+            "IZ3xeSxhQLdZb2vumQEGOd4E61zzuzWriFEuJtN92Io v1": {
+                "rateCode": "87CD7Q4B9WZ5RQ9U.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.8101000000",
+                "RegionlessRateCode": "IZ3xeSxhQLdZb2vumQEGOd4E61zzuzWriFEuJtN92Io",
+                "Stream Class": "gen4n_high",
+                "VCPU": "4",
+                "GPU": "NVIDIA T4 Tensor GPU",
+                "RAM": "16",
+                "VRAM": "8"
+            },
+            "m5hsTZTV1iF7TwfFdM0rhN6c5bF97dP2dubsdFXH7OU v1": {
+                "rateCode": "TVBHSZ2WVUT9ZPW3.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.5347000000",
+                "RegionlessRateCode": "m5hsTZTV1iF7TwfFdM0rhN6c5bF97dP2dubsdFXH7OU",
+                "Stream Class": "gen4n_ultra",
+                "VCPU": "8",
+                "GPU": "NVIDIA T4 Tensor GPU",
+                "RAM": "32",
+                "VRAM": "16"
+            },
+            "3undpoYOHLvZLziC1Z2GW60ceBfAv38lWIOoNUza8gY v1": {
+                "rateCode": "BCXFGBVZTY5D2DDG.JRTCKXETXF.6YS6EN2CT7",
+                "price": "2.2543000000",
+                "RegionlessRateCode": "3undpoYOHLvZLziC1Z2GW60ceBfAv38lWIOoNUza8gY",
+                "Stream Class": "gen4n_win2022",
+                "VCPU": "8",
+                "GPU": "NVIDIA T4 Tensor GPU",
+                "RAM": "32",
+                "VRAM": "16"
+            },
+            "HTrQxQxvms-LfvfB_I108mM15-0sUtTx-4CZ5skBaFg v1": {
+                "rateCode": "W8FQRA4YM3A7D3H7.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.0961000000",
+                "RegionlessRateCode": "HTrQxQxvms-LfvfB_I108mM15-0sUtTx-4CZ5skBaFg",
+                "Stream Class": "gen5n_high",
+                "VCPU": "4",
+                "GPU": "NVIDIA A10G Tensor GPU",
+                "RAM": "16",
+                "VRAM": "12"
+            },
+            "M9O_G1wSqpboQ-WCdSHjW96Q0Wwn4gHe0JGPM1Up8vw v1": {
+                "rateCode": "4W2UXZJCAAJGP28G.JRTCKXETXF.6YS6EN2CT7",
+                "price": "2.1093000000",
+                "RegionlessRateCode": "M9O_G1wSqpboQ-WCdSHjW96Q0Wwn4gHe0JGPM1Up8vw",
+                "Stream Class": "gen5n_ultra",
+                "VCPU": "8",
+                "GPU": "NVIDIA A10G Tensor GPU",
+                "RAM": "32",
+                "VRAM": "24"
+            },
+            "rRcTL08VGbFmI8D_hghIEt--9n5Zvxdj-ZlMvABZxks v1": {
+                "rateCode": "ATZBQFYUYGXCA2QK.JRTCKXETXF.6YS6EN2CT7",
+                "price": "3.3634000000",
+                "RegionlessRateCode": "rRcTL08VGbFmI8D_hghIEt--9n5Zvxdj-ZlMvABZxks",
+                "Stream Class": "gen5n_win2022",
+                "VCPU": "8",
+                "GPU": "NVIDIA A10G Tensor GPU",
+                "RAM": "32",
+                "VRAM": "24"
+            },
+            "3undpoYOHLvZLziC1Z2GW60ceBfAv38lWIOoNUza8gY": {
+                "rateCode": "BCXFGBVZTY5D2DDG.JRTCKXETXF.6YS6EN2CT7",
+                "price": "2.2543000000",
+                "RegionlessRateCode": "3undpoYOHLvZLziC1Z2GW60ceBfAv38lWIOoNUza8gY"
+            },
+            "HTrQxQxvms-LfvfB_I108mM15-0sUtTx-4CZ5skBaFg": {
+                "rateCode": "W8FQRA4YM3A7D3H7.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.0961000000",
+                "RegionlessRateCode": "HTrQxQxvms-LfvfB_I108mM15-0sUtTx-4CZ5skBaFg"
+            },
+            "IZ3xeSxhQLdZb2vumQEGOd4E61zzuzWriFEuJtN92Io": {
+                "rateCode": "87CD7Q4B9WZ5RQ9U.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.8101000000",
+                "RegionlessRateCode": "IZ3xeSxhQLdZb2vumQEGOd4E61zzuzWriFEuJtN92Io"
+            },
+            "M9O_G1wSqpboQ-WCdSHjW96Q0Wwn4gHe0JGPM1Up8vw": {
+                "rateCode": "4W2UXZJCAAJGP28G.JRTCKXETXF.6YS6EN2CT7",
+                "price": "2.1093000000",
+                "RegionlessRateCode": "M9O_G1wSqpboQ-WCdSHjW96Q0Wwn4gHe0JGPM1Up8vw"
+            },
+            "apiK5yxIVFdgp8FkhEB4ihdjiG2OzP0EL6qNBsFI7js": {
+                "rateCode": "8A5KBWZNPTHYWPJF.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0322000000",
+                "RegionlessRateCode": "apiK5yxIVFdgp8FkhEB4ihdjiG2OzP0EL6qNBsFI7js"
+            },
+            "m5hsTZTV1iF7TwfFdM0rhN6c5bF97dP2dubsdFXH7OU": {
+                "rateCode": "TVBHSZ2WVUT9ZPW3.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.5347000000",
+                "RegionlessRateCode": "m5hsTZTV1iF7TwfFdM0rhN6c5bF97dP2dubsdFXH7OU"
+            },
+            "rRcTL08VGbFmI8D_hghIEt--9n5Zvxdj-ZlMvABZxks": {
+                "rateCode": "ATZBQFYUYGXCA2QK.JRTCKXETXF.6YS6EN2CT7",
+                "price": "3.3634000000",
+                "RegionlessRateCode": "rRcTL08VGbFmI8D_hghIEt--9n5Zvxdj-ZlMvABZxks"
+            }
+        }
+    }
+}

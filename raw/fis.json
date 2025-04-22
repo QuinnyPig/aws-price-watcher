@@ -1,1 +1,626 @@
-{"manifest":{"serviceId":"fis","accessType":"publish","esIndex":"plc-fis-usd-20241112203339","hawkFilePublicationDate":"2024-11-12T20:33:39Z","ETLIngestionTriggerDate":"2024-11-12T20:33:39Z","currencyCode":"USD","source":"fis","isMapped":"true"},"sets":{},"regions":{"US West (Oregon)":{"9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU":{"rateCode":"3WSRZWCRB3N55KCD.JRTCKXETXF.6YS6EN2CT7","price":"0.1000000000","RegionlessRateCode":"9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU"},"CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w":{"rateCode":"HPR8H4ZYB9W494TE.JRTCKXETXF.6YS6EN2CT7","price":"0.1000000000","RegionlessRateCode":"CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w"},"e_UPmWeqESTsysJaU5NGLUPrvlEHDr5L8V_y7neowp0":{"rateCode":"FVNZP4W885X63F9M.JRTCKXETXF.6YS6EN2CT7","price":"5.0000000000","RegionlessRateCode":"e_UPmWeqESTsysJaU5NGLUPrvlEHDr5L8V_y7neowp0"},"Developer Tools Action ActionMinute":{"rateCode":"3WSRZWCRB3N55KCD.JRTCKXETXF.6YS6EN2CT7","price":"0.1000000000","RegionlessRateCode":"9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU"},"Developer Tools Multi-Account Action ActionMinuteAccount":{"rateCode":"HPR8H4ZYB9W494TE.JRTCKXETXF.6YS6EN2CT7","price":"0.1000000000","RegionlessRateCode":"CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w"}},"US West (N. California)":{"9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU":{"rateCode":"95U85NMSFVMCJT78.JRTCKXETXF.6YS6EN2CT7","price":"0.1000000000","RegionlessRateCode":"9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU"},"CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w":{"rateCode":"J9ZDK65S8YVSH29T.JRTCKXETXF.6YS6EN2CT7","price":"0.1000000000","RegionlessRateCode":"CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w"},"e_UPmWeqESTsysJaU5NGLUPrvlEHDr5L8V_y7neowp0":{"rateCode":"3QT7ZM6WDV97XCRB.JRTCKXETXF.6YS6EN2CT7","price":"5.0000000000","RegionlessRateCode":"e_UPmWeqESTsysJaU5NGLUPrvlEHDr5L8V_y7neowp0"},"Developer Tools Action ActionMinute":{"rateCode":"95U85NMSFVMCJT78.JRTCKXETXF.6YS6EN2CT7","price":"0.1000000000","RegionlessRateCode":"9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU"},"Developer Tools Multi-Account Action ActionMinuteAccount":{"rateCode":"J9ZDK65S8YVSH29T.JRTCKXETXF.6YS6EN2CT7","price":"0.1000000000","RegionlessRateCode":"CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w"}},"US East (Ohio)":{"9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU":{"rateCode":"4F28TPTQGUV3HQGN.JRTCKXETXF.6YS6EN2CT7","price":"0.1000000000","RegionlessRateCode":"9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU"},"CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w":{"rateCode":"HBJVVTZH6YG2R5Z7.JRTCKXETXF.6YS6EN2CT7","price":"0.1000000000","RegionlessRateCode":"CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w"},"e_UPmWeqESTsysJaU5NGLUPrvlEHDr5L8V_y7neowp0":{"rateCode":"455REES82X3EAPX8.JRTCKXETXF.6YS6EN2CT7","price":"5.0000000000","RegionlessRateCode":"e_UPmWeqESTsysJaU5NGLUPrvlEHDr5L8V_y7neowp0"},"Developer Tools Action ActionMinute":{"rateCode":"4F28TPTQGUV3HQGN.JRTCKXETXF.6YS6EN2CT7","price":"0.1000000000","RegionlessRateCode":"9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU"},"Developer Tools Multi-Account Action ActionMinuteAccount":{"rateCode":"HBJVVTZH6YG2R5Z7.JRTCKXETXF.6YS6EN2CT7","price":"0.1000000000","RegionlessRateCode":"CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w"}},"US East (N. Virginia)":{"9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU":{"rateCode":"3GBATKSWGM9RXAZS.JRTCKXETXF.6YS6EN2CT7","price":"0.1000000000","RegionlessRateCode":"9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU"},"CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w":{"rateCode":"9Z2DSQMTB3W5HQ9X.JRTCKXETXF.6YS6EN2CT7","price":"0.1000000000","RegionlessRateCode":"CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w"},"e_UPmWeqESTsysJaU5NGLUPrvlEHDr5L8V_y7neowp0":{"rateCode":"WHSNQ43U5DRENM5F.JRTCKXETXF.6YS6EN2CT7","price":"5.0000000000","RegionlessRateCode":"e_UPmWeqESTsysJaU5NGLUPrvlEHDr5L8V_y7neowp0"},"Developer Tools Action ActionMinute":{"rateCode":"3GBATKSWGM9RXAZS.JRTCKXETXF.6YS6EN2CT7","price":"0.1000000000","RegionlessRateCode":"9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU"},"Developer Tools Multi-Account Action ActionMinuteAccount":{"rateCode":"9Z2DSQMTB3W5HQ9X.JRTCKXETXF.6YS6EN2CT7","price":"0.1000000000","RegionlessRateCode":"CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w"}},"South America (Sao Paulo)":{"9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU":{"rateCode":"2HBNAYNRB22FSGBV.JRTCKXETXF.6YS6EN2CT7","price":"0.1000000000","RegionlessRateCode":"9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU"},"CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w":{"rateCode":"X7MAX7TBTDTY59S3.JRTCKXETXF.6YS6EN2CT7","price":"0.1000000000","RegionlessRateCode":"CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w"},"e_UPmWeqESTsysJaU5NGLUPrvlEHDr5L8V_y7neowp0":{"rateCode":"PZHVKK7ZYPBXAYZ2.JRTCKXETXF.6YS6EN2CT7","price":"5.0000000000","RegionlessRateCode":"e_UPmWeqESTsysJaU5NGLUPrvlEHDr5L8V_y7neowp0"},"Developer Tools Action ActionMinute":{"rateCode":"2HBNAYNRB22FSGBV.JRTCKXETXF.6YS6EN2CT7","price":"0.1000000000","RegionlessRateCode":"9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU"},"Developer Tools Multi-Account Action ActionMinuteAccount":{"rateCode":"X7MAX7TBTDTY59S3.JRTCKXETXF.6YS6EN2CT7","price":"0.1000000000","RegionlessRateCode":"CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w"}},"Middle East (Bahrain)":{"9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU":{"rateCode":"GTZ8EENWYACVN6BE.JRTCKXETXF.6YS6EN2CT7","price":"0.1000000000","RegionlessRateCode":"9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU"},"CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w":{"rateCode":"UZCA53R3WVZT7MVD.JRTCKXETXF.6YS6EN2CT7","price":"0.1000000000","RegionlessRateCode":"CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w"},"e_UPmWeqESTsysJaU5NGLUPrvlEHDr5L8V_y7neowp0":{"rateCode":"49NC993TAAAME4PU.JRTCKXETXF.6YS6EN2CT7","price":"5.0000000000","RegionlessRateCode":"e_UPmWeqESTsysJaU5NGLUPrvlEHDr5L8V_y7neowp0"},"Developer Tools Action ActionMinute":{"rateCode":"GTZ8EENWYACVN6BE.JRTCKXETXF.6YS6EN2CT7","price":"0.1000000000","RegionlessRateCode":"9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU"},"Developer Tools Multi-Account Action ActionMinuteAccount":{"rateCode":"UZCA53R3WVZT7MVD.JRTCKXETXF.6YS6EN2CT7","price":"0.1000000000","RegionlessRateCode":"CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w"}},"EU (Stockholm)":{"9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU":{"rateCode":"M4DNJKJCYRX6WSJW.JRTCKXETXF.6YS6EN2CT7","price":"0.1000000000","RegionlessRateCode":"9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU"},"CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w":{"rateCode":"UZWBFDWK3J2WW7M7.JRTCKXETXF.6YS6EN2CT7","price":"0.1000000000","RegionlessRateCode":"CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w"},"e_UPmWeqESTsysJaU5NGLUPrvlEHDr5L8V_y7neowp0":{"rateCode":"U4CCRX5SQF9MW9NX.JRTCKXETXF.6YS6EN2CT7","price":"5.0000000000","RegionlessRateCode":"e_UPmWeqESTsysJaU5NGLUPrvlEHDr5L8V_y7neowp0"},"Developer Tools Action ActionMinute":{"rateCode":"M4DNJKJCYRX6WSJW.JRTCKXETXF.6YS6EN2CT7","price":"0.1000000000","RegionlessRateCode":"9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU"},"Developer Tools Multi-Account Action ActionMinuteAccount":{"rateCode":"UZWBFDWK3J2WW7M7.JRTCKXETXF.6YS6EN2CT7","price":"0.1000000000","RegionlessRateCode":"CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w"}},"EU (Spain)":{"9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU":{"rateCode":"EJYBP7W92RKVA25B.JRTCKXETXF.6YS6EN2CT7","price":"0.1000000000","RegionlessRateCode":"9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU"},"CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w":{"rateCode":"A2QTC45FTBUUNUNJ.JRTCKXETXF.6YS6EN2CT7","price":"0.1000000000","RegionlessRateCode":"CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w"},"e_UPmWeqESTsysJaU5NGLUPrvlEHDr5L8V_y7neowp0":{"rateCode":"6YVJD54X8MG33WH7.JRTCKXETXF.6YS6EN2CT7","price":"5.0000000000","RegionlessRateCode":"e_UPmWeqESTsysJaU5NGLUPrvlEHDr5L8V_y7neowp0"},"Developer Tools Action ActionMinute":{"rateCode":"EJYBP7W92RKVA25B.JRTCKXETXF.6YS6EN2CT7","price":"0.1000000000","RegionlessRateCode":"9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU"},"Developer Tools Multi-Account Action ActionMinuteAccount":{"rateCode":"A2QTC45FTBUUNUNJ.JRTCKXETXF.6YS6EN2CT7","price":"0.1000000000","RegionlessRateCode":"CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w"}},"EU (Paris)":{"9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU":{"rateCode":"R9K8NTDY7N3E7Z7P.JRTCKXETXF.6YS6EN2CT7","price":"0.1000000000","RegionlessRateCode":"9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU"},"CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w":{"rateCode":"C5SRS5FGKB28HRCR.JRTCKXETXF.6YS6EN2CT7","price":"0.1000000000","RegionlessRateCode":"CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w"},"e_UPmWeqESTsysJaU5NGLUPrvlEHDr5L8V_y7neowp0":{"rateCode":"VWWCDK4A2TUD2966.JRTCKXETXF.6YS6EN2CT7","price":"5.0000000000","RegionlessRateCode":"e_UPmWeqESTsysJaU5NGLUPrvlEHDr5L8V_y7neowp0"},"Developer Tools Action ActionMinute":{"rateCode":"R9K8NTDY7N3E7Z7P.JRTCKXETXF.6YS6EN2CT7","price":"0.1000000000","RegionlessRateCode":"9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU"},"Developer Tools Multi-Account Action ActionMinuteAccount":{"rateCode":"C5SRS5FGKB28HRCR.JRTCKXETXF.6YS6EN2CT7","price":"0.1000000000","RegionlessRateCode":"CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w"}},"EU (Milan)":{"9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU":{"rateCode":"ME6G2MDRJBRX8TAK.JRTCKXETXF.6YS6EN2CT7","price":"0.1000000000","RegionlessRateCode":"9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU"},"CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w":{"rateCode":"KRFS5ZGCF8Z6YVZA.JRTCKXETXF.6YS6EN2CT7","price":"0.1000000000","RegionlessRateCode":"CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w"},"e_UPmWeqESTsysJaU5NGLUPrvlEHDr5L8V_y7neowp0":{"rateCode":"C8SU2P8SYSKX8SHM.JRTCKXETXF.6YS6EN2CT7","price":"5.0000000000","RegionlessRateCode":"e_UPmWeqESTsysJaU5NGLUPrvlEHDr5L8V_y7neowp0"},"Developer Tools Action ActionMinute":{"rateCode":"ME6G2MDRJBRX8TAK.JRTCKXETXF.6YS6EN2CT7","price":"0.1000000000","RegionlessRateCode":"9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU"},"Developer Tools Multi-Account Action ActionMinuteAccount":{"rateCode":"KRFS5ZGCF8Z6YVZA.JRTCKXETXF.6YS6EN2CT7","price":"0.1000000000","RegionlessRateCode":"CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w"}},"EU (London)":{"9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU":{"rateCode":"EX75NQE7QZ9MWS4K.JRTCKXETXF.6YS6EN2CT7","price":"0.1000000000","RegionlessRateCode":"9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU"},"CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w":{"rateCode":"YDNPPXF8JQ8KPM8B.JRTCKXETXF.6YS6EN2CT7","price":"0.1000000000","RegionlessRateCode":"CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w"},"e_UPmWeqESTsysJaU5NGLUPrvlEHDr5L8V_y7neowp0":{"rateCode":"T8SY3BVSWCPPJ9JB.JRTCKXETXF.6YS6EN2CT7","price":"5.0000000000","RegionlessRateCode":"e_UPmWeqESTsysJaU5NGLUPrvlEHDr5L8V_y7neowp0"},"Developer Tools Action ActionMinute":{"rateCode":"EX75NQE7QZ9MWS4K.JRTCKXETXF.6YS6EN2CT7","price":"0.1000000000","RegionlessRateCode":"9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU"},"Developer Tools Multi-Account Action ActionMinuteAccount":{"rateCode":"YDNPPXF8JQ8KPM8B.JRTCKXETXF.6YS6EN2CT7","price":"0.1000000000","RegionlessRateCode":"CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w"}},"EU (Ireland)":{"9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU":{"rateCode":"NZEFP3B9TJUK2SYA.JRTCKXETXF.6YS6EN2CT7","price":"0.1000000000","RegionlessRateCode":"9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU"},"CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w":{"rateCode":"PFB48YX4TPQC53A2.JRTCKXETXF.6YS6EN2CT7","price":"0.1000000000","RegionlessRateCode":"CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w"},"e_UPmWeqESTsysJaU5NGLUPrvlEHDr5L8V_y7neowp0":{"rateCode":"R2R872MHNK7AMF95.JRTCKXETXF.6YS6EN2CT7","price":"5.0000000000","RegionlessRateCode":"e_UPmWeqESTsysJaU5NGLUPrvlEHDr5L8V_y7neowp0"},"Developer Tools Action ActionMinute":{"rateCode":"NZEFP3B9TJUK2SYA.JRTCKXETXF.6YS6EN2CT7","price":"0.1000000000","RegionlessRateCode":"9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU"},"Developer Tools Multi-Account Action ActionMinuteAccount":{"rateCode":"PFB48YX4TPQC53A2.JRTCKXETXF.6YS6EN2CT7","price":"0.1000000000","RegionlessRateCode":"CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w"}},"EU (Frankfurt)":{"9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU":{"rateCode":"4NM23TG4SFQQM2C2.JRTCKXETXF.6YS6EN2CT7","price":"0.1000000000","RegionlessRateCode":"9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU"},"CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w":{"rateCode":"HJMGCSUN89FMVYJR.JRTCKXETXF.6YS6EN2CT7","price":"0.1000000000","RegionlessRateCode":"CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w"},"e_UPmWeqESTsysJaU5NGLUPrvlEHDr5L8V_y7neowp0":{"rateCode":"XDUGCY5SAYSW8YGA.JRTCKXETXF.6YS6EN2CT7","price":"5.0000000000","RegionlessRateCode":"e_UPmWeqESTsysJaU5NGLUPrvlEHDr5L8V_y7neowp0"},"Developer Tools Action ActionMinute":{"rateCode":"4NM23TG4SFQQM2C2.JRTCKXETXF.6YS6EN2CT7","price":"0.1000000000","RegionlessRateCode":"9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU"},"Developer Tools Multi-Account Action ActionMinuteAccount":{"rateCode":"HJMGCSUN89FMVYJR.JRTCKXETXF.6YS6EN2CT7","price":"0.1000000000","RegionlessRateCode":"CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w"}},"Canada (Central)":{"9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU":{"rateCode":"CX52QNQZRVUPX4YN.JRTCKXETXF.6YS6EN2CT7","price":"0.1000000000","RegionlessRateCode":"9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU"},"CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w":{"rateCode":"RCH6U633EGSABQKU.JRTCKXETXF.6YS6EN2CT7","price":"0.1000000000","RegionlessRateCode":"CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w"},"e_UPmWeqESTsysJaU5NGLUPrvlEHDr5L8V_y7neowp0":{"rateCode":"T25KPSQQWV4SQ53N.JRTCKXETXF.6YS6EN2CT7","price":"5.0000000000","RegionlessRateCode":"e_UPmWeqESTsysJaU5NGLUPrvlEHDr5L8V_y7neowp0"},"Developer Tools Action ActionMinute":{"rateCode":"CX52QNQZRVUPX4YN.JRTCKXETXF.6YS6EN2CT7","price":"0.1000000000","RegionlessRateCode":"9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU"},"Developer Tools Multi-Account Action ActionMinuteAccount":{"rateCode":"RCH6U633EGSABQKU.JRTCKXETXF.6YS6EN2CT7","price":"0.1000000000","RegionlessRateCode":"CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w"}},"Asia Pacific (Tokyo)":{"9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU":{"rateCode":"P83DR3DF96UMRQAY.JRTCKXETXF.6YS6EN2CT7","price":"0.1000000000","RegionlessRateCode":"9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU"},"CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w":{"rateCode":"FDGQAUXNAGJFZNBY.JRTCKXETXF.6YS6EN2CT7","price":"0.1000000000","RegionlessRateCode":"CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w"},"e_UPmWeqESTsysJaU5NGLUPrvlEHDr5L8V_y7neowp0":{"rateCode":"VYBWHE6DKNF32TJ9.JRTCKXETXF.6YS6EN2CT7","price":"5.0000000000","RegionlessRateCode":"e_UPmWeqESTsysJaU5NGLUPrvlEHDr5L8V_y7neowp0"},"Developer Tools Action ActionMinute":{"rateCode":"P83DR3DF96UMRQAY.JRTCKXETXF.6YS6EN2CT7","price":"0.1000000000","RegionlessRateCode":"9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU"},"Developer Tools Multi-Account Action ActionMinuteAccount":{"rateCode":"FDGQAUXNAGJFZNBY.JRTCKXETXF.6YS6EN2CT7","price":"0.1000000000","RegionlessRateCode":"CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w"}},"Asia Pacific (Sydney)":{"9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU":{"rateCode":"Q6QFV3KFQ946F2VS.JRTCKXETXF.6YS6EN2CT7","price":"0.1000000000","RegionlessRateCode":"9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU"},"CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w":{"rateCode":"32CBCVXHD9SP9SCX.JRTCKXETXF.6YS6EN2CT7","price":"0.1000000000","RegionlessRateCode":"CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w"},"e_UPmWeqESTsysJaU5NGLUPrvlEHDr5L8V_y7neowp0":{"rateCode":"E4KQQQSSJKZSDGVE.JRTCKXETXF.6YS6EN2CT7","price":"5.0000000000","RegionlessRateCode":"e_UPmWeqESTsysJaU5NGLUPrvlEHDr5L8V_y7neowp0"},"Developer Tools Action ActionMinute":{"rateCode":"Q6QFV3KFQ946F2VS.JRTCKXETXF.6YS6EN2CT7","price":"0.1000000000","RegionlessRateCode":"9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU"},"Developer Tools Multi-Account Action ActionMinuteAccount":{"rateCode":"32CBCVXHD9SP9SCX.JRTCKXETXF.6YS6EN2CT7","price":"0.1000000000","RegionlessRateCode":"CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w"}},"Asia Pacific (Singapore)":{"9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU":{"rateCode":"6828EANSDFHV7UAV.JRTCKXETXF.6YS6EN2CT7","price":"0.1000000000","RegionlessRateCode":"9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU"},"CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w":{"rateCode":"66ECV8QSFZRSJQNS.JRTCKXETXF.6YS6EN2CT7","price":"0.1000000000","RegionlessRateCode":"CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w"},"e_UPmWeqESTsysJaU5NGLUPrvlEHDr5L8V_y7neowp0":{"rateCode":"U9A3KEF42WAJ8PWS.JRTCKXETXF.6YS6EN2CT7","price":"5.0000000000","RegionlessRateCode":"e_UPmWeqESTsysJaU5NGLUPrvlEHDr5L8V_y7neowp0"},"Developer Tools Action ActionMinute":{"rateCode":"6828EANSDFHV7UAV.JRTCKXETXF.6YS6EN2CT7","price":"0.1000000000","RegionlessRateCode":"9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU"},"Developer Tools Multi-Account Action ActionMinuteAccount":{"rateCode":"66ECV8QSFZRSJQNS.JRTCKXETXF.6YS6EN2CT7","price":"0.1000000000","RegionlessRateCode":"CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w"}},"Asia Pacific (Seoul)":{"9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU":{"rateCode":"7QGA9U3Z2UM53CB8.JRTCKXETXF.6YS6EN2CT7","price":"0.1000000000","RegionlessRateCode":"9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU"},"CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w":{"rateCode":"BFFDEGJ33J8H4SA3.JRTCKXETXF.6YS6EN2CT7","price":"0.1000000000","RegionlessRateCode":"CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w"},"e_UPmWeqESTsysJaU5NGLUPrvlEHDr5L8V_y7neowp0":{"rateCode":"82D6P85XD286TA5Z.JRTCKXETXF.6YS6EN2CT7","price":"5.0000000000","RegionlessRateCode":"e_UPmWeqESTsysJaU5NGLUPrvlEHDr5L8V_y7neowp0"},"Developer Tools Action ActionMinute":{"rateCode":"7QGA9U3Z2UM53CB8.JRTCKXETXF.6YS6EN2CT7","price":"0.1000000000","RegionlessRateCode":"9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU"},"Developer Tools Multi-Account Action ActionMinuteAccount":{"rateCode":"BFFDEGJ33J8H4SA3.JRTCKXETXF.6YS6EN2CT7","price":"0.1000000000","RegionlessRateCode":"CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w"}},"Asia Pacific (Mumbai)":{"9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU":{"rateCode":"4ANKB52CDET835Y4.JRTCKXETXF.6YS6EN2CT7","price":"0.1000000000","RegionlessRateCode":"9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU"},"CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w":{"rateCode":"9YYEJKQZZR42ZBNN.JRTCKXETXF.6YS6EN2CT7","price":"0.1000000000","RegionlessRateCode":"CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w"},"e_UPmWeqESTsysJaU5NGLUPrvlEHDr5L8V_y7neowp0":{"rateCode":"6W22K5APBKY9GTWG.JRTCKXETXF.6YS6EN2CT7","price":"5.0000000000","RegionlessRateCode":"e_UPmWeqESTsysJaU5NGLUPrvlEHDr5L8V_y7neowp0"},"Developer Tools Action ActionMinute":{"rateCode":"4ANKB52CDET835Y4.JRTCKXETXF.6YS6EN2CT7","price":"0.1000000000","RegionlessRateCode":"9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU"},"Developer Tools Multi-Account Action ActionMinuteAccount":{"rateCode":"9YYEJKQZZR42ZBNN.JRTCKXETXF.6YS6EN2CT7","price":"0.1000000000","RegionlessRateCode":"CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w"}},"Asia Pacific (Hong Kong)":{"9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU":{"rateCode":"KJJGYDMEC5E5ZS9S.JRTCKXETXF.6YS6EN2CT7","price":"0.1000000000","RegionlessRateCode":"9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU"},"CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w":{"rateCode":"Y5YDKEXAAH3K9FTS.JRTCKXETXF.6YS6EN2CT7","price":"0.1000000000","RegionlessRateCode":"CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w"},"e_UPmWeqESTsysJaU5NGLUPrvlEHDr5L8V_y7neowp0":{"rateCode":"DVB7H2QMBQN9UFYZ.JRTCKXETXF.6YS6EN2CT7","price":"5.0000000000","RegionlessRateCode":"e_UPmWeqESTsysJaU5NGLUPrvlEHDr5L8V_y7neowp0"},"Developer Tools Action ActionMinute":{"rateCode":"KJJGYDMEC5E5ZS9S.JRTCKXETXF.6YS6EN2CT7","price":"0.1000000000","RegionlessRateCode":"9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU"},"Developer Tools Multi-Account Action ActionMinuteAccount":{"rateCode":"Y5YDKEXAAH3K9FTS.JRTCKXETXF.6YS6EN2CT7","price":"0.1000000000","RegionlessRateCode":"CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w"}},"Africa (Cape Town)":{"9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU":{"rateCode":"2XV3QJM64S452CN2.JRTCKXETXF.6YS6EN2CT7","price":"0.1000000000","RegionlessRateCode":"9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU"},"CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w":{"rateCode":"STR325VR9QC8XQF4.JRTCKXETXF.6YS6EN2CT7","price":"0.1000000000","RegionlessRateCode":"CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w"},"e_UPmWeqESTsysJaU5NGLUPrvlEHDr5L8V_y7neowp0":{"rateCode":"GWEVS23S4GRDT85K.JRTCKXETXF.6YS6EN2CT7","price":"5.0000000000","RegionlessRateCode":"e_UPmWeqESTsysJaU5NGLUPrvlEHDr5L8V_y7neowp0"},"Developer Tools Action ActionMinute":{"rateCode":"2XV3QJM64S452CN2.JRTCKXETXF.6YS6EN2CT7","price":"0.1000000000","RegionlessRateCode":"9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU"},"Developer Tools Multi-Account Action ActionMinuteAccount":{"rateCode":"STR325VR9QC8XQF4.JRTCKXETXF.6YS6EN2CT7","price":"0.1000000000","RegionlessRateCode":"CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w"}},"AWS GovCloud (US-East)":{"9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU":{"rateCode":"BTTTJY65DWAD7M8W.JRTCKXETXF.6YS6EN2CT7","price":"0.1200000000","RegionlessRateCode":"9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU"},"CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w":{"rateCode":"Q78H7H66GRW6BS6P.JRTCKXETXF.6YS6EN2CT7","price":"0.1200000000","RegionlessRateCode":"CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w"},"Developer Tools Action ActionMinute":{"rateCode":"BTTTJY65DWAD7M8W.JRTCKXETXF.6YS6EN2CT7","price":"0.1200000000","RegionlessRateCode":"9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU"},"Developer Tools Multi-Account Action ActionMinuteAccount":{"rateCode":"Q78H7H66GRW6BS6P.JRTCKXETXF.6YS6EN2CT7","price":"0.1200000000","RegionlessRateCode":"CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w"}},"AWS GovCloud (US)":{"9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU":{"rateCode":"2BCPXACM77TJT9E5.JRTCKXETXF.6YS6EN2CT7","price":"0.1200000000","RegionlessRateCode":"9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU"},"CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w":{"rateCode":"D2ZYT8KCWJCWBTEU.JRTCKXETXF.6YS6EN2CT7","price":"0.1200000000","RegionlessRateCode":"CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w"},"Developer Tools Action ActionMinute":{"rateCode":"2BCPXACM77TJT9E5.JRTCKXETXF.6YS6EN2CT7","price":"0.1200000000","RegionlessRateCode":"9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU"},"Developer Tools Multi-Account Action ActionMinuteAccount":{"rateCode":"D2ZYT8KCWJCWBTEU.JRTCKXETXF.6YS6EN2CT7","price":"0.1200000000","RegionlessRateCode":"CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w"}}}}
+{
+    "manifest": {
+        "serviceId": "fis",
+        "accessType": "publish",
+        "esIndex": "plc-fis-usd-20241112203339",
+        "hawkFilePublicationDate": "2024-11-12T20:33:39Z",
+        "ETLIngestionTriggerDate": "2024-11-12T20:33:39Z",
+        "currencyCode": "USD",
+        "source": "fis",
+        "isMapped": "true"
+    },
+    "sets": {},
+    "regions": {
+        "US West (Oregon)": {
+            "9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU": {
+                "rateCode": "3WSRZWCRB3N55KCD.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU"
+            },
+            "CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w": {
+                "rateCode": "HPR8H4ZYB9W494TE.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w"
+            },
+            "e_UPmWeqESTsysJaU5NGLUPrvlEHDr5L8V_y7neowp0": {
+                "rateCode": "FVNZP4W885X63F9M.JRTCKXETXF.6YS6EN2CT7",
+                "price": "5.0000000000",
+                "RegionlessRateCode": "e_UPmWeqESTsysJaU5NGLUPrvlEHDr5L8V_y7neowp0"
+            },
+            "Developer Tools Action ActionMinute": {
+                "rateCode": "3WSRZWCRB3N55KCD.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU"
+            },
+            "Developer Tools Multi-Account Action ActionMinuteAccount": {
+                "rateCode": "HPR8H4ZYB9W494TE.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w"
+            }
+        },
+        "US West (N. California)": {
+            "9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU": {
+                "rateCode": "95U85NMSFVMCJT78.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU"
+            },
+            "CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w": {
+                "rateCode": "J9ZDK65S8YVSH29T.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w"
+            },
+            "e_UPmWeqESTsysJaU5NGLUPrvlEHDr5L8V_y7neowp0": {
+                "rateCode": "3QT7ZM6WDV97XCRB.JRTCKXETXF.6YS6EN2CT7",
+                "price": "5.0000000000",
+                "RegionlessRateCode": "e_UPmWeqESTsysJaU5NGLUPrvlEHDr5L8V_y7neowp0"
+            },
+            "Developer Tools Action ActionMinute": {
+                "rateCode": "95U85NMSFVMCJT78.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU"
+            },
+            "Developer Tools Multi-Account Action ActionMinuteAccount": {
+                "rateCode": "J9ZDK65S8YVSH29T.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w"
+            }
+        },
+        "US East (Ohio)": {
+            "9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU": {
+                "rateCode": "4F28TPTQGUV3HQGN.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU"
+            },
+            "CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w": {
+                "rateCode": "HBJVVTZH6YG2R5Z7.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w"
+            },
+            "e_UPmWeqESTsysJaU5NGLUPrvlEHDr5L8V_y7neowp0": {
+                "rateCode": "455REES82X3EAPX8.JRTCKXETXF.6YS6EN2CT7",
+                "price": "5.0000000000",
+                "RegionlessRateCode": "e_UPmWeqESTsysJaU5NGLUPrvlEHDr5L8V_y7neowp0"
+            },
+            "Developer Tools Action ActionMinute": {
+                "rateCode": "4F28TPTQGUV3HQGN.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU"
+            },
+            "Developer Tools Multi-Account Action ActionMinuteAccount": {
+                "rateCode": "HBJVVTZH6YG2R5Z7.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w"
+            }
+        },
+        "US East (N. Virginia)": {
+            "9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU": {
+                "rateCode": "3GBATKSWGM9RXAZS.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU"
+            },
+            "CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w": {
+                "rateCode": "9Z2DSQMTB3W5HQ9X.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w"
+            },
+            "e_UPmWeqESTsysJaU5NGLUPrvlEHDr5L8V_y7neowp0": {
+                "rateCode": "WHSNQ43U5DRENM5F.JRTCKXETXF.6YS6EN2CT7",
+                "price": "5.0000000000",
+                "RegionlessRateCode": "e_UPmWeqESTsysJaU5NGLUPrvlEHDr5L8V_y7neowp0"
+            },
+            "Developer Tools Action ActionMinute": {
+                "rateCode": "3GBATKSWGM9RXAZS.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU"
+            },
+            "Developer Tools Multi-Account Action ActionMinuteAccount": {
+                "rateCode": "9Z2DSQMTB3W5HQ9X.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w"
+            }
+        },
+        "South America (Sao Paulo)": {
+            "9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU": {
+                "rateCode": "2HBNAYNRB22FSGBV.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU"
+            },
+            "CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w": {
+                "rateCode": "X7MAX7TBTDTY59S3.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w"
+            },
+            "e_UPmWeqESTsysJaU5NGLUPrvlEHDr5L8V_y7neowp0": {
+                "rateCode": "PZHVKK7ZYPBXAYZ2.JRTCKXETXF.6YS6EN2CT7",
+                "price": "5.0000000000",
+                "RegionlessRateCode": "e_UPmWeqESTsysJaU5NGLUPrvlEHDr5L8V_y7neowp0"
+            },
+            "Developer Tools Action ActionMinute": {
+                "rateCode": "2HBNAYNRB22FSGBV.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU"
+            },
+            "Developer Tools Multi-Account Action ActionMinuteAccount": {
+                "rateCode": "X7MAX7TBTDTY59S3.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w"
+            }
+        },
+        "Middle East (Bahrain)": {
+            "9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU": {
+                "rateCode": "GTZ8EENWYACVN6BE.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU"
+            },
+            "CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w": {
+                "rateCode": "UZCA53R3WVZT7MVD.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w"
+            },
+            "e_UPmWeqESTsysJaU5NGLUPrvlEHDr5L8V_y7neowp0": {
+                "rateCode": "49NC993TAAAME4PU.JRTCKXETXF.6YS6EN2CT7",
+                "price": "5.0000000000",
+                "RegionlessRateCode": "e_UPmWeqESTsysJaU5NGLUPrvlEHDr5L8V_y7neowp0"
+            },
+            "Developer Tools Action ActionMinute": {
+                "rateCode": "GTZ8EENWYACVN6BE.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU"
+            },
+            "Developer Tools Multi-Account Action ActionMinuteAccount": {
+                "rateCode": "UZCA53R3WVZT7MVD.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w"
+            }
+        },
+        "EU (Stockholm)": {
+            "9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU": {
+                "rateCode": "M4DNJKJCYRX6WSJW.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU"
+            },
+            "CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w": {
+                "rateCode": "UZWBFDWK3J2WW7M7.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w"
+            },
+            "e_UPmWeqESTsysJaU5NGLUPrvlEHDr5L8V_y7neowp0": {
+                "rateCode": "U4CCRX5SQF9MW9NX.JRTCKXETXF.6YS6EN2CT7",
+                "price": "5.0000000000",
+                "RegionlessRateCode": "e_UPmWeqESTsysJaU5NGLUPrvlEHDr5L8V_y7neowp0"
+            },
+            "Developer Tools Action ActionMinute": {
+                "rateCode": "M4DNJKJCYRX6WSJW.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU"
+            },
+            "Developer Tools Multi-Account Action ActionMinuteAccount": {
+                "rateCode": "UZWBFDWK3J2WW7M7.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w"
+            }
+        },
+        "EU (Spain)": {
+            "9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU": {
+                "rateCode": "EJYBP7W92RKVA25B.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU"
+            },
+            "CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w": {
+                "rateCode": "A2QTC45FTBUUNUNJ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w"
+            },
+            "e_UPmWeqESTsysJaU5NGLUPrvlEHDr5L8V_y7neowp0": {
+                "rateCode": "6YVJD54X8MG33WH7.JRTCKXETXF.6YS6EN2CT7",
+                "price": "5.0000000000",
+                "RegionlessRateCode": "e_UPmWeqESTsysJaU5NGLUPrvlEHDr5L8V_y7neowp0"
+            },
+            "Developer Tools Action ActionMinute": {
+                "rateCode": "EJYBP7W92RKVA25B.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU"
+            },
+            "Developer Tools Multi-Account Action ActionMinuteAccount": {
+                "rateCode": "A2QTC45FTBUUNUNJ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w"
+            }
+        },
+        "EU (Paris)": {
+            "9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU": {
+                "rateCode": "R9K8NTDY7N3E7Z7P.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU"
+            },
+            "CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w": {
+                "rateCode": "C5SRS5FGKB28HRCR.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w"
+            },
+            "e_UPmWeqESTsysJaU5NGLUPrvlEHDr5L8V_y7neowp0": {
+                "rateCode": "VWWCDK4A2TUD2966.JRTCKXETXF.6YS6EN2CT7",
+                "price": "5.0000000000",
+                "RegionlessRateCode": "e_UPmWeqESTsysJaU5NGLUPrvlEHDr5L8V_y7neowp0"
+            },
+            "Developer Tools Action ActionMinute": {
+                "rateCode": "R9K8NTDY7N3E7Z7P.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU"
+            },
+            "Developer Tools Multi-Account Action ActionMinuteAccount": {
+                "rateCode": "C5SRS5FGKB28HRCR.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w"
+            }
+        },
+        "EU (Milan)": {
+            "9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU": {
+                "rateCode": "ME6G2MDRJBRX8TAK.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU"
+            },
+            "CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w": {
+                "rateCode": "KRFS5ZGCF8Z6YVZA.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w"
+            },
+            "e_UPmWeqESTsysJaU5NGLUPrvlEHDr5L8V_y7neowp0": {
+                "rateCode": "C8SU2P8SYSKX8SHM.JRTCKXETXF.6YS6EN2CT7",
+                "price": "5.0000000000",
+                "RegionlessRateCode": "e_UPmWeqESTsysJaU5NGLUPrvlEHDr5L8V_y7neowp0"
+            },
+            "Developer Tools Action ActionMinute": {
+                "rateCode": "ME6G2MDRJBRX8TAK.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU"
+            },
+            "Developer Tools Multi-Account Action ActionMinuteAccount": {
+                "rateCode": "KRFS5ZGCF8Z6YVZA.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w"
+            }
+        },
+        "EU (London)": {
+            "9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU": {
+                "rateCode": "EX75NQE7QZ9MWS4K.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU"
+            },
+            "CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w": {
+                "rateCode": "YDNPPXF8JQ8KPM8B.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w"
+            },
+            "e_UPmWeqESTsysJaU5NGLUPrvlEHDr5L8V_y7neowp0": {
+                "rateCode": "T8SY3BVSWCPPJ9JB.JRTCKXETXF.6YS6EN2CT7",
+                "price": "5.0000000000",
+                "RegionlessRateCode": "e_UPmWeqESTsysJaU5NGLUPrvlEHDr5L8V_y7neowp0"
+            },
+            "Developer Tools Action ActionMinute": {
+                "rateCode": "EX75NQE7QZ9MWS4K.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU"
+            },
+            "Developer Tools Multi-Account Action ActionMinuteAccount": {
+                "rateCode": "YDNPPXF8JQ8KPM8B.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w"
+            }
+        },
+        "EU (Ireland)": {
+            "9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU": {
+                "rateCode": "NZEFP3B9TJUK2SYA.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU"
+            },
+            "CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w": {
+                "rateCode": "PFB48YX4TPQC53A2.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w"
+            },
+            "e_UPmWeqESTsysJaU5NGLUPrvlEHDr5L8V_y7neowp0": {
+                "rateCode": "R2R872MHNK7AMF95.JRTCKXETXF.6YS6EN2CT7",
+                "price": "5.0000000000",
+                "RegionlessRateCode": "e_UPmWeqESTsysJaU5NGLUPrvlEHDr5L8V_y7neowp0"
+            },
+            "Developer Tools Action ActionMinute": {
+                "rateCode": "NZEFP3B9TJUK2SYA.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU"
+            },
+            "Developer Tools Multi-Account Action ActionMinuteAccount": {
+                "rateCode": "PFB48YX4TPQC53A2.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w"
+            }
+        },
+        "EU (Frankfurt)": {
+            "9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU": {
+                "rateCode": "4NM23TG4SFQQM2C2.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU"
+            },
+            "CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w": {
+                "rateCode": "HJMGCSUN89FMVYJR.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w"
+            },
+            "e_UPmWeqESTsysJaU5NGLUPrvlEHDr5L8V_y7neowp0": {
+                "rateCode": "XDUGCY5SAYSW8YGA.JRTCKXETXF.6YS6EN2CT7",
+                "price": "5.0000000000",
+                "RegionlessRateCode": "e_UPmWeqESTsysJaU5NGLUPrvlEHDr5L8V_y7neowp0"
+            },
+            "Developer Tools Action ActionMinute": {
+                "rateCode": "4NM23TG4SFQQM2C2.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU"
+            },
+            "Developer Tools Multi-Account Action ActionMinuteAccount": {
+                "rateCode": "HJMGCSUN89FMVYJR.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w"
+            }
+        },
+        "Canada (Central)": {
+            "9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU": {
+                "rateCode": "CX52QNQZRVUPX4YN.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU"
+            },
+            "CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w": {
+                "rateCode": "RCH6U633EGSABQKU.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w"
+            },
+            "e_UPmWeqESTsysJaU5NGLUPrvlEHDr5L8V_y7neowp0": {
+                "rateCode": "T25KPSQQWV4SQ53N.JRTCKXETXF.6YS6EN2CT7",
+                "price": "5.0000000000",
+                "RegionlessRateCode": "e_UPmWeqESTsysJaU5NGLUPrvlEHDr5L8V_y7neowp0"
+            },
+            "Developer Tools Action ActionMinute": {
+                "rateCode": "CX52QNQZRVUPX4YN.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU"
+            },
+            "Developer Tools Multi-Account Action ActionMinuteAccount": {
+                "rateCode": "RCH6U633EGSABQKU.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w"
+            }
+        },
+        "Asia Pacific (Tokyo)": {
+            "9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU": {
+                "rateCode": "P83DR3DF96UMRQAY.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU"
+            },
+            "CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w": {
+                "rateCode": "FDGQAUXNAGJFZNBY.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w"
+            },
+            "e_UPmWeqESTsysJaU5NGLUPrvlEHDr5L8V_y7neowp0": {
+                "rateCode": "VYBWHE6DKNF32TJ9.JRTCKXETXF.6YS6EN2CT7",
+                "price": "5.0000000000",
+                "RegionlessRateCode": "e_UPmWeqESTsysJaU5NGLUPrvlEHDr5L8V_y7neowp0"
+            },
+            "Developer Tools Action ActionMinute": {
+                "rateCode": "P83DR3DF96UMRQAY.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU"
+            },
+            "Developer Tools Multi-Account Action ActionMinuteAccount": {
+                "rateCode": "FDGQAUXNAGJFZNBY.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w"
+            }
+        },
+        "Asia Pacific (Sydney)": {
+            "9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU": {
+                "rateCode": "Q6QFV3KFQ946F2VS.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU"
+            },
+            "CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w": {
+                "rateCode": "32CBCVXHD9SP9SCX.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w"
+            },
+            "e_UPmWeqESTsysJaU5NGLUPrvlEHDr5L8V_y7neowp0": {
+                "rateCode": "E4KQQQSSJKZSDGVE.JRTCKXETXF.6YS6EN2CT7",
+                "price": "5.0000000000",
+                "RegionlessRateCode": "e_UPmWeqESTsysJaU5NGLUPrvlEHDr5L8V_y7neowp0"
+            },
+            "Developer Tools Action ActionMinute": {
+                "rateCode": "Q6QFV3KFQ946F2VS.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU"
+            },
+            "Developer Tools Multi-Account Action ActionMinuteAccount": {
+                "rateCode": "32CBCVXHD9SP9SCX.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w"
+            }
+        },
+        "Asia Pacific (Singapore)": {
+            "9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU": {
+                "rateCode": "6828EANSDFHV7UAV.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU"
+            },
+            "CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w": {
+                "rateCode": "66ECV8QSFZRSJQNS.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w"
+            },
+            "e_UPmWeqESTsysJaU5NGLUPrvlEHDr5L8V_y7neowp0": {
+                "rateCode": "U9A3KEF42WAJ8PWS.JRTCKXETXF.6YS6EN2CT7",
+                "price": "5.0000000000",
+                "RegionlessRateCode": "e_UPmWeqESTsysJaU5NGLUPrvlEHDr5L8V_y7neowp0"
+            },
+            "Developer Tools Action ActionMinute": {
+                "rateCode": "6828EANSDFHV7UAV.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU"
+            },
+            "Developer Tools Multi-Account Action ActionMinuteAccount": {
+                "rateCode": "66ECV8QSFZRSJQNS.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w"
+            }
+        },
+        "Asia Pacific (Seoul)": {
+            "9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU": {
+                "rateCode": "7QGA9U3Z2UM53CB8.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU"
+            },
+            "CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w": {
+                "rateCode": "BFFDEGJ33J8H4SA3.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w"
+            },
+            "e_UPmWeqESTsysJaU5NGLUPrvlEHDr5L8V_y7neowp0": {
+                "rateCode": "82D6P85XD286TA5Z.JRTCKXETXF.6YS6EN2CT7",
+                "price": "5.0000000000",
+                "RegionlessRateCode": "e_UPmWeqESTsysJaU5NGLUPrvlEHDr5L8V_y7neowp0"
+            },
+            "Developer Tools Action ActionMinute": {
+                "rateCode": "7QGA9U3Z2UM53CB8.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU"
+            },
+            "Developer Tools Multi-Account Action ActionMinuteAccount": {
+                "rateCode": "BFFDEGJ33J8H4SA3.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w"
+            }
+        },
+        "Asia Pacific (Mumbai)": {
+            "9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU": {
+                "rateCode": "4ANKB52CDET835Y4.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU"
+            },
+            "CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w": {
+                "rateCode": "9YYEJKQZZR42ZBNN.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w"
+            },
+            "e_UPmWeqESTsysJaU5NGLUPrvlEHDr5L8V_y7neowp0": {
+                "rateCode": "6W22K5APBKY9GTWG.JRTCKXETXF.6YS6EN2CT7",
+                "price": "5.0000000000",
+                "RegionlessRateCode": "e_UPmWeqESTsysJaU5NGLUPrvlEHDr5L8V_y7neowp0"
+            },
+            "Developer Tools Action ActionMinute": {
+                "rateCode": "4ANKB52CDET835Y4.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU"
+            },
+            "Developer Tools Multi-Account Action ActionMinuteAccount": {
+                "rateCode": "9YYEJKQZZR42ZBNN.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w"
+            }
+        },
+        "Asia Pacific (Hong Kong)": {
+            "9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU": {
+                "rateCode": "KJJGYDMEC5E5ZS9S.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU"
+            },
+            "CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w": {
+                "rateCode": "Y5YDKEXAAH3K9FTS.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w"
+            },
+            "e_UPmWeqESTsysJaU5NGLUPrvlEHDr5L8V_y7neowp0": {
+                "rateCode": "DVB7H2QMBQN9UFYZ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "5.0000000000",
+                "RegionlessRateCode": "e_UPmWeqESTsysJaU5NGLUPrvlEHDr5L8V_y7neowp0"
+            },
+            "Developer Tools Action ActionMinute": {
+                "rateCode": "KJJGYDMEC5E5ZS9S.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU"
+            },
+            "Developer Tools Multi-Account Action ActionMinuteAccount": {
+                "rateCode": "Y5YDKEXAAH3K9FTS.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w"
+            }
+        },
+        "Africa (Cape Town)": {
+            "9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU": {
+                "rateCode": "2XV3QJM64S452CN2.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU"
+            },
+            "CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w": {
+                "rateCode": "STR325VR9QC8XQF4.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w"
+            },
+            "e_UPmWeqESTsysJaU5NGLUPrvlEHDr5L8V_y7neowp0": {
+                "rateCode": "GWEVS23S4GRDT85K.JRTCKXETXF.6YS6EN2CT7",
+                "price": "5.0000000000",
+                "RegionlessRateCode": "e_UPmWeqESTsysJaU5NGLUPrvlEHDr5L8V_y7neowp0"
+            },
+            "Developer Tools Action ActionMinute": {
+                "rateCode": "2XV3QJM64S452CN2.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU"
+            },
+            "Developer Tools Multi-Account Action ActionMinuteAccount": {
+                "rateCode": "STR325VR9QC8XQF4.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w"
+            }
+        },
+        "AWS GovCloud (US-East)": {
+            "9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU": {
+                "rateCode": "BTTTJY65DWAD7M8W.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1200000000",
+                "RegionlessRateCode": "9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU"
+            },
+            "CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w": {
+                "rateCode": "Q78H7H66GRW6BS6P.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1200000000",
+                "RegionlessRateCode": "CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w"
+            },
+            "Developer Tools Action ActionMinute": {
+                "rateCode": "BTTTJY65DWAD7M8W.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1200000000",
+                "RegionlessRateCode": "9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU"
+            },
+            "Developer Tools Multi-Account Action ActionMinuteAccount": {
+                "rateCode": "Q78H7H66GRW6BS6P.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1200000000",
+                "RegionlessRateCode": "CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w"
+            }
+        },
+        "AWS GovCloud (US)": {
+            "9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU": {
+                "rateCode": "2BCPXACM77TJT9E5.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1200000000",
+                "RegionlessRateCode": "9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU"
+            },
+            "CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w": {
+                "rateCode": "D2ZYT8KCWJCWBTEU.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1200000000",
+                "RegionlessRateCode": "CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w"
+            },
+            "Developer Tools Action ActionMinute": {
+                "rateCode": "2BCPXACM77TJT9E5.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1200000000",
+                "RegionlessRateCode": "9Srpf_nffJTWDAxjKR2UHtvts_OUGvNE3AQNywyDwsU"
+            },
+            "Developer Tools Multi-Account Action ActionMinuteAccount": {
+                "rateCode": "D2ZYT8KCWJCWBTEU.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1200000000",
+                "RegionlessRateCode": "CARcxQxw57K_AdsI-7zxNaLkFL4xyGQ9V1zhKLHJv7w"
+            }
+        }
+    }
+}

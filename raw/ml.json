@@ -1,1 +1,139 @@
-{"manifest":{"serviceId":"ml","accessType":"publish","esIndex":"plc-ml-usd-20241003011345","hawkFilePublicationDate":"2024-08-26T17:55:12Z","ETLIngestionTriggerDate":"2024-10-03T01:13:45Z","currencyCode":"USD","source":"ml","isMapped":"true"},"sets":{},"regions":{"US East (N. Virginia)":{"-IivwJ4O-vkQuYIbeOVUtujpc_ueNiAMCChjTngu5n8":{"rateCode":"YX2RUJ45TX2S4PHX.JRTCKXETXF.6YS6EN2CT7","price":"0.0001000000","RegionlessRateCode":"-IivwJ4O-vkQuYIbeOVUtujpc_ueNiAMCChjTngu5n8"},"8R7koBfeZoaGWuNpVjgKw3JmwC6UUCxhv0MMnvYpAbw":{"rateCode":"VYYJMY7MNFF5T4V4.JRTCKXETXF.6YS6EN2CT7","price":"0.4200000000","RegionlessRateCode":"8R7koBfeZoaGWuNpVjgKw3JmwC6UUCxhv0MMnvYpAbw"},"Eztz5-F0GD99OJ_4K6qs8nawTKugf5TZlrKUstMdJ2U":{"rateCode":"VA3YJSCJS652NDRR.JRTCKXETXF.6YS6EN2CT7","price":"0.0001000000","RegionlessRateCode":"Eztz5-F0GD99OJ_4K6qs8nawTKugf5TZlrKUstMdJ2U"},"Iw9ZOsHVawWLCR0znKiAX1zQ2nhX5kzh3YFmN0nmMkM":{"rateCode":"A2XNBDMST9XC6QKV.JRTCKXETXF.6YS6EN2CT7","price":"0.4200000000","RegionlessRateCode":"Iw9ZOsHVawWLCR0znKiAX1zQ2nhX5kzh3YFmN0nmMkM"},"NjUn8WOeE-Xo_kEge6aub5qUX14Cvoqr8-h1CTnfgFE":{"rateCode":"8N28RPDRAZMW2ZT2.JRTCKXETXF.6YS6EN2CT7","price":"0.1000000000","RegionlessRateCode":"NjUn8WOeE-Xo_kEge6aub5qUX14Cvoqr8-h1CTnfgFE"},"kyP-8j2HRfpzSt7SUs2AA_gbuYxBUHkr2M_Z85PIMAc":{"rateCode":"TXZ2JUMVUW87JGVD.JRTCKXETXF.6YS6EN2CT7","price":"0.4200000000","RegionlessRateCode":"kyP-8j2HRfpzSt7SUs2AA_gbuYxBUHkr2M_Z85PIMAc"},"Capacity reservation for real time predictions":{"rateCode":"YX2RUJ45TX2S4PHX.JRTCKXETXF.6YS6EN2CT7","price":"0.0001000000","RegionlessRateCode":"-IivwJ4O-vkQuYIbeOVUtujpc_ueNiAMCChjTngu5n8"},"Create data statistics":{"rateCode":"VYYJMY7MNFF5T4V4.JRTCKXETXF.6YS6EN2CT7","price":"0.4200000000","RegionlessRateCode":"8R7koBfeZoaGWuNpVjgKw3JmwC6UUCxhv0MMnvYpAbw"},"Real time predictions":{"rateCode":"VA3YJSCJS652NDRR.JRTCKXETXF.6YS6EN2CT7","price":"0.0001000000","RegionlessRateCode":"Eztz5-F0GD99OJ_4K6qs8nawTKugf5TZlrKUstMdJ2U"},"Train ML models":{"rateCode":"A2XNBDMST9XC6QKV.JRTCKXETXF.6YS6EN2CT7","price":"0.4200000000","RegionlessRateCode":"Iw9ZOsHVawWLCR0znKiAX1zQ2nhX5kzh3YFmN0nmMkM"},"Batch predictions":{"rateCode":"8N28RPDRAZMW2ZT2.JRTCKXETXF.6YS6EN2CT7","price":"0.1000000000","RegionlessRateCode":"NjUn8WOeE-Xo_kEge6aub5qUX14Cvoqr8-h1CTnfgFE"},"Evaluate ML models":{"rateCode":"TXZ2JUMVUW87JGVD.JRTCKXETXF.6YS6EN2CT7","price":"0.4200000000","RegionlessRateCode":"kyP-8j2HRfpzSt7SUs2AA_gbuYxBUHkr2M_Z85PIMAc"}},"EU (Ireland)":{"-IivwJ4O-vkQuYIbeOVUtujpc_ueNiAMCChjTngu5n8":{"rateCode":"N8H2UXEJMUEKPV9D.JRTCKXETXF.6YS6EN2CT7","price":"0.0001000000","RegionlessRateCode":"-IivwJ4O-vkQuYIbeOVUtujpc_ueNiAMCChjTngu5n8"},"8R7koBfeZoaGWuNpVjgKw3JmwC6UUCxhv0MMnvYpAbw":{"rateCode":"X8KWCPSGNKTRUA3H.JRTCKXETXF.6YS6EN2CT7","price":"0.4200000000","RegionlessRateCode":"8R7koBfeZoaGWuNpVjgKw3JmwC6UUCxhv0MMnvYpAbw"},"Eztz5-F0GD99OJ_4K6qs8nawTKugf5TZlrKUstMdJ2U":{"rateCode":"K6A5N6825T4YMXBY.JRTCKXETXF.6YS6EN2CT7","price":"0.0001000000","RegionlessRateCode":"Eztz5-F0GD99OJ_4K6qs8nawTKugf5TZlrKUstMdJ2U"},"Iw9ZOsHVawWLCR0znKiAX1zQ2nhX5kzh3YFmN0nmMkM":{"rateCode":"C4Y6UTYDVNZ2SBCX.JRTCKXETXF.6YS6EN2CT7","price":"0.4200000000","RegionlessRateCode":"Iw9ZOsHVawWLCR0znKiAX1zQ2nhX5kzh3YFmN0nmMkM"},"NjUn8WOeE-Xo_kEge6aub5qUX14Cvoqr8-h1CTnfgFE":{"rateCode":"GS5YP8MW7JBTMVJD.JRTCKXETXF.6YS6EN2CT7","price":"0.1000000000","RegionlessRateCode":"NjUn8WOeE-Xo_kEge6aub5qUX14Cvoqr8-h1CTnfgFE"},"kyP-8j2HRfpzSt7SUs2AA_gbuYxBUHkr2M_Z85PIMAc":{"rateCode":"QE6ER2WYUNRQZ59F.JRTCKXETXF.6YS6EN2CT7","price":"0.4200000000","RegionlessRateCode":"kyP-8j2HRfpzSt7SUs2AA_gbuYxBUHkr2M_Z85PIMAc"},"Capacity reservation for real time predictions":{"rateCode":"N8H2UXEJMUEKPV9D.JRTCKXETXF.6YS6EN2CT7","price":"0.0001000000","RegionlessRateCode":"-IivwJ4O-vkQuYIbeOVUtujpc_ueNiAMCChjTngu5n8"},"Create data statistics":{"rateCode":"X8KWCPSGNKTRUA3H.JRTCKXETXF.6YS6EN2CT7","price":"0.4200000000","RegionlessRateCode":"8R7koBfeZoaGWuNpVjgKw3JmwC6UUCxhv0MMnvYpAbw"},"Real time predictions":{"rateCode":"K6A5N6825T4YMXBY.JRTCKXETXF.6YS6EN2CT7","price":"0.0001000000","RegionlessRateCode":"Eztz5-F0GD99OJ_4K6qs8nawTKugf5TZlrKUstMdJ2U"},"Train ML models":{"rateCode":"C4Y6UTYDVNZ2SBCX.JRTCKXETXF.6YS6EN2CT7","price":"0.4200000000","RegionlessRateCode":"Iw9ZOsHVawWLCR0znKiAX1zQ2nhX5kzh3YFmN0nmMkM"},"Batch predictions":{"rateCode":"GS5YP8MW7JBTMVJD.JRTCKXETXF.6YS6EN2CT7","price":"0.1000000000","RegionlessRateCode":"NjUn8WOeE-Xo_kEge6aub5qUX14Cvoqr8-h1CTnfgFE"},"Evaluate ML models":{"rateCode":"QE6ER2WYUNRQZ59F.JRTCKXETXF.6YS6EN2CT7","price":"0.4200000000","RegionlessRateCode":"kyP-8j2HRfpzSt7SUs2AA_gbuYxBUHkr2M_Z85PIMAc"}}}}
+{
+    "manifest": {
+        "serviceId": "ml",
+        "accessType": "publish",
+        "esIndex": "plc-ml-usd-20241003011345",
+        "hawkFilePublicationDate": "2024-08-26T17:55:12Z",
+        "ETLIngestionTriggerDate": "2024-10-03T01:13:45Z",
+        "currencyCode": "USD",
+        "source": "ml",
+        "isMapped": "true"
+    },
+    "sets": {},
+    "regions": {
+        "US East (N. Virginia)": {
+            "-IivwJ4O-vkQuYIbeOVUtujpc_ueNiAMCChjTngu5n8": {
+                "rateCode": "YX2RUJ45TX2S4PHX.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0001000000",
+                "RegionlessRateCode": "-IivwJ4O-vkQuYIbeOVUtujpc_ueNiAMCChjTngu5n8"
+            },
+            "8R7koBfeZoaGWuNpVjgKw3JmwC6UUCxhv0MMnvYpAbw": {
+                "rateCode": "VYYJMY7MNFF5T4V4.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.4200000000",
+                "RegionlessRateCode": "8R7koBfeZoaGWuNpVjgKw3JmwC6UUCxhv0MMnvYpAbw"
+            },
+            "Eztz5-F0GD99OJ_4K6qs8nawTKugf5TZlrKUstMdJ2U": {
+                "rateCode": "VA3YJSCJS652NDRR.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0001000000",
+                "RegionlessRateCode": "Eztz5-F0GD99OJ_4K6qs8nawTKugf5TZlrKUstMdJ2U"
+            },
+            "Iw9ZOsHVawWLCR0znKiAX1zQ2nhX5kzh3YFmN0nmMkM": {
+                "rateCode": "A2XNBDMST9XC6QKV.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.4200000000",
+                "RegionlessRateCode": "Iw9ZOsHVawWLCR0znKiAX1zQ2nhX5kzh3YFmN0nmMkM"
+            },
+            "NjUn8WOeE-Xo_kEge6aub5qUX14Cvoqr8-h1CTnfgFE": {
+                "rateCode": "8N28RPDRAZMW2ZT2.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "NjUn8WOeE-Xo_kEge6aub5qUX14Cvoqr8-h1CTnfgFE"
+            },
+            "kyP-8j2HRfpzSt7SUs2AA_gbuYxBUHkr2M_Z85PIMAc": {
+                "rateCode": "TXZ2JUMVUW87JGVD.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.4200000000",
+                "RegionlessRateCode": "kyP-8j2HRfpzSt7SUs2AA_gbuYxBUHkr2M_Z85PIMAc"
+            },
+            "Capacity reservation for real time predictions": {
+                "rateCode": "YX2RUJ45TX2S4PHX.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0001000000",
+                "RegionlessRateCode": "-IivwJ4O-vkQuYIbeOVUtujpc_ueNiAMCChjTngu5n8"
+            },
+            "Create data statistics": {
+                "rateCode": "VYYJMY7MNFF5T4V4.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.4200000000",
+                "RegionlessRateCode": "8R7koBfeZoaGWuNpVjgKw3JmwC6UUCxhv0MMnvYpAbw"
+            },
+            "Real time predictions": {
+                "rateCode": "VA3YJSCJS652NDRR.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0001000000",
+                "RegionlessRateCode": "Eztz5-F0GD99OJ_4K6qs8nawTKugf5TZlrKUstMdJ2U"
+            },
+            "Train ML models": {
+                "rateCode": "A2XNBDMST9XC6QKV.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.4200000000",
+                "RegionlessRateCode": "Iw9ZOsHVawWLCR0znKiAX1zQ2nhX5kzh3YFmN0nmMkM"
+            },
+            "Batch predictions": {
+                "rateCode": "8N28RPDRAZMW2ZT2.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "NjUn8WOeE-Xo_kEge6aub5qUX14Cvoqr8-h1CTnfgFE"
+            },
+            "Evaluate ML models": {
+                "rateCode": "TXZ2JUMVUW87JGVD.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.4200000000",
+                "RegionlessRateCode": "kyP-8j2HRfpzSt7SUs2AA_gbuYxBUHkr2M_Z85PIMAc"
+            }
+        },
+        "EU (Ireland)": {
+            "-IivwJ4O-vkQuYIbeOVUtujpc_ueNiAMCChjTngu5n8": {
+                "rateCode": "N8H2UXEJMUEKPV9D.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0001000000",
+                "RegionlessRateCode": "-IivwJ4O-vkQuYIbeOVUtujpc_ueNiAMCChjTngu5n8"
+            },
+            "8R7koBfeZoaGWuNpVjgKw3JmwC6UUCxhv0MMnvYpAbw": {
+                "rateCode": "X8KWCPSGNKTRUA3H.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.4200000000",
+                "RegionlessRateCode": "8R7koBfeZoaGWuNpVjgKw3JmwC6UUCxhv0MMnvYpAbw"
+            },
+            "Eztz5-F0GD99OJ_4K6qs8nawTKugf5TZlrKUstMdJ2U": {
+                "rateCode": "K6A5N6825T4YMXBY.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0001000000",
+                "RegionlessRateCode": "Eztz5-F0GD99OJ_4K6qs8nawTKugf5TZlrKUstMdJ2U"
+            },
+            "Iw9ZOsHVawWLCR0znKiAX1zQ2nhX5kzh3YFmN0nmMkM": {
+                "rateCode": "C4Y6UTYDVNZ2SBCX.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.4200000000",
+                "RegionlessRateCode": "Iw9ZOsHVawWLCR0znKiAX1zQ2nhX5kzh3YFmN0nmMkM"
+            },
+            "NjUn8WOeE-Xo_kEge6aub5qUX14Cvoqr8-h1CTnfgFE": {
+                "rateCode": "GS5YP8MW7JBTMVJD.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "NjUn8WOeE-Xo_kEge6aub5qUX14Cvoqr8-h1CTnfgFE"
+            },
+            "kyP-8j2HRfpzSt7SUs2AA_gbuYxBUHkr2M_Z85PIMAc": {
+                "rateCode": "QE6ER2WYUNRQZ59F.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.4200000000",
+                "RegionlessRateCode": "kyP-8j2HRfpzSt7SUs2AA_gbuYxBUHkr2M_Z85PIMAc"
+            },
+            "Capacity reservation for real time predictions": {
+                "rateCode": "N8H2UXEJMUEKPV9D.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0001000000",
+                "RegionlessRateCode": "-IivwJ4O-vkQuYIbeOVUtujpc_ueNiAMCChjTngu5n8"
+            },
+            "Create data statistics": {
+                "rateCode": "X8KWCPSGNKTRUA3H.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.4200000000",
+                "RegionlessRateCode": "8R7koBfeZoaGWuNpVjgKw3JmwC6UUCxhv0MMnvYpAbw"
+            },
+            "Real time predictions": {
+                "rateCode": "K6A5N6825T4YMXBY.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0001000000",
+                "RegionlessRateCode": "Eztz5-F0GD99OJ_4K6qs8nawTKugf5TZlrKUstMdJ2U"
+            },
+            "Train ML models": {
+                "rateCode": "C4Y6UTYDVNZ2SBCX.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.4200000000",
+                "RegionlessRateCode": "Iw9ZOsHVawWLCR0znKiAX1zQ2nhX5kzh3YFmN0nmMkM"
+            },
+            "Batch predictions": {
+                "rateCode": "GS5YP8MW7JBTMVJD.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "NjUn8WOeE-Xo_kEge6aub5qUX14Cvoqr8-h1CTnfgFE"
+            },
+            "Evaluate ML models": {
+                "rateCode": "QE6ER2WYUNRQZ59F.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.4200000000",
+                "RegionlessRateCode": "kyP-8j2HRfpzSt7SUs2AA_gbuYxBUHkr2M_Z85PIMAc"
+            }
+        }
+    }
+}

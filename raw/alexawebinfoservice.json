@@ -1,1 +1,42 @@
-{"manifest":{"serviceId":"alexawebinfoservice","accessType":"publish","esIndex":"plc-alexawebinfoservice-usd-20241002192630","hawkFilePublicationDate":"2024-08-26T15:37:12Z","ETLIngestionTriggerDate":"2024-10-02T19:26:30Z","currencyCode":"USD","source":"alexawebinfoservice","isMapped":"true"},"sets":{},"regions":{"Any":{"9kw2o0Ylid4GHRz3hD5cZTiUXs2fWf0DsR_rWZSbqqw":{"rateCode":"JWUWJ8C74TWVJ4H2.JRTCKXETXF.VNJQCFJPS4","price":"0.0003000000","RegionlessRateCode":"9kw2o0Ylid4GHRz3hD5cZTiUXs2fWf0DsR_rWZSbqqw"},"M3zjL4q7DwSGsc8wCQypbf5DOFHygVugpuwg6h6YvnY":{"rateCode":"JWUWJ8C74TWVJ4H2.JRTCKXETXF.JXGPBPHWFF","price":"0.0000000000","RegionlessRateCode":"M3zjL4q7DwSGsc8wCQypbf5DOFHygVugpuwg6h6YvnY"},"Ukg3HUCmg2xVoAhQgpK0AAnLnMcP6wrxIYsMXjEyab8":{"rateCode":"JWUWJ8C74TWVJ4H2.JRTCKXETXF.7RSP7MAP2R","price":"0.0004500000","RegionlessRateCode":"Ukg3HUCmg2xVoAhQgpK0AAnLnMcP6wrxIYsMXjEyab8"},"Alexa Web Information Service Requests over 1000000":{"rateCode":"JWUWJ8C74TWVJ4H2.JRTCKXETXF.VNJQCFJPS4","price":"0.0003000000","RegionlessRateCode":"9kw2o0Ylid4GHRz3hD5cZTiUXs2fWf0DsR_rWZSbqqw"},"Alexa Web Information Service Requests upto 1000000":{"rateCode":"JWUWJ8C74TWVJ4H2.JRTCKXETXF.7RSP7MAP2R","price":"0.0004500000","RegionlessRateCode":"Ukg3HUCmg2xVoAhQgpK0AAnLnMcP6wrxIYsMXjEyab8"}}}}
+{
+    "manifest": {
+        "serviceId": "alexawebinfoservice",
+        "accessType": "publish",
+        "esIndex": "plc-alexawebinfoservice-usd-20241002192630",
+        "hawkFilePublicationDate": "2024-08-26T15:37:12Z",
+        "ETLIngestionTriggerDate": "2024-10-02T19:26:30Z",
+        "currencyCode": "USD",
+        "source": "alexawebinfoservice",
+        "isMapped": "true"
+    },
+    "sets": {},
+    "regions": {
+        "Any": {
+            "9kw2o0Ylid4GHRz3hD5cZTiUXs2fWf0DsR_rWZSbqqw": {
+                "rateCode": "JWUWJ8C74TWVJ4H2.JRTCKXETXF.VNJQCFJPS4",
+                "price": "0.0003000000",
+                "RegionlessRateCode": "9kw2o0Ylid4GHRz3hD5cZTiUXs2fWf0DsR_rWZSbqqw"
+            },
+            "M3zjL4q7DwSGsc8wCQypbf5DOFHygVugpuwg6h6YvnY": {
+                "rateCode": "JWUWJ8C74TWVJ4H2.JRTCKXETXF.JXGPBPHWFF",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "M3zjL4q7DwSGsc8wCQypbf5DOFHygVugpuwg6h6YvnY"
+            },
+            "Ukg3HUCmg2xVoAhQgpK0AAnLnMcP6wrxIYsMXjEyab8": {
+                "rateCode": "JWUWJ8C74TWVJ4H2.JRTCKXETXF.7RSP7MAP2R",
+                "price": "0.0004500000",
+                "RegionlessRateCode": "Ukg3HUCmg2xVoAhQgpK0AAnLnMcP6wrxIYsMXjEyab8"
+            },
+            "Alexa Web Information Service Requests over 1000000": {
+                "rateCode": "JWUWJ8C74TWVJ4H2.JRTCKXETXF.VNJQCFJPS4",
+                "price": "0.0003000000",
+                "RegionlessRateCode": "9kw2o0Ylid4GHRz3hD5cZTiUXs2fWf0DsR_rWZSbqqw"
+            },
+            "Alexa Web Information Service Requests upto 1000000": {
+                "rateCode": "JWUWJ8C74TWVJ4H2.JRTCKXETXF.7RSP7MAP2R",
+                "price": "0.0004500000",
+                "RegionlessRateCode": "Ukg3HUCmg2xVoAhQgpK0AAnLnMcP6wrxIYsMXjEyab8"
+            }
+        }
+    }
+}

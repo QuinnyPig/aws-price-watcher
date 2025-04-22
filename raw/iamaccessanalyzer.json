@@ -1,1 +1,743 @@
-{"manifest":{"serviceId":"iamaccessanalyzer","accessType":"publish","esIndex":"plc-iamaccessanalyzer-usd-20250304231041","hawkFilePublicationDate":"2025-03-04T23:10:41Z","ETLIngestionTriggerDate":"2025-03-04T23:10:41Z","currencyCode":"USD","source":"iamaccessanalyzer","isMapped":"true"},"sets":{},"regions":{"US West (Oregon)":{"_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw":{"rateCode":"4B2GT5PJKVCJ7NT2.JRTCKXETXF.6YS6EN2CT7","price":"0.2000000000","RegionlessRateCode":"_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"},"bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU":{"rateCode":"XJK7ESPSQC7CE9AD.JRTCKXETXF.6YS6EN2CT7","price":"0.0020000000","RegionlessRateCode":"bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"},"Findings-UnusedAccessAnalysis per Number of Monitored resources":{"rateCode":"4B2GT5PJKVCJ7NT2.JRTCKXETXF.6YS6EN2CT7","price":"0.2000000000","RegionlessRateCode":"_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"},"Checks-AccessCheck per API Requests":{"rateCode":"XJK7ESPSQC7CE9AD.JRTCKXETXF.6YS6EN2CT7","price":"0.0020000000","RegionlessRateCode":"bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"}},"US West (N. California)":{"_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw":{"rateCode":"BR4YBZUU5Q5QXVAJ.JRTCKXETXF.6YS6EN2CT7","price":"0.2000000000","RegionlessRateCode":"_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"},"bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU":{"rateCode":"PKCJPVB9GHJHP356.JRTCKXETXF.6YS6EN2CT7","price":"0.0020000000","RegionlessRateCode":"bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"},"Findings-UnusedAccessAnalysis per Number of Monitored resources":{"rateCode":"BR4YBZUU5Q5QXVAJ.JRTCKXETXF.6YS6EN2CT7","price":"0.2000000000","RegionlessRateCode":"_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"},"Checks-AccessCheck per API Requests":{"rateCode":"PKCJPVB9GHJHP356.JRTCKXETXF.6YS6EN2CT7","price":"0.0020000000","RegionlessRateCode":"bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"}},"US East (Ohio)":{"_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw":{"rateCode":"UTAWUH9XETMW27QS.JRTCKXETXF.6YS6EN2CT7","price":"0.2000000000","RegionlessRateCode":"_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"},"bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU":{"rateCode":"VAC2H9AEKCY8JDWS.JRTCKXETXF.6YS6EN2CT7","price":"0.0020000000","RegionlessRateCode":"bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"},"Findings-UnusedAccessAnalysis per Number of Monitored resources":{"rateCode":"UTAWUH9XETMW27QS.JRTCKXETXF.6YS6EN2CT7","price":"0.2000000000","RegionlessRateCode":"_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"},"Checks-AccessCheck per API Requests":{"rateCode":"VAC2H9AEKCY8JDWS.JRTCKXETXF.6YS6EN2CT7","price":"0.0020000000","RegionlessRateCode":"bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"}},"US East (N. Virginia)":{"_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw":{"rateCode":"E85EKK7SDEFQTSZF.JRTCKXETXF.6YS6EN2CT7","price":"0.2000000000","RegionlessRateCode":"_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"},"bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU":{"rateCode":"6SJJX6D7QDDZUWZH.JRTCKXETXF.6YS6EN2CT7","price":"0.0020000000","RegionlessRateCode":"bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"},"Findings-UnusedAccessAnalysis per Number of Monitored resources":{"rateCode":"E85EKK7SDEFQTSZF.JRTCKXETXF.6YS6EN2CT7","price":"0.2000000000","RegionlessRateCode":"_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"},"Checks-AccessCheck per API Requests":{"rateCode":"6SJJX6D7QDDZUWZH.JRTCKXETXF.6YS6EN2CT7","price":"0.0020000000","RegionlessRateCode":"bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"}},"South America (Sao Paulo)":{"_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw":{"rateCode":"CYE3RF98ZRBB2PNB.JRTCKXETXF.6YS6EN2CT7","price":"0.2000000000","RegionlessRateCode":"_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"},"bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU":{"rateCode":"2MS8D5C64D3KRZWQ.JRTCKXETXF.6YS6EN2CT7","price":"0.0020000000","RegionlessRateCode":"bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"},"Findings-UnusedAccessAnalysis per Number of Monitored resources":{"rateCode":"CYE3RF98ZRBB2PNB.JRTCKXETXF.6YS6EN2CT7","price":"0.2000000000","RegionlessRateCode":"_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"},"Checks-AccessCheck per API Requests":{"rateCode":"2MS8D5C64D3KRZWQ.JRTCKXETXF.6YS6EN2CT7","price":"0.0020000000","RegionlessRateCode":"bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"}},"Middle East (UAE)":{"_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw":{"rateCode":"32SC793B7RSF45N6.JRTCKXETXF.6YS6EN2CT7","price":"0.2000000000","RegionlessRateCode":"_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"},"bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU":{"rateCode":"Y3ZFEE4BM9JV545A.JRTCKXETXF.6YS6EN2CT7","price":"0.0020000000","RegionlessRateCode":"bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"},"Findings-UnusedAccessAnalysis per Number of Monitored resources":{"rateCode":"32SC793B7RSF45N6.JRTCKXETXF.6YS6EN2CT7","price":"0.2000000000","RegionlessRateCode":"_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"},"Checks-AccessCheck per API Requests":{"rateCode":"Y3ZFEE4BM9JV545A.JRTCKXETXF.6YS6EN2CT7","price":"0.0020000000","RegionlessRateCode":"bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"}},"Middle East (Bahrain)":{"_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw":{"rateCode":"28AMEV4CH8REKEHJ.JRTCKXETXF.6YS6EN2CT7","price":"0.2000000000","RegionlessRateCode":"_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"},"bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU":{"rateCode":"NSY5DAJ392WFGTC6.JRTCKXETXF.6YS6EN2CT7","price":"0.0020000000","RegionlessRateCode":"bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"},"Findings-UnusedAccessAnalysis per Number of Monitored resources":{"rateCode":"28AMEV4CH8REKEHJ.JRTCKXETXF.6YS6EN2CT7","price":"0.2000000000","RegionlessRateCode":"_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"},"Checks-AccessCheck per API Requests":{"rateCode":"NSY5DAJ392WFGTC6.JRTCKXETXF.6YS6EN2CT7","price":"0.0020000000","RegionlessRateCode":"bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"}},"Mexico (Central)":{"_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw":{"rateCode":"44TJU848KMW9Q4R7.JRTCKXETXF.6YS6EN2CT7","price":"0.2000000000","RegionlessRateCode":"_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"},"bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU":{"rateCode":"B72DG5S2SAJV8KJ4.JRTCKXETXF.6YS6EN2CT7","price":"0.0020000000","RegionlessRateCode":"bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"},"Findings-UnusedAccessAnalysis per Number of Monitored resources":{"rateCode":"44TJU848KMW9Q4R7.JRTCKXETXF.6YS6EN2CT7","price":"0.2000000000","RegionlessRateCode":"_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"},"Checks-AccessCheck per API Requests":{"rateCode":"B72DG5S2SAJV8KJ4.JRTCKXETXF.6YS6EN2CT7","price":"0.0020000000","RegionlessRateCode":"bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"}},"Israel (Tel Aviv)":{"_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw":{"rateCode":"2Z7CVS4UJRS477R2.JRTCKXETXF.6YS6EN2CT7","price":"0.2000000000","RegionlessRateCode":"_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"},"bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU":{"rateCode":"427ZQNJH6R8NC63X.JRTCKXETXF.6YS6EN2CT7","price":"0.0020000000","RegionlessRateCode":"bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"},"Findings-UnusedAccessAnalysis per Number of Monitored resources":{"rateCode":"2Z7CVS4UJRS477R2.JRTCKXETXF.6YS6EN2CT7","price":"0.2000000000","RegionlessRateCode":"_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"},"Checks-AccessCheck per API Requests":{"rateCode":"427ZQNJH6R8NC63X.JRTCKXETXF.6YS6EN2CT7","price":"0.0020000000","RegionlessRateCode":"bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"}},"EU (Zurich)":{"_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw":{"rateCode":"2AQ8NJPHABFWZDP9.JRTCKXETXF.6YS6EN2CT7","price":"0.2000000000","RegionlessRateCode":"_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"},"bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU":{"rateCode":"JZRNT4EMY5ESF6BB.JRTCKXETXF.6YS6EN2CT7","price":"0.0020000000","RegionlessRateCode":"bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"},"Findings-UnusedAccessAnalysis per Number of Monitored resources":{"rateCode":"2AQ8NJPHABFWZDP9.JRTCKXETXF.6YS6EN2CT7","price":"0.2000000000","RegionlessRateCode":"_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"},"Checks-AccessCheck per API Requests":{"rateCode":"JZRNT4EMY5ESF6BB.JRTCKXETXF.6YS6EN2CT7","price":"0.0020000000","RegionlessRateCode":"bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"}},"EU (Stockholm)":{"_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw":{"rateCode":"TQGAZTQFMPBX3Q5S.JRTCKXETXF.6YS6EN2CT7","price":"0.2000000000","RegionlessRateCode":"_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"},"bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU":{"rateCode":"SQJ6EAYMFBBPQYAB.JRTCKXETXF.6YS6EN2CT7","price":"0.0020000000","RegionlessRateCode":"bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"},"Findings-UnusedAccessAnalysis per Number of Monitored resources":{"rateCode":"TQGAZTQFMPBX3Q5S.JRTCKXETXF.6YS6EN2CT7","price":"0.2000000000","RegionlessRateCode":"_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"},"Checks-AccessCheck per API Requests":{"rateCode":"SQJ6EAYMFBBPQYAB.JRTCKXETXF.6YS6EN2CT7","price":"0.0020000000","RegionlessRateCode":"bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"}},"EU (Spain)":{"_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw":{"rateCode":"9B2X4K9W3YVBABR2.JRTCKXETXF.6YS6EN2CT7","price":"0.2000000000","RegionlessRateCode":"_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"},"bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU":{"rateCode":"Z4EW45NGC7PGEP92.JRTCKXETXF.6YS6EN2CT7","price":"0.0020000000","RegionlessRateCode":"bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"},"Findings-UnusedAccessAnalysis per Number of Monitored resources":{"rateCode":"9B2X4K9W3YVBABR2.JRTCKXETXF.6YS6EN2CT7","price":"0.2000000000","RegionlessRateCode":"_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"},"Checks-AccessCheck per API Requests":{"rateCode":"Z4EW45NGC7PGEP92.JRTCKXETXF.6YS6EN2CT7","price":"0.0020000000","RegionlessRateCode":"bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"}},"EU (Paris)":{"_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw":{"rateCode":"8B8YY9X6TYKS32UU.JRTCKXETXF.6YS6EN2CT7","price":"0.2000000000","RegionlessRateCode":"_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"},"bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU":{"rateCode":"ND8UPCFMKTXSAFV9.JRTCKXETXF.6YS6EN2CT7","price":"0.0020000000","RegionlessRateCode":"bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"},"Findings-UnusedAccessAnalysis per Number of Monitored resources":{"rateCode":"8B8YY9X6TYKS32UU.JRTCKXETXF.6YS6EN2CT7","price":"0.2000000000","RegionlessRateCode":"_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"},"Checks-AccessCheck per API Requests":{"rateCode":"ND8UPCFMKTXSAFV9.JRTCKXETXF.6YS6EN2CT7","price":"0.0020000000","RegionlessRateCode":"bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"}},"EU (Milan)":{"_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw":{"rateCode":"HG6J7FANUP8WPWNG.JRTCKXETXF.6YS6EN2CT7","price":"0.2000000000","RegionlessRateCode":"_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"},"bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU":{"rateCode":"3UG2V4VQKS9CAAZS.JRTCKXETXF.6YS6EN2CT7","price":"0.0020000000","RegionlessRateCode":"bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"},"Findings-UnusedAccessAnalysis per Number of Monitored resources":{"rateCode":"HG6J7FANUP8WPWNG.JRTCKXETXF.6YS6EN2CT7","price":"0.2000000000","RegionlessRateCode":"_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"},"Checks-AccessCheck per API Requests":{"rateCode":"3UG2V4VQKS9CAAZS.JRTCKXETXF.6YS6EN2CT7","price":"0.0020000000","RegionlessRateCode":"bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"}},"EU (London)":{"_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw":{"rateCode":"C3QYMU6GJX6233BD.JRTCKXETXF.6YS6EN2CT7","price":"0.2000000000","RegionlessRateCode":"_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"},"bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU":{"rateCode":"34TQZS58U2FGQDV3.JRTCKXETXF.6YS6EN2CT7","price":"0.0020000000","RegionlessRateCode":"bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"},"Findings-UnusedAccessAnalysis per Number of Monitored resources":{"rateCode":"C3QYMU6GJX6233BD.JRTCKXETXF.6YS6EN2CT7","price":"0.2000000000","RegionlessRateCode":"_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"},"Checks-AccessCheck per API Requests":{"rateCode":"34TQZS58U2FGQDV3.JRTCKXETXF.6YS6EN2CT7","price":"0.0020000000","RegionlessRateCode":"bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"}},"EU (Ireland)":{"_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw":{"rateCode":"W6KZJP98SEFMWBRM.JRTCKXETXF.6YS6EN2CT7","price":"0.2000000000","RegionlessRateCode":"_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"},"bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU":{"rateCode":"KE27WNS9VVR4SP79.JRTCKXETXF.6YS6EN2CT7","price":"0.0020000000","RegionlessRateCode":"bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"},"Findings-UnusedAccessAnalysis per Number of Monitored resources":{"rateCode":"W6KZJP98SEFMWBRM.JRTCKXETXF.6YS6EN2CT7","price":"0.2000000000","RegionlessRateCode":"_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"},"Checks-AccessCheck per API Requests":{"rateCode":"KE27WNS9VVR4SP79.JRTCKXETXF.6YS6EN2CT7","price":"0.0020000000","RegionlessRateCode":"bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"}},"EU (Frankfurt)":{"_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw":{"rateCode":"AMQM66M4MUZH5N4W.JRTCKXETXF.6YS6EN2CT7","price":"0.2000000000","RegionlessRateCode":"_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"},"bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU":{"rateCode":"2Q2CDJKBH6WN4B6K.JRTCKXETXF.6YS6EN2CT7","price":"0.0020000000","RegionlessRateCode":"bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"},"Findings-UnusedAccessAnalysis per Number of Monitored resources":{"rateCode":"AMQM66M4MUZH5N4W.JRTCKXETXF.6YS6EN2CT7","price":"0.2000000000","RegionlessRateCode":"_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"},"Checks-AccessCheck per API Requests":{"rateCode":"2Q2CDJKBH6WN4B6K.JRTCKXETXF.6YS6EN2CT7","price":"0.0020000000","RegionlessRateCode":"bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"}},"Canada West (Calgary)":{"_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw":{"rateCode":"47SE7RRUG2M2JR3G.JRTCKXETXF.6YS6EN2CT7","price":"0.2000000000","RegionlessRateCode":"_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"},"bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU":{"rateCode":"N7ZQKEVK963TGPU8.JRTCKXETXF.6YS6EN2CT7","price":"0.0020000000","RegionlessRateCode":"bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"},"Findings-UnusedAccessAnalysis per Number of Monitored resources":{"rateCode":"47SE7RRUG2M2JR3G.JRTCKXETXF.6YS6EN2CT7","price":"0.2000000000","RegionlessRateCode":"_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"},"Checks-AccessCheck per API Requests":{"rateCode":"N7ZQKEVK963TGPU8.JRTCKXETXF.6YS6EN2CT7","price":"0.0020000000","RegionlessRateCode":"bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"}},"Canada (Central)":{"_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw":{"rateCode":"GNJD4ZXJSW9JKGVU.JRTCKXETXF.6YS6EN2CT7","price":"0.2000000000","RegionlessRateCode":"_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"},"bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU":{"rateCode":"FPURQS7PJ837MCMD.JRTCKXETXF.6YS6EN2CT7","price":"0.0020000000","RegionlessRateCode":"bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"},"Findings-UnusedAccessAnalysis per Number of Monitored resources":{"rateCode":"GNJD4ZXJSW9JKGVU.JRTCKXETXF.6YS6EN2CT7","price":"0.2000000000","RegionlessRateCode":"_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"},"Checks-AccessCheck per API Requests":{"rateCode":"FPURQS7PJ837MCMD.JRTCKXETXF.6YS6EN2CT7","price":"0.0020000000","RegionlessRateCode":"bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"}},"Asia Pacific (Tokyo)":{"_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw":{"rateCode":"FP8JASM6CN9A22AE.JRTCKXETXF.6YS6EN2CT7","price":"0.2000000000","RegionlessRateCode":"_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"},"bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU":{"rateCode":"8C57SCZ4Q8UPR9HQ.JRTCKXETXF.6YS6EN2CT7","price":"0.0020000000","RegionlessRateCode":"bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"},"Findings-UnusedAccessAnalysis per Number of Monitored resources":{"rateCode":"FP8JASM6CN9A22AE.JRTCKXETXF.6YS6EN2CT7","price":"0.2000000000","RegionlessRateCode":"_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"},"Checks-AccessCheck per API Requests":{"rateCode":"8C57SCZ4Q8UPR9HQ.JRTCKXETXF.6YS6EN2CT7","price":"0.0020000000","RegionlessRateCode":"bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"}},"Asia Pacific (Thailand)":{"_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw":{"rateCode":"B3DJZRM8G76ASH9Q.JRTCKXETXF.6YS6EN2CT7","price":"0.2000000000","RegionlessRateCode":"_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"},"bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU":{"rateCode":"UXSDZAQ9CJ28FUUF.JRTCKXETXF.6YS6EN2CT7","price":"0.0020000000","RegionlessRateCode":"bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"},"Findings-UnusedAccessAnalysis per Number of Monitored resources":{"rateCode":"B3DJZRM8G76ASH9Q.JRTCKXETXF.6YS6EN2CT7","price":"0.2000000000","RegionlessRateCode":"_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"},"Checks-AccessCheck per API Requests":{"rateCode":"UXSDZAQ9CJ28FUUF.JRTCKXETXF.6YS6EN2CT7","price":"0.0020000000","RegionlessRateCode":"bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"}},"Asia Pacific (Sydney)":{"_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw":{"rateCode":"XEGKRJAGJVZSFUDP.JRTCKXETXF.6YS6EN2CT7","price":"0.2000000000","RegionlessRateCode":"_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"},"bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU":{"rateCode":"M6V22454UGKXW7RT.JRTCKXETXF.6YS6EN2CT7","price":"0.0020000000","RegionlessRateCode":"bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"},"Findings-UnusedAccessAnalysis per Number of Monitored resources":{"rateCode":"XEGKRJAGJVZSFUDP.JRTCKXETXF.6YS6EN2CT7","price":"0.2000000000","RegionlessRateCode":"_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"},"Checks-AccessCheck per API Requests":{"rateCode":"M6V22454UGKXW7RT.JRTCKXETXF.6YS6EN2CT7","price":"0.0020000000","RegionlessRateCode":"bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"}},"Asia Pacific (Singapore)":{"_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw":{"rateCode":"HUQFDC2WZ944D5C3.JRTCKXETXF.6YS6EN2CT7","price":"0.2000000000","RegionlessRateCode":"_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"},"bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU":{"rateCode":"6VQNXJRBPSV7BVFQ.JRTCKXETXF.6YS6EN2CT7","price":"0.0020000000","RegionlessRateCode":"bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"},"Findings-UnusedAccessAnalysis per Number of Monitored resources":{"rateCode":"HUQFDC2WZ944D5C3.JRTCKXETXF.6YS6EN2CT7","price":"0.2000000000","RegionlessRateCode":"_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"},"Checks-AccessCheck per API Requests":{"rateCode":"6VQNXJRBPSV7BVFQ.JRTCKXETXF.6YS6EN2CT7","price":"0.0020000000","RegionlessRateCode":"bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"}},"Asia Pacific (Seoul)":{"_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw":{"rateCode":"PP6G7WHM83WKQF6N.JRTCKXETXF.6YS6EN2CT7","price":"0.2000000000","RegionlessRateCode":"_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"},"bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU":{"rateCode":"WBHE6WMKEX6BZ6TX.JRTCKXETXF.6YS6EN2CT7","price":"0.0020000000","RegionlessRateCode":"bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"},"Findings-UnusedAccessAnalysis per Number of Monitored resources":{"rateCode":"PP6G7WHM83WKQF6N.JRTCKXETXF.6YS6EN2CT7","price":"0.2000000000","RegionlessRateCode":"_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"},"Checks-AccessCheck per API Requests":{"rateCode":"WBHE6WMKEX6BZ6TX.JRTCKXETXF.6YS6EN2CT7","price":"0.0020000000","RegionlessRateCode":"bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"}},"Asia Pacific (Osaka)":{"_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw":{"rateCode":"G4YYSS3DNSEXP5P9.JRTCKXETXF.6YS6EN2CT7","price":"0.2000000000","RegionlessRateCode":"_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"},"bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU":{"rateCode":"9D933VV4J29RSUWS.JRTCKXETXF.6YS6EN2CT7","price":"0.0020000000","RegionlessRateCode":"bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"},"Findings-UnusedAccessAnalysis per Number of Monitored resources":{"rateCode":"G4YYSS3DNSEXP5P9.JRTCKXETXF.6YS6EN2CT7","price":"0.2000000000","RegionlessRateCode":"_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"},"Checks-AccessCheck per API Requests":{"rateCode":"9D933VV4J29RSUWS.JRTCKXETXF.6YS6EN2CT7","price":"0.0020000000","RegionlessRateCode":"bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"}},"Asia Pacific (Mumbai)":{"_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw":{"rateCode":"KN6SXDKD6ADTHRRX.JRTCKXETXF.6YS6EN2CT7","price":"0.2000000000","RegionlessRateCode":"_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"},"bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU":{"rateCode":"2WCE6T4GJRY33VNY.JRTCKXETXF.6YS6EN2CT7","price":"0.0020000000","RegionlessRateCode":"bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"},"Findings-UnusedAccessAnalysis per Number of Monitored resources":{"rateCode":"KN6SXDKD6ADTHRRX.JRTCKXETXF.6YS6EN2CT7","price":"0.2000000000","RegionlessRateCode":"_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"},"Checks-AccessCheck per API Requests":{"rateCode":"2WCE6T4GJRY33VNY.JRTCKXETXF.6YS6EN2CT7","price":"0.0020000000","RegionlessRateCode":"bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"}},"Asia Pacific (Melbourne)":{"_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw":{"rateCode":"AWBEPN9563DSJJX4.JRTCKXETXF.6YS6EN2CT7","price":"0.2000000000","RegionlessRateCode":"_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"},"bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU":{"rateCode":"TQGHVH9CMS7M7C7H.JRTCKXETXF.6YS6EN2CT7","price":"0.0020000000","RegionlessRateCode":"bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"},"Findings-UnusedAccessAnalysis per Number of Monitored resources":{"rateCode":"AWBEPN9563DSJJX4.JRTCKXETXF.6YS6EN2CT7","price":"0.2000000000","RegionlessRateCode":"_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"},"Checks-AccessCheck per API Requests":{"rateCode":"TQGHVH9CMS7M7C7H.JRTCKXETXF.6YS6EN2CT7","price":"0.0020000000","RegionlessRateCode":"bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"}},"Asia Pacific (Malaysia)":{"_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw":{"rateCode":"G2SU9STB397SXREM.JRTCKXETXF.6YS6EN2CT7","price":"0.2000000000","RegionlessRateCode":"_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"},"bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU":{"rateCode":"XAWDP73BGV7NZ2VR.JRTCKXETXF.6YS6EN2CT7","price":"0.0020000000","RegionlessRateCode":"bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"},"Findings-UnusedAccessAnalysis per Number of Monitored resources":{"rateCode":"G2SU9STB397SXREM.JRTCKXETXF.6YS6EN2CT7","price":"0.2000000000","RegionlessRateCode":"_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"},"Checks-AccessCheck per API Requests":{"rateCode":"XAWDP73BGV7NZ2VR.JRTCKXETXF.6YS6EN2CT7","price":"0.0020000000","RegionlessRateCode":"bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"}},"Asia Pacific (Jakarta)":{"_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw":{"rateCode":"R2X36NC7YJZT6CFH.JRTCKXETXF.6YS6EN2CT7","price":"0.2000000000","RegionlessRateCode":"_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"},"bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU":{"rateCode":"333AH2HAXYGASDN8.JRTCKXETXF.6YS6EN2CT7","price":"0.0020000000","RegionlessRateCode":"bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"},"Findings-UnusedAccessAnalysis per Number of Monitored resources":{"rateCode":"R2X36NC7YJZT6CFH.JRTCKXETXF.6YS6EN2CT7","price":"0.2000000000","RegionlessRateCode":"_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"},"Checks-AccessCheck per API Requests":{"rateCode":"333AH2HAXYGASDN8.JRTCKXETXF.6YS6EN2CT7","price":"0.0020000000","RegionlessRateCode":"bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"}},"Asia Pacific (Hyderabad)":{"_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw":{"rateCode":"TSZ5W577H7AHMM75.JRTCKXETXF.6YS6EN2CT7","price":"0.2000000000","RegionlessRateCode":"_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"},"bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU":{"rateCode":"T6C4VNGP6KC485HX.JRTCKXETXF.6YS6EN2CT7","price":"0.0020000000","RegionlessRateCode":"bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"},"Findings-UnusedAccessAnalysis per Number of Monitored resources":{"rateCode":"TSZ5W577H7AHMM75.JRTCKXETXF.6YS6EN2CT7","price":"0.2000000000","RegionlessRateCode":"_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"},"Checks-AccessCheck per API Requests":{"rateCode":"T6C4VNGP6KC485HX.JRTCKXETXF.6YS6EN2CT7","price":"0.0020000000","RegionlessRateCode":"bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"}},"Asia Pacific (Hong Kong)":{"_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw":{"rateCode":"QNKNHAQFBWY2PAJ6.JRTCKXETXF.6YS6EN2CT7","price":"0.2000000000","RegionlessRateCode":"_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"},"bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU":{"rateCode":"Y72BEWMUGZZM9FNP.JRTCKXETXF.6YS6EN2CT7","price":"0.0020000000","RegionlessRateCode":"bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"},"Findings-UnusedAccessAnalysis per Number of Monitored resources":{"rateCode":"QNKNHAQFBWY2PAJ6.JRTCKXETXF.6YS6EN2CT7","price":"0.2000000000","RegionlessRateCode":"_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"},"Checks-AccessCheck per API Requests":{"rateCode":"Y72BEWMUGZZM9FNP.JRTCKXETXF.6YS6EN2CT7","price":"0.0020000000","RegionlessRateCode":"bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"}},"Africa (Cape Town)":{"_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw":{"rateCode":"D6KBRB72YXDMUNWX.JRTCKXETXF.6YS6EN2CT7","price":"0.2000000000","RegionlessRateCode":"_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"},"bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU":{"rateCode":"TU35V5PJMW4Y57BT.JRTCKXETXF.6YS6EN2CT7","price":"0.0020000000","RegionlessRateCode":"bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"},"Findings-UnusedAccessAnalysis per Number of Monitored resources":{"rateCode":"D6KBRB72YXDMUNWX.JRTCKXETXF.6YS6EN2CT7","price":"0.2000000000","RegionlessRateCode":"_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"},"Checks-AccessCheck per API Requests":{"rateCode":"TU35V5PJMW4Y57BT.JRTCKXETXF.6YS6EN2CT7","price":"0.0020000000","RegionlessRateCode":"bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"}},"AWS GovCloud (US-East)":{"bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU":{"rateCode":"ENWEUVAEMK53TX77.JRTCKXETXF.6YS6EN2CT7","price":"0.0020000000","RegionlessRateCode":"bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"},"Checks-AccessCheck per API Requests":{"rateCode":"ENWEUVAEMK53TX77.JRTCKXETXF.6YS6EN2CT7","price":"0.0020000000","RegionlessRateCode":"bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"}},"AWS GovCloud (US)":{"bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU":{"rateCode":"KP2GGX59K7W5NU5D.JRTCKXETXF.6YS6EN2CT7","price":"0.0020000000","RegionlessRateCode":"bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"},"Checks-AccessCheck per API Requests":{"rateCode":"KP2GGX59K7W5NU5D.JRTCKXETXF.6YS6EN2CT7","price":"0.0020000000","RegionlessRateCode":"bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"}}}}
+{
+    "manifest": {
+        "serviceId": "iamaccessanalyzer",
+        "accessType": "publish",
+        "esIndex": "plc-iamaccessanalyzer-usd-20250304231041",
+        "hawkFilePublicationDate": "2025-03-04T23:10:41Z",
+        "ETLIngestionTriggerDate": "2025-03-04T23:10:41Z",
+        "currencyCode": "USD",
+        "source": "iamaccessanalyzer",
+        "isMapped": "true"
+    },
+    "sets": {},
+    "regions": {
+        "US West (Oregon)": {
+            "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw": {
+                "rateCode": "4B2GT5PJKVCJ7NT2.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2000000000",
+                "RegionlessRateCode": "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"
+            },
+            "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU": {
+                "rateCode": "XJK7ESPSQC7CE9AD.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0020000000",
+                "RegionlessRateCode": "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"
+            },
+            "Findings-UnusedAccessAnalysis per Number of Monitored resources": {
+                "rateCode": "4B2GT5PJKVCJ7NT2.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2000000000",
+                "RegionlessRateCode": "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"
+            },
+            "Checks-AccessCheck per API Requests": {
+                "rateCode": "XJK7ESPSQC7CE9AD.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0020000000",
+                "RegionlessRateCode": "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"
+            }
+        },
+        "US West (N. California)": {
+            "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw": {
+                "rateCode": "BR4YBZUU5Q5QXVAJ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2000000000",
+                "RegionlessRateCode": "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"
+            },
+            "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU": {
+                "rateCode": "PKCJPVB9GHJHP356.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0020000000",
+                "RegionlessRateCode": "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"
+            },
+            "Findings-UnusedAccessAnalysis per Number of Monitored resources": {
+                "rateCode": "BR4YBZUU5Q5QXVAJ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2000000000",
+                "RegionlessRateCode": "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"
+            },
+            "Checks-AccessCheck per API Requests": {
+                "rateCode": "PKCJPVB9GHJHP356.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0020000000",
+                "RegionlessRateCode": "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"
+            }
+        },
+        "US East (Ohio)": {
+            "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw": {
+                "rateCode": "UTAWUH9XETMW27QS.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2000000000",
+                "RegionlessRateCode": "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"
+            },
+            "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU": {
+                "rateCode": "VAC2H9AEKCY8JDWS.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0020000000",
+                "RegionlessRateCode": "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"
+            },
+            "Findings-UnusedAccessAnalysis per Number of Monitored resources": {
+                "rateCode": "UTAWUH9XETMW27QS.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2000000000",
+                "RegionlessRateCode": "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"
+            },
+            "Checks-AccessCheck per API Requests": {
+                "rateCode": "VAC2H9AEKCY8JDWS.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0020000000",
+                "RegionlessRateCode": "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"
+            }
+        },
+        "US East (N. Virginia)": {
+            "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw": {
+                "rateCode": "E85EKK7SDEFQTSZF.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2000000000",
+                "RegionlessRateCode": "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"
+            },
+            "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU": {
+                "rateCode": "6SJJX6D7QDDZUWZH.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0020000000",
+                "RegionlessRateCode": "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"
+            },
+            "Findings-UnusedAccessAnalysis per Number of Monitored resources": {
+                "rateCode": "E85EKK7SDEFQTSZF.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2000000000",
+                "RegionlessRateCode": "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"
+            },
+            "Checks-AccessCheck per API Requests": {
+                "rateCode": "6SJJX6D7QDDZUWZH.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0020000000",
+                "RegionlessRateCode": "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"
+            }
+        },
+        "South America (Sao Paulo)": {
+            "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw": {
+                "rateCode": "CYE3RF98ZRBB2PNB.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2000000000",
+                "RegionlessRateCode": "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"
+            },
+            "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU": {
+                "rateCode": "2MS8D5C64D3KRZWQ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0020000000",
+                "RegionlessRateCode": "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"
+            },
+            "Findings-UnusedAccessAnalysis per Number of Monitored resources": {
+                "rateCode": "CYE3RF98ZRBB2PNB.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2000000000",
+                "RegionlessRateCode": "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"
+            },
+            "Checks-AccessCheck per API Requests": {
+                "rateCode": "2MS8D5C64D3KRZWQ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0020000000",
+                "RegionlessRateCode": "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"
+            }
+        },
+        "Middle East (UAE)": {
+            "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw": {
+                "rateCode": "32SC793B7RSF45N6.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2000000000",
+                "RegionlessRateCode": "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"
+            },
+            "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU": {
+                "rateCode": "Y3ZFEE4BM9JV545A.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0020000000",
+                "RegionlessRateCode": "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"
+            },
+            "Findings-UnusedAccessAnalysis per Number of Monitored resources": {
+                "rateCode": "32SC793B7RSF45N6.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2000000000",
+                "RegionlessRateCode": "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"
+            },
+            "Checks-AccessCheck per API Requests": {
+                "rateCode": "Y3ZFEE4BM9JV545A.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0020000000",
+                "RegionlessRateCode": "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"
+            }
+        },
+        "Middle East (Bahrain)": {
+            "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw": {
+                "rateCode": "28AMEV4CH8REKEHJ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2000000000",
+                "RegionlessRateCode": "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"
+            },
+            "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU": {
+                "rateCode": "NSY5DAJ392WFGTC6.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0020000000",
+                "RegionlessRateCode": "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"
+            },
+            "Findings-UnusedAccessAnalysis per Number of Monitored resources": {
+                "rateCode": "28AMEV4CH8REKEHJ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2000000000",
+                "RegionlessRateCode": "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"
+            },
+            "Checks-AccessCheck per API Requests": {
+                "rateCode": "NSY5DAJ392WFGTC6.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0020000000",
+                "RegionlessRateCode": "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"
+            }
+        },
+        "Mexico (Central)": {
+            "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw": {
+                "rateCode": "44TJU848KMW9Q4R7.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2000000000",
+                "RegionlessRateCode": "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"
+            },
+            "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU": {
+                "rateCode": "B72DG5S2SAJV8KJ4.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0020000000",
+                "RegionlessRateCode": "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"
+            },
+            "Findings-UnusedAccessAnalysis per Number of Monitored resources": {
+                "rateCode": "44TJU848KMW9Q4R7.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2000000000",
+                "RegionlessRateCode": "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"
+            },
+            "Checks-AccessCheck per API Requests": {
+                "rateCode": "B72DG5S2SAJV8KJ4.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0020000000",
+                "RegionlessRateCode": "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"
+            }
+        },
+        "Israel (Tel Aviv)": {
+            "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw": {
+                "rateCode": "2Z7CVS4UJRS477R2.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2000000000",
+                "RegionlessRateCode": "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"
+            },
+            "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU": {
+                "rateCode": "427ZQNJH6R8NC63X.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0020000000",
+                "RegionlessRateCode": "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"
+            },
+            "Findings-UnusedAccessAnalysis per Number of Monitored resources": {
+                "rateCode": "2Z7CVS4UJRS477R2.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2000000000",
+                "RegionlessRateCode": "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"
+            },
+            "Checks-AccessCheck per API Requests": {
+                "rateCode": "427ZQNJH6R8NC63X.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0020000000",
+                "RegionlessRateCode": "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"
+            }
+        },
+        "EU (Zurich)": {
+            "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw": {
+                "rateCode": "2AQ8NJPHABFWZDP9.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2000000000",
+                "RegionlessRateCode": "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"
+            },
+            "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU": {
+                "rateCode": "JZRNT4EMY5ESF6BB.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0020000000",
+                "RegionlessRateCode": "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"
+            },
+            "Findings-UnusedAccessAnalysis per Number of Monitored resources": {
+                "rateCode": "2AQ8NJPHABFWZDP9.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2000000000",
+                "RegionlessRateCode": "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"
+            },
+            "Checks-AccessCheck per API Requests": {
+                "rateCode": "JZRNT4EMY5ESF6BB.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0020000000",
+                "RegionlessRateCode": "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"
+            }
+        },
+        "EU (Stockholm)": {
+            "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw": {
+                "rateCode": "TQGAZTQFMPBX3Q5S.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2000000000",
+                "RegionlessRateCode": "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"
+            },
+            "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU": {
+                "rateCode": "SQJ6EAYMFBBPQYAB.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0020000000",
+                "RegionlessRateCode": "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"
+            },
+            "Findings-UnusedAccessAnalysis per Number of Monitored resources": {
+                "rateCode": "TQGAZTQFMPBX3Q5S.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2000000000",
+                "RegionlessRateCode": "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"
+            },
+            "Checks-AccessCheck per API Requests": {
+                "rateCode": "SQJ6EAYMFBBPQYAB.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0020000000",
+                "RegionlessRateCode": "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"
+            }
+        },
+        "EU (Spain)": {
+            "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw": {
+                "rateCode": "9B2X4K9W3YVBABR2.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2000000000",
+                "RegionlessRateCode": "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"
+            },
+            "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU": {
+                "rateCode": "Z4EW45NGC7PGEP92.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0020000000",
+                "RegionlessRateCode": "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"
+            },
+            "Findings-UnusedAccessAnalysis per Number of Monitored resources": {
+                "rateCode": "9B2X4K9W3YVBABR2.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2000000000",
+                "RegionlessRateCode": "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"
+            },
+            "Checks-AccessCheck per API Requests": {
+                "rateCode": "Z4EW45NGC7PGEP92.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0020000000",
+                "RegionlessRateCode": "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"
+            }
+        },
+        "EU (Paris)": {
+            "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw": {
+                "rateCode": "8B8YY9X6TYKS32UU.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2000000000",
+                "RegionlessRateCode": "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"
+            },
+            "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU": {
+                "rateCode": "ND8UPCFMKTXSAFV9.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0020000000",
+                "RegionlessRateCode": "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"
+            },
+            "Findings-UnusedAccessAnalysis per Number of Monitored resources": {
+                "rateCode": "8B8YY9X6TYKS32UU.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2000000000",
+                "RegionlessRateCode": "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"
+            },
+            "Checks-AccessCheck per API Requests": {
+                "rateCode": "ND8UPCFMKTXSAFV9.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0020000000",
+                "RegionlessRateCode": "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"
+            }
+        },
+        "EU (Milan)": {
+            "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw": {
+                "rateCode": "HG6J7FANUP8WPWNG.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2000000000",
+                "RegionlessRateCode": "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"
+            },
+            "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU": {
+                "rateCode": "3UG2V4VQKS9CAAZS.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0020000000",
+                "RegionlessRateCode": "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"
+            },
+            "Findings-UnusedAccessAnalysis per Number of Monitored resources": {
+                "rateCode": "HG6J7FANUP8WPWNG.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2000000000",
+                "RegionlessRateCode": "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"
+            },
+            "Checks-AccessCheck per API Requests": {
+                "rateCode": "3UG2V4VQKS9CAAZS.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0020000000",
+                "RegionlessRateCode": "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"
+            }
+        },
+        "EU (London)": {
+            "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw": {
+                "rateCode": "C3QYMU6GJX6233BD.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2000000000",
+                "RegionlessRateCode": "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"
+            },
+            "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU": {
+                "rateCode": "34TQZS58U2FGQDV3.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0020000000",
+                "RegionlessRateCode": "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"
+            },
+            "Findings-UnusedAccessAnalysis per Number of Monitored resources": {
+                "rateCode": "C3QYMU6GJX6233BD.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2000000000",
+                "RegionlessRateCode": "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"
+            },
+            "Checks-AccessCheck per API Requests": {
+                "rateCode": "34TQZS58U2FGQDV3.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0020000000",
+                "RegionlessRateCode": "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"
+            }
+        },
+        "EU (Ireland)": {
+            "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw": {
+                "rateCode": "W6KZJP98SEFMWBRM.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2000000000",
+                "RegionlessRateCode": "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"
+            },
+            "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU": {
+                "rateCode": "KE27WNS9VVR4SP79.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0020000000",
+                "RegionlessRateCode": "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"
+            },
+            "Findings-UnusedAccessAnalysis per Number of Monitored resources": {
+                "rateCode": "W6KZJP98SEFMWBRM.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2000000000",
+                "RegionlessRateCode": "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"
+            },
+            "Checks-AccessCheck per API Requests": {
+                "rateCode": "KE27WNS9VVR4SP79.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0020000000",
+                "RegionlessRateCode": "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"
+            }
+        },
+        "EU (Frankfurt)": {
+            "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw": {
+                "rateCode": "AMQM66M4MUZH5N4W.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2000000000",
+                "RegionlessRateCode": "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"
+            },
+            "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU": {
+                "rateCode": "2Q2CDJKBH6WN4B6K.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0020000000",
+                "RegionlessRateCode": "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"
+            },
+            "Findings-UnusedAccessAnalysis per Number of Monitored resources": {
+                "rateCode": "AMQM66M4MUZH5N4W.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2000000000",
+                "RegionlessRateCode": "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"
+            },
+            "Checks-AccessCheck per API Requests": {
+                "rateCode": "2Q2CDJKBH6WN4B6K.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0020000000",
+                "RegionlessRateCode": "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"
+            }
+        },
+        "Canada West (Calgary)": {
+            "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw": {
+                "rateCode": "47SE7RRUG2M2JR3G.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2000000000",
+                "RegionlessRateCode": "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"
+            },
+            "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU": {
+                "rateCode": "N7ZQKEVK963TGPU8.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0020000000",
+                "RegionlessRateCode": "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"
+            },
+            "Findings-UnusedAccessAnalysis per Number of Monitored resources": {
+                "rateCode": "47SE7RRUG2M2JR3G.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2000000000",
+                "RegionlessRateCode": "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"
+            },
+            "Checks-AccessCheck per API Requests": {
+                "rateCode": "N7ZQKEVK963TGPU8.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0020000000",
+                "RegionlessRateCode": "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"
+            }
+        },
+        "Canada (Central)": {
+            "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw": {
+                "rateCode": "GNJD4ZXJSW9JKGVU.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2000000000",
+                "RegionlessRateCode": "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"
+            },
+            "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU": {
+                "rateCode": "FPURQS7PJ837MCMD.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0020000000",
+                "RegionlessRateCode": "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"
+            },
+            "Findings-UnusedAccessAnalysis per Number of Monitored resources": {
+                "rateCode": "GNJD4ZXJSW9JKGVU.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2000000000",
+                "RegionlessRateCode": "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"
+            },
+            "Checks-AccessCheck per API Requests": {
+                "rateCode": "FPURQS7PJ837MCMD.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0020000000",
+                "RegionlessRateCode": "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"
+            }
+        },
+        "Asia Pacific (Tokyo)": {
+            "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw": {
+                "rateCode": "FP8JASM6CN9A22AE.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2000000000",
+                "RegionlessRateCode": "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"
+            },
+            "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU": {
+                "rateCode": "8C57SCZ4Q8UPR9HQ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0020000000",
+                "RegionlessRateCode": "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"
+            },
+            "Findings-UnusedAccessAnalysis per Number of Monitored resources": {
+                "rateCode": "FP8JASM6CN9A22AE.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2000000000",
+                "RegionlessRateCode": "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"
+            },
+            "Checks-AccessCheck per API Requests": {
+                "rateCode": "8C57SCZ4Q8UPR9HQ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0020000000",
+                "RegionlessRateCode": "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"
+            }
+        },
+        "Asia Pacific (Thailand)": {
+            "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw": {
+                "rateCode": "B3DJZRM8G76ASH9Q.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2000000000",
+                "RegionlessRateCode": "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"
+            },
+            "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU": {
+                "rateCode": "UXSDZAQ9CJ28FUUF.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0020000000",
+                "RegionlessRateCode": "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"
+            },
+            "Findings-UnusedAccessAnalysis per Number of Monitored resources": {
+                "rateCode": "B3DJZRM8G76ASH9Q.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2000000000",
+                "RegionlessRateCode": "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"
+            },
+            "Checks-AccessCheck per API Requests": {
+                "rateCode": "UXSDZAQ9CJ28FUUF.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0020000000",
+                "RegionlessRateCode": "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"
+            }
+        },
+        "Asia Pacific (Sydney)": {
+            "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw": {
+                "rateCode": "XEGKRJAGJVZSFUDP.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2000000000",
+                "RegionlessRateCode": "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"
+            },
+            "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU": {
+                "rateCode": "M6V22454UGKXW7RT.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0020000000",
+                "RegionlessRateCode": "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"
+            },
+            "Findings-UnusedAccessAnalysis per Number of Monitored resources": {
+                "rateCode": "XEGKRJAGJVZSFUDP.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2000000000",
+                "RegionlessRateCode": "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"
+            },
+            "Checks-AccessCheck per API Requests": {
+                "rateCode": "M6V22454UGKXW7RT.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0020000000",
+                "RegionlessRateCode": "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"
+            }
+        },
+        "Asia Pacific (Singapore)": {
+            "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw": {
+                "rateCode": "HUQFDC2WZ944D5C3.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2000000000",
+                "RegionlessRateCode": "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"
+            },
+            "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU": {
+                "rateCode": "6VQNXJRBPSV7BVFQ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0020000000",
+                "RegionlessRateCode": "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"
+            },
+            "Findings-UnusedAccessAnalysis per Number of Monitored resources": {
+                "rateCode": "HUQFDC2WZ944D5C3.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2000000000",
+                "RegionlessRateCode": "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"
+            },
+            "Checks-AccessCheck per API Requests": {
+                "rateCode": "6VQNXJRBPSV7BVFQ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0020000000",
+                "RegionlessRateCode": "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"
+            }
+        },
+        "Asia Pacific (Seoul)": {
+            "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw": {
+                "rateCode": "PP6G7WHM83WKQF6N.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2000000000",
+                "RegionlessRateCode": "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"
+            },
+            "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU": {
+                "rateCode": "WBHE6WMKEX6BZ6TX.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0020000000",
+                "RegionlessRateCode": "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"
+            },
+            "Findings-UnusedAccessAnalysis per Number of Monitored resources": {
+                "rateCode": "PP6G7WHM83WKQF6N.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2000000000",
+                "RegionlessRateCode": "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"
+            },
+            "Checks-AccessCheck per API Requests": {
+                "rateCode": "WBHE6WMKEX6BZ6TX.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0020000000",
+                "RegionlessRateCode": "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"
+            }
+        },
+        "Asia Pacific (Osaka)": {
+            "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw": {
+                "rateCode": "G4YYSS3DNSEXP5P9.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2000000000",
+                "RegionlessRateCode": "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"
+            },
+            "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU": {
+                "rateCode": "9D933VV4J29RSUWS.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0020000000",
+                "RegionlessRateCode": "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"
+            },
+            "Findings-UnusedAccessAnalysis per Number of Monitored resources": {
+                "rateCode": "G4YYSS3DNSEXP5P9.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2000000000",
+                "RegionlessRateCode": "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"
+            },
+            "Checks-AccessCheck per API Requests": {
+                "rateCode": "9D933VV4J29RSUWS.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0020000000",
+                "RegionlessRateCode": "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"
+            }
+        },
+        "Asia Pacific (Mumbai)": {
+            "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw": {
+                "rateCode": "KN6SXDKD6ADTHRRX.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2000000000",
+                "RegionlessRateCode": "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"
+            },
+            "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU": {
+                "rateCode": "2WCE6T4GJRY33VNY.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0020000000",
+                "RegionlessRateCode": "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"
+            },
+            "Findings-UnusedAccessAnalysis per Number of Monitored resources": {
+                "rateCode": "KN6SXDKD6ADTHRRX.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2000000000",
+                "RegionlessRateCode": "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"
+            },
+            "Checks-AccessCheck per API Requests": {
+                "rateCode": "2WCE6T4GJRY33VNY.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0020000000",
+                "RegionlessRateCode": "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"
+            }
+        },
+        "Asia Pacific (Melbourne)": {
+            "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw": {
+                "rateCode": "AWBEPN9563DSJJX4.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2000000000",
+                "RegionlessRateCode": "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"
+            },
+            "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU": {
+                "rateCode": "TQGHVH9CMS7M7C7H.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0020000000",
+                "RegionlessRateCode": "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"
+            },
+            "Findings-UnusedAccessAnalysis per Number of Monitored resources": {
+                "rateCode": "AWBEPN9563DSJJX4.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2000000000",
+                "RegionlessRateCode": "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"
+            },
+            "Checks-AccessCheck per API Requests": {
+                "rateCode": "TQGHVH9CMS7M7C7H.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0020000000",
+                "RegionlessRateCode": "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"
+            }
+        },
+        "Asia Pacific (Malaysia)": {
+            "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw": {
+                "rateCode": "G2SU9STB397SXREM.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2000000000",
+                "RegionlessRateCode": "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"
+            },
+            "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU": {
+                "rateCode": "XAWDP73BGV7NZ2VR.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0020000000",
+                "RegionlessRateCode": "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"
+            },
+            "Findings-UnusedAccessAnalysis per Number of Monitored resources": {
+                "rateCode": "G2SU9STB397SXREM.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2000000000",
+                "RegionlessRateCode": "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"
+            },
+            "Checks-AccessCheck per API Requests": {
+                "rateCode": "XAWDP73BGV7NZ2VR.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0020000000",
+                "RegionlessRateCode": "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"
+            }
+        },
+        "Asia Pacific (Jakarta)": {
+            "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw": {
+                "rateCode": "R2X36NC7YJZT6CFH.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2000000000",
+                "RegionlessRateCode": "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"
+            },
+            "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU": {
+                "rateCode": "333AH2HAXYGASDN8.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0020000000",
+                "RegionlessRateCode": "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"
+            },
+            "Findings-UnusedAccessAnalysis per Number of Monitored resources": {
+                "rateCode": "R2X36NC7YJZT6CFH.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2000000000",
+                "RegionlessRateCode": "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"
+            },
+            "Checks-AccessCheck per API Requests": {
+                "rateCode": "333AH2HAXYGASDN8.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0020000000",
+                "RegionlessRateCode": "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"
+            }
+        },
+        "Asia Pacific (Hyderabad)": {
+            "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw": {
+                "rateCode": "TSZ5W577H7AHMM75.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2000000000",
+                "RegionlessRateCode": "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"
+            },
+            "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU": {
+                "rateCode": "T6C4VNGP6KC485HX.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0020000000",
+                "RegionlessRateCode": "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"
+            },
+            "Findings-UnusedAccessAnalysis per Number of Monitored resources": {
+                "rateCode": "TSZ5W577H7AHMM75.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2000000000",
+                "RegionlessRateCode": "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"
+            },
+            "Checks-AccessCheck per API Requests": {
+                "rateCode": "T6C4VNGP6KC485HX.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0020000000",
+                "RegionlessRateCode": "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"
+            }
+        },
+        "Asia Pacific (Hong Kong)": {
+            "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw": {
+                "rateCode": "QNKNHAQFBWY2PAJ6.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2000000000",
+                "RegionlessRateCode": "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"
+            },
+            "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU": {
+                "rateCode": "Y72BEWMUGZZM9FNP.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0020000000",
+                "RegionlessRateCode": "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"
+            },
+            "Findings-UnusedAccessAnalysis per Number of Monitored resources": {
+                "rateCode": "QNKNHAQFBWY2PAJ6.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2000000000",
+                "RegionlessRateCode": "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"
+            },
+            "Checks-AccessCheck per API Requests": {
+                "rateCode": "Y72BEWMUGZZM9FNP.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0020000000",
+                "RegionlessRateCode": "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"
+            }
+        },
+        "Africa (Cape Town)": {
+            "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw": {
+                "rateCode": "D6KBRB72YXDMUNWX.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2000000000",
+                "RegionlessRateCode": "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"
+            },
+            "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU": {
+                "rateCode": "TU35V5PJMW4Y57BT.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0020000000",
+                "RegionlessRateCode": "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"
+            },
+            "Findings-UnusedAccessAnalysis per Number of Monitored resources": {
+                "rateCode": "D6KBRB72YXDMUNWX.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2000000000",
+                "RegionlessRateCode": "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"
+            },
+            "Checks-AccessCheck per API Requests": {
+                "rateCode": "TU35V5PJMW4Y57BT.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0020000000",
+                "RegionlessRateCode": "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"
+            }
+        },
+        "AWS GovCloud (US-East)": {
+            "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU": {
+                "rateCode": "ENWEUVAEMK53TX77.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0020000000",
+                "RegionlessRateCode": "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"
+            },
+            "Checks-AccessCheck per API Requests": {
+                "rateCode": "ENWEUVAEMK53TX77.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0020000000",
+                "RegionlessRateCode": "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"
+            }
+        },
+        "AWS GovCloud (US)": {
+            "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU": {
+                "rateCode": "KP2GGX59K7W5NU5D.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0020000000",
+                "RegionlessRateCode": "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"
+            },
+            "Checks-AccessCheck per API Requests": {
+                "rateCode": "KP2GGX59K7W5NU5D.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0020000000",
+                "RegionlessRateCode": "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"
+            }
+        }
+    }
+}

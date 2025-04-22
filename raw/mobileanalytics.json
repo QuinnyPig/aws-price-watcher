@@ -1,1 +1,37 @@
-{"manifest":{"serviceId":"mobileanalytics","accessType":"publish","esIndex":"plc-mobileanalytics-usd-20241003011433","hawkFilePublicationDate":"2024-08-26T17:55:47Z","ETLIngestionTriggerDate":"2024-10-03T01:14:33Z","currencyCode":"USD","source":"mobileanalytics","isMapped":"true"},"sets":{},"regions":{"US East (N. Virginia)":{"IDR0pihw0-rrfyuulJEeZDiq2Cy8r047fAIIqenortw":{"rateCode":"HVG2S4GDXS575D3S.JRTCKXETXF.8DQQFJNTGA","price":"0.0000000000","RegionlessRateCode":"IDR0pihw0-rrfyuulJEeZDiq2Cy8r047fAIIqenortw"},"t6dncyatzI_Sk0ytP2BtNIHgrs8GDTEeFqckms5TLck":{"rateCode":"HVG2S4GDXS575D3S.JRTCKXETXF.F83EQNDM5J","price":"0.0000010000","RegionlessRateCode":"t6dncyatzI_Sk0ytP2BtNIHgrs8GDTEeFqckms5TLck"},"Mobile Analytics FREE first 100M":{"rateCode":"HVG2S4GDXS575D3S.JRTCKXETXF.8DQQFJNTGA","price":"0.0000000000","RegionlessRateCode":"IDR0pihw0-rrfyuulJEeZDiq2Cy8r047fAIIqenortw"},"Mobile Analytics":{"rateCode":"HVG2S4GDXS575D3S.JRTCKXETXF.F83EQNDM5J","price":"0.0000010000","RegionlessRateCode":"t6dncyatzI_Sk0ytP2BtNIHgrs8GDTEeFqckms5TLck"}}}}
+{
+    "manifest": {
+        "serviceId": "mobileanalytics",
+        "accessType": "publish",
+        "esIndex": "plc-mobileanalytics-usd-20241003011433",
+        "hawkFilePublicationDate": "2024-08-26T17:55:47Z",
+        "ETLIngestionTriggerDate": "2024-10-03T01:14:33Z",
+        "currencyCode": "USD",
+        "source": "mobileanalytics",
+        "isMapped": "true"
+    },
+    "sets": {},
+    "regions": {
+        "US East (N. Virginia)": {
+            "IDR0pihw0-rrfyuulJEeZDiq2Cy8r047fAIIqenortw": {
+                "rateCode": "HVG2S4GDXS575D3S.JRTCKXETXF.8DQQFJNTGA",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "IDR0pihw0-rrfyuulJEeZDiq2Cy8r047fAIIqenortw"
+            },
+            "t6dncyatzI_Sk0ytP2BtNIHgrs8GDTEeFqckms5TLck": {
+                "rateCode": "HVG2S4GDXS575D3S.JRTCKXETXF.F83EQNDM5J",
+                "price": "0.0000010000",
+                "RegionlessRateCode": "t6dncyatzI_Sk0ytP2BtNIHgrs8GDTEeFqckms5TLck"
+            },
+            "Mobile Analytics FREE first 100M": {
+                "rateCode": "HVG2S4GDXS575D3S.JRTCKXETXF.8DQQFJNTGA",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "IDR0pihw0-rrfyuulJEeZDiq2Cy8r047fAIIqenortw"
+            },
+            "Mobile Analytics": {
+                "rateCode": "HVG2S4GDXS575D3S.JRTCKXETXF.F83EQNDM5J",
+                "price": "0.0000010000",
+                "RegionlessRateCode": "t6dncyatzI_Sk0ytP2BtNIHgrs8GDTEeFqckms5TLck"
+            }
+        }
+    }
+}

@@ -1,1 +1,217 @@
-{"manifest":{"serviceId":"iot1click","accessType":"publish","esIndex":"plc-iot1click-usd-20241003004403","hawkFilePublicationDate":"2024-08-26T17:48:24Z","ETLIngestionTriggerDate":"2024-10-03T00:44:03Z","currencyCode":"USD","source":"iot1click","isMapped":"true"},"sets":{},"regions":{"US West (Oregon)":{"081J3tMro3GWM3u-2HOe_vbzoChnZiAzrj4xcQ0zSAo":{"rateCode":"3WRGAPVDWKA8N8DF.JRTCKXETXF.8Y3FEATPJK","price":"0.2500000000","RegionlessRateCode":"081J3tMro3GWM3u-2HOe_vbzoChnZiAzrj4xcQ0zSAo"},"4eQZJBLGZlA9DGXPSd0MShl1SMbC0wMbJevg-9VrCSA":{"rateCode":"P3QMR5GX3K5FCSFW.JRTCKXETXF.KZ9RWR3KKY","price":"0.1000000000","RegionlessRateCode":"4eQZJBLGZlA9DGXPSd0MShl1SMbC0wMbJevg-9VrCSA"},"5kaXz2gotpD4YI_DnwxOTI0KQpv9BtLJT1RTEyM8hUU":{"rateCode":"P3QMR5GX3K5FCSFW.JRTCKXETXF.8CXH7VDVQH","price":"0.2000000000","RegionlessRateCode":"5kaXz2gotpD4YI_DnwxOTI0KQpv9BtLJT1RTEyM8hUU"},"6ClN8HUVvDqxOksMsRliOSPd5hxHniEqkgIWkCfdSSg":{"rateCode":"G89PPD7TKQW8P36P.JRTCKXETXF.KZ9RWR3KKY","price":"0.1000000000","RegionlessRateCode":"6ClN8HUVvDqxOksMsRliOSPd5hxHniEqkgIWkCfdSSg"},"BnzjF538javaN2Yok_LoxE-2NAo0kGR2I7Rdcbai2vg":{"rateCode":"W56WNC6S9XRMFA57.JRTCKXETXF.GZZK59XNTA","price":"0.1500000000","RegionlessRateCode":"BnzjF538javaN2Yok_LoxE-2NAo0kGR2I7Rdcbai2vg"},"NtLeO2lqUAL5aihg2Lpc_Z8yJfw4i744ARHfLcitPsc":{"rateCode":"G89PPD7TKQW8P36P.JRTCKXETXF.8Y3FEATPJK","price":"0.2500000000","RegionlessRateCode":"NtLeO2lqUAL5aihg2Lpc_Z8yJfw4i744ARHfLcitPsc"},"TOJ05LebcTEimjBJ9h56ad7wHx3XiTcwE7efht8yJ-g":{"rateCode":"ZCMUUZVWTQVHWJHP.JRTCKXETXF.KZ9RWR3KKY","price":"0.1000000000","RegionlessRateCode":"TOJ05LebcTEimjBJ9h56ad7wHx3XiTcwE7efht8yJ-g"},"WOlUefkL3y8hx262OITBoVbrQRccOHrfM5WdJosw78c":{"rateCode":"3WRGAPVDWKA8N8DF.JRTCKXETXF.GZZK59XNTA","price":"0.1500000000","RegionlessRateCode":"WOlUefkL3y8hx262OITBoVbrQRccOHrfM5WdJosw78c"},"WsEaQ8ujIJcpL2kX_fXSvv5SzIK-o_Z11_K8RUVeYuw":{"rateCode":"G89PPD7TKQW8P36P.JRTCKXETXF.8CXH7VDVQH","price":"0.2000000000","RegionlessRateCode":"WsEaQ8ujIJcpL2kX_fXSvv5SzIK-o_Z11_K8RUVeYuw"},"ZghjUxqLW7CZ23lNXq9pdr4Jf_ofLFoU1wthGcYClnQ":{"rateCode":"ZCMUUZVWTQVHWJHP.JRTCKXETXF.GZZK59XNTA","price":"0.1500000000","RegionlessRateCode":"ZghjUxqLW7CZ23lNXq9pdr4Jf_ofLFoU1wthGcYClnQ"},"alTa6yAhJ9T2Fw92DUWLSo6Co_wONKu4Qb5YIWWn4W0":{"rateCode":"ZCMUUZVWTQVHWJHP.JRTCKXETXF.8CXH7VDVQH","price":"0.2000000000","RegionlessRateCode":"alTa6yAhJ9T2Fw92DUWLSo6Co_wONKu4Qb5YIWWn4W0"},"c0vE3xXc0ICPl-hG_TOfgWHblIFy3gNMWKfZY6wcEd0":{"rateCode":"W56WNC6S9XRMFA57.JRTCKXETXF.8CXH7VDVQH","price":"0.2000000000","RegionlessRateCode":"c0vE3xXc0ICPl-hG_TOfgWHblIFy3gNMWKfZY6wcEd0"},"dC19-doLD0IXcAyBtVUaH8Dm2PuUOeM6PXKofHq49_s":{"rateCode":"P3QMR5GX3K5FCSFW.JRTCKXETXF.8Y3FEATPJK","price":"0.2500000000","RegionlessRateCode":"dC19-doLD0IXcAyBtVUaH8Dm2PuUOeM6PXKofHq49_s"},"g-1Gg2pJvUZwtLA34otNokJhYMNlPzW76aqzWvz60G8":{"rateCode":"ZCMUUZVWTQVHWJHP.JRTCKXETXF.8Y3FEATPJK","price":"0.2500000000","RegionlessRateCode":"g-1Gg2pJvUZwtLA34otNokJhYMNlPzW76aqzWvz60G8"},"hy5L1RSZXnfFI05bIMOTch6Jn8509Eg1o7ytIXo-Hx4":{"rateCode":"W56WNC6S9XRMFA57.JRTCKXETXF.8Y3FEATPJK","price":"0.2500000000","RegionlessRateCode":"hy5L1RSZXnfFI05bIMOTch6Jn8509Eg1o7ytIXo-Hx4"},"jFzDRE6XvAcB9PX9FgqEuN_6zk6R37yPRtRxk4ROFMw":{"rateCode":"3WRGAPVDWKA8N8DF.JRTCKXETXF.KZ9RWR3KKY","price":"0.1000000000","RegionlessRateCode":"jFzDRE6XvAcB9PX9FgqEuN_6zk6R37yPRtRxk4ROFMw"},"najE3lITDqZOeKfZmUqtPJKiKERvt-u_baPAHCuvWwY":{"rateCode":"W56WNC6S9XRMFA57.JRTCKXETXF.KZ9RWR3KKY","price":"0.1000000000","RegionlessRateCode":"najE3lITDqZOeKfZmUqtPJKiKERvt-u_baPAHCuvWwY"},"scnVCLU_vSqXnbyl0wmeTyZD_VY-m0ag9QbmBlhKeog":{"rateCode":"G89PPD7TKQW8P36P.JRTCKXETXF.GZZK59XNTA","price":"0.1500000000","RegionlessRateCode":"scnVCLU_vSqXnbyl0wmeTyZD_VY-m0ag9QbmBlhKeog"},"tK5fILQ9r4SbJ8_Rs_l5rBr3V71QrFGv9cOMqSYAnc0":{"rateCode":"P3QMR5GX3K5FCSFW.JRTCKXETXF.GZZK59XNTA","price":"0.1500000000","RegionlessRateCode":"tK5fILQ9r4SbJ8_Rs_l5rBr3V71QrFGv9cOMqSYAnc0"},"u8NaQJzTdJylAY0MrEbq5W7jc0bE30YnnaFLBNzXxl0":{"rateCode":"3WRGAPVDWKA8N8DF.JRTCKXETXF.8CXH7VDVQH","price":"0.2000000000","RegionlessRateCode":"u8NaQJzTdJylAY0MrEbq5W7jc0bE30YnnaFLBNzXxl0"},"Seeed IoT Button for AWS per 1 to 14999 Enabled Devices":{"rateCode":"3WRGAPVDWKA8N8DF.JRTCKXETXF.8Y3FEATPJK","price":"0.2500000000","RegionlessRateCode":"081J3tMro3GWM3u-2HOe_vbzoChnZiAzrj4xcQ0zSAo"},"IoT Enterprise Button per 100000 and higher Enabled Devices":{"rateCode":"P3QMR5GX3K5FCSFW.JRTCKXETXF.KZ9RWR3KKY","price":"0.1000000000","RegionlessRateCode":"4eQZJBLGZlA9DGXPSd0MShl1SMbC0wMbJevg-9VrCSA"},"IoT Enterprise Button per 14999 to 74999 Enabled Devices":{"rateCode":"P3QMR5GX3K5FCSFW.JRTCKXETXF.8CXH7VDVQH","price":"0.2000000000","RegionlessRateCode":"5kaXz2gotpD4YI_DnwxOTI0KQpv9BtLJT1RTEyM8hUU"},"Sercomm IoT Button per 100000 and higher Enabled Devices":{"rateCode":"G89PPD7TKQW8P36P.JRTCKXETXF.KZ9RWR3KKY","price":"0.1000000000","RegionlessRateCode":"6ClN8HUVvDqxOksMsRliOSPd5hxHniEqkgIWkCfdSSg"},"SORACOM LTE M Button per 75000 to 99999 Enabled-Devices":{"rateCode":"W56WNC6S9XRMFA57.JRTCKXETXF.GZZK59XNTA","price":"0.1500000000","RegionlessRateCode":"BnzjF538javaN2Yok_LoxE-2NAo0kGR2I7Rdcbai2vg"},"Sercomm IoT Button per 1 to 14999 Enabled Devices":{"rateCode":"G89PPD7TKQW8P36P.JRTCKXETXF.8Y3FEATPJK","price":"0.2500000000","RegionlessRateCode":"NtLeO2lqUAL5aihg2Lpc_Z8yJfw4i744ARHfLcitPsc"},"AT T LTE-M-Button per 100000 and higher Enabled-Devices":{"rateCode":"ZCMUUZVWTQVHWJHP.JRTCKXETXF.KZ9RWR3KKY","price":"0.1000000000","RegionlessRateCode":"TOJ05LebcTEimjBJ9h56ad7wHx3XiTcwE7efht8yJ-g"},"Seeed IoT Button for AWS per 75000 to 99999 Enabled Devices":{"rateCode":"3WRGAPVDWKA8N8DF.JRTCKXETXF.GZZK59XNTA","price":"0.1500000000","RegionlessRateCode":"WOlUefkL3y8hx262OITBoVbrQRccOHrfM5WdJosw78c"},"Sercomm IoT Button per 14999 to 74999 Enabled Devices":{"rateCode":"G89PPD7TKQW8P36P.JRTCKXETXF.8CXH7VDVQH","price":"0.2000000000","RegionlessRateCode":"WsEaQ8ujIJcpL2kX_fXSvv5SzIK-o_Z11_K8RUVeYuw"},"AT T LTE-M-Button per 75000 to 99999 Enabled-Devices":{"rateCode":"ZCMUUZVWTQVHWJHP.JRTCKXETXF.GZZK59XNTA","price":"0.1500000000","RegionlessRateCode":"ZghjUxqLW7CZ23lNXq9pdr4Jf_ofLFoU1wthGcYClnQ"},"AT T LTE-M-Button per 14999 to 74999 Enabled-Devices":{"rateCode":"ZCMUUZVWTQVHWJHP.JRTCKXETXF.8CXH7VDVQH","price":"0.2000000000","RegionlessRateCode":"alTa6yAhJ9T2Fw92DUWLSo6Co_wONKu4Qb5YIWWn4W0"},"SORACOM LTE M Button per 14999 to 74999 Enabled-Devices":{"rateCode":"W56WNC6S9XRMFA57.JRTCKXETXF.8CXH7VDVQH","price":"0.2000000000","RegionlessRateCode":"c0vE3xXc0ICPl-hG_TOfgWHblIFy3gNMWKfZY6wcEd0"},"IoT Enterprise Button per 1 to 14999 Enabled Devices":{"rateCode":"P3QMR5GX3K5FCSFW.JRTCKXETXF.8Y3FEATPJK","price":"0.2500000000","RegionlessRateCode":"dC19-doLD0IXcAyBtVUaH8Dm2PuUOeM6PXKofHq49_s"},"AT T LTE-M-Button per 1 to 14999 Enabled-Devices":{"rateCode":"ZCMUUZVWTQVHWJHP.JRTCKXETXF.8Y3FEATPJK","price":"0.2500000000","RegionlessRateCode":"g-1Gg2pJvUZwtLA34otNokJhYMNlPzW76aqzWvz60G8"},"SORACOM LTE M Button per 1 to 14999 Enabled-Devices":{"rateCode":"W56WNC6S9XRMFA57.JRTCKXETXF.8Y3FEATPJK","price":"0.2500000000","RegionlessRateCode":"hy5L1RSZXnfFI05bIMOTch6Jn8509Eg1o7ytIXo-Hx4"},"Seeed IoT Button for AWS per 100000 and higher Enabled Devices":{"rateCode":"3WRGAPVDWKA8N8DF.JRTCKXETXF.KZ9RWR3KKY","price":"0.1000000000","RegionlessRateCode":"jFzDRE6XvAcB9PX9FgqEuN_6zk6R37yPRtRxk4ROFMw"},"SORACOM LTE M Button per 100000 and higher Enabled-Devices":{"rateCode":"W56WNC6S9XRMFA57.JRTCKXETXF.KZ9RWR3KKY","price":"0.1000000000","RegionlessRateCode":"najE3lITDqZOeKfZmUqtPJKiKERvt-u_baPAHCuvWwY"},"Sercomm IoT Button per 75000 to 99999 Enabled Devices":{"rateCode":"G89PPD7TKQW8P36P.JRTCKXETXF.GZZK59XNTA","price":"0.1500000000","RegionlessRateCode":"scnVCLU_vSqXnbyl0wmeTyZD_VY-m0ag9QbmBlhKeog"},"IoT Enterprise Button per 75000 to 99999 Enabled Devices":{"rateCode":"P3QMR5GX3K5FCSFW.JRTCKXETXF.GZZK59XNTA","price":"0.1500000000","RegionlessRateCode":"tK5fILQ9r4SbJ8_Rs_l5rBr3V71QrFGv9cOMqSYAnc0"},"Seeed IoT Button for AWS per 14999 to 74999 Enabled Devices":{"rateCode":"3WRGAPVDWKA8N8DF.JRTCKXETXF.8CXH7VDVQH","price":"0.2000000000","RegionlessRateCode":"u8NaQJzTdJylAY0MrEbq5W7jc0bE30YnnaFLBNzXxl0"}}}}
+{
+    "manifest": {
+        "serviceId": "iot1click",
+        "accessType": "publish",
+        "esIndex": "plc-iot1click-usd-20241003004403",
+        "hawkFilePublicationDate": "2024-08-26T17:48:24Z",
+        "ETLIngestionTriggerDate": "2024-10-03T00:44:03Z",
+        "currencyCode": "USD",
+        "source": "iot1click",
+        "isMapped": "true"
+    },
+    "sets": {},
+    "regions": {
+        "US West (Oregon)": {
+            "081J3tMro3GWM3u-2HOe_vbzoChnZiAzrj4xcQ0zSAo": {
+                "rateCode": "3WRGAPVDWKA8N8DF.JRTCKXETXF.8Y3FEATPJK",
+                "price": "0.2500000000",
+                "RegionlessRateCode": "081J3tMro3GWM3u-2HOe_vbzoChnZiAzrj4xcQ0zSAo"
+            },
+            "4eQZJBLGZlA9DGXPSd0MShl1SMbC0wMbJevg-9VrCSA": {
+                "rateCode": "P3QMR5GX3K5FCSFW.JRTCKXETXF.KZ9RWR3KKY",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "4eQZJBLGZlA9DGXPSd0MShl1SMbC0wMbJevg-9VrCSA"
+            },
+            "5kaXz2gotpD4YI_DnwxOTI0KQpv9BtLJT1RTEyM8hUU": {
+                "rateCode": "P3QMR5GX3K5FCSFW.JRTCKXETXF.8CXH7VDVQH",
+                "price": "0.2000000000",
+                "RegionlessRateCode": "5kaXz2gotpD4YI_DnwxOTI0KQpv9BtLJT1RTEyM8hUU"
+            },
+            "6ClN8HUVvDqxOksMsRliOSPd5hxHniEqkgIWkCfdSSg": {
+                "rateCode": "G89PPD7TKQW8P36P.JRTCKXETXF.KZ9RWR3KKY",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "6ClN8HUVvDqxOksMsRliOSPd5hxHniEqkgIWkCfdSSg"
+            },
+            "BnzjF538javaN2Yok_LoxE-2NAo0kGR2I7Rdcbai2vg": {
+                "rateCode": "W56WNC6S9XRMFA57.JRTCKXETXF.GZZK59XNTA",
+                "price": "0.1500000000",
+                "RegionlessRateCode": "BnzjF538javaN2Yok_LoxE-2NAo0kGR2I7Rdcbai2vg"
+            },
+            "NtLeO2lqUAL5aihg2Lpc_Z8yJfw4i744ARHfLcitPsc": {
+                "rateCode": "G89PPD7TKQW8P36P.JRTCKXETXF.8Y3FEATPJK",
+                "price": "0.2500000000",
+                "RegionlessRateCode": "NtLeO2lqUAL5aihg2Lpc_Z8yJfw4i744ARHfLcitPsc"
+            },
+            "TOJ05LebcTEimjBJ9h56ad7wHx3XiTcwE7efht8yJ-g": {
+                "rateCode": "ZCMUUZVWTQVHWJHP.JRTCKXETXF.KZ9RWR3KKY",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "TOJ05LebcTEimjBJ9h56ad7wHx3XiTcwE7efht8yJ-g"
+            },
+            "WOlUefkL3y8hx262OITBoVbrQRccOHrfM5WdJosw78c": {
+                "rateCode": "3WRGAPVDWKA8N8DF.JRTCKXETXF.GZZK59XNTA",
+                "price": "0.1500000000",
+                "RegionlessRateCode": "WOlUefkL3y8hx262OITBoVbrQRccOHrfM5WdJosw78c"
+            },
+            "WsEaQ8ujIJcpL2kX_fXSvv5SzIK-o_Z11_K8RUVeYuw": {
+                "rateCode": "G89PPD7TKQW8P36P.JRTCKXETXF.8CXH7VDVQH",
+                "price": "0.2000000000",
+                "RegionlessRateCode": "WsEaQ8ujIJcpL2kX_fXSvv5SzIK-o_Z11_K8RUVeYuw"
+            },
+            "ZghjUxqLW7CZ23lNXq9pdr4Jf_ofLFoU1wthGcYClnQ": {
+                "rateCode": "ZCMUUZVWTQVHWJHP.JRTCKXETXF.GZZK59XNTA",
+                "price": "0.1500000000",
+                "RegionlessRateCode": "ZghjUxqLW7CZ23lNXq9pdr4Jf_ofLFoU1wthGcYClnQ"
+            },
+            "alTa6yAhJ9T2Fw92DUWLSo6Co_wONKu4Qb5YIWWn4W0": {
+                "rateCode": "ZCMUUZVWTQVHWJHP.JRTCKXETXF.8CXH7VDVQH",
+                "price": "0.2000000000",
+                "RegionlessRateCode": "alTa6yAhJ9T2Fw92DUWLSo6Co_wONKu4Qb5YIWWn4W0"
+            },
+            "c0vE3xXc0ICPl-hG_TOfgWHblIFy3gNMWKfZY6wcEd0": {
+                "rateCode": "W56WNC6S9XRMFA57.JRTCKXETXF.8CXH7VDVQH",
+                "price": "0.2000000000",
+                "RegionlessRateCode": "c0vE3xXc0ICPl-hG_TOfgWHblIFy3gNMWKfZY6wcEd0"
+            },
+            "dC19-doLD0IXcAyBtVUaH8Dm2PuUOeM6PXKofHq49_s": {
+                "rateCode": "P3QMR5GX3K5FCSFW.JRTCKXETXF.8Y3FEATPJK",
+                "price": "0.2500000000",
+                "RegionlessRateCode": "dC19-doLD0IXcAyBtVUaH8Dm2PuUOeM6PXKofHq49_s"
+            },
+            "g-1Gg2pJvUZwtLA34otNokJhYMNlPzW76aqzWvz60G8": {
+                "rateCode": "ZCMUUZVWTQVHWJHP.JRTCKXETXF.8Y3FEATPJK",
+                "price": "0.2500000000",
+                "RegionlessRateCode": "g-1Gg2pJvUZwtLA34otNokJhYMNlPzW76aqzWvz60G8"
+            },
+            "hy5L1RSZXnfFI05bIMOTch6Jn8509Eg1o7ytIXo-Hx4": {
+                "rateCode": "W56WNC6S9XRMFA57.JRTCKXETXF.8Y3FEATPJK",
+                "price": "0.2500000000",
+                "RegionlessRateCode": "hy5L1RSZXnfFI05bIMOTch6Jn8509Eg1o7ytIXo-Hx4"
+            },
+            "jFzDRE6XvAcB9PX9FgqEuN_6zk6R37yPRtRxk4ROFMw": {
+                "rateCode": "3WRGAPVDWKA8N8DF.JRTCKXETXF.KZ9RWR3KKY",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "jFzDRE6XvAcB9PX9FgqEuN_6zk6R37yPRtRxk4ROFMw"
+            },
+            "najE3lITDqZOeKfZmUqtPJKiKERvt-u_baPAHCuvWwY": {
+                "rateCode": "W56WNC6S9XRMFA57.JRTCKXETXF.KZ9RWR3KKY",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "najE3lITDqZOeKfZmUqtPJKiKERvt-u_baPAHCuvWwY"
+            },
+            "scnVCLU_vSqXnbyl0wmeTyZD_VY-m0ag9QbmBlhKeog": {
+                "rateCode": "G89PPD7TKQW8P36P.JRTCKXETXF.GZZK59XNTA",
+                "price": "0.1500000000",
+                "RegionlessRateCode": "scnVCLU_vSqXnbyl0wmeTyZD_VY-m0ag9QbmBlhKeog"
+            },
+            "tK5fILQ9r4SbJ8_Rs_l5rBr3V71QrFGv9cOMqSYAnc0": {
+                "rateCode": "P3QMR5GX3K5FCSFW.JRTCKXETXF.GZZK59XNTA",
+                "price": "0.1500000000",
+                "RegionlessRateCode": "tK5fILQ9r4SbJ8_Rs_l5rBr3V71QrFGv9cOMqSYAnc0"
+            },
+            "u8NaQJzTdJylAY0MrEbq5W7jc0bE30YnnaFLBNzXxl0": {
+                "rateCode": "3WRGAPVDWKA8N8DF.JRTCKXETXF.8CXH7VDVQH",
+                "price": "0.2000000000",
+                "RegionlessRateCode": "u8NaQJzTdJylAY0MrEbq5W7jc0bE30YnnaFLBNzXxl0"
+            },
+            "Seeed IoT Button for AWS per 1 to 14999 Enabled Devices": {
+                "rateCode": "3WRGAPVDWKA8N8DF.JRTCKXETXF.8Y3FEATPJK",
+                "price": "0.2500000000",
+                "RegionlessRateCode": "081J3tMro3GWM3u-2HOe_vbzoChnZiAzrj4xcQ0zSAo"
+            },
+            "IoT Enterprise Button per 100000 and higher Enabled Devices": {
+                "rateCode": "P3QMR5GX3K5FCSFW.JRTCKXETXF.KZ9RWR3KKY",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "4eQZJBLGZlA9DGXPSd0MShl1SMbC0wMbJevg-9VrCSA"
+            },
+            "IoT Enterprise Button per 14999 to 74999 Enabled Devices": {
+                "rateCode": "P3QMR5GX3K5FCSFW.JRTCKXETXF.8CXH7VDVQH",
+                "price": "0.2000000000",
+                "RegionlessRateCode": "5kaXz2gotpD4YI_DnwxOTI0KQpv9BtLJT1RTEyM8hUU"
+            },
+            "Sercomm IoT Button per 100000 and higher Enabled Devices": {
+                "rateCode": "G89PPD7TKQW8P36P.JRTCKXETXF.KZ9RWR3KKY",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "6ClN8HUVvDqxOksMsRliOSPd5hxHniEqkgIWkCfdSSg"
+            },
+            "SORACOM LTE M Button per 75000 to 99999 Enabled-Devices": {
+                "rateCode": "W56WNC6S9XRMFA57.JRTCKXETXF.GZZK59XNTA",
+                "price": "0.1500000000",
+                "RegionlessRateCode": "BnzjF538javaN2Yok_LoxE-2NAo0kGR2I7Rdcbai2vg"
+            },
+            "Sercomm IoT Button per 1 to 14999 Enabled Devices": {
+                "rateCode": "G89PPD7TKQW8P36P.JRTCKXETXF.8Y3FEATPJK",
+                "price": "0.2500000000",
+                "RegionlessRateCode": "NtLeO2lqUAL5aihg2Lpc_Z8yJfw4i744ARHfLcitPsc"
+            },
+            "AT T LTE-M-Button per 100000 and higher Enabled-Devices": {
+                "rateCode": "ZCMUUZVWTQVHWJHP.JRTCKXETXF.KZ9RWR3KKY",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "TOJ05LebcTEimjBJ9h56ad7wHx3XiTcwE7efht8yJ-g"
+            },
+            "Seeed IoT Button for AWS per 75000 to 99999 Enabled Devices": {
+                "rateCode": "3WRGAPVDWKA8N8DF.JRTCKXETXF.GZZK59XNTA",
+                "price": "0.1500000000",
+                "RegionlessRateCode": "WOlUefkL3y8hx262OITBoVbrQRccOHrfM5WdJosw78c"
+            },
+            "Sercomm IoT Button per 14999 to 74999 Enabled Devices": {
+                "rateCode": "G89PPD7TKQW8P36P.JRTCKXETXF.8CXH7VDVQH",
+                "price": "0.2000000000",
+                "RegionlessRateCode": "WsEaQ8ujIJcpL2kX_fXSvv5SzIK-o_Z11_K8RUVeYuw"
+            },
+            "AT T LTE-M-Button per 75000 to 99999 Enabled-Devices": {
+                "rateCode": "ZCMUUZVWTQVHWJHP.JRTCKXETXF.GZZK59XNTA",
+                "price": "0.1500000000",
+                "RegionlessRateCode": "ZghjUxqLW7CZ23lNXq9pdr4Jf_ofLFoU1wthGcYClnQ"
+            },
+            "AT T LTE-M-Button per 14999 to 74999 Enabled-Devices": {
+                "rateCode": "ZCMUUZVWTQVHWJHP.JRTCKXETXF.8CXH7VDVQH",
+                "price": "0.2000000000",
+                "RegionlessRateCode": "alTa6yAhJ9T2Fw92DUWLSo6Co_wONKu4Qb5YIWWn4W0"
+            },
+            "SORACOM LTE M Button per 14999 to 74999 Enabled-Devices": {
+                "rateCode": "W56WNC6S9XRMFA57.JRTCKXETXF.8CXH7VDVQH",
+                "price": "0.2000000000",
+                "RegionlessRateCode": "c0vE3xXc0ICPl-hG_TOfgWHblIFy3gNMWKfZY6wcEd0"
+            },
+            "IoT Enterprise Button per 1 to 14999 Enabled Devices": {
+                "rateCode": "P3QMR5GX3K5FCSFW.JRTCKXETXF.8Y3FEATPJK",
+                "price": "0.2500000000",
+                "RegionlessRateCode": "dC19-doLD0IXcAyBtVUaH8Dm2PuUOeM6PXKofHq49_s"
+            },
+            "AT T LTE-M-Button per 1 to 14999 Enabled-Devices": {
+                "rateCode": "ZCMUUZVWTQVHWJHP.JRTCKXETXF.8Y3FEATPJK",
+                "price": "0.2500000000",
+                "RegionlessRateCode": "g-1Gg2pJvUZwtLA34otNokJhYMNlPzW76aqzWvz60G8"
+            },
+            "SORACOM LTE M Button per 1 to 14999 Enabled-Devices": {
+                "rateCode": "W56WNC6S9XRMFA57.JRTCKXETXF.8Y3FEATPJK",
+                "price": "0.2500000000",
+                "RegionlessRateCode": "hy5L1RSZXnfFI05bIMOTch6Jn8509Eg1o7ytIXo-Hx4"
+            },
+            "Seeed IoT Button for AWS per 100000 and higher Enabled Devices": {
+                "rateCode": "3WRGAPVDWKA8N8DF.JRTCKXETXF.KZ9RWR3KKY",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "jFzDRE6XvAcB9PX9FgqEuN_6zk6R37yPRtRxk4ROFMw"
+            },
+            "SORACOM LTE M Button per 100000 and higher Enabled-Devices": {
+                "rateCode": "W56WNC6S9XRMFA57.JRTCKXETXF.KZ9RWR3KKY",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "najE3lITDqZOeKfZmUqtPJKiKERvt-u_baPAHCuvWwY"
+            },
+            "Sercomm IoT Button per 75000 to 99999 Enabled Devices": {
+                "rateCode": "G89PPD7TKQW8P36P.JRTCKXETXF.GZZK59XNTA",
+                "price": "0.1500000000",
+                "RegionlessRateCode": "scnVCLU_vSqXnbyl0wmeTyZD_VY-m0ag9QbmBlhKeog"
+            },
+            "IoT Enterprise Button per 75000 to 99999 Enabled Devices": {
+                "rateCode": "P3QMR5GX3K5FCSFW.JRTCKXETXF.GZZK59XNTA",
+                "price": "0.1500000000",
+                "RegionlessRateCode": "tK5fILQ9r4SbJ8_Rs_l5rBr3V71QrFGv9cOMqSYAnc0"
+            },
+            "Seeed IoT Button for AWS per 14999 to 74999 Enabled Devices": {
+                "rateCode": "3WRGAPVDWKA8N8DF.JRTCKXETXF.8CXH7VDVQH",
+                "price": "0.2000000000",
+                "RegionlessRateCode": "u8NaQJzTdJylAY0MrEbq5W7jc0bE30YnnaFLBNzXxl0"
+            }
+        }
+    }
+}

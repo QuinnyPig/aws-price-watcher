@@ -1,1 +1,356 @@
-{"manifest":{"serviceId":"elementalmediastore","accessType":"publish","esIndex":"plc-elementalmediastore-usd-20220204184110","hawkFilePublicationDate":"2022-02-04T18:41:10Z","ETLIngestionTriggerDate":"2022-02-04T18:41:10Z","currencyCode":"USD","source":"elementalmediastore"},"sets":{},"regions":{"Asia Pacific (Seoul)":{"DELETE Request":{"rateCode":"JEGKPDN94PYCQCTZ.JRTCKXETXF.6YS6EN2CT7","price":"0.0000045000"},"GET Request":{"rateCode":"KZ7SSDFVUYG55MFP.JRTCKXETXF.6YS6EN2CT7","price":"0.0000003500"},"Ingest Optimization":{"rateCode":"2Z2DQGXQ5CKNJAUS.JRTCKXETXF.6YS6EN2CT7","price":"0.0350000000"},"PUT Request":{"rateCode":"J3QWJWUCGJ9VQQZ7.JRTCKXETXF.6YS6EN2CT7","price":"0.0000045000"},"Storage":{"rateCode":"C7V48QJPJ9AD4UFD.JRTCKXETXF.6YS6EN2CT7","price":"0.0250000000"},"GET IA Request per Requests":{"rateCode":"EENXC474B2XHBMY8.JRTCKXETXF.6YS6EN2CT7","price":"0.0000010000"},"Lifecycle Transition per Requests":{"rateCode":"52BKBRRMZS3ANUG9.JRTCKXETXF.6YS6EN2CT7","price":"0.0000100000"},"Storage Infrequent Access per GB-months":{"rateCode":"ZB7RVVUUSR3MPR86.JRTCKXETXF.6YS6EN2CT7","price":"0.0180000000"},"Data Retrieval IA per GB":{"rateCode":"9BZAR7UJCASCG88P.JRTCKXETXF.6YS6EN2CT7","price":"0.0100000000"}},"Asia Pacific (Sydney)":{"DELETE Request":{"rateCode":"ZHZWM6SEUXSVTZG9.JRTCKXETXF.6YS6EN2CT7","price":"0.0000055000"},"GET Request":{"rateCode":"ZY9NN6FGCGHPXMAC.JRTCKXETXF.6YS6EN2CT7","price":"0.0000004400"},"Ingest Optimization":{"rateCode":"PPUE8T5K5MRMDD23.JRTCKXETXF.6YS6EN2CT7","price":"0.0250000000"},"PUT Request":{"rateCode":"MH2JV4EE2T2HWTCC.JRTCKXETXF.6YS6EN2CT7","price":"0.0000055000"},"Storage":{"rateCode":"WN576FM5FREKN35U.JRTCKXETXF.6YS6EN2CT7","price":"0.0250000000"},"GET IA Request per Requests":{"rateCode":"PZN5NJZXFGUWZZ8M.JRTCKXETXF.6YS6EN2CT7","price":"0.0000010000"},"Lifecycle Transition per Requests":{"rateCode":"EXXZYUS9DYJVWVV2.JRTCKXETXF.6YS6EN2CT7","price":"0.0000100000"},"Storage Infrequent Access per GB-months":{"rateCode":"DAKHXG6WMJA3GE33.JRTCKXETXF.6YS6EN2CT7","price":"0.0190000000"},"Data Retrieval IA per GB":{"rateCode":"ZNQVZ5W2NK547AZW.JRTCKXETXF.6YS6EN2CT7","price":"0.0100000000"}},"Asia Pacific (Tokyo)":{"DELETE Request":{"rateCode":"8S2HG8W7MR4V46ZQ.JRTCKXETXF.6YS6EN2CT7","price":"0.0000047000"},"GET Request":{"rateCode":"M9CVTMQZWHMQ8VQE.JRTCKXETXF.6YS6EN2CT7","price":"0.0000003700"},"Ingest Optimization":{"rateCode":"URRU99EHJAG9RAN3.JRTCKXETXF.6YS6EN2CT7","price":"0.0350000000"},"PUT Request":{"rateCode":"UB32E6T7ABPHJQ5E.JRTCKXETXF.6YS6EN2CT7","price":"0.0000047000"},"Storage":{"rateCode":"XKGQK3Z2F2FGC2D9.JRTCKXETXF.6YS6EN2CT7","price":"0.0250000000"},"GET IA Request per Requests":{"rateCode":"7NZC5BYVGYG76KF5.JRTCKXETXF.6YS6EN2CT7","price":"0.0000010000"},"Lifecycle Transition per Requests":{"rateCode":"9W8Z7TNSYHW48J9W.JRTCKXETXF.6YS6EN2CT7","price":"0.0000100000"},"Storage Infrequent Access per GB-months":{"rateCode":"N76BD83NAM3DP4W6.JRTCKXETXF.6YS6EN2CT7","price":"0.0190000000"},"Data Retrieval IA per GB":{"rateCode":"YYN9XA4VWN48JAEM.JRTCKXETXF.6YS6EN2CT7","price":"0.0100000000"}},"EU (Frankfurt)":{"DELETE Request":{"rateCode":"P2RZ2EH9E59R48XK.JRTCKXETXF.6YS6EN2CT7","price":"0.0000054000"},"GET Request":{"rateCode":"BXXBJSXP3VJFY3JH.JRTCKXETXF.6YS6EN2CT7","price":"0.0000004300"},"Ingest Optimization":{"rateCode":"UXCFPVJTSS8PUTTX.JRTCKXETXF.6YS6EN2CT7","price":"0.0300000000"},"PUT Request":{"rateCode":"JTPCKQ96C6Q3XC59.JRTCKXETXF.6YS6EN2CT7","price":"0.0000054000"},"Storage":{"rateCode":"TCXGHDHUHB5X48PC.JRTCKXETXF.6YS6EN2CT7","price":"0.0245000000"},"GET IA Request per Requests":{"rateCode":"KUSEQ4WVZ68Y6RDT.JRTCKXETXF.6YS6EN2CT7","price":"0.0000010000"},"Lifecycle Transition per Requests":{"rateCode":"FHSZQQNE8D3BUWRQ.JRTCKXETXF.6YS6EN2CT7","price":"0.0000100000"},"Storage Infrequent Access per GB-months":{"rateCode":"VYXEGFU8WFJRUV3W.JRTCKXETXF.6YS6EN2CT7","price":"0.0135000000"},"Data Retrieval IA per GB":{"rateCode":"35VNJQQ3Y27TAW5M.JRTCKXETXF.6YS6EN2CT7","price":"0.0100000000"}},"EU (Ireland)":{"DELETE Request":{"rateCode":"8MH546VSVQGUPZMU.JRTCKXETXF.6YS6EN2CT7","price":"0.0000050000"},"GET Request":{"rateCode":"GXQRE67UWE9G7Q9Y.JRTCKXETXF.6YS6EN2CT7","price":"0.0000004000"},"Ingest Optimization":{"rateCode":"HQM84SHG65KGNTKW.JRTCKXETXF.6YS6EN2CT7","price":"0.0200000000"},"PUT Request":{"rateCode":"UZURCPBP74XNPDM4.JRTCKXETXF.6YS6EN2CT7","price":"0.0000050000"},"Storage":{"rateCode":"62NZ9BDMPYBM69U9.JRTCKXETXF.6YS6EN2CT7","price":"0.0230000000"},"GET IA Request per Requests":{"rateCode":"MAS5S5345B5KVUXS.JRTCKXETXF.6YS6EN2CT7","price":"0.0000010000"},"Lifecycle Transition per Requests":{"rateCode":"KZX5J2YG4DB5QQQC.JRTCKXETXF.6YS6EN2CT7","price":"0.0000100000"},"Storage Infrequent Access per GB-months":{"rateCode":"QPB3PMC4K5UQY5TU.JRTCKXETXF.6YS6EN2CT7","price":"0.0125000000"},"Data Retrieval IA per GB":{"rateCode":"RJ4MA7ZFFFABEMYY.JRTCKXETXF.6YS6EN2CT7","price":"0.0100000000"}},"EU (London)":{"DELETE Request":{"rateCode":"2YT4KBWXH59TFSBC.JRTCKXETXF.6YS6EN2CT7","price":"0.0000054000"},"GET Request":{"rateCode":"MEXZDTASTM7WWWKW.JRTCKXETXF.6YS6EN2CT7","price":"0.0000004300"},"Ingest Optimization":{"rateCode":"Z7B4VE3C873XVSQF.JRTCKXETXF.6YS6EN2CT7","price":"0.0300000000"},"PUT Request":{"rateCode":"TGGDDDM2XPZUG7GG.JRTCKXETXF.6YS6EN2CT7","price":"0.0000054000"},"Storage":{"rateCode":"YHZ2DJ42UFAHRW9D.JRTCKXETXF.6YS6EN2CT7","price":"0.0245000000"},"GET IA Request per Requests":{"rateCode":"286HQCAFUWR3BAVF.JRTCKXETXF.6YS6EN2CT7","price":"0.0000010000"},"Lifecycle Transition per Requests":{"rateCode":"3TE8N3HJV6BDPDDF.JRTCKXETXF.6YS6EN2CT7","price":"0.0000100000"},"Storage Infrequent Access per GB-months":{"rateCode":"MEZ5XFPB5DRKYHMR.JRTCKXETXF.6YS6EN2CT7","price":"0.0135000000"},"Data Retrieval IA per GB":{"rateCode":"E8KZGH6RPQ6M7AMV.JRTCKXETXF.6YS6EN2CT7","price":"0.0100000000"}},"EU (Stockholm)":{"DELETE Request":{"rateCode":"KDVQWZRXDMM24H8V.JRTCKXETXF.6YS6EN2CT7","price":"0.0000050000"},"GET Request":{"rateCode":"EGR562WMHAEB5BQD.JRTCKXETXF.6YS6EN2CT7","price":"0.0000004000"},"Ingest Optimization":{"rateCode":"8KPEF8RN7JAK8AXA.JRTCKXETXF.6YS6EN2CT7","price":"0.0200000000"},"PUT Request":{"rateCode":"DSDDJVVC4RHYM6B7.JRTCKXETXF.6YS6EN2CT7","price":"0.0000050000"},"Storage":{"rateCode":"YAT7T93SSCFJDVJK.JRTCKXETXF.6YS6EN2CT7","price":"0.0230000000"},"GET IA Request per Requests":{"rateCode":"2YEBCVS8RK2F7QNZ.JRTCKXETXF.6YS6EN2CT7","price":"0.0000010000"},"Lifecycle Transition per Requests":{"rateCode":"7QDVQ9DQZ3HZVKK5.JRTCKXETXF.6YS6EN2CT7","price":"0.0000100000"},"Storage Infrequent Access per GB-months":{"rateCode":"EPD9E2NQNFTBAB4R.JRTCKXETXF.6YS6EN2CT7","price":"0.0125000000"},"Data Retrieval IA per GB":{"rateCode":"RA2NDDSF7PJY4F8E.JRTCKXETXF.6YS6EN2CT7","price":"0.0100000000"}},"US East (N. Virginia)":{"DELETE Request":{"rateCode":"H6F7Y3CPP2EMZ955.JRTCKXETXF.6YS6EN2CT7","price":"0.0000050000"},"GET Request":{"rateCode":"ZEPG83JQ27K9FTFC.JRTCKXETXF.6YS6EN2CT7","price":"0.0000004000"},"Ingest Optimization":{"rateCode":"78BPSZ3VW4AA2XZT.JRTCKXETXF.6YS6EN2CT7","price":"0.0200000000"},"PUT Request":{"rateCode":"CPFMMRTRSFWEDBFD.JRTCKXETXF.6YS6EN2CT7","price":"0.0000050000"},"Storage":{"rateCode":"HUGWWZUKMZ9M573N.JRTCKXETXF.6YS6EN2CT7","price":"0.0230000000"},"GET IA Request per Requests":{"rateCode":"JHQNW8YTEWYP9M7G.JRTCKXETXF.6YS6EN2CT7","price":"0.0000010000"},"Lifecycle Transition per Requests":{"rateCode":"DSB2G4VH6F2VRUAE.JRTCKXETXF.6YS6EN2CT7","price":"0.0000100000"},"Storage Infrequent Access per GB-months":{"rateCode":"FGWYKK54QUCW8MZ4.JRTCKXETXF.6YS6EN2CT7","price":"0.0125000000"},"Data Retrieval IA per GB":{"rateCode":"BZU64M4PVNF7YMVV.JRTCKXETXF.6YS6EN2CT7","price":"0.0100000000"}},"US West (Oregon)":{"DELETE Request":{"rateCode":"4C3KW5F9QQGA9K6W.JRTCKXETXF.6YS6EN2CT7","price":"0.0000050000"},"GET Request":{"rateCode":"R5TJA85TRG6QP6AB.JRTCKXETXF.6YS6EN2CT7","price":"0.0000004000"},"Ingest Optimization":{"rateCode":"6NT2ZQJADFGYCB4F.JRTCKXETXF.6YS6EN2CT7","price":"0.0200000000"},"PUT Request":{"rateCode":"J7HENNMM6MCWC9RS.JRTCKXETXF.6YS6EN2CT7","price":"0.0000050000"},"Storage":{"rateCode":"8N5SM3YCATPVPANP.JRTCKXETXF.6YS6EN2CT7","price":"0.0230000000"},"GET IA Request per Requests":{"rateCode":"6WUVDRA7ERGFD3YY.JRTCKXETXF.6YS6EN2CT7","price":"0.0000010000"},"Lifecycle Transition per Requests":{"rateCode":"8R7YCSU4S7ECDXJK.JRTCKXETXF.6YS6EN2CT7","price":"0.0000100000"},"Storage Infrequent Access per GB-months":{"rateCode":"6HPYN8928SWNVVX2.JRTCKXETXF.6YS6EN2CT7","price":"0.0125000000"},"Data Retrieval IA per GB":{"rateCode":"82TZZ396TS53P7DR.JRTCKXETXF.6YS6EN2CT7","price":"0.0100000000"}}}}
+{
+    "manifest": {
+        "serviceId": "elementalmediastore",
+        "accessType": "publish",
+        "esIndex": "plc-elementalmediastore-usd-20220204184110",
+        "hawkFilePublicationDate": "2022-02-04T18:41:10Z",
+        "ETLIngestionTriggerDate": "2022-02-04T18:41:10Z",
+        "currencyCode": "USD",
+        "source": "elementalmediastore"
+    },
+    "sets": {},
+    "regions": {
+        "Asia Pacific (Seoul)": {
+            "DELETE Request": {
+                "rateCode": "JEGKPDN94PYCQCTZ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000045000"
+            },
+            "GET Request": {
+                "rateCode": "KZ7SSDFVUYG55MFP.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000003500"
+            },
+            "Ingest Optimization": {
+                "rateCode": "2Z2DQGXQ5CKNJAUS.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0350000000"
+            },
+            "PUT Request": {
+                "rateCode": "J3QWJWUCGJ9VQQZ7.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000045000"
+            },
+            "Storage": {
+                "rateCode": "C7V48QJPJ9AD4UFD.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0250000000"
+            },
+            "GET IA Request per Requests": {
+                "rateCode": "EENXC474B2XHBMY8.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000010000"
+            },
+            "Lifecycle Transition per Requests": {
+                "rateCode": "52BKBRRMZS3ANUG9.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000100000"
+            },
+            "Storage Infrequent Access per GB-months": {
+                "rateCode": "ZB7RVVUUSR3MPR86.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0180000000"
+            },
+            "Data Retrieval IA per GB": {
+                "rateCode": "9BZAR7UJCASCG88P.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0100000000"
+            }
+        },
+        "Asia Pacific (Sydney)": {
+            "DELETE Request": {
+                "rateCode": "ZHZWM6SEUXSVTZG9.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000055000"
+            },
+            "GET Request": {
+                "rateCode": "ZY9NN6FGCGHPXMAC.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000004400"
+            },
+            "Ingest Optimization": {
+                "rateCode": "PPUE8T5K5MRMDD23.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0250000000"
+            },
+            "PUT Request": {
+                "rateCode": "MH2JV4EE2T2HWTCC.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000055000"
+            },
+            "Storage": {
+                "rateCode": "WN576FM5FREKN35U.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0250000000"
+            },
+            "GET IA Request per Requests": {
+                "rateCode": "PZN5NJZXFGUWZZ8M.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000010000"
+            },
+            "Lifecycle Transition per Requests": {
+                "rateCode": "EXXZYUS9DYJVWVV2.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000100000"
+            },
+            "Storage Infrequent Access per GB-months": {
+                "rateCode": "DAKHXG6WMJA3GE33.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0190000000"
+            },
+            "Data Retrieval IA per GB": {
+                "rateCode": "ZNQVZ5W2NK547AZW.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0100000000"
+            }
+        },
+        "Asia Pacific (Tokyo)": {
+            "DELETE Request": {
+                "rateCode": "8S2HG8W7MR4V46ZQ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000047000"
+            },
+            "GET Request": {
+                "rateCode": "M9CVTMQZWHMQ8VQE.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000003700"
+            },
+            "Ingest Optimization": {
+                "rateCode": "URRU99EHJAG9RAN3.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0350000000"
+            },
+            "PUT Request": {
+                "rateCode": "UB32E6T7ABPHJQ5E.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000047000"
+            },
+            "Storage": {
+                "rateCode": "XKGQK3Z2F2FGC2D9.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0250000000"
+            },
+            "GET IA Request per Requests": {
+                "rateCode": "7NZC5BYVGYG76KF5.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000010000"
+            },
+            "Lifecycle Transition per Requests": {
+                "rateCode": "9W8Z7TNSYHW48J9W.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000100000"
+            },
+            "Storage Infrequent Access per GB-months": {
+                "rateCode": "N76BD83NAM3DP4W6.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0190000000"
+            },
+            "Data Retrieval IA per GB": {
+                "rateCode": "YYN9XA4VWN48JAEM.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0100000000"
+            }
+        },
+        "EU (Frankfurt)": {
+            "DELETE Request": {
+                "rateCode": "P2RZ2EH9E59R48XK.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000054000"
+            },
+            "GET Request": {
+                "rateCode": "BXXBJSXP3VJFY3JH.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000004300"
+            },
+            "Ingest Optimization": {
+                "rateCode": "UXCFPVJTSS8PUTTX.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0300000000"
+            },
+            "PUT Request": {
+                "rateCode": "JTPCKQ96C6Q3XC59.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000054000"
+            },
+            "Storage": {
+                "rateCode": "TCXGHDHUHB5X48PC.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0245000000"
+            },
+            "GET IA Request per Requests": {
+                "rateCode": "KUSEQ4WVZ68Y6RDT.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000010000"
+            },
+            "Lifecycle Transition per Requests": {
+                "rateCode": "FHSZQQNE8D3BUWRQ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000100000"
+            },
+            "Storage Infrequent Access per GB-months": {
+                "rateCode": "VYXEGFU8WFJRUV3W.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0135000000"
+            },
+            "Data Retrieval IA per GB": {
+                "rateCode": "35VNJQQ3Y27TAW5M.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0100000000"
+            }
+        },
+        "EU (Ireland)": {
+            "DELETE Request": {
+                "rateCode": "8MH546VSVQGUPZMU.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000050000"
+            },
+            "GET Request": {
+                "rateCode": "GXQRE67UWE9G7Q9Y.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000004000"
+            },
+            "Ingest Optimization": {
+                "rateCode": "HQM84SHG65KGNTKW.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0200000000"
+            },
+            "PUT Request": {
+                "rateCode": "UZURCPBP74XNPDM4.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000050000"
+            },
+            "Storage": {
+                "rateCode": "62NZ9BDMPYBM69U9.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0230000000"
+            },
+            "GET IA Request per Requests": {
+                "rateCode": "MAS5S5345B5KVUXS.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000010000"
+            },
+            "Lifecycle Transition per Requests": {
+                "rateCode": "KZX5J2YG4DB5QQQC.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000100000"
+            },
+            "Storage Infrequent Access per GB-months": {
+                "rateCode": "QPB3PMC4K5UQY5TU.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0125000000"
+            },
+            "Data Retrieval IA per GB": {
+                "rateCode": "RJ4MA7ZFFFABEMYY.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0100000000"
+            }
+        },
+        "EU (London)": {
+            "DELETE Request": {
+                "rateCode": "2YT4KBWXH59TFSBC.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000054000"
+            },
+            "GET Request": {
+                "rateCode": "MEXZDTASTM7WWWKW.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000004300"
+            },
+            "Ingest Optimization": {
+                "rateCode": "Z7B4VE3C873XVSQF.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0300000000"
+            },
+            "PUT Request": {
+                "rateCode": "TGGDDDM2XPZUG7GG.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000054000"
+            },
+            "Storage": {
+                "rateCode": "YHZ2DJ42UFAHRW9D.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0245000000"
+            },
+            "GET IA Request per Requests": {
+                "rateCode": "286HQCAFUWR3BAVF.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000010000"
+            },
+            "Lifecycle Transition per Requests": {
+                "rateCode": "3TE8N3HJV6BDPDDF.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000100000"
+            },
+            "Storage Infrequent Access per GB-months": {
+                "rateCode": "MEZ5XFPB5DRKYHMR.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0135000000"
+            },
+            "Data Retrieval IA per GB": {
+                "rateCode": "E8KZGH6RPQ6M7AMV.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0100000000"
+            }
+        },
+        "EU (Stockholm)": {
+            "DELETE Request": {
+                "rateCode": "KDVQWZRXDMM24H8V.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000050000"
+            },
+            "GET Request": {
+                "rateCode": "EGR562WMHAEB5BQD.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000004000"
+            },
+            "Ingest Optimization": {
+                "rateCode": "8KPEF8RN7JAK8AXA.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0200000000"
+            },
+            "PUT Request": {
+                "rateCode": "DSDDJVVC4RHYM6B7.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000050000"
+            },
+            "Storage": {
+                "rateCode": "YAT7T93SSCFJDVJK.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0230000000"
+            },
+            "GET IA Request per Requests": {
+                "rateCode": "2YEBCVS8RK2F7QNZ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000010000"
+            },
+            "Lifecycle Transition per Requests": {
+                "rateCode": "7QDVQ9DQZ3HZVKK5.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000100000"
+            },
+            "Storage Infrequent Access per GB-months": {
+                "rateCode": "EPD9E2NQNFTBAB4R.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0125000000"
+            },
+            "Data Retrieval IA per GB": {
+                "rateCode": "RA2NDDSF7PJY4F8E.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0100000000"
+            }
+        },
+        "US East (N. Virginia)": {
+            "DELETE Request": {
+                "rateCode": "H6F7Y3CPP2EMZ955.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000050000"
+            },
+            "GET Request": {
+                "rateCode": "ZEPG83JQ27K9FTFC.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000004000"
+            },
+            "Ingest Optimization": {
+                "rateCode": "78BPSZ3VW4AA2XZT.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0200000000"
+            },
+            "PUT Request": {
+                "rateCode": "CPFMMRTRSFWEDBFD.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000050000"
+            },
+            "Storage": {
+                "rateCode": "HUGWWZUKMZ9M573N.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0230000000"
+            },
+            "GET IA Request per Requests": {
+                "rateCode": "JHQNW8YTEWYP9M7G.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000010000"
+            },
+            "Lifecycle Transition per Requests": {
+                "rateCode": "DSB2G4VH6F2VRUAE.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000100000"
+            },
+            "Storage Infrequent Access per GB-months": {
+                "rateCode": "FGWYKK54QUCW8MZ4.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0125000000"
+            },
+            "Data Retrieval IA per GB": {
+                "rateCode": "BZU64M4PVNF7YMVV.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0100000000"
+            }
+        },
+        "US West (Oregon)": {
+            "DELETE Request": {
+                "rateCode": "4C3KW5F9QQGA9K6W.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000050000"
+            },
+            "GET Request": {
+                "rateCode": "R5TJA85TRG6QP6AB.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000004000"
+            },
+            "Ingest Optimization": {
+                "rateCode": "6NT2ZQJADFGYCB4F.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0200000000"
+            },
+            "PUT Request": {
+                "rateCode": "J7HENNMM6MCWC9RS.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000050000"
+            },
+            "Storage": {
+                "rateCode": "8N5SM3YCATPVPANP.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0230000000"
+            },
+            "GET IA Request per Requests": {
+                "rateCode": "6WUVDRA7ERGFD3YY.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000010000"
+            },
+            "Lifecycle Transition per Requests": {
+                "rateCode": "8R7YCSU4S7ECDXJK.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000100000"
+            },
+            "Storage Infrequent Access per GB-months": {
+                "rateCode": "6HPYN8928SWNVVX2.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0125000000"
+            },
+            "Data Retrieval IA per GB": {
+                "rateCode": "82TZZ396TS53P7DR.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0100000000"
+            }
+        }
+    }
+}

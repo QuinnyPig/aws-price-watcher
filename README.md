@@ -7,8 +7,7 @@
 
 **Modified services:**
 
-- ec2
-- es
+- 
 
 **Not found services:**
 

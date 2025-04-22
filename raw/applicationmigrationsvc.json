@@ -1,1 +1,675 @@
-{"manifest":{"serviceId":"applicationmigrationsvc","accessType":"publish","esIndex":"plc-applicationmigrationsvc-usd-20241002193647","hawkFilePublicationDate":"2024-08-26T15:41:52Z","ETLIngestionTriggerDate":"2024-10-02T19:36:47Z","currencyCode":"USD","source":"applicationmigrationsvc","isMapped":"true"},"sets":{},"regions":{"US West (Oregon)":{"JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU":{"rateCode":"M8RR2QGJQ94U552M.JRTCKXETXF.6YS6EN2CT7","price":"0.0000000000","RegionlessRateCode":"JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"},"ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8":{"rateCode":"VBVCZJJ5MB86S285.JRTCKXETXF.6YS6EN2CT7","price":"0.0420000000","RegionlessRateCode":"ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"},"Free Server Migration":{"rateCode":"M8RR2QGJQ94U552M.JRTCKXETXF.6YS6EN2CT7","price":"0.0000000000","RegionlessRateCode":"JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"},"Normal Server Migration":{"rateCode":"VBVCZJJ5MB86S285.JRTCKXETXF.6YS6EN2CT7","price":"0.0420000000","RegionlessRateCode":"ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"}},"US West (N. California)":{"JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU":{"rateCode":"G85K3SYMWSG4SJKW.JRTCKXETXF.6YS6EN2CT7","price":"0.0000000000","RegionlessRateCode":"JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"},"ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8":{"rateCode":"ZM657U8KZBUV9Y67.JRTCKXETXF.6YS6EN2CT7","price":"0.0420000000","RegionlessRateCode":"ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"},"Free Server Migration":{"rateCode":"G85K3SYMWSG4SJKW.JRTCKXETXF.6YS6EN2CT7","price":"0.0000000000","RegionlessRateCode":"JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"},"Normal Server Migration":{"rateCode":"ZM657U8KZBUV9Y67.JRTCKXETXF.6YS6EN2CT7","price":"0.0420000000","RegionlessRateCode":"ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"}},"US East (Ohio)":{"JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU":{"rateCode":"FSXHKRG9S57NDMVJ.JRTCKXETXF.6YS6EN2CT7","price":"0.0000000000","RegionlessRateCode":"JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"},"ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8":{"rateCode":"5SSV226HCMEBP5JA.JRTCKXETXF.6YS6EN2CT7","price":"0.0420000000","RegionlessRateCode":"ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"},"Free Server Migration":{"rateCode":"FSXHKRG9S57NDMVJ.JRTCKXETXF.6YS6EN2CT7","price":"0.0000000000","RegionlessRateCode":"JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"},"Normal Server Migration":{"rateCode":"5SSV226HCMEBP5JA.JRTCKXETXF.6YS6EN2CT7","price":"0.0420000000","RegionlessRateCode":"ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"}},"US East (N. Virginia)":{"JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU":{"rateCode":"NGXU2VZE2RTJFUZK.JRTCKXETXF.6YS6EN2CT7","price":"0.0000000000","RegionlessRateCode":"JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"},"ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8":{"rateCode":"7F58PBM7CF6W2EG8.JRTCKXETXF.6YS6EN2CT7","price":"0.0420000000","RegionlessRateCode":"ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"},"Free Server Migration":{"rateCode":"NGXU2VZE2RTJFUZK.JRTCKXETXF.6YS6EN2CT7","price":"0.0000000000","RegionlessRateCode":"JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"},"Normal Server Migration":{"rateCode":"7F58PBM7CF6W2EG8.JRTCKXETXF.6YS6EN2CT7","price":"0.0420000000","RegionlessRateCode":"ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"}},"South America (Sao Paulo)":{"JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU":{"rateCode":"ZKB4S7AAF3Z34XE8.JRTCKXETXF.6YS6EN2CT7","price":"0.0000000000","RegionlessRateCode":"JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"},"ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8":{"rateCode":"EP4UBSP536J59VRN.JRTCKXETXF.6YS6EN2CT7","price":"0.0420000000","RegionlessRateCode":"ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"},"Free Server Migration":{"rateCode":"ZKB4S7AAF3Z34XE8.JRTCKXETXF.6YS6EN2CT7","price":"0.0000000000","RegionlessRateCode":"JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"},"Normal Server Migration":{"rateCode":"EP4UBSP536J59VRN.JRTCKXETXF.6YS6EN2CT7","price":"0.0420000000","RegionlessRateCode":"ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"}},"Middle East (UAE)":{"JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU":{"rateCode":"2ZP6G6XZKGXM2TJP.JRTCKXETXF.6YS6EN2CT7","price":"0.0000000000","RegionlessRateCode":"JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"},"ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8":{"rateCode":"M5UR2FDMNRGGCHWC.JRTCKXETXF.6YS6EN2CT7","price":"0.0420000000","RegionlessRateCode":"ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"},"Free Server Migration":{"rateCode":"2ZP6G6XZKGXM2TJP.JRTCKXETXF.6YS6EN2CT7","price":"0.0000000000","RegionlessRateCode":"JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"},"Normal Server Migration":{"rateCode":"M5UR2FDMNRGGCHWC.JRTCKXETXF.6YS6EN2CT7","price":"0.0420000000","RegionlessRateCode":"ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"}},"Middle East (Bahrain)":{"JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU":{"rateCode":"YGA8U7D774QUK7MR.JRTCKXETXF.6YS6EN2CT7","price":"0.0000000000","RegionlessRateCode":"JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"},"ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8":{"rateCode":"EGZCJX64GWP3SH5X.JRTCKXETXF.6YS6EN2CT7","price":"0.0420000000","RegionlessRateCode":"ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"},"Free Server Migration":{"rateCode":"YGA8U7D774QUK7MR.JRTCKXETXF.6YS6EN2CT7","price":"0.0000000000","RegionlessRateCode":"JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"},"Normal Server Migration":{"rateCode":"EGZCJX64GWP3SH5X.JRTCKXETXF.6YS6EN2CT7","price":"0.0420000000","RegionlessRateCode":"ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"}},"Israel (Tel Aviv)":{"JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU":{"rateCode":"CF2DHZ97G9RBJGU9.JRTCKXETXF.6YS6EN2CT7","price":"0.0000000000","RegionlessRateCode":"JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"},"ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8":{"rateCode":"49Z9RPXNB8F6VXBK.JRTCKXETXF.6YS6EN2CT7","price":"0.0420000000","RegionlessRateCode":"ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"},"Free Server Migration":{"rateCode":"CF2DHZ97G9RBJGU9.JRTCKXETXF.6YS6EN2CT7","price":"0.0000000000","RegionlessRateCode":"JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"},"Normal Server Migration":{"rateCode":"49Z9RPXNB8F6VXBK.JRTCKXETXF.6YS6EN2CT7","price":"0.0420000000","RegionlessRateCode":"ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"}},"EU (Zurich)":{"JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU":{"rateCode":"X2P3ZXUBGBQNBJ53.JRTCKXETXF.6YS6EN2CT7","price":"0.0000000000","RegionlessRateCode":"JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"},"ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8":{"rateCode":"CGZZTGDFVH2G3GZD.JRTCKXETXF.6YS6EN2CT7","price":"0.0420000000","RegionlessRateCode":"ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"},"Free Server Migration":{"rateCode":"X2P3ZXUBGBQNBJ53.JRTCKXETXF.6YS6EN2CT7","price":"0.0000000000","RegionlessRateCode":"JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"},"Normal Server Migration":{"rateCode":"CGZZTGDFVH2G3GZD.JRTCKXETXF.6YS6EN2CT7","price":"0.0420000000","RegionlessRateCode":"ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"}},"EU (Stockholm)":{"JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU":{"rateCode":"M8BFM32DRNYT5TPH.JRTCKXETXF.6YS6EN2CT7","price":"0.0000000000","RegionlessRateCode":"JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"},"ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8":{"rateCode":"SMCRRVVHNEGCCVUA.JRTCKXETXF.6YS6EN2CT7","price":"0.0420000000","RegionlessRateCode":"ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"},"Free Server Migration":{"rateCode":"M8BFM32DRNYT5TPH.JRTCKXETXF.6YS6EN2CT7","price":"0.0000000000","RegionlessRateCode":"JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"},"Normal Server Migration":{"rateCode":"SMCRRVVHNEGCCVUA.JRTCKXETXF.6YS6EN2CT7","price":"0.0420000000","RegionlessRateCode":"ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"}},"EU (Spain)":{"JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU":{"rateCode":"SREAGVDA6AMR33FS.JRTCKXETXF.6YS6EN2CT7","price":"0.0000000000","RegionlessRateCode":"JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"},"ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8":{"rateCode":"MTG4QW74G4CJBUCQ.JRTCKXETXF.6YS6EN2CT7","price":"0.0420000000","RegionlessRateCode":"ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"},"Free Server Migration":{"rateCode":"SREAGVDA6AMR33FS.JRTCKXETXF.6YS6EN2CT7","price":"0.0000000000","RegionlessRateCode":"JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"},"Normal Server Migration":{"rateCode":"MTG4QW74G4CJBUCQ.JRTCKXETXF.6YS6EN2CT7","price":"0.0420000000","RegionlessRateCode":"ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"}},"EU (Paris)":{"JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU":{"rateCode":"9KJYRYEK3DPYMA5F.JRTCKXETXF.6YS6EN2CT7","price":"0.0000000000","RegionlessRateCode":"JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"},"ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8":{"rateCode":"N6756ZQQXUQ8WZT6.JRTCKXETXF.6YS6EN2CT7","price":"0.0420000000","RegionlessRateCode":"ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"},"Free Server Migration":{"rateCode":"9KJYRYEK3DPYMA5F.JRTCKXETXF.6YS6EN2CT7","price":"0.0000000000","RegionlessRateCode":"JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"},"Normal Server Migration":{"rateCode":"N6756ZQQXUQ8WZT6.JRTCKXETXF.6YS6EN2CT7","price":"0.0420000000","RegionlessRateCode":"ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"}},"EU (Milan)":{"JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU":{"rateCode":"SQSCACA47Y6M4Z7N.JRTCKXETXF.6YS6EN2CT7","price":"0.0000000000","RegionlessRateCode":"JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"},"ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8":{"rateCode":"NH6CCV2B8AW5RTGF.JRTCKXETXF.6YS6EN2CT7","price":"0.0420000000","RegionlessRateCode":"ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"},"Free Server Migration":{"rateCode":"SQSCACA47Y6M4Z7N.JRTCKXETXF.6YS6EN2CT7","price":"0.0000000000","RegionlessRateCode":"JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"},"Normal Server Migration":{"rateCode":"NH6CCV2B8AW5RTGF.JRTCKXETXF.6YS6EN2CT7","price":"0.0420000000","RegionlessRateCode":"ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"}},"EU (London)":{"JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU":{"rateCode":"N8APU94S9GMU3WHF.JRTCKXETXF.6YS6EN2CT7","price":"0.0000000000","RegionlessRateCode":"JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"},"ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8":{"rateCode":"TC4GA4P87CT6U6TV.JRTCKXETXF.6YS6EN2CT7","price":"0.0420000000","RegionlessRateCode":"ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"},"Free Server Migration":{"rateCode":"N8APU94S9GMU3WHF.JRTCKXETXF.6YS6EN2CT7","price":"0.0000000000","RegionlessRateCode":"JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"},"Normal Server Migration":{"rateCode":"TC4GA4P87CT6U6TV.JRTCKXETXF.6YS6EN2CT7","price":"0.0420000000","RegionlessRateCode":"ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"}},"EU (Ireland)":{"JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU":{"rateCode":"DG5384KGR74B2BTC.JRTCKXETXF.6YS6EN2CT7","price":"0.0000000000","RegionlessRateCode":"JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"},"ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8":{"rateCode":"HBJB4YNJ3P7H7R6N.JRTCKXETXF.6YS6EN2CT7","price":"0.0420000000","RegionlessRateCode":"ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"},"Free Server Migration":{"rateCode":"DG5384KGR74B2BTC.JRTCKXETXF.6YS6EN2CT7","price":"0.0000000000","RegionlessRateCode":"JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"},"Normal Server Migration":{"rateCode":"HBJB4YNJ3P7H7R6N.JRTCKXETXF.6YS6EN2CT7","price":"0.0420000000","RegionlessRateCode":"ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"}},"EU (Frankfurt)":{"JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU":{"rateCode":"TQBKYGQQY44EHPA2.JRTCKXETXF.6YS6EN2CT7","price":"0.0000000000","RegionlessRateCode":"JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"},"ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8":{"rateCode":"Z7DNJ9REVJYE6VBJ.JRTCKXETXF.6YS6EN2CT7","price":"0.0420000000","RegionlessRateCode":"ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"},"Free Server Migration":{"rateCode":"TQBKYGQQY44EHPA2.JRTCKXETXF.6YS6EN2CT7","price":"0.0000000000","RegionlessRateCode":"JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"},"Normal Server Migration":{"rateCode":"Z7DNJ9REVJYE6VBJ.JRTCKXETXF.6YS6EN2CT7","price":"0.0420000000","RegionlessRateCode":"ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"}},"Canada (Central)":{"JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU":{"rateCode":"JS6RKK67KBEJFP4J.JRTCKXETXF.6YS6EN2CT7","price":"0.0000000000","RegionlessRateCode":"JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"},"ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8":{"rateCode":"V9EA9XNF3V5WDS7G.JRTCKXETXF.6YS6EN2CT7","price":"0.0420000000","RegionlessRateCode":"ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"},"Free Server Migration":{"rateCode":"JS6RKK67KBEJFP4J.JRTCKXETXF.6YS6EN2CT7","price":"0.0000000000","RegionlessRateCode":"JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"},"Normal Server Migration":{"rateCode":"V9EA9XNF3V5WDS7G.JRTCKXETXF.6YS6EN2CT7","price":"0.0420000000","RegionlessRateCode":"ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"}},"Asia Pacific (Tokyo)":{"JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU":{"rateCode":"XDZJNZAE2KM6NKYA.JRTCKXETXF.6YS6EN2CT7","price":"0.0000000000","RegionlessRateCode":"JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"},"ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8":{"rateCode":"EN6V2K66MEUWSAKN.JRTCKXETXF.6YS6EN2CT7","price":"0.0420000000","RegionlessRateCode":"ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"},"Free Server Migration":{"rateCode":"XDZJNZAE2KM6NKYA.JRTCKXETXF.6YS6EN2CT7","price":"0.0000000000","RegionlessRateCode":"JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"},"Normal Server Migration":{"rateCode":"EN6V2K66MEUWSAKN.JRTCKXETXF.6YS6EN2CT7","price":"0.0420000000","RegionlessRateCode":"ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"}},"Asia Pacific (Sydney)":{"JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU":{"rateCode":"ZF8NVAHCRUXCJXXX.JRTCKXETXF.6YS6EN2CT7","price":"0.0000000000","RegionlessRateCode":"JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"},"ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8":{"rateCode":"66BR5Z739JWPPK64.JRTCKXETXF.6YS6EN2CT7","price":"0.0420000000","RegionlessRateCode":"ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"},"Free Server Migration":{"rateCode":"ZF8NVAHCRUXCJXXX.JRTCKXETXF.6YS6EN2CT7","price":"0.0000000000","RegionlessRateCode":"JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"},"Normal Server Migration":{"rateCode":"66BR5Z739JWPPK64.JRTCKXETXF.6YS6EN2CT7","price":"0.0420000000","RegionlessRateCode":"ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"}},"Asia Pacific (Singapore)":{"JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU":{"rateCode":"JTB7S5N44YBBPAJK.JRTCKXETXF.6YS6EN2CT7","price":"0.0000000000","RegionlessRateCode":"JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"},"ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8":{"rateCode":"8Q6K8GG5W9HZ4BYC.JRTCKXETXF.6YS6EN2CT7","price":"0.0420000000","RegionlessRateCode":"ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"},"Free Server Migration":{"rateCode":"JTB7S5N44YBBPAJK.JRTCKXETXF.6YS6EN2CT7","price":"0.0000000000","RegionlessRateCode":"JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"},"Normal Server Migration":{"rateCode":"8Q6K8GG5W9HZ4BYC.JRTCKXETXF.6YS6EN2CT7","price":"0.0420000000","RegionlessRateCode":"ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"}},"Asia Pacific (Seoul)":{"JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU":{"rateCode":"X9A7US483CCZNS3X.JRTCKXETXF.6YS6EN2CT7","price":"0.0000000000","RegionlessRateCode":"JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"},"ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8":{"rateCode":"YWWVY2QB75PVNRF8.JRTCKXETXF.6YS6EN2CT7","price":"0.0420000000","RegionlessRateCode":"ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"},"Free Server Migration":{"rateCode":"X9A7US483CCZNS3X.JRTCKXETXF.6YS6EN2CT7","price":"0.0000000000","RegionlessRateCode":"JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"},"Normal Server Migration":{"rateCode":"YWWVY2QB75PVNRF8.JRTCKXETXF.6YS6EN2CT7","price":"0.0420000000","RegionlessRateCode":"ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"}},"Asia Pacific (Osaka)":{"JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU":{"rateCode":"DAMPVBYBA7QEYEZD.JRTCKXETXF.6YS6EN2CT7","price":"0.0000000000","RegionlessRateCode":"JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"},"ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8":{"rateCode":"9ST7W3Z4UQJH2TEG.JRTCKXETXF.6YS6EN2CT7","price":"0.0420000000","RegionlessRateCode":"ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"},"Free Server Migration":{"rateCode":"DAMPVBYBA7QEYEZD.JRTCKXETXF.6YS6EN2CT7","price":"0.0000000000","RegionlessRateCode":"JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"},"Normal Server Migration":{"rateCode":"9ST7W3Z4UQJH2TEG.JRTCKXETXF.6YS6EN2CT7","price":"0.0420000000","RegionlessRateCode":"ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"}},"Asia Pacific (Mumbai)":{"JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU":{"rateCode":"78RUZTXYZ35T8ZYF.JRTCKXETXF.6YS6EN2CT7","price":"0.0000000000","RegionlessRateCode":"JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"},"ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8":{"rateCode":"YEQTWZT6X8TD6C75.JRTCKXETXF.6YS6EN2CT7","price":"0.0420000000","RegionlessRateCode":"ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"},"Free Server Migration":{"rateCode":"78RUZTXYZ35T8ZYF.JRTCKXETXF.6YS6EN2CT7","price":"0.0000000000","RegionlessRateCode":"JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"},"Normal Server Migration":{"rateCode":"YEQTWZT6X8TD6C75.JRTCKXETXF.6YS6EN2CT7","price":"0.0420000000","RegionlessRateCode":"ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"}},"Asia Pacific (Melbourne)":{"JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU":{"rateCode":"P8A2UBB6VCJVVYPU.JRTCKXETXF.6YS6EN2CT7","price":"0.0000000000","RegionlessRateCode":"JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"},"ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8":{"rateCode":"YGAAR2SCAPZDSQYC.JRTCKXETXF.6YS6EN2CT7","price":"0.0420000000","RegionlessRateCode":"ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"},"Free Server Migration":{"rateCode":"P8A2UBB6VCJVVYPU.JRTCKXETXF.6YS6EN2CT7","price":"0.0000000000","RegionlessRateCode":"JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"},"Normal Server Migration":{"rateCode":"YGAAR2SCAPZDSQYC.JRTCKXETXF.6YS6EN2CT7","price":"0.0420000000","RegionlessRateCode":"ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"}},"Asia Pacific (Jakarta)":{"JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU":{"rateCode":"DHWG87BS35DWQ9QT.JRTCKXETXF.6YS6EN2CT7","price":"0.0000000000","RegionlessRateCode":"JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"},"ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8":{"rateCode":"GAQRG5UGJVAMWY7H.JRTCKXETXF.6YS6EN2CT7","price":"0.0420000000","RegionlessRateCode":"ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"},"Free Server Migration":{"rateCode":"DHWG87BS35DWQ9QT.JRTCKXETXF.6YS6EN2CT7","price":"0.0000000000","RegionlessRateCode":"JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"},"Normal Server Migration":{"rateCode":"GAQRG5UGJVAMWY7H.JRTCKXETXF.6YS6EN2CT7","price":"0.0420000000","RegionlessRateCode":"ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"}},"Asia Pacific (Hyderabad)":{"JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU":{"rateCode":"BRBQ2JGSN9NHA8VQ.JRTCKXETXF.6YS6EN2CT7","price":"0.0000000000","RegionlessRateCode":"JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"},"ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8":{"rateCode":"UAEB446JZ4TY7U7U.JRTCKXETXF.6YS6EN2CT7","price":"0.0420000000","RegionlessRateCode":"ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"},"Free Server Migration":{"rateCode":"BRBQ2JGSN9NHA8VQ.JRTCKXETXF.6YS6EN2CT7","price":"0.0000000000","RegionlessRateCode":"JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"},"Normal Server Migration":{"rateCode":"UAEB446JZ4TY7U7U.JRTCKXETXF.6YS6EN2CT7","price":"0.0420000000","RegionlessRateCode":"ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"}},"Asia Pacific (Hong Kong)":{"JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU":{"rateCode":"YVVX4QXCFDBMBU7D.JRTCKXETXF.6YS6EN2CT7","price":"0.0000000000","RegionlessRateCode":"JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"},"ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8":{"rateCode":"J6ZXHN4KBKK4QK3P.JRTCKXETXF.6YS6EN2CT7","price":"0.0420000000","RegionlessRateCode":"ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"},"Free Server Migration":{"rateCode":"YVVX4QXCFDBMBU7D.JRTCKXETXF.6YS6EN2CT7","price":"0.0000000000","RegionlessRateCode":"JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"},"Normal Server Migration":{"rateCode":"J6ZXHN4KBKK4QK3P.JRTCKXETXF.6YS6EN2CT7","price":"0.0420000000","RegionlessRateCode":"ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"}},"Africa (Cape Town)":{"JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU":{"rateCode":"KMGCTC6MYM2DS2S5.JRTCKXETXF.6YS6EN2CT7","price":"0.0000000000","RegionlessRateCode":"JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"},"ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8":{"rateCode":"U5XPHPXK2U283EAR.JRTCKXETXF.6YS6EN2CT7","price":"0.0420000000","RegionlessRateCode":"ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"},"Free Server Migration":{"rateCode":"KMGCTC6MYM2DS2S5.JRTCKXETXF.6YS6EN2CT7","price":"0.0000000000","RegionlessRateCode":"JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"},"Normal Server Migration":{"rateCode":"U5XPHPXK2U283EAR.JRTCKXETXF.6YS6EN2CT7","price":"0.0420000000","RegionlessRateCode":"ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"}},"AWS GovCloud (US-East)":{"JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU":{"rateCode":"5W524UG77VHU8NHK.JRTCKXETXF.6YS6EN2CT7","price":"0.0000000000","RegionlessRateCode":"JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"},"ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8":{"rateCode":"9D3A2G2MZQE4CUXQ.JRTCKXETXF.6YS6EN2CT7","price":"0.0420000000","RegionlessRateCode":"ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"},"Free Server Migration":{"rateCode":"5W524UG77VHU8NHK.JRTCKXETXF.6YS6EN2CT7","price":"0.0000000000","RegionlessRateCode":"JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"},"Normal Server Migration":{"rateCode":"9D3A2G2MZQE4CUXQ.JRTCKXETXF.6YS6EN2CT7","price":"0.0420000000","RegionlessRateCode":"ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"}},"AWS GovCloud (US)":{"JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU":{"rateCode":"2HMZ5VQK8S3JGYPV.JRTCKXETXF.6YS6EN2CT7","price":"0.0000000000","RegionlessRateCode":"JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"},"ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8":{"rateCode":"ME3BP72CNZ2QUTK2.JRTCKXETXF.6YS6EN2CT7","price":"0.0420000000","RegionlessRateCode":"ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"},"Free Server Migration":{"rateCode":"2HMZ5VQK8S3JGYPV.JRTCKXETXF.6YS6EN2CT7","price":"0.0000000000","RegionlessRateCode":"JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"},"Normal Server Migration":{"rateCode":"ME3BP72CNZ2QUTK2.JRTCKXETXF.6YS6EN2CT7","price":"0.0420000000","RegionlessRateCode":"ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"}}}}
+{
+    "manifest": {
+        "serviceId": "applicationmigrationsvc",
+        "accessType": "publish",
+        "esIndex": "plc-applicationmigrationsvc-usd-20241002193647",
+        "hawkFilePublicationDate": "2024-08-26T15:41:52Z",
+        "ETLIngestionTriggerDate": "2024-10-02T19:36:47Z",
+        "currencyCode": "USD",
+        "source": "applicationmigrationsvc",
+        "isMapped": "true"
+    },
+    "sets": {},
+    "regions": {
+        "US West (Oregon)": {
+            "JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU": {
+                "rateCode": "M8RR2QGJQ94U552M.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"
+            },
+            "ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8": {
+                "rateCode": "VBVCZJJ5MB86S285.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0420000000",
+                "RegionlessRateCode": "ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"
+            },
+            "Free Server Migration": {
+                "rateCode": "M8RR2QGJQ94U552M.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"
+            },
+            "Normal Server Migration": {
+                "rateCode": "VBVCZJJ5MB86S285.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0420000000",
+                "RegionlessRateCode": "ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"
+            }
+        },
+        "US West (N. California)": {
+            "JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU": {
+                "rateCode": "G85K3SYMWSG4SJKW.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"
+            },
+            "ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8": {
+                "rateCode": "ZM657U8KZBUV9Y67.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0420000000",
+                "RegionlessRateCode": "ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"
+            },
+            "Free Server Migration": {
+                "rateCode": "G85K3SYMWSG4SJKW.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"
+            },
+            "Normal Server Migration": {
+                "rateCode": "ZM657U8KZBUV9Y67.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0420000000",
+                "RegionlessRateCode": "ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"
+            }
+        },
+        "US East (Ohio)": {
+            "JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU": {
+                "rateCode": "FSXHKRG9S57NDMVJ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"
+            },
+            "ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8": {
+                "rateCode": "5SSV226HCMEBP5JA.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0420000000",
+                "RegionlessRateCode": "ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"
+            },
+            "Free Server Migration": {
+                "rateCode": "FSXHKRG9S57NDMVJ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"
+            },
+            "Normal Server Migration": {
+                "rateCode": "5SSV226HCMEBP5JA.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0420000000",
+                "RegionlessRateCode": "ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"
+            }
+        },
+        "US East (N. Virginia)": {
+            "JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU": {
+                "rateCode": "NGXU2VZE2RTJFUZK.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"
+            },
+            "ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8": {
+                "rateCode": "7F58PBM7CF6W2EG8.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0420000000",
+                "RegionlessRateCode": "ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"
+            },
+            "Free Server Migration": {
+                "rateCode": "NGXU2VZE2RTJFUZK.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"
+            },
+            "Normal Server Migration": {
+                "rateCode": "7F58PBM7CF6W2EG8.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0420000000",
+                "RegionlessRateCode": "ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"
+            }
+        },
+        "South America (Sao Paulo)": {
+            "JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU": {
+                "rateCode": "ZKB4S7AAF3Z34XE8.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"
+            },
+            "ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8": {
+                "rateCode": "EP4UBSP536J59VRN.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0420000000",
+                "RegionlessRateCode": "ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"
+            },
+            "Free Server Migration": {
+                "rateCode": "ZKB4S7AAF3Z34XE8.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"
+            },
+            "Normal Server Migration": {
+                "rateCode": "EP4UBSP536J59VRN.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0420000000",
+                "RegionlessRateCode": "ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"
+            }
+        },
+        "Middle East (UAE)": {
+            "JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU": {
+                "rateCode": "2ZP6G6XZKGXM2TJP.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"
+            },
+            "ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8": {
+                "rateCode": "M5UR2FDMNRGGCHWC.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0420000000",
+                "RegionlessRateCode": "ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"
+            },
+            "Free Server Migration": {
+                "rateCode": "2ZP6G6XZKGXM2TJP.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"
+            },
+            "Normal Server Migration": {
+                "rateCode": "M5UR2FDMNRGGCHWC.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0420000000",
+                "RegionlessRateCode": "ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"
+            }
+        },
+        "Middle East (Bahrain)": {
+            "JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU": {
+                "rateCode": "YGA8U7D774QUK7MR.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"
+            },
+            "ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8": {
+                "rateCode": "EGZCJX64GWP3SH5X.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0420000000",
+                "RegionlessRateCode": "ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"
+            },
+            "Free Server Migration": {
+                "rateCode": "YGA8U7D774QUK7MR.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"
+            },
+            "Normal Server Migration": {
+                "rateCode": "EGZCJX64GWP3SH5X.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0420000000",
+                "RegionlessRateCode": "ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"
+            }
+        },
+        "Israel (Tel Aviv)": {
+            "JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU": {
+                "rateCode": "CF2DHZ97G9RBJGU9.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"
+            },
+            "ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8": {
+                "rateCode": "49Z9RPXNB8F6VXBK.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0420000000",
+                "RegionlessRateCode": "ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"
+            },
+            "Free Server Migration": {
+                "rateCode": "CF2DHZ97G9RBJGU9.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"
+            },
+            "Normal Server Migration": {
+                "rateCode": "49Z9RPXNB8F6VXBK.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0420000000",
+                "RegionlessRateCode": "ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"
+            }
+        },
+        "EU (Zurich)": {
+            "JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU": {
+                "rateCode": "X2P3ZXUBGBQNBJ53.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"
+            },
+            "ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8": {
+                "rateCode": "CGZZTGDFVH2G3GZD.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0420000000",
+                "RegionlessRateCode": "ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"
+            },
+            "Free Server Migration": {
+                "rateCode": "X2P3ZXUBGBQNBJ53.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"
+            },
+            "Normal Server Migration": {
+                "rateCode": "CGZZTGDFVH2G3GZD.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0420000000",
+                "RegionlessRateCode": "ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"
+            }
+        },
+        "EU (Stockholm)": {
+            "JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU": {
+                "rateCode": "M8BFM32DRNYT5TPH.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"
+            },
+            "ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8": {
+                "rateCode": "SMCRRVVHNEGCCVUA.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0420000000",
+                "RegionlessRateCode": "ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"
+            },
+            "Free Server Migration": {
+                "rateCode": "M8BFM32DRNYT5TPH.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"
+            },
+            "Normal Server Migration": {
+                "rateCode": "SMCRRVVHNEGCCVUA.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0420000000",
+                "RegionlessRateCode": "ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"
+            }
+        },
+        "EU (Spain)": {
+            "JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU": {
+                "rateCode": "SREAGVDA6AMR33FS.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"
+            },
+            "ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8": {
+                "rateCode": "MTG4QW74G4CJBUCQ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0420000000",
+                "RegionlessRateCode": "ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"
+            },
+            "Free Server Migration": {
+                "rateCode": "SREAGVDA6AMR33FS.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"
+            },
+            "Normal Server Migration": {
+                "rateCode": "MTG4QW74G4CJBUCQ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0420000000",
+                "RegionlessRateCode": "ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"
+            }
+        },
+        "EU (Paris)": {
+            "JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU": {
+                "rateCode": "9KJYRYEK3DPYMA5F.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"
+            },
+            "ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8": {
+                "rateCode": "N6756ZQQXUQ8WZT6.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0420000000",
+                "RegionlessRateCode": "ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"
+            },
+            "Free Server Migration": {
+                "rateCode": "9KJYRYEK3DPYMA5F.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"
+            },
+            "Normal Server Migration": {
+                "rateCode": "N6756ZQQXUQ8WZT6.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0420000000",
+                "RegionlessRateCode": "ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"
+            }
+        },
+        "EU (Milan)": {
+            "JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU": {
+                "rateCode": "SQSCACA47Y6M4Z7N.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"
+            },
+            "ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8": {
+                "rateCode": "NH6CCV2B8AW5RTGF.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0420000000",
+                "RegionlessRateCode": "ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"
+            },
+            "Free Server Migration": {
+                "rateCode": "SQSCACA47Y6M4Z7N.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"
+            },
+            "Normal Server Migration": {
+                "rateCode": "NH6CCV2B8AW5RTGF.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0420000000",
+                "RegionlessRateCode": "ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"
+            }
+        },
+        "EU (London)": {
+            "JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU": {
+                "rateCode": "N8APU94S9GMU3WHF.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"
+            },
+            "ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8": {
+                "rateCode": "TC4GA4P87CT6U6TV.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0420000000",
+                "RegionlessRateCode": "ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"
+            },
+            "Free Server Migration": {
+                "rateCode": "N8APU94S9GMU3WHF.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"
+            },
+            "Normal Server Migration": {
+                "rateCode": "TC4GA4P87CT6U6TV.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0420000000",
+                "RegionlessRateCode": "ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"
+            }
+        },
+        "EU (Ireland)": {
+            "JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU": {
+                "rateCode": "DG5384KGR74B2BTC.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"
+            },
+            "ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8": {
+                "rateCode": "HBJB4YNJ3P7H7R6N.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0420000000",
+                "RegionlessRateCode": "ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"
+            },
+            "Free Server Migration": {
+                "rateCode": "DG5384KGR74B2BTC.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"
+            },
+            "Normal Server Migration": {
+                "rateCode": "HBJB4YNJ3P7H7R6N.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0420000000",
+                "RegionlessRateCode": "ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"
+            }
+        },
+        "EU (Frankfurt)": {
+            "JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU": {
+                "rateCode": "TQBKYGQQY44EHPA2.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"
+            },
+            "ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8": {
+                "rateCode": "Z7DNJ9REVJYE6VBJ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0420000000",
+                "RegionlessRateCode": "ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"
+            },
+            "Free Server Migration": {
+                "rateCode": "TQBKYGQQY44EHPA2.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"
+            },
+            "Normal Server Migration": {
+                "rateCode": "Z7DNJ9REVJYE6VBJ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0420000000",
+                "RegionlessRateCode": "ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"
+            }
+        },
+        "Canada (Central)": {
+            "JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU": {
+                "rateCode": "JS6RKK67KBEJFP4J.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"
+            },
+            "ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8": {
+                "rateCode": "V9EA9XNF3V5WDS7G.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0420000000",
+                "RegionlessRateCode": "ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"
+            },
+            "Free Server Migration": {
+                "rateCode": "JS6RKK67KBEJFP4J.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"
+            },
+            "Normal Server Migration": {
+                "rateCode": "V9EA9XNF3V5WDS7G.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0420000000",
+                "RegionlessRateCode": "ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"
+            }
+        },
+        "Asia Pacific (Tokyo)": {
+            "JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU": {
+                "rateCode": "XDZJNZAE2KM6NKYA.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"
+            },
+            "ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8": {
+                "rateCode": "EN6V2K66MEUWSAKN.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0420000000",
+                "RegionlessRateCode": "ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"
+            },
+            "Free Server Migration": {
+                "rateCode": "XDZJNZAE2KM6NKYA.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"
+            },
+            "Normal Server Migration": {
+                "rateCode": "EN6V2K66MEUWSAKN.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0420000000",
+                "RegionlessRateCode": "ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"
+            }
+        },
+        "Asia Pacific (Sydney)": {
+            "JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU": {
+                "rateCode": "ZF8NVAHCRUXCJXXX.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"
+            },
+            "ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8": {
+                "rateCode": "66BR5Z739JWPPK64.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0420000000",
+                "RegionlessRateCode": "ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"
+            },
+            "Free Server Migration": {
+                "rateCode": "ZF8NVAHCRUXCJXXX.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"
+            },
+            "Normal Server Migration": {
+                "rateCode": "66BR5Z739JWPPK64.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0420000000",
+                "RegionlessRateCode": "ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"
+            }
+        },
+        "Asia Pacific (Singapore)": {
+            "JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU": {
+                "rateCode": "JTB7S5N44YBBPAJK.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"
+            },
+            "ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8": {
+                "rateCode": "8Q6K8GG5W9HZ4BYC.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0420000000",
+                "RegionlessRateCode": "ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"
+            },
+            "Free Server Migration": {
+                "rateCode": "JTB7S5N44YBBPAJK.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"
+            },
+            "Normal Server Migration": {
+                "rateCode": "8Q6K8GG5W9HZ4BYC.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0420000000",
+                "RegionlessRateCode": "ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"
+            }
+        },
+        "Asia Pacific (Seoul)": {
+            "JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU": {
+                "rateCode": "X9A7US483CCZNS3X.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"
+            },
+            "ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8": {
+                "rateCode": "YWWVY2QB75PVNRF8.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0420000000",
+                "RegionlessRateCode": "ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"
+            },
+            "Free Server Migration": {
+                "rateCode": "X9A7US483CCZNS3X.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"
+            },
+            "Normal Server Migration": {
+                "rateCode": "YWWVY2QB75PVNRF8.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0420000000",
+                "RegionlessRateCode": "ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"
+            }
+        },
+        "Asia Pacific (Osaka)": {
+            "JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU": {
+                "rateCode": "DAMPVBYBA7QEYEZD.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"
+            },
+            "ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8": {
+                "rateCode": "9ST7W3Z4UQJH2TEG.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0420000000",
+                "RegionlessRateCode": "ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"
+            },
+            "Free Server Migration": {
+                "rateCode": "DAMPVBYBA7QEYEZD.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"
+            },
+            "Normal Server Migration": {
+                "rateCode": "9ST7W3Z4UQJH2TEG.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0420000000",
+                "RegionlessRateCode": "ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"
+            }
+        },
+        "Asia Pacific (Mumbai)": {
+            "JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU": {
+                "rateCode": "78RUZTXYZ35T8ZYF.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"
+            },
+            "ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8": {
+                "rateCode": "YEQTWZT6X8TD6C75.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0420000000",
+                "RegionlessRateCode": "ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"
+            },
+            "Free Server Migration": {
+                "rateCode": "78RUZTXYZ35T8ZYF.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"
+            },
+            "Normal Server Migration": {
+                "rateCode": "YEQTWZT6X8TD6C75.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0420000000",
+                "RegionlessRateCode": "ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"
+            }
+        },
+        "Asia Pacific (Melbourne)": {
+            "JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU": {
+                "rateCode": "P8A2UBB6VCJVVYPU.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"
+            },
+            "ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8": {
+                "rateCode": "YGAAR2SCAPZDSQYC.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0420000000",
+                "RegionlessRateCode": "ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"
+            },
+            "Free Server Migration": {
+                "rateCode": "P8A2UBB6VCJVVYPU.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"
+            },
+            "Normal Server Migration": {
+                "rateCode": "YGAAR2SCAPZDSQYC.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0420000000",
+                "RegionlessRateCode": "ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"
+            }
+        },
+        "Asia Pacific (Jakarta)": {
+            "JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU": {
+                "rateCode": "DHWG87BS35DWQ9QT.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"
+            },
+            "ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8": {
+                "rateCode": "GAQRG5UGJVAMWY7H.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0420000000",
+                "RegionlessRateCode": "ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"
+            },
+            "Free Server Migration": {
+                "rateCode": "DHWG87BS35DWQ9QT.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"
+            },
+            "Normal Server Migration": {
+                "rateCode": "GAQRG5UGJVAMWY7H.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0420000000",
+                "RegionlessRateCode": "ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"
+            }
+        },
+        "Asia Pacific (Hyderabad)": {
+            "JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU": {
+                "rateCode": "BRBQ2JGSN9NHA8VQ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"
+            },
+            "ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8": {
+                "rateCode": "UAEB446JZ4TY7U7U.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0420000000",
+                "RegionlessRateCode": "ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"
+            },
+            "Free Server Migration": {
+                "rateCode": "BRBQ2JGSN9NHA8VQ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"
+            },
+            "Normal Server Migration": {
+                "rateCode": "UAEB446JZ4TY7U7U.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0420000000",
+                "RegionlessRateCode": "ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"
+            }
+        },
+        "Asia Pacific (Hong Kong)": {
+            "JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU": {
+                "rateCode": "YVVX4QXCFDBMBU7D.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"
+            },
+            "ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8": {
+                "rateCode": "J6ZXHN4KBKK4QK3P.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0420000000",
+                "RegionlessRateCode": "ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"
+            },
+            "Free Server Migration": {
+                "rateCode": "YVVX4QXCFDBMBU7D.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"
+            },
+            "Normal Server Migration": {
+                "rateCode": "J6ZXHN4KBKK4QK3P.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0420000000",
+                "RegionlessRateCode": "ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"
+            }
+        },
+        "Africa (Cape Town)": {
+            "JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU": {
+                "rateCode": "KMGCTC6MYM2DS2S5.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"
+            },
+            "ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8": {
+                "rateCode": "U5XPHPXK2U283EAR.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0420000000",
+                "RegionlessRateCode": "ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"
+            },
+            "Free Server Migration": {
+                "rateCode": "KMGCTC6MYM2DS2S5.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"
+            },
+            "Normal Server Migration": {
+                "rateCode": "U5XPHPXK2U283EAR.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0420000000",
+                "RegionlessRateCode": "ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"
+            }
+        },
+        "AWS GovCloud (US-East)": {
+            "JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU": {
+                "rateCode": "5W524UG77VHU8NHK.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"
+            },
+            "ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8": {
+                "rateCode": "9D3A2G2MZQE4CUXQ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0420000000",
+                "RegionlessRateCode": "ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"
+            },
+            "Free Server Migration": {
+                "rateCode": "5W524UG77VHU8NHK.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"
+            },
+            "Normal Server Migration": {
+                "rateCode": "9D3A2G2MZQE4CUXQ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0420000000",
+                "RegionlessRateCode": "ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"
+            }
+        },
+        "AWS GovCloud (US)": {
+            "JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU": {
+                "rateCode": "2HMZ5VQK8S3JGYPV.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"
+            },
+            "ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8": {
+                "rateCode": "ME3BP72CNZ2QUTK2.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0420000000",
+                "RegionlessRateCode": "ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"
+            },
+            "Free Server Migration": {
+                "rateCode": "2HMZ5VQK8S3JGYPV.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "JcLIYV6Qx5uKEttMv5j7ptOjsLsk952Wrs4hPJ5VNOU"
+            },
+            "Normal Server Migration": {
+                "rateCode": "ME3BP72CNZ2QUTK2.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0420000000",
+                "RegionlessRateCode": "ZVfk6aXZK68PSnDCO4kjL6gHbHN9YX7vkhK7-rwblF8"
+            }
+        }
+    }
+}
