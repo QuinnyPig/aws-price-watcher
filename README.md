@@ -1,15 +1,4 @@
-## Latest Changes
-
-
-**New services:**
-
-- 
-
-**Modified services:**
-
-- 
-
-**Not found services:**
+## Not found services
 
 - contactlensamazonconnect
 - vmwarecloudonaws

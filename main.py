@@ -1,5 +1,6 @@
 import requests
 import json
+import datetime
 
 
 def get_url_contents(url):
@@ -35,6 +36,8 @@ new_services = []
 
 service_list_obj = {}
 
+out = ""
+
 service_list = get_url_contents("https://pricing.us-east-1.amazonaws.com/offers/v1.0/aws/index.json")
 if service_list:
     save_file("raw/_service_list.json", service_list)
@@ -62,7 +65,18 @@ if service_list:
         else:
             not_found.append(sanitized_service_name)
 
-    print("## Latest Changes\n\n")
-    print("**New services:**\n\n- {}".format('\n- '.join(new_services)))
-    print("\n**Modified services:**\n\n- {}".format('\n- '.join(modified_services)))
-    print("\n**Not found services:**\n\n- {}".format('\n- '.join(not_found)))
+    if (len(modified_services) + len(new_services)) > 0:
+        out += "## {}\n\n".format(datetime.datetime.now().strftime("%Y-%m-%d %H:%M"))
+        if len(new_services) > 0:
+            out += "**New services:**\n\n- {}".format('\n- '.join(new_services))
+        if len(modified_services) > 0:
+            out += "**Modified services:**\n\n- {}".format('\n- '.join(modified_services))
+        out += "\n\n"
+
+    # read readme file
+    with open("README.md", "r") as readme_file:
+        out += readme_file.read().split("## Not found services")[0]
+
+    out += "## Not found services\n\n- {}".format('\n- '.join(not_found))
+
+    save_file("README.md", out)
