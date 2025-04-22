@@ -68,9 +68,13 @@ if service_list:
     if (len(modified_services) + len(new_services)) > 0:
         out += "## {}\n\n".format(datetime.datetime.now().strftime("%Y-%m-%d %H:%M"))
         if len(new_services) > 0:
-            out += "**New services:**\n\n- {}".format('\n- '.join(new_services))
+            out += "**New services:**\n"
+            for service in new_services:
+                out += "\n- [{}](raw/{}.json)".format(service, service)
         if len(modified_services) > 0:
-            out += "**Modified services:**\n\n- {}".format('\n- '.join(modified_services))
+            out += "**Modified services:**\n"
+            for service in modified_services:
+                out += "\n- [{}](raw/{}.json)".format(service, service)
         out += "\n\n"
 
     # read readme file
