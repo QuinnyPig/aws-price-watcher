@@ -37,10 +37,5 @@ jobs:
           git commit -m "Update data" -a || exit 0
           remote_repo="https://iann0036-bot:${BOT_GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
           git push "${remote_repo}" HEAD:main
-
-      - name: Create a Release
-        uses: elgohr/Github-Release-Action@v5
-        env:
-          GH_TOKEN: ${{ secrets.BOT_GITHUB_TOKEN }}
-        with:
-          title: Updated data (${{ github.run_number }})
+          INPUT_TAG="release-$(date +%Y%m%d%H%M%S)"
+          gh release create $INPUT_TAG -t "Updated data (${{ github.run_number }})"

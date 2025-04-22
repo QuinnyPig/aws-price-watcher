@@ -57,8 +57,8 @@ if service_list:
                     modified_services.append(sanitized_service_name)
             else:
                 new_services.append(sanitized_service_name)
-            
-            save_file("raw/{}.json".format(sanitized_service_name), contents)
+
+            save_file("raw/{}.json".format(sanitized_service_name), json.dumps(contents_obj, indent=4))
         else:
             not_found.append(sanitized_service_name)
 
