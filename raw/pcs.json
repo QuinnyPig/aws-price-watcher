@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "pcs",
         "accessType": "publish",
-        "esIndex": "plc-pcs-usd-20250212140943",
-        "hawkFilePublicationDate": "2025-02-12T14:09:43Z",
-        "ETLIngestionTriggerDate": "2025-02-12T14:09:43Z",
+        "esIndex": "plc-pcs-usd-20250422212852",
+        "hawkFilePublicationDate": "2025-04-22T21:28:52Z",
+        "ETLIngestionTriggerDate": "2025-04-22T21:28:52Z",
         "currencyCode": "USD",
         "source": "pcs",
         "isMapped": "true"
