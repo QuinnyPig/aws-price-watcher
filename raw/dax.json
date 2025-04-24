@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "dax",
         "accessType": "publish",
-        "esIndex": "plc-dax-usd-20250312180521",
-        "hawkFilePublicationDate": "2025-03-12T18:05:24Z",
-        "ETLIngestionTriggerDate": "2025-03-12T18:05:21Z",
+        "esIndex": "plc-dax-usd-20250423193220",
+        "hawkFilePublicationDate": "2025-04-23T19:32:20Z",
+        "ETLIngestionTriggerDate": "2025-04-23T19:32:20Z",
         "currencyCode": "USD",
         "source": "dax",
         "isMapped": "true"
