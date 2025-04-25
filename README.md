@@ -1,3 +1,16 @@
+## 2025-04-25 12:09
+
+**Modified services:**
+
+- [securityhub](raw/securityhub.json)
+- [codebuild](raw/codebuild.json)
+- [redshift](raw/redshift.json)
+- [deadline](raw/deadline.json)
+- [appstream](raw/appstream.json)
+- [ec2](raw/ec2.json)
+- [bedrock](raw/bedrock.json)
+- [vpc](raw/vpc.json)
+
 ## 2025-04-24 12:09
 
 **Modified services:**
