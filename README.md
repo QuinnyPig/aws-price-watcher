@@ -1,3 +1,14 @@
+## 2025-04-26 12:08
+
+**Modified services:**
+
+- [guardduty](raw/guardduty.json)
+- [workspaces](raw/workspaces.json)
+- [codebuild](raw/codebuild.json)
+- [cloudfront](raw/cloudfront.json)
+- [redshift](raw/redshift.json)
+- [ec2](raw/ec2.json)
+
 ## 2025-04-25 12:09
 
 **Modified services:**
