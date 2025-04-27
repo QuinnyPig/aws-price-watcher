@@ -1,3 +1,9 @@
+## 2025-04-27 12:08
+
+**Modified services:**
+
+- [bedrock](raw/bedrock.json)
+
 ## 2025-04-26 12:08
 
 **Modified services:**
