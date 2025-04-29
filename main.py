@@ -130,6 +130,11 @@ if service_list:
                         print("WARNING: Found existing and conflicting price for {} {} {}".format(service, modified_code_name, modified_region_name))
                         processed_contents[modified_code_name][modified_region_name] += ";" + contents_obj["regions"][region_name][code_name]["price"]
 
+            # remove optional set names
+            for k in list(processed_contents.keys()):
+                if k.startswith("[optional set name"):
+                    processed_contents[k[k.index("]")+2:]] = processed_contents[k]
+                    del processed_contents[k]
 
             existing_processed_contents = load_file("processed/{}.json".format(sanitized_service_name))
             if existing_processed_contents:
@@ -140,12 +145,6 @@ if service_list:
                     modified_services.append(sanitized_service_name)
             else:
                 new_services.append(sanitized_service_name)
-
-            # remove optional set names
-            for k in list(processed_contents.keys()):
-                if k.startswith("[optional set name"):
-                    processed_contents[k[k.index("]")+2:]] = processed_contents[k]
-                    del processed_contents[k]
 
             save_file("processed/{}.json".format(sanitized_service_name), json.dumps(processed_contents, indent=4))
         else:
