@@ -1,863 +1,294 @@
 {
     "Data consumed from Kinesis Video Streams for HLS Fragment based per GB": {
-        "Default": [
-            "0.0119000000"
-        ],
-        "US West (Oregon)": [
-            "0.0119000000"
-        ],
-        "US East (Ohio)": [
-            "0.0119000000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0119000000"
-        ],
-        "South America (Sao Paulo)": [
-            "0.0330000000"
-        ],
-        "EU (Paris)": [
-            "0.0185000000"
-        ],
-        "EU (London)": [
-            "0.0165000000"
-        ],
-        "EU (Ireland)": [
-            "0.0132200000"
-        ],
-        "EU (Frankfurt)": [
-            "0.0142800000"
-        ],
-        "Canada (Central)": [
-            "0.0145000000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.0153600000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.0188000000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.0157000000"
-        ],
-        "Asia Pacific (Seoul)": [
-            "0.0145000000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.0145000000"
-        ],
-        "Asia Pacific (Hong Kong)": [
-            "0.0157000000"
-        ],
-        "Africa (Cape Town)": [
-            "0.0133000000"
-        ],
-        "AWS GovCloud (US-East)": [
-            "0.0163000000"
-        ],
-        "AWS GovCloud (US)": [
-            "0.0163000000"
-        ]
+        "US West (Oregon)": "0.0119000000",
+        "US East (Ohio)": "0.0119000000",
+        "US East (N. Virginia)": "0.0119000000",
+        "South America (Sao Paulo)": "0.0330000000",
+        "EU (Paris)": "0.0185000000",
+        "EU (London)": "0.0165000000",
+        "EU (Ireland)": "0.0132200000",
+        "EU (Frankfurt)": "0.0142800000",
+        "Canada (Central)": "0.0145000000",
+        "Asia Pacific (Tokyo)": "0.0153600000",
+        "Asia Pacific (Sydney)": "0.0188000000",
+        "Asia Pacific (Singapore)": "0.0157000000",
+        "Asia Pacific (Seoul)": "0.0145000000",
+        "Asia Pacific (Mumbai)": "0.0145000000",
+        "Asia Pacific (Hong Kong)": "0.0157000000",
+        "Africa (Cape Town)": "0.0133000000",
+        "AWS GovCloud (US-East)": "0.0163000000",
+        "AWS GovCloud (US)": "0.0163000000"
     },
     "Per million images generated getImages 1080p or lower resolution per Images Processed": {
-        "Default": [
-            "0.0000100000"
-        ],
-        "US West (Oregon)": [
-            "0.0000100000"
-        ],
-        "US East (Ohio)": [
-            "0.0000100000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0000100000"
-        ],
-        "South America (Sao Paulo)": [
-            "0.0000100000"
-        ],
-        "EU (Paris)": [
-            "0.0000100000"
-        ],
-        "EU (London)": [
-            "0.0000100000"
-        ],
-        "EU (Ireland)": [
-            "0.0000100000"
-        ],
-        "EU (Frankfurt)": [
-            "0.0000100000"
-        ],
-        "Canada (Central)": [
-            "0.0000100000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.0000100000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.0000100000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.0000100000"
-        ],
-        "Asia Pacific (Seoul)": [
-            "0.0000100000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.0000100000"
-        ],
-        "Asia Pacific (Hong Kong)": [
-            "0.0000100000"
-        ],
-        "Africa (Cape Town)": [
-            "0.0000100000"
-        ],
-        "AWS GovCloud (US-East)": [
-            "0.0000145300"
-        ],
-        "AWS GovCloud (US)": [
-            "0.0000145300"
-        ]
+        "US West (Oregon)": "0.0000100000",
+        "US East (Ohio)": "0.0000100000",
+        "US East (N. Virginia)": "0.0000100000",
+        "South America (Sao Paulo)": "0.0000100000",
+        "EU (Paris)": "0.0000100000",
+        "EU (London)": "0.0000100000",
+        "EU (Ireland)": "0.0000100000",
+        "EU (Frankfurt)": "0.0000100000",
+        "Canada (Central)": "0.0000100000",
+        "Asia Pacific (Tokyo)": "0.0000100000",
+        "Asia Pacific (Sydney)": "0.0000100000",
+        "Asia Pacific (Singapore)": "0.0000100000",
+        "Asia Pacific (Seoul)": "0.0000100000",
+        "Asia Pacific (Mumbai)": "0.0000100000",
+        "Asia Pacific (Hong Kong)": "0.0000100000",
+        "Africa (Cape Town)": "0.0000100000",
+        "AWS GovCloud (US-East)": "0.0000145300",
+        "AWS GovCloud (US)": "0.0000145300"
     },
     "Per minute of media stream recorded into Kinesis Video Streams via WebRTC per Minute": {
-        "Default": [
-            "0.0034000000"
-        ],
-        "US West (Oregon)": [
-            "0.0034000000"
-        ],
-        "US East (Ohio)": [
-            "0.0034000000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0034000000"
-        ],
-        "South America (Sao Paulo)": [
-            "0.0046000000"
-        ],
-        "EU (Paris)": [
-            "0.0052000000"
-        ],
-        "EU (London)": [
-            "0.0053000000"
-        ],
-        "EU (Ireland)": [
-            "0.0040000000"
-        ],
-        "EU (Frankfurt)": [
-            "0.0049000000"
-        ],
-        "Canada (Central)": [
-            "0.0037000000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.0048000000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.0040000000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.0045000000"
-        ],
-        "Asia Pacific (Seoul)": [
-            "0.0038000000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.0043000000"
-        ],
-        "Asia Pacific (Hong Kong)": [
-            "0.0050000000"
-        ],
-        "Africa (Cape Town)": [
-            "0.0032000000"
-        ]
+        "US West (Oregon)": "0.0034000000",
+        "US East (Ohio)": "0.0034000000",
+        "US East (N. Virginia)": "0.0034000000",
+        "South America (Sao Paulo)": "0.0046000000",
+        "EU (Paris)": "0.0052000000",
+        "EU (London)": "0.0053000000",
+        "EU (Ireland)": "0.0040000000",
+        "EU (Frankfurt)": "0.0049000000",
+        "Canada (Central)": "0.0037000000",
+        "Asia Pacific (Tokyo)": "0.0048000000",
+        "Asia Pacific (Sydney)": "0.0040000000",
+        "Asia Pacific (Singapore)": "0.0045000000",
+        "Asia Pacific (Seoul)": "0.0038000000",
+        "Asia Pacific (Mumbai)": "0.0043000000",
+        "Asia Pacific (Hong Kong)": "0.0050000000",
+        "Africa (Cape Town)": "0.0032000000"
     },
     "Per million images generated S3 Delivery 1080p or lower resolution per Images Processed": {
-        "Default": [
-            "0.0000100000"
-        ],
-        "US West (Oregon)": [
-            "0.0000100000"
-        ],
-        "US East (Ohio)": [
-            "0.0000100000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0000100000"
-        ],
-        "South America (Sao Paulo)": [
-            "0.0000100000"
-        ],
-        "EU (Paris)": [
-            "0.0000100000"
-        ],
-        "EU (London)": [
-            "0.0000100000"
-        ],
-        "EU (Ireland)": [
-            "0.0000100000"
-        ],
-        "EU (Frankfurt)": [
-            "0.0000100000"
-        ],
-        "Canada (Central)": [
-            "0.0000100000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.0000100000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.0000100000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.0000100000"
-        ],
-        "Asia Pacific (Seoul)": [
-            "0.0000100000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.0000100000"
-        ],
-        "Asia Pacific (Hong Kong)": [
-            "0.0000100000"
-        ],
-        "Africa (Cape Town)": [
-            "0.0000100000"
-        ],
-        "AWS GovCloud (US-East)": [
-            "0.0000145300"
-        ],
-        "AWS GovCloud (US)": [
-            "0.0000145300"
-        ]
+        "US West (Oregon)": "0.0000100000",
+        "US East (Ohio)": "0.0000100000",
+        "US East (N. Virginia)": "0.0000100000",
+        "South America (Sao Paulo)": "0.0000100000",
+        "EU (Paris)": "0.0000100000",
+        "EU (London)": "0.0000100000",
+        "EU (Ireland)": "0.0000100000",
+        "EU (Frankfurt)": "0.0000100000",
+        "Canada (Central)": "0.0000100000",
+        "Asia Pacific (Tokyo)": "0.0000100000",
+        "Asia Pacific (Sydney)": "0.0000100000",
+        "Asia Pacific (Singapore)": "0.0000100000",
+        "Asia Pacific (Seoul)": "0.0000100000",
+        "Asia Pacific (Mumbai)": "0.0000100000",
+        "Asia Pacific (Hong Kong)": "0.0000100000",
+        "Africa (Cape Town)": "0.0000100000",
+        "AWS GovCloud (US-East)": "0.0000145300",
+        "AWS GovCloud (US)": "0.0000145300"
     },
     "Per GB Month of Data stored in Kinesis Video Streams per GB-Month": {
-        "Default": [
-            "0.0230000000"
-        ],
-        "US West (Oregon)": [
-            "0.0230000000"
-        ],
-        "US East (Ohio)": [
-            "0.0230000000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0230000000"
-        ],
-        "South America (Sao Paulo)": [
-            "0.0405000000"
-        ],
-        "EU (Paris)": [
-            "0.0240000000"
-        ],
-        "EU (London)": [
-            "0.0240000000"
-        ],
-        "EU (Ireland)": [
-            "0.0230000000"
-        ],
-        "EU (Frankfurt)": [
-            "0.0245000000"
-        ],
-        "Canada (Central)": [
-            "0.0250000000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.0250000000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.0250000000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.0250000000"
-        ],
-        "Asia Pacific (Seoul)": [
-            "0.0250000000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.0250000000"
-        ],
-        "Asia Pacific (Hong Kong)": [
-            "0.0250000000"
-        ],
-        "Africa (Cape Town)": [
-            "0.0274000000"
-        ],
-        "AWS GovCloud (US-East)": [
-            "0.0390000000"
-        ],
-        "AWS GovCloud (US)": [
-            "0.0390000000"
-        ]
+        "US West (Oregon)": "0.0230000000",
+        "US East (Ohio)": "0.0230000000",
+        "US East (N. Virginia)": "0.0230000000",
+        "South America (Sao Paulo)": "0.0405000000",
+        "EU (Paris)": "0.0240000000",
+        "EU (London)": "0.0240000000",
+        "EU (Ireland)": "0.0230000000",
+        "EU (Frankfurt)": "0.0245000000",
+        "Canada (Central)": "0.0250000000",
+        "Asia Pacific (Tokyo)": "0.0250000000",
+        "Asia Pacific (Sydney)": "0.0250000000",
+        "Asia Pacific (Singapore)": "0.0250000000",
+        "Asia Pacific (Seoul)": "0.0250000000",
+        "Asia Pacific (Mumbai)": "0.0250000000",
+        "Asia Pacific (Hong Kong)": "0.0250000000",
+        "Africa (Cape Town)": "0.0274000000",
+        "AWS GovCloud (US-East)": "0.0390000000",
+        "AWS GovCloud (US)": "0.0390000000"
     },
     "Per million images generated S3 Delivery greater than 1080p resolution per Images Processed": {
-        "Default": [
-            "0.0000180000"
-        ],
-        "US West (Oregon)": [
-            "0.0000180000"
-        ],
-        "US East (Ohio)": [
-            "0.0000180000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0000180000"
-        ],
-        "South America (Sao Paulo)": [
-            "0.0000180000"
-        ],
-        "EU (Paris)": [
-            "0.0000180000"
-        ],
-        "EU (London)": [
-            "0.0000180000"
-        ],
-        "EU (Ireland)": [
-            "0.0000180000"
-        ],
-        "EU (Frankfurt)": [
-            "0.0000180000"
-        ],
-        "Canada (Central)": [
-            "0.0000180000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.0000180000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.0000180000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.0000180000"
-        ],
-        "Asia Pacific (Seoul)": [
-            "0.0000180000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.0000180000"
-        ],
-        "Asia Pacific (Hong Kong)": [
-            "0.0000180000"
-        ],
-        "Africa (Cape Town)": [
-            "0.0000180000"
-        ],
-        "AWS GovCloud (US-East)": [
-            "0.0000254540"
-        ],
-        "AWS GovCloud (US)": [
-            "0.0000254540"
-        ]
+        "US West (Oregon)": "0.0000180000",
+        "US East (Ohio)": "0.0000180000",
+        "US East (N. Virginia)": "0.0000180000",
+        "South America (Sao Paulo)": "0.0000180000",
+        "EU (Paris)": "0.0000180000",
+        "EU (London)": "0.0000180000",
+        "EU (Ireland)": "0.0000180000",
+        "EU (Frankfurt)": "0.0000180000",
+        "Canada (Central)": "0.0000180000",
+        "Asia Pacific (Tokyo)": "0.0000180000",
+        "Asia Pacific (Sydney)": "0.0000180000",
+        "Asia Pacific (Singapore)": "0.0000180000",
+        "Asia Pacific (Seoul)": "0.0000180000",
+        "Asia Pacific (Mumbai)": "0.0000180000",
+        "Asia Pacific (Hong Kong)": "0.0000180000",
+        "Africa (Cape Town)": "0.0000180000",
+        "AWS GovCloud (US-East)": "0.0000254540",
+        "AWS GovCloud (US)": "0.0000254540"
     },
     "Data consumed from Kinesis Video Streams Fragment based per GB": {
-        "Default": [
-            "0.0085000000"
-        ],
-        "US West (Oregon)": [
-            "0.0085000000"
-        ],
-        "US East (Ohio)": [
-            "0.0085000000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0085000000"
-        ],
-        "South America (Sao Paulo)": [
-            "0.0230000000"
-        ],
-        "EU (Paris)": [
-            "0.0135000000"
-        ],
-        "EU (London)": [
-            "0.0115000000"
-        ],
-        "EU (Ireland)": [
-            "0.0094350000"
-        ],
-        "EU (Frankfurt)": [
-            "0.0102000000"
-        ],
-        "Canada (Central)": [
-            "0.0100000000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.0109650000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.0134000000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.0112200000"
-        ],
-        "Asia Pacific (Seoul)": [
-            "0.0104000000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.0104000000"
-        ],
-        "Asia Pacific (Hong Kong)": [
-            "0.0112200000"
-        ],
-        "Africa (Cape Town)": [
-            "0.0085000000"
-        ],
-        "AWS GovCloud (US-East)": [
-            "0.0116000000"
-        ],
-        "AWS GovCloud (US)": [
-            "0.0116000000"
-        ]
+        "US West (Oregon)": "0.0085000000",
+        "US East (Ohio)": "0.0085000000",
+        "US East (N. Virginia)": "0.0085000000",
+        "South America (Sao Paulo)": "0.0230000000",
+        "EU (Paris)": "0.0135000000",
+        "EU (London)": "0.0115000000",
+        "EU (Ireland)": "0.0094350000",
+        "EU (Frankfurt)": "0.0102000000",
+        "Canada (Central)": "0.0100000000",
+        "Asia Pacific (Tokyo)": "0.0109650000",
+        "Asia Pacific (Sydney)": "0.0134000000",
+        "Asia Pacific (Singapore)": "0.0112200000",
+        "Asia Pacific (Seoul)": "0.0104000000",
+        "Asia Pacific (Mumbai)": "0.0104000000",
+        "Asia Pacific (Hong Kong)": "0.0112200000",
+        "Africa (Cape Town)": "0.0085000000",
+        "AWS GovCloud (US-East)": "0.0116000000",
+        "AWS GovCloud (US)": "0.0116000000"
     },
     "Per thousand TURN streaming minutes per minutes": {
-        "Default": [
-            "0.0001200000"
-        ],
-        "US West (Oregon)": [
-            "0.0001200000"
-        ],
-        "US East (Ohio)": [
-            "0.0001200000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0001200000"
-        ],
-        "South America (Sao Paulo)": [
-            "0.0003300000"
-        ],
-        "EU (Paris)": [
-            "0.0001900000"
-        ],
-        "EU (London)": [
-            "0.0001650000"
-        ],
-        "EU (Ireland)": [
-            "0.0001333000"
-        ],
-        "EU (Frankfurt)": [
-            "0.0001523000"
-        ],
-        "Canada (Central)": [
-            "0.0001450000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.0001800000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.0001892000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.0001800000"
-        ],
-        "Asia Pacific (Seoul)": [
-            "0.0001500000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.0001500000"
-        ],
-        "Asia Pacific (Hong Kong)": [
-            "0.0001800000"
-        ],
-        "Africa (Cape Town)": [
-            "0.0001200000"
-        ]
+        "US West (Oregon)": "0.0001200000",
+        "US East (Ohio)": "0.0001200000",
+        "US East (N. Virginia)": "0.0001200000",
+        "South America (Sao Paulo)": "0.0003300000",
+        "EU (Paris)": "0.0001900000",
+        "EU (London)": "0.0001650000",
+        "EU (Ireland)": "0.0001333000",
+        "EU (Frankfurt)": "0.0001523000",
+        "Canada (Central)": "0.0001450000",
+        "Asia Pacific (Tokyo)": "0.0001800000",
+        "Asia Pacific (Sydney)": "0.0001892000",
+        "Asia Pacific (Singapore)": "0.0001800000",
+        "Asia Pacific (Seoul)": "0.0001500000",
+        "Asia Pacific (Mumbai)": "0.0001500000",
+        "Asia Pacific (Hong Kong)": "0.0001800000",
+        "Africa (Cape Town)": "0.0001200000"
     },
     "Data ingested into Kinesis Video Streams per GB": {
-        "Default": [
-            "0.0085000000"
-        ],
-        "US West (Oregon)": [
-            "0.0085000000"
-        ],
-        "US East (Ohio)": [
-            "0.0085000000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0085000000"
-        ],
-        "South America (Sao Paulo)": [
-            "0.0230000000"
-        ],
-        "EU (Paris)": [
-            "0.0135000000"
-        ],
-        "EU (London)": [
-            "0.0115000000"
-        ],
-        "EU (Ireland)": [
-            "0.0094350000"
-        ],
-        "EU (Frankfurt)": [
-            "0.0102000000"
-        ],
-        "Canada (Central)": [
-            "0.0100000000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.0109650000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.0134000000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.0112200000"
-        ],
-        "Asia Pacific (Seoul)": [
-            "0.0104000000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.0104000000"
-        ],
-        "Asia Pacific (Hong Kong)": [
-            "0.0112200000"
-        ],
-        "Africa (Cape Town)": [
-            "0.0097000000"
-        ],
-        "AWS GovCloud (US-East)": [
-            "0.0116000000"
-        ],
-        "AWS GovCloud (US)": [
-            "0.0116000000"
-        ]
+        "US West (Oregon)": "0.0085000000",
+        "US East (Ohio)": "0.0085000000",
+        "US East (N. Virginia)": "0.0085000000",
+        "South America (Sao Paulo)": "0.0230000000",
+        "EU (Paris)": "0.0135000000",
+        "EU (London)": "0.0115000000",
+        "EU (Ireland)": "0.0094350000",
+        "EU (Frankfurt)": "0.0102000000",
+        "Canada (Central)": "0.0100000000",
+        "Asia Pacific (Tokyo)": "0.0109650000",
+        "Asia Pacific (Sydney)": "0.0134000000",
+        "Asia Pacific (Singapore)": "0.0112200000",
+        "Asia Pacific (Seoul)": "0.0104000000",
+        "Asia Pacific (Mumbai)": "0.0104000000",
+        "Asia Pacific (Hong Kong)": "0.0112200000",
+        "Africa (Cape Town)": "0.0097000000",
+        "AWS GovCloud (US-East)": "0.0116000000",
+        "AWS GovCloud (US)": "0.0116000000"
     },
     "Data consumed from Kinesis Video Streams for HLS per GB": {
-        "Default": [
-            "0.0119000000"
-        ],
-        "US West (Oregon)": [
-            "0.0119000000"
-        ],
-        "US East (Ohio)": [
-            "0.0119000000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0119000000"
-        ],
-        "South America (Sao Paulo)": [
-            "0.0330000000"
-        ],
-        "EU (Paris)": [
-            "0.0185000000"
-        ],
-        "EU (London)": [
-            "0.0165000000"
-        ],
-        "EU (Ireland)": [
-            "0.0132200000"
-        ],
-        "EU (Frankfurt)": [
-            "0.0142800000"
-        ],
-        "Canada (Central)": [
-            "0.0145000000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.0153600000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.0188000000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.0157000000"
-        ],
-        "Asia Pacific (Seoul)": [
-            "0.0145000000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.0145000000"
-        ],
-        "Asia Pacific (Hong Kong)": [
-            "0.0157000000"
-        ],
-        "Africa (Cape Town)": [
-            "0.0133000000"
-        ],
-        "AWS GovCloud (US-East)": [
-            "0.0163000000"
-        ],
-        "AWS GovCloud (US)": [
-            "0.0163000000"
-        ]
+        "US West (Oregon)": "0.0119000000",
+        "US East (Ohio)": "0.0119000000",
+        "US East (N. Virginia)": "0.0119000000",
+        "South America (Sao Paulo)": "0.0330000000",
+        "EU (Paris)": "0.0185000000",
+        "EU (London)": "0.0165000000",
+        "EU (Ireland)": "0.0132200000",
+        "EU (Frankfurt)": "0.0142800000",
+        "Canada (Central)": "0.0145000000",
+        "Asia Pacific (Tokyo)": "0.0153600000",
+        "Asia Pacific (Sydney)": "0.0188000000",
+        "Asia Pacific (Singapore)": "0.0157000000",
+        "Asia Pacific (Seoul)": "0.0145000000",
+        "Asia Pacific (Mumbai)": "0.0145000000",
+        "Asia Pacific (Hong Kong)": "0.0157000000",
+        "Africa (Cape Town)": "0.0133000000",
+        "AWS GovCloud (US-East)": "0.0163000000",
+        "AWS GovCloud (US)": "0.0163000000"
     },
     "Data consumed from Kinesis Video Streams per GB": {
-        "Default": [
-            "0.0085000000"
-        ],
-        "US West (Oregon)": [
-            "0.0085000000"
-        ],
-        "US East (Ohio)": [
-            "0.0085000000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0085000000"
-        ],
-        "South America (Sao Paulo)": [
-            "0.0230000000"
-        ],
-        "EU (Paris)": [
-            "0.0135000000"
-        ],
-        "EU (London)": [
-            "0.0115000000"
-        ],
-        "EU (Ireland)": [
-            "0.0094350000"
-        ],
-        "EU (Frankfurt)": [
-            "0.0102000000"
-        ],
-        "Canada (Central)": [
-            "0.0100000000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.0109650000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.0134000000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.0112200000"
-        ],
-        "Asia Pacific (Seoul)": [
-            "0.0104000000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.0104000000"
-        ],
-        "Asia Pacific (Hong Kong)": [
-            "0.0112200000"
-        ],
-        "Africa (Cape Town)": [
-            "0.0097000000"
-        ],
-        "AWS GovCloud (US-East)": [
-            "0.0116000000"
-        ],
-        "AWS GovCloud (US)": [
-            "0.0116000000"
-        ]
+        "US West (Oregon)": "0.0085000000",
+        "US East (Ohio)": "0.0085000000",
+        "US East (N. Virginia)": "0.0085000000",
+        "South America (Sao Paulo)": "0.0230000000",
+        "EU (Paris)": "0.0135000000",
+        "EU (London)": "0.0115000000",
+        "EU (Ireland)": "0.0094350000",
+        "EU (Frankfurt)": "0.0102000000",
+        "Canada (Central)": "0.0100000000",
+        "Asia Pacific (Tokyo)": "0.0109650000",
+        "Asia Pacific (Sydney)": "0.0134000000",
+        "Asia Pacific (Singapore)": "0.0112200000",
+        "Asia Pacific (Seoul)": "0.0104000000",
+        "Asia Pacific (Mumbai)": "0.0104000000",
+        "Asia Pacific (Hong Kong)": "0.0112200000",
+        "Africa (Cape Town)": "0.0097000000",
+        "AWS GovCloud (US-East)": "0.0116000000",
+        "AWS GovCloud (US)": "0.0116000000"
     },
     "Per million images generated getImages greater than 1080p resolution per Images Processed": {
-        "Default": [
-            "0.0000180000"
-        ],
-        "US West (Oregon)": [
-            "0.0000180000"
-        ],
-        "US East (Ohio)": [
-            "0.0000180000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0000180000"
-        ],
-        "South America (Sao Paulo)": [
-            "0.0000180000"
-        ],
-        "EU (Paris)": [
-            "0.0000180000"
-        ],
-        "EU (London)": [
-            "0.0000180000"
-        ],
-        "EU (Ireland)": [
-            "0.0000180000"
-        ],
-        "EU (Frankfurt)": [
-            "0.0000180000"
-        ],
-        "Canada (Central)": [
-            "0.0000180000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.0000180000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.0000180000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.0000180000"
-        ],
-        "Asia Pacific (Seoul)": [
-            "0.0000180000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.0000180000"
-        ],
-        "Asia Pacific (Hong Kong)": [
-            "0.0000180000"
-        ],
-        "Africa (Cape Town)": [
-            "0.0000180000"
-        ],
-        "AWS GovCloud (US-East)": [
-            "0.0000254540"
-        ],
-        "AWS GovCloud (US)": [
-            "0.0000254540"
-        ]
+        "US West (Oregon)": "0.0000180000",
+        "US East (Ohio)": "0.0000180000",
+        "US East (N. Virginia)": "0.0000180000",
+        "South America (Sao Paulo)": "0.0000180000",
+        "EU (Paris)": "0.0000180000",
+        "EU (London)": "0.0000180000",
+        "EU (Ireland)": "0.0000180000",
+        "EU (Frankfurt)": "0.0000180000",
+        "Canada (Central)": "0.0000180000",
+        "Asia Pacific (Tokyo)": "0.0000180000",
+        "Asia Pacific (Sydney)": "0.0000180000",
+        "Asia Pacific (Singapore)": "0.0000180000",
+        "Asia Pacific (Seoul)": "0.0000180000",
+        "Asia Pacific (Mumbai)": "0.0000180000",
+        "Asia Pacific (Hong Kong)": "0.0000180000",
+        "Africa (Cape Town)": "0.0000180000",
+        "AWS GovCloud (US-East)": "0.0000254540",
+        "AWS GovCloud (US)": "0.0000254540"
     },
     "Per month for an active signaling channel per Count": {
-        "Default": [
-            "0.0300000000"
-        ],
-        "US West (Oregon)": [
-            "0.0300000000"
-        ],
-        "US East (Ohio)": [
-            "0.0300000000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0300000000"
-        ],
-        "South America (Sao Paulo)": [
-            "0.0810000000"
-        ],
-        "EU (Paris)": [
-            "0.0470000000"
-        ],
-        "EU (London)": [
-            "0.0410000000"
-        ],
-        "EU (Ireland)": [
-            "0.0333000000"
-        ],
-        "EU (Frankfurt)": [
-            "0.0381000000"
-        ],
-        "Canada (Central)": [
-            "0.0360000000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.0450000000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.0473000000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.0400000000"
-        ],
-        "Asia Pacific (Seoul)": [
-            "0.0400000000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.0400000000"
-        ],
-        "Asia Pacific (Hong Kong)": [
-            "0.0400000000"
-        ],
-        "Africa (Cape Town)": [
-            "0.0300000000"
-        ]
+        "US West (Oregon)": "0.0300000000",
+        "US East (Ohio)": "0.0300000000",
+        "US East (N. Virginia)": "0.0300000000",
+        "South America (Sao Paulo)": "0.0810000000",
+        "EU (Paris)": "0.0470000000",
+        "EU (London)": "0.0410000000",
+        "EU (Ireland)": "0.0333000000",
+        "EU (Frankfurt)": "0.0381000000",
+        "Canada (Central)": "0.0360000000",
+        "Asia Pacific (Tokyo)": "0.0450000000",
+        "Asia Pacific (Sydney)": "0.0473000000",
+        "Asia Pacific (Singapore)": "0.0400000000",
+        "Asia Pacific (Seoul)": "0.0400000000",
+        "Asia Pacific (Mumbai)": "0.0400000000",
+        "Asia Pacific (Hong Kong)": "0.0400000000",
+        "Africa (Cape Town)": "0.0300000000"
     },
     "GetClip per GB": {
-        "Default": [
-            "0.0119000000"
-        ],
-        "US West (Oregon)": [
-            "0.0119000000"
-        ],
-        "US East (Ohio)": [
-            "0.0119000000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0119000000"
-        ],
-        "South America (Sao Paulo)": [
-            "0.0330000000"
-        ],
-        "EU (Paris)": [
-            "0.0185000000"
-        ],
-        "EU (London)": [
-            "0.0165000000"
-        ],
-        "EU (Ireland)": [
-            "0.0132200000"
-        ],
-        "EU (Frankfurt)": [
-            "0.0142800000"
-        ],
-        "Canada (Central)": [
-            "0.0145000000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.0153600000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.0188000000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.0157000000"
-        ],
-        "Asia Pacific (Seoul)": [
-            "0.0145000000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.0145000000"
-        ],
-        "Asia Pacific (Hong Kong)": [
-            "0.0157000000"
-        ],
-        "Africa (Cape Town)": [
-            "0.0133000000"
-        ],
-        "AWS GovCloud (US-East)": [
-            "0.0163000000"
-        ],
-        "AWS GovCloud (US)": [
-            "0.0163000000"
-        ]
+        "US West (Oregon)": "0.0119000000",
+        "US East (Ohio)": "0.0119000000",
+        "US East (N. Virginia)": "0.0119000000",
+        "South America (Sao Paulo)": "0.0330000000",
+        "EU (Paris)": "0.0185000000",
+        "EU (London)": "0.0165000000",
+        "EU (Ireland)": "0.0132200000",
+        "EU (Frankfurt)": "0.0142800000",
+        "Canada (Central)": "0.0145000000",
+        "Asia Pacific (Tokyo)": "0.0153600000",
+        "Asia Pacific (Sydney)": "0.0188000000",
+        "Asia Pacific (Singapore)": "0.0157000000",
+        "Asia Pacific (Seoul)": "0.0145000000",
+        "Asia Pacific (Mumbai)": "0.0145000000",
+        "Asia Pacific (Hong Kong)": "0.0157000000",
+        "Africa (Cape Town)": "0.0133000000",
+        "AWS GovCloud (US-East)": "0.0163000000",
+        "AWS GovCloud (US)": "0.0163000000"
     },
     "Per million signaling messages per Messages": {
-        "Default": [
-            "0.0000022500"
-        ],
-        "US West (Oregon)": [
-            "0.0000022500"
-        ],
-        "US East (Ohio)": [
-            "0.0000022500"
-        ],
-        "US East (N. Virginia)": [
-            "0.0000022500"
-        ],
-        "South America (Sao Paulo)": [
-            "0.0000062000"
-        ],
-        "EU (Paris)": [
-            "0.0000035000"
-        ],
-        "EU (London)": [
-            "0.0000031500"
-        ],
-        "EU (Ireland)": [
-            "0.0000025000"
-        ],
-        "EU (Frankfurt)": [
-            "0.0000028550"
-        ],
-        "Canada (Central)": [
-            "0.0000027500"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.0000033750"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.0000035470"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.0000033750"
-        ],
-        "Asia Pacific (Seoul)": [
-            "0.0000027500"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.0000027500"
-        ],
-        "Asia Pacific (Hong Kong)": [
-            "0.0000033750"
-        ],
-        "Africa (Cape Town)": [
-            "0.0000024178"
-        ]
+        "US West (Oregon)": "0.0000022500",
+        "US East (Ohio)": "0.0000022500",
+        "US East (N. Virginia)": "0.0000022500",
+        "South America (Sao Paulo)": "0.0000062000",
+        "EU (Paris)": "0.0000035000",
+        "EU (London)": "0.0000031500",
+        "EU (Ireland)": "0.0000025000",
+        "EU (Frankfurt)": "0.0000028550",
+        "Canada (Central)": "0.0000027500",
+        "Asia Pacific (Tokyo)": "0.0000033750",
+        "Asia Pacific (Sydney)": "0.0000035470",
+        "Asia Pacific (Singapore)": "0.0000033750",
+        "Asia Pacific (Seoul)": "0.0000027500",
+        "Asia Pacific (Mumbai)": "0.0000027500",
+        "Asia Pacific (Hong Kong)": "0.0000033750",
+        "Africa (Cape Town)": "0.0000024178"
     }
 }

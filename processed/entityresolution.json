@@ -1,254 +1,89 @@
 {
     "DataMatchingFee per DataMatchingFee": {
-        "Default": [
-            "100.0000000000"
-        ],
-        "US West (Oregon)": [
-            "100.0000000000"
-        ],
-        "US East (Ohio)": [
-            "100.0000000000"
-        ],
-        "US East (N. Virginia)": [
-            "100.0000000000"
-        ],
-        "EU (London)": [
-            "100.0000000000"
-        ],
-        "EU (Ireland)": [
-            "100.0000000000"
-        ],
-        "EU (Frankfurt)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Seoul)": [
-            "100.0000000000"
-        ]
+        "US West (Oregon)": "100.0000000000",
+        "US East (Ohio)": "100.0000000000",
+        "US East (N. Virginia)": "100.0000000000",
+        "EU (London)": "100.0000000000",
+        "EU (Ireland)": "100.0000000000",
+        "EU (Frankfurt)": "100.0000000000",
+        "Asia Pacific (Tokyo)": "100.0000000000",
+        "Asia Pacific (Sydney)": "100.0000000000",
+        "Asia Pacific (Singapore)": "100.0000000000",
+        "Asia Pacific (Seoul)": "100.0000000000"
     },
     "DataMatching per RecordsMatched": {
-        "Default": [
-            "0.0005000000"
-        ],
-        "US West (Oregon)": [
-            "0.0005000000"
-        ],
-        "US East (Ohio)": [
-            "0.0005000000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0005000000"
-        ],
-        "EU (London)": [
-            "0.0005000000"
-        ],
-        "EU (Ireland)": [
-            "0.0005000000"
-        ],
-        "EU (Frankfurt)": [
-            "0.0005000000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.0005000000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.0005000000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.0005000000"
-        ],
-        "Asia Pacific (Seoul)": [
-            "0.0005000000"
-        ]
+        "US West (Oregon)": "0.0005000000",
+        "US East (Ohio)": "0.0005000000",
+        "US East (N. Virginia)": "0.0005000000",
+        "EU (London)": "0.0005000000",
+        "EU (Ireland)": "0.0005000000",
+        "EU (Frankfurt)": "0.0005000000",
+        "Asia Pacific (Tokyo)": "0.0005000000",
+        "Asia Pacific (Sydney)": "0.0005000000",
+        "Asia Pacific (Singapore)": "0.0005000000",
+        "Asia Pacific (Seoul)": "0.0005000000"
     },
     "DataMatchingForCollab per RecordsMatched": {
-        "Default": [
-            "0.0005000000"
-        ],
-        "US West (Oregon)": [
-            "0.0005000000"
-        ],
-        "US East (Ohio)": [
-            "0.0005000000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0005000000"
-        ],
-        "EU (London)": [
-            "0.0005000000"
-        ],
-        "EU (Ireland)": [
-            "0.0005000000"
-        ],
-        "EU (Frankfurt)": [
-            "0.0005000000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.0005000000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.0005000000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.0005000000"
-        ],
-        "Asia Pacific (Seoul)": [
-            "0.0005000000"
-        ]
+        "US West (Oregon)": "0.0005000000",
+        "US East (Ohio)": "0.0005000000",
+        "US East (N. Virginia)": "0.0005000000",
+        "EU (London)": "0.0005000000",
+        "EU (Ireland)": "0.0005000000",
+        "EU (Frankfurt)": "0.0005000000",
+        "Asia Pacific (Tokyo)": "0.0005000000",
+        "Asia Pacific (Sydney)": "0.0005000000",
+        "Asia Pacific (Singapore)": "0.0005000000",
+        "Asia Pacific (Seoul)": "0.0005000000"
     },
     "EntityResolution per Records": {
-        "Default": [
-            "0.0002500000"
-        ],
-        "US West (Oregon)": [
-            "0.0002500000"
-        ],
-        "US East (Ohio)": [
-            "0.0002500000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0002500000"
-        ],
-        "EU (London)": [
-            "0.0002500000"
-        ],
-        "EU (Ireland)": [
-            "0.0002500000"
-        ],
-        "EU (Frankfurt)": [
-            "0.0002500000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.0002500000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.0002500000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.0002500000"
-        ],
-        "Asia Pacific (Seoul)": [
-            "0.0002500000"
-        ]
+        "US West (Oregon)": "0.0002500000",
+        "US East (Ohio)": "0.0002500000",
+        "US East (N. Virginia)": "0.0002500000",
+        "EU (London)": "0.0002500000",
+        "EU (Ireland)": "0.0002500000",
+        "EU (Frankfurt)": "0.0002500000",
+        "Asia Pacific (Tokyo)": "0.0002500000",
+        "Asia Pacific (Sydney)": "0.0002500000",
+        "Asia Pacific (Singapore)": "0.0002500000",
+        "Asia Pacific (Seoul)": "0.0002500000"
     },
     "DataMatchingFeeForCollab per DataMatchingFee": {
-        "Default": [
-            "100.0000000000"
-        ],
-        "US West (Oregon)": [
-            "100.0000000000"
-        ],
-        "US East (Ohio)": [
-            "100.0000000000"
-        ],
-        "US East (N. Virginia)": [
-            "100.0000000000"
-        ],
-        "EU (London)": [
-            "100.0000000000"
-        ],
-        "EU (Ireland)": [
-            "100.0000000000"
-        ],
-        "EU (Frankfurt)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Seoul)": [
-            "100.0000000000"
-        ]
+        "US West (Oregon)": "100.0000000000",
+        "US East (Ohio)": "100.0000000000",
+        "US East (N. Virginia)": "100.0000000000",
+        "EU (London)": "100.0000000000",
+        "EU (Ireland)": "100.0000000000",
+        "EU (Frankfurt)": "100.0000000000",
+        "Asia Pacific (Tokyo)": "100.0000000000",
+        "Asia Pacific (Sydney)": "100.0000000000",
+        "Asia Pacific (Singapore)": "100.0000000000",
+        "Asia Pacific (Seoul)": "100.0000000000"
     },
     "ProviderIDMappingForCollab per Records": {
-        "Default": [
-            "0.0001000000"
-        ],
-        "US West (Oregon)": [
-            "0.0001000000"
-        ],
-        "US East (Ohio)": [
-            "0.0001000000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0001000000"
-        ]
+        "US West (Oregon)": "0.0001000000",
+        "US East (Ohio)": "0.0001000000",
+        "US East (N. Virginia)": "0.0001000000"
     },
     "ProviderIDMapping per Records": {
-        "Default": [
-            "0.0001000000"
-        ],
-        "US West (Oregon)": [
-            "0.0001000000"
-        ],
-        "US East (Ohio)": [
-            "0.0001000000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0001000000"
-        ]
+        "US West (Oregon)": "0.0001000000",
+        "US East (Ohio)": "0.0001000000",
+        "US East (N. Virginia)": "0.0001000000"
     },
     "DataPreparationForCollab per Records": {
-        "Default": [
-            "0.0001000000"
-        ],
-        "US West (Oregon)": [
-            "0.0001000000"
-        ],
-        "US East (Ohio)": [
-            "0.0001000000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0001000000"
-        ],
-        "EU (London)": [
-            "0.0001000000"
-        ],
-        "EU (Ireland)": [
-            "0.0001000000"
-        ],
-        "EU (Frankfurt)": [
-            "0.0001000000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.0001000000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.0001000000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.0001000000"
-        ],
-        "Asia Pacific (Seoul)": [
-            "0.0001000000"
-        ]
+        "US West (Oregon)": "0.0001000000",
+        "US East (Ohio)": "0.0001000000",
+        "US East (N. Virginia)": "0.0001000000",
+        "EU (London)": "0.0001000000",
+        "EU (Ireland)": "0.0001000000",
+        "EU (Frankfurt)": "0.0001000000",
+        "Asia Pacific (Tokyo)": "0.0001000000",
+        "Asia Pacific (Sydney)": "0.0001000000",
+        "Asia Pacific (Singapore)": "0.0001000000",
+        "Asia Pacific (Seoul)": "0.0001000000"
     },
     "ProviderEntityResolution per Records": {
-        "Default": [
-            "0.0001000000"
-        ],
-        "US West (Oregon)": [
-            "0.0001000000"
-        ],
-        "US East (Ohio)": [
-            "0.0001000000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0001000000"
-        ]
+        "US West (Oregon)": "0.0001000000",
+        "US East (Ohio)": "0.0001000000",
+        "US East (N. Virginia)": "0.0001000000"
     }
 }

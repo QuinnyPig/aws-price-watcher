@@ -1,82 +1,32 @@
 {
     "ContactCenterTelecommZA Toll Inbound Call South Africa 0 30": {
-        "Default": [
-            "0.0000000000"
-        ],
-        "Africa (Cape Town)": [
-            "0.0000000000"
-        ]
+        "Africa (Cape Town)": "0.0000000000"
     },
     "ContactCenterTelecommZA Toll DiD Line South Africa 0 31": {
-        "Default": [
-            "0.0000000000"
-        ],
-        "Africa (Cape Town)": [
-            "0.0000000000"
-        ]
+        "Africa (Cape Town)": "0.0000000000"
     },
     "ContactCenterTelecommZA Toll Free Toll Free Line South Africa 0 Inf": {
-        "Default": [
-            "0.3000000000"
-        ],
-        "Africa (Cape Town)": [
-            "0.3000000000"
-        ]
+        "Africa (Cape Town)": "0.3000000000"
     },
     "ContactCenterTelecommZA Shared Inbound Call South Africa 0 Inf": {
-        "Default": [
-            "0.0200000000"
-        ],
-        "Africa (Cape Town)": [
-            "0.0200000000"
-        ]
+        "Africa (Cape Town)": "0.0200000000"
     },
     "ContactCenterTelecommZA Shared Shared Cost Line South Africa 0 Inf": {
-        "Default": [
-            "0.3000000000"
-        ],
-        "Africa (Cape Town)": [
-            "0.3000000000"
-        ]
+        "Africa (Cape Town)": "0.3000000000"
     },
     "ContactCenterTelecommZA Toll Free Inbound Call South Africa 0 Inf": {
-        "Default": [
-            "0.0802000000"
-        ],
-        "Africa (Cape Town)": [
-            "0.0802000000"
-        ]
+        "Africa (Cape Town)": "0.0802000000"
     },
     "ContactCenterTelecommZA Toll DiD Line South Africa 31 Inf": {
-        "Default": [
-            "0.3000000000"
-        ],
-        "Africa (Cape Town)": [
-            "0.3000000000"
-        ]
+        "Africa (Cape Town)": "0.3000000000"
     },
     "ContactCenterTelecommZA UIFN Inbound Call South Africa 0 Inf": {
-        "Default": [
-            "0.1808000000"
-        ],
-        "Africa (Cape Town)": [
-            "0.1808000000"
-        ]
+        "Africa (Cape Town)": "0.1808000000"
     },
     "ContactCenterTelecommZA UIFN UIFN Line South Africa 0 Inf": {
-        "Default": [
-            "1.2000000000"
-        ],
-        "Africa (Cape Town)": [
-            "1.2000000000"
-        ]
+        "Africa (Cape Town)": "1.2000000000"
     },
     "ContactCenterTelecommZA Toll Inbound Call South Africa 30 Inf": {
-        "Default": [
-            "0.0020000000"
-        ],
-        "Africa (Cape Town)": [
-            "0.0020000000"
-        ]
+        "Africa (Cape Town)": "0.0020000000"
     }
 }

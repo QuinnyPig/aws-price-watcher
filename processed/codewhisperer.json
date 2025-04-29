@@ -1,10 +1,5 @@
 {
     "codewhisperer Professional UsersPerMonth": {
-        "Default": [
-            "19.0000000000"
-        ],
-        "US East (N. Virginia)": [
-            "19.0000000000"
-        ]
+        "US East (N. Virginia)": "19.0000000000"
     }
 }

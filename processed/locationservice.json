@@ -1,3666 +1,1248 @@
 {
     "AmazonLocationService 0 Inf None RequestBasedUsage Tracking Position integrity evaluated per Position": {
-        "Default": [
-            "0.0010000000"
-        ],
-        "US West (Oregon)": [
-            "0.0010000000"
-        ],
-        "US East (Ohio)": [
-            "0.0010000000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0010000000"
-        ],
-        "South America (Sao Paulo)": [
-            "0.0010000000"
-        ],
-        "EU (Stockholm)": [
-            "0.0010000000"
-        ],
-        "EU (Spain)": [
-            "0.0010000000"
-        ],
-        "EU (London)": [
-            "0.0010000000"
-        ],
-        "EU (Ireland)": [
-            "0.0010000000"
-        ],
-        "EU (Frankfurt)": [
-            "0.0010000000"
-        ],
-        "Canada (Central)": [
-            "0.0010000000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.0010000000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.0010000000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.0010000000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.0010000000"
-        ],
-        "Asia Pacific (Malaysia)": [
-            "0.0010000000"
-        ],
-        "Any": [
-            "0.0010000000"
-        ],
-        "AWS GovCloud (US)": [
-            "0.0010000000"
-        ]
+        "US West (Oregon)": "0.0010000000",
+        "US East (Ohio)": "0.0010000000",
+        "US East (N. Virginia)": "0.0010000000",
+        "South America (Sao Paulo)": "0.0010000000",
+        "EU (Stockholm)": "0.0010000000",
+        "EU (Spain)": "0.0010000000",
+        "EU (London)": "0.0010000000",
+        "EU (Ireland)": "0.0010000000",
+        "EU (Frankfurt)": "0.0010000000",
+        "Canada (Central)": "0.0010000000",
+        "Asia Pacific (Tokyo)": "0.0010000000",
+        "Asia Pacific (Sydney)": "0.0010000000",
+        "Asia Pacific (Singapore)": "0.0010000000",
+        "Asia Pacific (Mumbai)": "0.0010000000",
+        "Asia Pacific (Malaysia)": "0.0010000000",
+        "Any": "0.0010000000",
+        "AWS GovCloud (US)": "0.0010000000"
     },
     "AmazonLocationService 25000000 Inf None RequestBasedUsage Geofencing Positions evaluated per Position": {
-        "Default": [
-            "0.0000600000"
-        ],
-        "US West (Oregon)": [
-            "0.0000600000"
-        ],
-        "US East (Ohio)": [
-            "0.0000600000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0000600000"
-        ],
-        "South America (Sao Paulo)": [
-            "0.0000600000"
-        ],
-        "EU (Stockholm)": [
-            "0.0000600000"
-        ],
-        "EU (Spain)": [
-            "0.0000600000"
-        ],
-        "EU (London)": [
-            "0.0000600000"
-        ],
-        "EU (Ireland)": [
-            "0.0000600000"
-        ],
-        "EU (Frankfurt)": [
-            "0.0000600000"
-        ],
-        "Canada (Central)": [
-            "0.0000600000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.0000600000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.0000600000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.0000600000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.0000600000"
-        ],
-        "Asia Pacific (Malaysia)": [
-            "0.0000600000"
-        ],
-        "AWS GovCloud (US)": [
-            "0.0000600000"
-        ]
+        "US West (Oregon)": "0.0000600000",
+        "US East (Ohio)": "0.0000600000",
+        "US East (N. Virginia)": "0.0000600000",
+        "South America (Sao Paulo)": "0.0000600000",
+        "EU (Stockholm)": "0.0000600000",
+        "EU (Spain)": "0.0000600000",
+        "EU (London)": "0.0000600000",
+        "EU (Ireland)": "0.0000600000",
+        "EU (Frankfurt)": "0.0000600000",
+        "Canada (Central)": "0.0000600000",
+        "Asia Pacific (Tokyo)": "0.0000600000",
+        "Asia Pacific (Sydney)": "0.0000600000",
+        "Asia Pacific (Singapore)": "0.0000600000",
+        "Asia Pacific (Mumbai)": "0.0000600000",
+        "Asia Pacific (Malaysia)": "0.0000600000",
+        "AWS GovCloud (US)": "0.0000600000"
     },
     "AmazonLocationService None None Geofencing Geofence list requests per API Request": {
-        "Default": [
-            "0.0000500000"
-        ],
-        "US West (Oregon)": [
-            "0.0000500000"
-        ],
-        "US East (Ohio)": [
-            "0.0000500000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0000500000"
-        ],
-        "South America (Sao Paulo)": [
-            "0.0000500000"
-        ],
-        "EU (Stockholm)": [
-            "0.0000475000"
-        ],
-        "EU (Spain)": [
-            "0.0000500000"
-        ],
-        "EU (London)": [
-            "0.0000500000"
-        ],
-        "EU (Ireland)": [
-            "0.0000500000"
-        ],
-        "EU (Frankfurt)": [
-            "0.0000500000"
-        ],
-        "Canada (Central)": [
-            "0.0000500000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.0000500000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.0000500000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.0000500000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.0000500000"
-        ],
-        "Asia Pacific (Malaysia)": [
-            "0.0000500000"
-        ],
-        "AWS GovCloud (US)": [
-            "0.0000500000"
-        ]
+        "US West (Oregon)": "0.0000500000",
+        "US East (Ohio)": "0.0000500000",
+        "US East (N. Virginia)": "0.0000500000",
+        "South America (Sao Paulo)": "0.0000500000",
+        "EU (Stockholm)": "0.0000475000",
+        "EU (Spain)": "0.0000500000",
+        "EU (London)": "0.0000500000",
+        "EU (Ireland)": "0.0000500000",
+        "EU (Frankfurt)": "0.0000500000",
+        "Canada (Central)": "0.0000500000",
+        "Asia Pacific (Tokyo)": "0.0000500000",
+        "Asia Pacific (Sydney)": "0.0000500000",
+        "Asia Pacific (Singapore)": "0.0000500000",
+        "Asia Pacific (Mumbai)": "0.0000500000",
+        "Asia Pacific (Malaysia)": "0.0000500000",
+        "AWS GovCloud (US)": "0.0000500000"
     },
     "AmazonLocationService Esri RequestBasedUsage Routing Routes calculated per Route": {
-        "Default": [
-            "0.0005000000"
-        ],
-        "US West (Oregon)": [
-            "0.0005000000"
-        ],
-        "US East (Ohio)": [
-            "0.0005000000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0005000000"
-        ],
-        "South America (Sao Paulo)": [
-            "0.0005000000"
-        ],
-        "EU (Stockholm)": [
-            "0.0004750000"
-        ],
-        "EU (Spain)": [
-            "0.0005000000"
-        ],
-        "EU (London)": [
-            "0.0005000000"
-        ],
-        "EU (Ireland)": [
-            "0.0005000000"
-        ],
-        "EU (Frankfurt)": [
-            "0.0005000000"
-        ],
-        "Canada (Central)": [
-            "0.0005000000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.0005000000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.0005000000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.0005000000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.0005000000"
-        ],
-        "Asia Pacific (Malaysia)": [
-            "0.0005000000"
-        ],
-        "AWS GovCloud (US)": [
-            "0.0005000000"
-        ]
+        "US West (Oregon)": "0.0005000000",
+        "US East (Ohio)": "0.0005000000",
+        "US East (N. Virginia)": "0.0005000000",
+        "South America (Sao Paulo)": "0.0005000000",
+        "EU (Stockholm)": "0.0004750000",
+        "EU (Spain)": "0.0005000000",
+        "EU (London)": "0.0005000000",
+        "EU (Ireland)": "0.0005000000",
+        "EU (Frankfurt)": "0.0005000000",
+        "Canada (Central)": "0.0005000000",
+        "Asia Pacific (Tokyo)": "0.0005000000",
+        "Asia Pacific (Sydney)": "0.0005000000",
+        "Asia Pacific (Singapore)": "0.0005000000",
+        "Asia Pacific (Mumbai)": "0.0005000000",
+        "Asia Pacific (Malaysia)": "0.0005000000",
+        "AWS GovCloud (US)": "0.0005000000"
     },
     "AmazonLocationService 2000000 25000000 None RequestBasedUsage Geofencing Positions evaluated per Position": {
-        "Default": [
-            "0.0000700000"
-        ],
-        "US West (Oregon)": [
-            "0.0000700000"
-        ],
-        "US East (Ohio)": [
-            "0.0000700000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0000700000"
-        ],
-        "South America (Sao Paulo)": [
-            "0.0000700000"
-        ],
-        "EU (Stockholm)": [
-            "0.0000700000"
-        ],
-        "EU (Spain)": [
-            "0.0000700000"
-        ],
-        "EU (London)": [
-            "0.0000700000"
-        ],
-        "EU (Ireland)": [
-            "0.0000700000"
-        ],
-        "EU (Frankfurt)": [
-            "0.0000700000"
-        ],
-        "Canada (Central)": [
-            "0.0000700000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.0000700000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.0000700000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.0000700000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.0000700000"
-        ],
-        "Asia Pacific (Malaysia)": [
-            "0.0000700000"
-        ],
-        "AWS GovCloud (US)": [
-            "0.0000700000"
-        ]
+        "US West (Oregon)": "0.0000700000",
+        "US East (Ohio)": "0.0000700000",
+        "US East (N. Virginia)": "0.0000700000",
+        "South America (Sao Paulo)": "0.0000700000",
+        "EU (Stockholm)": "0.0000700000",
+        "EU (Spain)": "0.0000700000",
+        "EU (London)": "0.0000700000",
+        "EU (Ireland)": "0.0000700000",
+        "EU (Frankfurt)": "0.0000700000",
+        "Canada (Central)": "0.0000700000",
+        "Asia Pacific (Tokyo)": "0.0000700000",
+        "Asia Pacific (Sydney)": "0.0000700000",
+        "Asia Pacific (Singapore)": "0.0000700000",
+        "Asia Pacific (Mumbai)": "0.0000700000",
+        "Asia Pacific (Malaysia)": "0.0000700000",
+        "AWS GovCloud (US)": "0.0000700000"
     },
     "AmazonLocationService 0 Inf HERE RequestBasedUsage Places Positions reverse-geocoded per Position": {
-        "Default": [
-            "0.0005000000"
-        ],
-        "US West (Oregon)": [
-            "0.0005000000"
-        ],
-        "US East (Ohio)": [
-            "0.0005000000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0005000000"
-        ],
-        "South America (Sao Paulo)": [
-            "0.0005000000"
-        ],
-        "EU (Stockholm)": [
-            "0.0004750000"
-        ],
-        "EU (Spain)": [
-            "0.0005000000"
-        ],
-        "EU (London)": [
-            "0.0005000000"
-        ],
-        "EU (Ireland)": [
-            "0.0005000000"
-        ],
-        "EU (Frankfurt)": [
-            "0.0005000000"
-        ],
-        "Canada (Central)": [
-            "0.0005000000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.0005000000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.0005000000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.0005000000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.0005000000"
-        ],
-        "Asia Pacific (Malaysia)": [
-            "0.0005000000"
-        ],
-        "AWS GovCloud (US)": [
-            "0.0005000000"
-        ]
+        "US West (Oregon)": "0.0005000000",
+        "US East (Ohio)": "0.0005000000",
+        "US East (N. Virginia)": "0.0005000000",
+        "South America (Sao Paulo)": "0.0005000000",
+        "EU (Stockholm)": "0.0004750000",
+        "EU (Spain)": "0.0005000000",
+        "EU (London)": "0.0005000000",
+        "EU (Ireland)": "0.0005000000",
+        "EU (Frankfurt)": "0.0005000000",
+        "Canada (Central)": "0.0005000000",
+        "Asia Pacific (Tokyo)": "0.0005000000",
+        "Asia Pacific (Sydney)": "0.0005000000",
+        "Asia Pacific (Singapore)": "0.0005000000",
+        "Asia Pacific (Mumbai)": "0.0005000000",
+        "Asia Pacific (Malaysia)": "0.0005000000",
+        "AWS GovCloud (US)": "0.0005000000"
     },
     "AmazonLocationService None None Places Addresses Suggested per API Request": {
-        "Default": [
-            "0.0002000000"
-        ],
-        "US West (Oregon)": [
-            "0.0002000000"
-        ],
-        "US East (Ohio)": [
-            "0.0002000000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0002000000"
-        ],
-        "South America (Sao Paulo)": [
-            "0.0002000000"
-        ],
-        "EU (Stockholm)": [
-            "0.0001900000"
-        ],
-        "EU (Spain)": [
-            "0.0002000000"
-        ],
-        "EU (London)": [
-            "0.0002000000"
-        ],
-        "EU (Ireland)": [
-            "0.0002000000"
-        ],
-        "EU (Frankfurt)": [
-            "0.0002000000"
-        ],
-        "Canada (Central)": [
-            "0.0002000000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.0002000000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.0002000000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.0002000000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.0002000000"
-        ],
-        "Asia Pacific (Malaysia)": [
-            "0.0002000000"
-        ],
-        "AWS GovCloud (US)": [
-            "0.0002000000"
-        ]
+        "US West (Oregon)": "0.0002000000",
+        "US East (Ohio)": "0.0002000000",
+        "US East (N. Virginia)": "0.0002000000",
+        "South America (Sao Paulo)": "0.0002000000",
+        "EU (Stockholm)": "0.0001900000",
+        "EU (Spain)": "0.0002000000",
+        "EU (London)": "0.0002000000",
+        "EU (Ireland)": "0.0002000000",
+        "EU (Frankfurt)": "0.0002000000",
+        "Canada (Central)": "0.0002000000",
+        "Asia Pacific (Tokyo)": "0.0002000000",
+        "Asia Pacific (Sydney)": "0.0002000000",
+        "Asia Pacific (Singapore)": "0.0002000000",
+        "Asia Pacific (Mumbai)": "0.0002000000",
+        "Asia Pacific (Malaysia)": "0.0002000000",
+        "AWS GovCloud (US)": "0.0002000000"
     },
     "AmazonLocationService None None Service Resources Resource list requests per API Request": {
-        "Default": [
-            "0.0000100000"
-        ],
-        "US West (Oregon)": [
-            "0.0000100000"
-        ],
-        "US East (Ohio)": [
-            "0.0000100000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0000100000"
-        ],
-        "South America (Sao Paulo)": [
-            "0.0000100000"
-        ],
-        "EU (Stockholm)": [
-            "0.0000095000"
-        ],
-        "EU (Spain)": [
-            "0.0000100000"
-        ],
-        "EU (London)": [
-            "0.0000100000"
-        ],
-        "EU (Ireland)": [
-            "0.0000100000"
-        ],
-        "EU (Frankfurt)": [
-            "0.0000100000"
-        ],
-        "Canada (Central)": [
-            "0.0000100000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.0000100000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.0000100000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.0000100000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.0000100000"
-        ],
-        "Asia Pacific (Malaysia)": [
-            "0.0000100000"
-        ],
-        "AWS GovCloud (US)": [
-            "0.0000100000"
-        ]
+        "US West (Oregon)": "0.0000100000",
+        "US East (Ohio)": "0.0000100000",
+        "US East (N. Virginia)": "0.0000100000",
+        "South America (Sao Paulo)": "0.0000100000",
+        "EU (Stockholm)": "0.0000095000",
+        "EU (Spain)": "0.0000100000",
+        "EU (London)": "0.0000100000",
+        "EU (Ireland)": "0.0000100000",
+        "EU (Frankfurt)": "0.0000100000",
+        "Canada (Central)": "0.0000100000",
+        "Asia Pacific (Tokyo)": "0.0000100000",
+        "Asia Pacific (Sydney)": "0.0000100000",
+        "Asia Pacific (Singapore)": "0.0000100000",
+        "Asia Pacific (Mumbai)": "0.0000100000",
+        "Asia Pacific (Malaysia)": "0.0000100000",
+        "AWS GovCloud (US)": "0.0000100000"
     },
     "AmazonLocationService HERE MobileAssetManagement All Asset per provider per month per Devices": {
-        "Default": [
-            "15.0000000000"
-        ],
-        "US West (Oregon)": [
-            "15.0000000000"
-        ],
-        "US East (Ohio)": [
-            "15.0000000000"
-        ],
-        "US East (N. Virginia)": [
-            "15.0000000000"
-        ],
-        "South America (Sao Paulo)": [
-            "15.0000000000"
-        ],
-        "EU (Stockholm)": [
-            "14.2500000000"
-        ],
-        "EU (Spain)": [
-            "15.0000000000"
-        ],
-        "EU (London)": [
-            "15.0000000000"
-        ],
-        "EU (Ireland)": [
-            "15.0000000000"
-        ],
-        "EU (Frankfurt)": [
-            "15.0000000000"
-        ],
-        "Canada (Central)": [
-            "15.0000000000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "15.0000000000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "15.0000000000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "15.0000000000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "15.0000000000"
-        ],
-        "Asia Pacific (Malaysia)": [
-            "15.0000000000"
-        ],
-        "AWS GovCloud (US)": [
-            "15.0000000000"
-        ]
+        "US West (Oregon)": "15.0000000000",
+        "US East (Ohio)": "15.0000000000",
+        "US East (N. Virginia)": "15.0000000000",
+        "South America (Sao Paulo)": "15.0000000000",
+        "EU (Stockholm)": "14.2500000000",
+        "EU (Spain)": "15.0000000000",
+        "EU (London)": "15.0000000000",
+        "EU (Ireland)": "15.0000000000",
+        "EU (Frankfurt)": "15.0000000000",
+        "Canada (Central)": "15.0000000000",
+        "Asia Pacific (Tokyo)": "15.0000000000",
+        "Asia Pacific (Sydney)": "15.0000000000",
+        "Asia Pacific (Singapore)": "15.0000000000",
+        "Asia Pacific (Mumbai)": "15.0000000000",
+        "Asia Pacific (Malaysia)": "15.0000000000",
+        "AWS GovCloud (US)": "15.0000000000"
     },
     "AmazonLocationService HERE MobileAssetManagement All Additional transactions per Transaction": {
-        "Default": [
-            "0.0000600000"
-        ],
-        "US West (Oregon)": [
-            "0.0000600000"
-        ],
-        "US East (Ohio)": [
-            "0.0000600000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0000600000"
-        ],
-        "South America (Sao Paulo)": [
-            "0.0000600000"
-        ],
-        "EU (Stockholm)": [
-            "0.0000570000"
-        ],
-        "EU (Spain)": [
-            "0.0000600000"
-        ],
-        "EU (London)": [
-            "0.0000600000"
-        ],
-        "EU (Ireland)": [
-            "0.0000600000"
-        ],
-        "EU (Frankfurt)": [
-            "0.0000600000"
-        ],
-        "Canada (Central)": [
-            "0.0000600000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.0000600000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.0000600000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.0000600000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.0000600000"
-        ],
-        "Asia Pacific (Malaysia)": [
-            "0.0000600000"
-        ],
-        "AWS GovCloud (US)": [
-            "0.0000600000"
-        ]
+        "US West (Oregon)": "0.0000600000",
+        "US East (Ohio)": "0.0000600000",
+        "US East (N. Virginia)": "0.0000600000",
+        "South America (Sao Paulo)": "0.0000600000",
+        "EU (Stockholm)": "0.0000570000",
+        "EU (Spain)": "0.0000600000",
+        "EU (London)": "0.0000600000",
+        "EU (Ireland)": "0.0000600000",
+        "EU (Frankfurt)": "0.0000600000",
+        "Canada (Central)": "0.0000600000",
+        "Asia Pacific (Tokyo)": "0.0000600000",
+        "Asia Pacific (Sydney)": "0.0000600000",
+        "Asia Pacific (Singapore)": "0.0000600000",
+        "Asia Pacific (Mumbai)": "0.0000600000",
+        "Asia Pacific (Malaysia)": "0.0000600000",
+        "AWS GovCloud (US)": "0.0000600000"
     },
     "AmazonLocationService 0 Inf None RequestBasedUsage Geofencing Geofence event forecast requested per Position": {
-        "Default": [
-            "0.0017500000"
-        ],
-        "US West (Oregon)": [
-            "0.0017500000"
-        ],
-        "US East (Ohio)": [
-            "0.0017500000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0017500000"
-        ],
-        "South America (Sao Paulo)": [
-            "0.0017500000"
-        ],
-        "EU (Stockholm)": [
-            "0.0017500000"
-        ],
-        "EU (Spain)": [
-            "0.0017500000"
-        ],
-        "EU (London)": [
-            "0.0017500000"
-        ],
-        "EU (Ireland)": [
-            "0.0017500000"
-        ],
-        "EU (Frankfurt)": [
-            "0.0017500000"
-        ],
-        "Canada (Central)": [
-            "0.0017500000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.0017500000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.0017500000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.0017500000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.0017500000"
-        ],
-        "Asia Pacific (Malaysia)": [
-            "0.0017500000"
-        ],
-        "Any": [
-            "0.0017500000"
-        ],
-        "AWS GovCloud (US)": [
-            "0.0017500000"
-        ]
+        "US West (Oregon)": "0.0017500000",
+        "US East (Ohio)": "0.0017500000",
+        "US East (N. Virginia)": "0.0017500000",
+        "South America (Sao Paulo)": "0.0017500000",
+        "EU (Stockholm)": "0.0017500000",
+        "EU (Spain)": "0.0017500000",
+        "EU (London)": "0.0017500000",
+        "EU (Ireland)": "0.0017500000",
+        "EU (Frankfurt)": "0.0017500000",
+        "Canada (Central)": "0.0017500000",
+        "Asia Pacific (Tokyo)": "0.0017500000",
+        "Asia Pacific (Sydney)": "0.0017500000",
+        "Asia Pacific (Singapore)": "0.0017500000",
+        "Asia Pacific (Mumbai)": "0.0017500000",
+        "Asia Pacific (Malaysia)": "0.0017500000",
+        "Any": "0.0017500000",
+        "AWS GovCloud (US)": "0.0017500000"
     },
     "AmazonLocationService None RequestBasedUsage Geofencing Geofence-months per Geofence-month": {
-        "Default": [
-            "0.0002000000"
-        ],
-        "US West (Oregon)": [
-            "0.0002000000"
-        ],
-        "US East (Ohio)": [
-            "0.0002000000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0002000000"
-        ],
-        "South America (Sao Paulo)": [
-            "0.0002000000"
-        ],
-        "EU (Stockholm)": [
-            "0.0001900000"
-        ],
-        "EU (Spain)": [
-            "0.0002000000"
-        ],
-        "EU (London)": [
-            "0.0002000000"
-        ],
-        "EU (Ireland)": [
-            "0.0002000000"
-        ],
-        "EU (Frankfurt)": [
-            "0.0002000000"
-        ],
-        "Canada (Central)": [
-            "0.0002000000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.0002000000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.0002000000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.0002000000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.0002000000"
-        ],
-        "Asia Pacific (Malaysia)": [
-            "0.0002000000"
-        ],
-        "AWS GovCloud (US)": [
-            "0.0002000000"
-        ]
+        "US West (Oregon)": "0.0002000000",
+        "US East (Ohio)": "0.0002000000",
+        "US East (N. Virginia)": "0.0002000000",
+        "South America (Sao Paulo)": "0.0002000000",
+        "EU (Stockholm)": "0.0001900000",
+        "EU (Spain)": "0.0002000000",
+        "EU (London)": "0.0002000000",
+        "EU (Ireland)": "0.0002000000",
+        "EU (Frankfurt)": "0.0002000000",
+        "Canada (Central)": "0.0002000000",
+        "Asia Pacific (Tokyo)": "0.0002000000",
+        "Asia Pacific (Sydney)": "0.0002000000",
+        "Asia Pacific (Singapore)": "0.0002000000",
+        "Asia Pacific (Mumbai)": "0.0002000000",
+        "Asia Pacific (Malaysia)": "0.0002000000",
+        "AWS GovCloud (US)": "0.0002000000"
     },
     "AmazonLocationService HERE RequestBasedUsage Maps Map tiles retrieved vector or raster per Map Tile": {
-        "Default": [
-            "0.0000400000"
-        ],
-        "US West (Oregon)": [
-            "0.0000400000"
-        ],
-        "US East (Ohio)": [
-            "0.0000400000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0000400000"
-        ],
-        "South America (Sao Paulo)": [
-            "0.0000400000"
-        ],
-        "EU (Stockholm)": [
-            "0.0000380000"
-        ],
-        "EU (Spain)": [
-            "0.0000400000"
-        ],
-        "EU (London)": [
-            "0.0000400000"
-        ],
-        "EU (Ireland)": [
-            "0.0000400000"
-        ],
-        "EU (Frankfurt)": [
-            "0.0000400000"
-        ],
-        "Canada (Central)": [
-            "0.0000400000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.0000400000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.0000400000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.0000400000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.0000400000"
-        ],
-        "Asia Pacific (Malaysia)": [
-            "0.0000400000"
-        ],
-        "AWS GovCloud (US)": [
-            "0.0000400000"
-        ]
+        "US West (Oregon)": "0.0000400000",
+        "US East (Ohio)": "0.0000400000",
+        "US East (N. Virginia)": "0.0000400000",
+        "South America (Sao Paulo)": "0.0000400000",
+        "EU (Stockholm)": "0.0000380000",
+        "EU (Spain)": "0.0000400000",
+        "EU (London)": "0.0000400000",
+        "EU (Ireland)": "0.0000400000",
+        "EU (Frankfurt)": "0.0000400000",
+        "Canada (Central)": "0.0000400000",
+        "Asia Pacific (Tokyo)": "0.0000400000",
+        "Asia Pacific (Sydney)": "0.0000400000",
+        "Asia Pacific (Singapore)": "0.0000400000",
+        "Asia Pacific (Mumbai)": "0.0000400000",
+        "Asia Pacific (Malaysia)": "0.0000400000",
+        "AWS GovCloud (US)": "0.0000400000"
     },
     "AmazonLocationService 0 Inf None None Tracking Position integrity evaluated per Position": {
-        "Default": [
-            "0.0010000000"
-        ],
-        "US West (Oregon)": [
-            "0.0010000000"
-        ],
-        "US East (Ohio)": [
-            "0.0010000000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0010000000"
-        ],
-        "South America (Sao Paulo)": [
-            "0.0010000000"
-        ],
-        "EU (Stockholm)": [
-            "0.0010000000"
-        ],
-        "EU (Spain)": [
-            "0.0010000000"
-        ],
-        "EU (London)": [
-            "0.0010000000"
-        ],
-        "EU (Ireland)": [
-            "0.0010000000"
-        ],
-        "EU (Frankfurt)": [
-            "0.0010000000"
-        ],
-        "Canada (Central)": [
-            "0.0010000000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.0010000000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.0010000000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.0010000000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.0010000000"
-        ],
-        "Asia Pacific (Malaysia)": [
-            "0.0010000000"
-        ],
-        "AWS GovCloud (US)": [
-            "0.0010000000"
-        ]
+        "US West (Oregon)": "0.0010000000",
+        "US East (Ohio)": "0.0010000000",
+        "US East (N. Virginia)": "0.0010000000",
+        "South America (Sao Paulo)": "0.0010000000",
+        "EU (Stockholm)": "0.0010000000",
+        "EU (Spain)": "0.0010000000",
+        "EU (London)": "0.0010000000",
+        "EU (Ireland)": "0.0010000000",
+        "EU (Frankfurt)": "0.0010000000",
+        "Canada (Central)": "0.0010000000",
+        "Asia Pacific (Tokyo)": "0.0010000000",
+        "Asia Pacific (Sydney)": "0.0010000000",
+        "Asia Pacific (Singapore)": "0.0010000000",
+        "Asia Pacific (Mumbai)": "0.0010000000",
+        "Asia Pacific (Malaysia)": "0.0010000000",
+        "AWS GovCloud (US)": "0.0010000000"
     },
     "AmazonLocationService Grab RequestBasedUsage Service Resources Resource create read update delete per API Request": {
-        "Default": [
-            "0.0000100000"
-        ],
-        "US West (Oregon)": [
-            "0.0000100000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0000100000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.0000100000"
-        ],
-        "Asia Pacific (Malaysia)": [
-            "0.0000100000"
-        ],
-        "AWS GovCloud (US)": [
-            "0.0000100000"
-        ]
+        "US West (Oregon)": "0.0000100000",
+        "US East (N. Virginia)": "0.0000100000",
+        "Asia Pacific (Singapore)": "0.0000100000",
+        "Asia Pacific (Malaysia)": "0.0000100000",
+        "AWS GovCloud (US)": "0.0000100000"
     },
     "AmazonLocationService Esri RequestBasedUsage Service Resources Resources created read updated or deleted per API Request": {
-        "Default": [
-            "0.0000100000"
-        ],
-        "US West (Oregon)": [
-            "0.0000100000"
-        ],
-        "US East (Ohio)": [
-            "0.0000100000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0000100000"
-        ],
-        "South America (Sao Paulo)": [
-            "0.0000100000"
-        ],
-        "EU (Stockholm)": [
-            "0.0000095000"
-        ],
-        "EU (Spain)": [
-            "0.0000100000"
-        ],
-        "EU (London)": [
-            "0.0000100000"
-        ],
-        "EU (Ireland)": [
-            "0.0000100000"
-        ],
-        "EU (Frankfurt)": [
-            "0.0000100000"
-        ],
-        "Canada (Central)": [
-            "0.0000100000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.0000100000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.0000100000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.0000100000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.0000100000"
-        ],
-        "Asia Pacific (Malaysia)": [
-            "0.0000100000"
-        ],
-        "AWS GovCloud (US)": [
-            "0.0000100000"
-        ]
+        "US West (Oregon)": "0.0000100000",
+        "US East (Ohio)": "0.0000100000",
+        "US East (N. Virginia)": "0.0000100000",
+        "South America (Sao Paulo)": "0.0000100000",
+        "EU (Stockholm)": "0.0000095000",
+        "EU (Spain)": "0.0000100000",
+        "EU (London)": "0.0000100000",
+        "EU (Ireland)": "0.0000100000",
+        "EU (Frankfurt)": "0.0000100000",
+        "Canada (Central)": "0.0000100000",
+        "Asia Pacific (Tokyo)": "0.0000100000",
+        "Asia Pacific (Sydney)": "0.0000100000",
+        "Asia Pacific (Singapore)": "0.0000100000",
+        "Asia Pacific (Mumbai)": "0.0000100000",
+        "Asia Pacific (Malaysia)": "0.0000100000",
+        "AWS GovCloud (US)": "0.0000100000"
     },
     "AmazonLocationService None RequestBasedUsage Geofencing Geofences created deleted or described per Geofence": {
-        "Default": [
-            "0.0000500000"
-        ],
-        "US West (Oregon)": [
-            "0.0000500000"
-        ],
-        "US East (Ohio)": [
-            "0.0000500000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0000500000"
-        ],
-        "South America (Sao Paulo)": [
-            "0.0000500000"
-        ],
-        "EU (Stockholm)": [
-            "0.0000475000"
-        ],
-        "EU (Spain)": [
-            "0.0000500000"
-        ],
-        "EU (London)": [
-            "0.0000500000"
-        ],
-        "EU (Ireland)": [
-            "0.0000500000"
-        ],
-        "EU (Frankfurt)": [
-            "0.0000500000"
-        ],
-        "Canada (Central)": [
-            "0.0000500000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.0000500000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.0000500000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.0000500000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.0000500000"
-        ],
-        "Asia Pacific (Malaysia)": [
-            "0.0000500000"
-        ],
-        "AWS GovCloud (US)": [
-            "0.0000500000"
-        ]
+        "US West (Oregon)": "0.0000500000",
+        "US East (Ohio)": "0.0000500000",
+        "US East (N. Virginia)": "0.0000500000",
+        "South America (Sao Paulo)": "0.0000500000",
+        "EU (Stockholm)": "0.0000475000",
+        "EU (Spain)": "0.0000500000",
+        "EU (London)": "0.0000500000",
+        "EU (Ireland)": "0.0000500000",
+        "EU (Frankfurt)": "0.0000500000",
+        "Canada (Central)": "0.0000500000",
+        "Asia Pacific (Tokyo)": "0.0000500000",
+        "Asia Pacific (Sydney)": "0.0000500000",
+        "Asia Pacific (Singapore)": "0.0000500000",
+        "Asia Pacific (Mumbai)": "0.0000500000",
+        "Asia Pacific (Malaysia)": "0.0000500000",
+        "AWS GovCloud (US)": "0.0000500000"
     },
     "AmazonLocationService None None Routing Routes calculated per Route": {
-        "Default": [
-            "0.0005000000"
-        ],
-        "US West (Oregon)": [
-            "0.0005000000"
-        ],
-        "US East (Ohio)": [
-            "0.0005000000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0005000000"
-        ],
-        "South America (Sao Paulo)": [
-            "0.0005000000"
-        ],
-        "EU (Stockholm)": [
-            "0.0004750000"
-        ],
-        "EU (Spain)": [
-            "0.0005000000"
-        ],
-        "EU (London)": [
-            "0.0005000000"
-        ],
-        "EU (Ireland)": [
-            "0.0005000000"
-        ],
-        "EU (Frankfurt)": [
-            "0.0005000000"
-        ],
-        "Canada (Central)": [
-            "0.0005000000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.0005000000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.0005000000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.0005000000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.0005000000"
-        ],
-        "Asia Pacific (Malaysia)": [
-            "0.0005000000"
-        ],
-        "AWS GovCloud (US)": [
-            "0.0005000000"
-        ]
+        "US West (Oregon)": "0.0005000000",
+        "US East (Ohio)": "0.0005000000",
+        "US East (N. Virginia)": "0.0005000000",
+        "South America (Sao Paulo)": "0.0005000000",
+        "EU (Stockholm)": "0.0004750000",
+        "EU (Spain)": "0.0005000000",
+        "EU (London)": "0.0005000000",
+        "EU (Ireland)": "0.0005000000",
+        "EU (Frankfurt)": "0.0005000000",
+        "Canada (Central)": "0.0005000000",
+        "Asia Pacific (Tokyo)": "0.0005000000",
+        "Asia Pacific (Sydney)": "0.0005000000",
+        "Asia Pacific (Singapore)": "0.0005000000",
+        "Asia Pacific (Mumbai)": "0.0005000000",
+        "Asia Pacific (Malaysia)": "0.0005000000",
+        "AWS GovCloud (US)": "0.0005000000"
     },
     "AmazonLocationService Esri RequestBasedUsage Places Addresses geocoded per Address": {
-        "Default": [
-            "0.0005000000"
-        ],
-        "US West (Oregon)": [
-            "0.0005000000"
-        ],
-        "US East (Ohio)": [
-            "0.0005000000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0005000000"
-        ],
-        "South America (Sao Paulo)": [
-            "0.0005000000"
-        ],
-        "EU (Stockholm)": [
-            "0.0004750000"
-        ],
-        "EU (Spain)": [
-            "0.0005000000"
-        ],
-        "EU (London)": [
-            "0.0005000000"
-        ],
-        "EU (Ireland)": [
-            "0.0005000000"
-        ],
-        "EU (Frankfurt)": [
-            "0.0005000000"
-        ],
-        "Canada (Central)": [
-            "0.0005000000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.0005000000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.0005000000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.0005000000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.0005000000"
-        ],
-        "Asia Pacific (Malaysia)": [
-            "0.0005000000"
-        ],
-        "AWS GovCloud (US)": [
-            "0.0005000000"
-        ]
+        "US West (Oregon)": "0.0005000000",
+        "US East (Ohio)": "0.0005000000",
+        "US East (N. Virginia)": "0.0005000000",
+        "South America (Sao Paulo)": "0.0005000000",
+        "EU (Stockholm)": "0.0004750000",
+        "EU (Spain)": "0.0005000000",
+        "EU (London)": "0.0005000000",
+        "EU (Ireland)": "0.0005000000",
+        "EU (Frankfurt)": "0.0005000000",
+        "Canada (Central)": "0.0005000000",
+        "Asia Pacific (Tokyo)": "0.0005000000",
+        "Asia Pacific (Sydney)": "0.0005000000",
+        "Asia Pacific (Singapore)": "0.0005000000",
+        "Asia Pacific (Mumbai)": "0.0005000000",
+        "Asia Pacific (Malaysia)": "0.0005000000",
+        "AWS GovCloud (US)": "0.0005000000"
     },
     "AmazonLocationService HERE RequestBasedUsage Places Addresses Suggested per API Request": {
-        "Default": [
-            "0.0002000000"
-        ],
-        "US West (Oregon)": [
-            "0.0002000000"
-        ],
-        "US East (Ohio)": [
-            "0.0002000000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0002000000"
-        ],
-        "South America (Sao Paulo)": [
-            "0.0002000000"
-        ],
-        "EU (Stockholm)": [
-            "0.0001900000"
-        ],
-        "EU (Spain)": [
-            "0.0002000000"
-        ],
-        "EU (London)": [
-            "0.0002000000"
-        ],
-        "EU (Ireland)": [
-            "0.0002000000"
-        ],
-        "EU (Frankfurt)": [
-            "0.0002000000"
-        ],
-        "Canada (Central)": [
-            "0.0002000000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.0002000000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.0002000000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.0002000000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.0002000000"
-        ],
-        "Asia Pacific (Malaysia)": [
-            "0.0002000000"
-        ],
-        "AWS GovCloud (US)": [
-            "0.0002000000"
-        ]
+        "US West (Oregon)": "0.0002000000",
+        "US East (Ohio)": "0.0002000000",
+        "US East (N. Virginia)": "0.0002000000",
+        "South America (Sao Paulo)": "0.0002000000",
+        "EU (Stockholm)": "0.0001900000",
+        "EU (Spain)": "0.0002000000",
+        "EU (London)": "0.0002000000",
+        "EU (Ireland)": "0.0002000000",
+        "EU (Frankfurt)": "0.0002000000",
+        "Canada (Central)": "0.0002000000",
+        "Asia Pacific (Tokyo)": "0.0002000000",
+        "Asia Pacific (Sydney)": "0.0002000000",
+        "Asia Pacific (Singapore)": "0.0002000000",
+        "Asia Pacific (Mumbai)": "0.0002000000",
+        "Asia Pacific (Malaysia)": "0.0002000000",
+        "AWS GovCloud (US)": "0.0002000000"
     },
     "AmazonLocationService Grab RequestBasedUsage Places Addresses geocoded stored results per Address": {
-        "Default": [
-            "0.0040000000"
-        ],
-        "US West (Oregon)": [
-            "0.0040000000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0040000000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.0040000000"
-        ],
-        "Asia Pacific (Malaysia)": [
-            "0.0040000000"
-        ],
-        "AWS GovCloud (US)": [
-            "0.0040000000"
-        ]
+        "US West (Oregon)": "0.0040000000",
+        "US East (N. Virginia)": "0.0040000000",
+        "Asia Pacific (Singapore)": "0.0040000000",
+        "Asia Pacific (Malaysia)": "0.0040000000",
+        "AWS GovCloud (US)": "0.0040000000"
     },
     "AmazonLocationService 500000 5000000 None None Tracking Positions written per Position": {
-        "Default": [
-            "0.0000350000"
-        ],
-        "US West (Oregon)": [
-            "0.0000350000"
-        ],
-        "US East (Ohio)": [
-            "0.0000350000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0000350000"
-        ],
-        "South America (Sao Paulo)": [
-            "0.0000350000"
-        ],
-        "EU (Stockholm)": [
-            "0.0000350000"
-        ],
-        "EU (Spain)": [
-            "0.0000350000"
-        ],
-        "EU (London)": [
-            "0.0000350000"
-        ],
-        "EU (Ireland)": [
-            "0.0000350000"
-        ],
-        "EU (Frankfurt)": [
-            "0.0000350000"
-        ],
-        "Canada (Central)": [
-            "0.0000350000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.0000350000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.0000350000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.0000350000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.0000350000"
-        ],
-        "Asia Pacific (Malaysia)": [
-            "0.0000350000"
-        ],
-        "AWS GovCloud (US)": [
-            "0.0000350000"
-        ]
+        "US West (Oregon)": "0.0000350000",
+        "US East (Ohio)": "0.0000350000",
+        "US East (N. Virginia)": "0.0000350000",
+        "South America (Sao Paulo)": "0.0000350000",
+        "EU (Stockholm)": "0.0000350000",
+        "EU (Spain)": "0.0000350000",
+        "EU (London)": "0.0000350000",
+        "EU (Ireland)": "0.0000350000",
+        "EU (Frankfurt)": "0.0000350000",
+        "Canada (Central)": "0.0000350000",
+        "Asia Pacific (Tokyo)": "0.0000350000",
+        "Asia Pacific (Sydney)": "0.0000350000",
+        "Asia Pacific (Singapore)": "0.0000350000",
+        "Asia Pacific (Mumbai)": "0.0000350000",
+        "Asia Pacific (Malaysia)": "0.0000350000",
+        "AWS GovCloud (US)": "0.0000350000"
     },
     "AmazonLocationService 0 500000 None RequestBasedUsage Tracking Positions written per Position": {
-        "Default": [
-            "0.0000500000"
-        ],
-        "US West (Oregon)": [
-            "0.0000500000"
-        ],
-        "US East (Ohio)": [
-            "0.0000500000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0000500000"
-        ],
-        "South America (Sao Paulo)": [
-            "0.0000500000"
-        ],
-        "EU (Stockholm)": [
-            "0.0000475000"
-        ],
-        "EU (Spain)": [
-            "0.0000500000"
-        ],
-        "EU (London)": [
-            "0.0000500000"
-        ],
-        "EU (Ireland)": [
-            "0.0000500000"
-        ],
-        "EU (Frankfurt)": [
-            "0.0000500000"
-        ],
-        "Canada (Central)": [
-            "0.0000500000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.0000500000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.0000500000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.0000500000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.0000500000"
-        ],
-        "Asia Pacific (Malaysia)": [
-            "0.0000500000"
-        ],
-        "AWS GovCloud (US)": [
-            "0.0000500000"
-        ]
+        "US West (Oregon)": "0.0000500000",
+        "US East (Ohio)": "0.0000500000",
+        "US East (N. Virginia)": "0.0000500000",
+        "South America (Sao Paulo)": "0.0000500000",
+        "EU (Stockholm)": "0.0000475000",
+        "EU (Spain)": "0.0000500000",
+        "EU (London)": "0.0000500000",
+        "EU (Ireland)": "0.0000500000",
+        "EU (Frankfurt)": "0.0000500000",
+        "Canada (Central)": "0.0000500000",
+        "Asia Pacific (Tokyo)": "0.0000500000",
+        "Asia Pacific (Sydney)": "0.0000500000",
+        "Asia Pacific (Singapore)": "0.0000500000",
+        "Asia Pacific (Mumbai)": "0.0000500000",
+        "Asia Pacific (Malaysia)": "0.0000500000",
+        "AWS GovCloud (US)": "0.0000500000"
     },
     "AmazonLocationService 5000000 50000000 None RequestBasedUsage Tracking Positions written per Position": {
-        "Default": [
-            "0.0000250000"
-        ],
-        "US West (Oregon)": [
-            "0.0000250000"
-        ],
-        "US East (Ohio)": [
-            "0.0000250000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0000250000"
-        ],
-        "South America (Sao Paulo)": [
-            "0.0000250000"
-        ],
-        "EU (Stockholm)": [
-            "0.0000250000"
-        ],
-        "EU (Spain)": [
-            "0.0000250000"
-        ],
-        "EU (London)": [
-            "0.0000250000"
-        ],
-        "EU (Ireland)": [
-            "0.0000250000"
-        ],
-        "EU (Frankfurt)": [
-            "0.0000250000"
-        ],
-        "Canada (Central)": [
-            "0.0000250000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.0000250000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.0000250000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.0000250000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.0000250000"
-        ],
-        "Asia Pacific (Malaysia)": [
-            "0.0000250000"
-        ],
-        "AWS GovCloud (US)": [
-            "0.0000250000"
-        ]
+        "US West (Oregon)": "0.0000250000",
+        "US East (Ohio)": "0.0000250000",
+        "US East (N. Virginia)": "0.0000250000",
+        "South America (Sao Paulo)": "0.0000250000",
+        "EU (Stockholm)": "0.0000250000",
+        "EU (Spain)": "0.0000250000",
+        "EU (London)": "0.0000250000",
+        "EU (Ireland)": "0.0000250000",
+        "EU (Frankfurt)": "0.0000250000",
+        "Canada (Central)": "0.0000250000",
+        "Asia Pacific (Tokyo)": "0.0000250000",
+        "Asia Pacific (Sydney)": "0.0000250000",
+        "Asia Pacific (Singapore)": "0.0000250000",
+        "Asia Pacific (Mumbai)": "0.0000250000",
+        "Asia Pacific (Malaysia)": "0.0000250000",
+        "AWS GovCloud (US)": "0.0000250000"
     },
     "AmazonLocationService 0 Inf HERE RequestBasedUsage Places Positions reverse-geocoded stored results per Position": {
-        "Default": [
-            "0.0040000000"
-        ],
-        "US West (Oregon)": [
-            "0.0040000000"
-        ],
-        "US East (Ohio)": [
-            "0.0040000000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0040000000"
-        ],
-        "South America (Sao Paulo)": [
-            "0.0040000000"
-        ],
-        "EU (Stockholm)": [
-            "0.0038000000"
-        ],
-        "EU (Spain)": [
-            "0.0040000000"
-        ],
-        "EU (London)": [
-            "0.0040000000"
-        ],
-        "EU (Ireland)": [
-            "0.0040000000"
-        ],
-        "EU (Frankfurt)": [
-            "0.0040000000"
-        ],
-        "Canada (Central)": [
-            "0.0040000000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.0040000000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.0040000000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.0040000000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.0040000000"
-        ],
-        "Asia Pacific (Malaysia)": [
-            "0.0040000000"
-        ],
-        "AWS GovCloud (US)": [
-            "0.0040000000"
-        ]
+        "US West (Oregon)": "0.0040000000",
+        "US East (Ohio)": "0.0040000000",
+        "US East (N. Virginia)": "0.0040000000",
+        "South America (Sao Paulo)": "0.0040000000",
+        "EU (Stockholm)": "0.0038000000",
+        "EU (Spain)": "0.0040000000",
+        "EU (London)": "0.0040000000",
+        "EU (Ireland)": "0.0040000000",
+        "EU (Frankfurt)": "0.0040000000",
+        "Canada (Central)": "0.0040000000",
+        "Asia Pacific (Tokyo)": "0.0040000000",
+        "Asia Pacific (Sydney)": "0.0040000000",
+        "Asia Pacific (Singapore)": "0.0040000000",
+        "Asia Pacific (Mumbai)": "0.0040000000",
+        "Asia Pacific (Malaysia)": "0.0040000000",
+        "AWS GovCloud (US)": "0.0040000000"
     },
     "AmazonLocationService None RequestBasedUsage Geofencing Geofence list requests per API Request": {
-        "Default": [
-            "0.0000500000"
-        ],
-        "US West (Oregon)": [
-            "0.0000500000"
-        ],
-        "US East (Ohio)": [
-            "0.0000500000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0000500000"
-        ],
-        "South America (Sao Paulo)": [
-            "0.0000500000"
-        ],
-        "EU (Stockholm)": [
-            "0.0000475000"
-        ],
-        "EU (Spain)": [
-            "0.0000500000"
-        ],
-        "EU (London)": [
-            "0.0000500000"
-        ],
-        "EU (Ireland)": [
-            "0.0000500000"
-        ],
-        "EU (Frankfurt)": [
-            "0.0000500000"
-        ],
-        "Canada (Central)": [
-            "0.0000500000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.0000500000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.0000500000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.0000500000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.0000500000"
-        ],
-        "Asia Pacific (Malaysia)": [
-            "0.0000500000"
-        ],
-        "AWS GovCloud (US)": [
-            "0.0000500000"
-        ]
+        "US West (Oregon)": "0.0000500000",
+        "US East (Ohio)": "0.0000500000",
+        "US East (N. Virginia)": "0.0000500000",
+        "South America (Sao Paulo)": "0.0000500000",
+        "EU (Stockholm)": "0.0000475000",
+        "EU (Spain)": "0.0000500000",
+        "EU (London)": "0.0000500000",
+        "EU (Ireland)": "0.0000500000",
+        "EU (Frankfurt)": "0.0000500000",
+        "Canada (Central)": "0.0000500000",
+        "Asia Pacific (Tokyo)": "0.0000500000",
+        "Asia Pacific (Sydney)": "0.0000500000",
+        "Asia Pacific (Singapore)": "0.0000500000",
+        "Asia Pacific (Mumbai)": "0.0000500000",
+        "Asia Pacific (Malaysia)": "0.0000500000",
+        "AWS GovCloud (US)": "0.0000500000"
     },
     "AmazonLocationService 0 Inf Grab RequestBasedUsage Places Positions reverse-geocoded stored results per Position": {
-        "Default": [
-            "0.0040000000"
-        ],
-        "US West (Oregon)": [
-            "0.0040000000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0040000000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.0040000000"
-        ],
-        "Asia Pacific (Malaysia)": [
-            "0.0040000000"
-        ],
-        "AWS GovCloud (US)": [
-            "0.0040000000"
-        ]
+        "US West (Oregon)": "0.0040000000",
+        "US East (N. Virginia)": "0.0040000000",
+        "Asia Pacific (Singapore)": "0.0040000000",
+        "Asia Pacific (Malaysia)": "0.0040000000",
+        "AWS GovCloud (US)": "0.0040000000"
     },
     "AmazonLocationService HERE MobileAssetTracking All Additional transactions per Transaction": {
-        "Default": [
-            "0.0000600000"
-        ],
-        "US West (Oregon)": [
-            "0.0000600000"
-        ],
-        "US East (Ohio)": [
-            "0.0000600000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0000600000"
-        ],
-        "South America (Sao Paulo)": [
-            "0.0000600000"
-        ],
-        "EU (Stockholm)": [
-            "0.0000570000"
-        ],
-        "EU (Spain)": [
-            "0.0000600000"
-        ],
-        "EU (London)": [
-            "0.0000600000"
-        ],
-        "EU (Ireland)": [
-            "0.0000600000"
-        ],
-        "EU (Frankfurt)": [
-            "0.0000600000"
-        ],
-        "Canada (Central)": [
-            "0.0000600000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.0000600000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.0000600000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.0000600000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.0000600000"
-        ],
-        "Asia Pacific (Malaysia)": [
-            "0.0000600000"
-        ],
-        "AWS GovCloud (US)": [
-            "0.0000600000"
-        ]
+        "US West (Oregon)": "0.0000600000",
+        "US East (Ohio)": "0.0000600000",
+        "US East (N. Virginia)": "0.0000600000",
+        "South America (Sao Paulo)": "0.0000600000",
+        "EU (Stockholm)": "0.0000570000",
+        "EU (Spain)": "0.0000600000",
+        "EU (London)": "0.0000600000",
+        "EU (Ireland)": "0.0000600000",
+        "EU (Frankfurt)": "0.0000600000",
+        "Canada (Central)": "0.0000600000",
+        "Asia Pacific (Tokyo)": "0.0000600000",
+        "Asia Pacific (Sydney)": "0.0000600000",
+        "Asia Pacific (Singapore)": "0.0000600000",
+        "Asia Pacific (Mumbai)": "0.0000600000",
+        "Asia Pacific (Malaysia)": "0.0000600000",
+        "AWS GovCloud (US)": "0.0000600000"
     },
     "AmazonLocationService 0 Inf Esri RequestBasedUsage Places Positions reverse-geocoded per Position": {
-        "Default": [
-            "0.0005000000"
-        ],
-        "US West (Oregon)": [
-            "0.0005000000"
-        ],
-        "US East (Ohio)": [
-            "0.0005000000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0005000000"
-        ],
-        "South America (Sao Paulo)": [
-            "0.0005000000"
-        ],
-        "EU (Stockholm)": [
-            "0.0004750000"
-        ],
-        "EU (Spain)": [
-            "0.0005000000"
-        ],
-        "EU (London)": [
-            "0.0005000000"
-        ],
-        "EU (Ireland)": [
-            "0.0005000000"
-        ],
-        "EU (Frankfurt)": [
-            "0.0005000000"
-        ],
-        "Canada (Central)": [
-            "0.0005000000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.0005000000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.0005000000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.0005000000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.0005000000"
-        ],
-        "Asia Pacific (Malaysia)": [
-            "0.0005000000"
-        ],
-        "AWS GovCloud (US)": [
-            "0.0005000000"
-        ]
+        "US West (Oregon)": "0.0005000000",
+        "US East (Ohio)": "0.0005000000",
+        "US East (N. Virginia)": "0.0005000000",
+        "South America (Sao Paulo)": "0.0005000000",
+        "EU (Stockholm)": "0.0004750000",
+        "EU (Spain)": "0.0005000000",
+        "EU (London)": "0.0005000000",
+        "EU (Ireland)": "0.0005000000",
+        "EU (Frankfurt)": "0.0005000000",
+        "Canada (Central)": "0.0005000000",
+        "Asia Pacific (Tokyo)": "0.0005000000",
+        "Asia Pacific (Sydney)": "0.0005000000",
+        "Asia Pacific (Singapore)": "0.0005000000",
+        "Asia Pacific (Mumbai)": "0.0005000000",
+        "Asia Pacific (Malaysia)": "0.0005000000",
+        "AWS GovCloud (US)": "0.0005000000"
     },
     "AmazonLocationService None None Geofencing Geofences created deleted or described per Geofence": {
-        "Default": [
-            "0.0000500000"
-        ],
-        "US West (Oregon)": [
-            "0.0000500000"
-        ],
-        "US East (Ohio)": [
-            "0.0000500000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0000500000"
-        ],
-        "South America (Sao Paulo)": [
-            "0.0000500000"
-        ],
-        "EU (Stockholm)": [
-            "0.0000475000"
-        ],
-        "EU (Spain)": [
-            "0.0000500000"
-        ],
-        "EU (London)": [
-            "0.0000500000"
-        ],
-        "EU (Ireland)": [
-            "0.0000500000"
-        ],
-        "EU (Frankfurt)": [
-            "0.0000500000"
-        ],
-        "Canada (Central)": [
-            "0.0000500000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.0000500000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.0000500000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.0000500000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.0000500000"
-        ],
-        "Asia Pacific (Malaysia)": [
-            "0.0000500000"
-        ],
-        "AWS GovCloud (US)": [
-            "0.0000500000"
-        ]
+        "US West (Oregon)": "0.0000500000",
+        "US East (Ohio)": "0.0000500000",
+        "US East (N. Virginia)": "0.0000500000",
+        "South America (Sao Paulo)": "0.0000500000",
+        "EU (Stockholm)": "0.0000475000",
+        "EU (Spain)": "0.0000500000",
+        "EU (London)": "0.0000500000",
+        "EU (Ireland)": "0.0000500000",
+        "EU (Frankfurt)": "0.0000500000",
+        "Canada (Central)": "0.0000500000",
+        "Asia Pacific (Tokyo)": "0.0000500000",
+        "Asia Pacific (Sydney)": "0.0000500000",
+        "Asia Pacific (Singapore)": "0.0000500000",
+        "Asia Pacific (Mumbai)": "0.0000500000",
+        "Asia Pacific (Malaysia)": "0.0000500000",
+        "AWS GovCloud (US)": "0.0000500000"
     },
     "AmazonLocationService Esri RequestBasedUsage Places Addresses geocoded stored results per Address": {
-        "Default": [
-            "0.0040000000"
-        ],
-        "US West (Oregon)": [
-            "0.0040000000"
-        ],
-        "US East (Ohio)": [
-            "0.0040000000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0040000000"
-        ],
-        "South America (Sao Paulo)": [
-            "0.0040000000"
-        ],
-        "EU (Stockholm)": [
-            "0.0038000000"
-        ],
-        "EU (Spain)": [
-            "0.0040000000"
-        ],
-        "EU (London)": [
-            "0.0040000000"
-        ],
-        "EU (Ireland)": [
-            "0.0040000000"
-        ],
-        "EU (Frankfurt)": [
-            "0.0040000000"
-        ],
-        "Canada (Central)": [
-            "0.0040000000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.0040000000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.0040000000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.0040000000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.0040000000"
-        ],
-        "Asia Pacific (Malaysia)": [
-            "0.0040000000"
-        ],
-        "AWS GovCloud (US)": [
-            "0.0040000000"
-        ]
+        "US West (Oregon)": "0.0040000000",
+        "US East (Ohio)": "0.0040000000",
+        "US East (N. Virginia)": "0.0040000000",
+        "South America (Sao Paulo)": "0.0040000000",
+        "EU (Stockholm)": "0.0038000000",
+        "EU (Spain)": "0.0040000000",
+        "EU (London)": "0.0040000000",
+        "EU (Ireland)": "0.0040000000",
+        "EU (Frankfurt)": "0.0040000000",
+        "Canada (Central)": "0.0040000000",
+        "Asia Pacific (Tokyo)": "0.0040000000",
+        "Asia Pacific (Sydney)": "0.0040000000",
+        "Asia Pacific (Singapore)": "0.0040000000",
+        "Asia Pacific (Mumbai)": "0.0040000000",
+        "Asia Pacific (Malaysia)": "0.0040000000",
+        "AWS GovCloud (US)": "0.0040000000"
     },
     "AmazonLocationService None RequestBasedUsage Service Resources Resources created read updated or deleted per API Request": {
-        "Default": [
-            "0.0000100000"
-        ],
-        "US West (Oregon)": [
-            "0.0000100000"
-        ],
-        "US East (Ohio)": [
-            "0.0000100000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0000100000"
-        ],
-        "South America (Sao Paulo)": [
-            "0.0000100000"
-        ],
-        "EU (Stockholm)": [
-            "0.0000095000"
-        ],
-        "EU (Spain)": [
-            "0.0000100000"
-        ],
-        "EU (London)": [
-            "0.0000100000"
-        ],
-        "EU (Ireland)": [
-            "0.0000100000"
-        ],
-        "EU (Frankfurt)": [
-            "0.0000100000"
-        ],
-        "Canada (Central)": [
-            "0.0000100000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.0000100000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.0000100000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.0000100000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.0000100000"
-        ],
-        "Asia Pacific (Malaysia)": [
-            "0.0000100000"
-        ],
-        "AWS GovCloud (US)": [
-            "0.0000100000"
-        ]
+        "US West (Oregon)": "0.0000100000",
+        "US East (Ohio)": "0.0000100000",
+        "US East (N. Virginia)": "0.0000100000",
+        "South America (Sao Paulo)": "0.0000100000",
+        "EU (Stockholm)": "0.0000095000",
+        "EU (Spain)": "0.0000100000",
+        "EU (London)": "0.0000100000",
+        "EU (Ireland)": "0.0000100000",
+        "EU (Frankfurt)": "0.0000100000",
+        "Canada (Central)": "0.0000100000",
+        "Asia Pacific (Tokyo)": "0.0000100000",
+        "Asia Pacific (Sydney)": "0.0000100000",
+        "Asia Pacific (Singapore)": "0.0000100000",
+        "Asia Pacific (Mumbai)": "0.0000100000",
+        "Asia Pacific (Malaysia)": "0.0000100000",
+        "AWS GovCloud (US)": "0.0000100000"
     },
     "AmazonLocationService 0 250000 None RequestBasedUsage Geofencing Positions evaluated per Position": {
-        "Default": [
-            "0.0001600000"
-        ],
-        "US West (Oregon)": [
-            "0.0001600000"
-        ],
-        "US East (Ohio)": [
-            "0.0001600000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0001600000"
-        ],
-        "South America (Sao Paulo)": [
-            "0.0001600000"
-        ],
-        "EU (Stockholm)": [
-            "0.0001600000"
-        ],
-        "EU (Spain)": [
-            "0.0001600000"
-        ],
-        "EU (London)": [
-            "0.0001600000"
-        ],
-        "EU (Ireland)": [
-            "0.0001600000"
-        ],
-        "EU (Frankfurt)": [
-            "0.0001600000"
-        ],
-        "Canada (Central)": [
-            "0.0001600000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.0001600000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.0001600000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.0001600000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.0001600000"
-        ],
-        "Asia Pacific (Malaysia)": [
-            "0.0001600000"
-        ],
-        "AWS GovCloud (US)": [
-            "0.0001600000"
-        ]
+        "US West (Oregon)": "0.0001600000",
+        "US East (Ohio)": "0.0001600000",
+        "US East (N. Virginia)": "0.0001600000",
+        "South America (Sao Paulo)": "0.0001600000",
+        "EU (Stockholm)": "0.0001600000",
+        "EU (Spain)": "0.0001600000",
+        "EU (London)": "0.0001600000",
+        "EU (Ireland)": "0.0001600000",
+        "EU (Frankfurt)": "0.0001600000",
+        "Canada (Central)": "0.0001600000",
+        "Asia Pacific (Tokyo)": "0.0001600000",
+        "Asia Pacific (Sydney)": "0.0001600000",
+        "Asia Pacific (Singapore)": "0.0001600000",
+        "Asia Pacific (Mumbai)": "0.0001600000",
+        "Asia Pacific (Malaysia)": "0.0001600000",
+        "AWS GovCloud (US)": "0.0001600000"
     },
     "AmazonLocationService Esri MobileAssetManagement All Additional transactions per Transaction": {
-        "Default": [
-            "0.0000600000"
-        ],
-        "US West (Oregon)": [
-            "0.0000600000"
-        ],
-        "US East (Ohio)": [
-            "0.0000600000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0000600000"
-        ],
-        "South America (Sao Paulo)": [
-            "0.0000600000"
-        ],
-        "EU (Stockholm)": [
-            "0.0000570000"
-        ],
-        "EU (Spain)": [
-            "0.0000600000"
-        ],
-        "EU (London)": [
-            "0.0000600000"
-        ],
-        "EU (Ireland)": [
-            "0.0000600000"
-        ],
-        "EU (Frankfurt)": [
-            "0.0000600000"
-        ],
-        "Canada (Central)": [
-            "0.0000600000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.0000600000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.0000600000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.0000600000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.0000600000"
-        ],
-        "Asia Pacific (Malaysia)": [
-            "0.0000600000"
-        ],
-        "AWS GovCloud (US)": [
-            "0.0000600000"
-        ]
+        "US West (Oregon)": "0.0000600000",
+        "US East (Ohio)": "0.0000600000",
+        "US East (N. Virginia)": "0.0000600000",
+        "South America (Sao Paulo)": "0.0000600000",
+        "EU (Stockholm)": "0.0000570000",
+        "EU (Spain)": "0.0000600000",
+        "EU (London)": "0.0000600000",
+        "EU (Ireland)": "0.0000600000",
+        "EU (Frankfurt)": "0.0000600000",
+        "Canada (Central)": "0.0000600000",
+        "Asia Pacific (Tokyo)": "0.0000600000",
+        "Asia Pacific (Sydney)": "0.0000600000",
+        "Asia Pacific (Singapore)": "0.0000600000",
+        "Asia Pacific (Mumbai)": "0.0000600000",
+        "Asia Pacific (Malaysia)": "0.0000600000",
+        "AWS GovCloud (US)": "0.0000600000"
     },
     "AmazonLocationService 50000000 Inf None None Tracking Positions written per Position": {
-        "Default": [
-            "0.0000125000"
-        ],
-        "US West (Oregon)": [
-            "0.0000125000"
-        ],
-        "US East (Ohio)": [
-            "0.0000125000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0000125000"
-        ],
-        "South America (Sao Paulo)": [
-            "0.0000125000"
-        ],
-        "EU (Stockholm)": [
-            "0.0000125000"
-        ],
-        "EU (Spain)": [
-            "0.0000125000"
-        ],
-        "EU (London)": [
-            "0.0000125000"
-        ],
-        "EU (Ireland)": [
-            "0.0000125000"
-        ],
-        "EU (Frankfurt)": [
-            "0.0000125000"
-        ],
-        "Canada (Central)": [
-            "0.0000125000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.0000125000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.0000125000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.0000125000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.0000125000"
-        ],
-        "Asia Pacific (Malaysia)": [
-            "0.0000125000"
-        ],
-        "AWS GovCloud (US)": [
-            "0.0000125000"
-        ]
+        "US West (Oregon)": "0.0000125000",
+        "US East (Ohio)": "0.0000125000",
+        "US East (N. Virginia)": "0.0000125000",
+        "South America (Sao Paulo)": "0.0000125000",
+        "EU (Stockholm)": "0.0000125000",
+        "EU (Spain)": "0.0000125000",
+        "EU (London)": "0.0000125000",
+        "EU (Ireland)": "0.0000125000",
+        "EU (Frankfurt)": "0.0000125000",
+        "Canada (Central)": "0.0000125000",
+        "Asia Pacific (Tokyo)": "0.0000125000",
+        "Asia Pacific (Sydney)": "0.0000125000",
+        "Asia Pacific (Singapore)": "0.0000125000",
+        "Asia Pacific (Mumbai)": "0.0000125000",
+        "Asia Pacific (Malaysia)": "0.0000125000",
+        "AWS GovCloud (US)": "0.0000125000"
     },
     "AmazonLocationService Esri MobileAssetTracking All Asset per provider per month per Devices": {
-        "Default": [
-            "1.5000000000"
-        ],
-        "US West (Oregon)": [
-            "1.5000000000"
-        ],
-        "US East (Ohio)": [
-            "1.5000000000"
-        ],
-        "US East (N. Virginia)": [
-            "1.5000000000"
-        ],
-        "South America (Sao Paulo)": [
-            "1.5000000000"
-        ],
-        "EU (Stockholm)": [
-            "1.4250000000"
-        ],
-        "EU (Spain)": [
-            "1.5000000000"
-        ],
-        "EU (London)": [
-            "1.5000000000"
-        ],
-        "EU (Ireland)": [
-            "1.5000000000"
-        ],
-        "EU (Frankfurt)": [
-            "1.5000000000"
-        ],
-        "Canada (Central)": [
-            "1.5000000000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "1.5000000000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "1.5000000000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "1.5000000000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "1.5000000000"
-        ],
-        "Asia Pacific (Malaysia)": [
-            "1.5000000000"
-        ],
-        "AWS GovCloud (US)": [
-            "1.5000000000"
-        ]
+        "US West (Oregon)": "1.5000000000",
+        "US East (Ohio)": "1.5000000000",
+        "US East (N. Virginia)": "1.5000000000",
+        "South America (Sao Paulo)": "1.5000000000",
+        "EU (Stockholm)": "1.4250000000",
+        "EU (Spain)": "1.5000000000",
+        "EU (London)": "1.5000000000",
+        "EU (Ireland)": "1.5000000000",
+        "EU (Frankfurt)": "1.5000000000",
+        "Canada (Central)": "1.5000000000",
+        "Asia Pacific (Tokyo)": "1.5000000000",
+        "Asia Pacific (Sydney)": "1.5000000000",
+        "Asia Pacific (Singapore)": "1.5000000000",
+        "Asia Pacific (Mumbai)": "1.5000000000",
+        "Asia Pacific (Malaysia)": "1.5000000000",
+        "AWS GovCloud (US)": "1.5000000000"
     },
     "AmazonLocationService None None Places Addresses geocoded stored results per Address": {
-        "Default": [
-            "0.0040000000"
-        ],
-        "US West (Oregon)": [
-            "0.0040000000"
-        ],
-        "US East (Ohio)": [
-            "0.0040000000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0040000000"
-        ],
-        "South America (Sao Paulo)": [
-            "0.0040000000"
-        ],
-        "EU (Stockholm)": [
-            "0.0038000000"
-        ],
-        "EU (Spain)": [
-            "0.0040000000"
-        ],
-        "EU (London)": [
-            "0.0040000000"
-        ],
-        "EU (Ireland)": [
-            "0.0040000000"
-        ],
-        "EU (Frankfurt)": [
-            "0.0040000000"
-        ],
-        "Canada (Central)": [
-            "0.0040000000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.0040000000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.0040000000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.0040000000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.0040000000"
-        ],
-        "Asia Pacific (Malaysia)": [
-            "0.0040000000"
-        ],
-        "AWS GovCloud (US)": [
-            "0.0040000000"
-        ]
+        "US West (Oregon)": "0.0040000000",
+        "US East (Ohio)": "0.0040000000",
+        "US East (N. Virginia)": "0.0040000000",
+        "South America (Sao Paulo)": "0.0040000000",
+        "EU (Stockholm)": "0.0038000000",
+        "EU (Spain)": "0.0040000000",
+        "EU (London)": "0.0040000000",
+        "EU (Ireland)": "0.0040000000",
+        "EU (Frankfurt)": "0.0040000000",
+        "Canada (Central)": "0.0040000000",
+        "Asia Pacific (Tokyo)": "0.0040000000",
+        "Asia Pacific (Sydney)": "0.0040000000",
+        "Asia Pacific (Singapore)": "0.0040000000",
+        "Asia Pacific (Mumbai)": "0.0040000000",
+        "Asia Pacific (Malaysia)": "0.0040000000",
+        "AWS GovCloud (US)": "0.0040000000"
     },
     "AmazonLocationService OpenData RequestBasedUsage Service Resources Resources created read updated or deleted per API Request": {
-        "Default": [
-            "0.0000100000"
-        ],
-        "US West (Oregon)": [
-            "0.0000100000"
-        ],
-        "US East (Ohio)": [
-            "0.0000100000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0000100000"
-        ],
-        "South America (Sao Paulo)": [
-            "0.0000100000"
-        ],
-        "EU (Stockholm)": [
-            "0.0000095000"
-        ],
-        "EU (Spain)": [
-            "0.0000100000"
-        ],
-        "EU (London)": [
-            "0.0000100000"
-        ],
-        "EU (Ireland)": [
-            "0.0000100000"
-        ],
-        "EU (Frankfurt)": [
-            "0.0000100000"
-        ],
-        "Canada (Central)": [
-            "0.0000100000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.0000100000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.0000100000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.0000100000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.0000100000"
-        ],
-        "Asia Pacific (Malaysia)": [
-            "0.0000100000"
-        ],
-        "AWS GovCloud (US)": [
-            "0.0000100000"
-        ]
+        "US West (Oregon)": "0.0000100000",
+        "US East (Ohio)": "0.0000100000",
+        "US East (N. Virginia)": "0.0000100000",
+        "South America (Sao Paulo)": "0.0000100000",
+        "EU (Stockholm)": "0.0000095000",
+        "EU (Spain)": "0.0000100000",
+        "EU (London)": "0.0000100000",
+        "EU (Ireland)": "0.0000100000",
+        "EU (Frankfurt)": "0.0000100000",
+        "Canada (Central)": "0.0000100000",
+        "Asia Pacific (Tokyo)": "0.0000100000",
+        "Asia Pacific (Sydney)": "0.0000100000",
+        "Asia Pacific (Singapore)": "0.0000100000",
+        "Asia Pacific (Mumbai)": "0.0000100000",
+        "Asia Pacific (Malaysia)": "0.0000100000",
+        "AWS GovCloud (US)": "0.0000100000"
     },
     "AmazonLocationService None None Tracking Devices deleted per Devices": {
-        "Default": [
-            "0.0000500000"
-        ],
-        "US West (Oregon)": [
-            "0.0000500000"
-        ],
-        "US East (Ohio)": [
-            "0.0000500000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0000500000"
-        ],
-        "South America (Sao Paulo)": [
-            "0.0000500000"
-        ],
-        "EU (Stockholm)": [
-            "0.0000475000"
-        ],
-        "EU (Spain)": [
-            "0.0000500000"
-        ],
-        "EU (London)": [
-            "0.0000500000"
-        ],
-        "EU (Ireland)": [
-            "0.0000500000"
-        ],
-        "EU (Frankfurt)": [
-            "0.0000500000"
-        ],
-        "Canada (Central)": [
-            "0.0000500000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.0000500000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.0000500000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.0000500000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.0000500000"
-        ],
-        "Asia Pacific (Malaysia)": [
-            "0.0000500000"
-        ],
-        "AWS GovCloud (US)": [
-            "0.0000500000"
-        ]
+        "US West (Oregon)": "0.0000500000",
+        "US East (Ohio)": "0.0000500000",
+        "US East (N. Virginia)": "0.0000500000",
+        "South America (Sao Paulo)": "0.0000500000",
+        "EU (Stockholm)": "0.0000475000",
+        "EU (Spain)": "0.0000500000",
+        "EU (London)": "0.0000500000",
+        "EU (Ireland)": "0.0000500000",
+        "EU (Frankfurt)": "0.0000500000",
+        "Canada (Central)": "0.0000500000",
+        "Asia Pacific (Tokyo)": "0.0000500000",
+        "Asia Pacific (Sydney)": "0.0000500000",
+        "Asia Pacific (Singapore)": "0.0000500000",
+        "Asia Pacific (Mumbai)": "0.0000500000",
+        "Asia Pacific (Malaysia)": "0.0000500000",
+        "AWS GovCloud (US)": "0.0000500000"
     },
     "AmazonLocationService None None Geofencing Geofence-months per Geofence-month": {
-        "Default": [
-            "0.0002000000"
-        ],
-        "US West (Oregon)": [
-            "0.0002000000"
-        ],
-        "US East (Ohio)": [
-            "0.0002000000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0002000000"
-        ],
-        "South America (Sao Paulo)": [
-            "0.0002000000"
-        ],
-        "EU (Stockholm)": [
-            "0.0001900000"
-        ],
-        "EU (Spain)": [
-            "0.0002000000"
-        ],
-        "EU (London)": [
-            "0.0002000000"
-        ],
-        "EU (Ireland)": [
-            "0.0002000000"
-        ],
-        "EU (Frankfurt)": [
-            "0.0002000000"
-        ],
-        "Canada (Central)": [
-            "0.0002000000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.0002000000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.0002000000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.0002000000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.0002000000"
-        ],
-        "Asia Pacific (Malaysia)": [
-            "0.0002000000"
-        ],
-        "AWS GovCloud (US)": [
-            "0.0002000000"
-        ]
+        "US West (Oregon)": "0.0002000000",
+        "US East (Ohio)": "0.0002000000",
+        "US East (N. Virginia)": "0.0002000000",
+        "South America (Sao Paulo)": "0.0002000000",
+        "EU (Stockholm)": "0.0001900000",
+        "EU (Spain)": "0.0002000000",
+        "EU (London)": "0.0002000000",
+        "EU (Ireland)": "0.0002000000",
+        "EU (Frankfurt)": "0.0002000000",
+        "Canada (Central)": "0.0002000000",
+        "Asia Pacific (Tokyo)": "0.0002000000",
+        "Asia Pacific (Sydney)": "0.0002000000",
+        "Asia Pacific (Singapore)": "0.0002000000",
+        "Asia Pacific (Mumbai)": "0.0002000000",
+        "Asia Pacific (Malaysia)": "0.0002000000",
+        "AWS GovCloud (US)": "0.0002000000"
     },
     "AmazonLocationService Grab RequestBasedUsage Places Addresses geocoded per Address": {
-        "Default": [
-            "0.0005000000"
-        ],
-        "US West (Oregon)": [
-            "0.0005000000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0005000000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.0005000000"
-        ],
-        "Asia Pacific (Malaysia)": [
-            "0.0005000000"
-        ],
-        "AWS GovCloud (US)": [
-            "0.0005000000"
-        ]
+        "US West (Oregon)": "0.0005000000",
+        "US East (N. Virginia)": "0.0005000000",
+        "Asia Pacific (Singapore)": "0.0005000000",
+        "Asia Pacific (Malaysia)": "0.0005000000",
+        "AWS GovCloud (US)": "0.0005000000"
     },
     "AmazonLocationService 50000000 Inf None RequestBasedUsage Tracking Positions written per Position": {
-        "Default": [
-            "0.0000125000"
-        ],
-        "US West (Oregon)": [
-            "0.0000125000"
-        ],
-        "US East (Ohio)": [
-            "0.0000125000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0000125000"
-        ],
-        "South America (Sao Paulo)": [
-            "0.0000125000"
-        ],
-        "EU (Stockholm)": [
-            "0.0000125000"
-        ],
-        "EU (Spain)": [
-            "0.0000125000"
-        ],
-        "EU (London)": [
-            "0.0000125000"
-        ],
-        "EU (Ireland)": [
-            "0.0000125000"
-        ],
-        "EU (Frankfurt)": [
-            "0.0000125000"
-        ],
-        "Canada (Central)": [
-            "0.0000125000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.0000125000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.0000125000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.0000125000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.0000125000"
-        ],
-        "Asia Pacific (Malaysia)": [
-            "0.0000125000"
-        ],
-        "AWS GovCloud (US)": [
-            "0.0000125000"
-        ]
+        "US West (Oregon)": "0.0000125000",
+        "US East (Ohio)": "0.0000125000",
+        "US East (N. Virginia)": "0.0000125000",
+        "South America (Sao Paulo)": "0.0000125000",
+        "EU (Stockholm)": "0.0000125000",
+        "EU (Spain)": "0.0000125000",
+        "EU (London)": "0.0000125000",
+        "EU (Ireland)": "0.0000125000",
+        "EU (Frankfurt)": "0.0000125000",
+        "Canada (Central)": "0.0000125000",
+        "Asia Pacific (Tokyo)": "0.0000125000",
+        "Asia Pacific (Sydney)": "0.0000125000",
+        "Asia Pacific (Singapore)": "0.0000125000",
+        "Asia Pacific (Mumbai)": "0.0000125000",
+        "Asia Pacific (Malaysia)": "0.0000125000",
+        "AWS GovCloud (US)": "0.0000125000"
     },
     "AmazonLocationService None RequestBasedUsage Tracking Devices deleted per Devices": {
-        "Default": [
-            "0.0000500000"
-        ],
-        "US West (Oregon)": [
-            "0.0000500000"
-        ],
-        "US East (Ohio)": [
-            "0.0000500000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0000500000"
-        ],
-        "South America (Sao Paulo)": [
-            "0.0000500000"
-        ],
-        "EU (Stockholm)": [
-            "0.0000475000"
-        ],
-        "EU (Spain)": [
-            "0.0000500000"
-        ],
-        "EU (London)": [
-            "0.0000500000"
-        ],
-        "EU (Ireland)": [
-            "0.0000500000"
-        ],
-        "EU (Frankfurt)": [
-            "0.0000500000"
-        ],
-        "Canada (Central)": [
-            "0.0000500000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.0000500000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.0000500000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.0000500000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.0000500000"
-        ],
-        "Asia Pacific (Malaysia)": [
-            "0.0000500000"
-        ],
-        "AWS GovCloud (US)": [
-            "0.0000500000"
-        ]
+        "US West (Oregon)": "0.0000500000",
+        "US East (Ohio)": "0.0000500000",
+        "US East (N. Virginia)": "0.0000500000",
+        "South America (Sao Paulo)": "0.0000500000",
+        "EU (Stockholm)": "0.0000475000",
+        "EU (Spain)": "0.0000500000",
+        "EU (London)": "0.0000500000",
+        "EU (Ireland)": "0.0000500000",
+        "EU (Frankfurt)": "0.0000500000",
+        "Canada (Central)": "0.0000500000",
+        "Asia Pacific (Tokyo)": "0.0000500000",
+        "Asia Pacific (Sydney)": "0.0000500000",
+        "Asia Pacific (Singapore)": "0.0000500000",
+        "Asia Pacific (Mumbai)": "0.0000500000",
+        "Asia Pacific (Malaysia)": "0.0000500000",
+        "AWS GovCloud (US)": "0.0000500000"
     },
     "AmazonLocationService 0 Inf None None Places Positions reverse-geocoded per Position": {
-        "Default": [
-            "0.0005000000"
-        ],
-        "US West (Oregon)": [
-            "0.0005000000"
-        ],
-        "US East (Ohio)": [
-            "0.0005000000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0005000000"
-        ],
-        "South America (Sao Paulo)": [
-            "0.0005000000"
-        ],
-        "EU (Stockholm)": [
-            "0.0004750000"
-        ],
-        "EU (Spain)": [
-            "0.0005000000"
-        ],
-        "EU (London)": [
-            "0.0005000000"
-        ],
-        "EU (Ireland)": [
-            "0.0005000000"
-        ],
-        "EU (Frankfurt)": [
-            "0.0005000000"
-        ],
-        "Canada (Central)": [
-            "0.0005000000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.0005000000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.0005000000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.0005000000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.0005000000"
-        ],
-        "Asia Pacific (Malaysia)": [
-            "0.0005000000"
-        ],
-        "AWS GovCloud (US)": [
-            "0.0005000000"
-        ]
+        "US West (Oregon)": "0.0005000000",
+        "US East (Ohio)": "0.0005000000",
+        "US East (N. Virginia)": "0.0005000000",
+        "South America (Sao Paulo)": "0.0005000000",
+        "EU (Stockholm)": "0.0004750000",
+        "EU (Spain)": "0.0005000000",
+        "EU (London)": "0.0005000000",
+        "EU (Ireland)": "0.0005000000",
+        "EU (Frankfurt)": "0.0005000000",
+        "Canada (Central)": "0.0005000000",
+        "Asia Pacific (Tokyo)": "0.0005000000",
+        "Asia Pacific (Sydney)": "0.0005000000",
+        "Asia Pacific (Singapore)": "0.0005000000",
+        "Asia Pacific (Mumbai)": "0.0005000000",
+        "Asia Pacific (Malaysia)": "0.0005000000",
+        "AWS GovCloud (US)": "0.0005000000"
     },
     "AmazonLocationService 0 500000 None None Tracking Positions written per Position": {
-        "Default": [
-            "0.0000500000"
-        ],
-        "US West (Oregon)": [
-            "0.0000500000"
-        ],
-        "US East (Ohio)": [
-            "0.0000500000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0000500000"
-        ],
-        "South America (Sao Paulo)": [
-            "0.0000500000"
-        ],
-        "EU (Stockholm)": [
-            "0.0000475000"
-        ],
-        "EU (Spain)": [
-            "0.0000500000"
-        ],
-        "EU (London)": [
-            "0.0000500000"
-        ],
-        "EU (Ireland)": [
-            "0.0000500000"
-        ],
-        "EU (Frankfurt)": [
-            "0.0000500000"
-        ],
-        "Canada (Central)": [
-            "0.0000500000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.0000500000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.0000500000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.0000500000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.0000500000"
-        ],
-        "Asia Pacific (Malaysia)": [
-            "0.0000500000"
-        ],
-        "AWS GovCloud (US)": [
-            "0.0000500000"
-        ]
+        "US West (Oregon)": "0.0000500000",
+        "US East (Ohio)": "0.0000500000",
+        "US East (N. Virginia)": "0.0000500000",
+        "South America (Sao Paulo)": "0.0000500000",
+        "EU (Stockholm)": "0.0000475000",
+        "EU (Spain)": "0.0000500000",
+        "EU (London)": "0.0000500000",
+        "EU (Ireland)": "0.0000500000",
+        "EU (Frankfurt)": "0.0000500000",
+        "Canada (Central)": "0.0000500000",
+        "Asia Pacific (Tokyo)": "0.0000500000",
+        "Asia Pacific (Sydney)": "0.0000500000",
+        "Asia Pacific (Singapore)": "0.0000500000",
+        "Asia Pacific (Mumbai)": "0.0000500000",
+        "Asia Pacific (Malaysia)": "0.0000500000",
+        "AWS GovCloud (US)": "0.0000500000"
     },
     "AmazonLocationService 0 Inf Esri RequestBasedUsage Places Positions reverse-geocoded stored results per Position": {
-        "Default": [
-            "0.0040000000"
-        ],
-        "US West (Oregon)": [
-            "0.0040000000"
-        ],
-        "US East (Ohio)": [
-            "0.0040000000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0040000000"
-        ],
-        "South America (Sao Paulo)": [
-            "0.0040000000"
-        ],
-        "EU (Stockholm)": [
-            "0.0038000000"
-        ],
-        "EU (Spain)": [
-            "0.0040000000"
-        ],
-        "EU (London)": [
-            "0.0040000000"
-        ],
-        "EU (Ireland)": [
-            "0.0040000000"
-        ],
-        "EU (Frankfurt)": [
-            "0.0040000000"
-        ],
-        "Canada (Central)": [
-            "0.0040000000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.0040000000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.0040000000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.0040000000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.0040000000"
-        ],
-        "Asia Pacific (Malaysia)": [
-            "0.0040000000"
-        ],
-        "AWS GovCloud (US)": [
-            "0.0040000000"
-        ]
+        "US West (Oregon)": "0.0040000000",
+        "US East (Ohio)": "0.0040000000",
+        "US East (N. Virginia)": "0.0040000000",
+        "South America (Sao Paulo)": "0.0040000000",
+        "EU (Stockholm)": "0.0038000000",
+        "EU (Spain)": "0.0040000000",
+        "EU (London)": "0.0040000000",
+        "EU (Ireland)": "0.0040000000",
+        "EU (Frankfurt)": "0.0040000000",
+        "Canada (Central)": "0.0040000000",
+        "Asia Pacific (Tokyo)": "0.0040000000",
+        "Asia Pacific (Sydney)": "0.0040000000",
+        "Asia Pacific (Singapore)": "0.0040000000",
+        "Asia Pacific (Mumbai)": "0.0040000000",
+        "Asia Pacific (Malaysia)": "0.0040000000",
+        "AWS GovCloud (US)": "0.0040000000"
     },
     "AmazonLocationService Esri RequestBasedUsage Maps Map tiles retrieved vector or raster per Map Tile": {
-        "Default": [
-            "0.0000400000"
-        ],
-        "US West (Oregon)": [
-            "0.0000400000"
-        ],
-        "US East (Ohio)": [
-            "0.0000400000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0000400000"
-        ],
-        "South America (Sao Paulo)": [
-            "0.0000400000"
-        ],
-        "EU (Stockholm)": [
-            "0.0000380000"
-        ],
-        "EU (Spain)": [
-            "0.0000400000"
-        ],
-        "EU (London)": [
-            "0.0000400000"
-        ],
-        "EU (Ireland)": [
-            "0.0000400000"
-        ],
-        "EU (Frankfurt)": [
-            "0.0000400000"
-        ],
-        "Canada (Central)": [
-            "0.0000400000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.0000400000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.0000400000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.0000400000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.0000400000"
-        ],
-        "Asia Pacific (Malaysia)": [
-            "0.0000400000"
-        ],
-        "AWS GovCloud (US)": [
-            "0.0000400000"
-        ]
+        "US West (Oregon)": "0.0000400000",
+        "US East (Ohio)": "0.0000400000",
+        "US East (N. Virginia)": "0.0000400000",
+        "South America (Sao Paulo)": "0.0000400000",
+        "EU (Stockholm)": "0.0000380000",
+        "EU (Spain)": "0.0000400000",
+        "EU (London)": "0.0000400000",
+        "EU (Ireland)": "0.0000400000",
+        "EU (Frankfurt)": "0.0000400000",
+        "Canada (Central)": "0.0000400000",
+        "Asia Pacific (Tokyo)": "0.0000400000",
+        "Asia Pacific (Sydney)": "0.0000400000",
+        "Asia Pacific (Singapore)": "0.0000400000",
+        "Asia Pacific (Mumbai)": "0.0000400000",
+        "Asia Pacific (Malaysia)": "0.0000400000",
+        "AWS GovCloud (US)": "0.0000400000"
     },
     "AmazonLocationService 5000000 50000000 None None Tracking Positions written per Position": {
-        "Default": [
-            "0.0000250000"
-        ],
-        "US West (Oregon)": [
-            "0.0000250000"
-        ],
-        "US East (Ohio)": [
-            "0.0000250000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0000250000"
-        ],
-        "South America (Sao Paulo)": [
-            "0.0000250000"
-        ],
-        "EU (Stockholm)": [
-            "0.0000250000"
-        ],
-        "EU (Spain)": [
-            "0.0000250000"
-        ],
-        "EU (London)": [
-            "0.0000250000"
-        ],
-        "EU (Ireland)": [
-            "0.0000250000"
-        ],
-        "EU (Frankfurt)": [
-            "0.0000250000"
-        ],
-        "Canada (Central)": [
-            "0.0000250000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.0000250000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.0000250000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.0000250000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.0000250000"
-        ],
-        "Asia Pacific (Malaysia)": [
-            "0.0000250000"
-        ],
-        "AWS GovCloud (US)": [
-            "0.0000250000"
-        ]
+        "US West (Oregon)": "0.0000250000",
+        "US East (Ohio)": "0.0000250000",
+        "US East (N. Virginia)": "0.0000250000",
+        "South America (Sao Paulo)": "0.0000250000",
+        "EU (Stockholm)": "0.0000250000",
+        "EU (Spain)": "0.0000250000",
+        "EU (London)": "0.0000250000",
+        "EU (Ireland)": "0.0000250000",
+        "EU (Frankfurt)": "0.0000250000",
+        "Canada (Central)": "0.0000250000",
+        "Asia Pacific (Tokyo)": "0.0000250000",
+        "Asia Pacific (Sydney)": "0.0000250000",
+        "Asia Pacific (Singapore)": "0.0000250000",
+        "Asia Pacific (Mumbai)": "0.0000250000",
+        "Asia Pacific (Malaysia)": "0.0000250000",
+        "AWS GovCloud (US)": "0.0000250000"
     },
     "AmazonLocationService 250000 2000000 None RequestBasedUsage Geofencing Positions evaluated per Position": {
-        "Default": [
-            "0.0001100000"
-        ],
-        "US West (Oregon)": [
-            "0.0001100000"
-        ],
-        "US East (Ohio)": [
-            "0.0001100000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0001100000"
-        ],
-        "South America (Sao Paulo)": [
-            "0.0001100000"
-        ],
-        "EU (Stockholm)": [
-            "0.0001100000"
-        ],
-        "EU (Spain)": [
-            "0.0001100000"
-        ],
-        "EU (London)": [
-            "0.0001100000"
-        ],
-        "EU (Ireland)": [
-            "0.0001100000"
-        ],
-        "EU (Frankfurt)": [
-            "0.0001100000"
-        ],
-        "Canada (Central)": [
-            "0.0001100000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.0001100000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.0001100000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.0001100000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.0001100000"
-        ],
-        "Asia Pacific (Malaysia)": [
-            "0.0001100000"
-        ],
-        "AWS GovCloud (US)": [
-            "0.0001100000"
-        ]
+        "US West (Oregon)": "0.0001100000",
+        "US East (Ohio)": "0.0001100000",
+        "US East (N. Virginia)": "0.0001100000",
+        "South America (Sao Paulo)": "0.0001100000",
+        "EU (Stockholm)": "0.0001100000",
+        "EU (Spain)": "0.0001100000",
+        "EU (London)": "0.0001100000",
+        "EU (Ireland)": "0.0001100000",
+        "EU (Frankfurt)": "0.0001100000",
+        "Canada (Central)": "0.0001100000",
+        "Asia Pacific (Tokyo)": "0.0001100000",
+        "Asia Pacific (Sydney)": "0.0001100000",
+        "Asia Pacific (Singapore)": "0.0001100000",
+        "Asia Pacific (Mumbai)": "0.0001100000",
+        "Asia Pacific (Malaysia)": "0.0001100000",
+        "AWS GovCloud (US)": "0.0001100000"
     },
     "AmazonLocationService None None Tracking Position read requests per API Request": {
-        "Default": [
-            "0.0000500000"
-        ],
-        "US West (Oregon)": [
-            "0.0000500000"
-        ],
-        "US East (Ohio)": [
-            "0.0000500000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0000500000"
-        ],
-        "South America (Sao Paulo)": [
-            "0.0000500000"
-        ],
-        "EU (Stockholm)": [
-            "0.0000475000"
-        ],
-        "EU (Spain)": [
-            "0.0000500000"
-        ],
-        "EU (London)": [
-            "0.0000500000"
-        ],
-        "EU (Ireland)": [
-            "0.0000500000"
-        ],
-        "EU (Frankfurt)": [
-            "0.0000500000"
-        ],
-        "Canada (Central)": [
-            "0.0000500000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.0000500000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.0000500000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.0000500000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.0000500000"
-        ],
-        "Asia Pacific (Malaysia)": [
-            "0.0000500000"
-        ],
-        "AWS GovCloud (US)": [
-            "0.0000500000"
-        ]
+        "US West (Oregon)": "0.0000500000",
+        "US East (Ohio)": "0.0000500000",
+        "US East (N. Virginia)": "0.0000500000",
+        "South America (Sao Paulo)": "0.0000500000",
+        "EU (Stockholm)": "0.0000475000",
+        "EU (Spain)": "0.0000500000",
+        "EU (London)": "0.0000500000",
+        "EU (Ireland)": "0.0000500000",
+        "EU (Frankfurt)": "0.0000500000",
+        "Canada (Central)": "0.0000500000",
+        "Asia Pacific (Tokyo)": "0.0000500000",
+        "Asia Pacific (Sydney)": "0.0000500000",
+        "Asia Pacific (Singapore)": "0.0000500000",
+        "Asia Pacific (Mumbai)": "0.0000500000",
+        "Asia Pacific (Malaysia)": "0.0000500000",
+        "AWS GovCloud (US)": "0.0000500000"
     },
     "AmazonLocationService OpenData RequestBasedUsage Maps Map tiles retrieved vector or raster per Map Tile": {
-        "Default": [
-            "0.0000350000"
-        ],
-        "US West (Oregon)": [
-            "0.0000350000"
-        ],
-        "US East (Ohio)": [
-            "0.0000350000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0000350000"
-        ],
-        "South America (Sao Paulo)": [
-            "0.0000350000"
-        ],
-        "EU (Stockholm)": [
-            "0.0000330000"
-        ],
-        "EU (Spain)": [
-            "0.0000350000"
-        ],
-        "EU (London)": [
-            "0.0000350000"
-        ],
-        "EU (Ireland)": [
-            "0.0000350000"
-        ],
-        "EU (Frankfurt)": [
-            "0.0000350000"
-        ],
-        "Canada (Central)": [
-            "0.0000350000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.0000350000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.0000350000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.0000350000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.0000350000"
-        ],
-        "Asia Pacific (Malaysia)": [
-            "0.0000350000"
-        ],
-        "AWS GovCloud (US)": [
-            "0.0000350000"
-        ]
+        "US West (Oregon)": "0.0000350000",
+        "US East (Ohio)": "0.0000350000",
+        "US East (N. Virginia)": "0.0000350000",
+        "South America (Sao Paulo)": "0.0000350000",
+        "EU (Stockholm)": "0.0000330000",
+        "EU (Spain)": "0.0000350000",
+        "EU (London)": "0.0000350000",
+        "EU (Ireland)": "0.0000350000",
+        "EU (Frankfurt)": "0.0000350000",
+        "Canada (Central)": "0.0000350000",
+        "Asia Pacific (Tokyo)": "0.0000350000",
+        "Asia Pacific (Sydney)": "0.0000350000",
+        "Asia Pacific (Singapore)": "0.0000350000",
+        "Asia Pacific (Mumbai)": "0.0000350000",
+        "Asia Pacific (Malaysia)": "0.0000350000",
+        "AWS GovCloud (US)": "0.0000350000"
     },
     "AmazonLocationService 0 Inf Grab RequestBasedUsage Places Positions reverse-geocoded per Position": {
-        "Default": [
-            "0.0005000000"
-        ],
-        "US West (Oregon)": [
-            "0.0005000000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0005000000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.0005000000"
-        ],
-        "Asia Pacific (Malaysia)": [
-            "0.0005000000"
-        ],
-        "AWS GovCloud (US)": [
-            "0.0005000000"
-        ]
+        "US West (Oregon)": "0.0005000000",
+        "US East (N. Virginia)": "0.0005000000",
+        "Asia Pacific (Singapore)": "0.0005000000",
+        "Asia Pacific (Malaysia)": "0.0005000000",
+        "AWS GovCloud (US)": "0.0005000000"
     },
     "AmazonLocationService Grab RequestBasedUsage Routing Routes calculated per Route": {
-        "Default": [
-            "0.0005000000"
-        ],
-        "US West (Oregon)": [
-            "0.0005000000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0005000000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.0005000000"
-        ],
-        "Asia Pacific (Malaysia)": [
-            "0.0005000000"
-        ],
-        "AWS GovCloud (US)": [
-            "0.0005000000"
-        ]
+        "US West (Oregon)": "0.0005000000",
+        "US East (N. Virginia)": "0.0005000000",
+        "Asia Pacific (Singapore)": "0.0005000000",
+        "Asia Pacific (Malaysia)": "0.0005000000",
+        "AWS GovCloud (US)": "0.0005000000"
     },
     "AmazonLocationService HERE RequestBasedUsage Places Addresses geocoded per Address": {
-        "Default": [
-            "0.0005000000"
-        ],
-        "US West (Oregon)": [
-            "0.0005000000"
-        ],
-        "US East (Ohio)": [
-            "0.0005000000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0005000000"
-        ],
-        "South America (Sao Paulo)": [
-            "0.0005000000"
-        ],
-        "EU (Stockholm)": [
-            "0.0004750000"
-        ],
-        "EU (Spain)": [
-            "0.0005000000"
-        ],
-        "EU (London)": [
-            "0.0005000000"
-        ],
-        "EU (Ireland)": [
-            "0.0005000000"
-        ],
-        "EU (Frankfurt)": [
-            "0.0005000000"
-        ],
-        "Canada (Central)": [
-            "0.0005000000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.0005000000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.0005000000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.0005000000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.0005000000"
-        ],
-        "Asia Pacific (Malaysia)": [
-            "0.0005000000"
-        ],
-        "AWS GovCloud (US)": [
-            "0.0005000000"
-        ]
+        "US West (Oregon)": "0.0005000000",
+        "US East (Ohio)": "0.0005000000",
+        "US East (N. Virginia)": "0.0005000000",
+        "South America (Sao Paulo)": "0.0005000000",
+        "EU (Stockholm)": "0.0004750000",
+        "EU (Spain)": "0.0005000000",
+        "EU (London)": "0.0005000000",
+        "EU (Ireland)": "0.0005000000",
+        "EU (Frankfurt)": "0.0005000000",
+        "Canada (Central)": "0.0005000000",
+        "Asia Pacific (Tokyo)": "0.0005000000",
+        "Asia Pacific (Sydney)": "0.0005000000",
+        "Asia Pacific (Singapore)": "0.0005000000",
+        "Asia Pacific (Mumbai)": "0.0005000000",
+        "Asia Pacific (Malaysia)": "0.0005000000",
+        "AWS GovCloud (US)": "0.0005000000"
     },
     "AmazonLocationService HERE RequestBasedUsage Service Resources Resources created read updated or deleted per API Request": {
-        "Default": [
-            "0.0000100000"
-        ],
-        "US West (Oregon)": [
-            "0.0000100000"
-        ],
-        "US East (Ohio)": [
-            "0.0000100000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0000100000"
-        ],
-        "South America (Sao Paulo)": [
-            "0.0000100000"
-        ],
-        "EU (Stockholm)": [
-            "0.0000095000"
-        ],
-        "EU (Spain)": [
-            "0.0000100000"
-        ],
-        "EU (London)": [
-            "0.0000100000"
-        ],
-        "EU (Ireland)": [
-            "0.0000100000"
-        ],
-        "EU (Frankfurt)": [
-            "0.0000100000"
-        ],
-        "Canada (Central)": [
-            "0.0000100000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.0000100000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.0000100000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.0000100000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.0000100000"
-        ],
-        "Asia Pacific (Malaysia)": [
-            "0.0000100000"
-        ],
-        "AWS GovCloud (US)": [
-            "0.0000100000"
-        ]
+        "US West (Oregon)": "0.0000100000",
+        "US East (Ohio)": "0.0000100000",
+        "US East (N. Virginia)": "0.0000100000",
+        "South America (Sao Paulo)": "0.0000100000",
+        "EU (Stockholm)": "0.0000095000",
+        "EU (Spain)": "0.0000100000",
+        "EU (London)": "0.0000100000",
+        "EU (Ireland)": "0.0000100000",
+        "EU (Frankfurt)": "0.0000100000",
+        "Canada (Central)": "0.0000100000",
+        "Asia Pacific (Tokyo)": "0.0000100000",
+        "Asia Pacific (Sydney)": "0.0000100000",
+        "Asia Pacific (Singapore)": "0.0000100000",
+        "Asia Pacific (Mumbai)": "0.0000100000",
+        "Asia Pacific (Malaysia)": "0.0000100000",
+        "AWS GovCloud (US)": "0.0000100000"
     },
     "AmazonLocationService Esri RequestBasedUsage Places Addresses Suggested per API Request": {
-        "Default": [
-            "0.0002000000"
-        ],
-        "US West (Oregon)": [
-            "0.0002000000"
-        ],
-        "US East (Ohio)": [
-            "0.0002000000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0002000000"
-        ],
-        "South America (Sao Paulo)": [
-            "0.0002000000"
-        ],
-        "EU (Stockholm)": [
-            "0.0001900000"
-        ],
-        "EU (Spain)": [
-            "0.0002000000"
-        ],
-        "EU (London)": [
-            "0.0002000000"
-        ],
-        "EU (Ireland)": [
-            "0.0002000000"
-        ],
-        "EU (Frankfurt)": [
-            "0.0002000000"
-        ],
-        "Canada (Central)": [
-            "0.0002000000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.0002000000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.0002000000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.0002000000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.0002000000"
-        ],
-        "Asia Pacific (Malaysia)": [
-            "0.0002000000"
-        ],
-        "AWS GovCloud (US)": [
-            "0.0002000000"
-        ]
+        "US West (Oregon)": "0.0002000000",
+        "US East (Ohio)": "0.0002000000",
+        "US East (N. Virginia)": "0.0002000000",
+        "South America (Sao Paulo)": "0.0002000000",
+        "EU (Stockholm)": "0.0001900000",
+        "EU (Spain)": "0.0002000000",
+        "EU (London)": "0.0002000000",
+        "EU (Ireland)": "0.0002000000",
+        "EU (Frankfurt)": "0.0002000000",
+        "Canada (Central)": "0.0002000000",
+        "Asia Pacific (Tokyo)": "0.0002000000",
+        "Asia Pacific (Sydney)": "0.0002000000",
+        "Asia Pacific (Singapore)": "0.0002000000",
+        "Asia Pacific (Mumbai)": "0.0002000000",
+        "Asia Pacific (Malaysia)": "0.0002000000",
+        "AWS GovCloud (US)": "0.0002000000"
     },
     "AmazonLocationService 500000 5000000 None RequestBasedUsage Tracking Positions written per Position": {
-        "Default": [
-            "0.0000350000"
-        ],
-        "US West (Oregon)": [
-            "0.0000350000"
-        ],
-        "US East (Ohio)": [
-            "0.0000350000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0000350000"
-        ],
-        "South America (Sao Paulo)": [
-            "0.0000350000"
-        ],
-        "EU (Stockholm)": [
-            "0.0000350000"
-        ],
-        "EU (Spain)": [
-            "0.0000350000"
-        ],
-        "EU (London)": [
-            "0.0000350000"
-        ],
-        "EU (Ireland)": [
-            "0.0000350000"
-        ],
-        "EU (Frankfurt)": [
-            "0.0000350000"
-        ],
-        "Canada (Central)": [
-            "0.0000350000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.0000350000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.0000350000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.0000350000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.0000350000"
-        ],
-        "Asia Pacific (Malaysia)": [
-            "0.0000350000"
-        ],
-        "AWS GovCloud (US)": [
-            "0.0000350000"
-        ]
+        "US West (Oregon)": "0.0000350000",
+        "US East (Ohio)": "0.0000350000",
+        "US East (N. Virginia)": "0.0000350000",
+        "South America (Sao Paulo)": "0.0000350000",
+        "EU (Stockholm)": "0.0000350000",
+        "EU (Spain)": "0.0000350000",
+        "EU (London)": "0.0000350000",
+        "EU (Ireland)": "0.0000350000",
+        "EU (Frankfurt)": "0.0000350000",
+        "Canada (Central)": "0.0000350000",
+        "Asia Pacific (Tokyo)": "0.0000350000",
+        "Asia Pacific (Sydney)": "0.0000350000",
+        "Asia Pacific (Singapore)": "0.0000350000",
+        "Asia Pacific (Mumbai)": "0.0000350000",
+        "Asia Pacific (Malaysia)": "0.0000350000",
+        "AWS GovCloud (US)": "0.0000350000"
     },
     "AmazonLocationService 0 250000 None None Geofencing Positions evaluated per Position": {
-        "Default": [
-            "0.0001600000"
-        ],
-        "US West (Oregon)": [
-            "0.0001600000"
-        ],
-        "US East (Ohio)": [
-            "0.0001600000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0001600000"
-        ],
-        "South America (Sao Paulo)": [
-            "0.0001600000"
-        ],
-        "EU (Stockholm)": [
-            "0.0001600000"
-        ],
-        "EU (Spain)": [
-            "0.0001600000"
-        ],
-        "EU (London)": [
-            "0.0001600000"
-        ],
-        "EU (Ireland)": [
-            "0.0001600000"
-        ],
-        "EU (Frankfurt)": [
-            "0.0001600000"
-        ],
-        "Canada (Central)": [
-            "0.0001600000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.0001600000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.0001600000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.0001600000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.0001600000"
-        ],
-        "Asia Pacific (Malaysia)": [
-            "0.0001600000"
-        ],
-        "AWS GovCloud (US)": [
-            "0.0001600000"
-        ]
+        "US West (Oregon)": "0.0001600000",
+        "US East (Ohio)": "0.0001600000",
+        "US East (N. Virginia)": "0.0001600000",
+        "South America (Sao Paulo)": "0.0001600000",
+        "EU (Stockholm)": "0.0001600000",
+        "EU (Spain)": "0.0001600000",
+        "EU (London)": "0.0001600000",
+        "EU (Ireland)": "0.0001600000",
+        "EU (Frankfurt)": "0.0001600000",
+        "Canada (Central)": "0.0001600000",
+        "Asia Pacific (Tokyo)": "0.0001600000",
+        "Asia Pacific (Sydney)": "0.0001600000",
+        "Asia Pacific (Singapore)": "0.0001600000",
+        "Asia Pacific (Mumbai)": "0.0001600000",
+        "Asia Pacific (Malaysia)": "0.0001600000",
+        "AWS GovCloud (US)": "0.0001600000"
     },
     "AmazonLocationService 0 Inf None None Places Positions reverse-geocoded stored results per Position": {
-        "Default": [
-            "0.0040000000"
-        ],
-        "US West (Oregon)": [
-            "0.0040000000"
-        ],
-        "US East (Ohio)": [
-            "0.0040000000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0040000000"
-        ],
-        "South America (Sao Paulo)": [
-            "0.0040000000"
-        ],
-        "EU (Stockholm)": [
-            "0.0038000000"
-        ],
-        "EU (Spain)": [
-            "0.0040000000"
-        ],
-        "EU (London)": [
-            "0.0040000000"
-        ],
-        "EU (Ireland)": [
-            "0.0040000000"
-        ],
-        "EU (Frankfurt)": [
-            "0.0040000000"
-        ],
-        "Canada (Central)": [
-            "0.0040000000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.0040000000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.0040000000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.0040000000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.0040000000"
-        ],
-        "Asia Pacific (Malaysia)": [
-            "0.0040000000"
-        ],
-        "AWS GovCloud (US)": [
-            "0.0040000000"
-        ]
+        "US West (Oregon)": "0.0040000000",
+        "US East (Ohio)": "0.0040000000",
+        "US East (N. Virginia)": "0.0040000000",
+        "South America (Sao Paulo)": "0.0040000000",
+        "EU (Stockholm)": "0.0038000000",
+        "EU (Spain)": "0.0040000000",
+        "EU (London)": "0.0040000000",
+        "EU (Ireland)": "0.0040000000",
+        "EU (Frankfurt)": "0.0040000000",
+        "Canada (Central)": "0.0040000000",
+        "Asia Pacific (Tokyo)": "0.0040000000",
+        "Asia Pacific (Sydney)": "0.0040000000",
+        "Asia Pacific (Singapore)": "0.0040000000",
+        "Asia Pacific (Mumbai)": "0.0040000000",
+        "Asia Pacific (Malaysia)": "0.0040000000",
+        "AWS GovCloud (US)": "0.0040000000"
     },
     "AmazonLocationService None None Places Addresses geocoded per Address": {
-        "Default": [
-            "0.0005000000"
-        ],
-        "US West (Oregon)": [
-            "0.0005000000"
-        ],
-        "US East (Ohio)": [
-            "0.0005000000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0005000000"
-        ],
-        "South America (Sao Paulo)": [
-            "0.0005000000"
-        ],
-        "EU (Stockholm)": [
-            "0.0004750000"
-        ],
-        "EU (Spain)": [
-            "0.0005000000"
-        ],
-        "EU (London)": [
-            "0.0005000000"
-        ],
-        "EU (Ireland)": [
-            "0.0005000000"
-        ],
-        "EU (Frankfurt)": [
-            "0.0005000000"
-        ],
-        "Canada (Central)": [
-            "0.0005000000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.0005000000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.0005000000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.0005000000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.0005000000"
-        ],
-        "Asia Pacific (Malaysia)": [
-            "0.0005000000"
-        ],
-        "AWS GovCloud (US)": [
-            "0.0005000000"
-        ]
+        "US West (Oregon)": "0.0005000000",
+        "US East (Ohio)": "0.0005000000",
+        "US East (N. Virginia)": "0.0005000000",
+        "South America (Sao Paulo)": "0.0005000000",
+        "EU (Stockholm)": "0.0004750000",
+        "EU (Spain)": "0.0005000000",
+        "EU (London)": "0.0005000000",
+        "EU (Ireland)": "0.0005000000",
+        "EU (Frankfurt)": "0.0005000000",
+        "Canada (Central)": "0.0005000000",
+        "Asia Pacific (Tokyo)": "0.0005000000",
+        "Asia Pacific (Sydney)": "0.0005000000",
+        "Asia Pacific (Singapore)": "0.0005000000",
+        "Asia Pacific (Mumbai)": "0.0005000000",
+        "Asia Pacific (Malaysia)": "0.0005000000",
+        "AWS GovCloud (US)": "0.0005000000"
     },
     "AmazonLocationService Grab RequestBasedUsage Maps Map tiles retrieved vector or raster per Map Tile": {
-        "Default": [
-            "0.0000400000"
-        ],
-        "US West (Oregon)": [
-            "0.0000400000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0000400000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.0000400000"
-        ],
-        "Asia Pacific (Malaysia)": [
-            "0.0000400000"
-        ],
-        "AWS GovCloud (US)": [
-            "0.0000400000"
-        ]
+        "US West (Oregon)": "0.0000400000",
+        "US East (N. Virginia)": "0.0000400000",
+        "Asia Pacific (Singapore)": "0.0000400000",
+        "Asia Pacific (Malaysia)": "0.0000400000",
+        "AWS GovCloud (US)": "0.0000400000"
     },
     "AmazonLocationService 0 Inf None None Geofencing Geofence event forecast requested per Position": {
-        "Default": [
-            "0.0017500000"
-        ],
-        "US West (Oregon)": [
-            "0.0017500000"
-        ],
-        "US East (Ohio)": [
-            "0.0017500000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0017500000"
-        ],
-        "South America (Sao Paulo)": [
-            "0.0017500000"
-        ],
-        "EU (Stockholm)": [
-            "0.0017500000"
-        ],
-        "EU (Spain)": [
-            "0.0017500000"
-        ],
-        "EU (London)": [
-            "0.0017500000"
-        ],
-        "EU (Ireland)": [
-            "0.0017500000"
-        ],
-        "EU (Frankfurt)": [
-            "0.0017500000"
-        ],
-        "Canada (Central)": [
-            "0.0017500000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.0017500000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.0017500000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.0017500000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.0017500000"
-        ],
-        "Asia Pacific (Malaysia)": [
-            "0.0017500000"
-        ],
-        "AWS GovCloud (US)": [
-            "0.0017500000"
-        ]
+        "US West (Oregon)": "0.0017500000",
+        "US East (Ohio)": "0.0017500000",
+        "US East (N. Virginia)": "0.0017500000",
+        "South America (Sao Paulo)": "0.0017500000",
+        "EU (Stockholm)": "0.0017500000",
+        "EU (Spain)": "0.0017500000",
+        "EU (London)": "0.0017500000",
+        "EU (Ireland)": "0.0017500000",
+        "EU (Frankfurt)": "0.0017500000",
+        "Canada (Central)": "0.0017500000",
+        "Asia Pacific (Tokyo)": "0.0017500000",
+        "Asia Pacific (Sydney)": "0.0017500000",
+        "Asia Pacific (Singapore)": "0.0017500000",
+        "Asia Pacific (Mumbai)": "0.0017500000",
+        "Asia Pacific (Malaysia)": "0.0017500000",
+        "AWS GovCloud (US)": "0.0017500000"
     },
     "AmazonLocationService 25000000 Inf None None Geofencing Positions evaluated per Position": {
-        "Default": [
-            "0.0000600000"
-        ],
-        "US West (Oregon)": [
-            "0.0000600000"
-        ],
-        "US East (Ohio)": [
-            "0.0000600000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0000600000"
-        ],
-        "South America (Sao Paulo)": [
-            "0.0000600000"
-        ],
-        "EU (Stockholm)": [
-            "0.0000600000"
-        ],
-        "EU (Spain)": [
-            "0.0000600000"
-        ],
-        "EU (London)": [
-            "0.0000600000"
-        ],
-        "EU (Ireland)": [
-            "0.0000600000"
-        ],
-        "EU (Frankfurt)": [
-            "0.0000600000"
-        ],
-        "Canada (Central)": [
-            "0.0000600000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.0000600000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.0000600000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.0000600000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.0000600000"
-        ],
-        "Asia Pacific (Malaysia)": [
-            "0.0000600000"
-        ],
-        "AWS GovCloud (US)": [
-            "0.0000600000"
-        ]
+        "US West (Oregon)": "0.0000600000",
+        "US East (Ohio)": "0.0000600000",
+        "US East (N. Virginia)": "0.0000600000",
+        "South America (Sao Paulo)": "0.0000600000",
+        "EU (Stockholm)": "0.0000600000",
+        "EU (Spain)": "0.0000600000",
+        "EU (London)": "0.0000600000",
+        "EU (Ireland)": "0.0000600000",
+        "EU (Frankfurt)": "0.0000600000",
+        "Canada (Central)": "0.0000600000",
+        "Asia Pacific (Tokyo)": "0.0000600000",
+        "Asia Pacific (Sydney)": "0.0000600000",
+        "Asia Pacific (Singapore)": "0.0000600000",
+        "Asia Pacific (Mumbai)": "0.0000600000",
+        "Asia Pacific (Malaysia)": "0.0000600000",
+        "AWS GovCloud (US)": "0.0000600000"
     },
     "AmazonLocationService Esri MobileAssetTracking All Additional transactions per Transaction": {
-        "Default": [
-            "0.0000600000"
-        ],
-        "US West (Oregon)": [
-            "0.0000600000"
-        ],
-        "US East (Ohio)": [
-            "0.0000600000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0000600000"
-        ],
-        "South America (Sao Paulo)": [
-            "0.0000600000"
-        ],
-        "EU (Stockholm)": [
-            "0.0000570000"
-        ],
-        "EU (Spain)": [
-            "0.0000600000"
-        ],
-        "EU (London)": [
-            "0.0000600000"
-        ],
-        "EU (Ireland)": [
-            "0.0000600000"
-        ],
-        "EU (Frankfurt)": [
-            "0.0000600000"
-        ],
-        "Canada (Central)": [
-            "0.0000600000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.0000600000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.0000600000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.0000600000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.0000600000"
-        ],
-        "Asia Pacific (Malaysia)": [
-            "0.0000600000"
-        ],
-        "AWS GovCloud (US)": [
-            "0.0000600000"
-        ]
+        "US West (Oregon)": "0.0000600000",
+        "US East (Ohio)": "0.0000600000",
+        "US East (N. Virginia)": "0.0000600000",
+        "South America (Sao Paulo)": "0.0000600000",
+        "EU (Stockholm)": "0.0000570000",
+        "EU (Spain)": "0.0000600000",
+        "EU (London)": "0.0000600000",
+        "EU (Ireland)": "0.0000600000",
+        "EU (Frankfurt)": "0.0000600000",
+        "Canada (Central)": "0.0000600000",
+        "Asia Pacific (Tokyo)": "0.0000600000",
+        "Asia Pacific (Sydney)": "0.0000600000",
+        "Asia Pacific (Singapore)": "0.0000600000",
+        "Asia Pacific (Mumbai)": "0.0000600000",
+        "Asia Pacific (Malaysia)": "0.0000600000",
+        "AWS GovCloud (US)": "0.0000600000"
     },
     "AmazonLocationService 2000000 25000000 None None Geofencing Positions evaluated per Position": {
-        "Default": [
-            "0.0000700000"
-        ],
-        "US West (Oregon)": [
-            "0.0000700000"
-        ],
-        "US East (Ohio)": [
-            "0.0000700000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0000700000"
-        ],
-        "South America (Sao Paulo)": [
-            "0.0000700000"
-        ],
-        "EU (Stockholm)": [
-            "0.0000700000"
-        ],
-        "EU (Spain)": [
-            "0.0000700000"
-        ],
-        "EU (London)": [
-            "0.0000700000"
-        ],
-        "EU (Ireland)": [
-            "0.0000700000"
-        ],
-        "EU (Frankfurt)": [
-            "0.0000700000"
-        ],
-        "Canada (Central)": [
-            "0.0000700000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.0000700000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.0000700000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.0000700000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.0000700000"
-        ],
-        "Asia Pacific (Malaysia)": [
-            "0.0000700000"
-        ],
-        "AWS GovCloud (US)": [
-            "0.0000700000"
-        ]
+        "US West (Oregon)": "0.0000700000",
+        "US East (Ohio)": "0.0000700000",
+        "US East (N. Virginia)": "0.0000700000",
+        "South America (Sao Paulo)": "0.0000700000",
+        "EU (Stockholm)": "0.0000700000",
+        "EU (Spain)": "0.0000700000",
+        "EU (London)": "0.0000700000",
+        "EU (Ireland)": "0.0000700000",
+        "EU (Frankfurt)": "0.0000700000",
+        "Canada (Central)": "0.0000700000",
+        "Asia Pacific (Tokyo)": "0.0000700000",
+        "Asia Pacific (Sydney)": "0.0000700000",
+        "Asia Pacific (Singapore)": "0.0000700000",
+        "Asia Pacific (Mumbai)": "0.0000700000",
+        "Asia Pacific (Malaysia)": "0.0000700000",
+        "AWS GovCloud (US)": "0.0000700000"
     },
     "AmazonLocationService Esri MobileAssetManagement All Asset per provider per month per Devices": {
-        "Default": [
-            "15.0000000000"
-        ],
-        "US West (Oregon)": [
-            "15.0000000000"
-        ],
-        "US East (Ohio)": [
-            "15.0000000000"
-        ],
-        "US East (N. Virginia)": [
-            "15.0000000000"
-        ],
-        "South America (Sao Paulo)": [
-            "15.0000000000"
-        ],
-        "EU (Stockholm)": [
-            "14.2500000000"
-        ],
-        "EU (Spain)": [
-            "15.0000000000"
-        ],
-        "EU (London)": [
-            "15.0000000000"
-        ],
-        "EU (Ireland)": [
-            "15.0000000000"
-        ],
-        "EU (Frankfurt)": [
-            "15.0000000000"
-        ],
-        "Canada (Central)": [
-            "15.0000000000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "15.0000000000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "15.0000000000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "15.0000000000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "15.0000000000"
-        ],
-        "Asia Pacific (Malaysia)": [
-            "15.0000000000"
-        ],
-        "AWS GovCloud (US)": [
-            "15.0000000000"
-        ]
+        "US West (Oregon)": "15.0000000000",
+        "US East (Ohio)": "15.0000000000",
+        "US East (N. Virginia)": "15.0000000000",
+        "South America (Sao Paulo)": "15.0000000000",
+        "EU (Stockholm)": "14.2500000000",
+        "EU (Spain)": "15.0000000000",
+        "EU (London)": "15.0000000000",
+        "EU (Ireland)": "15.0000000000",
+        "EU (Frankfurt)": "15.0000000000",
+        "Canada (Central)": "15.0000000000",
+        "Asia Pacific (Tokyo)": "15.0000000000",
+        "Asia Pacific (Sydney)": "15.0000000000",
+        "Asia Pacific (Singapore)": "15.0000000000",
+        "Asia Pacific (Mumbai)": "15.0000000000",
+        "Asia Pacific (Malaysia)": "15.0000000000",
+        "AWS GovCloud (US)": "15.0000000000"
     },
     "AmazonLocationService HERE MobileAssetTracking All Asset per provider per month per Devices": {
-        "Default": [
-            "1.5000000000"
-        ],
-        "US West (Oregon)": [
-            "1.5000000000"
-        ],
-        "US East (Ohio)": [
-            "1.5000000000"
-        ],
-        "US East (N. Virginia)": [
-            "1.5000000000"
-        ],
-        "South America (Sao Paulo)": [
-            "1.5000000000"
-        ],
-        "EU (Stockholm)": [
-            "1.4250000000"
-        ],
-        "EU (Spain)": [
-            "1.5000000000"
-        ],
-        "EU (London)": [
-            "1.5000000000"
-        ],
-        "EU (Ireland)": [
-            "1.5000000000"
-        ],
-        "EU (Frankfurt)": [
-            "1.5000000000"
-        ],
-        "Canada (Central)": [
-            "1.5000000000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "1.5000000000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "1.5000000000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "1.5000000000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "1.5000000000"
-        ],
-        "Asia Pacific (Malaysia)": [
-            "1.5000000000"
-        ],
-        "AWS GovCloud (US)": [
-            "1.5000000000"
-        ]
+        "US West (Oregon)": "1.5000000000",
+        "US East (Ohio)": "1.5000000000",
+        "US East (N. Virginia)": "1.5000000000",
+        "South America (Sao Paulo)": "1.5000000000",
+        "EU (Stockholm)": "1.4250000000",
+        "EU (Spain)": "1.5000000000",
+        "EU (London)": "1.5000000000",
+        "EU (Ireland)": "1.5000000000",
+        "EU (Frankfurt)": "1.5000000000",
+        "Canada (Central)": "1.5000000000",
+        "Asia Pacific (Tokyo)": "1.5000000000",
+        "Asia Pacific (Sydney)": "1.5000000000",
+        "Asia Pacific (Singapore)": "1.5000000000",
+        "Asia Pacific (Mumbai)": "1.5000000000",
+        "Asia Pacific (Malaysia)": "1.5000000000",
+        "AWS GovCloud (US)": "1.5000000000"
     },
     "AmazonLocationService None RequestBasedUsage Tracking Position read requests per API Request": {
-        "Default": [
-            "0.0000500000"
-        ],
-        "US West (Oregon)": [
-            "0.0000500000"
-        ],
-        "US East (Ohio)": [
-            "0.0000500000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0000500000"
-        ],
-        "South America (Sao Paulo)": [
-            "0.0000500000"
-        ],
-        "EU (Stockholm)": [
-            "0.0000475000"
-        ],
-        "EU (Spain)": [
-            "0.0000500000"
-        ],
-        "EU (London)": [
-            "0.0000500000"
-        ],
-        "EU (Ireland)": [
-            "0.0000500000"
-        ],
-        "EU (Frankfurt)": [
-            "0.0000500000"
-        ],
-        "Canada (Central)": [
-            "0.0000500000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.0000500000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.0000500000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.0000500000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.0000500000"
-        ],
-        "Asia Pacific (Malaysia)": [
-            "0.0000500000"
-        ],
-        "AWS GovCloud (US)": [
-            "0.0000500000"
-        ]
+        "US West (Oregon)": "0.0000500000",
+        "US East (Ohio)": "0.0000500000",
+        "US East (N. Virginia)": "0.0000500000",
+        "South America (Sao Paulo)": "0.0000500000",
+        "EU (Stockholm)": "0.0000475000",
+        "EU (Spain)": "0.0000500000",
+        "EU (London)": "0.0000500000",
+        "EU (Ireland)": "0.0000500000",
+        "EU (Frankfurt)": "0.0000500000",
+        "Canada (Central)": "0.0000500000",
+        "Asia Pacific (Tokyo)": "0.0000500000",
+        "Asia Pacific (Sydney)": "0.0000500000",
+        "Asia Pacific (Singapore)": "0.0000500000",
+        "Asia Pacific (Mumbai)": "0.0000500000",
+        "Asia Pacific (Malaysia)": "0.0000500000",
+        "AWS GovCloud (US)": "0.0000500000"
     },
     "AmazonLocationService 250000 2000000 None None Geofencing Positions evaluated per Position": {
-        "Default": [
-            "0.0001100000"
-        ],
-        "US West (Oregon)": [
-            "0.0001100000"
-        ],
-        "US East (Ohio)": [
-            "0.0001100000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0001100000"
-        ],
-        "South America (Sao Paulo)": [
-            "0.0001100000"
-        ],
-        "EU (Stockholm)": [
-            "0.0001100000"
-        ],
-        "EU (Spain)": [
-            "0.0001100000"
-        ],
-        "EU (London)": [
-            "0.0001100000"
-        ],
-        "EU (Ireland)": [
-            "0.0001100000"
-        ],
-        "EU (Frankfurt)": [
-            "0.0001100000"
-        ],
-        "Canada (Central)": [
-            "0.0001100000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.0001100000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.0001100000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.0001100000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.0001100000"
-        ],
-        "Asia Pacific (Malaysia)": [
-            "0.0001100000"
-        ],
-        "AWS GovCloud (US)": [
-            "0.0001100000"
-        ]
+        "US West (Oregon)": "0.0001100000",
+        "US East (Ohio)": "0.0001100000",
+        "US East (N. Virginia)": "0.0001100000",
+        "South America (Sao Paulo)": "0.0001100000",
+        "EU (Stockholm)": "0.0001100000",
+        "EU (Spain)": "0.0001100000",
+        "EU (London)": "0.0001100000",
+        "EU (Ireland)": "0.0001100000",
+        "EU (Frankfurt)": "0.0001100000",
+        "Canada (Central)": "0.0001100000",
+        "Asia Pacific (Tokyo)": "0.0001100000",
+        "Asia Pacific (Sydney)": "0.0001100000",
+        "Asia Pacific (Singapore)": "0.0001100000",
+        "Asia Pacific (Mumbai)": "0.0001100000",
+        "Asia Pacific (Malaysia)": "0.0001100000",
+        "AWS GovCloud (US)": "0.0001100000"
     },
     "AmazonLocationService HERE RequestBasedUsage Routing Routes calculated per Route": {
-        "Default": [
-            "0.0005000000"
-        ],
-        "US West (Oregon)": [
-            "0.0005000000"
-        ],
-        "US East (Ohio)": [
-            "0.0005000000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0005000000"
-        ],
-        "South America (Sao Paulo)": [
-            "0.0005000000"
-        ],
-        "EU (Stockholm)": [
-            "0.0004750000"
-        ],
-        "EU (Spain)": [
-            "0.0005000000"
-        ],
-        "EU (London)": [
-            "0.0005000000"
-        ],
-        "EU (Ireland)": [
-            "0.0005000000"
-        ],
-        "EU (Frankfurt)": [
-            "0.0005000000"
-        ],
-        "Canada (Central)": [
-            "0.0005000000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.0005000000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.0005000000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.0005000000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.0005000000"
-        ],
-        "Asia Pacific (Malaysia)": [
-            "0.0005000000"
-        ],
-        "AWS GovCloud (US)": [
-            "0.0005000000"
-        ]
+        "US West (Oregon)": "0.0005000000",
+        "US East (Ohio)": "0.0005000000",
+        "US East (N. Virginia)": "0.0005000000",
+        "South America (Sao Paulo)": "0.0005000000",
+        "EU (Stockholm)": "0.0004750000",
+        "EU (Spain)": "0.0005000000",
+        "EU (London)": "0.0005000000",
+        "EU (Ireland)": "0.0005000000",
+        "EU (Frankfurt)": "0.0005000000",
+        "Canada (Central)": "0.0005000000",
+        "Asia Pacific (Tokyo)": "0.0005000000",
+        "Asia Pacific (Sydney)": "0.0005000000",
+        "Asia Pacific (Singapore)": "0.0005000000",
+        "Asia Pacific (Mumbai)": "0.0005000000",
+        "Asia Pacific (Malaysia)": "0.0005000000",
+        "AWS GovCloud (US)": "0.0005000000"
     },
     "AmazonLocationService Grab RequestBasedUsage Places Addresses Suggested per API Request": {
-        "Default": [
-            "0.0002000000"
-        ],
-        "US West (Oregon)": [
-            "0.0002000000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0002000000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.0002000000"
-        ],
-        "Asia Pacific (Malaysia)": [
-            "0.0002000000"
-        ],
-        "AWS GovCloud (US)": [
-            "0.0002000000"
-        ]
+        "US West (Oregon)": "0.0002000000",
+        "US East (N. Virginia)": "0.0002000000",
+        "Asia Pacific (Singapore)": "0.0002000000",
+        "Asia Pacific (Malaysia)": "0.0002000000",
+        "AWS GovCloud (US)": "0.0002000000"
     },
     "AmazonLocationService None None Service Resources Resources created read updated or deleted per API Request": {
-        "Default": [
-            "0.0000100000"
-        ],
-        "US West (Oregon)": [
-            "0.0000100000"
-        ],
-        "US East (Ohio)": [
-            "0.0000100000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0000100000"
-        ],
-        "South America (Sao Paulo)": [
-            "0.0000100000"
-        ],
-        "EU (Stockholm)": [
-            "0.0000095000"
-        ],
-        "EU (Spain)": [
-            "0.0000100000"
-        ],
-        "EU (London)": [
-            "0.0000100000"
-        ],
-        "EU (Ireland)": [
-            "0.0000100000"
-        ],
-        "EU (Frankfurt)": [
-            "0.0000100000"
-        ],
-        "Canada (Central)": [
-            "0.0000100000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.0000100000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.0000100000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.0000100000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.0000100000"
-        ],
-        "Asia Pacific (Malaysia)": [
-            "0.0000100000"
-        ],
-        "AWS GovCloud (US)": [
-            "0.0000100000"
-        ]
+        "US West (Oregon)": "0.0000100000",
+        "US East (Ohio)": "0.0000100000",
+        "US East (N. Virginia)": "0.0000100000",
+        "South America (Sao Paulo)": "0.0000100000",
+        "EU (Stockholm)": "0.0000095000",
+        "EU (Spain)": "0.0000100000",
+        "EU (London)": "0.0000100000",
+        "EU (Ireland)": "0.0000100000",
+        "EU (Frankfurt)": "0.0000100000",
+        "Canada (Central)": "0.0000100000",
+        "Asia Pacific (Tokyo)": "0.0000100000",
+        "Asia Pacific (Sydney)": "0.0000100000",
+        "Asia Pacific (Singapore)": "0.0000100000",
+        "Asia Pacific (Mumbai)": "0.0000100000",
+        "Asia Pacific (Malaysia)": "0.0000100000",
+        "AWS GovCloud (US)": "0.0000100000"
     },
     "AmazonLocationService HERE RequestBasedUsage Places Addresses geocoded stored results per Address": {
-        "Default": [
-            "0.0040000000"
-        ],
-        "US West (Oregon)": [
-            "0.0040000000"
-        ],
-        "US East (Ohio)": [
-            "0.0040000000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0040000000"
-        ],
-        "South America (Sao Paulo)": [
-            "0.0040000000"
-        ],
-        "EU (Stockholm)": [
-            "0.0038000000"
-        ],
-        "EU (Spain)": [
-            "0.0040000000"
-        ],
-        "EU (London)": [
-            "0.0040000000"
-        ],
-        "EU (Ireland)": [
-            "0.0040000000"
-        ],
-        "EU (Frankfurt)": [
-            "0.0040000000"
-        ],
-        "Canada (Central)": [
-            "0.0040000000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.0040000000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.0040000000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.0040000000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.0040000000"
-        ],
-        "Asia Pacific (Malaysia)": [
-            "0.0040000000"
-        ],
-        "AWS GovCloud (US)": [
-            "0.0040000000"
-        ]
+        "US West (Oregon)": "0.0040000000",
+        "US East (Ohio)": "0.0040000000",
+        "US East (N. Virginia)": "0.0040000000",
+        "South America (Sao Paulo)": "0.0040000000",
+        "EU (Stockholm)": "0.0038000000",
+        "EU (Spain)": "0.0040000000",
+        "EU (London)": "0.0040000000",
+        "EU (Ireland)": "0.0040000000",
+        "EU (Frankfurt)": "0.0040000000",
+        "Canada (Central)": "0.0040000000",
+        "Asia Pacific (Tokyo)": "0.0040000000",
+        "Asia Pacific (Sydney)": "0.0040000000",
+        "Asia Pacific (Singapore)": "0.0040000000",
+        "Asia Pacific (Mumbai)": "0.0040000000",
+        "Asia Pacific (Malaysia)": "0.0040000000",
+        "AWS GovCloud (US)": "0.0040000000"
     },
     "AmazonLocationService None None Maps Map tiles retrieved vector or raster per Map Tile": {
-        "Default": [
-            "0.0000400000"
-        ],
-        "US West (Oregon)": [
-            "0.0000400000"
-        ],
-        "US East (Ohio)": [
-            "0.0000400000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0000400000"
-        ],
-        "South America (Sao Paulo)": [
-            "0.0000400000"
-        ],
-        "EU (Stockholm)": [
-            "0.0000380000"
-        ],
-        "EU (Spain)": [
-            "0.0000400000"
-        ],
-        "EU (London)": [
-            "0.0000400000"
-        ],
-        "EU (Ireland)": [
-            "0.0000400000"
-        ],
-        "EU (Frankfurt)": [
-            "0.0000400000"
-        ],
-        "Canada (Central)": [
-            "0.0000400000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.0000400000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.0000400000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.0000400000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.0000400000"
-        ],
-        "Asia Pacific (Malaysia)": [
-            "0.0000400000"
-        ],
-        "AWS GovCloud (US)": [
-            "0.0000400000"
-        ]
+        "US West (Oregon)": "0.0000400000",
+        "US East (Ohio)": "0.0000400000",
+        "US East (N. Virginia)": "0.0000400000",
+        "South America (Sao Paulo)": "0.0000400000",
+        "EU (Stockholm)": "0.0000380000",
+        "EU (Spain)": "0.0000400000",
+        "EU (London)": "0.0000400000",
+        "EU (Ireland)": "0.0000400000",
+        "EU (Frankfurt)": "0.0000400000",
+        "Canada (Central)": "0.0000400000",
+        "Asia Pacific (Tokyo)": "0.0000400000",
+        "Asia Pacific (Sydney)": "0.0000400000",
+        "Asia Pacific (Singapore)": "0.0000400000",
+        "Asia Pacific (Mumbai)": "0.0000400000",
+        "Asia Pacific (Malaysia)": "0.0000400000",
+        "AWS GovCloud (US)": "0.0000400000"
     }
 }

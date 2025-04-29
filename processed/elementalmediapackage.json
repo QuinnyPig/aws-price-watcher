@@ -1,197 +1,68 @@
 {
     "VOD Origination and Packaging": {
-        "Default": [
-            "0.0500000000"
-        ],
-        "US West (Oregon)": [
-            "0.0500000000"
-        ],
-        "US West (N. California)": [
-            "0.0600000000"
-        ],
-        "US East (Ohio)": [
-            "0.0500000000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0500000000"
-        ],
-        "South America (Sao Paulo)": [
-            "0.1000000000"
-        ],
-        "Middle East (UAE)": [
-            "0.0625000000"
-        ],
-        "EU (Stockholm)": [
-            "0.0500000000"
-        ],
-        "EU (Paris)": [
-            "0.0600000000"
-        ],
-        "EU (London)": [
-            "0.0600000000"
-        ],
-        "EU (Ireland)": [
-            "0.0500000000"
-        ],
-        "EU (Frankfurt)": [
-            "0.0600000000"
-        ],
-        "Canada (Central)": [
-            "0.0540000000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.0600000000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.1000000000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.1150000000"
-        ],
-        "Asia Pacific (Seoul)": [
-            "0.0550000000"
-        ],
-        "Asia Pacific (Osaka)": [
-            "0.0600000000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.0700000000"
-        ],
-        "Asia Pacific (Melbourne)": [
-            "0.1000000000"
-        ],
-        "Asia Pacific (Hyderabad)": [
-            "0.0700000000"
-        ]
+        "US West (Oregon)": "0.0500000000",
+        "US West (N. California)": "0.0600000000",
+        "US East (Ohio)": "0.0500000000",
+        "US East (N. Virginia)": "0.0500000000",
+        "South America (Sao Paulo)": "0.1000000000",
+        "Middle East (UAE)": "0.0625000000",
+        "EU (Stockholm)": "0.0500000000",
+        "EU (Paris)": "0.0600000000",
+        "EU (London)": "0.0600000000",
+        "EU (Ireland)": "0.0500000000",
+        "EU (Frankfurt)": "0.0600000000",
+        "Canada (Central)": "0.0540000000",
+        "Asia Pacific (Tokyo)": "0.0600000000",
+        "Asia Pacific (Sydney)": "0.1000000000",
+        "Asia Pacific (Singapore)": "0.1150000000",
+        "Asia Pacific (Seoul)": "0.0550000000",
+        "Asia Pacific (Osaka)": "0.0600000000",
+        "Asia Pacific (Mumbai)": "0.0700000000",
+        "Asia Pacific (Melbourne)": "0.1000000000",
+        "Asia Pacific (Hyderabad)": "0.0700000000"
     },
     "Origination and Packaging": {
-        "Default": [
-            "0.0500000000"
-        ],
-        "US West (Oregon)": [
-            "0.0500000000"
-        ],
-        "US West (N. California)": [
-            "0.0600000000"
-        ],
-        "US East (Ohio)": [
-            "0.0500000000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0500000000"
-        ],
-        "South America (Sao Paulo)": [
-            "0.1000000000"
-        ],
-        "Middle East (UAE)": [
-            "0.0625000000"
-        ],
-        "EU (Stockholm)": [
-            "0.0500000000"
-        ],
-        "EU (Paris)": [
-            "0.0600000000"
-        ],
-        "EU (London)": [
-            "0.0600000000"
-        ],
-        "EU (Ireland)": [
-            "0.0500000000"
-        ],
-        "EU (Frankfurt)": [
-            "0.0600000000"
-        ],
-        "Canada (Central)": [
-            "0.0540000000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.0600000000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.1000000000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.1150000000"
-        ],
-        "Asia Pacific (Seoul)": [
-            "0.0550000000"
-        ],
-        "Asia Pacific (Osaka)": [
-            "0.0600000000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.0700000000"
-        ],
-        "Asia Pacific (Melbourne)": [
-            "0.1000000000"
-        ],
-        "Asia Pacific (Hyderabad)": [
-            "0.0700000000"
-        ]
+        "US West (Oregon)": "0.0500000000",
+        "US West (N. California)": "0.0600000000",
+        "US East (Ohio)": "0.0500000000",
+        "US East (N. Virginia)": "0.0500000000",
+        "South America (Sao Paulo)": "0.1000000000",
+        "Middle East (UAE)": "0.0625000000",
+        "EU (Stockholm)": "0.0500000000",
+        "EU (Paris)": "0.0600000000",
+        "EU (London)": "0.0600000000",
+        "EU (Ireland)": "0.0500000000",
+        "EU (Frankfurt)": "0.0600000000",
+        "Canada (Central)": "0.0540000000",
+        "Asia Pacific (Tokyo)": "0.0600000000",
+        "Asia Pacific (Sydney)": "0.1000000000",
+        "Asia Pacific (Singapore)": "0.1150000000",
+        "Asia Pacific (Seoul)": "0.0550000000",
+        "Asia Pacific (Osaka)": "0.0600000000",
+        "Asia Pacific (Mumbai)": "0.0700000000",
+        "Asia Pacific (Melbourne)": "0.1000000000",
+        "Asia Pacific (Hyderabad)": "0.0700000000"
     },
     "Ingest": {
-        "Default": [
-            "0.0270000000"
-        ],
-        "US West (Oregon)": [
-            "0.0270000000"
-        ],
-        "US West (N. California)": [
-            "0.0420000000"
-        ],
-        "US East (Ohio)": [
-            "0.0300000000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0300000000"
-        ],
-        "South America (Sao Paulo)": [
-            "0.0640000000"
-        ],
-        "Middle East (UAE)": [
-            "0.0375000000"
-        ],
-        "EU (Stockholm)": [
-            "0.0310000000"
-        ],
-        "EU (Paris)": [
-            "0.0440000000"
-        ],
-        "EU (London)": [
-            "0.0450000000"
-        ],
-        "EU (Ireland)": [
-            "0.0310000000"
-        ],
-        "EU (Frankfurt)": [
-            "0.0450000000"
-        ],
-        "Canada (Central)": [
-            "0.0320000000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.0440000000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.0500000000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.0580000000"
-        ],
-        "Asia Pacific (Seoul)": [
-            "0.0400000000"
-        ],
-        "Asia Pacific (Osaka)": [
-            "0.0440000000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.0430000000"
-        ],
-        "Asia Pacific (Melbourne)": [
-            "0.0500000000"
-        ],
-        "Asia Pacific (Hyderabad)": [
-            "0.0430000000"
-        ]
+        "US West (Oregon)": "0.0270000000",
+        "US West (N. California)": "0.0420000000",
+        "US East (Ohio)": "0.0300000000",
+        "US East (N. Virginia)": "0.0300000000",
+        "South America (Sao Paulo)": "0.0640000000",
+        "Middle East (UAE)": "0.0375000000",
+        "EU (Stockholm)": "0.0310000000",
+        "EU (Paris)": "0.0440000000",
+        "EU (London)": "0.0450000000",
+        "EU (Ireland)": "0.0310000000",
+        "EU (Frankfurt)": "0.0450000000",
+        "Canada (Central)": "0.0320000000",
+        "Asia Pacific (Tokyo)": "0.0440000000",
+        "Asia Pacific (Sydney)": "0.0500000000",
+        "Asia Pacific (Singapore)": "0.0580000000",
+        "Asia Pacific (Seoul)": "0.0400000000",
+        "Asia Pacific (Osaka)": "0.0440000000",
+        "Asia Pacific (Mumbai)": "0.0430000000",
+        "Asia Pacific (Melbourne)": "0.0500000000",
+        "Asia Pacific (Hyderabad)": "0.0430000000"
     }
 }

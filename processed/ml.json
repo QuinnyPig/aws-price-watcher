@@ -1,68 +1,26 @@
 {
     "Capacity reservation for real time predictions": {
-        "Default": [
-            "0.0001000000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0001000000"
-        ],
-        "EU (Ireland)": [
-            "0.0001000000"
-        ]
+        "US East (N. Virginia)": "0.0001000000",
+        "EU (Ireland)": "0.0001000000"
     },
     "Create data statistics": {
-        "Default": [
-            "0.4200000000"
-        ],
-        "US East (N. Virginia)": [
-            "0.4200000000"
-        ],
-        "EU (Ireland)": [
-            "0.4200000000"
-        ]
+        "US East (N. Virginia)": "0.4200000000",
+        "EU (Ireland)": "0.4200000000"
     },
     "Real time predictions": {
-        "Default": [
-            "0.0001000000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0001000000"
-        ],
-        "EU (Ireland)": [
-            "0.0001000000"
-        ]
+        "US East (N. Virginia)": "0.0001000000",
+        "EU (Ireland)": "0.0001000000"
     },
     "Train ML models": {
-        "Default": [
-            "0.4200000000"
-        ],
-        "US East (N. Virginia)": [
-            "0.4200000000"
-        ],
-        "EU (Ireland)": [
-            "0.4200000000"
-        ]
+        "US East (N. Virginia)": "0.4200000000",
+        "EU (Ireland)": "0.4200000000"
     },
     "Batch predictions": {
-        "Default": [
-            "0.1000000000"
-        ],
-        "US East (N. Virginia)": [
-            "0.1000000000"
-        ],
-        "EU (Ireland)": [
-            "0.1000000000"
-        ]
+        "US East (N. Virginia)": "0.1000000000",
+        "EU (Ireland)": "0.1000000000"
     },
     "Evaluate ML models": {
-        "Default": [
-            "0.4200000000"
-        ],
-        "US East (N. Virginia)": [
-            "0.4200000000"
-        ],
-        "EU (Ireland)": [
-            "0.4200000000"
-        ]
+        "US East (N. Virginia)": "0.4200000000",
+        "EU (Ireland)": "0.4200000000"
     }
 }

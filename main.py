@@ -28,6 +28,21 @@ def load_file(filename):
         existing_contents = None
     return existing_contents
 
+def modify_region_name(region_name, code_contents_raw):
+    modified_region_name = region_name
+    code_contents = json.loads(json.dumps(code_contents_raw))
+    del code_contents["price"]
+    del code_contents["rateCode"]
+    if "RegionlessRateCode" in code_contents:
+        del code_contents["RegionlessRateCode"]
+    if len(code_contents.keys()) > 0:
+        modifier_str = ""
+        for k in code_contents.keys():
+            modifier_str += k + ": " + code_contents[k] + ", "
+        modified_region_name += " (" + modifier_str[:-2] + ")"
+
+    return modified_region_name
+
 
 services = []
 not_found = []
@@ -54,9 +69,15 @@ if service_list:
 
             save_file("raw/{}.json".format(sanitized_service_name), json.dumps(contents_obj, indent=4))
 
+            if service == "AWSDirectConnect":
+                contents_obj["sets"] = {} # special case: poor sets allocation
+
             processed_contents = {}
             for region_name in contents_obj["regions"].keys():
-                for code_name in contents_obj["regions"][region_name].keys():
+                for code_name in list(contents_obj["regions"][region_name].keys()): # copy as we'll be mutating
+                    if code_name not in contents_obj["regions"][region_name]: # already captured
+                        continue
+
                     #print(service, region_name, code_name)
                     if "RegionlessRateCode" in contents_obj["regions"][region_name][code_name] and contents_obj["regions"][region_name][code_name]["RegionlessRateCode"] == code_name:
                         continue
@@ -64,35 +85,48 @@ if service_list:
                     modified_code_name = code_name
                     for set_name in contents_obj["sets"].keys():
                         if code_name in contents_obj["sets"][set_name]:
-                            modified_code_name = set_name
+                            new_modified_code_name = ""
+                            for alt_code_name in list(contents_obj["regions"][region_name].keys()):
+                                if contents_obj["regions"][region_name][code_name]["rateCode"] != contents_obj["regions"][region_name][alt_code_name]["rateCode"]:
+                                    continue
+                                if "RegionlessRateCode" not in contents_obj["regions"][region_name][alt_code_name]:
+                                    continue
+                                if contents_obj["regions"][region_name][alt_code_name]["RegionlessRateCode"] == alt_code_name:
+                                    continue
+                                should_continue = False
+                                for alt_set_name in contents_obj["sets"].keys():
+                                    if alt_code_name in contents_obj["sets"][alt_set_name]:
+                                        should_continue = True
+                                        break
+                                if should_continue:
+                                    continue
+                                new_modified_code_name += alt_code_name + ";"
+                                del contents_obj["regions"][region_name][alt_code_name]
+                            
+                            if new_modified_code_name == "":
+                                modified_code_name = "[" + set_name + "]"
+                            else:
+                                modified_code_name = "[" + set_name + "] " + new_modified_code_name[:-1]
 
                     if modified_code_name not in processed_contents:
                         processed_contents[modified_code_name] = {}
                         if "RegionlessRateCode" in contents_obj["regions"][region_name][code_name] and contents_obj["regions"][region_name][code_name]["RegionlessRateCode"] in contents_obj["regions"][region_name]:
-                            processed_contents[modified_code_name]["Default"] = [
-                                contents_obj["regions"][region_name][contents_obj["regions"][region_name][code_name]["RegionlessRateCode"]]["price"]
-                            ]
+                            pass
+                            #modified_region_name = modify_region_name("Default", contents_obj["regions"][region_name][code_name])
+                            #processed_contents[modified_code_name][modified_region_name] = [
+                            #    contents_obj["regions"][region_name][contents_obj["regions"][region_name][code_name]["RegionlessRateCode"]]["price"]
+                            #]
                         else:
                             pass
                             #print("Outlier: ", service, region_name, code_name)
                     
-                    modified_region_name = region_name
-                    code_contents = json.loads(json.dumps(contents_obj["regions"][region_name][code_name]))
-                    del code_contents["price"]
-                    del code_contents["rateCode"]
-                    if "RegionlessRateCode" in code_contents:
-                        del code_contents["RegionlessRateCode"]
-                    if len(code_contents.keys()) > 0:
-                        modifier_str = ""
-                        for k in code_contents.keys():
-                            modifier_str += k + ": " + code_contents[k] + ", "
-                        modified_region_name += " (" + modifier_str[:-2] + ")"
+                    modified_region_name = modify_region_name(region_name, contents_obj["regions"][region_name][code_name])
 
                     if modified_region_name not in processed_contents[modified_code_name]:
-                        processed_contents[modified_code_name][modified_region_name] = []
-
-                    processed_contents[modified_code_name][modified_region_name].append(contents_obj["regions"][region_name][code_name]["price"])
-                    processed_contents[modified_code_name][modified_region_name] = list(set(processed_contents[modified_code_name][modified_region_name]))
+                        processed_contents[modified_code_name][modified_region_name] = contents_obj["regions"][region_name][code_name]["price"]
+                    elif processed_contents[modified_code_name][modified_region_name] != contents_obj["regions"][region_name][code_name]["price"]:
+                        print("WARNING: Found existing and conflicting price for {} {} {}".format(service, modified_code_name, modified_region_name))
+                        processed_contents[modified_code_name][modified_region_name] += ";" + contents_obj["regions"][region_name][code_name]["price"]
 
 
             existing_processed_contents = load_file("processed/{}.json".format(sanitized_service_name))

@@ -1,64 +1,24 @@
 {
     "WAM Standard": {
-        "Default": [
-            "5.0000000000"
-        ],
-        "US West (Oregon)": [
-            "5.0000000000"
-        ],
-        "US East (N. Virginia)": [
-            "5.0000000000"
-        ],
-        "EU (Ireland)": [
-            "5.0000000000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "5.0000000000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "5.0000000000"
-        ]
+        "US West (Oregon)": "5.0000000000",
+        "US East (N. Virginia)": "5.0000000000",
+        "EU (Ireland)": "5.0000000000",
+        "Asia Pacific (Sydney)": "5.0000000000",
+        "Asia Pacific (Singapore)": "5.0000000000"
     },
     "WAM Service Entitlement": {
-        "Default": [
-            "0.0000000000"
-        ],
-        "US West (Oregon)": [
-            "0.0000000000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0000000000"
-        ]
+        "US West (Oregon)": "0.0000000000",
+        "US East (N. Virginia)": "0.0000000000"
     },
     "WAM Lite": {
-        "Default": [
-            "0.0000000000"
-        ],
-        "US West (Oregon)": [
-            "0.0000000000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0000000000"
-        ],
-        "EU (Ireland)": [
-            "0.0000000000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.0000000000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.0000000000"
-        ]
+        "US West (Oregon)": "0.0000000000",
+        "US East (N. Virginia)": "0.0000000000",
+        "EU (Ireland)": "0.0000000000",
+        "Asia Pacific (Sydney)": "0.0000000000",
+        "Asia Pacific (Singapore)": "0.0000000000"
     },
     "WAM Line of Business": {
-        "Default": [
-            "0.0000000000"
-        ],
-        "US West (Oregon)": [
-            "0.0000000000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0000000000"
-        ]
+        "US West (Oregon)": "0.0000000000",
+        "US East (N. Virginia)": "0.0000000000"
     }
 }

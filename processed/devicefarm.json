@@ -1,114 +1,44 @@
 {
     "automated testing minutes on Windows OS and IE per minutes": {
-        "Default": [
-            "0.0050000000"
-        ],
-        "US West (Oregon)": [
-            "0.0050000000"
-        ]
+        "US West (Oregon)": "0.0050000000"
     },
     "automated testing minutes on Windows OS and Edge per minutes": {
-        "Default": [
-            "0.0050000000"
-        ],
-        "US West (Oregon)": [
-            "0.0050000000"
-        ]
+        "US West (Oregon)": "0.0050000000"
     },
     "Pay as you go automated tests on iOS per Minutes": {
-        "Default": [
-            "0.1700000000"
-        ],
-        "US West (Oregon)": [
-            "0.1700000000"
-        ]
+        "US West (Oregon)": "0.1700000000"
     },
     "FREE Web Performance Tests on iOS per Device Minute": {
-        "Default": [
-            "0.0000000000"
-        ],
-        "US West (Oregon)": [
-            "0.0000000000"
-        ]
+        "US West (Oregon)": "0.0000000000"
     },
     "Unlimited Slot for automated tests on Android per Device Slot-Month": {
-        "Default": [
-            "250.0000000000"
-        ],
-        "US West (Oregon)": [
-            "250.0000000000"
-        ]
+        "US West (Oregon)": "250.0000000000"
     },
     "Pay as you go remote access on Android per Minutes": {
-        "Default": [
-            "0.1700000000"
-        ],
-        "US West (Oregon)": [
-            "0.1700000000"
-        ]
+        "US West (Oregon)": "0.1700000000"
     },
     "Unlimited Slot for remote access on Android per Device Slot-Month": {
-        "Default": [
-            "250.0000000000"
-        ],
-        "US West (Oregon)": [
-            "250.0000000000"
-        ]
+        "US West (Oregon)": "250.0000000000"
     },
     "Pay as you go remote access on iOS per Minutes": {
-        "Default": [
-            "0.1700000000"
-        ],
-        "US West (Oregon)": [
-            "0.1700000000"
-        ]
+        "US West (Oregon)": "0.1700000000"
     },
     "Unlimited Slot for remote access tests on iOS per Device Slot-Month": {
-        "Default": [
-            "250.0000000000"
-        ],
-        "US West (Oregon)": [
-            "250.0000000000"
-        ]
+        "US West (Oregon)": "250.0000000000"
     },
     "Unlimited Slot for automated tests on iOS per Device Slot-Month": {
-        "Default": [
-            "250.0000000000"
-        ],
-        "US West (Oregon)": [
-            "250.0000000000"
-        ]
+        "US West (Oregon)": "250.0000000000"
     },
     "automated testing minutes on Windows OS and Firefox per minutes": {
-        "Default": [
-            "0.0050000000"
-        ],
-        "US West (Oregon)": [
-            "0.0050000000"
-        ]
+        "US West (Oregon)": "0.0050000000"
     },
     "Pay as you go automated tests on Android per Minutes": {
-        "Default": [
-            "0.1700000000"
-        ],
-        "US West (Oregon)": [
-            "0.1700000000"
-        ]
+        "US West (Oregon)": "0.1700000000"
     },
     "automated testing minutes on Windows OS and Chrome per minutes": {
-        "Default": [
-            "0.0050000000"
-        ],
-        "US West (Oregon)": [
-            "0.0050000000"
-        ]
+        "US West (Oregon)": "0.0050000000"
     },
     "FREE Web Performance Tests on Android per Device Minute": {
-        "Default": [
-            "0.0000000000"
-        ],
-        "US West (Oregon)": [
-            "0.0000000000"
-        ]
+        "US West (Oregon)": "0.0000000000"
     }
 }

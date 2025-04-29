@@ -1,18 +1,8 @@
 {
     "DeveloperSupport 3 percent of monthly AWS usage": {
-        "Default": [
-            "0.0300000000"
-        ],
-        "Any": [
-            "0.0300000000"
-        ]
+        "Any": "0.0300000000"
     },
     "DeveloperSupport Recurring Fee": {
-        "Default": [
-            "29"
-        ],
-        "Any": [
-            "29"
-        ]
+        "Any": "29"
     }
 }

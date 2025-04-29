@@ -1,58 +1,22 @@
 {
     "Station usage DataLoading": {
-        "Default": [
-            "2.4900000000"
-        ],
-        "US East (N. Virginia)": [
-            "2.4900000000"
-        ],
-        "EU (Ireland)": [
-            "2.4900000000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "2.9900000000"
-        ]
+        "US East (N. Virginia)": "2.4900000000",
+        "EU (Ireland)": "2.4900000000",
+        "Asia Pacific (Singapore)": "2.9900000000"
     },
     "Station usage DataErasing": {
-        "Default": [
-            "2.4900000000"
-        ],
-        "US East (N. Virginia)": [
-            "2.4900000000"
-        ],
-        "EU (Ireland)": [
-            "2.4900000000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "2.9900000000"
-        ]
+        "US East (N. Virginia)": "2.4900000000",
+        "EU (Ireland)": "2.4900000000",
+        "Asia Pacific (Singapore)": "2.9900000000"
     },
     "Device Handling": {
-        "Default": [
-            "80.0000000000"
-        ],
-        "US East (N. Virginia)": [
-            "80.0000000000"
-        ],
-        "EU (Ireland)": [
-            "80.0000000000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "99.0000000000"
-        ]
+        "US East (N. Virginia)": "80.0000000000",
+        "EU (Ireland)": "80.0000000000",
+        "Asia Pacific (Singapore)": "99.0000000000"
     },
     "Return shipping charges": {
-        "Default": [
-            "1.0000000000"
-        ],
-        "US East (N. Virginia)": [
-            "1.0000000000"
-        ],
-        "EU (Ireland)": [
-            "1.0000000000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "1.0000000000"
-        ]
+        "US East (N. Virginia)": "1.0000000000",
+        "EU (Ireland)": "1.0000000000",
+        "Asia Pacific (Singapore)": "1.0000000000"
     }
 }

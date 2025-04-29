@@ -1,1128 +1,383 @@
 {
     "Data Brew Interactive session": {
-        "Default": [
-            "1.0000000000"
-        ],
-        "US West (Oregon)": [
-            "1.0000000000"
-        ],
-        "US West (N. California)": [
-            "1.0000000000"
-        ],
-        "US East (Ohio)": [
-            "1.0000000000"
-        ],
-        "US East (N. Virginia)": [
-            "1.0000000000"
-        ],
-        "South America (Sao Paulo)": [
-            "1.5000000000"
-        ],
-        "EU (Stockholm)": [
-            "1.0000000000"
-        ],
-        "EU (Paris)": [
-            "1.0000000000"
-        ],
-        "EU (Milan)": [
-            "1.5000000000"
-        ],
-        "EU (London)": [
-            "1.0000000000"
-        ],
-        "EU (Ireland)": [
-            "1.0000000000"
-        ],
-        "EU (Frankfurt)": [
-            "1.0000000000"
-        ],
-        "Canada (Central)": [
-            "1.0000000000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "1.0000000000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "1.0000000000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "1.0000000000"
-        ],
-        "Asia Pacific (Seoul)": [
-            "1.0000000000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "1.0000000000"
-        ],
-        "Asia Pacific (Hong Kong)": [
-            "1.0000000000"
-        ],
-        "Africa (Cape Town)": [
-            "1.5000000000"
-        ],
-        "AWS GovCloud (US)": [
-            "1.0000000000"
-        ]
+        "US West (Oregon)": "1.0000000000",
+        "US West (N. California)": "1.0000000000",
+        "US East (Ohio)": "1.0000000000",
+        "US East (N. Virginia)": "1.0000000000",
+        "South America (Sao Paulo)": "1.5000000000",
+        "EU (Stockholm)": "1.0000000000",
+        "EU (Paris)": "1.0000000000",
+        "EU (Milan)": "1.5000000000",
+        "EU (London)": "1.0000000000",
+        "EU (Ireland)": "1.0000000000",
+        "EU (Frankfurt)": "1.0000000000",
+        "Canada (Central)": "1.0000000000",
+        "Asia Pacific (Tokyo)": "1.0000000000",
+        "Asia Pacific (Sydney)": "1.0000000000",
+        "Asia Pacific (Singapore)": "1.0000000000",
+        "Asia Pacific (Seoul)": "1.0000000000",
+        "Asia Pacific (Mumbai)": "1.0000000000",
+        "Asia Pacific (Hong Kong)": "1.0000000000",
+        "Africa (Cape Town)": "1.5000000000",
+        "AWS GovCloud (US)": "1.0000000000"
     },
     "ETL Interactive Session": {
-        "Default": [
-            "0.4400000000"
-        ],
-        "US West (Oregon)": [
-            "0.4400000000"
-        ],
-        "US West (N. California)": [
-            "0.4400000000"
-        ],
-        "US East (Ohio)": [
-            "0.4400000000"
-        ],
-        "US East (N. Virginia)": [
-            "0.4400000000"
-        ],
-        "South America (Sao Paulo)": [
-            "0.6900000000"
-        ],
-        "Middle East (UAE)": [
-            "0.4400000000"
-        ],
-        "Middle East (Bahrain)": [
-            "0.5900000000"
-        ],
-        "Mexico (Central)": [
-            "0.4400000000"
-        ],
-        "Israel (Tel Aviv)": [
-            "0.4400000000"
-        ],
-        "EU (Zurich)": [
-            "0.4400000000"
-        ],
-        "EU (Stockholm)": [
-            "0.4400000000"
-        ],
-        "EU (Spain)": [
-            "0.4400000000"
-        ],
-        "EU (Paris)": [
-            "0.4400000000"
-        ],
-        "EU (Milan)": [
-            "0.5200000000"
-        ],
-        "EU (London)": [
-            "0.4400000000"
-        ],
-        "EU (Ireland)": [
-            "0.4400000000"
-        ],
-        "EU (Frankfurt)": [
-            "0.4400000000"
-        ],
-        "Canada West (Calgary)": [
-            "0.4400000000"
-        ],
-        "Canada (Central)": [
-            "0.4400000000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.4400000000"
-        ],
-        "Asia Pacific (Thailand)": [
-            "0.4400000000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.4400000000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.4400000000"
-        ],
-        "Asia Pacific (Seoul)": [
-            "0.4400000000"
-        ],
-        "Asia Pacific (Osaka)": [
-            "0.4400000000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.4400000000"
-        ],
-        "Asia Pacific (Melbourne)": [
-            "0.4400000000"
-        ],
-        "Asia Pacific (Jakarta)": [
-            "0.4400000000"
-        ],
-        "Asia Pacific (Hyderabad)": [
-            "0.4400000000"
-        ],
-        "Asia Pacific (Hong Kong)": [
-            "0.4400000000"
-        ],
-        "Africa (Cape Town)": [
-            "0.5240000000"
-        ],
-        "AWS GovCloud (US-East)": [
-            "0.4400000000"
-        ],
-        "AWS GovCloud (US)": [
-            "0.4400000000"
-        ]
+        "US West (Oregon)": "0.4400000000",
+        "US West (N. California)": "0.4400000000",
+        "US East (Ohio)": "0.4400000000",
+        "US East (N. Virginia)": "0.4400000000",
+        "South America (Sao Paulo)": "0.6900000000",
+        "Middle East (UAE)": "0.4400000000",
+        "Middle East (Bahrain)": "0.5900000000",
+        "Mexico (Central)": "0.4400000000",
+        "Israel (Tel Aviv)": "0.4400000000",
+        "EU (Zurich)": "0.4400000000",
+        "EU (Stockholm)": "0.4400000000",
+        "EU (Spain)": "0.4400000000",
+        "EU (Paris)": "0.4400000000",
+        "EU (Milan)": "0.5200000000",
+        "EU (London)": "0.4400000000",
+        "EU (Ireland)": "0.4400000000",
+        "EU (Frankfurt)": "0.4400000000",
+        "Canada West (Calgary)": "0.4400000000",
+        "Canada (Central)": "0.4400000000",
+        "Asia Pacific (Tokyo)": "0.4400000000",
+        "Asia Pacific (Thailand)": "0.4400000000",
+        "Asia Pacific (Sydney)": "0.4400000000",
+        "Asia Pacific (Singapore)": "0.4400000000",
+        "Asia Pacific (Seoul)": "0.4400000000",
+        "Asia Pacific (Osaka)": "0.4400000000",
+        "Asia Pacific (Mumbai)": "0.4400000000",
+        "Asia Pacific (Melbourne)": "0.4400000000",
+        "Asia Pacific (Jakarta)": "0.4400000000",
+        "Asia Pacific (Hyderabad)": "0.4400000000",
+        "Asia Pacific (Hong Kong)": "0.4400000000",
+        "Africa (Cape Town)": "0.5240000000",
+        "AWS GovCloud (US-East)": "0.4400000000",
+        "AWS GovCloud (US)": "0.4400000000"
     },
     "Data Brew free interactive sessions": {
-        "Default": [
-            "0.0000000000"
-        ],
-        "US West (Oregon)": [
-            "0.0000000000"
-        ],
-        "US West (N. California)": [
-            "0.0000000000"
-        ],
-        "US East (Ohio)": [
-            "0.0000000000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0000000000"
-        ],
-        "South America (Sao Paulo)": [
-            "0.0000000000"
-        ],
-        "EU (Stockholm)": [
-            "0.0000000000"
-        ],
-        "EU (Paris)": [
-            "0.0000000000"
-        ],
-        "EU (Milan)": [
-            "0.0000000000"
-        ],
-        "EU (London)": [
-            "0.0000000000"
-        ],
-        "EU (Ireland)": [
-            "0.0000000000"
-        ],
-        "EU (Frankfurt)": [
-            "0.0000000000"
-        ],
-        "Canada (Central)": [
-            "0.0000000000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.0000000000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.0000000000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.0000000000"
-        ],
-        "Asia Pacific (Seoul)": [
-            "0.0000000000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.0000000000"
-        ],
-        "Asia Pacific (Hong Kong)": [
-            "0.0000000000"
-        ],
-        "Africa (Cape Town)": [
-            "0.0000000000"
-        ],
-        "AWS GovCloud (US)": [
-            "0.0000000000"
-        ]
+        "US West (Oregon)": "0.0000000000",
+        "US West (N. California)": "0.0000000000",
+        "US East (Ohio)": "0.0000000000",
+        "US East (N. Virginia)": "0.0000000000",
+        "South America (Sao Paulo)": "0.0000000000",
+        "EU (Stockholm)": "0.0000000000",
+        "EU (Paris)": "0.0000000000",
+        "EU (Milan)": "0.0000000000",
+        "EU (London)": "0.0000000000",
+        "EU (Ireland)": "0.0000000000",
+        "EU (Frankfurt)": "0.0000000000",
+        "Canada (Central)": "0.0000000000",
+        "Asia Pacific (Tokyo)": "0.0000000000",
+        "Asia Pacific (Sydney)": "0.0000000000",
+        "Asia Pacific (Singapore)": "0.0000000000",
+        "Asia Pacific (Seoul)": "0.0000000000",
+        "Asia Pacific (Mumbai)": "0.0000000000",
+        "Asia Pacific (Hong Kong)": "0.0000000000",
+        "Africa (Cape Town)": "0.0000000000",
+        "AWS GovCloud (US)": "0.0000000000"
     },
     "ETL Development endpoint": {
-        "Default": [
-            "0.4400000000"
-        ],
-        "US West (Oregon)": [
-            "0.4400000000"
-        ],
-        "US West (N. California)": [
-            "0.4400000000"
-        ],
-        "US East (Ohio)": [
-            "0.4400000000"
-        ],
-        "US East (N. Virginia)": [
-            "0.4400000000"
-        ],
-        "South America (Sao Paulo)": [
-            "0.6900000000"
-        ],
-        "Middle East (Bahrain)": [
-            "0.5900000000"
-        ],
-        "EU (Stockholm)": [
-            "0.4400000000"
-        ],
-        "EU (Paris)": [
-            "0.4400000000"
-        ],
-        "EU (Milan)": [
-            "0.5200000000"
-        ],
-        "EU (London)": [
-            "0.4400000000"
-        ],
-        "EU (Ireland)": [
-            "0.4400000000"
-        ],
-        "EU (Frankfurt)": [
-            "0.4400000000"
-        ],
-        "Canada (Central)": [
-            "0.4400000000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.4400000000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.4400000000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.4400000000"
-        ],
-        "Asia Pacific (Seoul)": [
-            "0.4400000000"
-        ],
-        "Asia Pacific (Osaka)": [
-            "0.4400000000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.4400000000"
-        ],
-        "Asia Pacific (Hong Kong)": [
-            "0.4400000000"
-        ],
-        "Africa (Cape Town)": [
-            "0.5240000000"
-        ],
-        "AWS GovCloud (US-East)": [
-            "0.4400000000"
-        ],
-        "AWS GovCloud (US)": [
-            "0.4400000000"
-        ]
+        "US West (Oregon)": "0.4400000000",
+        "US West (N. California)": "0.4400000000",
+        "US East (Ohio)": "0.4400000000",
+        "US East (N. Virginia)": "0.4400000000",
+        "South America (Sao Paulo)": "0.6900000000",
+        "Middle East (Bahrain)": "0.5900000000",
+        "EU (Stockholm)": "0.4400000000",
+        "EU (Paris)": "0.4400000000",
+        "EU (Milan)": "0.5200000000",
+        "EU (London)": "0.4400000000",
+        "EU (Ireland)": "0.4400000000",
+        "EU (Frankfurt)": "0.4400000000",
+        "Canada (Central)": "0.4400000000",
+        "Asia Pacific (Tokyo)": "0.4400000000",
+        "Asia Pacific (Sydney)": "0.4400000000",
+        "Asia Pacific (Singapore)": "0.4400000000",
+        "Asia Pacific (Seoul)": "0.4400000000",
+        "Asia Pacific (Osaka)": "0.4400000000",
+        "Asia Pacific (Mumbai)": "0.4400000000",
+        "Asia Pacific (Hong Kong)": "0.4400000000",
+        "Africa (Cape Town)": "0.5240000000",
+        "AWS GovCloud (US-East)": "0.4400000000",
+        "AWS GovCloud (US)": "0.4400000000"
     },
     "ETL Ray Job run": {
-        "Default": [
-            "0.4400000000"
-        ],
-        "US West (Oregon)": [
-            "0.4400000000"
-        ],
-        "US East (Ohio)": [
-            "0.4400000000"
-        ],
-        "US East (N. Virginia)": [
-            "0.4400000000"
-        ],
-        "EU (Ireland)": [
-            "0.4400000000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.4400000000"
-        ]
+        "US West (Oregon)": "0.4400000000",
+        "US East (Ohio)": "0.4400000000",
+        "US East (N. Virginia)": "0.4400000000",
+        "EU (Ireland)": "0.4400000000",
+        "Asia Pacific (Tokyo)": "0.4400000000"
     },
     "Data catalog crawler run": {
-        "Default": [
-            "0.4400000000"
-        ],
-        "US West (Oregon)": [
-            "0.4400000000"
-        ],
-        "US West (N. California)": [
-            "0.4400000000"
-        ],
-        "US East (Ohio)": [
-            "0.4400000000"
-        ],
-        "US East (N. Virginia)": [
-            "0.4400000000"
-        ],
-        "South America (Sao Paulo)": [
-            "0.6900000000"
-        ],
-        "Middle East (UAE)": [
-            "0.4400000000"
-        ],
-        "Middle East (Bahrain)": [
-            "0.5900000000"
-        ],
-        "Mexico (Central)": [
-            "0.4400000000"
-        ],
-        "Israel (Tel Aviv)": [
-            "0.4400000000"
-        ],
-        "EU (Zurich)": [
-            "0.4400000000"
-        ],
-        "EU (Stockholm)": [
-            "0.4400000000"
-        ],
-        "EU (Spain)": [
-            "0.4400000000"
-        ],
-        "EU (Paris)": [
-            "0.4400000000"
-        ],
-        "EU (Milan)": [
-            "0.5200000000"
-        ],
-        "EU (London)": [
-            "0.4400000000"
-        ],
-        "EU (Ireland)": [
-            "0.4400000000"
-        ],
-        "EU (Frankfurt)": [
-            "0.4400000000"
-        ],
-        "Canada West (Calgary)": [
-            "0.4400000000"
-        ],
-        "Canada (Central)": [
-            "0.4400000000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.4400000000"
-        ],
-        "Asia Pacific (Thailand)": [
-            "0.4400000000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.4400000000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.4400000000"
-        ],
-        "Asia Pacific (Seoul)": [
-            "0.4400000000"
-        ],
-        "Asia Pacific (Osaka)": [
-            "0.4400000000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.4400000000"
-        ],
-        "Asia Pacific (Melbourne)": [
-            "0.4400000000"
-        ],
-        "Asia Pacific (Jakarta)": [
-            "0.4400000000"
-        ],
-        "Asia Pacific (Hyderabad)": [
-            "0.4400000000"
-        ],
-        "Asia Pacific (Hong Kong)": [
-            "0.4400000000"
-        ],
-        "Africa (Cape Town)": [
-            "0.5240000000"
-        ],
-        "AWS GovCloud (US-East)": [
-            "0.4400000000"
-        ],
-        "AWS GovCloud (US)": [
-            "0.4400000000"
-        ]
+        "US West (Oregon)": "0.4400000000",
+        "US West (N. California)": "0.4400000000",
+        "US East (Ohio)": "0.4400000000",
+        "US East (N. Virginia)": "0.4400000000",
+        "South America (Sao Paulo)": "0.6900000000",
+        "Middle East (UAE)": "0.4400000000",
+        "Middle East (Bahrain)": "0.5900000000",
+        "Mexico (Central)": "0.4400000000",
+        "Israel (Tel Aviv)": "0.4400000000",
+        "EU (Zurich)": "0.4400000000",
+        "EU (Stockholm)": "0.4400000000",
+        "EU (Spain)": "0.4400000000",
+        "EU (Paris)": "0.4400000000",
+        "EU (Milan)": "0.5200000000",
+        "EU (London)": "0.4400000000",
+        "EU (Ireland)": "0.4400000000",
+        "EU (Frankfurt)": "0.4400000000",
+        "Canada West (Calgary)": "0.4400000000",
+        "Canada (Central)": "0.4400000000",
+        "Asia Pacific (Tokyo)": "0.4400000000",
+        "Asia Pacific (Thailand)": "0.4400000000",
+        "Asia Pacific (Sydney)": "0.4400000000",
+        "Asia Pacific (Singapore)": "0.4400000000",
+        "Asia Pacific (Seoul)": "0.4400000000",
+        "Asia Pacific (Osaka)": "0.4400000000",
+        "Asia Pacific (Mumbai)": "0.4400000000",
+        "Asia Pacific (Melbourne)": "0.4400000000",
+        "Asia Pacific (Jakarta)": "0.4400000000",
+        "Asia Pacific (Hyderabad)": "0.4400000000",
+        "Asia Pacific (Hong Kong)": "0.4400000000",
+        "Africa (Cape Town)": "0.5240000000",
+        "AWS GovCloud (US-East)": "0.4400000000",
+        "AWS GovCloud (US)": "0.4400000000"
     },
     "Data catalog storage": {
-        "Default": [
-            "0.0000100000"
-        ],
-        "US West (Oregon)": [
-            "0.0000100000"
-        ],
-        "US West (N. California)": [
-            "0.0000100000"
-        ],
-        "US East (Ohio)": [
-            "0.0000100000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0000100000"
-        ],
-        "Middle East (UAE)": [
-            "0.0000100000"
-        ],
-        "Middle East (Bahrain)": [
-            "0.0000100000"
-        ],
-        "Mexico (Central)": [
-            "0.0000100000"
-        ],
-        "Israel (Tel Aviv)": [
-            "0.0000100000"
-        ],
-        "EU (Zurich)": [
-            "0.0000100000"
-        ],
-        "EU (Stockholm)": [
-            "0.0000100000"
-        ],
-        "EU (Spain)": [
-            "0.0000100000"
-        ],
-        "EU (Paris)": [
-            "0.0000100000"
-        ],
-        "EU (Milan)": [
-            "0.0000100000"
-        ],
-        "EU (London)": [
-            "0.0000100000"
-        ],
-        "EU (Ireland)": [
-            "0.0000100000"
-        ],
-        "EU (Frankfurt)": [
-            "0.0000100000"
-        ],
-        "Canada West (Calgary)": [
-            "0.0000100000"
-        ],
-        "Canada (Central)": [
-            "0.0000100000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.0000100000"
-        ],
-        "Asia Pacific (Thailand)": [
-            "0.0000100000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.0000100000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.0000100000"
-        ],
-        "Asia Pacific (Seoul)": [
-            "0.0000100000"
-        ],
-        "Asia Pacific (Osaka)": [
-            "0.0000100000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.0000100000"
-        ],
-        "Asia Pacific (Melbourne)": [
-            "0.0000100000"
-        ],
-        "Asia Pacific (Jakarta)": [
-            "0.0000100000"
-        ],
-        "Asia Pacific (Hyderabad)": [
-            "0.0000100000"
-        ],
-        "Asia Pacific (Hong Kong)": [
-            "0.0000100000"
-        ],
-        "Africa (Cape Town)": [
-            "0.0000100000"
-        ],
-        "AWS GovCloud (US-East)": [
-            "0.0000100000"
-        ],
-        "AWS GovCloud (US)": [
-            "0.0000100000"
-        ]
+        "US West (Oregon)": "0.0000100000",
+        "US West (N. California)": "0.0000100000",
+        "US East (Ohio)": "0.0000100000",
+        "US East (N. Virginia)": "0.0000100000",
+        "Middle East (UAE)": "0.0000100000",
+        "Middle East (Bahrain)": "0.0000100000",
+        "Mexico (Central)": "0.0000100000",
+        "Israel (Tel Aviv)": "0.0000100000",
+        "EU (Zurich)": "0.0000100000",
+        "EU (Stockholm)": "0.0000100000",
+        "EU (Spain)": "0.0000100000",
+        "EU (Paris)": "0.0000100000",
+        "EU (Milan)": "0.0000100000",
+        "EU (London)": "0.0000100000",
+        "EU (Ireland)": "0.0000100000",
+        "EU (Frankfurt)": "0.0000100000",
+        "Canada West (Calgary)": "0.0000100000",
+        "Canada (Central)": "0.0000100000",
+        "Asia Pacific (Tokyo)": "0.0000100000",
+        "Asia Pacific (Thailand)": "0.0000100000",
+        "Asia Pacific (Sydney)": "0.0000100000",
+        "Asia Pacific (Singapore)": "0.0000100000",
+        "Asia Pacific (Seoul)": "0.0000100000",
+        "Asia Pacific (Osaka)": "0.0000100000",
+        "Asia Pacific (Mumbai)": "0.0000100000",
+        "Asia Pacific (Melbourne)": "0.0000100000",
+        "Asia Pacific (Jakarta)": "0.0000100000",
+        "Asia Pacific (Hyderabad)": "0.0000100000",
+        "Asia Pacific (Hong Kong)": "0.0000100000",
+        "Africa (Cape Town)": "0.0000100000",
+        "AWS GovCloud (US-East)": "0.0000100000",
+        "AWS GovCloud (US)": "0.0000100000"
     },
     "ETL Job run": {
-        "Default": [
-            "0.4400000000"
-        ],
-        "US West (Oregon)": [
-            "0.4400000000"
-        ],
-        "US West (N. California)": [
-            "0.4400000000"
-        ],
-        "US East (Ohio)": [
-            "0.4400000000"
-        ],
-        "US East (N. Virginia)": [
-            "0.4400000000"
-        ],
-        "South America (Sao Paulo)": [
-            "0.6900000000"
-        ],
-        "Middle East (UAE)": [
-            "0.4400000000"
-        ],
-        "Middle East (Bahrain)": [
-            "0.5900000000"
-        ],
-        "Mexico (Central)": [
-            "0.4400000000"
-        ],
-        "Israel (Tel Aviv)": [
-            "0.4400000000"
-        ],
-        "EU (Zurich)": [
-            "0.4400000000"
-        ],
-        "EU (Stockholm)": [
-            "0.4400000000"
-        ],
-        "EU (Spain)": [
-            "0.4400000000"
-        ],
-        "EU (Paris)": [
-            "0.4400000000"
-        ],
-        "EU (Milan)": [
-            "0.5200000000"
-        ],
-        "EU (London)": [
-            "0.4400000000"
-        ],
-        "EU (Ireland)": [
-            "0.4400000000"
-        ],
-        "EU (Frankfurt)": [
-            "0.4400000000"
-        ],
-        "Canada West (Calgary)": [
-            "0.4400000000"
-        ],
-        "Canada (Central)": [
-            "0.4400000000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.4400000000"
-        ],
-        "Asia Pacific (Thailand)": [
-            "0.4400000000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.4400000000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.4400000000"
-        ],
-        "Asia Pacific (Seoul)": [
-            "0.4400000000"
-        ],
-        "Asia Pacific (Osaka)": [
-            "0.4400000000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.4400000000"
-        ],
-        "Asia Pacific (Melbourne)": [
-            "0.4400000000"
-        ],
-        "Asia Pacific (Jakarta)": [
-            "0.4400000000"
-        ],
-        "Asia Pacific (Hyderabad)": [
-            "0.4400000000"
-        ],
-        "Asia Pacific (Hong Kong)": [
-            "0.4400000000"
-        ],
-        "Africa (Cape Town)": [
-            "0.5240000000"
-        ],
-        "AWS GovCloud (US-East)": [
-            "0.4400000000"
-        ],
-        "AWS GovCloud (US)": [
-            "0.4400000000"
-        ]
+        "US West (Oregon)": "0.4400000000",
+        "US West (N. California)": "0.4400000000",
+        "US East (Ohio)": "0.4400000000",
+        "US East (N. Virginia)": "0.4400000000",
+        "South America (Sao Paulo)": "0.6900000000",
+        "Middle East (UAE)": "0.4400000000",
+        "Middle East (Bahrain)": "0.5900000000",
+        "Mexico (Central)": "0.4400000000",
+        "Israel (Tel Aviv)": "0.4400000000",
+        "EU (Zurich)": "0.4400000000",
+        "EU (Stockholm)": "0.4400000000",
+        "EU (Spain)": "0.4400000000",
+        "EU (Paris)": "0.4400000000",
+        "EU (Milan)": "0.5200000000",
+        "EU (London)": "0.4400000000",
+        "EU (Ireland)": "0.4400000000",
+        "EU (Frankfurt)": "0.4400000000",
+        "Canada West (Calgary)": "0.4400000000",
+        "Canada (Central)": "0.4400000000",
+        "Asia Pacific (Tokyo)": "0.4400000000",
+        "Asia Pacific (Thailand)": "0.4400000000",
+        "Asia Pacific (Sydney)": "0.4400000000",
+        "Asia Pacific (Singapore)": "0.4400000000",
+        "Asia Pacific (Seoul)": "0.4400000000",
+        "Asia Pacific (Osaka)": "0.4400000000",
+        "Asia Pacific (Mumbai)": "0.4400000000",
+        "Asia Pacific (Melbourne)": "0.4400000000",
+        "Asia Pacific (Jakarta)": "0.4400000000",
+        "Asia Pacific (Hyderabad)": "0.4400000000",
+        "Asia Pacific (Hong Kong)": "0.4400000000",
+        "Africa (Cape Town)": "0.5240000000",
+        "AWS GovCloud (US-East)": "0.4400000000",
+        "AWS GovCloud (US)": "0.4400000000"
     },
     "ETL Job run All versions": {
-        "Default": [
-            "0.4400000000"
-        ],
-        "US West (Oregon)": [
-            "0.4400000000"
-        ],
-        "US West (N. California)": [
-            "0.4400000000"
-        ],
-        "US East (Ohio)": [
-            "0.4400000000"
-        ],
-        "US East (N. Virginia)": [
-            "0.4400000000"
-        ],
-        "South America (Sao Paulo)": [
-            "0.6900000000"
-        ],
-        "Middle East (Bahrain)": [
-            "0.5900000000"
-        ],
-        "Mexico (Central)": [
-            "0.4400000000"
-        ],
-        "Israel (Tel Aviv)": [
-            "0.4400000000"
-        ],
-        "EU (Zurich)": [
-            "0.4400000000"
-        ],
-        "EU (Stockholm)": [
-            "0.4400000000"
-        ],
-        "EU (Spain)": [
-            "0.4400000000"
-        ],
-        "EU (Paris)": [
-            "0.4400000000"
-        ],
-        "EU (Milan)": [
-            "0.5200000000"
-        ],
-        "EU (London)": [
-            "0.4400000000"
-        ],
-        "EU (Ireland)": [
-            "0.4400000000"
-        ],
-        "EU (Frankfurt)": [
-            "0.4400000000"
-        ],
-        "Canada West (Calgary)": [
-            "0.4400000000"
-        ],
-        "Canada (Central)": [
-            "0.4400000000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.4400000000"
-        ],
-        "Asia Pacific (Thailand)": [
-            "0.4400000000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.4400000000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.4400000000"
-        ],
-        "Asia Pacific (Seoul)": [
-            "0.4400000000"
-        ],
-        "Asia Pacific (Osaka)": [
-            "0.4400000000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.4400000000"
-        ],
-        "Asia Pacific (Melbourne)": [
-            "0.4400000000"
-        ],
-        "Asia Pacific (Hyderabad)": [
-            "0.4400000000"
-        ],
-        "Asia Pacific (Hong Kong)": [
-            "0.4400000000"
-        ],
-        "Africa (Cape Town)": [
-            "0.5240000000"
-        ],
-        "AWS GovCloud (US-East)": [
-            "0.4400000000"
-        ],
-        "AWS GovCloud (US)": [
-            "0.4400000000"
-        ]
+        "US West (Oregon)": "0.4400000000",
+        "US West (N. California)": "0.4400000000",
+        "US East (Ohio)": "0.4400000000",
+        "US East (N. Virginia)": "0.4400000000",
+        "South America (Sao Paulo)": "0.6900000000",
+        "Middle East (Bahrain)": "0.5900000000",
+        "Mexico (Central)": "0.4400000000",
+        "Israel (Tel Aviv)": "0.4400000000",
+        "EU (Zurich)": "0.4400000000",
+        "EU (Stockholm)": "0.4400000000",
+        "EU (Spain)": "0.4400000000",
+        "EU (Paris)": "0.4400000000",
+        "EU (Milan)": "0.5200000000",
+        "EU (London)": "0.4400000000",
+        "EU (Ireland)": "0.4400000000",
+        "EU (Frankfurt)": "0.4400000000",
+        "Canada West (Calgary)": "0.4400000000",
+        "Canada (Central)": "0.4400000000",
+        "Asia Pacific (Tokyo)": "0.4400000000",
+        "Asia Pacific (Thailand)": "0.4400000000",
+        "Asia Pacific (Sydney)": "0.4400000000",
+        "Asia Pacific (Singapore)": "0.4400000000",
+        "Asia Pacific (Seoul)": "0.4400000000",
+        "Asia Pacific (Osaka)": "0.4400000000",
+        "Asia Pacific (Mumbai)": "0.4400000000",
+        "Asia Pacific (Melbourne)": "0.4400000000",
+        "Asia Pacific (Hyderabad)": "0.4400000000",
+        "Asia Pacific (Hong Kong)": "0.4400000000",
+        "Africa (Cape Town)": "0.5240000000",
+        "AWS GovCloud (US-East)": "0.4400000000",
+        "AWS GovCloud (US)": "0.4400000000"
     },
     "Data Brew Job run": {
-        "Default": [
-            "0.4800000000"
-        ],
-        "US West (Oregon)": [
-            "0.4800000000"
-        ],
-        "US West (N. California)": [
-            "0.4800000000"
-        ],
-        "US East (Ohio)": [
-            "0.4800000000"
-        ],
-        "US East (N. Virginia)": [
-            "0.4800000000"
-        ],
-        "South America (Sao Paulo)": [
-            "0.7600000000"
-        ],
-        "EU (Stockholm)": [
-            "0.4800000000"
-        ],
-        "EU (Paris)": [
-            "0.4800000000"
-        ],
-        "EU (Milan)": [
-            "0.5800000000"
-        ],
-        "EU (London)": [
-            "0.4800000000"
-        ],
-        "EU (Ireland)": [
-            "0.4800000000"
-        ],
-        "EU (Frankfurt)": [
-            "0.4800000000"
-        ],
-        "Canada (Central)": [
-            "0.4800000000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.4800000000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.4800000000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.4800000000"
-        ],
-        "Asia Pacific (Seoul)": [
-            "0.4800000000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.4800000000"
-        ],
-        "Asia Pacific (Hong Kong)": [
-            "0.4800000000"
-        ],
-        "Africa (Cape Town)": [
-            "0.5800000000"
-        ],
-        "AWS GovCloud (US)": [
-            "0.4800000000"
-        ]
+        "US West (Oregon)": "0.4800000000",
+        "US West (N. California)": "0.4800000000",
+        "US East (Ohio)": "0.4800000000",
+        "US East (N. Virginia)": "0.4800000000",
+        "South America (Sao Paulo)": "0.7600000000",
+        "EU (Stockholm)": "0.4800000000",
+        "EU (Paris)": "0.4800000000",
+        "EU (Milan)": "0.5800000000",
+        "EU (London)": "0.4800000000",
+        "EU (Ireland)": "0.4800000000",
+        "EU (Frankfurt)": "0.4800000000",
+        "Canada (Central)": "0.4800000000",
+        "Asia Pacific (Tokyo)": "0.4800000000",
+        "Asia Pacific (Sydney)": "0.4800000000",
+        "Asia Pacific (Singapore)": "0.4800000000",
+        "Asia Pacific (Seoul)": "0.4800000000",
+        "Asia Pacific (Mumbai)": "0.4800000000",
+        "Asia Pacific (Hong Kong)": "0.4800000000",
+        "Africa (Cape Town)": "0.5800000000",
+        "AWS GovCloud (US)": "0.4800000000"
     },
     "Data catalog requests": {
-        "Default": [
-            "0.0000010000"
-        ],
-        "US West (Oregon)": [
-            "0.0000010000"
-        ],
-        "US West (N. California)": [
-            "0.0000010000"
-        ],
-        "US East (Ohio)": [
-            "0.0000010000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0000010000"
-        ],
-        "South America (Sao Paulo)": [
-            "0.0000010000"
-        ],
-        "Middle East (UAE)": [
-            "0.0000010000"
-        ],
-        "Middle East (Bahrain)": [
-            "0.0000010000"
-        ],
-        "Mexico (Central)": [
-            "0.0000010000"
-        ],
-        "Israel (Tel Aviv)": [
-            "0.0000010000"
-        ],
-        "EU (Zurich)": [
-            "0.0000010000"
-        ],
-        "EU (Stockholm)": [
-            "0.0000010000"
-        ],
-        "EU (Spain)": [
-            "0.0000010000"
-        ],
-        "EU (Paris)": [
-            "0.0000010000"
-        ],
-        "EU (Milan)": [
-            "0.0000010000"
-        ],
-        "EU (London)": [
-            "0.0000010000"
-        ],
-        "EU (Ireland)": [
-            "0.0000010000"
-        ],
-        "EU (Frankfurt)": [
-            "0.0000010000"
-        ],
-        "Canada West (Calgary)": [
-            "0.0000010000"
-        ],
-        "Canada (Central)": [
-            "0.0000010000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.0000010000"
-        ],
-        "Asia Pacific (Thailand)": [
-            "0.0000010000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.0000010000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.0000010000"
-        ],
-        "Asia Pacific (Seoul)": [
-            "0.0000010000"
-        ],
-        "Asia Pacific (Osaka)": [
-            "0.0000010000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.0000010000"
-        ],
-        "Asia Pacific (Melbourne)": [
-            "0.0000010000"
-        ],
-        "Asia Pacific (Jakarta)": [
-            "0.0000010000"
-        ],
-        "Asia Pacific (Hyderabad)": [
-            "0.0000010000"
-        ],
-        "Asia Pacific (Hong Kong)": [
-            "0.0000010000"
-        ],
-        "Africa (Cape Town)": [
-            "0.0000010000"
-        ],
-        "AWS GovCloud (US-East)": [
-            "0.0000010000"
-        ],
-        "AWS GovCloud (US)": [
-            "0.0000010000"
-        ]
+        "US West (Oregon)": "0.0000010000",
+        "US West (N. California)": "0.0000010000",
+        "US East (Ohio)": "0.0000010000",
+        "US East (N. Virginia)": "0.0000010000",
+        "South America (Sao Paulo)": "0.0000010000",
+        "Middle East (UAE)": "0.0000010000",
+        "Middle East (Bahrain)": "0.0000010000",
+        "Mexico (Central)": "0.0000010000",
+        "Israel (Tel Aviv)": "0.0000010000",
+        "EU (Zurich)": "0.0000010000",
+        "EU (Stockholm)": "0.0000010000",
+        "EU (Spain)": "0.0000010000",
+        "EU (Paris)": "0.0000010000",
+        "EU (Milan)": "0.0000010000",
+        "EU (London)": "0.0000010000",
+        "EU (Ireland)": "0.0000010000",
+        "EU (Frankfurt)": "0.0000010000",
+        "Canada West (Calgary)": "0.0000010000",
+        "Canada (Central)": "0.0000010000",
+        "Asia Pacific (Tokyo)": "0.0000010000",
+        "Asia Pacific (Thailand)": "0.0000010000",
+        "Asia Pacific (Sydney)": "0.0000010000",
+        "Asia Pacific (Singapore)": "0.0000010000",
+        "Asia Pacific (Seoul)": "0.0000010000",
+        "Asia Pacific (Osaka)": "0.0000010000",
+        "Asia Pacific (Mumbai)": "0.0000010000",
+        "Asia Pacific (Melbourne)": "0.0000010000",
+        "Asia Pacific (Jakarta)": "0.0000010000",
+        "Asia Pacific (Hyderabad)": "0.0000010000",
+        "Asia Pacific (Hong Kong)": "0.0000010000",
+        "Africa (Cape Town)": "0.0000010000",
+        "AWS GovCloud (US-East)": "0.0000010000",
+        "AWS GovCloud (US)": "0.0000010000"
     },
     "ETL Job run Flex": {
-        "Default": [
-            "0.2900000000"
-        ],
-        "US West (Oregon)": [
-            "0.2900000000"
-        ],
-        "US West (N. California)": [
-            "0.2900000000"
-        ],
-        "US East (Ohio)": [
-            "0.2900000000"
-        ],
-        "US East (N. Virginia)": [
-            "0.2900000000"
-        ],
-        "South America (Sao Paulo)": [
-            "0.4500000000"
-        ],
-        "Middle East (Bahrain)": [
-            "0.3900000000"
-        ],
-        "EU (Stockholm)": [
-            "0.2900000000"
-        ],
-        "EU (Paris)": [
-            "0.2900000000"
-        ],
-        "EU (Milan)": [
-            "0.3500000000"
-        ],
-        "EU (London)": [
-            "0.2900000000"
-        ],
-        "EU (Ireland)": [
-            "0.2900000000"
-        ],
-        "EU (Frankfurt)": [
-            "0.2900000000"
-        ],
-        "Canada (Central)": [
-            "0.2900000000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.2900000000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.2900000000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.2900000000"
-        ],
-        "Asia Pacific (Seoul)": [
-            "0.2900000000"
-        ],
-        "Asia Pacific (Osaka)": [
-            "0.2900000000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.2900000000"
-        ],
-        "Asia Pacific (Hong Kong)": [
-            "0.2900000000"
-        ],
-        "Africa (Cape Town)": [
-            "0.3500000000"
-        ]
+        "US West (Oregon)": "0.2900000000",
+        "US West (N. California)": "0.2900000000",
+        "US East (Ohio)": "0.2900000000",
+        "US East (N. Virginia)": "0.2900000000",
+        "South America (Sao Paulo)": "0.4500000000",
+        "Middle East (Bahrain)": "0.3900000000",
+        "EU (Stockholm)": "0.2900000000",
+        "EU (Paris)": "0.2900000000",
+        "EU (Milan)": "0.3500000000",
+        "EU (London)": "0.2900000000",
+        "EU (Ireland)": "0.2900000000",
+        "EU (Frankfurt)": "0.2900000000",
+        "Canada (Central)": "0.2900000000",
+        "Asia Pacific (Tokyo)": "0.2900000000",
+        "Asia Pacific (Sydney)": "0.2900000000",
+        "Asia Pacific (Singapore)": "0.2900000000",
+        "Asia Pacific (Seoul)": "0.2900000000",
+        "Asia Pacific (Osaka)": "0.2900000000",
+        "Asia Pacific (Mumbai)": "0.2900000000",
+        "Asia Pacific (Hong Kong)": "0.2900000000",
+        "Africa (Cape Town)": "0.3500000000"
     },
     "ETL Ray Interactive Session": {
-        "Default": [
-            "0.4400000000"
-        ],
-        "US West (Oregon)": [
-            "0.4400000000"
-        ],
-        "US East (Ohio)": [
-            "0.4400000000"
-        ],
-        "US East (N. Virginia)": [
-            "0.4400000000"
-        ],
-        "EU (Ireland)": [
-            "0.4400000000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.4400000000"
-        ]
+        "US West (Oregon)": "0.4400000000",
+        "US East (Ohio)": "0.4400000000",
+        "US East (N. Virginia)": "0.4400000000",
+        "EU (Ireland)": "0.4400000000",
+        "Asia Pacific (Tokyo)": "0.4400000000"
     },
     "Data lake optimization job run": {
-        "Default": [
-            "0.4400000000"
-        ],
-        "US West (Oregon)": [
-            "0.4400000000"
-        ],
-        "US West (N. California)": [
-            "0.4400000000"
-        ],
-        "US East (Ohio)": [
-            "0.4400000000"
-        ],
-        "US East (N. Virginia)": [
-            "0.4400000000"
-        ],
-        "South America (Sao Paulo)": [
-            "0.4400000000"
-        ],
-        "Middle East (UAE)": [
-            "0.4400000000"
-        ],
-        "Middle East (Bahrain)": [
-            "0.4400000000"
-        ],
-        "Mexico (Central)": [
-            "0.4400000000"
-        ],
-        "Israel (Tel Aviv)": [
-            "0.4400000000"
-        ],
-        "EU (Zurich)": [
-            "0.4400000000"
-        ],
-        "EU (Stockholm)": [
-            "0.4400000000"
-        ],
-        "EU (Spain)": [
-            "0.4400000000"
-        ],
-        "EU (Paris)": [
-            "0.4400000000"
-        ],
-        "EU (Milan)": [
-            "0.4400000000"
-        ],
-        "EU (London)": [
-            "0.4400000000"
-        ],
-        "EU (Ireland)": [
-            "0.4400000000"
-        ],
-        "EU (Frankfurt)": [
-            "0.4400000000"
-        ],
-        "Canada (Central)": [
-            "0.4400000000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.4400000000"
-        ],
-        "Asia Pacific (Thailand)": [
-            "0.4400000000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.4400000000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.4400000000"
-        ],
-        "Asia Pacific (Seoul)": [
-            "0.4400000000"
-        ],
-        "Asia Pacific (Osaka)": [
-            "0.4400000000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.4400000000"
-        ],
-        "Asia Pacific (Melbourne)": [
-            "0.4400000000"
-        ],
-        "Asia Pacific (Jakarta)": [
-            "0.4400000000"
-        ],
-        "Asia Pacific (Hyderabad)": [
-            "0.4400000000"
-        ],
-        "Asia Pacific (Hong Kong)": [
-            "0.4400000000"
-        ],
-        "Africa (Cape Town)": [
-            "0.4400000000"
-        ],
-        "AWS GovCloud (US-East)": [
-            "0.4400000000"
-        ],
-        "AWS GovCloud (US)": [
-            "0.4400000000"
-        ]
+        "US West (Oregon)": "0.4400000000",
+        "US West (N. California)": "0.4400000000",
+        "US East (Ohio)": "0.4400000000",
+        "US East (N. Virginia)": "0.4400000000",
+        "South America (Sao Paulo)": "0.4400000000",
+        "Middle East (UAE)": "0.4400000000",
+        "Middle East (Bahrain)": "0.4400000000",
+        "Mexico (Central)": "0.4400000000",
+        "Israel (Tel Aviv)": "0.4400000000",
+        "EU (Zurich)": "0.4400000000",
+        "EU (Stockholm)": "0.4400000000",
+        "EU (Spain)": "0.4400000000",
+        "EU (Paris)": "0.4400000000",
+        "EU (Milan)": "0.4400000000",
+        "EU (London)": "0.4400000000",
+        "EU (Ireland)": "0.4400000000",
+        "EU (Frankfurt)": "0.4400000000",
+        "Canada (Central)": "0.4400000000",
+        "Asia Pacific (Tokyo)": "0.4400000000",
+        "Asia Pacific (Thailand)": "0.4400000000",
+        "Asia Pacific (Sydney)": "0.4400000000",
+        "Asia Pacific (Singapore)": "0.4400000000",
+        "Asia Pacific (Seoul)": "0.4400000000",
+        "Asia Pacific (Osaka)": "0.4400000000",
+        "Asia Pacific (Mumbai)": "0.4400000000",
+        "Asia Pacific (Melbourne)": "0.4400000000",
+        "Asia Pacific (Jakarta)": "0.4400000000",
+        "Asia Pacific (Hyderabad)": "0.4400000000",
+        "Asia Pacific (Hong Kong)": "0.4400000000",
+        "Africa (Cape Town)": "0.4400000000",
+        "AWS GovCloud (US-East)": "0.4400000000",
+        "AWS GovCloud (US)": "0.4400000000"
     },
     "ETL Job run NEW version only": {
-        "Default": [
-            "0.4400000000"
-        ],
-        "Middle East (UAE)": [
-            "0.4400000000"
-        ],
-        "Mexico (Central)": [
-            "0.4400000000"
-        ],
-        "Asia Pacific (Thailand)": [
-            "0.4400000000"
-        ],
-        "Asia Pacific (Jakarta)": [
-            "0.4400000000"
-        ]
+        "Middle East (UAE)": "0.4400000000",
+        "Mexico (Central)": "0.4400000000",
+        "Asia Pacific (Thailand)": "0.4400000000",
+        "Asia Pacific (Jakarta)": "0.4400000000"
     },
     "Data Catalog storage Free Tier": {
-        "Default": [
-            "0.0000000000"
-        ],
-        "Any": [
-            "0.0000000000"
-        ]
+        "Any": "0.0000000000"
     },
     "Data Catalog Requests Free Tier": {
-        "Default": [
-            "0.0000000000"
-        ],
-        "Any": [
-            "0.0000000000"
-        ]
+        "Any": "0.0000000000"
     }
 }

@@ -1,18 +1,8 @@
 {
     "Mobile Analytics FREE first 100M": {
-        "Default": [
-            "0.0000000000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0000000000"
-        ]
+        "US East (N. Virginia)": "0.0000000000"
     },
     "Mobile Analytics": {
-        "Default": [
-            "0.0000010000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0000010000"
-        ]
+        "US East (N. Virginia)": "0.0000010000"
     }
 }

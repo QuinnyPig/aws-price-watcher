@@ -1,53 +1,20 @@
 {
     "Storage Frequent Access per GB-month": {
-        "Default": [
-            "0.1050000000"
-        ],
-        "US West (Oregon)": [
-            "0.1050000000"
-        ],
-        "US East (N. Virginia)": [
-            "0.1050000000"
-        ],
-        "EU (Ireland)": [
-            "0.1050000000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.1150000000"
-        ]
+        "US West (Oregon)": "0.1050000000",
+        "US East (N. Virginia)": "0.1050000000",
+        "EU (Ireland)": "0.1050000000",
+        "Asia Pacific (Sydney)": "0.1150000000"
     },
     "Storage Archive Instant Access per GB-month": {
-        "Default": [
-            "0.0060000000"
-        ],
-        "US West (Oregon)": [
-            "0.0060000000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0060000000"
-        ],
-        "EU (Ireland)": [
-            "0.0060000000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.0075000000"
-        ]
+        "US West (Oregon)": "0.0060000000",
+        "US East (N. Virginia)": "0.0060000000",
+        "EU (Ireland)": "0.0060000000",
+        "Asia Pacific (Sydney)": "0.0075000000"
     },
     "API Request Core API per Requests": {
-        "Default": [
-            "0.0000050000"
-        ],
-        "US West (Oregon)": [
-            "0.0000050000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0000050000"
-        ],
-        "EU (Ireland)": [
-            "0.0000050000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.0000050000"
-        ]
+        "US West (Oregon)": "0.0000050000",
+        "US East (N. Virginia)": "0.0000050000",
+        "EU (Ireland)": "0.0000050000",
+        "Asia Pacific (Sydney)": "0.0000050000"
     }
 }

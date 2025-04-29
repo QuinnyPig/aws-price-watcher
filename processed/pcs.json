@@ -1,162 +1,57 @@
 {
     "AWSParallelComputingService Small Running Slurm": {
-        "Default": [
-            "0.5825000000"
-        ],
-        "US West (Oregon)": [
-            "0.5825000000"
-        ],
-        "US East (Ohio)": [
-            "0.5977000000"
-        ],
-        "US East (N. Virginia)": [
-            "0.5825000000"
-        ],
-        "EU (Stockholm)": [
-            "0.7178000000"
-        ],
-        "EU (Ireland)": [
-            "0.6333000000"
-        ],
-        "EU (Frankfurt)": [
-            "0.7839000000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.7702000000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.7017000000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.8281000000"
-        ]
+        "US West (Oregon)": "0.5825000000",
+        "US East (Ohio)": "0.5977000000",
+        "US East (N. Virginia)": "0.5825000000",
+        "EU (Stockholm)": "0.7178000000",
+        "EU (Ireland)": "0.6333000000",
+        "EU (Frankfurt)": "0.7839000000",
+        "Asia Pacific (Tokyo)": "0.7702000000",
+        "Asia Pacific (Sydney)": "0.7017000000",
+        "Asia Pacific (Singapore)": "0.8281000000"
     },
     "AWSParallelComputingService SlurmStd": {
-        "Default": [
-            "0.0800000000"
-        ],
-        "US West (Oregon)": [
-            "0.0800000000"
-        ],
-        "US East (Ohio)": [
-            "0.0821000000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0800000000"
-        ],
-        "EU (Stockholm)": [
-            "0.0986000000"
-        ],
-        "EU (Ireland)": [
-            "0.0870000000"
-        ],
-        "EU (Frankfurt)": [
-            "0.1077000000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.1058000000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.0964000000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.1137000000"
-        ]
+        "US West (Oregon)": "0.0800000000",
+        "US East (Ohio)": "0.0821000000",
+        "US East (N. Virginia)": "0.0800000000",
+        "EU (Stockholm)": "0.0986000000",
+        "EU (Ireland)": "0.0870000000",
+        "EU (Frankfurt)": "0.1077000000",
+        "Asia Pacific (Tokyo)": "0.1058000000",
+        "Asia Pacific (Sydney)": "0.0964000000",
+        "Asia Pacific (Singapore)": "0.1137000000"
     },
     "AWSParallelComputingService Large Running Slurm": {
-        "Default": [
-            "6.5426000000"
-        ],
-        "US West (Oregon)": [
-            "6.5426000000"
-        ],
-        "US East (Ohio)": [
-            "6.7133000000"
-        ],
-        "US East (N. Virginia)": [
-            "6.5426000000"
-        ],
-        "EU (Stockholm)": [
-            "8.0622000000"
-        ],
-        "EU (Ireland)": [
-            "7.1133000000"
-        ],
-        "EU (Frankfurt)": [
-            "8.8043000000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "8.6507000000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "7.8819000000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "9.3014000000"
-        ]
+        "US West (Oregon)": "6.5426000000",
+        "US East (Ohio)": "6.7133000000",
+        "US East (N. Virginia)": "6.5426000000",
+        "EU (Stockholm)": "8.0622000000",
+        "EU (Ireland)": "7.1133000000",
+        "EU (Frankfurt)": "8.8043000000",
+        "Asia Pacific (Tokyo)": "8.6507000000",
+        "Asia Pacific (Sydney)": "7.8819000000",
+        "Asia Pacific (Singapore)": "9.3014000000"
     },
     "AWSParallelComputingService SlurmAdv": {
-        "Default": [
-            "0.6400000000"
-        ],
-        "US West (Oregon)": [
-            "0.6400000000"
-        ],
-        "US East (Ohio)": [
-            "0.6567000000"
-        ],
-        "US East (N. Virginia)": [
-            "0.6400000000"
-        ],
-        "EU (Stockholm)": [
-            "0.7886000000"
-        ],
-        "EU (Ireland)": [
-            "0.6958000000"
-        ],
-        "EU (Frankfurt)": [
-            "0.8612000000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.8462000000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.7710000000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.9099000000"
-        ]
+        "US West (Oregon)": "0.6400000000",
+        "US East (Ohio)": "0.6567000000",
+        "US East (N. Virginia)": "0.6400000000",
+        "EU (Stockholm)": "0.7886000000",
+        "EU (Ireland)": "0.6958000000",
+        "EU (Frankfurt)": "0.8612000000",
+        "Asia Pacific (Tokyo)": "0.8462000000",
+        "Asia Pacific (Sydney)": "0.7710000000",
+        "Asia Pacific (Singapore)": "0.9099000000"
     },
     "AWSParallelComputingService Medium Running Slurm": {
-        "Default": [
-            "3.2579000000"
-        ],
-        "US West (Oregon)": [
-            "3.2579000000"
-        ],
-        "US East (Ohio)": [
-            "3.3429000000"
-        ],
-        "US East (N. Virginia)": [
-            "3.2579000000"
-        ],
-        "EU (Stockholm)": [
-            "4.0146000000"
-        ],
-        "EU (Ireland)": [
-            "3.5421000000"
-        ],
-        "EU (Frankfurt)": [
-            "4.3841000000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "4.3076000000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "3.9248000000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "4.6316000000"
-        ]
+        "US West (Oregon)": "3.2579000000",
+        "US East (Ohio)": "3.3429000000",
+        "US East (N. Virginia)": "3.2579000000",
+        "EU (Stockholm)": "4.0146000000",
+        "EU (Ireland)": "3.5421000000",
+        "EU (Frankfurt)": "4.3841000000",
+        "Asia Pacific (Tokyo)": "4.3076000000",
+        "Asia Pacific (Sydney)": "3.9248000000",
+        "Asia Pacific (Singapore)": "4.6316000000"
     }
 }

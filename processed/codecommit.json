@@ -1,18 +1,8 @@
 {
     "AWSCodeCommit StartingRange 5 Inf": {
-        "Default": [
-            "1.0000000000"
-        ],
-        "Any": [
-            "1.0000000000"
-        ]
+        "Any": "1.0000000000"
     },
     "AWSCodeCommit StartingRange 0 5": {
-        "Default": [
-            "0.0000000000"
-        ],
-        "Any": [
-            "0.0000000000"
-        ]
+        "Any": "0.0000000000"
     }
 }

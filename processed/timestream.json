@@ -1,2555 +1,587 @@
 {
-    "Database Instance InfluxDB No license required Cluster": {
-        "Default": [
-            "5.7380000000"
-        ],
-        "US West (Oregon) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": [
-            "5.7380000000"
-        ],
-        "US West (Oregon) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": [
-            "7.6500000000"
-        ],
-        "US West (Oregon) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": [
-            "0.9560000000"
-        ],
-        "US West (Oregon) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": [
-            "1.9130000000"
-        ],
-        "US West (Oregon) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": [
-            "3.8250000000"
-        ],
-        "US West (Oregon) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": [
-            "0.2390000000"
-        ],
-        "US West (Oregon) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": [
-            "0.1200000000"
-        ],
-        "US West (Oregon) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": [
-            "0.4780000000"
-        ],
-        "US East (Ohio) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": [
-            "5.7380000000"
-        ],
-        "US East (Ohio) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": [
-            "7.6500000000"
-        ],
-        "US East (Ohio) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": [
-            "0.9560000000"
-        ],
-        "US East (Ohio) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": [
-            "1.9130000000"
-        ],
-        "US East (Ohio) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": [
-            "3.8250000000"
-        ],
-        "US East (Ohio) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": [
-            "0.2390000000"
-        ],
-        "US East (Ohio) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": [
-            "0.1200000000"
-        ],
-        "US East (Ohio) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": [
-            "0.4780000000"
-        ],
-        "US East (N. Virginia) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": [
-            "5.7380000000"
-        ],
-        "US East (N. Virginia) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": [
-            "7.6500000000"
-        ],
-        "US East (N. Virginia) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": [
-            "0.9560000000"
-        ],
-        "US East (N. Virginia) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": [
-            "1.9130000000"
-        ],
-        "US East (N. Virginia) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": [
-            "3.8250000000"
-        ],
-        "US East (N. Virginia) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": [
-            "0.2390000000"
-        ],
-        "US East (N. Virginia) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": [
-            "0.1200000000"
-        ],
-        "US East (N. Virginia) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": [
-            "0.4780000000"
-        ],
-        "EU (Stockholm) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": [
-            "5.8570000000"
-        ],
-        "EU (Stockholm) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": [
-            "7.8090000000"
-        ],
-        "EU (Stockholm) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": [
-            "0.9760000000"
-        ],
-        "EU (Stockholm) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": [
-            "1.9530000000"
-        ],
-        "EU (Stockholm) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": [
-            "3.9050000000"
-        ],
-        "EU (Stockholm) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": [
-            "0.2440000000"
-        ],
-        "EU (Stockholm) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": [
-            "0.1220000000"
-        ],
-        "EU (Stockholm) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": [
-            "0.4880000000"
-        ],
-        "EU (Paris) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": [
-            "6.6720000000"
-        ],
-        "EU (Paris) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": [
-            "8.8960000000"
-        ],
-        "EU (Paris) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": [
-            "1.1120000000"
-        ],
-        "EU (Paris) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": [
-            "2.2240000000"
-        ],
-        "EU (Paris) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": [
-            "4.4480000000"
-        ],
-        "EU (Paris) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": [
-            "0.2780000000"
-        ],
-        "EU (Paris) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": [
-            "0.1390000000"
-        ],
-        "EU (Paris) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": [
-            "0.5560000000"
-        ],
-        "EU (Milan) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": [
-            "6.6240000000"
-        ],
-        "EU (Milan) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": [
-            "8.8320000000"
-        ],
-        "EU (Milan) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": [
-            "1.1040000000"
-        ],
-        "EU (Milan) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": [
-            "2.2080000000"
-        ],
-        "EU (Milan) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": [
-            "4.4160000000"
-        ],
-        "EU (Milan) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": [
-            "0.2760000000"
-        ],
-        "EU (Milan) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": [
-            "0.1380000000"
-        ],
-        "EU (Milan) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": [
-            "0.5520000000"
-        ],
-        "EU (London) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": [
-            "6.7200000000"
-        ],
-        "EU (London) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": [
-            "8.9600000000"
-        ],
-        "EU (London) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": [
-            "1.1200000000"
-        ],
-        "EU (London) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": [
-            "2.2400000000"
-        ],
-        "EU (London) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": [
-            "4.4800000000"
-        ],
-        "EU (London) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": [
-            "0.2800000000"
-        ],
-        "EU (London) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": [
-            "0.1400000000"
-        ],
-        "EU (London) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": [
-            "0.5600000000"
-        ],
-        "EU (Ireland) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": [
-            "6.4290000000"
-        ],
-        "EU (Ireland) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": [
-            "8.5720000000"
-        ],
-        "EU (Ireland) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": [
-            "1.0710000000"
-        ],
-        "EU (Ireland) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": [
-            "2.1430000000"
-        ],
-        "EU (Ireland) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": [
-            "4.2860000000"
-        ],
-        "EU (Ireland) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": [
-            "0.2680000000"
-        ],
-        "EU (Ireland) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": [
-            "0.1340000000"
-        ],
-        "EU (Ireland) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": [
-            "0.5360000000"
-        ],
-        "EU (Frankfurt) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": [
-            "6.9320000000"
-        ],
-        "EU (Frankfurt) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": [
-            "9.2410000000"
-        ],
-        "EU (Frankfurt) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": [
-            "1.1550000000"
-        ],
-        "EU (Frankfurt) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": [
-            "2.3110000000"
-        ],
-        "EU (Frankfurt) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": [
-            "4.6210000000"
-        ],
-        "EU (Frankfurt) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": [
-            "0.2890000000"
-        ],
-        "EU (Frankfurt) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": [
-            "0.1450000000"
-        ],
-        "EU (Frankfurt) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": [
-            "0.5770000000"
-        ],
-        "Canada (Central) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": [
-            "6.1920000000"
-        ],
-        "Canada (Central) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": [
-            "8.2560000000"
-        ],
-        "Canada (Central) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": [
-            "1.0320000000"
-        ],
-        "Canada (Central) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": [
-            "2.0640000000"
-        ],
-        "Canada (Central) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": [
-            "4.1280000000"
-        ],
-        "Canada (Central) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": [
-            "0.2580000000"
-        ],
-        "Canada (Central) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": [
-            "0.1290000000"
-        ],
-        "Canada (Central) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": [
-            "0.5160000000"
-        ],
-        "Asia Pacific (Tokyo) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": [
-            "6.8140000000"
-        ],
-        "Asia Pacific (Tokyo) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": [
-            "9.0840000000"
-        ],
-        "Asia Pacific (Tokyo) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": [
-            "1.1350000000"
-        ],
-        "Asia Pacific (Tokyo) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": [
-            "2.2720000000"
-        ],
-        "Asia Pacific (Tokyo) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": [
-            "4.5420000000"
-        ],
-        "Asia Pacific (Tokyo) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": [
-            "0.2840000000"
-        ],
-        "Asia Pacific (Tokyo) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": [
-            "0.1420000000"
-        ],
-        "Asia Pacific (Tokyo) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": [
-            "0.5680000000"
-        ],
-        "Asia Pacific (Sydney) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": [
-            "6.8140000000"
-        ],
-        "Asia Pacific (Sydney) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": [
-            "9.0840000000"
-        ],
-        "Asia Pacific (Sydney) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": [
-            "1.1350000000"
-        ],
-        "Asia Pacific (Sydney) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": [
-            "2.2720000000"
-        ],
-        "Asia Pacific (Sydney) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": [
-            "4.5420000000"
-        ],
-        "Asia Pacific (Sydney) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": [
-            "0.2840000000"
-        ],
-        "Asia Pacific (Sydney) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": [
-            "0.1420000000"
-        ],
-        "Asia Pacific (Sydney) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": [
-            "0.5680000000"
-        ],
-        "Asia Pacific (Singapore) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": [
-            "6.8140000000"
-        ],
-        "Asia Pacific (Singapore) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": [
-            "9.0840000000"
-        ],
-        "Asia Pacific (Singapore) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": [
-            "1.1350000000"
-        ],
-        "Asia Pacific (Singapore) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": [
-            "2.2720000000"
-        ],
-        "Asia Pacific (Singapore) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": [
-            "4.5420000000"
-        ],
-        "Asia Pacific (Singapore) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": [
-            "0.2840000000"
-        ],
-        "Asia Pacific (Singapore) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": [
-            "0.1420000000"
-        ],
-        "Asia Pacific (Singapore) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": [
-            "0.5680000000"
-        ],
-        "Asia Pacific (Mumbai) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": [
-            "6.4550000000"
-        ],
-        "Asia Pacific (Mumbai) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": [
-            "8.6060000000"
-        ],
-        "Asia Pacific (Mumbai) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": [
-            "1.0760000000"
-        ],
-        "Asia Pacific (Mumbai) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": [
-            "2.1520000000"
-        ],
-        "Asia Pacific (Mumbai) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": [
-            "4.3030000000"
-        ],
-        "Asia Pacific (Mumbai) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": [
-            "0.2690000000"
-        ],
-        "Asia Pacific (Mumbai) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": [
-            "0.1350000000"
-        ],
-        "Asia Pacific (Mumbai) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": [
-            "0.5380000000"
-        ]
+    "[Database Instance InfluxDB No license required Cluster]": {
+        "US West (Oregon) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": "5.7380000000",
+        "US West (Oregon) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": "7.6500000000",
+        "US West (Oregon) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": "0.9560000000",
+        "US West (Oregon) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": "1.9130000000",
+        "US West (Oregon) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": "3.8250000000",
+        "US West (Oregon) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": "0.2390000000",
+        "US West (Oregon) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": "0.1200000000",
+        "US West (Oregon) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": "0.4780000000",
+        "US East (Ohio) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": "5.7380000000",
+        "US East (Ohio) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": "7.6500000000",
+        "US East (Ohio) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": "0.9560000000",
+        "US East (Ohio) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": "1.9130000000",
+        "US East (Ohio) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": "3.8250000000",
+        "US East (Ohio) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": "0.2390000000",
+        "US East (Ohio) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": "0.1200000000",
+        "US East (Ohio) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": "0.4780000000",
+        "US East (N. Virginia) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": "5.7380000000",
+        "US East (N. Virginia) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": "7.6500000000",
+        "US East (N. Virginia) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": "0.9560000000",
+        "US East (N. Virginia) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": "1.9130000000",
+        "US East (N. Virginia) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": "3.8250000000",
+        "US East (N. Virginia) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": "0.2390000000",
+        "US East (N. Virginia) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": "0.1200000000",
+        "US East (N. Virginia) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": "0.4780000000",
+        "EU (Stockholm) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": "5.8570000000",
+        "EU (Stockholm) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": "7.8090000000",
+        "EU (Stockholm) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": "0.9760000000",
+        "EU (Stockholm) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": "1.9530000000",
+        "EU (Stockholm) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": "3.9050000000",
+        "EU (Stockholm) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": "0.2440000000",
+        "EU (Stockholm) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": "0.1220000000",
+        "EU (Stockholm) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": "0.4880000000",
+        "EU (Paris) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": "6.6720000000",
+        "EU (Paris) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": "8.8960000000",
+        "EU (Paris) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": "1.1120000000",
+        "EU (Paris) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": "2.2240000000",
+        "EU (Paris) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": "4.4480000000",
+        "EU (Paris) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": "0.2780000000",
+        "EU (Paris) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": "0.1390000000",
+        "EU (Paris) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": "0.5560000000",
+        "EU (Milan) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": "6.6240000000",
+        "EU (Milan) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": "8.8320000000",
+        "EU (Milan) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": "1.1040000000",
+        "EU (Milan) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": "2.2080000000",
+        "EU (Milan) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": "4.4160000000",
+        "EU (Milan) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": "0.2760000000",
+        "EU (Milan) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": "0.1380000000",
+        "EU (Milan) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": "0.5520000000",
+        "EU (London) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": "6.7200000000",
+        "EU (London) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": "8.9600000000",
+        "EU (London) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": "1.1200000000",
+        "EU (London) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": "2.2400000000",
+        "EU (London) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": "4.4800000000",
+        "EU (London) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": "0.2800000000",
+        "EU (London) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": "0.1400000000",
+        "EU (London) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": "0.5600000000",
+        "EU (Ireland) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": "6.4290000000",
+        "EU (Ireland) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": "8.5720000000",
+        "EU (Ireland) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": "1.0710000000",
+        "EU (Ireland) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": "2.1430000000",
+        "EU (Ireland) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": "4.2860000000",
+        "EU (Ireland) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": "0.2680000000",
+        "EU (Ireland) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": "0.1340000000",
+        "EU (Ireland) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": "0.5360000000",
+        "EU (Frankfurt) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": "6.9320000000",
+        "EU (Frankfurt) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": "9.2410000000",
+        "EU (Frankfurt) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": "1.1550000000",
+        "EU (Frankfurt) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": "2.3110000000",
+        "EU (Frankfurt) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": "4.6210000000",
+        "EU (Frankfurt) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": "0.2890000000",
+        "EU (Frankfurt) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": "0.1450000000",
+        "EU (Frankfurt) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": "0.5770000000",
+        "Canada (Central) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": "6.1920000000",
+        "Canada (Central) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": "8.2560000000",
+        "Canada (Central) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": "1.0320000000",
+        "Canada (Central) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": "2.0640000000",
+        "Canada (Central) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": "4.1280000000",
+        "Canada (Central) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": "0.2580000000",
+        "Canada (Central) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": "0.1290000000",
+        "Canada (Central) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": "0.5160000000",
+        "Asia Pacific (Tokyo) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": "6.8140000000",
+        "Asia Pacific (Tokyo) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": "9.0840000000",
+        "Asia Pacific (Tokyo) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": "1.1350000000",
+        "Asia Pacific (Tokyo) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": "2.2720000000",
+        "Asia Pacific (Tokyo) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": "4.5420000000",
+        "Asia Pacific (Tokyo) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": "0.2840000000",
+        "Asia Pacific (Tokyo) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": "0.1420000000",
+        "Asia Pacific (Tokyo) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": "0.5680000000",
+        "Asia Pacific (Sydney) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": "6.8140000000",
+        "Asia Pacific (Sydney) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": "9.0840000000",
+        "Asia Pacific (Sydney) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": "1.1350000000",
+        "Asia Pacific (Sydney) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": "2.2720000000",
+        "Asia Pacific (Sydney) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": "4.5420000000",
+        "Asia Pacific (Sydney) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": "0.2840000000",
+        "Asia Pacific (Sydney) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": "0.1420000000",
+        "Asia Pacific (Sydney) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": "0.5680000000",
+        "Asia Pacific (Singapore) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": "6.8140000000",
+        "Asia Pacific (Singapore) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": "9.0840000000",
+        "Asia Pacific (Singapore) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": "1.1350000000",
+        "Asia Pacific (Singapore) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": "2.2720000000",
+        "Asia Pacific (Singapore) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": "4.5420000000",
+        "Asia Pacific (Singapore) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": "0.2840000000",
+        "Asia Pacific (Singapore) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": "0.1420000000",
+        "Asia Pacific (Singapore) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": "0.5680000000",
+        "Asia Pacific (Mumbai) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": "6.4550000000",
+        "Asia Pacific (Mumbai) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": "8.6060000000",
+        "Asia Pacific (Mumbai) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": "1.0760000000",
+        "Asia Pacific (Mumbai) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": "2.1520000000",
+        "Asia Pacific (Mumbai) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": "4.3030000000",
+        "Asia Pacific (Mumbai) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": "0.2690000000",
+        "Asia Pacific (Mumbai) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": "0.1350000000",
+        "Asia Pacific (Mumbai) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": "0.5380000000"
     },
-    "Database Instance InfluxDB No license required Multi-AZ": {
-        "Default": [
-            "11.4750000000"
-        ],
-        "US West (Oregon) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": [
-            "11.4750000000"
-        ],
-        "US West (Oregon) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": [
-            "15.3000000000"
-        ],
-        "US West (Oregon) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": [
-            "1.9130000000"
-        ],
-        "US West (Oregon) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": [
-            "3.8250000000"
-        ],
-        "US West (Oregon) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": [
-            "7.6500000000"
-        ],
-        "US West (Oregon) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": [
-            "0.4780000000"
-        ],
-        "US West (Oregon) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": [
-            "0.2390000000"
-        ],
-        "US West (Oregon) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": [
-            "0.9560000000"
-        ],
-        "US East (Ohio) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": [
-            "11.4750000000"
-        ],
-        "US East (Ohio) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": [
-            "15.3000000000"
-        ],
-        "US East (Ohio) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": [
-            "1.9130000000"
-        ],
-        "US East (Ohio) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": [
-            "3.8250000000"
-        ],
-        "US East (Ohio) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": [
-            "7.6500000000"
-        ],
-        "US East (Ohio) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": [
-            "0.4780000000"
-        ],
-        "US East (Ohio) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": [
-            "0.2390000000"
-        ],
-        "US East (Ohio) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": [
-            "0.9560000000"
-        ],
-        "US East (N. Virginia) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": [
-            "11.4750000000"
-        ],
-        "US East (N. Virginia) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": [
-            "15.3000000000"
-        ],
-        "US East (N. Virginia) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": [
-            "1.9130000000"
-        ],
-        "US East (N. Virginia) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": [
-            "3.8250000000"
-        ],
-        "US East (N. Virginia) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": [
-            "7.6500000000"
-        ],
-        "US East (N. Virginia) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": [
-            "0.4780000000"
-        ],
-        "US East (N. Virginia) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": [
-            "0.2390000000"
-        ],
-        "US East (N. Virginia) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": [
-            "0.9560000000"
-        ],
-        "Middle East (UAE) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": [
-            "13.9200000000"
-        ],
-        "Middle East (UAE) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": [
-            "18.5600000000"
-        ],
-        "Middle East (UAE) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": [
-            "2.3200000000"
-        ],
-        "Middle East (UAE) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": [
-            "4.6400000000"
-        ],
-        "Middle East (UAE) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": [
-            "9.2800000000"
-        ],
-        "Middle East (UAE) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": [
-            "0.5800000000"
-        ],
-        "Middle East (UAE) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": [
-            "0.2900000000"
-        ],
-        "Middle East (UAE) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": [
-            "1.1600000000"
-        ],
-        "EU (Stockholm) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": [
-            "11.7140000000"
-        ],
-        "EU (Stockholm) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": [
-            "15.6180000000"
-        ],
-        "EU (Stockholm) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": [
-            "1.9530000000"
-        ],
-        "EU (Stockholm) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": [
-            "3.9050000000"
-        ],
-        "EU (Stockholm) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": [
-            "7.8090000000"
-        ],
-        "EU (Stockholm) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": [
-            "0.4880000000"
-        ],
-        "EU (Stockholm) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": [
-            "0.2440000000"
-        ],
-        "EU (Stockholm) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": [
-            "0.9760000000"
-        ],
-        "EU (Spain) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": [
-            "12.8640000000"
-        ],
-        "EU (Spain) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": [
-            "17.1520000000"
-        ],
-        "EU (Spain) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": [
-            "2.1440000000"
-        ],
-        "EU (Spain) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": [
-            "4.2880000000"
-        ],
-        "EU (Spain) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": [
-            "8.5760000000"
-        ],
-        "EU (Spain) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": [
-            "0.5360000000"
-        ],
-        "EU (Spain) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": [
-            "0.2680000000"
-        ],
-        "EU (Spain) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": [
-            "1.0720000000"
-        ],
-        "EU (Paris) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": [
-            "13.3440000000"
-        ],
-        "EU (Paris) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": [
-            "17.7920000000"
-        ],
-        "EU (Paris) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": [
-            "2.2240000000"
-        ],
-        "EU (Paris) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": [
-            "4.4480000000"
-        ],
-        "EU (Paris) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": [
-            "8.8960000000"
-        ],
-        "EU (Paris) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": [
-            "0.5560000000"
-        ],
-        "EU (Paris) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": [
-            "0.2780000000"
-        ],
-        "EU (Paris) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": [
-            "1.1120000000"
-        ],
-        "EU (Milan) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": [
-            "13.2480000000"
-        ],
-        "EU (Milan) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": [
-            "17.6640000000"
-        ],
-        "EU (Milan) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": [
-            "2.2080000000"
-        ],
-        "EU (Milan) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": [
-            "4.4160000000"
-        ],
-        "EU (Milan) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": [
-            "8.8320000000"
-        ],
-        "EU (Milan) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": [
-            "0.5520000000"
-        ],
-        "EU (Milan) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": [
-            "0.2760000000"
-        ],
-        "EU (Milan) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": [
-            "1.1040000000"
-        ],
-        "EU (London) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": [
-            "13.4400000000"
-        ],
-        "EU (London) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": [
-            "17.9200000000"
-        ],
-        "EU (London) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": [
-            "2.2400000000"
-        ],
-        "EU (London) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": [
-            "4.4800000000"
-        ],
-        "EU (London) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": [
-            "8.9600000000"
-        ],
-        "EU (London) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": [
-            "0.5600000000"
-        ],
-        "EU (London) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": [
-            "0.2800000000"
-        ],
-        "EU (London) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": [
-            "1.1200000000"
-        ],
-        "EU (Ireland) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": [
-            "12.8570000000"
-        ],
-        "EU (Ireland) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": [
-            "17.1430000000"
-        ],
-        "EU (Ireland) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": [
-            "2.1430000000"
-        ],
-        "EU (Ireland) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": [
-            "4.2860000000"
-        ],
-        "EU (Ireland) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": [
-            "8.5720000000"
-        ],
-        "EU (Ireland) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": [
-            "0.5360000000"
-        ],
-        "EU (Ireland) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": [
-            "0.2680000000"
-        ],
-        "EU (Ireland) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": [
-            "1.0710000000"
-        ],
-        "EU (Frankfurt) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": [
-            "13.8620000000"
-        ],
-        "EU (Frankfurt) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": [
-            "18.4820000000"
-        ],
-        "EU (Frankfurt) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": [
-            "2.3110000000"
-        ],
-        "EU (Frankfurt) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": [
-            "4.6210000000"
-        ],
-        "EU (Frankfurt) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": [
-            "9.2410000000"
-        ],
-        "EU (Frankfurt) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": [
-            "0.5770000000"
-        ],
-        "EU (Frankfurt) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": [
-            "0.2890000000"
-        ],
-        "EU (Frankfurt) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": [
-            "1.1550000000"
-        ],
-        "Canada (Central) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": [
-            "12.3840000000"
-        ],
-        "Canada (Central) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": [
-            "16.5120000000"
-        ],
-        "Canada (Central) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": [
-            "2.0640000000"
-        ],
-        "Canada (Central) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": [
-            "4.1280000000"
-        ],
-        "Canada (Central) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": [
-            "8.2560000000"
-        ],
-        "Canada (Central) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": [
-            "0.5160000000"
-        ],
-        "Canada (Central) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": [
-            "0.2580000000"
-        ],
-        "Canada (Central) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": [
-            "1.0320000000"
-        ],
-        "Asia Pacific (Tokyo) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": [
-            "13.6270000000"
-        ],
-        "Asia Pacific (Tokyo) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": [
-            "18.1690000000"
-        ],
-        "Asia Pacific (Tokyo) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": [
-            "2.2720000000"
-        ],
-        "Asia Pacific (Tokyo) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": [
-            "4.5420000000"
-        ],
-        "Asia Pacific (Tokyo) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": [
-            "9.0840000000"
-        ],
-        "Asia Pacific (Tokyo) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": [
-            "0.5680000000"
-        ],
-        "Asia Pacific (Tokyo) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": [
-            "0.2840000000"
-        ],
-        "Asia Pacific (Tokyo) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": [
-            "1.1350000000"
-        ],
-        "Asia Pacific (Sydney) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": [
-            "13.6270000000"
-        ],
-        "Asia Pacific (Sydney) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": [
-            "18.1690000000"
-        ],
-        "Asia Pacific (Sydney) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": [
-            "2.2720000000"
-        ],
-        "Asia Pacific (Sydney) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": [
-            "4.5420000000"
-        ],
-        "Asia Pacific (Sydney) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": [
-            "9.0840000000"
-        ],
-        "Asia Pacific (Sydney) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": [
-            "0.5680000000"
-        ],
-        "Asia Pacific (Sydney) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": [
-            "0.2840000000"
-        ],
-        "Asia Pacific (Sydney) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": [
-            "1.1350000000"
-        ],
-        "Asia Pacific (Singapore) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": [
-            "13.6270000000"
-        ],
-        "Asia Pacific (Singapore) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": [
-            "18.1690000000"
-        ],
-        "Asia Pacific (Singapore) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": [
-            "2.2720000000"
-        ],
-        "Asia Pacific (Singapore) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": [
-            "4.5420000000"
-        ],
-        "Asia Pacific (Singapore) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": [
-            "9.0840000000"
-        ],
-        "Asia Pacific (Singapore) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": [
-            "0.5680000000"
-        ],
-        "Asia Pacific (Singapore) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": [
-            "0.2840000000"
-        ],
-        "Asia Pacific (Singapore) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": [
-            "1.1350000000"
-        ],
-        "Asia Pacific (Mumbai) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": [
-            "12.9090000000"
-        ],
-        "Asia Pacific (Mumbai) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": [
-            "17.2130000000"
-        ],
-        "Asia Pacific (Mumbai) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": [
-            "2.1520000000"
-        ],
-        "Asia Pacific (Mumbai) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": [
-            "4.3030000000"
-        ],
-        "Asia Pacific (Mumbai) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": [
-            "8.6060000000"
-        ],
-        "Asia Pacific (Mumbai) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": [
-            "0.5380000000"
-        ],
-        "Asia Pacific (Mumbai) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": [
-            "0.2690000000"
-        ],
-        "Asia Pacific (Mumbai) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": [
-            "1.0760000000"
-        ],
-        "Asia Pacific (Jakarta) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": [
-            "13.6320000000"
-        ],
-        "Asia Pacific (Jakarta) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": [
-            "18.1760000000"
-        ],
-        "Asia Pacific (Jakarta) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": [
-            "2.2720000000"
-        ],
-        "Asia Pacific (Jakarta) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": [
-            "4.5440000000"
-        ],
-        "Asia Pacific (Jakarta) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": [
-            "9.0880000000"
-        ],
-        "Asia Pacific (Jakarta) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": [
-            "0.5680000000"
-        ],
-        "Asia Pacific (Jakarta) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": [
-            "0.2840000000"
-        ],
-        "Asia Pacific (Jakarta) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": [
-            "1.1360000000"
-        ]
+    "[Database Instance InfluxDB No license required Multi-AZ] Database Instance InfluxDB No license required db influx.12xlarge Multi-AZ": {
+        "US West (Oregon) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": "11.4750000000",
+        "US East (Ohio) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": "11.4750000000",
+        "US East (N. Virginia) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": "11.4750000000",
+        "Middle East (UAE) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": "13.9200000000",
+        "EU (Stockholm) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": "11.7140000000",
+        "EU (Spain) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": "12.8640000000",
+        "EU (Paris) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": "13.3440000000",
+        "EU (Milan) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": "13.2480000000",
+        "EU (London) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": "13.4400000000",
+        "EU (Ireland) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": "12.8570000000",
+        "EU (Frankfurt) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": "13.8620000000",
+        "Canada (Central) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": "12.3840000000",
+        "Asia Pacific (Tokyo) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": "13.6270000000",
+        "Asia Pacific (Sydney) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": "13.6270000000",
+        "Asia Pacific (Singapore) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": "13.6270000000",
+        "Asia Pacific (Mumbai) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": "12.9090000000",
+        "Asia Pacific (Jakarta) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": "13.6320000000"
     },
-    "Database Instance InfluxDB No license required Single-AZ": {
-        "Default": [
-            "5.7380000000"
-        ],
-        "US West (Oregon) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": [
-            "5.7380000000"
-        ],
-        "US West (Oregon) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": [
-            "7.6500000000"
-        ],
-        "US West (Oregon) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": [
-            "0.9560000000"
-        ],
-        "US West (Oregon) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": [
-            "1.9130000000"
-        ],
-        "US West (Oregon) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": [
-            "3.8250000000"
-        ],
-        "US West (Oregon) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": [
-            "0.2390000000"
-        ],
-        "US West (Oregon) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": [
-            "0.1200000000"
-        ],
-        "US West (Oregon) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": [
-            "0.4780000000"
-        ],
-        "US East (Ohio) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": [
-            "5.7380000000"
-        ],
-        "US East (Ohio) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": [
-            "7.6500000000"
-        ],
-        "US East (Ohio) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": [
-            "0.9560000000"
-        ],
-        "US East (Ohio) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": [
-            "1.9130000000"
-        ],
-        "US East (Ohio) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": [
-            "3.8250000000"
-        ],
-        "US East (Ohio) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": [
-            "0.2390000000"
-        ],
-        "US East (Ohio) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": [
-            "0.1200000000"
-        ],
-        "US East (Ohio) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": [
-            "0.4780000000"
-        ],
-        "US East (N. Virginia) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": [
-            "5.7380000000"
-        ],
-        "US East (N. Virginia) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": [
-            "7.6500000000"
-        ],
-        "US East (N. Virginia) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": [
-            "0.9560000000"
-        ],
-        "US East (N. Virginia) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": [
-            "1.9130000000"
-        ],
-        "US East (N. Virginia) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": [
-            "3.8250000000"
-        ],
-        "US East (N. Virginia) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": [
-            "0.2390000000"
-        ],
-        "US East (N. Virginia) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": [
-            "0.1200000000"
-        ],
-        "US East (N. Virginia) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": [
-            "0.4780000000"
-        ],
-        "Middle East (UAE) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": [
-            "6.9600000000"
-        ],
-        "Middle East (UAE) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": [
-            "9.2800000000"
-        ],
-        "Middle East (UAE) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": [
-            "1.1600000000"
-        ],
-        "Middle East (UAE) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": [
-            "2.3200000000"
-        ],
-        "Middle East (UAE) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": [
-            "4.6400000000"
-        ],
-        "Middle East (UAE) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": [
-            "0.2900000000"
-        ],
-        "Middle East (UAE) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": [
-            "0.1450000000"
-        ],
-        "Middle East (UAE) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": [
-            "0.5800000000"
-        ],
-        "EU (Stockholm) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": [
-            "5.8570000000"
-        ],
-        "EU (Stockholm) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": [
-            "7.8090000000"
-        ],
-        "EU (Stockholm) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": [
-            "0.9760000000"
-        ],
-        "EU (Stockholm) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": [
-            "1.9530000000"
-        ],
-        "EU (Stockholm) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": [
-            "3.9050000000"
-        ],
-        "EU (Stockholm) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": [
-            "0.2440000000"
-        ],
-        "EU (Stockholm) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": [
-            "0.1220000000"
-        ],
-        "EU (Stockholm) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": [
-            "0.4880000000"
-        ],
-        "EU (Spain) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": [
-            "6.4320000000"
-        ],
-        "EU (Spain) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": [
-            "8.5760000000"
-        ],
-        "EU (Spain) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": [
-            "1.0720000000"
-        ],
-        "EU (Spain) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": [
-            "2.1440000000"
-        ],
-        "EU (Spain) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": [
-            "4.2880000000"
-        ],
-        "EU (Spain) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": [
-            "0.2680000000"
-        ],
-        "EU (Spain) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": [
-            "0.1340000000"
-        ],
-        "EU (Spain) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": [
-            "0.5360000000"
-        ],
-        "EU (Paris) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": [
-            "6.6720000000"
-        ],
-        "EU (Paris) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": [
-            "8.8960000000"
-        ],
-        "EU (Paris) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": [
-            "1.1120000000"
-        ],
-        "EU (Paris) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": [
-            "2.2240000000"
-        ],
-        "EU (Paris) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": [
-            "4.4480000000"
-        ],
-        "EU (Paris) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": [
-            "0.2780000000"
-        ],
-        "EU (Paris) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": [
-            "0.1390000000"
-        ],
-        "EU (Paris) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": [
-            "0.5560000000"
-        ],
-        "EU (Milan) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": [
-            "6.6240000000"
-        ],
-        "EU (Milan) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": [
-            "8.8320000000"
-        ],
-        "EU (Milan) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": [
-            "1.1040000000"
-        ],
-        "EU (Milan) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": [
-            "2.2080000000"
-        ],
-        "EU (Milan) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": [
-            "4.4160000000"
-        ],
-        "EU (Milan) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": [
-            "0.2760000000"
-        ],
-        "EU (Milan) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": [
-            "0.1380000000"
-        ],
-        "EU (Milan) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": [
-            "0.5520000000"
-        ],
-        "EU (London) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": [
-            "6.7200000000"
-        ],
-        "EU (London) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": [
-            "8.9600000000"
-        ],
-        "EU (London) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": [
-            "1.1200000000"
-        ],
-        "EU (London) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": [
-            "2.2400000000"
-        ],
-        "EU (London) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": [
-            "4.4800000000"
-        ],
-        "EU (London) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": [
-            "0.2800000000"
-        ],
-        "EU (London) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": [
-            "0.1400000000"
-        ],
-        "EU (London) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": [
-            "0.5600000000"
-        ],
-        "EU (Ireland) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": [
-            "6.4290000000"
-        ],
-        "EU (Ireland) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": [
-            "8.5720000000"
-        ],
-        "EU (Ireland) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": [
-            "1.0710000000"
-        ],
-        "EU (Ireland) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": [
-            "2.1430000000"
-        ],
-        "EU (Ireland) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": [
-            "4.2860000000"
-        ],
-        "EU (Ireland) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": [
-            "0.2680000000"
-        ],
-        "EU (Ireland) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": [
-            "0.1340000000"
-        ],
-        "EU (Ireland) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": [
-            "0.5360000000"
-        ],
-        "EU (Frankfurt) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": [
-            "6.9320000000"
-        ],
-        "EU (Frankfurt) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": [
-            "9.2410000000"
-        ],
-        "EU (Frankfurt) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": [
-            "1.1550000000"
-        ],
-        "EU (Frankfurt) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": [
-            "2.3110000000"
-        ],
-        "EU (Frankfurt) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": [
-            "4.6210000000"
-        ],
-        "EU (Frankfurt) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": [
-            "0.2890000000"
-        ],
-        "EU (Frankfurt) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": [
-            "0.1450000000"
-        ],
-        "EU (Frankfurt) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": [
-            "0.5770000000"
-        ],
-        "Canada (Central) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": [
-            "6.1920000000"
-        ],
-        "Canada (Central) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": [
-            "8.2560000000"
-        ],
-        "Canada (Central) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": [
-            "1.0320000000"
-        ],
-        "Canada (Central) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": [
-            "2.0640000000"
-        ],
-        "Canada (Central) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": [
-            "4.1280000000"
-        ],
-        "Canada (Central) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": [
-            "0.2580000000"
-        ],
-        "Canada (Central) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": [
-            "0.1290000000"
-        ],
-        "Canada (Central) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": [
-            "0.5160000000"
-        ],
-        "Asia Pacific (Tokyo) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": [
-            "6.8140000000"
-        ],
-        "Asia Pacific (Tokyo) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": [
-            "9.0840000000"
-        ],
-        "Asia Pacific (Tokyo) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": [
-            "1.1350000000"
-        ],
-        "Asia Pacific (Tokyo) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": [
-            "2.2720000000"
-        ],
-        "Asia Pacific (Tokyo) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": [
-            "4.5420000000"
-        ],
-        "Asia Pacific (Tokyo) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": [
-            "0.2840000000"
-        ],
-        "Asia Pacific (Tokyo) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": [
-            "0.1420000000"
-        ],
-        "Asia Pacific (Tokyo) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": [
-            "0.5680000000"
-        ],
-        "Asia Pacific (Sydney) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": [
-            "6.8140000000"
-        ],
-        "Asia Pacific (Sydney) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": [
-            "9.0840000000"
-        ],
-        "Asia Pacific (Sydney) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": [
-            "1.1350000000"
-        ],
-        "Asia Pacific (Sydney) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": [
-            "2.2720000000"
-        ],
-        "Asia Pacific (Sydney) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": [
-            "4.5420000000"
-        ],
-        "Asia Pacific (Sydney) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": [
-            "0.2840000000"
-        ],
-        "Asia Pacific (Sydney) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": [
-            "0.1420000000"
-        ],
-        "Asia Pacific (Sydney) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": [
-            "0.5680000000"
-        ],
-        "Asia Pacific (Singapore) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": [
-            "6.8140000000"
-        ],
-        "Asia Pacific (Singapore) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": [
-            "9.0840000000"
-        ],
-        "Asia Pacific (Singapore) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": [
-            "1.1350000000"
-        ],
-        "Asia Pacific (Singapore) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": [
-            "2.2720000000"
-        ],
-        "Asia Pacific (Singapore) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": [
-            "4.5420000000"
-        ],
-        "Asia Pacific (Singapore) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": [
-            "0.2840000000"
-        ],
-        "Asia Pacific (Singapore) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": [
-            "0.1420000000"
-        ],
-        "Asia Pacific (Singapore) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": [
-            "0.5680000000"
-        ],
-        "Asia Pacific (Mumbai) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": [
-            "6.4550000000"
-        ],
-        "Asia Pacific (Mumbai) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": [
-            "8.6060000000"
-        ],
-        "Asia Pacific (Mumbai) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": [
-            "1.0760000000"
-        ],
-        "Asia Pacific (Mumbai) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": [
-            "2.1520000000"
-        ],
-        "Asia Pacific (Mumbai) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": [
-            "4.3030000000"
-        ],
-        "Asia Pacific (Mumbai) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": [
-            "0.2690000000"
-        ],
-        "Asia Pacific (Mumbai) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": [
-            "0.1350000000"
-        ],
-        "Asia Pacific (Mumbai) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": [
-            "0.5380000000"
-        ],
-        "Asia Pacific (Jakarta) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": [
-            "6.8160000000"
-        ],
-        "Asia Pacific (Jakarta) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": [
-            "9.0880000000"
-        ],
-        "Asia Pacific (Jakarta) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": [
-            "1.1360000000"
-        ],
-        "Asia Pacific (Jakarta) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": [
-            "2.2720000000"
-        ],
-        "Asia Pacific (Jakarta) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": [
-            "4.5440000000"
-        ],
-        "Asia Pacific (Jakarta) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": [
-            "0.2840000000"
-        ],
-        "Asia Pacific (Jakarta) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": [
-            "0.1420000000"
-        ],
-        "Asia Pacific (Jakarta) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": [
-            "0.5680000000"
-        ]
+    "[Database Instance InfluxDB No license required Single-AZ] Database Instance InfluxDB No license required db influx.12xlarge Single-AZ": {
+        "US West (Oregon) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": "5.7380000000",
+        "US East (Ohio) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": "5.7380000000",
+        "US East (N. Virginia) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": "5.7380000000",
+        "Middle East (UAE) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": "6.9600000000",
+        "EU (Stockholm) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": "5.8570000000",
+        "EU (Spain) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": "6.4320000000",
+        "EU (Paris) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": "6.6720000000",
+        "EU (Milan) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": "6.6240000000",
+        "EU (London) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": "6.7200000000",
+        "EU (Ireland) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": "6.4290000000",
+        "EU (Frankfurt) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": "6.9320000000",
+        "Canada (Central) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": "6.1920000000",
+        "Asia Pacific (Tokyo) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": "6.8140000000",
+        "Asia Pacific (Sydney) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": "6.8140000000",
+        "Asia Pacific (Singapore) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": "6.8140000000",
+        "Asia Pacific (Mumbai) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": "6.4550000000",
+        "Asia Pacific (Jakarta) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": "6.8160000000"
     },
-    "Database Instance InfluxDB No license required db influx.xlarge Single-AZ": {
-        "Default": [
-            "0.4780000000"
-        ],
-        "US West (Oregon) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": [
-            "0.4780000000"
-        ],
-        "US East (Ohio) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": [
-            "0.4780000000"
-        ],
-        "US East (N. Virginia) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": [
-            "0.4780000000"
-        ],
-        "Middle East (UAE) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": [
-            "0.5800000000"
-        ],
-        "EU (Stockholm) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": [
-            "0.4880000000"
-        ],
-        "EU (Spain) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": [
-            "0.5360000000"
-        ],
-        "EU (Paris) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": [
-            "0.5560000000"
-        ],
-        "EU (Milan) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": [
-            "0.5520000000"
-        ],
-        "EU (London) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": [
-            "0.5600000000"
-        ],
-        "EU (Ireland) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": [
-            "0.5360000000"
-        ],
-        "EU (Frankfurt) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": [
-            "0.5770000000"
-        ],
-        "Canada (Central) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": [
-            "0.5160000000"
-        ],
-        "Asia Pacific (Tokyo) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": [
-            "0.5680000000"
-        ],
-        "Asia Pacific (Sydney) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": [
-            "0.5680000000"
-        ],
-        "Asia Pacific (Singapore) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": [
-            "0.5680000000"
-        ],
-        "Asia Pacific (Mumbai) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": [
-            "0.5380000000"
-        ],
-        "Asia Pacific (Jakarta) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": [
-            "0.5680000000"
-        ]
+    "[Database Instance InfluxDB No license required Multi-AZ] Database Instance InfluxDB No license required db influx.16xlarge Multi-AZ": {
+        "US West (Oregon) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": "15.3000000000",
+        "US East (Ohio) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": "15.3000000000",
+        "US East (N. Virginia) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": "15.3000000000",
+        "Middle East (UAE) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": "18.5600000000",
+        "EU (Stockholm) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": "15.6180000000",
+        "EU (Spain) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": "17.1520000000",
+        "EU (Paris) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": "17.7920000000",
+        "EU (Milan) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": "17.6640000000",
+        "EU (London) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": "17.9200000000",
+        "EU (Ireland) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": "17.1430000000",
+        "EU (Frankfurt) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": "18.4820000000",
+        "Canada (Central) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": "16.5120000000",
+        "Asia Pacific (Tokyo) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": "18.1690000000",
+        "Asia Pacific (Sydney) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": "18.1690000000",
+        "Asia Pacific (Singapore) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": "18.1690000000",
+        "Asia Pacific (Mumbai) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": "17.2130000000",
+        "Asia Pacific (Jakarta) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": "18.1760000000"
     },
-    "Database Instance InfluxDB No license required db influx.2xlarge Single-AZ": {
-        "Default": [
-            "0.9560000000"
-        ],
-        "US West (Oregon) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": [
-            "0.9560000000"
-        ],
-        "US East (Ohio) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": [
-            "0.9560000000"
-        ],
-        "US East (N. Virginia) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": [
-            "0.9560000000"
-        ],
-        "Middle East (UAE) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": [
-            "1.1600000000"
-        ],
-        "EU (Stockholm) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": [
-            "0.9760000000"
-        ],
-        "EU (Spain) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": [
-            "1.0720000000"
-        ],
-        "EU (Paris) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": [
-            "1.1120000000"
-        ],
-        "EU (Milan) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": [
-            "1.1040000000"
-        ],
-        "EU (London) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": [
-            "1.1200000000"
-        ],
-        "EU (Ireland) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": [
-            "1.0710000000"
-        ],
-        "EU (Frankfurt) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": [
-            "1.1550000000"
-        ],
-        "Canada (Central) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": [
-            "1.0320000000"
-        ],
-        "Asia Pacific (Tokyo) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": [
-            "1.1350000000"
-        ],
-        "Asia Pacific (Sydney) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": [
-            "1.1350000000"
-        ],
-        "Asia Pacific (Singapore) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": [
-            "1.1350000000"
-        ],
-        "Asia Pacific (Mumbai) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": [
-            "1.0760000000"
-        ],
-        "Asia Pacific (Jakarta) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": [
-            "1.1360000000"
-        ]
+    "[Database Instance InfluxDB No license required Single-AZ] Database Instance InfluxDB No license required db influx.16xlarge Single-AZ": {
+        "US West (Oregon) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": "7.6500000000",
+        "US East (Ohio) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": "7.6500000000",
+        "US East (N. Virginia) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": "7.6500000000",
+        "Middle East (UAE) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": "9.2800000000",
+        "EU (Stockholm) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": "7.8090000000",
+        "EU (Spain) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": "8.5760000000",
+        "EU (Paris) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": "8.8960000000",
+        "EU (Milan) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": "8.8320000000",
+        "EU (London) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": "8.9600000000",
+        "EU (Ireland) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": "8.5720000000",
+        "EU (Frankfurt) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": "9.2410000000",
+        "Canada (Central) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": "8.2560000000",
+        "Asia Pacific (Tokyo) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": "9.0840000000",
+        "Asia Pacific (Sydney) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": "9.0840000000",
+        "Asia Pacific (Singapore) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": "9.0840000000",
+        "Asia Pacific (Mumbai) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": "8.6060000000",
+        "Asia Pacific (Jakarta) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": "9.0880000000"
+    },
+    "[Database Instance InfluxDB No license required Multi-AZ] Database Instance InfluxDB No license required db influx.2xlarge Multi-AZ": {
+        "US West (Oregon) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": "1.9130000000",
+        "US East (Ohio) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": "1.9130000000",
+        "US East (N. Virginia) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": "1.9130000000",
+        "Middle East (UAE) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": "2.3200000000",
+        "EU (Stockholm) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": "1.9530000000",
+        "EU (Spain) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": "2.1440000000",
+        "EU (Paris) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": "2.2240000000",
+        "EU (Milan) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": "2.2080000000",
+        "EU (London) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": "2.2400000000",
+        "EU (Ireland) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": "2.1430000000",
+        "EU (Frankfurt) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": "2.3110000000",
+        "Canada (Central) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": "2.0640000000",
+        "Asia Pacific (Tokyo) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": "2.2720000000",
+        "Asia Pacific (Sydney) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": "2.2720000000",
+        "Asia Pacific (Singapore) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": "2.2720000000",
+        "Asia Pacific (Mumbai) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": "2.1520000000",
+        "Asia Pacific (Jakarta) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": "2.2720000000"
+    },
+    "[Database Instance InfluxDB No license required Single-AZ] Database Instance InfluxDB No license required db influx.2xlarge Single-AZ": {
+        "US West (Oregon) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": "0.9560000000",
+        "US East (Ohio) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": "0.9560000000",
+        "US East (N. Virginia) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": "0.9560000000",
+        "Middle East (UAE) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": "1.1600000000",
+        "EU (Stockholm) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": "0.9760000000",
+        "EU (Spain) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": "1.0720000000",
+        "EU (Paris) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": "1.1120000000",
+        "EU (Milan) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": "1.1040000000",
+        "EU (London) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": "1.1200000000",
+        "EU (Ireland) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": "1.0710000000",
+        "EU (Frankfurt) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": "1.1550000000",
+        "Canada (Central) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": "1.0320000000",
+        "Asia Pacific (Tokyo) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": "1.1350000000",
+        "Asia Pacific (Sydney) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": "1.1350000000",
+        "Asia Pacific (Singapore) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": "1.1350000000",
+        "Asia Pacific (Mumbai) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": "1.0760000000",
+        "Asia Pacific (Jakarta) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": "1.1360000000"
+    },
+    "[Database Instance InfluxDB No license required Multi-AZ] Database Instance InfluxDB No license required db influx.4xlarge Multi-AZ": {
+        "US West (Oregon) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": "3.8250000000",
+        "US East (Ohio) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": "3.8250000000",
+        "US East (N. Virginia) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": "3.8250000000",
+        "Middle East (UAE) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": "4.6400000000",
+        "EU (Stockholm) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": "3.9050000000",
+        "EU (Spain) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": "4.2880000000",
+        "EU (Paris) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": "4.4480000000",
+        "EU (Milan) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": "4.4160000000",
+        "EU (London) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": "4.4800000000",
+        "EU (Ireland) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": "4.2860000000",
+        "EU (Frankfurt) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": "4.6210000000",
+        "Canada (Central) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": "4.1280000000",
+        "Asia Pacific (Tokyo) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": "4.5420000000",
+        "Asia Pacific (Sydney) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": "4.5420000000",
+        "Asia Pacific (Singapore) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": "4.5420000000",
+        "Asia Pacific (Mumbai) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": "4.3030000000",
+        "Asia Pacific (Jakarta) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": "4.5440000000"
+    },
+    "[Database Instance InfluxDB No license required Single-AZ] Database Instance InfluxDB No license required db influx.4xlarge Single-AZ": {
+        "US West (Oregon) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": "1.9130000000",
+        "US East (Ohio) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": "1.9130000000",
+        "US East (N. Virginia) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": "1.9130000000",
+        "Middle East (UAE) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": "2.3200000000",
+        "EU (Stockholm) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": "1.9530000000",
+        "EU (Spain) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": "2.1440000000",
+        "EU (Paris) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": "2.2240000000",
+        "EU (Milan) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": "2.2080000000",
+        "EU (London) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": "2.2400000000",
+        "EU (Ireland) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": "2.1430000000",
+        "EU (Frankfurt) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": "2.3110000000",
+        "Canada (Central) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": "2.0640000000",
+        "Asia Pacific (Tokyo) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": "2.2720000000",
+        "Asia Pacific (Sydney) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": "2.2720000000",
+        "Asia Pacific (Singapore) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": "2.2720000000",
+        "Asia Pacific (Mumbai) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": "2.1520000000",
+        "Asia Pacific (Jakarta) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": "2.2720000000"
+    },
+    "[Database Instance InfluxDB No license required Multi-AZ] Database Instance InfluxDB No license required db influx.8xlarge Multi-AZ": {
+        "US West (Oregon) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": "7.6500000000",
+        "US East (Ohio) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": "7.6500000000",
+        "US East (N. Virginia) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": "7.6500000000",
+        "Middle East (UAE) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": "9.2800000000",
+        "EU (Stockholm) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": "7.8090000000",
+        "EU (Spain) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": "8.5760000000",
+        "EU (Paris) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": "8.8960000000",
+        "EU (Milan) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": "8.8320000000",
+        "EU (London) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": "8.9600000000",
+        "EU (Ireland) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": "8.5720000000",
+        "EU (Frankfurt) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": "9.2410000000",
+        "Canada (Central) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": "8.2560000000",
+        "Asia Pacific (Tokyo) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": "9.0840000000",
+        "Asia Pacific (Sydney) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": "9.0840000000",
+        "Asia Pacific (Singapore) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": "9.0840000000",
+        "Asia Pacific (Mumbai) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": "8.6060000000",
+        "Asia Pacific (Jakarta) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": "9.0880000000"
+    },
+    "[Database Instance InfluxDB No license required Single-AZ] Database Instance InfluxDB No license required db influx.8xlarge Single-AZ": {
+        "US West (Oregon) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": "3.8250000000",
+        "US East (Ohio) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": "3.8250000000",
+        "US East (N. Virginia) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": "3.8250000000",
+        "Middle East (UAE) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": "4.6400000000",
+        "EU (Stockholm) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": "3.9050000000",
+        "EU (Spain) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": "4.2880000000",
+        "EU (Paris) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": "4.4480000000",
+        "EU (Milan) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": "4.4160000000",
+        "EU (London) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": "4.4800000000",
+        "EU (Ireland) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": "4.2860000000",
+        "EU (Frankfurt) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": "4.6210000000",
+        "Canada (Central) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": "4.1280000000",
+        "Asia Pacific (Tokyo) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": "4.5420000000",
+        "Asia Pacific (Sydney) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": "4.5420000000",
+        "Asia Pacific (Singapore) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": "4.5420000000",
+        "Asia Pacific (Mumbai) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": "4.3030000000",
+        "Asia Pacific (Jakarta) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": "4.5440000000"
+    },
+    "[Database Instance InfluxDB No license required Multi-AZ] Database Instance InfluxDB No license required db influx.large Multi-AZ": {
+        "US West (Oregon) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": "0.4780000000",
+        "US East (Ohio) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": "0.4780000000",
+        "US East (N. Virginia) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": "0.4780000000",
+        "Middle East (UAE) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": "0.5800000000",
+        "EU (Stockholm) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": "0.4880000000",
+        "EU (Spain) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": "0.5360000000",
+        "EU (Paris) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": "0.5560000000",
+        "EU (Milan) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": "0.5520000000",
+        "EU (London) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": "0.5600000000",
+        "EU (Ireland) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": "0.5360000000",
+        "EU (Frankfurt) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": "0.5770000000",
+        "Canada (Central) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": "0.5160000000",
+        "Asia Pacific (Tokyo) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": "0.5680000000",
+        "Asia Pacific (Sydney) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": "0.5680000000",
+        "Asia Pacific (Singapore) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": "0.5680000000",
+        "Asia Pacific (Mumbai) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": "0.5380000000",
+        "Asia Pacific (Jakarta) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": "0.5680000000"
+    },
+    "[Database Instance InfluxDB No license required Single-AZ] Database Instance InfluxDB No license required db influx.large Single-AZ": {
+        "US West (Oregon) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": "0.2390000000",
+        "US East (Ohio) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": "0.2390000000",
+        "US East (N. Virginia) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": "0.2390000000",
+        "Middle East (UAE) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": "0.2900000000",
+        "EU (Stockholm) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": "0.2440000000",
+        "EU (Spain) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": "0.2680000000",
+        "EU (Paris) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": "0.2780000000",
+        "EU (Milan) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": "0.2760000000",
+        "EU (London) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": "0.2800000000",
+        "EU (Ireland) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": "0.2680000000",
+        "EU (Frankfurt) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": "0.2890000000",
+        "Canada (Central) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": "0.2580000000",
+        "Asia Pacific (Tokyo) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": "0.2840000000",
+        "Asia Pacific (Sydney) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": "0.2840000000",
+        "Asia Pacific (Singapore) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": "0.2840000000",
+        "Asia Pacific (Mumbai) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": "0.2690000000",
+        "Asia Pacific (Jakarta) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": "0.2840000000"
+    },
+    "[Database Instance InfluxDB No license required Multi-AZ] Database Instance InfluxDB No license required db influx.medium Multi-AZ": {
+        "US West (Oregon) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": "0.2390000000",
+        "US East (Ohio) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": "0.2390000000",
+        "US East (N. Virginia) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": "0.2390000000",
+        "Middle East (UAE) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": "0.2900000000",
+        "EU (Stockholm) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": "0.2440000000",
+        "EU (Spain) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": "0.2680000000",
+        "EU (Paris) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": "0.2780000000",
+        "EU (Milan) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": "0.2760000000",
+        "EU (London) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": "0.2800000000",
+        "EU (Ireland) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": "0.2680000000",
+        "EU (Frankfurt) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": "0.2890000000",
+        "Canada (Central) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": "0.2580000000",
+        "Asia Pacific (Tokyo) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": "0.2840000000",
+        "Asia Pacific (Sydney) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": "0.2840000000",
+        "Asia Pacific (Singapore) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": "0.2840000000",
+        "Asia Pacific (Mumbai) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": "0.2690000000",
+        "Asia Pacific (Jakarta) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": "0.2840000000"
+    },
+    "[Database Instance InfluxDB No license required Single-AZ] Database Instance InfluxDB No license required db influx.medium Single-AZ": {
+        "US West (Oregon) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": "0.1200000000",
+        "US East (Ohio) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": "0.1200000000",
+        "US East (N. Virginia) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": "0.1200000000",
+        "Middle East (UAE) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": "0.1450000000",
+        "EU (Stockholm) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": "0.1220000000",
+        "EU (Spain) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": "0.1340000000",
+        "EU (Paris) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": "0.1390000000",
+        "EU (Milan) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": "0.1380000000",
+        "EU (London) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": "0.1400000000",
+        "EU (Ireland) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": "0.1340000000",
+        "EU (Frankfurt) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": "0.1450000000",
+        "Canada (Central) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": "0.1290000000",
+        "Asia Pacific (Tokyo) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": "0.1420000000",
+        "Asia Pacific (Sydney) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": "0.1420000000",
+        "Asia Pacific (Singapore) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": "0.1420000000",
+        "Asia Pacific (Mumbai) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": "0.1350000000",
+        "Asia Pacific (Jakarta) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": "0.1420000000"
+    },
+    "[Database Instance InfluxDB No license required Multi-AZ] Database Instance InfluxDB No license required db influx.xlarge Multi-AZ": {
+        "US West (Oregon) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": "0.9560000000",
+        "US East (Ohio) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": "0.9560000000",
+        "US East (N. Virginia) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": "0.9560000000",
+        "Middle East (UAE) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": "1.1600000000",
+        "EU (Stockholm) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": "0.9760000000",
+        "EU (Spain) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": "1.0720000000",
+        "EU (Paris) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": "1.1120000000",
+        "EU (Milan) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": "1.1040000000",
+        "EU (London) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": "1.1200000000",
+        "EU (Ireland) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": "1.0710000000",
+        "EU (Frankfurt) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": "1.1550000000",
+        "Canada (Central) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": "1.0320000000",
+        "Asia Pacific (Tokyo) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": "1.1350000000",
+        "Asia Pacific (Sydney) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": "1.1350000000",
+        "Asia Pacific (Singapore) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": "1.1350000000",
+        "Asia Pacific (Mumbai) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": "1.0760000000",
+        "Asia Pacific (Jakarta) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": "1.1360000000"
+    },
+    "[Database Instance InfluxDB No license required Single-AZ] Database Instance InfluxDB No license required db influx.xlarge Single-AZ": {
+        "US West (Oregon) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": "0.4780000000",
+        "US East (Ohio) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": "0.4780000000",
+        "US East (N. Virginia) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": "0.4780000000",
+        "Middle East (UAE) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": "0.5800000000",
+        "EU (Stockholm) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": "0.4880000000",
+        "EU (Spain) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": "0.5360000000",
+        "EU (Paris) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": "0.5560000000",
+        "EU (Milan) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": "0.5520000000",
+        "EU (London) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": "0.5600000000",
+        "EU (Ireland) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": "0.5360000000",
+        "EU (Frankfurt) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": "0.5770000000",
+        "Canada (Central) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": "0.5160000000",
+        "Asia Pacific (Tokyo) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": "0.5680000000",
+        "Asia Pacific (Sydney) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": "0.5680000000",
+        "Asia Pacific (Singapore) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": "0.5680000000",
+        "Asia Pacific (Mumbai) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": "0.5380000000",
+        "Asia Pacific (Jakarta) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": "0.5680000000"
     },
     "Timestream Magnetic Store per GB-Mo": {
-        "Default": [
-            "0.0300000000"
-        ],
-        "US West (Oregon)": [
-            "0.0300000000"
-        ],
-        "US East (Ohio)": [
-            "0.0300000000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0300000000"
-        ],
-        "EU (Ireland)": [
-            "0.0339000000"
-        ],
-        "EU (Frankfurt)": [
-            "0.0362000000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.0375000000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.0362000000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.0341000000"
-        ],
-        "AWS GovCloud (US)": [
-            "0.0362100000"
-        ]
-    },
-    "Database Instance InfluxDB No license required db influx.4xlarge Multi-AZ": {
-        "Default": [
-            "3.8250000000"
-        ],
-        "US West (Oregon) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": [
-            "3.8250000000"
-        ],
-        "US East (Ohio) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": [
-            "3.8250000000"
-        ],
-        "US East (N. Virginia) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": [
-            "3.8250000000"
-        ],
-        "Middle East (UAE) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": [
-            "4.6400000000"
-        ],
-        "EU (Stockholm) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": [
-            "3.9050000000"
-        ],
-        "EU (Spain) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": [
-            "4.2880000000"
-        ],
-        "EU (Paris) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": [
-            "4.4480000000"
-        ],
-        "EU (Milan) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": [
-            "4.4160000000"
-        ],
-        "EU (London) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": [
-            "4.4800000000"
-        ],
-        "EU (Ireland) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": [
-            "4.2860000000"
-        ],
-        "EU (Frankfurt) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": [
-            "4.6210000000"
-        ],
-        "Canada (Central) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": [
-            "4.1280000000"
-        ],
-        "Asia Pacific (Tokyo) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": [
-            "4.5420000000"
-        ],
-        "Asia Pacific (Sydney) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": [
-            "4.5420000000"
-        ],
-        "Asia Pacific (Singapore) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": [
-            "4.5420000000"
-        ],
-        "Asia Pacific (Mumbai) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": [
-            "4.3030000000"
-        ],
-        "Asia Pacific (Jakarta) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": [
-            "4.5440000000"
-        ]
-    },
-    "Database Instance InfluxDB No license required db influx.large Multi-AZ": {
-        "Default": [
-            "0.4780000000"
-        ],
-        "US West (Oregon) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": [
-            "0.4780000000"
-        ],
-        "US East (Ohio) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": [
-            "0.4780000000"
-        ],
-        "US East (N. Virginia) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": [
-            "0.4780000000"
-        ],
-        "Middle East (UAE) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": [
-            "0.5800000000"
-        ],
-        "EU (Stockholm) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": [
-            "0.4880000000"
-        ],
-        "EU (Spain) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": [
-            "0.5360000000"
-        ],
-        "EU (Paris) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": [
-            "0.5560000000"
-        ],
-        "EU (Milan) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": [
-            "0.5520000000"
-        ],
-        "EU (London) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": [
-            "0.5600000000"
-        ],
-        "EU (Ireland) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": [
-            "0.5360000000"
-        ],
-        "EU (Frankfurt) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": [
-            "0.5770000000"
-        ],
-        "Canada (Central) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": [
-            "0.5160000000"
-        ],
-        "Asia Pacific (Tokyo) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": [
-            "0.5680000000"
-        ],
-        "Asia Pacific (Sydney) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": [
-            "0.5680000000"
-        ],
-        "Asia Pacific (Singapore) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": [
-            "0.5680000000"
-        ],
-        "Asia Pacific (Mumbai) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": [
-            "0.5380000000"
-        ],
-        "Asia Pacific (Jakarta) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": [
-            "0.5680000000"
-        ]
+        "US West (Oregon)": "0.0300000000",
+        "US East (Ohio)": "0.0300000000",
+        "US East (N. Virginia)": "0.0300000000",
+        "EU (Ireland)": "0.0339000000",
+        "EU (Frankfurt)": "0.0362000000",
+        "Asia Pacific (Tokyo)": "0.0375000000",
+        "Asia Pacific (Sydney)": "0.0362000000",
+        "Asia Pacific (Mumbai)": "0.0341000000",
+        "AWS GovCloud (US)": "0.0362100000"
     },
     "Timestream Query per GB": {
-        "Default": [
-            "0.0100000000"
-        ],
-        "US West (Oregon)": [
-            "0.0100000000"
-        ],
-        "US East (Ohio)": [
-            "0.0100000000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0100000000"
-        ],
-        "EU (Ireland)": [
-            "0.0113080000"
-        ],
-        "EU (Frankfurt)": [
-            "0.0120000000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.0125000000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.0120000000"
-        ],
-        "AWS GovCloud (US)": [
-            "0.0120700000"
-        ]
-    },
-    "Database Instance InfluxDB No license required db influx.4xlarge Single-AZ": {
-        "Default": [
-            "1.9130000000"
-        ],
-        "US West (Oregon) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": [
-            "1.9130000000"
-        ],
-        "US East (Ohio) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": [
-            "1.9130000000"
-        ],
-        "US East (N. Virginia) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": [
-            "1.9130000000"
-        ],
-        "Middle East (UAE) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": [
-            "2.3200000000"
-        ],
-        "EU (Stockholm) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": [
-            "1.9530000000"
-        ],
-        "EU (Spain) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": [
-            "2.1440000000"
-        ],
-        "EU (Paris) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": [
-            "2.2240000000"
-        ],
-        "EU (Milan) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": [
-            "2.2080000000"
-        ],
-        "EU (London) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": [
-            "2.2400000000"
-        ],
-        "EU (Ireland) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": [
-            "2.1430000000"
-        ],
-        "EU (Frankfurt) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": [
-            "2.3110000000"
-        ],
-        "Canada (Central) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": [
-            "2.0640000000"
-        ],
-        "Asia Pacific (Tokyo) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": [
-            "2.2720000000"
-        ],
-        "Asia Pacific (Sydney) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": [
-            "2.2720000000"
-        ],
-        "Asia Pacific (Singapore) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": [
-            "2.2720000000"
-        ],
-        "Asia Pacific (Mumbai) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": [
-            "2.1520000000"
-        ],
-        "Asia Pacific (Jakarta) (Instance Type: db.influx.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": [
-            "2.2720000000"
-        ]
+        "US West (Oregon)": "0.0100000000",
+        "US East (Ohio)": "0.0100000000",
+        "US East (N. Virginia)": "0.0100000000",
+        "EU (Ireland)": "0.0113080000",
+        "EU (Frankfurt)": "0.0120000000",
+        "Asia Pacific (Tokyo)": "0.0125000000",
+        "Asia Pacific (Sydney)": "0.0120000000",
+        "AWS GovCloud (US)": "0.0120700000"
     },
     "Influx Optimized Storage Influx IOPS Included with 16K IOPS Single-AZ": {
-        "Default": [
-            "0.5000000000"
-        ],
-        "US West (Oregon)": [
-            "0.5000000000"
-        ],
-        "US East (Ohio)": [
-            "0.5000000000"
-        ],
-        "US East (N. Virginia)": [
-            "0.5000000000"
-        ],
-        "Middle East (UAE)": [
-            "0.6070000000"
-        ],
-        "EU (Stockholm)": [
-            "0.5200000000"
-        ],
-        "EU (Spain)": [
-            "0.5600000000"
-        ],
-        "EU (Paris)": [
-            "0.5810000000"
-        ],
-        "EU (Milan)": [
-            "0.5770000000"
-        ],
-        "EU (London)": [
-            "0.5870000000"
-        ],
-        "EU (Ireland)": [
-            "0.5500000000"
-        ],
-        "EU (Frankfurt)": [
-            "0.5960000000"
-        ],
-        "Canada (Central)": [
-            "0.5400000000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.6000000000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.6000000000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.6000000000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.5750000000"
-        ],
-        "Asia Pacific (Jakarta)": [
-            "0.5930000000"
-        ]
-    },
-    "Database Instance InfluxDB No license required db influx.large Single-AZ": {
-        "Default": [
-            "0.2390000000"
-        ],
-        "US West (Oregon) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": [
-            "0.2390000000"
-        ],
-        "US East (Ohio) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": [
-            "0.2390000000"
-        ],
-        "US East (N. Virginia) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": [
-            "0.2390000000"
-        ],
-        "Middle East (UAE) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": [
-            "0.2900000000"
-        ],
-        "EU (Stockholm) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": [
-            "0.2440000000"
-        ],
-        "EU (Spain) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": [
-            "0.2680000000"
-        ],
-        "EU (Paris) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": [
-            "0.2780000000"
-        ],
-        "EU (Milan) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": [
-            "0.2760000000"
-        ],
-        "EU (London) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": [
-            "0.2800000000"
-        ],
-        "EU (Ireland) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": [
-            "0.2680000000"
-        ],
-        "EU (Frankfurt) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": [
-            "0.2890000000"
-        ],
-        "Canada (Central) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": [
-            "0.2580000000"
-        ],
-        "Asia Pacific (Tokyo) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": [
-            "0.2840000000"
-        ],
-        "Asia Pacific (Sydney) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": [
-            "0.2840000000"
-        ],
-        "Asia Pacific (Singapore) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": [
-            "0.2840000000"
-        ],
-        "Asia Pacific (Mumbai) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": [
-            "0.2690000000"
-        ],
-        "Asia Pacific (Jakarta) (Instance Type: db.influx.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit)": [
-            "0.2840000000"
-        ]
+        "US West (Oregon)": "0.5000000000",
+        "US East (Ohio)": "0.5000000000",
+        "US East (N. Virginia)": "0.5000000000",
+        "Middle East (UAE)": "0.6070000000",
+        "EU (Stockholm)": "0.5200000000",
+        "EU (Spain)": "0.5600000000",
+        "EU (Paris)": "0.5810000000",
+        "EU (Milan)": "0.5770000000",
+        "EU (London)": "0.5870000000",
+        "EU (Ireland)": "0.5500000000",
+        "EU (Frankfurt)": "0.5960000000",
+        "Canada (Central)": "0.5400000000",
+        "Asia Pacific (Tokyo)": "0.6000000000",
+        "Asia Pacific (Sydney)": "0.6000000000",
+        "Asia Pacific (Singapore)": "0.6000000000",
+        "Asia Pacific (Mumbai)": "0.5750000000",
+        "Asia Pacific (Jakarta)": "0.5930000000"
     },
     "Timestream Memory Store per GB-Hours": {
-        "Default": [
-            "0.0360000000"
-        ],
-        "US West (Oregon)": [
-            "0.0360000000"
-        ],
-        "US East (Ohio)": [
-            "0.0360000000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0360000000"
-        ],
-        "EU (Ireland)": [
-            "0.0407000000"
-        ],
-        "EU (Frankfurt)": [
-            "0.0434000000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.0450000000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.0434000000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.0410000000"
-        ],
-        "AWS GovCloud (US)": [
-            "0.0434520000"
-        ]
-    },
-    "Database Instance InfluxDB No license required db influx.12xlarge Multi-AZ": {
-        "Default": [
-            "11.4750000000"
-        ],
-        "US West (Oregon) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": [
-            "11.4750000000"
-        ],
-        "US East (Ohio) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": [
-            "11.4750000000"
-        ],
-        "US East (N. Virginia) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": [
-            "11.4750000000"
-        ],
-        "Middle East (UAE) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": [
-            "13.9200000000"
-        ],
-        "EU (Stockholm) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": [
-            "11.7140000000"
-        ],
-        "EU (Spain) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": [
-            "12.8640000000"
-        ],
-        "EU (Paris) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": [
-            "13.3440000000"
-        ],
-        "EU (Milan) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": [
-            "13.2480000000"
-        ],
-        "EU (London) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": [
-            "13.4400000000"
-        ],
-        "EU (Ireland) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": [
-            "12.8570000000"
-        ],
-        "EU (Frankfurt) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": [
-            "13.8620000000"
-        ],
-        "Canada (Central) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": [
-            "12.3840000000"
-        ],
-        "Asia Pacific (Tokyo) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": [
-            "13.6270000000"
-        ],
-        "Asia Pacific (Sydney) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": [
-            "13.6270000000"
-        ],
-        "Asia Pacific (Singapore) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": [
-            "13.6270000000"
-        ],
-        "Asia Pacific (Mumbai) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": [
-            "12.9090000000"
-        ],
-        "Asia Pacific (Jakarta) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": [
-            "13.6320000000"
-        ]
-    },
-    "Database Instance InfluxDB No license required db influx.8xlarge Single-AZ": {
-        "Default": [
-            "3.8250000000"
-        ],
-        "US West (Oregon) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": [
-            "3.8250000000"
-        ],
-        "US East (Ohio) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": [
-            "3.8250000000"
-        ],
-        "US East (N. Virginia) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": [
-            "3.8250000000"
-        ],
-        "Middle East (UAE) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": [
-            "4.6400000000"
-        ],
-        "EU (Stockholm) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": [
-            "3.9050000000"
-        ],
-        "EU (Spain) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": [
-            "4.2880000000"
-        ],
-        "EU (Paris) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": [
-            "4.4480000000"
-        ],
-        "EU (Milan) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": [
-            "4.4160000000"
-        ],
-        "EU (London) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": [
-            "4.4800000000"
-        ],
-        "EU (Ireland) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": [
-            "4.2860000000"
-        ],
-        "EU (Frankfurt) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": [
-            "4.6210000000"
-        ],
-        "Canada (Central) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": [
-            "4.1280000000"
-        ],
-        "Asia Pacific (Tokyo) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": [
-            "4.5420000000"
-        ],
-        "Asia Pacific (Sydney) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": [
-            "4.5420000000"
-        ],
-        "Asia Pacific (Singapore) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": [
-            "4.5420000000"
-        ],
-        "Asia Pacific (Mumbai) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": [
-            "4.3030000000"
-        ],
-        "Asia Pacific (Jakarta) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": [
-            "4.5440000000"
-        ]
-    },
-    "Database Instance InfluxDB No license required db influx.16xlarge Single-AZ": {
-        "Default": [
-            "7.6500000000"
-        ],
-        "US West (Oregon) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": [
-            "7.6500000000"
-        ],
-        "US East (Ohio) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": [
-            "7.6500000000"
-        ],
-        "US East (N. Virginia) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": [
-            "7.6500000000"
-        ],
-        "Middle East (UAE) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": [
-            "9.2800000000"
-        ],
-        "EU (Stockholm) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": [
-            "7.8090000000"
-        ],
-        "EU (Spain) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": [
-            "8.5760000000"
-        ],
-        "EU (Paris) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": [
-            "8.8960000000"
-        ],
-        "EU (Milan) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": [
-            "8.8320000000"
-        ],
-        "EU (London) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": [
-            "8.9600000000"
-        ],
-        "EU (Ireland) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": [
-            "8.5720000000"
-        ],
-        "EU (Frankfurt) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": [
-            "9.2410000000"
-        ],
-        "Canada (Central) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": [
-            "8.2560000000"
-        ],
-        "Asia Pacific (Tokyo) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": [
-            "9.0840000000"
-        ],
-        "Asia Pacific (Sydney) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": [
-            "9.0840000000"
-        ],
-        "Asia Pacific (Singapore) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": [
-            "9.0840000000"
-        ],
-        "Asia Pacific (Mumbai) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": [
-            "8.6060000000"
-        ],
-        "Asia Pacific (Jakarta) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": [
-            "9.0880000000"
-        ]
+        "US West (Oregon)": "0.0360000000",
+        "US East (Ohio)": "0.0360000000",
+        "US East (N. Virginia)": "0.0360000000",
+        "EU (Ireland)": "0.0407000000",
+        "EU (Frankfurt)": "0.0434000000",
+        "Asia Pacific (Tokyo)": "0.0450000000",
+        "Asia Pacific (Sydney)": "0.0434000000",
+        "Asia Pacific (Mumbai)": "0.0410000000",
+        "AWS GovCloud (US)": "0.0434520000"
     },
     "Influx Optimized Storage Influx IOPS Included with 3K IOPS Single-AZ": {
-        "Default": [
-            "0.1000000000"
-        ],
-        "US West (Oregon)": [
-            "0.1000000000"
-        ],
-        "US East (Ohio)": [
-            "0.1000000000"
-        ],
-        "US East (N. Virginia)": [
-            "0.1000000000"
-        ],
-        "Middle East (UAE)": [
-            "0.1210000000"
-        ],
-        "EU (Stockholm)": [
-            "0.1040000000"
-        ],
-        "EU (Spain)": [
-            "0.1120000000"
-        ],
-        "EU (Paris)": [
-            "0.1160000000"
-        ],
-        "EU (Milan)": [
-            "0.1150000000"
-        ],
-        "EU (London)": [
-            "0.1170000000"
-        ],
-        "EU (Ireland)": [
-            "0.1100000000"
-        ],
-        "EU (Frankfurt)": [
-            "0.1190000000"
-        ],
-        "Canada (Central)": [
-            "0.1080000000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.1200000000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.1200000000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.1200000000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.1150000000"
-        ],
-        "Asia Pacific (Jakarta)": [
-            "0.1190000000"
-        ]
+        "US West (Oregon)": "0.1000000000",
+        "US East (Ohio)": "0.1000000000",
+        "US East (N. Virginia)": "0.1000000000",
+        "Middle East (UAE)": "0.1210000000",
+        "EU (Stockholm)": "0.1040000000",
+        "EU (Spain)": "0.1120000000",
+        "EU (Paris)": "0.1160000000",
+        "EU (Milan)": "0.1150000000",
+        "EU (London)": "0.1170000000",
+        "EU (Ireland)": "0.1100000000",
+        "EU (Frankfurt)": "0.1190000000",
+        "Canada (Central)": "0.1080000000",
+        "Asia Pacific (Tokyo)": "0.1200000000",
+        "Asia Pacific (Sydney)": "0.1200000000",
+        "Asia Pacific (Singapore)": "0.1200000000",
+        "Asia Pacific (Mumbai)": "0.1150000000",
+        "Asia Pacific (Jakarta)": "0.1190000000"
     },
     "Influx Optimized Storage Influx IOPS Included with 16K IOPS Multi-AZ": {
-        "Default": [
-            "1.0000000000"
-        ],
-        "US West (Oregon)": [
-            "1.0000000000"
-        ],
-        "US East (Ohio)": [
-            "1.0000000000"
-        ],
-        "US East (N. Virginia)": [
-            "1.0000000000"
-        ],
-        "Middle East (UAE)": [
-            "1.2140000000"
-        ],
-        "EU (Stockholm)": [
-            "1.0400000000"
-        ],
-        "EU (Spain)": [
-            "1.1200000000"
-        ],
-        "EU (Paris)": [
-            "1.1620000000"
-        ],
-        "EU (Milan)": [
-            "1.1540000000"
-        ],
-        "EU (London)": [
-            "1.1740000000"
-        ],
-        "EU (Ireland)": [
-            "1.1000000000"
-        ],
-        "EU (Frankfurt)": [
-            "1.1920000000"
-        ],
-        "Canada (Central)": [
-            "1.0800000000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "1.2000000000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "1.2000000000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "1.2000000000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "1.1500000000"
-        ],
-        "Asia Pacific (Jakarta)": [
-            "1.1860000000"
-        ]
+        "US West (Oregon)": "1.0000000000",
+        "US East (Ohio)": "1.0000000000",
+        "US East (N. Virginia)": "1.0000000000",
+        "Middle East (UAE)": "1.2140000000",
+        "EU (Stockholm)": "1.0400000000",
+        "EU (Spain)": "1.1200000000",
+        "EU (Paris)": "1.1620000000",
+        "EU (Milan)": "1.1540000000",
+        "EU (London)": "1.1740000000",
+        "EU (Ireland)": "1.1000000000",
+        "EU (Frankfurt)": "1.1920000000",
+        "Canada (Central)": "1.0800000000",
+        "Asia Pacific (Tokyo)": "1.2000000000",
+        "Asia Pacific (Sydney)": "1.2000000000",
+        "Asia Pacific (Singapore)": "1.2000000000",
+        "Asia Pacific (Mumbai)": "1.1500000000",
+        "Asia Pacific (Jakarta)": "1.1860000000"
     },
     "Query TCU-hours per TCU-hour": {
-        "Default": [
-            "0.5180000000"
-        ],
-        "US West (Oregon)": [
-            "0.5180000000"
-        ],
-        "US East (Ohio)": [
-            "0.5180000000"
-        ],
-        "US East (N. Virginia)": [
-            "0.5180000000"
-        ],
-        "EU (Ireland)": [
-            "0.5860000000"
-        ],
-        "EU (Frankfurt)": [
-            "0.6220000000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.6480000000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.6240000000"
-        ],
-        "AWS GovCloud (US)": [
-            "0.6250000000"
-        ]
+        "US West (Oregon)": "0.5180000000",
+        "US East (Ohio)": "0.5180000000",
+        "US East (N. Virginia)": "0.5180000000",
+        "EU (Ireland)": "0.5860000000",
+        "EU (Frankfurt)": "0.6220000000",
+        "Asia Pacific (Tokyo)": "0.6480000000",
+        "Asia Pacific (Sydney)": "0.6240000000",
+        "AWS GovCloud (US)": "0.6250000000"
     },
     "Influx Optimized Storage Influx IOPS Included with 12k IOPS Multi-AZ": {
-        "Default": [
-            "0.7000000000"
-        ],
-        "US West (Oregon)": [
-            "0.7000000000"
-        ],
-        "US East (Ohio)": [
-            "0.7000000000"
-        ],
-        "US East (N. Virginia)": [
-            "0.7000000000"
-        ],
-        "Middle East (UAE)": [
-            "0.8500000000"
-        ],
-        "EU (Stockholm)": [
-            "0.7280000000"
-        ],
-        "EU (Spain)": [
-            "0.7840000000"
-        ],
-        "EU (Paris)": [
-            "0.8140000000"
-        ],
-        "EU (Milan)": [
-            "0.8080000000"
-        ],
-        "EU (London)": [
-            "0.8220000000"
-        ],
-        "EU (Ireland)": [
-            "0.7700000000"
-        ],
-        "EU (Frankfurt)": [
-            "0.8340000000"
-        ],
-        "Canada (Central)": [
-            "0.7560000000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.8400000000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.8400000000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.8400000000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.8050000000"
-        ],
-        "Asia Pacific (Jakarta)": [
-            "0.8300000000"
-        ]
-    },
-    "Database Instance InfluxDB No license required db influx.2xlarge Multi-AZ": {
-        "Default": [
-            "1.9130000000"
-        ],
-        "US West (Oregon) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": [
-            "1.9130000000"
-        ],
-        "US East (Ohio) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": [
-            "1.9130000000"
-        ],
-        "US East (N. Virginia) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": [
-            "1.9130000000"
-        ],
-        "Middle East (UAE) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": [
-            "2.3200000000"
-        ],
-        "EU (Stockholm) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": [
-            "1.9530000000"
-        ],
-        "EU (Spain) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": [
-            "2.1440000000"
-        ],
-        "EU (Paris) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": [
-            "2.2240000000"
-        ],
-        "EU (Milan) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": [
-            "2.2080000000"
-        ],
-        "EU (London) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": [
-            "2.2400000000"
-        ],
-        "EU (Ireland) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": [
-            "2.1430000000"
-        ],
-        "EU (Frankfurt) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": [
-            "2.3110000000"
-        ],
-        "Canada (Central) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": [
-            "2.0640000000"
-        ],
-        "Asia Pacific (Tokyo) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": [
-            "2.2720000000"
-        ],
-        "Asia Pacific (Sydney) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": [
-            "2.2720000000"
-        ],
-        "Asia Pacific (Singapore) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": [
-            "2.2720000000"
-        ],
-        "Asia Pacific (Mumbai) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": [
-            "2.1520000000"
-        ],
-        "Asia Pacific (Jakarta) (Instance Type: db.influx.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": [
-            "2.2720000000"
-        ]
-    },
-    "Database Instance InfluxDB No license required db influx.8xlarge Multi-AZ": {
-        "Default": [
-            "7.6500000000"
-        ],
-        "US West (Oregon) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": [
-            "7.6500000000"
-        ],
-        "US East (Ohio) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": [
-            "7.6500000000"
-        ],
-        "US East (N. Virginia) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": [
-            "7.6500000000"
-        ],
-        "Middle East (UAE) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": [
-            "9.2800000000"
-        ],
-        "EU (Stockholm) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": [
-            "7.8090000000"
-        ],
-        "EU (Spain) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": [
-            "8.5760000000"
-        ],
-        "EU (Paris) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": [
-            "8.8960000000"
-        ],
-        "EU (Milan) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": [
-            "8.8320000000"
-        ],
-        "EU (London) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": [
-            "8.9600000000"
-        ],
-        "EU (Ireland) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": [
-            "8.5720000000"
-        ],
-        "EU (Frankfurt) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": [
-            "9.2410000000"
-        ],
-        "Canada (Central) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": [
-            "8.2560000000"
-        ],
-        "Asia Pacific (Tokyo) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": [
-            "9.0840000000"
-        ],
-        "Asia Pacific (Sydney) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": [
-            "9.0840000000"
-        ],
-        "Asia Pacific (Singapore) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": [
-            "9.0840000000"
-        ],
-        "Asia Pacific (Mumbai) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": [
-            "8.6060000000"
-        ],
-        "Asia Pacific (Jakarta) (Instance Type: db.influx.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: Up to 12 Gigabit)": [
-            "9.0880000000"
-        ]
-    },
-    "Database Instance InfluxDB No license required db influx.medium Multi-AZ": {
-        "Default": [
-            "0.2390000000"
-        ],
-        "US West (Oregon) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": [
-            "0.2390000000"
-        ],
-        "US East (Ohio) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": [
-            "0.2390000000"
-        ],
-        "US East (N. Virginia) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": [
-            "0.2390000000"
-        ],
-        "Middle East (UAE) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": [
-            "0.2900000000"
-        ],
-        "EU (Stockholm) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": [
-            "0.2440000000"
-        ],
-        "EU (Spain) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": [
-            "0.2680000000"
-        ],
-        "EU (Paris) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": [
-            "0.2780000000"
-        ],
-        "EU (Milan) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": [
-            "0.2760000000"
-        ],
-        "EU (London) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": [
-            "0.2800000000"
-        ],
-        "EU (Ireland) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": [
-            "0.2680000000"
-        ],
-        "EU (Frankfurt) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": [
-            "0.2890000000"
-        ],
-        "Canada (Central) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": [
-            "0.2580000000"
-        ],
-        "Asia Pacific (Tokyo) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": [
-            "0.2840000000"
-        ],
-        "Asia Pacific (Sydney) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": [
-            "0.2840000000"
-        ],
-        "Asia Pacific (Singapore) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": [
-            "0.2840000000"
-        ],
-        "Asia Pacific (Mumbai) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": [
-            "0.2690000000"
-        ],
-        "Asia Pacific (Jakarta) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": [
-            "0.2840000000"
-        ]
-    },
-    "Database Instance InfluxDB No license required db influx.12xlarge Single-AZ": {
-        "Default": [
-            "5.7380000000"
-        ],
-        "US West (Oregon) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": [
-            "5.7380000000"
-        ],
-        "US East (Ohio) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": [
-            "5.7380000000"
-        ],
-        "US East (N. Virginia) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": [
-            "5.7380000000"
-        ],
-        "Middle East (UAE) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": [
-            "6.9600000000"
-        ],
-        "EU (Stockholm) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": [
-            "5.8570000000"
-        ],
-        "EU (Spain) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": [
-            "6.4320000000"
-        ],
-        "EU (Paris) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": [
-            "6.6720000000"
-        ],
-        "EU (Milan) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": [
-            "6.6240000000"
-        ],
-        "EU (London) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": [
-            "6.7200000000"
-        ],
-        "EU (Ireland) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": [
-            "6.4290000000"
-        ],
-        "EU (Frankfurt) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": [
-            "6.9320000000"
-        ],
-        "Canada (Central) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": [
-            "6.1920000000"
-        ],
-        "Asia Pacific (Tokyo) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": [
-            "6.8140000000"
-        ],
-        "Asia Pacific (Sydney) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": [
-            "6.8140000000"
-        ],
-        "Asia Pacific (Singapore) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": [
-            "6.8140000000"
-        ],
-        "Asia Pacific (Mumbai) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": [
-            "6.4550000000"
-        ],
-        "Asia Pacific (Jakarta) (Instance Type: db.influx.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: Up to 20 Gigabit)": [
-            "6.8160000000"
-        ]
-    },
-    "Database Instance InfluxDB No license required db influx.xlarge Multi-AZ": {
-        "Default": [
-            "0.9560000000"
-        ],
-        "US West (Oregon) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": [
-            "0.9560000000"
-        ],
-        "US East (Ohio) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": [
-            "0.9560000000"
-        ],
-        "US East (N. Virginia) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": [
-            "0.9560000000"
-        ],
-        "Middle East (UAE) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": [
-            "1.1600000000"
-        ],
-        "EU (Stockholm) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": [
-            "0.9760000000"
-        ],
-        "EU (Spain) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": [
-            "1.0720000000"
-        ],
-        "EU (Paris) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": [
-            "1.1120000000"
-        ],
-        "EU (Milan) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": [
-            "1.1040000000"
-        ],
-        "EU (London) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": [
-            "1.1200000000"
-        ],
-        "EU (Ireland) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": [
-            "1.0710000000"
-        ],
-        "EU (Frankfurt) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": [
-            "1.1550000000"
-        ],
-        "Canada (Central) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": [
-            "1.0320000000"
-        ],
-        "Asia Pacific (Tokyo) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": [
-            "1.1350000000"
-        ],
-        "Asia Pacific (Sydney) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": [
-            "1.1350000000"
-        ],
-        "Asia Pacific (Singapore) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": [
-            "1.1350000000"
-        ],
-        "Asia Pacific (Mumbai) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": [
-            "1.0760000000"
-        ],
-        "Asia Pacific (Jakarta) (Instance Type: db.influx.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit)": [
-            "1.1360000000"
-        ]
+        "US West (Oregon)": "0.7000000000",
+        "US East (Ohio)": "0.7000000000",
+        "US East (N. Virginia)": "0.7000000000",
+        "Middle East (UAE)": "0.8500000000",
+        "EU (Stockholm)": "0.7280000000",
+        "EU (Spain)": "0.7840000000",
+        "EU (Paris)": "0.8140000000",
+        "EU (Milan)": "0.8080000000",
+        "EU (London)": "0.8220000000",
+        "EU (Ireland)": "0.7700000000",
+        "EU (Frankfurt)": "0.8340000000",
+        "Canada (Central)": "0.7560000000",
+        "Asia Pacific (Tokyo)": "0.8400000000",
+        "Asia Pacific (Sydney)": "0.8400000000",
+        "Asia Pacific (Singapore)": "0.8400000000",
+        "Asia Pacific (Mumbai)": "0.8050000000",
+        "Asia Pacific (Jakarta)": "0.8300000000"
     },
     "Influx Optimized Storage Influx IOPS Included with 3K IOPS Multi-AZ": {
-        "Default": [
-            "0.2000000000"
-        ],
-        "US West (Oregon)": [
-            "0.2000000000"
-        ],
-        "US East (Ohio)": [
-            "0.2000000000"
-        ],
-        "US East (N. Virginia)": [
-            "0.2000000000"
-        ],
-        "Middle East (UAE)": [
-            "0.2420000000"
-        ],
-        "EU (Stockholm)": [
-            "0.2080000000"
-        ],
-        "EU (Spain)": [
-            "0.2240000000"
-        ],
-        "EU (Paris)": [
-            "0.2320000000"
-        ],
-        "EU (Milan)": [
-            "0.2300000000"
-        ],
-        "EU (London)": [
-            "0.2340000000"
-        ],
-        "EU (Ireland)": [
-            "0.2200000000"
-        ],
-        "EU (Frankfurt)": [
-            "0.2380000000"
-        ],
-        "Canada (Central)": [
-            "0.2160000000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.2400000000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.2400000000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.2400000000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.2300000000"
-        ],
-        "Asia Pacific (Jakarta)": [
-            "0.2380000000"
-        ]
-    },
-    "Database Instance InfluxDB No license required db influx.16xlarge Multi-AZ": {
-        "Default": [
-            "15.3000000000"
-        ],
-        "US West (Oregon) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": [
-            "15.3000000000"
-        ],
-        "US East (Ohio) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": [
-            "15.3000000000"
-        ],
-        "US East (N. Virginia) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": [
-            "15.3000000000"
-        ],
-        "Middle East (UAE) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": [
-            "18.5600000000"
-        ],
-        "EU (Stockholm) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": [
-            "15.6180000000"
-        ],
-        "EU (Spain) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": [
-            "17.1520000000"
-        ],
-        "EU (Paris) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": [
-            "17.7920000000"
-        ],
-        "EU (Milan) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": [
-            "17.6640000000"
-        ],
-        "EU (London) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": [
-            "17.9200000000"
-        ],
-        "EU (Ireland) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": [
-            "17.1430000000"
-        ],
-        "EU (Frankfurt) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": [
-            "18.4820000000"
-        ],
-        "Canada (Central) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": [
-            "16.5120000000"
-        ],
-        "Asia Pacific (Tokyo) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": [
-            "18.1690000000"
-        ],
-        "Asia Pacific (Sydney) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": [
-            "18.1690000000"
-        ],
-        "Asia Pacific (Singapore) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": [
-            "18.1690000000"
-        ],
-        "Asia Pacific (Mumbai) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": [
-            "17.2130000000"
-        ],
-        "Asia Pacific (Jakarta) (Instance Type: db.influx.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: Up to 25 Gigabit)": [
-            "18.1760000000"
-        ]
+        "US West (Oregon)": "0.2000000000",
+        "US East (Ohio)": "0.2000000000",
+        "US East (N. Virginia)": "0.2000000000",
+        "Middle East (UAE)": "0.2420000000",
+        "EU (Stockholm)": "0.2080000000",
+        "EU (Spain)": "0.2240000000",
+        "EU (Paris)": "0.2320000000",
+        "EU (Milan)": "0.2300000000",
+        "EU (London)": "0.2340000000",
+        "EU (Ireland)": "0.2200000000",
+        "EU (Frankfurt)": "0.2380000000",
+        "Canada (Central)": "0.2160000000",
+        "Asia Pacific (Tokyo)": "0.2400000000",
+        "Asia Pacific (Sydney)": "0.2400000000",
+        "Asia Pacific (Singapore)": "0.2400000000",
+        "Asia Pacific (Mumbai)": "0.2300000000",
+        "Asia Pacific (Jakarta)": "0.2380000000"
     },
     "Timestream Ingestion per GB": {
-        "Default": [
-            "0.5000000000"
-        ],
-        "US West (Oregon)": [
-            "0.5000000000"
-        ],
-        "US East (Ohio)": [
-            "0.5000000000"
-        ],
-        "US East (N. Virginia)": [
-            "0.5000000000"
-        ],
-        "EU (Ireland)": [
-            "0.5654000000"
-        ],
-        "EU (Frankfurt)": [
-            "0.6035000000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.6250000000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.6035000000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.5690000000"
-        ],
-        "AWS GovCloud (US)": [
-            "0.6035000000"
-        ]
+        "US West (Oregon)": "0.5000000000",
+        "US East (Ohio)": "0.5000000000",
+        "US East (N. Virginia)": "0.5000000000",
+        "EU (Ireland)": "0.5654000000",
+        "EU (Frankfurt)": "0.6035000000",
+        "Asia Pacific (Tokyo)": "0.6250000000",
+        "Asia Pacific (Sydney)": "0.6035000000",
+        "Asia Pacific (Mumbai)": "0.5690000000",
+        "AWS GovCloud (US)": "0.6035000000"
     },
     "Influx Optimized Storage Influx IOPS Included with 12k IOPS Single-AZ": {
-        "Default": [
-            "0.3500000000"
-        ],
-        "US West (Oregon)": [
-            "0.3500000000"
-        ],
-        "US East (Ohio)": [
-            "0.3500000000"
-        ],
-        "US East (N. Virginia)": [
-            "0.3500000000"
-        ],
-        "Middle East (UAE)": [
-            "0.4250000000"
-        ],
-        "EU (Stockholm)": [
-            "0.3640000000"
-        ],
-        "EU (Spain)": [
-            "0.3920000000"
-        ],
-        "EU (Paris)": [
-            "0.4070000000"
-        ],
-        "EU (Milan)": [
-            "0.4040000000"
-        ],
-        "EU (London)": [
-            "0.4110000000"
-        ],
-        "EU (Ireland)": [
-            "0.3850000000"
-        ],
-        "EU (Frankfurt)": [
-            "0.4170000000"
-        ],
-        "Canada (Central)": [
-            "0.3780000000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.4200000000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.4200000000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.4200000000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.4030000000"
-        ],
-        "Asia Pacific (Jakarta)": [
-            "0.4150000000"
-        ]
-    },
-    "Database Instance InfluxDB No license required db influx.medium Single-AZ": {
-        "Default": [
-            "0.1200000000"
-        ],
-        "US West (Oregon) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": [
-            "0.1200000000"
-        ],
-        "US East (Ohio) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": [
-            "0.1200000000"
-        ],
-        "US East (N. Virginia) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": [
-            "0.1200000000"
-        ],
-        "Middle East (UAE) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": [
-            "0.1450000000"
-        ],
-        "EU (Stockholm) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": [
-            "0.1220000000"
-        ],
-        "EU (Spain) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": [
-            "0.1340000000"
-        ],
-        "EU (Paris) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": [
-            "0.1390000000"
-        ],
-        "EU (Milan) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": [
-            "0.1380000000"
-        ],
-        "EU (London) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": [
-            "0.1400000000"
-        ],
-        "EU (Ireland) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": [
-            "0.1340000000"
-        ],
-        "EU (Frankfurt) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": [
-            "0.1450000000"
-        ],
-        "Canada (Central) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": [
-            "0.1290000000"
-        ],
-        "Asia Pacific (Tokyo) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": [
-            "0.1420000000"
-        ],
-        "Asia Pacific (Sydney) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": [
-            "0.1420000000"
-        ],
-        "Asia Pacific (Singapore) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": [
-            "0.1420000000"
-        ],
-        "Asia Pacific (Mumbai) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": [
-            "0.1350000000"
-        ],
-        "Asia Pacific (Jakarta) (Instance Type: db.influx.medium, Memory: 8 GiB, vCPU: 1, Network Performance: Up to 10 Gigabit)": [
-            "0.1420000000"
-        ]
+        "US West (Oregon)": "0.3500000000",
+        "US East (Ohio)": "0.3500000000",
+        "US East (N. Virginia)": "0.3500000000",
+        "Middle East (UAE)": "0.4250000000",
+        "EU (Stockholm)": "0.3640000000",
+        "EU (Spain)": "0.3920000000",
+        "EU (Paris)": "0.4070000000",
+        "EU (Milan)": "0.4040000000",
+        "EU (London)": "0.4110000000",
+        "EU (Ireland)": "0.3850000000",
+        "EU (Frankfurt)": "0.4170000000",
+        "Canada (Central)": "0.3780000000",
+        "Asia Pacific (Tokyo)": "0.4200000000",
+        "Asia Pacific (Sydney)": "0.4200000000",
+        "Asia Pacific (Singapore)": "0.4200000000",
+        "Asia Pacific (Mumbai)": "0.4030000000",
+        "Asia Pacific (Jakarta)": "0.4150000000"
     }
 }

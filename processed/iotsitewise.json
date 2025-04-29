@@ -1,324 +1,112 @@
 {
     "IoT SiteWise Monitor per Users": {
-        "Default": [
-            "10.0000000000"
-        ],
-        "US West (Oregon)": [
-            "10.0000000000"
-        ],
-        "US East (Ohio)": [
-            "10.0000000000"
-        ],
-        "US East (N. Virginia)": [
-            "10.0000000000"
-        ],
-        "EU (Ireland)": [
-            "10.0000000000"
-        ],
-        "EU (Frankfurt)": [
-            "10.0000000000"
-        ],
-        "Canada (Central)": [
-            "10.0000000000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "10.0000000000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "10.0000000000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "10.0000000000"
-        ],
-        "Asia Pacific (Seoul)": [
-            "10.0000000000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "10.0000000000"
-        ],
-        "AWS GovCloud (US)": [
-            "10.0000000000"
-        ]
+        "US West (Oregon)": "10.0000000000",
+        "US East (Ohio)": "10.0000000000",
+        "US East (N. Virginia)": "10.0000000000",
+        "EU (Ireland)": "10.0000000000",
+        "EU (Frankfurt)": "10.0000000000",
+        "Canada (Central)": "10.0000000000",
+        "Asia Pacific (Tokyo)": "10.0000000000",
+        "Asia Pacific (Sydney)": "10.0000000000",
+        "Asia Pacific (Singapore)": "10.0000000000",
+        "Asia Pacific (Seoul)": "10.0000000000",
+        "Asia Pacific (Mumbai)": "10.0000000000",
+        "AWS GovCloud (US)": "10.0000000000"
     },
     "IoT SiteWise Computations per Computations": {
-        "Default": [
-            "0.0000005000"
-        ],
-        "US West (Oregon)": [
-            "0.0000005000"
-        ],
-        "US East (Ohio)": [
-            "0.0000005000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0000005000"
-        ],
-        "EU (Ireland)": [
-            "0.0000006000"
-        ],
-        "EU (Frankfurt)": [
-            "0.0000006000"
-        ],
-        "Canada (Central)": [
-            "0.0000005000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.0000006500"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.0000006000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.0000006500"
-        ],
-        "Asia Pacific (Seoul)": [
-            "0.0000006500"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.0000006500"
-        ],
-        "AWS GovCloud (US)": [
-            "0.0000006000"
-        ]
+        "US West (Oregon)": "0.0000005000",
+        "US East (Ohio)": "0.0000005000",
+        "US East (N. Virginia)": "0.0000005000",
+        "EU (Ireland)": "0.0000006000",
+        "EU (Frankfurt)": "0.0000006000",
+        "Canada (Central)": "0.0000005000",
+        "Asia Pacific (Tokyo)": "0.0000006500",
+        "Asia Pacific (Sydney)": "0.0000006000",
+        "Asia Pacific (Singapore)": "0.0000006500",
+        "Asia Pacific (Seoul)": "0.0000006500",
+        "Asia Pacific (Mumbai)": "0.0000006500",
+        "AWS GovCloud (US)": "0.0000006000"
     },
     "IoT SiteWise Edge per Pack": {
-        "Default": [
-            "200.0000000000"
-        ],
-        "US West (Oregon)": [
-            "200.0000000000"
-        ],
-        "US East (Ohio)": [
-            "200.0000000000"
-        ],
-        "US East (N. Virginia)": [
-            "200.0000000000"
-        ],
-        "EU (Ireland)": [
-            "200.0000000000"
-        ],
-        "EU (Frankfurt)": [
-            "200.0000000000"
-        ],
-        "Canada (Central)": [
-            "200.0000000000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "200.0000000000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "200.0000000000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "200.0000000000"
-        ],
-        "Asia Pacific (Seoul)": [
-            "200.0000000000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "200.0000000000"
-        ],
-        "AWS GovCloud (US)": [
-            "200.0000000000"
-        ]
+        "US West (Oregon)": "200.0000000000",
+        "US East (Ohio)": "200.0000000000",
+        "US East (N. Virginia)": "200.0000000000",
+        "EU (Ireland)": "200.0000000000",
+        "EU (Frankfurt)": "200.0000000000",
+        "Canada (Central)": "200.0000000000",
+        "Asia Pacific (Tokyo)": "200.0000000000",
+        "Asia Pacific (Sydney)": "200.0000000000",
+        "Asia Pacific (Singapore)": "200.0000000000",
+        "Asia Pacific (Seoul)": "200.0000000000",
+        "Asia Pacific (Mumbai)": "200.0000000000",
+        "AWS GovCloud (US)": "200.0000000000"
     },
     "IoT SiteWise DataScanned per GB": {
-        "Default": [
-            "0.2000000000"
-        ],
-        "US West (Oregon)": [
-            "0.2000000000"
-        ],
-        "US East (N. Virginia)": [
-            "0.2000000000"
-        ],
-        "EU (Ireland)": [
-            "0.2400000000"
-        ],
-        "EU (Frankfurt)": [
-            "0.2400000000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.2600000000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.2400000000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.2600000000"
-        ],
-        "Asia Pacific (Seoul)": [
-            "0.2600000000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.2600000000"
-        ],
-        "AWS GovCloud (US)": [
-            "0.2400000000"
-        ]
+        "US West (Oregon)": "0.2000000000",
+        "US East (N. Virginia)": "0.2000000000",
+        "EU (Ireland)": "0.2400000000",
+        "EU (Frankfurt)": "0.2400000000",
+        "Asia Pacific (Tokyo)": "0.2600000000",
+        "Asia Pacific (Sydney)": "0.2400000000",
+        "Asia Pacific (Singapore)": "0.2600000000",
+        "Asia Pacific (Seoul)": "0.2600000000",
+        "Asia Pacific (Mumbai)": "0.2600000000",
+        "AWS GovCloud (US)": "0.2400000000"
     },
     "IoT SiteWise Messaging per Messages": {
-        "Default": [
-            "0.0000010000"
-        ],
-        "US West (Oregon)": [
-            "0.0000010000"
-        ],
-        "US East (Ohio)": [
-            "0.0000010000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0000010000"
-        ],
-        "EU (Ireland)": [
-            "0.0000012000"
-        ],
-        "EU (Frankfurt)": [
-            "0.0000012000"
-        ],
-        "Canada (Central)": [
-            "0.0000010000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.0000013000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.0000012000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.0000013000"
-        ],
-        "Asia Pacific (Seoul)": [
-            "0.0000013000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.0000013000"
-        ],
-        "AWS GovCloud (US)": [
-            "0.0000012000"
-        ]
+        "US West (Oregon)": "0.0000010000",
+        "US East (Ohio)": "0.0000010000",
+        "US East (N. Virginia)": "0.0000010000",
+        "EU (Ireland)": "0.0000012000",
+        "EU (Frankfurt)": "0.0000012000",
+        "Canada (Central)": "0.0000010000",
+        "Asia Pacific (Tokyo)": "0.0000013000",
+        "Asia Pacific (Sydney)": "0.0000012000",
+        "Asia Pacific (Singapore)": "0.0000013000",
+        "Asia Pacific (Seoul)": "0.0000013000",
+        "Asia Pacific (Mumbai)": "0.0000013000",
+        "AWS GovCloud (US)": "0.0000012000"
     },
     "IoT SiteWise Storage Warm per GB-Hours": {
-        "Default": [
-            "0.0000416700"
-        ],
-        "US West (Oregon)": [
-            "0.0000416700"
-        ],
-        "US East (Ohio)": [
-            "0.0000416700"
-        ],
-        "US East (N. Virginia)": [
-            "0.0000416700"
-        ],
-        "EU (Ireland)": [
-            "0.0000500000"
-        ],
-        "EU (Frankfurt)": [
-            "0.0000500000"
-        ],
-        "Canada (Central)": [
-            "0.0000416700"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.0000541700"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.0000500000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.0000541700"
-        ],
-        "Asia Pacific (Seoul)": [
-            "0.0000541700"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.0000541700"
-        ],
-        "AWS GovCloud (US)": [
-            "0.0000500000"
-        ]
+        "US West (Oregon)": "0.0000416700",
+        "US East (Ohio)": "0.0000416700",
+        "US East (N. Virginia)": "0.0000416700",
+        "EU (Ireland)": "0.0000500000",
+        "EU (Frankfurt)": "0.0000500000",
+        "Canada (Central)": "0.0000416700",
+        "Asia Pacific (Tokyo)": "0.0000541700",
+        "Asia Pacific (Sydney)": "0.0000500000",
+        "Asia Pacific (Singapore)": "0.0000541700",
+        "Asia Pacific (Seoul)": "0.0000541700",
+        "Asia Pacific (Mumbai)": "0.0000541700",
+        "AWS GovCloud (US)": "0.0000500000"
     },
     "IoT SiteWise Storage per GB-Hours": {
-        "Default": [
-            "0.0004166700"
-        ],
-        "US West (Oregon)": [
-            "0.0004166700"
-        ],
-        "US East (Ohio)": [
-            "0.0004170000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0004166700"
-        ],
-        "EU (Ireland)": [
-            "0.0005000000"
-        ],
-        "EU (Frankfurt)": [
-            "0.0005000000"
-        ],
-        "Canada (Central)": [
-            "0.0004170000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.0005416700"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.0005000000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.0005416700"
-        ],
-        "Asia Pacific (Seoul)": [
-            "0.0005416700"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.0005416700"
-        ],
-        "AWS GovCloud (US)": [
-            "0.0005000040"
-        ]
+        "US West (Oregon)": "0.0004166700",
+        "US East (Ohio)": "0.0004170000",
+        "US East (N. Virginia)": "0.0004166700",
+        "EU (Ireland)": "0.0005000000",
+        "EU (Frankfurt)": "0.0005000000",
+        "Canada (Central)": "0.0004170000",
+        "Asia Pacific (Tokyo)": "0.0005416700",
+        "Asia Pacific (Sydney)": "0.0005000000",
+        "Asia Pacific (Singapore)": "0.0005416700",
+        "Asia Pacific (Seoul)": "0.0005416700",
+        "Asia Pacific (Mumbai)": "0.0005416700",
+        "AWS GovCloud (US)": "0.0005000040"
     },
     "IoT SiteWise Data Export per Objects": {
-        "Default": [
-            "0.0000050000"
-        ],
-        "US West (Oregon)": [
-            "0.0000050000"
-        ],
-        "US East (Ohio)": [
-            "0.0000050000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0000050000"
-        ],
-        "EU (Ireland)": [
-            "0.0000060000"
-        ],
-        "EU (Frankfurt)": [
-            "0.0000060000"
-        ],
-        "Canada (Central)": [
-            "0.0000050000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.0000065000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.0000060000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.0000065000"
-        ],
-        "Asia Pacific (Seoul)": [
-            "0.0000065000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.0000065000"
-        ],
-        "AWS GovCloud (US)": [
-            "0.0000060000"
-        ]
+        "US West (Oregon)": "0.0000050000",
+        "US East (Ohio)": "0.0000050000",
+        "US East (N. Virginia)": "0.0000050000",
+        "EU (Ireland)": "0.0000060000",
+        "EU (Frankfurt)": "0.0000060000",
+        "Canada (Central)": "0.0000050000",
+        "Asia Pacific (Tokyo)": "0.0000065000",
+        "Asia Pacific (Sydney)": "0.0000060000",
+        "Asia Pacific (Singapore)": "0.0000065000",
+        "Asia Pacific (Seoul)": "0.0000065000",
+        "Asia Pacific (Mumbai)": "0.0000065000",
+        "AWS GovCloud (US)": "0.0000060000"
     }
 }

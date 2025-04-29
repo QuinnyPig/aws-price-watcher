@@ -1,56 +1,21 @@
 {
     "Steps Executed": {
-        "Default": [
-            "0.0000450000"
-        ],
-        "US West (Oregon)": [
-            "0.0000450000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0000450000"
-        ],
-        "EU (Ireland)": [
-            "0.0000450000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.0000540000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.0000540000"
-        ],
-        "Asia Pacific (Seoul)": [
-            "0.0000540000"
-        ]
+        "US West (Oregon)": "0.0000450000",
+        "US East (N. Virginia)": "0.0000450000",
+        "EU (Ireland)": "0.0000450000",
+        "Asia Pacific (Tokyo)": "0.0000540000",
+        "Asia Pacific (Sydney)": "0.0000540000",
+        "Asia Pacific (Seoul)": "0.0000540000"
     },
     "Deployments": {
-        "Default": [
-            "0.0095000000"
-        ],
-        "US West (Oregon)": [
-            "0.0095000000"
-        ],
-        "US East (N. Virginia)": [
-            "0.0095000000"
-        ],
-        "EU (Ireland)": [
-            "0.0095000000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.0114000000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.0114000000"
-        ],
-        "Asia Pacific (Seoul)": [
-            "0.0114000000"
-        ]
+        "US West (Oregon)": "0.0095000000",
+        "US East (N. Virginia)": "0.0095000000",
+        "EU (Ireland)": "0.0095000000",
+        "Asia Pacific (Tokyo)": "0.0114000000",
+        "Asia Pacific (Sydney)": "0.0114000000",
+        "Asia Pacific (Seoul)": "0.0114000000"
     },
     "Global Deployments": {
-        "Default": [
-            "0.0095000000"
-        ],
-        "Any": [
-            "0.0095000000"
-        ]
+        "Any": "0.0095000000"
     }
 }

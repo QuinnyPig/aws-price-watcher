@@ -1,1254 +1,425 @@
 {
     "Firewall Manager Policy Public Regions Common": {
-        "Default": [
-            "100.0000000000"
-        ],
-        "US West (Oregon)": [
-            "100.0000000000"
-        ],
-        "US West (N. California)": [
-            "100.0000000000"
-        ],
-        "US East (Ohio)": [
-            "100.0000000000"
-        ],
-        "US East (N. Virginia)": [
-            "100.0000000000"
-        ],
-        "South America (Sao Paulo)": [
-            "100.0000000000"
-        ],
-        "Middle East (UAE)": [
-            "110.0000000000"
-        ],
-        "Middle East (Bahrain)": [
-            "100.0000000000"
-        ],
-        "Mexico (Central)": [
-            "100.0000000000"
-        ],
-        "Israel (Tel Aviv)": [
-            "100.0000000000"
-        ],
-        "EU (Zurich)": [
-            "120.0000000000"
-        ],
-        "EU (Stockholm)": [
-            "100.0000000000"
-        ],
-        "EU (Spain)": [
-            "100.0000000000"
-        ],
-        "EU (Paris)": [
-            "100.0000000000"
-        ],
-        "EU (Milan)": [
-            "100.0000000000"
-        ],
-        "EU (London)": [
-            "100.0000000000"
-        ],
-        "EU (Ireland)": [
-            "100.0000000000"
-        ],
-        "EU (Frankfurt)": [
-            "100.0000000000"
-        ],
-        "Canada West (Calgary)": [
-            "100.0000000000"
-        ],
-        "Canada (Central)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Thailand)": [
-            "120.0000000000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Seoul)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Osaka)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Melbourne)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Malaysia)": [
-            "120.0000000000"
-        ],
-        "Asia Pacific (Jakarta)": [
-            "120.0000000000"
-        ],
-        "Asia Pacific (Hyderabad)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Hong Kong)": [
-            "100.0000000000"
-        ],
-        "Africa (Cape Town)": [
-            "100.0000000000"
-        ],
-        "AWS GovCloud (US-East)": [
-            "100.0000000000"
-        ],
-        "AWS GovCloud (US)": [
-            "100.0000000000"
-        ]
+        "US West (Oregon)": "100.0000000000",
+        "US West (N. California)": "100.0000000000",
+        "US East (Ohio)": "100.0000000000",
+        "US East (N. Virginia)": "100.0000000000",
+        "South America (Sao Paulo)": "100.0000000000",
+        "Middle East (UAE)": "110.0000000000",
+        "Middle East (Bahrain)": "100.0000000000",
+        "Mexico (Central)": "100.0000000000",
+        "Israel (Tel Aviv)": "100.0000000000",
+        "EU (Zurich)": "120.0000000000",
+        "EU (Stockholm)": "100.0000000000",
+        "EU (Spain)": "100.0000000000",
+        "EU (Paris)": "100.0000000000",
+        "EU (Milan)": "100.0000000000",
+        "EU (London)": "100.0000000000",
+        "EU (Ireland)": "100.0000000000",
+        "EU (Frankfurt)": "100.0000000000",
+        "Canada West (Calgary)": "100.0000000000",
+        "Canada (Central)": "100.0000000000",
+        "Asia Pacific (Tokyo)": "100.0000000000",
+        "Asia Pacific (Thailand)": "120.0000000000",
+        "Asia Pacific (Sydney)": "100.0000000000",
+        "Asia Pacific (Singapore)": "100.0000000000",
+        "Asia Pacific (Seoul)": "100.0000000000",
+        "Asia Pacific (Osaka)": "100.0000000000",
+        "Asia Pacific (Mumbai)": "100.0000000000",
+        "Asia Pacific (Melbourne)": "100.0000000000",
+        "Asia Pacific (Malaysia)": "120.0000000000",
+        "Asia Pacific (Jakarta)": "120.0000000000",
+        "Asia Pacific (Hyderabad)": "100.0000000000",
+        "Asia Pacific (Hong Kong)": "100.0000000000",
+        "Africa (Cape Town)": "100.0000000000",
+        "AWS GovCloud (US-East)": "100.0000000000",
+        "AWS GovCloud (US)": "100.0000000000"
     },
     "Firewall Manager Policy Public Regions": {
-        "Default": [
-            "100.0000000000"
-        ],
-        "US West (Oregon)": [
-            "100.0000000000"
-        ],
-        "US West (N. California)": [
-            "100.0000000000"
-        ],
-        "US East (Ohio)": [
-            "100.0000000000"
-        ],
-        "US East (N. Virginia)": [
-            "100.0000000000"
-        ],
-        "South America (Sao Paulo)": [
-            "100.0000000000"
-        ],
-        "Middle East (Bahrain)": [
-            "100.0000000000"
-        ],
-        "EU (Stockholm)": [
-            "100.0000000000"
-        ],
-        "EU (Paris)": [
-            "100.0000000000"
-        ],
-        "EU (Milan)": [
-            "100.0000000000"
-        ],
-        "EU (London)": [
-            "100.0000000000"
-        ],
-        "EU (Ireland)": [
-            "100.0000000000"
-        ],
-        "EU (Frankfurt)": [
-            "100.0000000000"
-        ],
-        "Canada (Central)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Seoul)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Osaka)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Hong Kong)": [
-            "100.0000000000"
-        ],
-        "Africa (Cape Town)": [
-            "100.0000000000"
-        ],
-        "AWS GovCloud (US-East)": [
-            "100.0000000000"
-        ],
-        "AWS GovCloud (US)": [
-            "100.0000000000"
-        ]
+        "US West (Oregon)": "100.0000000000",
+        "US West (N. California)": "100.0000000000",
+        "US East (Ohio)": "100.0000000000",
+        "US East (N. Virginia)": "100.0000000000",
+        "South America (Sao Paulo)": "100.0000000000",
+        "Middle East (Bahrain)": "100.0000000000",
+        "EU (Stockholm)": "100.0000000000",
+        "EU (Paris)": "100.0000000000",
+        "EU (Milan)": "100.0000000000",
+        "EU (London)": "100.0000000000",
+        "EU (Ireland)": "100.0000000000",
+        "EU (Frankfurt)": "100.0000000000",
+        "Canada (Central)": "100.0000000000",
+        "Asia Pacific (Tokyo)": "100.0000000000",
+        "Asia Pacific (Sydney)": "100.0000000000",
+        "Asia Pacific (Singapore)": "100.0000000000",
+        "Asia Pacific (Seoul)": "100.0000000000",
+        "Asia Pacific (Osaka)": "100.0000000000",
+        "Asia Pacific (Mumbai)": "100.0000000000",
+        "Asia Pacific (Hong Kong)": "100.0000000000",
+        "Africa (Cape Town)": "100.0000000000",
+        "AWS GovCloud (US-East)": "100.0000000000",
+        "AWS GovCloud (US)": "100.0000000000"
     },
     "Firewall Manager Policy Public Regions Shield": {
-        "Default": [
-            "100.0000000000"
-        ],
-        "US West (Oregon)": [
-            "100.0000000000"
-        ],
-        "US West (N. California)": [
-            "100.0000000000"
-        ],
-        "US East (Ohio)": [
-            "100.0000000000"
-        ],
-        "US East (N. Virginia)": [
-            "100.0000000000"
-        ],
-        "South America (Sao Paulo)": [
-            "100.0000000000"
-        ],
-        "Middle East (UAE)": [
-            "110.0000000000"
-        ],
-        "Middle East (Bahrain)": [
-            "100.0000000000"
-        ],
-        "Mexico (Central)": [
-            "100.0000000000"
-        ],
-        "Israel (Tel Aviv)": [
-            "100.0000000000"
-        ],
-        "EU (Zurich)": [
-            "120.0000000000"
-        ],
-        "EU (Stockholm)": [
-            "100.0000000000"
-        ],
-        "EU (Spain)": [
-            "100.0000000000"
-        ],
-        "EU (Paris)": [
-            "100.0000000000"
-        ],
-        "EU (Milan)": [
-            "100.0000000000"
-        ],
-        "EU (London)": [
-            "100.0000000000"
-        ],
-        "EU (Ireland)": [
-            "100.0000000000"
-        ],
-        "EU (Frankfurt)": [
-            "100.0000000000"
-        ],
-        "Canada West (Calgary)": [
-            "100.0000000000"
-        ],
-        "Canada (Central)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Thailand)": [
-            "120.0000000000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Seoul)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Osaka)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Melbourne)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Malaysia)": [
-            "120.0000000000"
-        ],
-        "Asia Pacific (Jakarta)": [
-            "120.0000000000"
-        ],
-        "Asia Pacific (Hyderabad)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Hong Kong)": [
-            "100.0000000000"
-        ],
-        "Africa (Cape Town)": [
-            "100.0000000000"
-        ],
-        "AWS GovCloud (US-East)": [
-            "100.0000000000"
-        ],
-        "AWS GovCloud (US)": [
-            "100.0000000000"
-        ]
+        "US West (Oregon)": "100.0000000000",
+        "US West (N. California)": "100.0000000000",
+        "US East (Ohio)": "100.0000000000",
+        "US East (N. Virginia)": "100.0000000000",
+        "South America (Sao Paulo)": "100.0000000000",
+        "Middle East (UAE)": "110.0000000000",
+        "Middle East (Bahrain)": "100.0000000000",
+        "Mexico (Central)": "100.0000000000",
+        "Israel (Tel Aviv)": "100.0000000000",
+        "EU (Zurich)": "120.0000000000",
+        "EU (Stockholm)": "100.0000000000",
+        "EU (Spain)": "100.0000000000",
+        "EU (Paris)": "100.0000000000",
+        "EU (Milan)": "100.0000000000",
+        "EU (London)": "100.0000000000",
+        "EU (Ireland)": "100.0000000000",
+        "EU (Frankfurt)": "100.0000000000",
+        "Canada West (Calgary)": "100.0000000000",
+        "Canada (Central)": "100.0000000000",
+        "Asia Pacific (Tokyo)": "100.0000000000",
+        "Asia Pacific (Thailand)": "120.0000000000",
+        "Asia Pacific (Sydney)": "100.0000000000",
+        "Asia Pacific (Singapore)": "100.0000000000",
+        "Asia Pacific (Seoul)": "100.0000000000",
+        "Asia Pacific (Osaka)": "100.0000000000",
+        "Asia Pacific (Mumbai)": "100.0000000000",
+        "Asia Pacific (Melbourne)": "100.0000000000",
+        "Asia Pacific (Malaysia)": "120.0000000000",
+        "Asia Pacific (Jakarta)": "120.0000000000",
+        "Asia Pacific (Hyderabad)": "100.0000000000",
+        "Asia Pacific (Hong Kong)": "100.0000000000",
+        "Africa (Cape Town)": "100.0000000000",
+        "AWS GovCloud (US-East)": "100.0000000000",
+        "AWS GovCloud (US)": "100.0000000000"
     },
     "Firewall Manager Policy Public Regions Usage Audit": {
-        "Default": [
-            "100.0000000000"
-        ],
-        "US West (Oregon)": [
-            "100.0000000000"
-        ],
-        "US West (N. California)": [
-            "100.0000000000"
-        ],
-        "US East (Ohio)": [
-            "100.0000000000"
-        ],
-        "US East (N. Virginia)": [
-            "100.0000000000"
-        ],
-        "South America (Sao Paulo)": [
-            "100.0000000000"
-        ],
-        "Middle East (UAE)": [
-            "110.0000000000"
-        ],
-        "Middle East (Bahrain)": [
-            "100.0000000000"
-        ],
-        "Mexico (Central)": [
-            "100.0000000000"
-        ],
-        "Israel (Tel Aviv)": [
-            "100.0000000000"
-        ],
-        "EU (Zurich)": [
-            "120.0000000000"
-        ],
-        "EU (Stockholm)": [
-            "100.0000000000"
-        ],
-        "EU (Spain)": [
-            "100.0000000000"
-        ],
-        "EU (Paris)": [
-            "100.0000000000"
-        ],
-        "EU (Milan)": [
-            "100.0000000000"
-        ],
-        "EU (London)": [
-            "100.0000000000"
-        ],
-        "EU (Ireland)": [
-            "100.0000000000"
-        ],
-        "EU (Frankfurt)": [
-            "100.0000000000"
-        ],
-        "Canada West (Calgary)": [
-            "100.0000000000"
-        ],
-        "Canada (Central)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Thailand)": [
-            "120.0000000000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Seoul)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Osaka)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Melbourne)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Malaysia)": [
-            "120.0000000000"
-        ],
-        "Asia Pacific (Jakarta)": [
-            "120.0000000000"
-        ],
-        "Asia Pacific (Hyderabad)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Hong Kong)": [
-            "100.0000000000"
-        ],
-        "Africa (Cape Town)": [
-            "100.0000000000"
-        ],
-        "AWS GovCloud (US-East)": [
-            "100.0000000000"
-        ],
-        "AWS GovCloud (US)": [
-            "100.0000000000"
-        ]
+        "US West (Oregon)": "100.0000000000",
+        "US West (N. California)": "100.0000000000",
+        "US East (Ohio)": "100.0000000000",
+        "US East (N. Virginia)": "100.0000000000",
+        "South America (Sao Paulo)": "100.0000000000",
+        "Middle East (UAE)": "110.0000000000",
+        "Middle East (Bahrain)": "100.0000000000",
+        "Mexico (Central)": "100.0000000000",
+        "Israel (Tel Aviv)": "100.0000000000",
+        "EU (Zurich)": "120.0000000000",
+        "EU (Stockholm)": "100.0000000000",
+        "EU (Spain)": "100.0000000000",
+        "EU (Paris)": "100.0000000000",
+        "EU (Milan)": "100.0000000000",
+        "EU (London)": "100.0000000000",
+        "EU (Ireland)": "100.0000000000",
+        "EU (Frankfurt)": "100.0000000000",
+        "Canada West (Calgary)": "100.0000000000",
+        "Canada (Central)": "100.0000000000",
+        "Asia Pacific (Tokyo)": "100.0000000000",
+        "Asia Pacific (Thailand)": "120.0000000000",
+        "Asia Pacific (Sydney)": "100.0000000000",
+        "Asia Pacific (Singapore)": "100.0000000000",
+        "Asia Pacific (Seoul)": "100.0000000000",
+        "Asia Pacific (Osaka)": "100.0000000000",
+        "Asia Pacific (Mumbai)": "100.0000000000",
+        "Asia Pacific (Melbourne)": "100.0000000000",
+        "Asia Pacific (Malaysia)": "120.0000000000",
+        "Asia Pacific (Jakarta)": "120.0000000000",
+        "Asia Pacific (Hyderabad)": "100.0000000000",
+        "Asia Pacific (Hong Kong)": "100.0000000000",
+        "Africa (Cape Town)": "100.0000000000",
+        "AWS GovCloud (US-East)": "100.0000000000",
+        "AWS GovCloud (US)": "100.0000000000"
     },
     "Firewall Manager Policy Public Regions Import Network-Firewall": {
-        "Default": [
-            "100.0000000000"
-        ],
-        "US West (Oregon)": [
-            "100.0000000000"
-        ],
-        "US West (N. California)": [
-            "100.0000000000"
-        ],
-        "US East (Ohio)": [
-            "100.0000000000"
-        ],
-        "US East (N. Virginia)": [
-            "100.0000000000"
-        ],
-        "South America (Sao Paulo)": [
-            "100.0000000000"
-        ],
-        "Middle East (UAE)": [
-            "110.0000000000"
-        ],
-        "Middle East (Bahrain)": [
-            "100.0000000000"
-        ],
-        "Mexico (Central)": [
-            "100.0000000000"
-        ],
-        "Israel (Tel Aviv)": [
-            "100.0000000000"
-        ],
-        "EU (Zurich)": [
-            "120.0000000000"
-        ],
-        "EU (Stockholm)": [
-            "100.0000000000"
-        ],
-        "EU (Spain)": [
-            "100.0000000000"
-        ],
-        "EU (Paris)": [
-            "100.0000000000"
-        ],
-        "EU (Milan)": [
-            "100.0000000000"
-        ],
-        "EU (London)": [
-            "100.0000000000"
-        ],
-        "EU (Ireland)": [
-            "100.0000000000"
-        ],
-        "EU (Frankfurt)": [
-            "100.0000000000"
-        ],
-        "Canada West (Calgary)": [
-            "100.0000000000"
-        ],
-        "Canada (Central)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Thailand)": [
-            "120.0000000000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Seoul)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Osaka)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Melbourne)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Malaysia)": [
-            "120.0000000000"
-        ],
-        "Asia Pacific (Jakarta)": [
-            "120.0000000000"
-        ],
-        "Asia Pacific (Hyderabad)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Hong Kong)": [
-            "100.0000000000"
-        ],
-        "Africa (Cape Town)": [
-            "100.0000000000"
-        ],
-        "AWS GovCloud (US-East)": [
-            "100.0000000000"
-        ],
-        "AWS GovCloud (US)": [
-            "100.0000000000"
-        ]
+        "US West (Oregon)": "100.0000000000",
+        "US West (N. California)": "100.0000000000",
+        "US East (Ohio)": "100.0000000000",
+        "US East (N. Virginia)": "100.0000000000",
+        "South America (Sao Paulo)": "100.0000000000",
+        "Middle East (UAE)": "110.0000000000",
+        "Middle East (Bahrain)": "100.0000000000",
+        "Mexico (Central)": "100.0000000000",
+        "Israel (Tel Aviv)": "100.0000000000",
+        "EU (Zurich)": "120.0000000000",
+        "EU (Stockholm)": "100.0000000000",
+        "EU (Spain)": "100.0000000000",
+        "EU (Paris)": "100.0000000000",
+        "EU (Milan)": "100.0000000000",
+        "EU (London)": "100.0000000000",
+        "EU (Ireland)": "100.0000000000",
+        "EU (Frankfurt)": "100.0000000000",
+        "Canada West (Calgary)": "100.0000000000",
+        "Canada (Central)": "100.0000000000",
+        "Asia Pacific (Tokyo)": "100.0000000000",
+        "Asia Pacific (Thailand)": "120.0000000000",
+        "Asia Pacific (Sydney)": "100.0000000000",
+        "Asia Pacific (Singapore)": "100.0000000000",
+        "Asia Pacific (Seoul)": "100.0000000000",
+        "Asia Pacific (Osaka)": "100.0000000000",
+        "Asia Pacific (Mumbai)": "100.0000000000",
+        "Asia Pacific (Melbourne)": "100.0000000000",
+        "Asia Pacific (Malaysia)": "120.0000000000",
+        "Asia Pacific (Jakarta)": "120.0000000000",
+        "Asia Pacific (Hyderabad)": "100.0000000000",
+        "Asia Pacific (Hong Kong)": "100.0000000000",
+        "Africa (Cape Town)": "100.0000000000",
+        "AWS GovCloud (US-East)": "100.0000000000",
+        "AWS GovCloud (US)": "100.0000000000"
     },
     "Firewall Manager Policy Public Regions Content Audit": {
-        "Default": [
-            "100.0000000000"
-        ],
-        "US West (Oregon)": [
-            "100.0000000000"
-        ],
-        "US West (N. California)": [
-            "100.0000000000"
-        ],
-        "US East (Ohio)": [
-            "100.0000000000"
-        ],
-        "US East (N. Virginia)": [
-            "100.0000000000"
-        ],
-        "South America (Sao Paulo)": [
-            "100.0000000000"
-        ],
-        "Middle East (UAE)": [
-            "110.0000000000"
-        ],
-        "Middle East (Bahrain)": [
-            "100.0000000000"
-        ],
-        "Mexico (Central)": [
-            "100.0000000000"
-        ],
-        "Israel (Tel Aviv)": [
-            "100.0000000000"
-        ],
-        "EU (Zurich)": [
-            "120.0000000000"
-        ],
-        "EU (Stockholm)": [
-            "100.0000000000"
-        ],
-        "EU (Spain)": [
-            "100.0000000000"
-        ],
-        "EU (Paris)": [
-            "100.0000000000"
-        ],
-        "EU (Milan)": [
-            "100.0000000000"
-        ],
-        "EU (London)": [
-            "100.0000000000"
-        ],
-        "EU (Ireland)": [
-            "100.0000000000"
-        ],
-        "EU (Frankfurt)": [
-            "100.0000000000"
-        ],
-        "Canada West (Calgary)": [
-            "100.0000000000"
-        ],
-        "Canada (Central)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Thailand)": [
-            "120.0000000000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Seoul)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Osaka)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Melbourne)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Malaysia)": [
-            "120.0000000000"
-        ],
-        "Asia Pacific (Jakarta)": [
-            "120.0000000000"
-        ],
-        "Asia Pacific (Hyderabad)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Hong Kong)": [
-            "100.0000000000"
-        ],
-        "Africa (Cape Town)": [
-            "100.0000000000"
-        ],
-        "AWS GovCloud (US-East)": [
-            "100.0000000000"
-        ],
-        "AWS GovCloud (US)": [
-            "100.0000000000"
-        ]
+        "US West (Oregon)": "100.0000000000",
+        "US West (N. California)": "100.0000000000",
+        "US East (Ohio)": "100.0000000000",
+        "US East (N. Virginia)": "100.0000000000",
+        "South America (Sao Paulo)": "100.0000000000",
+        "Middle East (UAE)": "110.0000000000",
+        "Middle East (Bahrain)": "100.0000000000",
+        "Mexico (Central)": "100.0000000000",
+        "Israel (Tel Aviv)": "100.0000000000",
+        "EU (Zurich)": "120.0000000000",
+        "EU (Stockholm)": "100.0000000000",
+        "EU (Spain)": "100.0000000000",
+        "EU (Paris)": "100.0000000000",
+        "EU (Milan)": "100.0000000000",
+        "EU (London)": "100.0000000000",
+        "EU (Ireland)": "100.0000000000",
+        "EU (Frankfurt)": "100.0000000000",
+        "Canada West (Calgary)": "100.0000000000",
+        "Canada (Central)": "100.0000000000",
+        "Asia Pacific (Tokyo)": "100.0000000000",
+        "Asia Pacific (Thailand)": "120.0000000000",
+        "Asia Pacific (Sydney)": "100.0000000000",
+        "Asia Pacific (Singapore)": "100.0000000000",
+        "Asia Pacific (Seoul)": "100.0000000000",
+        "Asia Pacific (Osaka)": "100.0000000000",
+        "Asia Pacific (Mumbai)": "100.0000000000",
+        "Asia Pacific (Melbourne)": "100.0000000000",
+        "Asia Pacific (Malaysia)": "120.0000000000",
+        "Asia Pacific (Jakarta)": "120.0000000000",
+        "Asia Pacific (Hyderabad)": "100.0000000000",
+        "Asia Pacific (Hong Kong)": "100.0000000000",
+        "Africa (Cape Town)": "100.0000000000",
+        "AWS GovCloud (US-East)": "100.0000000000",
+        "AWS GovCloud (US)": "100.0000000000"
     },
     "Firewall Manager Policy Public Regions WAFv2": {
-        "Default": [
-            "100.0000000000"
-        ],
-        "US West (Oregon)": [
-            "100.0000000000"
-        ],
-        "US West (N. California)": [
-            "100.0000000000"
-        ],
-        "US East (Ohio)": [
-            "100.0000000000"
-        ],
-        "US East (N. Virginia)": [
-            "100.0000000000"
-        ],
-        "South America (Sao Paulo)": [
-            "100.0000000000"
-        ],
-        "Middle East (UAE)": [
-            "110.0000000000"
-        ],
-        "Middle East (Bahrain)": [
-            "100.0000000000"
-        ],
-        "Mexico (Central)": [
-            "100.0000000000"
-        ],
-        "Israel (Tel Aviv)": [
-            "100.0000000000"
-        ],
-        "EU (Zurich)": [
-            "120.0000000000"
-        ],
-        "EU (Stockholm)": [
-            "100.0000000000"
-        ],
-        "EU (Spain)": [
-            "100.0000000000"
-        ],
-        "EU (Paris)": [
-            "100.0000000000"
-        ],
-        "EU (Milan)": [
-            "100.0000000000"
-        ],
-        "EU (London)": [
-            "100.0000000000"
-        ],
-        "EU (Ireland)": [
-            "100.0000000000"
-        ],
-        "EU (Frankfurt)": [
-            "100.0000000000"
-        ],
-        "Canada West (Calgary)": [
-            "100.0000000000"
-        ],
-        "Canada (Central)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Thailand)": [
-            "120.0000000000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Seoul)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Osaka)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Melbourne)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Malaysia)": [
-            "120.0000000000"
-        ],
-        "Asia Pacific (Jakarta)": [
-            "120.0000000000"
-        ],
-        "Asia Pacific (Hyderabad)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Hong Kong)": [
-            "100.0000000000"
-        ],
-        "Africa (Cape Town)": [
-            "100.0000000000"
-        ],
-        "AWS GovCloud (US-East)": [
-            "100.0000000000"
-        ],
-        "AWS GovCloud (US)": [
-            "100.0000000000"
-        ]
+        "US West (Oregon)": "100.0000000000",
+        "US West (N. California)": "100.0000000000",
+        "US East (Ohio)": "100.0000000000",
+        "US East (N. Virginia)": "100.0000000000",
+        "South America (Sao Paulo)": "100.0000000000",
+        "Middle East (UAE)": "110.0000000000",
+        "Middle East (Bahrain)": "100.0000000000",
+        "Mexico (Central)": "100.0000000000",
+        "Israel (Tel Aviv)": "100.0000000000",
+        "EU (Zurich)": "120.0000000000",
+        "EU (Stockholm)": "100.0000000000",
+        "EU (Spain)": "100.0000000000",
+        "EU (Paris)": "100.0000000000",
+        "EU (Milan)": "100.0000000000",
+        "EU (London)": "100.0000000000",
+        "EU (Ireland)": "100.0000000000",
+        "EU (Frankfurt)": "100.0000000000",
+        "Canada West (Calgary)": "100.0000000000",
+        "Canada (Central)": "100.0000000000",
+        "Asia Pacific (Tokyo)": "100.0000000000",
+        "Asia Pacific (Thailand)": "120.0000000000",
+        "Asia Pacific (Sydney)": "100.0000000000",
+        "Asia Pacific (Singapore)": "100.0000000000",
+        "Asia Pacific (Seoul)": "100.0000000000",
+        "Asia Pacific (Osaka)": "100.0000000000",
+        "Asia Pacific (Mumbai)": "100.0000000000",
+        "Asia Pacific (Melbourne)": "100.0000000000",
+        "Asia Pacific (Malaysia)": "120.0000000000",
+        "Asia Pacific (Jakarta)": "120.0000000000",
+        "Asia Pacific (Hyderabad)": "100.0000000000",
+        "Asia Pacific (Hong Kong)": "100.0000000000",
+        "Africa (Cape Town)": "100.0000000000",
+        "AWS GovCloud (US-East)": "100.0000000000",
+        "AWS GovCloud (US)": "100.0000000000"
     },
     "Firewall Manager Policy Public Regions WAF": {
-        "Default": [
-            "100.0000000000"
-        ],
-        "US West (Oregon)": [
-            "100.0000000000"
-        ],
-        "US West (N. California)": [
-            "100.0000000000"
-        ],
-        "US East (Ohio)": [
-            "100.0000000000"
-        ],
-        "US East (N. Virginia)": [
-            "100.0000000000"
-        ],
-        "South America (Sao Paulo)": [
-            "100.0000000000"
-        ],
-        "Middle East (UAE)": [
-            "110.0000000000"
-        ],
-        "Middle East (Bahrain)": [
-            "100.0000000000"
-        ],
-        "EU (Zurich)": [
-            "120.0000000000"
-        ],
-        "EU (Stockholm)": [
-            "100.0000000000"
-        ],
-        "EU (Spain)": [
-            "100.0000000000"
-        ],
-        "EU (Paris)": [
-            "100.0000000000"
-        ],
-        "EU (Milan)": [
-            "100.0000000000"
-        ],
-        "EU (London)": [
-            "100.0000000000"
-        ],
-        "EU (Ireland)": [
-            "100.0000000000"
-        ],
-        "EU (Frankfurt)": [
-            "100.0000000000"
-        ],
-        "Canada (Central)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Seoul)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Osaka)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Melbourne)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Jakarta)": [
-            "120.0000000000"
-        ],
-        "Asia Pacific (Hyderabad)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Hong Kong)": [
-            "100.0000000000"
-        ],
-        "Africa (Cape Town)": [
-            "100.0000000000"
-        ],
-        "AWS GovCloud (US-East)": [
-            "100.0000000000"
-        ],
-        "AWS GovCloud (US)": [
-            "100.0000000000"
-        ]
+        "US West (Oregon)": "100.0000000000",
+        "US West (N. California)": "100.0000000000",
+        "US East (Ohio)": "100.0000000000",
+        "US East (N. Virginia)": "100.0000000000",
+        "South America (Sao Paulo)": "100.0000000000",
+        "Middle East (UAE)": "110.0000000000",
+        "Middle East (Bahrain)": "100.0000000000",
+        "EU (Zurich)": "120.0000000000",
+        "EU (Stockholm)": "100.0000000000",
+        "EU (Spain)": "100.0000000000",
+        "EU (Paris)": "100.0000000000",
+        "EU (Milan)": "100.0000000000",
+        "EU (London)": "100.0000000000",
+        "EU (Ireland)": "100.0000000000",
+        "EU (Frankfurt)": "100.0000000000",
+        "Canada (Central)": "100.0000000000",
+        "Asia Pacific (Tokyo)": "100.0000000000",
+        "Asia Pacific (Sydney)": "100.0000000000",
+        "Asia Pacific (Singapore)": "100.0000000000",
+        "Asia Pacific (Seoul)": "100.0000000000",
+        "Asia Pacific (Osaka)": "100.0000000000",
+        "Asia Pacific (Mumbai)": "100.0000000000",
+        "Asia Pacific (Melbourne)": "100.0000000000",
+        "Asia Pacific (Jakarta)": "120.0000000000",
+        "Asia Pacific (Hyderabad)": "100.0000000000",
+        "Asia Pacific (Hong Kong)": "100.0000000000",
+        "Africa (Cape Town)": "100.0000000000",
+        "AWS GovCloud (US-East)": "100.0000000000",
+        "AWS GovCloud (US)": "100.0000000000"
     },
     "Firewall Manager Policy Public Regions Network Firewall": {
-        "Default": [
-            "100.0000000000"
-        ],
-        "US West (Oregon)": [
-            "100.0000000000"
-        ],
-        "US West (N. California)": [
-            "100.0000000000"
-        ],
-        "US East (Ohio)": [
-            "100.0000000000"
-        ],
-        "US East (N. Virginia)": [
-            "100.0000000000"
-        ],
-        "South America (Sao Paulo)": [
-            "100.0000000000"
-        ],
-        "Middle East (UAE)": [
-            "110.0000000000"
-        ],
-        "Middle East (Bahrain)": [
-            "100.0000000000"
-        ],
-        "Mexico (Central)": [
-            "100.0000000000"
-        ],
-        "Israel (Tel Aviv)": [
-            "100.0000000000"
-        ],
-        "EU (Zurich)": [
-            "120.0000000000"
-        ],
-        "EU (Stockholm)": [
-            "100.0000000000"
-        ],
-        "EU (Spain)": [
-            "100.0000000000"
-        ],
-        "EU (Paris)": [
-            "100.0000000000"
-        ],
-        "EU (Milan)": [
-            "100.0000000000"
-        ],
-        "EU (London)": [
-            "100.0000000000"
-        ],
-        "EU (Ireland)": [
-            "100.0000000000"
-        ],
-        "EU (Frankfurt)": [
-            "100.0000000000"
-        ],
-        "Canada West (Calgary)": [
-            "100.0000000000"
-        ],
-        "Canada (Central)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Thailand)": [
-            "120.0000000000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Seoul)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Osaka)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Melbourne)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Malaysia)": [
-            "120.0000000000"
-        ],
-        "Asia Pacific (Jakarta)": [
-            "120.0000000000"
-        ],
-        "Asia Pacific (Hyderabad)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Hong Kong)": [
-            "100.0000000000"
-        ],
-        "Africa (Cape Town)": [
-            "100.0000000000"
-        ],
-        "AWS GovCloud (US-East)": [
-            "100.0000000000"
-        ],
-        "AWS GovCloud (US)": [
-            "100.0000000000"
-        ]
+        "US West (Oregon)": "100.0000000000",
+        "US West (N. California)": "100.0000000000",
+        "US East (Ohio)": "100.0000000000",
+        "US East (N. Virginia)": "100.0000000000",
+        "South America (Sao Paulo)": "100.0000000000",
+        "Middle East (UAE)": "110.0000000000",
+        "Middle East (Bahrain)": "100.0000000000",
+        "Mexico (Central)": "100.0000000000",
+        "Israel (Tel Aviv)": "100.0000000000",
+        "EU (Zurich)": "120.0000000000",
+        "EU (Stockholm)": "100.0000000000",
+        "EU (Spain)": "100.0000000000",
+        "EU (Paris)": "100.0000000000",
+        "EU (Milan)": "100.0000000000",
+        "EU (London)": "100.0000000000",
+        "EU (Ireland)": "100.0000000000",
+        "EU (Frankfurt)": "100.0000000000",
+        "Canada West (Calgary)": "100.0000000000",
+        "Canada (Central)": "100.0000000000",
+        "Asia Pacific (Tokyo)": "100.0000000000",
+        "Asia Pacific (Thailand)": "120.0000000000",
+        "Asia Pacific (Sydney)": "100.0000000000",
+        "Asia Pacific (Singapore)": "100.0000000000",
+        "Asia Pacific (Seoul)": "100.0000000000",
+        "Asia Pacific (Osaka)": "100.0000000000",
+        "Asia Pacific (Mumbai)": "100.0000000000",
+        "Asia Pacific (Melbourne)": "100.0000000000",
+        "Asia Pacific (Malaysia)": "120.0000000000",
+        "Asia Pacific (Jakarta)": "120.0000000000",
+        "Asia Pacific (Hyderabad)": "100.0000000000",
+        "Asia Pacific (Hong Kong)": "100.0000000000",
+        "Africa (Cape Town)": "100.0000000000",
+        "AWS GovCloud (US-East)": "100.0000000000",
+        "AWS GovCloud (US)": "100.0000000000"
     },
     "Firewall Manager Policy Public Regions Fortinet": {
-        "Default": [
-            "100.0000000000"
-        ],
-        "US West (Oregon)": [
-            "100.0000000000"
-        ],
-        "US East (N. Virginia)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Thailand)": [
-            "120.0000000000"
-        ],
-        "Asia Pacific (Malaysia)": [
-            "120.0000000000"
-        ]
+        "US West (Oregon)": "100.0000000000",
+        "US East (N. Virginia)": "100.0000000000",
+        "Asia Pacific (Thailand)": "120.0000000000",
+        "Asia Pacific (Malaysia)": "120.0000000000"
     },
     "Firewall Manager Policy Public Regions PaloAlto": {
-        "Default": [
-            "100.0000000000"
-        ],
-        "US West (Oregon)": [
-            "100.0000000000"
-        ],
-        "US West (N. California)": [
-            "100.0000000000"
-        ],
-        "US East (Ohio)": [
-            "100.0000000000"
-        ],
-        "US East (N. Virginia)": [
-            "100.0000000000"
-        ],
-        "South America (Sao Paulo)": [
-            "100.0000000000"
-        ],
-        "EU (Stockholm)": [
-            "100.0000000000"
-        ],
-        "EU (Paris)": [
-            "100.0000000000"
-        ],
-        "EU (London)": [
-            "100.0000000000"
-        ],
-        "EU (Ireland)": [
-            "100.0000000000"
-        ],
-        "EU (Frankfurt)": [
-            "100.0000000000"
-        ],
-        "Canada (Central)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Thailand)": [
-            "120.0000000000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Seoul)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Malaysia)": [
-            "120.0000000000"
-        ]
+        "US West (Oregon)": "100.0000000000",
+        "US West (N. California)": "100.0000000000",
+        "US East (Ohio)": "100.0000000000",
+        "US East (N. Virginia)": "100.0000000000",
+        "South America (Sao Paulo)": "100.0000000000",
+        "EU (Stockholm)": "100.0000000000",
+        "EU (Paris)": "100.0000000000",
+        "EU (London)": "100.0000000000",
+        "EU (Ireland)": "100.0000000000",
+        "EU (Frankfurt)": "100.0000000000",
+        "Canada (Central)": "100.0000000000",
+        "Asia Pacific (Tokyo)": "100.0000000000",
+        "Asia Pacific (Thailand)": "120.0000000000",
+        "Asia Pacific (Singapore)": "100.0000000000",
+        "Asia Pacific (Seoul)": "100.0000000000",
+        "Asia Pacific (Mumbai)": "100.0000000000",
+        "Asia Pacific (Malaysia)": "120.0000000000"
     },
     "Firewall Manager Policy Public Regions Network Acl-Common": {
-        "Default": [
-            "100.0000000000"
-        ],
-        "US West (Oregon)": [
-            "100.0000000000"
-        ],
-        "US West (N. California)": [
-            "100.0000000000"
-        ],
-        "US East (Ohio)": [
-            "100.0000000000"
-        ],
-        "US East (N. Virginia)": [
-            "100.0000000000"
-        ],
-        "South America (Sao Paulo)": [
-            "100.0000000000"
-        ],
-        "Middle East (UAE)": [
-            "110.0000000000"
-        ],
-        "Middle East (Bahrain)": [
-            "100.0000000000"
-        ],
-        "Mexico (Central)": [
-            "100.0000000000"
-        ],
-        "Israel (Tel Aviv)": [
-            "100.0000000000"
-        ],
-        "EU (Zurich)": [
-            "120.0000000000"
-        ],
-        "EU (Stockholm)": [
-            "100.0000000000"
-        ],
-        "EU (Spain)": [
-            "100.0000000000"
-        ],
-        "EU (Paris)": [
-            "100.0000000000"
-        ],
-        "EU (Milan)": [
-            "100.0000000000"
-        ],
-        "EU (London)": [
-            "100.0000000000"
-        ],
-        "EU (Ireland)": [
-            "100.0000000000"
-        ],
-        "EU (Frankfurt)": [
-            "100.0000000000"
-        ],
-        "Canada West (Calgary)": [
-            "100.0000000000"
-        ],
-        "Canada (Central)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Thailand)": [
-            "120.0000000000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Seoul)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Osaka)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Melbourne)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Malaysia)": [
-            "120.0000000000"
-        ],
-        "Asia Pacific (Jakarta)": [
-            "120.0000000000"
-        ],
-        "Asia Pacific (Hyderabad)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Hong Kong)": [
-            "100.0000000000"
-        ],
-        "Africa (Cape Town)": [
-            "100.0000000000"
-        ],
-        "AWS GovCloud (US-East)": [
-            "100.0000000000"
-        ],
-        "AWS GovCloud (US)": [
-            "100.0000000000"
-        ]
+        "US West (Oregon)": "100.0000000000",
+        "US West (N. California)": "100.0000000000",
+        "US East (Ohio)": "100.0000000000",
+        "US East (N. Virginia)": "100.0000000000",
+        "South America (Sao Paulo)": "100.0000000000",
+        "Middle East (UAE)": "110.0000000000",
+        "Middle East (Bahrain)": "100.0000000000",
+        "Mexico (Central)": "100.0000000000",
+        "Israel (Tel Aviv)": "100.0000000000",
+        "EU (Zurich)": "120.0000000000",
+        "EU (Stockholm)": "100.0000000000",
+        "EU (Spain)": "100.0000000000",
+        "EU (Paris)": "100.0000000000",
+        "EU (Milan)": "100.0000000000",
+        "EU (London)": "100.0000000000",
+        "EU (Ireland)": "100.0000000000",
+        "EU (Frankfurt)": "100.0000000000",
+        "Canada West (Calgary)": "100.0000000000",
+        "Canada (Central)": "100.0000000000",
+        "Asia Pacific (Tokyo)": "100.0000000000",
+        "Asia Pacific (Thailand)": "120.0000000000",
+        "Asia Pacific (Sydney)": "100.0000000000",
+        "Asia Pacific (Singapore)": "100.0000000000",
+        "Asia Pacific (Seoul)": "100.0000000000",
+        "Asia Pacific (Osaka)": "100.0000000000",
+        "Asia Pacific (Mumbai)": "100.0000000000",
+        "Asia Pacific (Melbourne)": "100.0000000000",
+        "Asia Pacific (Malaysia)": "120.0000000000",
+        "Asia Pacific (Jakarta)": "120.0000000000",
+        "Asia Pacific (Hyderabad)": "100.0000000000",
+        "Asia Pacific (Hong Kong)": "100.0000000000",
+        "Africa (Cape Town)": "100.0000000000",
+        "AWS GovCloud (US-East)": "100.0000000000",
+        "AWS GovCloud (US)": "100.0000000000"
     },
     "Firewall Manager Policy Public Regions DNS Firewall": {
-        "Default": [
-            "100.0000000000"
-        ],
-        "US West (Oregon)": [
-            "100.0000000000"
-        ],
-        "US West (N. California)": [
-            "100.0000000000"
-        ],
-        "US East (Ohio)": [
-            "100.0000000000"
-        ],
-        "US East (N. Virginia)": [
-            "100.0000000000"
-        ],
-        "South America (Sao Paulo)": [
-            "100.0000000000"
-        ],
-        "Middle East (UAE)": [
-            "110.0000000000"
-        ],
-        "Middle East (Bahrain)": [
-            "100.0000000000"
-        ],
-        "Mexico (Central)": [
-            "100.0000000000"
-        ],
-        "Israel (Tel Aviv)": [
-            "100.0000000000"
-        ],
-        "EU (Zurich)": [
-            "120.0000000000"
-        ],
-        "EU (Stockholm)": [
-            "100.0000000000"
-        ],
-        "EU (Spain)": [
-            "100.0000000000"
-        ],
-        "EU (Paris)": [
-            "100.0000000000"
-        ],
-        "EU (Milan)": [
-            "100.0000000000"
-        ],
-        "EU (London)": [
-            "100.0000000000"
-        ],
-        "EU (Ireland)": [
-            "100.0000000000"
-        ],
-        "EU (Frankfurt)": [
-            "100.0000000000"
-        ],
-        "Canada West (Calgary)": [
-            "100.0000000000"
-        ],
-        "Canada (Central)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Thailand)": [
-            "120.0000000000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Seoul)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Osaka)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Melbourne)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Malaysia)": [
-            "120.0000000000"
-        ],
-        "Asia Pacific (Jakarta)": [
-            "120.0000000000"
-        ],
-        "Asia Pacific (Hyderabad)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Hong Kong)": [
-            "100.0000000000"
-        ],
-        "Africa (Cape Town)": [
-            "100.0000000000"
-        ],
-        "AWS GovCloud (US-East)": [
-            "100.0000000000"
-        ],
-        "AWS GovCloud (US)": [
-            "100.0000000000"
-        ]
+        "US West (Oregon)": "100.0000000000",
+        "US West (N. California)": "100.0000000000",
+        "US East (Ohio)": "100.0000000000",
+        "US East (N. Virginia)": "100.0000000000",
+        "South America (Sao Paulo)": "100.0000000000",
+        "Middle East (UAE)": "110.0000000000",
+        "Middle East (Bahrain)": "100.0000000000",
+        "Mexico (Central)": "100.0000000000",
+        "Israel (Tel Aviv)": "100.0000000000",
+        "EU (Zurich)": "120.0000000000",
+        "EU (Stockholm)": "100.0000000000",
+        "EU (Spain)": "100.0000000000",
+        "EU (Paris)": "100.0000000000",
+        "EU (Milan)": "100.0000000000",
+        "EU (London)": "100.0000000000",
+        "EU (Ireland)": "100.0000000000",
+        "EU (Frankfurt)": "100.0000000000",
+        "Canada West (Calgary)": "100.0000000000",
+        "Canada (Central)": "100.0000000000",
+        "Asia Pacific (Tokyo)": "100.0000000000",
+        "Asia Pacific (Thailand)": "120.0000000000",
+        "Asia Pacific (Sydney)": "100.0000000000",
+        "Asia Pacific (Singapore)": "100.0000000000",
+        "Asia Pacific (Seoul)": "100.0000000000",
+        "Asia Pacific (Osaka)": "100.0000000000",
+        "Asia Pacific (Mumbai)": "100.0000000000",
+        "Asia Pacific (Melbourne)": "100.0000000000",
+        "Asia Pacific (Malaysia)": "120.0000000000",
+        "Asia Pacific (Jakarta)": "120.0000000000",
+        "Asia Pacific (Hyderabad)": "100.0000000000",
+        "Asia Pacific (Hong Kong)": "100.0000000000",
+        "Africa (Cape Town)": "100.0000000000",
+        "AWS GovCloud (US-East)": "100.0000000000",
+        "AWS GovCloud (US)": "100.0000000000"
     },
     "Firewall Manager Policy FMS Shield": {
-        "Default": [
-            "100.0000000000"
-        ],
-        "Mexico (Central)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Thailand)": [
-            "120.0000000000"
-        ],
-        "Asia Pacific (Malaysia)": [
-            "120.0000000000"
-        ],
-        "Any": [
-            "100.0000000000"
-        ]
+        "Mexico (Central)": "100.0000000000",
+        "Asia Pacific (Thailand)": "120.0000000000",
+        "Asia Pacific (Malaysia)": "120.0000000000",
+        "Any": "100.0000000000"
     },
     "Firewall Manager Policy FMS WAF": {
-        "Default": [
-            "100.0000000000"
-        ],
-        "Mexico (Central)": [
-            "100.0000000000"
-        ],
-        "Asia Pacific (Thailand)": [
-            "120.0000000000"
-        ],
-        "Asia Pacific (Malaysia)": [
-            "120.0000000000"
-        ],
-        "Any": [
-            "100.0000000000"
-        ]
+        "Mexico (Central)": "100.0000000000",
+        "Asia Pacific (Thailand)": "120.0000000000",
+        "Asia Pacific (Malaysia)": "120.0000000000",
+        "Any": "100.0000000000"
     },
     "Firewall Manager Policy AmazonCloudFront": {
-        "Default": [
-            "100.0000000000"
-        ],
-        "Any": [
-            "100.0000000000"
-        ]
+        "Any": "100.0000000000"
     },
     "Firewall Manager Policy FMS": {
-        "Default": [
-            "100.0000000000"
-        ],
-        "Any": [
-            "100.0000000000"
-        ]
+        "Any": "100.0000000000"
     }
 }
