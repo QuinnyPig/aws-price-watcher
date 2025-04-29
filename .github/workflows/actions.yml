@@ -39,5 +39,5 @@ jobs:
           remote_repo="https://iann0036-bot:${BOT_GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
           git push "${remote_repo}" HEAD:main
           INPUT_TAG="release-$(date +%Y%m%d%H%M%S)"
-          NOTES=$(awk '/^## / {section++} section == 1' README.md)
-          gh release create $INPUT_TAG -t "${INPUT_TAG}" -n $NOTES
+          awk '/^## / {section++} section == 1' README.md > /tmp/notes.md
+          gh release create $INPUT_TAG -t "${INPUT_TAG}" -F /tmp/notes.md
