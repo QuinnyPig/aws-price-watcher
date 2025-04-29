@@ -1,6 +1,6 @@
 {
     "WebServer Large per Hrs": {
-        "Regionless": [
+        "Default": [
             "0.1100000000"
         ],
         "US West (Oregon)": [
@@ -92,7 +92,7 @@
         ]
     },
     "WebServer Medium per Hrs": {
-        "Regionless": [
+        "Default": [
             "0.0550000000"
         ],
         "US West (Oregon)": [
@@ -184,7 +184,7 @@
         ]
     },
     "Worker 2XLarge per Hrs": {
-        "Regionless": [
+        "Default": [
             "0.8800000000"
         ],
         "US West (Oregon)": [
@@ -276,7 +276,7 @@
         ]
     },
     "Worker Medium per Hrs": {
-        "Regionless": [
+        "Default": [
             "0.1100000000"
         ],
         "US West (Oregon)": [
@@ -368,7 +368,7 @@
         ]
     },
     "Worker XLarge per Hrs": {
-        "Regionless": [
+        "Default": [
             "0.4400000000"
         ],
         "US West (Oregon)": [
@@ -460,7 +460,7 @@
         ]
     },
     "Scheduler Large per Hrs": {
-        "Regionless": [
+        "Default": [
             "0.2200000000"
         ],
         "US West (Oregon)": [
@@ -552,7 +552,7 @@
         ]
     },
     "Environment Small per Hrs": {
-        "Regionless": [
+        "Default": [
             "0.4900000000"
         ],
         "US West (Oregon)": [
@@ -644,7 +644,7 @@
         ]
     },
     "WebServer 2XLarge per Hrs": {
-        "Regionless": [
+        "Default": [
             "0.4400000000"
         ],
         "US West (Oregon)": [
@@ -736,7 +736,7 @@
         ]
     },
     "Standard per Gigabyte Month": {
-        "Regionless": [
+        "Default": [
             "0.1000000000"
         ],
         "US West (Oregon)": [
@@ -828,7 +828,7 @@
         ]
     },
     "WebServer XLarge per Hrs": {
-        "Regionless": [
+        "Default": [
             "0.2200000000"
         ],
         "US West (Oregon)": [
@@ -920,7 +920,7 @@
         ]
     },
     "Environment 2XLarge per Hrs": {
-        "Regionless": [
+        "Default": [
             "3.9600000000"
         ],
         "US West (Oregon)": [
@@ -1012,7 +1012,7 @@
         ]
     },
     "Scheduler Small per Hrs": {
-        "Regionless": [
+        "Default": [
             "0.0550000000"
         ],
         "US West (Oregon)": [
@@ -1104,7 +1104,7 @@
         ]
     },
     "Environment Large per Hrs": {
-        "Regionless": [
+        "Default": [
             "0.9900000000"
         ],
         "US West (Oregon)": [
@@ -1196,7 +1196,7 @@
         ]
     },
     "WebServer Small per Hrs": {
-        "Regionless": [
+        "Default": [
             "0.0550000000"
         ],
         "US West (Oregon)": [
@@ -1288,7 +1288,7 @@
         ]
     },
     "Scheduler Medium per Hrs": {
-        "Regionless": [
+        "Default": [
             "0.1100000000"
         ],
         "US West (Oregon)": [
@@ -1380,7 +1380,7 @@
         ]
     },
     "Scheduler 2XLarge per Hrs": {
-        "Regionless": [
+        "Default": [
             "0.8800000000"
         ],
         "US West (Oregon)": [
@@ -1472,7 +1472,7 @@
         ]
     },
     "Worker Small per Hrs": {
-        "Regionless": [
+        "Default": [
             "0.0550000000"
         ],
         "US West (Oregon)": [
@@ -1564,7 +1564,7 @@
         ]
     },
     "Scheduler XLarge per Hrs": {
-        "Regionless": [
+        "Default": [
             "0.4400000000"
         ],
         "US West (Oregon)": [
@@ -1656,7 +1656,7 @@
         ]
     },
     "Environment XLarge per Hrs": {
-        "Regionless": [
+        "Default": [
             "1.9800000000"
         ],
         "US West (Oregon)": [
@@ -1748,7 +1748,7 @@
         ]
     },
     "Environment Medium per Hrs": {
-        "Regionless": [
+        "Default": [
             "0.7400000000"
         ],
         "US West (Oregon)": [
@@ -1840,7 +1840,7 @@
         ]
     },
     "Worker Large per Hrs": {
-        "Regionless": [
+        "Default": [
             "0.2200000000"
         ],
         "US West (Oregon)": [

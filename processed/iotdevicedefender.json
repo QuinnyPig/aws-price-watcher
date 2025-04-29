@@ -1,6 +1,6 @@
 {
     "Audit over 100000 per Devices": {
-        "Regionless": [
+        "Default": [
             "0.0010000000"
         ],
         "US West (Oregon)": [
@@ -65,7 +65,7 @@
         ]
     },
     "ML Detect 10000000 upto 100000000 per Metric Datapoints": {
-        "Regionless": [
+        "Default": [
             "0.0000015000"
         ],
         "US West (Oregon)": [
@@ -124,7 +124,7 @@
         ]
     },
     "Detect Upto 10B per Metric Datapoints": {
-        "Regionless": [
+        "Default": [
             "0.0000002500"
         ],
         "US West (Oregon)": [
@@ -189,7 +189,7 @@
         ]
     },
     "ML Detect 100000000 upto Inf per Metric Datapoints": {
-        "Regionless": [
+        "Default": [
             "0.0000010000"
         ],
         "US West (Oregon)": [
@@ -248,7 +248,7 @@
         ]
     },
     "ML Detect 0 upto 300000 per Metric Datapoints": {
-        "Regionless": [
+        "Default": [
             "0.0000200000"
         ],
         "US West (Oregon)": [
@@ -307,7 +307,7 @@
         ]
     },
     "Detect Over 10B per Metric Datapoints": {
-        "Regionless": [
+        "Default": [
             "0.0000002000"
         ],
         "US West (Oregon)": [
@@ -372,7 +372,7 @@
         ]
     },
     "Audit upto 100000 per Devices": {
-        "Regionless": [
+        "Default": [
             "0.0011000000"
         ],
         "US West (Oregon)": [
@@ -437,7 +437,7 @@
         ]
     },
     "ML Detect 300000 upto 10000000 per Metric Datapoints": {
-        "Regionless": [
+        "Default": [
             "0.0000075000"
         ],
         "US West (Oregon)": [

@@ -1,6 +1,6 @@
 {
     "CodeGuru MachineLearningRepositorySizeHighPriceTierBuildModels for 0 to Inf per 100K-LinesofCode": {
-        "Regionless": [
+        "Default": [
             "30.0000000000"
         ],
         "US West (Oregon)": [
@@ -35,7 +35,7 @@
         ]
     },
     "CodeGuru per hours": {
-        "Regionless": [
+        "Default": [
             "0.0050000000"
         ],
         "US West (Oregon)": [
@@ -70,7 +70,7 @@
         ]
     },
     "CodeGuru MachineLearningBuildModels for 0 to Inf per hours": {
-        "Regionless": [
+        "Default": [
             "0.0050000000"
         ],
         "US West (Oregon)": [
@@ -105,7 +105,7 @@
         ]
     },
     "CodeGuru MachineLearningRepositorySizeLowPriceTierBuildModels for 0 to Inf per 100K-LinesofCode": {
-        "Regionless": [
+        "Default": [
             "10.0000000000"
         ],
         "US West (Oregon)": [
@@ -140,7 +140,7 @@
         ]
     },
     "CodeGuru MachineLearningLambdaBuildModels for 0 to Inf per hours": {
-        "Regionless": [
+        "Default": [
             "0.0050000000"
         ],
         "US West (Oregon)": [
@@ -175,7 +175,7 @@
         ]
     },
     "CodeGuru MachineLearningRepositorySizeAboveThresholdsBuildModels for 0 to Inf per 100K-LinesofCode": {
-        "Regionless": [
+        "Default": [
             "10.0000000000"
         ],
         "US West (Oregon)": [

@@ -1,6 +1,6 @@
 {
     "AWSParallelComputingService Small Running Slurm": {
-        "Regionless": [
+        "Default": [
             "0.5825000000"
         ],
         "US West (Oregon)": [
@@ -32,7 +32,7 @@
         ]
     },
     "AWSParallelComputingService SlurmStd": {
-        "Regionless": [
+        "Default": [
             "0.0800000000"
         ],
         "US West (Oregon)": [
@@ -64,7 +64,7 @@
         ]
     },
     "AWSParallelComputingService Large Running Slurm": {
-        "Regionless": [
+        "Default": [
             "6.5426000000"
         ],
         "US West (Oregon)": [
@@ -96,7 +96,7 @@
         ]
     },
     "AWSParallelComputingService SlurmAdv": {
-        "Regionless": [
+        "Default": [
             "0.6400000000"
         ],
         "US West (Oregon)": [
@@ -128,7 +128,7 @@
         ]
     },
     "AWSParallelComputingService Medium Running Slurm": {
-        "Regionless": [
+        "Default": [
             "3.2579000000"
         ],
         "US West (Oregon)": [

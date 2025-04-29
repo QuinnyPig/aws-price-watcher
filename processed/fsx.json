@@ -1,6 +1,6 @@
 {
     "xCIN2wziEu7lzO5aqPEEXBmoLO9xvLz29dpzjUvZSPo SSD old": {
-        "Regionless": [
+        "Default": [
             "0.1900000000"
         ],
         "US West (Oregon)": [
@@ -50,7 +50,7 @@
         ]
     },
     "tRaJtnmZyjmqgVlKNpbW3sqyU5Dj9aaDrx8Xua1dg7U SSD old": {
-        "Regionless": [
+        "Default": [
             "0.2900000000"
         ],
         "US West (Oregon)": [
@@ -100,7 +100,7 @@
         ]
     },
     "xsOx6wDnGW5nuMTknw12rrHuFN6HEak26it34WIfSIw SSD old": {
-        "Regionless": [
+        "Default": [
             "0.1400000000"
         ],
         "US West (Oregon)": [
@@ -150,7 +150,7 @@
         ]
     },
     "SJkcZfTtuEZ8xiIULvUsQp_CzFRvoWE-3TKzTnlPRVo SSD new": {
-        "Regionless": [
+        "Default": [
             "0.6000000000"
         ],
         "US West (Oregon)": [
@@ -200,7 +200,7 @@
         ]
     },
     "zgFPJ0cUYXdd2jLTiOuDcSYRtdFhYRqCjCbYd49h1Y8 SSD new": {
-        "Regionless": [
+        "Default": [
             "0.1450000000"
         ],
         "US West (Oregon)": [
@@ -265,7 +265,7 @@
         ]
     },
     "yMXUnsAV3uitn3E4G7Z25YOoTEwD6fTeQCq0JdEjw-0 SSD new": {
-        "Regionless": [
+        "Default": [
             "0.2100000000"
         ],
         "US West (Oregon)": [
@@ -330,7 +330,7 @@
         ]
     },
     "JCLdXKhp6UDel_cRam0smdbULMkLKcxzWLKN2kvL6Rs SSD new": {
-        "Regionless": [
+        "Default": [
             "0.3400000000"
         ],
         "US West (Oregon)": [
@@ -380,7 +380,7 @@
         ]
     },
     "CFxfkVZ1WU8WUAHn6yAN9F-Euou_f7oxz0hmHgu8saE HDD New": {
-        "Regionless": [
+        "Default": [
             "0.0250000000"
         ],
         "US West (Oregon)": [
@@ -475,7 +475,7 @@
         ]
     },
     "JZnWfFyH93RNLMmAmnNLcm6W3sazQFoPJN_90Ld8TdE HDD New": {
-        "Regionless": [
+        "Default": [
             "0.0830000000"
         ],
         "US West (Oregon)": [
@@ -570,7 +570,7 @@
         ]
     },
     "6yBIQBKwzt_l7hYmOwEZhLGesVTm0h0tUdi1aOUZAU8 HDD New": {
-        "Regionless": [
+        "Default": [
             "0.0410000000"
         ],
         "US West (Oregon)": [
@@ -665,7 +665,7 @@
         ]
     },
     "tMNn_IA0iv3i1MdNEPpEPP4RefOqKO6g_orbG9IB3GY HDD New": {
-        "Regionless": [
+        "Default": [
             "0.0990000000"
         ],
         "US West (Oregon)": [
@@ -760,7 +760,7 @@
         ]
     },
     "xCIN2wziEu7lzO5aqPEEXBmoLO9xvLz29dpzjUvZSPo SSD new": {
-        "Regionless": [
+        "Default": [
             "0.2280000000"
         ],
         "US West (Los Angeles)": [
@@ -810,7 +810,7 @@
         ]
     },
     "tRaJtnmZyjmqgVlKNpbW3sqyU5Dj9aaDrx8Xua1dg7U SSD new": {
-        "Regionless": [
+        "Default": [
             "0.3480000000"
         ],
         "US West (Los Angeles)": [
@@ -860,7 +860,7 @@
         ]
     },
     "xsOx6wDnGW5nuMTknw12rrHuFN6HEak26it34WIfSIw SSD new": {
-        "Regionless": [
+        "Default": [
             "0.1680000000"
         ],
         "US West (Los Angeles)": [

@@ -1,6 +1,6 @@
 {
     "FREE 15 Days unlimited free trial Code Scanning Hourly": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -35,7 +35,7 @@
         ]
     },
     "Agentless vulnerability scans Instance hrs": {
-        "Regionless": [
+        "Default": [
             "0.0024300000"
         ],
         "US West (Oregon)": [
@@ -115,7 +115,7 @@
         ]
     },
     "FREE 15 Days unlimited free trial Continuous EC2 scans Instance-hrs": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -195,7 +195,7 @@
         ]
     },
     "FREE 15 Days unlimited free trial Initial Scan on-push to ECR Resource-assessment": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -275,7 +275,7 @@
         ]
     },
     "FREE Free metering free-metering Resource-assessment": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -349,7 +349,7 @@
         ]
     },
     "Code Scanning Hourly": {
-        "Regionless": [
+        "Default": [
             "0.0008400000"
         ],
         "US West (Oregon)": [
@@ -384,7 +384,7 @@
         ]
     },
     "FREE 15 Days unlimited free trial Automated re-scan Resource-assessment": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -464,7 +464,7 @@
         ]
     },
     "FREE Free metering Code Scanning Hourly": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -499,7 +499,7 @@
         ]
     },
     "CI CD scan resource assessment": {
-        "Regionless": [
+        "Default": [
             "0.0300000000"
         ],
         "US West (Oregon)": [
@@ -579,7 +579,7 @@
         ]
     },
     "Continuous EC2 scans Instance hrs": {
-        "Regionless": [
+        "Default": [
             "0.0017400000"
         ],
         "US West (Oregon)": [
@@ -659,7 +659,7 @@
         ]
     },
     "Initial Scan on push to ECR Resource-assessment": {
-        "Regionless": [
+        "Default": [
             "0.0900000000"
         ],
         "US West (Oregon)": [
@@ -739,7 +739,7 @@
         ]
     },
     "FREE Free CI CD scan resource assessment": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -819,7 +819,7 @@
         ]
     },
     "FREE 15 Days unlimited free trial Agentless vulnerability scans Instance-hrs": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -899,7 +899,7 @@
         ]
     },
     "FREE 15 Days unlimited free trial Standard Scanning Hourly": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -979,7 +979,7 @@
         ]
     },
     "Standard Scanning Hourly": {
-        "Regionless": [
+        "Default": [
             "0.0004170000"
         ],
         "US West (Oregon)": [
@@ -1059,7 +1059,7 @@
         ]
     },
     "FREE Free metering Continuous EC2 scans Instance-hrs": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -1139,7 +1139,7 @@
         ]
     },
     "CIS checks Resource assessment": {
-        "Regionless": [
+        "Default": [
             "0.0300000000"
         ],
         "US West (Oregon)": [
@@ -1219,7 +1219,7 @@
         ]
     },
     "FREE Free metering Standard Scanning Hourly": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -1227,7 +1227,7 @@
         ]
     },
     "Automated re scan Resource-assessment": {
-        "Regionless": [
+        "Default": [
             "0.0100000000"
         ],
         "US West (Oregon)": [
@@ -1307,7 +1307,7 @@
         ]
     },
     "FREE Free metering free-metering Hourly": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (N. California)": [
@@ -1384,7 +1384,7 @@
         ]
     },
     "FREE Free metering Initial Scan on-push to ECR Resource-assessment": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "EU (Zurich)": [

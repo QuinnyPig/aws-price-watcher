@@ -1,6 +1,6 @@
 {
     "QLDB IOs Read Request": {
-        "Regionless": [
+        "Default": [
             "0.0000001360"
         ],
         "US West (Oregon)": [
@@ -38,7 +38,7 @@
         ]
     },
     "Journal Storage": {
-        "Regionless": [
+        "Default": [
             "0.0300000000"
         ],
         "US West (Oregon)": [
@@ -76,7 +76,7 @@
         ]
     },
     "QLDB IOs Write Request": {
-        "Regionless": [
+        "Default": [
             "0.0000007000"
         ],
         "US West (Oregon)": [
@@ -114,7 +114,7 @@
         ]
     },
     "Indexed Storage": {
-        "Regionless": [
+        "Default": [
             "0.2500000000"
         ],
         "US West (Oregon)": [

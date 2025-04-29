@@ -1,6 +1,6 @@
 {
     "Amazon Q Q Developer Pro Number Amazon Q Developer monthly subscriptions": {
-        "Regionless": [
+        "Default": [
             "19.0000000000"
         ],
         "US West (Oregon)": [
@@ -89,7 +89,7 @@
         ]
     },
     "Amazon Q Q Business Starter Index Q Business Starter Index hours free": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -106,7 +106,7 @@
         ]
     },
     "Amazon Q Lite Subscription Number of Amazon Q Business Lite subscriptions in the service": {
-        "Regionless": [
+        "Default": [
             "3.0000000000"
         ],
         "US West (Oregon)": [
@@ -195,7 +195,7 @@
         ]
     },
     "Amazon Q Lite Subscription Number of Amazon Q Business Lite subscriptions in the service free trial": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -284,7 +284,7 @@
         ]
     },
     "Amazon Q Q Business Starter Index Q Business Starter Index hours": {
-        "Regionless": [
+        "Default": [
             "0.1400000000"
         ],
         "US West (Oregon)": [
@@ -301,7 +301,7 @@
         ]
     },
     "Amazon Q Q Business Enterprise Index Q Business Enterprise Index hours": {
-        "Regionless": [
+        "Default": [
             "0.2640000000"
         ],
         "US West (Oregon)": [
@@ -318,7 +318,7 @@
         ]
     },
     "Amazon Q Index-Enterprise Enterprise Index": {
-        "Regionless": [
+        "Default": [
             "0.2640000000"
         ],
         "US West (Oregon)": [
@@ -329,7 +329,7 @@
         ]
     },
     "Amazon Q Index Index": {
-        "Regionless": [
+        "Default": [
             "0.1400000000"
         ],
         "US West (Oregon)": [
@@ -340,7 +340,7 @@
         ]
     },
     "Amazon Q Q Business Enterprise Index Q Business Enterprise Index hours free": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -357,7 +357,7 @@
         ]
     },
     "Amazon Q Pro Subscription Number of Amazon Q Business Pro subscriptions in the service": {
-        "Regionless": [
+        "Default": [
             "20.0000000000"
         ],
         "US West (Oregon)": [
@@ -446,7 +446,7 @@
         ]
     },
     "Amazon Q Pro Subscription Number of Amazon Q Business Pro subscriptions in the service free trial": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -535,7 +535,7 @@
         ]
     },
     "Amazon Q Q Developer Pro Number of Amazon Q Developer subscriptions": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "Any": [

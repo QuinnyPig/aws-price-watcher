@@ -1,6 +1,6 @@
 {
     "Capacity reservation for real time predictions": {
-        "Regionless": [
+        "Default": [
             "0.0001000000"
         ],
         "US East (N. Virginia)": [
@@ -11,7 +11,7 @@
         ]
     },
     "Create data statistics": {
-        "Regionless": [
+        "Default": [
             "0.4200000000"
         ],
         "US East (N. Virginia)": [
@@ -22,7 +22,7 @@
         ]
     },
     "Real time predictions": {
-        "Regionless": [
+        "Default": [
             "0.0001000000"
         ],
         "US East (N. Virginia)": [
@@ -33,7 +33,7 @@
         ]
     },
     "Train ML models": {
-        "Regionless": [
+        "Default": [
             "0.4200000000"
         ],
         "US East (N. Virginia)": [
@@ -44,7 +44,7 @@
         ]
     },
     "Batch predictions": {
-        "Regionless": [
+        "Default": [
             "0.1000000000"
         ],
         "US East (N. Virginia)": [
@@ -55,7 +55,7 @@
         ]
     },
     "Evaluate ML models": {
-        "Regionless": [
+        "Default": [
             "0.4200000000"
         ],
         "US East (N. Virginia)": [

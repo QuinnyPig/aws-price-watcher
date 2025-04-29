@@ -1,6 +1,6 @@
 {
     "Active Pipeline Inf Free 30 day": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -95,7 +95,7 @@
         ]
     },
     "Action Execution Minutes Inf": {
-        "Regionless": [
+        "Default": [
             "0.0020000000"
         ],
         "US West (Oregon)": [
@@ -190,7 +190,7 @@
         ]
     },
     "Active Pipeline Inf": {
-        "Regionless": [
+        "Default": [
             "1.0000000000"
         ],
         "US West (Oregon)": [

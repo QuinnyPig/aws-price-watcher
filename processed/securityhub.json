@@ -1,6 +1,6 @@
 {
     "FindingsIngestion first 10000 FREE per Event": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -107,7 +107,7 @@
         ]
     },
     "FreeFindingsIngestion per Event": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -214,7 +214,7 @@
         ]
     },
     "first 1000000 per Rule Evaluation Event": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -321,7 +321,7 @@
         ]
     },
     "first 1000000 per Compliance Checks": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -428,7 +428,7 @@
         ]
     },
     "FreeFindingsIngestion-FreeTrial per Event": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -535,7 +535,7 @@
         ]
     },
     "per Rule Evaluation Event": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -642,7 +642,7 @@
         ]
     },
     "per Compliance Checks": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -749,7 +749,7 @@
         ]
     },
     "from 100000000 upto 1000000000 per Rule Evaluation Event": {
-        "Regionless": [
+        "Default": [
             "0.0000000500"
         ],
         "US West (Oregon)": [
@@ -856,7 +856,7 @@
         ]
     },
     "from 100000000 upto 1000000000 per Compliance Checks": {
-        "Regionless": [
+        "Default": [
             "0.0000000500"
         ],
         "US West (Oregon)": [
@@ -963,7 +963,7 @@
         ]
     },
     "ComplianceCheck over 500000 per Security Checks": {
-        "Regionless": [
+        "Default": [
             "0.0005000000"
         ],
         "US West (Oregon)": [
@@ -1070,7 +1070,7 @@
         ]
     },
     "ComplianceCheck over 500000 per Compliance Checks": {
-        "Regionless": [
+        "Default": [
             "0.0005000000"
         ],
         "US West (Oregon)": [
@@ -1177,7 +1177,7 @@
         ]
     },
     "from 1000000 upto 100000000 per Rule Evaluation Event": {
-        "Regionless": [
+        "Default": [
             "0.0000001000"
         ],
         "US West (Oregon)": [
@@ -1284,7 +1284,7 @@
         ]
     },
     "from 1000000 upto 100000000 per Compliance Checks": {
-        "Regionless": [
+        "Default": [
             "0.0000001000"
         ],
         "US West (Oregon)": [
@@ -1391,7 +1391,7 @@
         ]
     },
     "FindingsIngestion per Event": {
-        "Regionless": [
+        "Default": [
             "0.0000300000"
         ],
         "US West (Oregon)": [
@@ -1498,7 +1498,7 @@
         ]
     },
     "from 1000000000 upto Inf per Rule Evaluation Event": {
-        "Regionless": [
+        "Default": [
             "0.0000000150"
         ],
         "US West (Oregon)": [
@@ -1605,7 +1605,7 @@
         ]
     },
     "from 1000000000 upto Inf per Compliance Checks": {
-        "Regionless": [
+        "Default": [
             "0.0000000150"
         ],
         "US West (Oregon)": [
@@ -1712,7 +1712,7 @@
         ]
     },
     "ComplianceCheck first 100000 per Security Checks": {
-        "Regionless": [
+        "Default": [
             "0.0010000000"
         ],
         "US West (Oregon)": [
@@ -1819,7 +1819,7 @@
         ]
     },
     "ComplianceCheck first 100000 per Compliance Checks": {
-        "Regionless": [
+        "Default": [
             "0.0010000000"
         ],
         "US West (Oregon)": [
@@ -1926,7 +1926,7 @@
         ]
     },
     "ComplianceCheck next 400000 per Security Checks": {
-        "Regionless": [
+        "Default": [
             "0.0008000000"
         ],
         "US West (Oregon)": [
@@ -2033,7 +2033,7 @@
         ]
     },
     "ComplianceCheck next 400000 per Compliance Checks": {
-        "Regionless": [
+        "Default": [
             "0.0008000000"
         ],
         "US West (Oregon)": [
@@ -2140,7 +2140,7 @@
         ]
     },
     "FreeFindingsIngestion-CrossRegion per Event": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -2247,7 +2247,7 @@
         ]
     },
     "FreeComplianceCheck per Security Checks": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -2354,7 +2354,7 @@
         ]
     },
     "FreeComplianceCheck per Compliance Checks": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [

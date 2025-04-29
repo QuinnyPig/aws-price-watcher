@@ -1,6 +1,6 @@
 {
     "Management PaidStorage ByteHrs": {
-        "Regionless": [
+        "Default": [
             "0.0230000000"
         ],
         "US West (Oregon)": [
@@ -95,7 +95,7 @@
         ]
     },
     "FreeTrialQueryScanned Bytes": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -172,7 +172,7 @@
         ]
     },
     "Ingestion Bytes First 5TB": {
-        "Regionless": [
+        "Default": [
             "2.5000000000"
         ],
         "US West (Oregon)": [
@@ -249,7 +249,7 @@
         ]
     },
     "Ingestion Bytes-1yearstore": {
-        "Regionless": [
+        "Default": [
             "0.7500000000"
         ],
         "US West (Oregon)": [
@@ -344,7 +344,7 @@
         ]
     },
     "FreeTrialIngestion Bytes": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -421,7 +421,7 @@
         ]
     },
     "Ingestion Bytes Over 25TB": {
-        "Regionless": [
+        "Default": [
             "0.5000000000"
         ],
         "US West (Oregon)": [
@@ -498,7 +498,7 @@
         ]
     },
     "Data Events Recorded": {
-        "Regionless": [
+        "Default": [
             "0.0000010000"
         ],
         "US West (Oregon)": [
@@ -605,7 +605,7 @@
         ]
     },
     "Ingestion Bytes-1yearstore-other-data-sources": {
-        "Regionless": [
+        "Default": [
             "0.5000000000"
         ],
         "US West (Oregon)": [
@@ -700,7 +700,7 @@
         ]
     },
     "Free Events Recorded": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -807,7 +807,7 @@
         ]
     },
     "Management Paid Events Recorded": {
-        "Regionless": [
+        "Default": [
             "0.0000200000"
         ],
         "US West (Oregon)": [
@@ -914,7 +914,7 @@
         ]
     },
     "Ingestion Bytes Next 20TB": {
-        "Regionless": [
+        "Default": [
             "1.0000000000"
         ],
         "US West (Oregon)": [
@@ -991,7 +991,7 @@
         ]
     },
     "Insights Events": {
-        "Regionless": [
+        "Default": [
             "0.0000035000"
         ],
         "US West (Oregon)": [
@@ -1080,7 +1080,7 @@
         ]
     },
     "QueryScanned Bytes": {
-        "Regionless": [
+        "Default": [
             "0.0050000000"
         ],
         "US West (Oregon)": [

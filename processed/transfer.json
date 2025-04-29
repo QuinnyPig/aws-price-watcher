@@ -1,6 +1,6 @@
 {
     "Transfer AS2 Outbound per Message": {
-        "Regionless": [
+        "Default": [
             "0.0100000000"
         ],
         "US West (Oregon)": [
@@ -104,7 +104,7 @@
         ]
     },
     "Decrypt SFTP EFS SFTP Upload GB": {
-        "Regionless": [
+        "Default": [
             "0.1000000000"
         ],
         "US West (Oregon)": [
@@ -208,7 +208,7 @@
         ]
     },
     "Decrypt FTP S3 FTP Upload GB": {
-        "Regionless": [
+        "Default": [
             "0.1000000000"
         ],
         "US West (Oregon)": [
@@ -312,7 +312,7 @@
         ]
     },
     "Transfer SFTP Upload Fee": {
-        "Regionless": [
+        "Default": [
             "0.0400000000"
         ],
         "US West (Oregon)": [
@@ -371,7 +371,7 @@
         ]
     },
     "Transfer AS2 Inbound per Message": {
-        "Regionless": [
+        "Default": [
             "0.0100000000"
         ],
         "US West (Oregon)": [
@@ -475,7 +475,7 @@
         ]
     },
     "Decrypt FTPS S3 FTPS Upload GB": {
-        "Regionless": [
+        "Default": [
             "0.1000000000"
         ],
         "US West (Oregon)": [
@@ -579,7 +579,7 @@
         ]
     },
     "External hosted server cost per GB of data transfer": {
-        "Regionless": [
+        "Default": [
             "0.4000000000"
         ],
         "US West (Oregon)": [
@@ -683,7 +683,7 @@
         ]
     },
     "Transfer FTPS per Hourly": {
-        "Regionless": [
+        "Default": [
             "0.3000000000"
         ],
         "US West (Oregon)": [
@@ -787,7 +787,7 @@
         ]
     },
     "Transfer FTP per Hourly": {
-        "Regionless": [
+        "Default": [
             "0.3000000000"
         ],
         "US West (Oregon)": [
@@ -891,7 +891,7 @@
         ]
     },
     "Transfer SFTP Download per GigaBytes": {
-        "Regionless": [
+        "Default": [
             "0.0400000000"
         ],
         "US West (Oregon)": [
@@ -995,7 +995,7 @@
         ]
     },
     "Transfer SFTP Download per GB": {
-        "Regionless": [
+        "Default": [
             "0.0400000000"
         ],
         "US West (Oregon)": [
@@ -1099,7 +1099,7 @@
         ]
     },
     "Decrypt SFTP S3 SFTP Upload GB": {
-        "Regionless": [
+        "Default": [
             "0.1000000000"
         ],
         "US West (Oregon)": [
@@ -1203,7 +1203,7 @@
         ]
     },
     "Transfer FTP Download per GigaBytes": {
-        "Regionless": [
+        "Default": [
             "0.0400000000"
         ],
         "US West (Oregon)": [
@@ -1307,7 +1307,7 @@
         ]
     },
     "Transfer FTP Download per GB": {
-        "Regionless": [
+        "Default": [
             "0.0400000000"
         ],
         "US West (Oregon)": [
@@ -1411,7 +1411,7 @@
         ]
     },
     "Transfer AS2 Large Inbound per Message": {
-        "Regionless": [
+        "Default": [
             "0.0100000000"
         ],
         "US West (Oregon)": [
@@ -1515,7 +1515,7 @@
         ]
     },
     "Transfer FTP Upload per GigaBytes": {
-        "Regionless": [
+        "Default": [
             "0.0400000000"
         ],
         "US West (Oregon)": [
@@ -1619,7 +1619,7 @@
         ]
     },
     "Transfer FTP Upload per GB": {
-        "Regionless": [
+        "Default": [
             "0.0400000000"
         ],
         "US West (Oregon)": [
@@ -1723,7 +1723,7 @@
         ]
     },
     "Decrypt FTP EFS FTP Upload GB": {
-        "Regionless": [
+        "Default": [
             "0.1000000000"
         ],
         "US West (Oregon)": [
@@ -1827,7 +1827,7 @@
         ]
     },
     "Transfer SFTP Download Fee": {
-        "Regionless": [
+        "Default": [
             "0.0400000000"
         ],
         "US West (Oregon)": [
@@ -1889,7 +1889,7 @@
         ]
     },
     "Transfer FTPS Download per GigaBytes": {
-        "Regionless": [
+        "Default": [
             "0.0400000000"
         ],
         "US West (Oregon)": [
@@ -1993,7 +1993,7 @@
         ]
     },
     "Transfer FTPS Download per GB": {
-        "Regionless": [
+        "Default": [
             "0.0400000000"
         ],
         "US West (Oregon)": [
@@ -2097,7 +2097,7 @@
         ]
     },
     "Transfer SFTP per Hourly": {
-        "Regionless": [
+        "Default": [
             "0.3000000000"
         ],
         "US West (Oregon)": [
@@ -2201,7 +2201,7 @@
         ]
     },
     "Transfer SFTP Upload per GigaBytes": {
-        "Regionless": [
+        "Default": [
             "0.0400000000"
         ],
         "US West (Oregon)": [
@@ -2305,7 +2305,7 @@
         ]
     },
     "Transfer SFTP Upload per GB": {
-        "Regionless": [
+        "Default": [
             "0.0400000000"
         ],
         "US West (Oregon)": [
@@ -2409,7 +2409,7 @@
         ]
     },
     "Transfer AS2 Large Outbound per Message": {
-        "Regionless": [
+        "Default": [
             "0.0100000000"
         ],
         "US West (Oregon)": [
@@ -2513,7 +2513,7 @@
         ]
     },
     "Decrypt FTPS EFS FTPS Upload GB": {
-        "Regionless": [
+        "Default": [
             "0.1000000000"
         ],
         "US West (Oregon)": [
@@ -2617,7 +2617,7 @@
         ]
     },
     "Transfer FTPS Upload per GigaBytes": {
-        "Regionless": [
+        "Default": [
             "0.0400000000"
         ],
         "US West (Oregon)": [
@@ -2721,7 +2721,7 @@
         ]
     },
     "Transfer FTPS Upload per GB": {
-        "Regionless": [
+        "Default": [
             "0.0400000000"
         ],
         "US West (Oregon)": [
@@ -2825,7 +2825,7 @@
         ]
     },
     "Cost per ConnectorCall SendFile": {
-        "Regionless": [
+        "Default": [
             "0.0010000000"
         ],
         "US West (Oregon)": [
@@ -2929,7 +2929,7 @@
         ]
     },
     "Transfer SFTP Endpoint Fee": {
-        "Regionless": [
+        "Default": [
             "0.3000000000"
         ],
         "US West (Oregon)": [
@@ -2994,7 +2994,7 @@
         ]
     },
     "Transfer AS2 per Hourly": {
-        "Regionless": [
+        "Default": [
             "0.3000000000"
         ],
         "US West (Oregon)": [

@@ -1,6 +1,6 @@
 {
     "28ik3WPmt35sH1XLmTMR3mXEW1Bhq8N6jJWN9d2w0XA V1": {
-        "Regionless": [
+        "Default": [
             "0.0500000000"
         ],
         "US West (Oregon)": [
@@ -98,7 +98,7 @@
         ]
     },
     "82H828PoMg1w489SUj0z65PE6jttE8v29_qyJ7KQ9gY V1": {
-        "Regionless": [
+        "Default": [
             "0.0300000000"
         ],
         "US West (Oregon)": [
@@ -196,7 +196,7 @@
         ]
     },
     "FhHN1JVS1VWXq94hbLWkCEDrPnVR0BcNdByQoktLSUw V1": {
-        "Regionless": [
+        "Default": [
             "0.0400000000"
         ],
         "US West (Oregon)": [
@@ -291,7 +291,7 @@
         ]
     },
     "Z6O1C3tWtq1sW3NVHV4WbEJTPxsgKAG0yLX9v8c09Qw V1": {
-        "Regionless": [
+        "Default": [
             "0.0500000000"
         ],
         "US West (Oregon)": [
@@ -386,7 +386,7 @@
         ]
     },
     "efVtaVhDNB8HCLBGqNdFVuvrtiUCSQoPzGIJ0P3O_PI V1": {
-        "Regionless": [
+        "Default": [
             "0.0400000000"
         ],
         "US West (Oregon)": [
@@ -484,7 +484,7 @@
         ]
     },
     "ldOVKz5QtVryni3pzvW7GtXOUGJK6pKX7UkDOj5J6V8 V1": {
-        "Regionless": [
+        "Default": [
             "0.0300000000"
         ],
         "US West (Oregon)": [
@@ -579,7 +579,7 @@
         ]
     },
     "DataTransfer out of EIP First 100TB": {
-        "Regionless": [
+        "Default": [
             "0.0500000000"
         ],
         "US West (Oregon)": [
@@ -677,7 +677,7 @@
         ]
     },
     "DataTransfer out ShieldProtectionEIP First 100TB": {
-        "Regionless": [
+        "Default": [
             "0.0500000000"
         ],
         "US West (Oregon)": [
@@ -775,7 +775,7 @@
         ]
     },
     "DataTransfer out of EIP Above 500TB": {
-        "Regionless": [
+        "Default": [
             "0.0300000000"
         ],
         "US West (Oregon)": [
@@ -873,7 +873,7 @@
         ]
     },
     "DataTransfer out ShieldProtectionEIP 512000 upto Inf": {
-        "Regionless": [
+        "Default": [
             "0.0300000000"
         ],
         "US West (Oregon)": [
@@ -971,7 +971,7 @@
         ]
     },
     "DataTransfer out of LoadBalancing Next 400TB": {
-        "Regionless": [
+        "Default": [
             "0.0400000000"
         ],
         "US West (Oregon)": [
@@ -1066,7 +1066,7 @@
         ]
     },
     "DataTransfer out LoadBalancing Next 400TB": {
-        "Regionless": [
+        "Default": [
             "0.0400000000"
         ],
         "US West (Oregon)": [
@@ -1161,7 +1161,7 @@
         ]
     },
     "DataTransfer out of LoadBalancing First 100TB": {
-        "Regionless": [
+        "Default": [
             "0.0500000000"
         ],
         "US West (Oregon)": [
@@ -1256,7 +1256,7 @@
         ]
     },
     "DataTransfer out LoadBalancing First 100TB": {
-        "Regionless": [
+        "Default": [
             "0.0500000000"
         ],
         "US West (Oregon)": [
@@ -1351,7 +1351,7 @@
         ]
     },
     "DataTransfer out of EIP Next 400TB": {
-        "Regionless": [
+        "Default": [
             "0.0400000000"
         ],
         "US West (Oregon)": [
@@ -1449,7 +1449,7 @@
         ]
     },
     "DataTransfer out ShieldProtectionEIP Next 400TB": {
-        "Regionless": [
+        "Default": [
             "0.0400000000"
         ],
         "US West (Oregon)": [
@@ -1547,7 +1547,7 @@
         ]
     },
     "DataTransfer out of LoadBalancing Above 500TB": {
-        "Regionless": [
+        "Default": [
             "0.0300000000"
         ],
         "US West (Oregon)": [
@@ -1642,7 +1642,7 @@
         ]
     },
     "DataTransfer out LoadBalancing 512000 upto Inf": {
-        "Regionless": [
+        "Default": [
             "0.0300000000"
         ],
         "US West (Oregon)": [

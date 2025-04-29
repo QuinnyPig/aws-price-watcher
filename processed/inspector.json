@@ -1,6 +1,6 @@
 {
     "FREE 250 Agent assessments or 90 days": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -47,7 +47,7 @@
         ]
     },
     "Network instance assessments for Next 4000InstanceAssessments": {
-        "Regionless": [
+        "Default": [
             "0.1000000000"
         ],
         "US West (Oregon)": [
@@ -88,7 +88,7 @@
         ]
     },
     "Network instance assessments for First 250 InstanceAssessments": {
-        "Regionless": [
+        "Default": [
             "0.1500000000"
         ],
         "US West (Oregon)": [
@@ -129,7 +129,7 @@
         ]
     },
     "FREE 250 Network instance assessments or 90 days": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -170,7 +170,7 @@
         ]
     },
     "Agent assessments for Next 45000 AgentAssessments": {
-        "Regionless": [
+        "Default": [
             "0.1000000000"
         ],
         "US West (Oregon)": [
@@ -217,7 +217,7 @@
         ]
     },
     "Network instance assessments All Other per InstanceAssessments": {
-        "Regionless": [
+        "Default": [
             "0.0400000000"
         ],
         "US West (Oregon)": [
@@ -258,7 +258,7 @@
         ]
     },
     "Network instance assessments for Next 750 InstanceAssessments": {
-        "Regionless": [
+        "Default": [
             "0.1300000000"
         ],
         "US West (Oregon)": [
@@ -299,7 +299,7 @@
         ]
     },
     "Agent assessments All Other per AgentAssessments": {
-        "Regionless": [
+        "Default": [
             "0.0500000000"
         ],
         "US West (Oregon)": [
@@ -346,7 +346,7 @@
         ]
     },
     "Network instance assessments for Next 45000 InstanceAssessments": {
-        "Regionless": [
+        "Default": [
             "0.0700000000"
         ],
         "US West (Oregon)": [
@@ -387,7 +387,7 @@
         ]
     },
     "Agent assessments for First 250 AgentAssessments": {
-        "Regionless": [
+        "Default": [
             "0.3000000000"
         ],
         "US West (Oregon)": [
@@ -434,7 +434,7 @@
         ]
     },
     "Agent assessments for Next 4000AgentAssessments": {
-        "Regionless": [
+        "Default": [
             "0.1500000000"
         ],
         "US West (Oregon)": [
@@ -481,7 +481,7 @@
         ]
     },
     "Agent assessments for Next 750 AgentAssessments": {
-        "Regionless": [
+        "Default": [
             "0.2500000000"
         ],
         "US West (Oregon)": [

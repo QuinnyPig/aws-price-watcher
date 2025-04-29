@@ -38,7 +38,7 @@
         ]
     },
     "Events Recorded per Events": {
-        "Regionless": [
+        "Default": [
             "0.0000010000"
         ],
         "US West (Oregon)": [
@@ -79,7 +79,7 @@
         ]
     },
     "Predictive Inbox Placement Tests per Units": {
-        "Regionless": [
+        "Default": [
             "10.0000000000"
         ],
         "US West (Oregon)": [
@@ -123,7 +123,7 @@
         ]
     },
     "MTA per Users": {
-        "Regionless": [
+        "Default": [
             "0.0012000000"
         ],
         "US West (Oregon)": [
@@ -164,7 +164,7 @@
         ]
     },
     "In app Message Requests per Requests": {
-        "Regionless": [
+        "Default": [
             "0.0001100000"
         ],
         "US West (Oregon)": [
@@ -208,7 +208,7 @@
         ]
     },
     "Google Push Notification Messages per Messages": {
-        "Regionless": [
+        "Default": [
             "0.0000010000"
         ],
         "US West (Oregon)": [
@@ -252,7 +252,7 @@
         ]
     },
     "Deliverability Dashboard Subscription per Month": {
-        "Regionless": [
+        "Default": [
             "1250.0000000000"
         ],
         "US West (Oregon)": [
@@ -296,7 +296,7 @@
         ]
     },
     "ADM Push Notification Messages per Messages": {
-        "Regionless": [
+        "Default": [
             "0.0000010000"
         ],
         "US West (Oregon)": [
@@ -340,7 +340,7 @@
         ]
     },
     "Inbox Placement Domains per Unit": {
-        "Regionless": [
+        "Default": [
             "25.0000000000"
         ],
         "US West (Oregon)": [
@@ -422,7 +422,7 @@
         ]
     },
     "Baidu Push Notification Messages per Messages": {
-        "Regionless": [
+        "Default": [
             "0.0000010000"
         ],
         "US East (Ohio)": [
@@ -433,7 +433,7 @@
         ]
     },
     "Apple Push Notification Messages per Messages": {
-        "Regionless": [
+        "Default": [
             "0.0000010000"
         ],
         "US East (Ohio)": [

@@ -1,6 +1,6 @@
 {
     "API Calls CacheMemorySize 25 05 per Hrs": {
-        "Regionless": [
+        "Default": [
             "0.5950000000"
         ],
         "US West (Oregon)": [
@@ -92,7 +92,7 @@
         ]
     },
     "RealTime Updates per Messages": {
-        "Regionless": [
+        "Default": [
             "0.0000020000"
         ],
         "US West (Oregon)": [
@@ -181,7 +181,7 @@
         ]
     },
     "API Calls CacheMemorySize 317 77 per Hrs": {
-        "Regionless": [
+        "Default": [
             "6.7750000000"
         ],
         "US West (Oregon)": [
@@ -273,7 +273,7 @@
         ]
     },
     "API Calls CacheMemorySize 203 26 per Hrs": {
-        "Regionless": [
+        "Default": [
             "4.7580000000"
         ],
         "US West (Oregon)": [
@@ -365,7 +365,7 @@
         ]
     },
     "RealTime Connection per Minutes": {
-        "Regionless": [
+        "Default": [
             "0.0000000800"
         ],
         "US West (Oregon)": [
@@ -454,7 +454,7 @@
         ]
     },
     "API Calls CacheMemorySize 12 3 per Hrs": {
-        "Regionless": [
+        "Default": [
             "0.2980000000"
         ],
         "US West (Oregon)": [
@@ -546,7 +546,7 @@
         ]
     },
     "API Query and Data Modifications Operations": {
-        "Regionless": [
+        "Default": [
             "0.0000040000"
         ],
         "US West (Oregon)": [
@@ -635,7 +635,7 @@
         ]
     },
     "RealTime per Operation": {
-        "Regionless": [
+        "Default": [
             "0.0000010000"
         ],
         "US West (Oregon)": [
@@ -724,7 +724,7 @@
         ]
     },
     "API Calls CacheMemorySize 50 47 per Hrs": {
-        "Regionless": [
+        "Default": [
             "1.1890000000"
         ],
         "US West (Oregon)": [
@@ -816,7 +816,7 @@
         ]
     },
     "API Calls CacheMemorySize 101 38 per Hrs": {
-        "Regionless": [
+        "Default": [
             "2.3790000000"
         ],
         "US West (Oregon)": [
@@ -908,7 +908,7 @@
         ]
     },
     "RealTime per Minute": {
-        "Regionless": [
+        "Default": [
             "0.0000000800"
         ],
         "US West (Oregon)": [
@@ -997,7 +997,7 @@
         ]
     },
     "API Calls CacheMemorySize 3 22 per Hrs": {
-        "Regionless": [
+        "Default": [
             "0.0890000000"
         ],
         "US West (Oregon)": [
@@ -1089,7 +1089,7 @@
         ]
     },
     "API Calls CacheMemorySize 1 55 per Hrs": {
-        "Regionless": [
+        "Default": [
             "0.0440000000"
         ],
         "US West (Oregon)": [

@@ -1,6 +1,6 @@
 {
     "Compute 1 Year T1ContUse": {
-        "Regionless": [
+        "Default": [
             "97676.0000000000"
         ],
         "US East (N. Virginia)": [
@@ -14,7 +14,7 @@
         ]
     },
     "Compute 1 Year US": {
-        "Regionless": [
+        "Default": [
             "125299.0000000000"
         ],
         "AWS GovCloud (US-East)": [
@@ -25,7 +25,7 @@
         ]
     },
     "Compute 1 Year T1": {
-        "Regionless": [
+        "Default": [
             "156283.0000000000"
         ],
         "AWS GovCloud (US-East)": [
@@ -36,7 +36,7 @@
         ]
     },
     "Compute 1 Year T2": {
-        "Regionless": [
+        "Default": [
             "222877.0000000000"
         ],
         "AWS GovCloud (US-East)": [
@@ -47,7 +47,7 @@
         ]
     },
     "Compute 1 Year DeviceLoss": {
-        "Regionless": [
+        "Default": [
             "182375.0000000000"
         ],
         "AWS GovCloud (US-East)": [
@@ -58,7 +58,7 @@
         ]
     },
     "Compute 1 Year USContUse": {
-        "Regionless": [
+        "Default": [
             "78313.0000000000"
         ],
         "AWS GovCloud (US-East)": [
@@ -69,7 +69,7 @@
         ]
     },
     "Compute 1 Year T2ContUse": {
-        "Regionless": [
+        "Default": [
             "139297.0000000000"
         ],
         "AWS GovCloud (US-East)": [
@@ -80,7 +80,7 @@
         ]
     },
     "Compute 1 Year T0": {
-        "Regionless": [
+        "Default": [
             "275000.0000000000"
         ],
         "AWS GovCloud (US)": [
@@ -88,7 +88,7 @@
         ]
     },
     "Compute 1 Year 6": {
-        "Regionless": [
+        "Default": [
             "1800000.0000000000"
         ],
         "AWS GovCloud (US)": [
@@ -96,7 +96,7 @@
         ]
     },
     "Compute 6-T0": {
-        "Regionless": [
+        "Default": [
             "250000.0000000000"
         ],
         "AWS GovCloud (US)": [
@@ -104,7 +104,7 @@
         ]
     },
     "Compute 6-T1": {
-        "Regionless": [
+        "Default": [
             "300000.0000000000"
         ],
         "AWS GovCloud (US)": [
@@ -112,7 +112,7 @@
         ]
     },
     "Compute T1": {
-        "Regionless": [
+        "Default": [
             "350000.0000000000"
         ],
         "AWS GovCloud (US)": [
@@ -120,7 +120,7 @@
         ]
     },
     "Compute T1-M": {
-        "Regionless": [
+        "Default": [
             "29167.0000000000"
         ],
         "AWS GovCloud (US)": [
@@ -128,7 +128,7 @@
         ]
     },
     "Compute T2": {
-        "Regionless": [
+        "Default": [
             "575000.0000000000"
         ],
         "AWS GovCloud (US)": [
@@ -136,7 +136,7 @@
         ]
     },
     "Compute 6-Tier0": {
-        "Regionless": [
+        "Default": [
             "250000.0000000000"
         ],
         "AWS GovCloud (US)": [
@@ -144,7 +144,7 @@
         ]
     },
     "Compute US": {
-        "Regionless": [
+        "Default": [
             "120000.0000000000"
         ],
         "AWS GovCloud (US)": [
@@ -152,7 +152,7 @@
         ]
     },
     "Compute DeviceLoss": {
-        "Regionless": [
+        "Default": [
             "2000000.0000000000"
         ],
         "AWS GovCloud (US)": [
@@ -160,7 +160,7 @@
         ]
     },
     "Compute 1 Year 6UNC": {
-        "Regionless": [
+        "Default": [
             "1200000.0000000000"
         ],
         "AWS GovCloud (US)": [
@@ -168,7 +168,7 @@
         ]
     },
     "Compute T2-M": {
-        "Regionless": [
+        "Default": [
             "47917.0000000000"
         ],
         "AWS GovCloud (US)": [
@@ -176,7 +176,7 @@
         ]
     },
     "Compute T0-M": {
-        "Regionless": [
+        "Default": [
             "22917.0000000000"
         ],
         "AWS GovCloud (US)": [
@@ -184,7 +184,7 @@
         ]
     },
     "Compute 6-Tier1": {
-        "Regionless": [
+        "Default": [
             "300000.0000000000"
         ],
         "AWS GovCloud (US)": [
@@ -192,7 +192,7 @@
         ]
     },
     "Compute 10": {
-        "Regionless": [
+        "Default": [
             "125000.0000000000"
         ],
         "AWS GovCloud (US)": [
@@ -200,7 +200,7 @@
         ]
     },
     "Compute 6-Tier2": {
-        "Regionless": [
+        "Default": [
             "475000.0000000000"
         ],
         "AWS GovCloud (US)": [
@@ -208,7 +208,7 @@
         ]
     },
     "Compute 6-T2": {
-        "Regionless": [
+        "Default": [
             "475000.0000000000"
         ],
         "AWS GovCloud (US)": [

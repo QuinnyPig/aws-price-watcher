@@ -1,6 +1,6 @@
 {
     "Infrequent Access Storage GB Mo": {
-        "Regionless": [
+        "Default": [
             "0.0250000000"
         ],
         "US West (Oregon)": [
@@ -107,7 +107,7 @@
         ]
     },
     "EFS Storage Requests Read per GB": {
-        "Regionless": [
+        "Default": [
             "0.0300000000"
         ],
         "US West (Oregon)": [
@@ -214,7 +214,7 @@
         ]
     },
     "One Zone General Purpose Storage GB Mo": {
-        "Regionless": [
+        "Default": [
             "0.1600000000"
         ],
         "US West (Oregon)": [
@@ -291,7 +291,7 @@
         ]
     },
     "Archive Storage Write Write GB": {
-        "Regionless": [
+        "Default": [
             "0.0300000000"
         ],
         "US West (Oregon)": [
@@ -398,7 +398,7 @@
         ]
     },
     "Throughput Included": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -505,7 +505,7 @@
         ]
     },
     "Throughput Provisioned": {
-        "Regionless": [
+        "Default": [
             "6.0000000000"
         ],
         "US West (Oregon)": [
@@ -612,7 +612,7 @@
         ]
     },
     "Infrequent Access Requests Read per GB": {
-        "Regionless": [
+        "Default": [
             "0.0100000000"
         ],
         "US West (Oregon)": [
@@ -719,7 +719,7 @@
         ]
     },
     "One Zone Infrequent Access Storage GB Mo": {
-        "Regionless": [
+        "Default": [
             "0.0133000000"
         ],
         "US West (Oregon)": [
@@ -796,7 +796,7 @@
         ]
     },
     "EFS Storage Requests Write per GB": {
-        "Regionless": [
+        "Default": [
             "0.0600000000"
         ],
         "US West (Oregon)": [
@@ -903,7 +903,7 @@
         ]
     },
     "Archive Storage GB Mo": {
-        "Regionless": [
+        "Default": [
             "0.0080000000"
         ],
         "US West (Oregon)": [
@@ -1010,7 +1010,7 @@
         ]
     },
     "General Purpose Storage GB Mo": {
-        "Regionless": [
+        "Default": [
             "0.3000000000"
         ],
         "US West (Oregon)": [
@@ -1117,7 +1117,7 @@
         ]
     },
     "Infrequent Access ET Storage GB Mo": {
-        "Regionless": [
+        "Default": [
             "0.0160000000"
         ],
         "US West (Oregon)": [
@@ -1224,7 +1224,7 @@
         ]
     },
     "Archive Storage Read Read GB": {
-        "Regionless": [
+        "Default": [
             "0.0300000000"
         ],
         "US West (Oregon)": [
@@ -1337,7 +1337,7 @@
         ]
     },
     "Infrequent Access Requests Write per GB": {
-        "Regionless": [
+        "Default": [
             "0.0100000000"
         ],
         "US West (Oregon)": [

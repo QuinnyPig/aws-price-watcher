@@ -1,286 +1,776 @@
 {
     "RunClusterMultiAz": {
-        "Regionless": [
+        "Default": [
             "10.0800000000"
         ],
-        "US West (Oregon)": [
-            "0.6300000000",
-            "10.0800000000",
-            "1.2600000000",
-            "20.1600000000",
-            "5.0400000000",
-            "0.3180000000",
+        "US West (Oregon) (Node: kx.s.16xlarge, vCPU: 64, Memory: 432)": [
+            "10.0800000000"
+        ],
+        "US West (Oregon) (Node: kx.s.2xlarge, vCPU: 8, Memory: 54)": [
+            "1.2600000000"
+        ],
+        "US West (Oregon) (Node: kx.s.32xlarge, vCPU: 128, Memory: 864)": [
+            "20.1600000000"
+        ],
+        "US West (Oregon) (Node: kx.s.4xlarge, vCPU: 16, Memory: 108)": [
             "2.5200000000"
         ],
-        "US East (Ohio)": [
-            "0.6300000000",
-            "10.0800000000",
-            "1.2600000000",
-            "20.1600000000",
-            "5.0400000000",
-            "0.3180000000",
+        "US West (Oregon) (Node: kx.s.8xlarge, vCPU: 32, Memory: 216)": [
+            "5.0400000000"
+        ],
+        "US West (Oregon) (Node: kx.s.large, vCPU: 2, Memory: 12)": [
+            "0.3180000000"
+        ],
+        "US West (Oregon) (Node: kx.s.xlarge, vCPU: 4, Memory: 27)": [
+            "0.6300000000"
+        ],
+        "US East (Ohio) (Node: kx.s.16xlarge, vCPU: 64, Memory: 432)": [
+            "10.0800000000"
+        ],
+        "US East (Ohio) (Node: kx.s.2xlarge, vCPU: 8, Memory: 54)": [
+            "1.2600000000"
+        ],
+        "US East (Ohio) (Node: kx.s.32xlarge, vCPU: 128, Memory: 864)": [
+            "20.1600000000"
+        ],
+        "US East (Ohio) (Node: kx.s.4xlarge, vCPU: 16, Memory: 108)": [
             "2.5200000000"
         ],
-        "US East (N. Virginia)": [
-            "0.6300000000",
-            "10.0800000000",
-            "1.2600000000",
-            "20.1600000000",
-            "5.0400000000",
-            "0.3180000000",
+        "US East (Ohio) (Node: kx.s.8xlarge, vCPU: 32, Memory: 216)": [
+            "5.0400000000"
+        ],
+        "US East (Ohio) (Node: kx.s.large, vCPU: 2, Memory: 12)": [
+            "0.3180000000"
+        ],
+        "US East (Ohio) (Node: kx.s.xlarge, vCPU: 4, Memory: 27)": [
+            "0.6300000000"
+        ],
+        "US East (N. Virginia) (Node: kx.s.16xlarge, vCPU: 64, Memory: 432)": [
+            "10.0800000000"
+        ],
+        "US East (N. Virginia) (Node: kx.s.2xlarge, vCPU: 8, Memory: 54)": [
+            "1.2600000000"
+        ],
+        "US East (N. Virginia) (Node: kx.s.32xlarge, vCPU: 128, Memory: 864)": [
+            "20.1600000000"
+        ],
+        "US East (N. Virginia) (Node: kx.s.4xlarge, vCPU: 16, Memory: 108)": [
             "2.5200000000"
         ],
-        "EU (London)": [
-            "23.6800000000",
-            "5.9200000000",
-            "0.7400000000",
-            "0.3700000000",
-            "1.4800000000",
-            "11.8400000000",
+        "US East (N. Virginia) (Node: kx.s.8xlarge, vCPU: 32, Memory: 216)": [
+            "5.0400000000"
+        ],
+        "US East (N. Virginia) (Node: kx.s.large, vCPU: 2, Memory: 12)": [
+            "0.3180000000"
+        ],
+        "US East (N. Virginia) (Node: kx.s.xlarge, vCPU: 4, Memory: 27)": [
+            "0.6300000000"
+        ],
+        "EU (London) (Node: kx.s.16xlarge, vCPU: 64, Memory: 432)": [
+            "11.8400000000"
+        ],
+        "EU (London) (Node: kx.s.2xlarge, vCPU: 8, Memory: 54)": [
+            "1.4800000000"
+        ],
+        "EU (London) (Node: kx.s.32xlarge, vCPU: 128, Memory: 864)": [
+            "23.6800000000"
+        ],
+        "EU (London) (Node: kx.s.4xlarge, vCPU: 16, Memory: 108)": [
             "2.9600000000"
         ],
-        "EU (Ireland)": [
-            "0.6300000000",
-            "10.0800000000",
-            "1.2600000000",
-            "20.1600000000",
-            "5.0400000000",
-            "0.3180000000",
+        "EU (London) (Node: kx.s.8xlarge, vCPU: 32, Memory: 216)": [
+            "5.9200000000"
+        ],
+        "EU (London) (Node: kx.s.large, vCPU: 2, Memory: 12)": [
+            "0.3700000000"
+        ],
+        "EU (London) (Node: kx.s.xlarge, vCPU: 4, Memory: 27)": [
+            "0.7400000000"
+        ],
+        "EU (Ireland) (Node: kx.s.16xlarge, vCPU: 64, Memory: 432)": [
+            "10.0800000000"
+        ],
+        "EU (Ireland) (Node: kx.s.2xlarge, vCPU: 8, Memory: 54)": [
+            "1.2600000000"
+        ],
+        "EU (Ireland) (Node: kx.s.32xlarge, vCPU: 128, Memory: 864)": [
+            "20.1600000000"
+        ],
+        "EU (Ireland) (Node: kx.s.4xlarge, vCPU: 16, Memory: 108)": [
             "2.5200000000"
         ],
-        "EU (Frankfurt)": [
-            "12.1600000000",
-            "6.0800000000",
-            "0.3800000000",
-            "3.0400000000",
-            "1.5200000000",
-            "0.7600000000",
+        "EU (Ireland) (Node: kx.s.8xlarge, vCPU: 32, Memory: 216)": [
+            "5.0400000000"
+        ],
+        "EU (Ireland) (Node: kx.s.large, vCPU: 2, Memory: 12)": [
+            "0.3180000000"
+        ],
+        "EU (Ireland) (Node: kx.s.xlarge, vCPU: 4, Memory: 27)": [
+            "0.6300000000"
+        ],
+        "EU (Frankfurt) (Node: kx.s.16xlarge, vCPU: 64, Memory: 432)": [
+            "12.1600000000"
+        ],
+        "EU (Frankfurt) (Node: kx.s.2xlarge, vCPU: 8, Memory: 54)": [
+            "1.5200000000"
+        ],
+        "EU (Frankfurt) (Node: kx.s.32xlarge, vCPU: 128, Memory: 864)": [
             "24.3200000000"
         ],
-        "Canada (Central)": [
-            "0.6300000000",
-            "10.0800000000",
-            "1.2600000000",
-            "20.1600000000",
-            "5.0400000000",
-            "0.3180000000",
+        "EU (Frankfurt) (Node: kx.s.4xlarge, vCPU: 16, Memory: 108)": [
+            "3.0400000000"
+        ],
+        "EU (Frankfurt) (Node: kx.s.8xlarge, vCPU: 32, Memory: 216)": [
+            "6.0800000000"
+        ],
+        "EU (Frankfurt) (Node: kx.s.large, vCPU: 2, Memory: 12)": [
+            "0.3800000000"
+        ],
+        "EU (Frankfurt) (Node: kx.s.xlarge, vCPU: 4, Memory: 27)": [
+            "0.7600000000"
+        ],
+        "Canada (Central) (Node: kx.s.16xlarge, vCPU: 64, Memory: 432)": [
+            "10.0800000000"
+        ],
+        "Canada (Central) (Node: kx.s.2xlarge, vCPU: 8, Memory: 54)": [
+            "1.2600000000"
+        ],
+        "Canada (Central) (Node: kx.s.32xlarge, vCPU: 128, Memory: 864)": [
+            "20.1600000000"
+        ],
+        "Canada (Central) (Node: kx.s.4xlarge, vCPU: 16, Memory: 108)": [
             "2.5200000000"
         ],
-        "Asia Pacific (Tokyo)": [
-            "12.1600000000",
-            "6.0800000000",
-            "0.3800000000",
-            "3.0400000000",
-            "1.5200000000",
-            "0.7600000000",
+        "Canada (Central) (Node: kx.s.8xlarge, vCPU: 32, Memory: 216)": [
+            "5.0400000000"
+        ],
+        "Canada (Central) (Node: kx.s.large, vCPU: 2, Memory: 12)": [
+            "0.3180000000"
+        ],
+        "Canada (Central) (Node: kx.s.xlarge, vCPU: 4, Memory: 27)": [
+            "0.6300000000"
+        ],
+        "Asia Pacific (Tokyo) (Node: kx.s.16xlarge, vCPU: 64, Memory: 432)": [
+            "12.1600000000"
+        ],
+        "Asia Pacific (Tokyo) (Node: kx.s.2xlarge, vCPU: 8, Memory: 54)": [
+            "1.5200000000"
+        ],
+        "Asia Pacific (Tokyo) (Node: kx.s.32xlarge, vCPU: 128, Memory: 864)": [
             "24.3200000000"
         ],
-        "Asia Pacific (Sydney)": [
-            "0.3780000000",
-            "3.0200000000",
-            "0.7550000000",
-            "1.5100000000",
-            "24.1600000000",
-            "12.0800000000",
+        "Asia Pacific (Tokyo) (Node: kx.s.4xlarge, vCPU: 16, Memory: 108)": [
+            "3.0400000000"
+        ],
+        "Asia Pacific (Tokyo) (Node: kx.s.8xlarge, vCPU: 32, Memory: 216)": [
+            "6.0800000000"
+        ],
+        "Asia Pacific (Tokyo) (Node: kx.s.large, vCPU: 2, Memory: 12)": [
+            "0.3800000000"
+        ],
+        "Asia Pacific (Tokyo) (Node: kx.s.xlarge, vCPU: 4, Memory: 27)": [
+            "0.7600000000"
+        ],
+        "Asia Pacific (Sydney) (Node: kx.s.16xlarge, vCPU: 64, Memory: 432)": [
+            "12.0800000000"
+        ],
+        "Asia Pacific (Sydney) (Node: kx.s.2xlarge, vCPU: 8, Memory: 54)": [
+            "1.5100000000"
+        ],
+        "Asia Pacific (Sydney) (Node: kx.s.32xlarge, vCPU: 128, Memory: 864)": [
+            "24.1600000000"
+        ],
+        "Asia Pacific (Sydney) (Node: kx.s.4xlarge, vCPU: 16, Memory: 108)": [
+            "3.0200000000"
+        ],
+        "Asia Pacific (Sydney) (Node: kx.s.8xlarge, vCPU: 32, Memory: 216)": [
             "6.0400000000"
         ],
-        "Asia Pacific (Singapore)": [
-            "12.1600000000",
-            "6.0800000000",
-            "0.3800000000",
-            "3.0400000000",
-            "1.5200000000",
-            "0.7600000000",
+        "Asia Pacific (Sydney) (Node: kx.s.large, vCPU: 2, Memory: 12)": [
+            "0.3780000000"
+        ],
+        "Asia Pacific (Sydney) (Node: kx.s.xlarge, vCPU: 4, Memory: 27)": [
+            "0.7550000000"
+        ],
+        "Asia Pacific (Singapore) (Node: kx.s.16xlarge, vCPU: 64, Memory: 432)": [
+            "12.1600000000"
+        ],
+        "Asia Pacific (Singapore) (Node: kx.s.2xlarge, vCPU: 8, Memory: 54)": [
+            "1.5200000000"
+        ],
+        "Asia Pacific (Singapore) (Node: kx.s.32xlarge, vCPU: 128, Memory: 864)": [
             "24.3200000000"
+        ],
+        "Asia Pacific (Singapore) (Node: kx.s.4xlarge, vCPU: 16, Memory: 108)": [
+            "3.0400000000"
+        ],
+        "Asia Pacific (Singapore) (Node: kx.s.8xlarge, vCPU: 32, Memory: 216)": [
+            "6.0800000000"
+        ],
+        "Asia Pacific (Singapore) (Node: kx.s.large, vCPU: 2, Memory: 12)": [
+            "0.3800000000"
+        ],
+        "Asia Pacific (Singapore) (Node: kx.s.xlarge, vCPU: 4, Memory: 27)": [
+            "0.7600000000"
         ]
     },
     "RunClusterSingleAz": {
-        "Regionless": [
+        "Default": [
             "10.0800000000"
         ],
-        "US West (Oregon)": [
-            "0.6300000000",
-            "10.0800000000",
-            "33.3450000000",
-            "1.2600000000",
-            "50.0180000000",
-            "20.1600000000",
-            "5.0400000000",
-            "0.3180000000",
+        "US West (Oregon) (Node: kx.s.16xlarge, vCPU: 64, Memory: 432)": [
+            "10.0800000000"
+        ],
+        "US West (Oregon) (Node: kx.s.2xlarge, vCPU: 8, Memory: 54)": [
+            "1.2600000000"
+        ],
+        "US West (Oregon) (Node: kx.s.32xlarge, vCPU: 128, Memory: 864)": [
+            "20.1600000000"
+        ],
+        "US West (Oregon) (Node: kx.s.4xlarge, vCPU: 16, Memory: 108)": [
             "2.5200000000"
         ],
-        "US East (Ohio)": [
-            "0.6300000000",
-            "10.0800000000",
-            "33.3450000000",
-            "1.2600000000",
-            "50.0180000000",
-            "20.1600000000",
-            "5.0400000000",
-            "0.3180000000",
+        "US West (Oregon) (Node: kx.s.8xlarge, vCPU: 32, Memory: 216)": [
+            "5.0400000000"
+        ],
+        "US West (Oregon) (Node: kx.s.large, vCPU: 2, Memory: 12)": [
+            "0.3180000000"
+        ],
+        "US West (Oregon) (Node: kx.s.xlarge, vCPU: 4, Memory: 27)": [
+            "0.6300000000"
+        ],
+        "US West (Oregon) (Node: kx.sg.16xlarge, vCPU: 64, Memory: 432)": [
+            "10.0800000000"
+        ],
+        "US West (Oregon) (Node: kx.sg.2xlarge, vCPU: 8, Memory: 54)": [
+            "1.2600000000"
+        ],
+        "US West (Oregon) (Node: kx.sg.32xlarge, vCPU: 128, Memory: 864)": [
+            "20.1600000000"
+        ],
+        "US West (Oregon) (Node: kx.sg.4xlarge, vCPU: 16, Memory: 108)": [
             "2.5200000000"
         ],
-        "US East (N. Virginia)": [
-            "0.6300000000",
-            "10.0800000000",
-            "33.3450000000",
-            "1.2600000000",
-            "50.0180000000",
-            "20.1600000000",
-            "5.0400000000",
-            "0.3180000000",
+        "US West (Oregon) (Node: kx.sg.8xlarge, vCPU: 32, Memory: 216)": [
+            "5.0400000000"
+        ],
+        "US West (Oregon) (Node: kx.sg.large, vCPU: 2, Memory: 12)": [
+            "0.3180000000"
+        ],
+        "US West (Oregon) (Node: kx.sg.xlarge, vCPU: 4, Memory: 27)": [
+            "0.6300000000"
+        ],
+        "US West (Oregon) (Node: kx.sg1.16xlarge, vCPU: 64, Memory: 1949)": [
+            "33.3450000000"
+        ],
+        "US West (Oregon) (Node: kx.sg1.24xlarge, vCPU: 96, Memory: 2948)": [
+            "50.0180000000"
+        ],
+        "US East (Ohio) (Node: kx.s.16xlarge, vCPU: 64, Memory: 432)": [
+            "10.0800000000"
+        ],
+        "US East (Ohio) (Node: kx.s.2xlarge, vCPU: 8, Memory: 54)": [
+            "1.2600000000"
+        ],
+        "US East (Ohio) (Node: kx.s.32xlarge, vCPU: 128, Memory: 864)": [
+            "20.1600000000"
+        ],
+        "US East (Ohio) (Node: kx.s.4xlarge, vCPU: 16, Memory: 108)": [
             "2.5200000000"
         ],
-        "EU (London)": [
-            "2.9600000000",
-            "42.0150000000",
-            "23.6800000000",
-            "63.0230000000",
-            "0.3700000000",
-            "1.4800000000",
-            "0.7400000000",
-            "11.8400000000",
+        "US East (Ohio) (Node: kx.s.8xlarge, vCPU: 32, Memory: 216)": [
+            "5.0400000000"
+        ],
+        "US East (Ohio) (Node: kx.s.large, vCPU: 2, Memory: 12)": [
+            "0.3180000000"
+        ],
+        "US East (Ohio) (Node: kx.s.xlarge, vCPU: 4, Memory: 27)": [
+            "0.6300000000"
+        ],
+        "US East (Ohio) (Node: kx.sg.16xlarge, vCPU: 64, Memory: 432)": [
+            "10.0800000000"
+        ],
+        "US East (Ohio) (Node: kx.sg.2xlarge, vCPU: 8, Memory: 54)": [
+            "1.2600000000"
+        ],
+        "US East (Ohio) (Node: kx.sg.32xlarge, vCPU: 128, Memory: 864)": [
+            "20.1600000000"
+        ],
+        "US East (Ohio) (Node: kx.sg.4xlarge, vCPU: 16, Memory: 108)": [
+            "2.5200000000"
+        ],
+        "US East (Ohio) (Node: kx.sg.8xlarge, vCPU: 32, Memory: 216)": [
+            "5.0400000000"
+        ],
+        "US East (Ohio) (Node: kx.sg.large, vCPU: 2, Memory: 12)": [
+            "0.3180000000"
+        ],
+        "US East (Ohio) (Node: kx.sg.xlarge, vCPU: 4, Memory: 27)": [
+            "0.6300000000"
+        ],
+        "US East (Ohio) (Node: kx.sg1.16xlarge, vCPU: 64, Memory: 1949)": [
+            "33.3450000000"
+        ],
+        "US East (Ohio) (Node: kx.sg1.24xlarge, vCPU: 96, Memory: 2948)": [
+            "50.0180000000"
+        ],
+        "US East (N. Virginia) (Node: kx.s.16xlarge, vCPU: 64, Memory: 432)": [
+            "10.0800000000"
+        ],
+        "US East (N. Virginia) (Node: kx.s.2xlarge, vCPU: 8, Memory: 54)": [
+            "1.2600000000"
+        ],
+        "US East (N. Virginia) (Node: kx.s.32xlarge, vCPU: 128, Memory: 864)": [
+            "20.1600000000"
+        ],
+        "US East (N. Virginia) (Node: kx.s.4xlarge, vCPU: 16, Memory: 108)": [
+            "2.5200000000"
+        ],
+        "US East (N. Virginia) (Node: kx.s.8xlarge, vCPU: 32, Memory: 216)": [
+            "5.0400000000"
+        ],
+        "US East (N. Virginia) (Node: kx.s.large, vCPU: 2, Memory: 12)": [
+            "0.3180000000"
+        ],
+        "US East (N. Virginia) (Node: kx.s.xlarge, vCPU: 4, Memory: 27)": [
+            "0.6300000000"
+        ],
+        "US East (N. Virginia) (Node: kx.sg.16xlarge, vCPU: 64, Memory: 432)": [
+            "10.0800000000"
+        ],
+        "US East (N. Virginia) (Node: kx.sg.2xlarge, vCPU: 8, Memory: 54)": [
+            "1.2600000000"
+        ],
+        "US East (N. Virginia) (Node: kx.sg.32xlarge, vCPU: 128, Memory: 864)": [
+            "20.1600000000"
+        ],
+        "US East (N. Virginia) (Node: kx.sg.4xlarge, vCPU: 16, Memory: 108)": [
+            "2.5200000000"
+        ],
+        "US East (N. Virginia) (Node: kx.sg.8xlarge, vCPU: 32, Memory: 216)": [
+            "5.0400000000"
+        ],
+        "US East (N. Virginia) (Node: kx.sg.large, vCPU: 2, Memory: 12)": [
+            "0.3180000000"
+        ],
+        "US East (N. Virginia) (Node: kx.sg.xlarge, vCPU: 4, Memory: 27)": [
+            "0.6300000000"
+        ],
+        "US East (N. Virginia) (Node: kx.sg1.16xlarge, vCPU: 64, Memory: 1949)": [
+            "33.3450000000"
+        ],
+        "US East (N. Virginia) (Node: kx.sg1.24xlarge, vCPU: 96, Memory: 2948)": [
+            "50.0180000000"
+        ],
+        "EU (London) (Node: kx.s.16xlarge, vCPU: 64, Memory: 432)": [
+            "11.8400000000"
+        ],
+        "EU (London) (Node: kx.s.2xlarge, vCPU: 8, Memory: 54)": [
+            "1.4800000000"
+        ],
+        "EU (London) (Node: kx.s.32xlarge, vCPU: 128, Memory: 864)": [
+            "23.6800000000"
+        ],
+        "EU (London) (Node: kx.s.4xlarge, vCPU: 16, Memory: 108)": [
+            "2.9600000000"
+        ],
+        "EU (London) (Node: kx.s.8xlarge, vCPU: 32, Memory: 216)": [
             "5.9200000000"
         ],
-        "EU (Ireland)": [
-            "0.6300000000",
-            "10.0800000000",
-            "1.2600000000",
-            "2.5200000000",
-            "20.1600000000",
-            "5.0400000000",
-            "0.3180000000",
-            "40.0150000000",
-            "60.0230000000"
+        "EU (London) (Node: kx.s.large, vCPU: 2, Memory: 12)": [
+            "0.3700000000"
         ],
-        "EU (Frankfurt)": [
-            "12.1600000000",
-            "46.6850000000",
-            "70.0280000000",
-            "6.0800000000",
-            "0.3800000000",
-            "3.0400000000",
-            "1.5200000000",
-            "0.7600000000",
-            "24.3200000000"
+        "EU (London) (Node: kx.s.xlarge, vCPU: 4, Memory: 27)": [
+            "0.7400000000"
         ],
-        "Canada (Central)": [
-            "0.6300000000",
-            "10.0800000000",
-            "1.2600000000",
-            "55.0200000000",
-            "36.6800000000",
-            "20.1600000000",
-            "5.0400000000",
-            "0.3180000000",
+        "EU (London) (Node: kx.sg.16xlarge, vCPU: 64, Memory: 432)": [
+            "11.8400000000"
+        ],
+        "EU (London) (Node: kx.sg.2xlarge, vCPU: 8, Memory: 54)": [
+            "1.4800000000"
+        ],
+        "EU (London) (Node: kx.sg.32xlarge, vCPU: 128, Memory: 864)": [
+            "23.6800000000"
+        ],
+        "EU (London) (Node: kx.sg.4xlarge, vCPU: 16, Memory: 108)": [
+            "2.9600000000"
+        ],
+        "EU (London) (Node: kx.sg.8xlarge, vCPU: 32, Memory: 216)": [
+            "5.9200000000"
+        ],
+        "EU (London) (Node: kx.sg.large, vCPU: 2, Memory: 12)": [
+            "0.3700000000"
+        ],
+        "EU (London) (Node: kx.sg.xlarge, vCPU: 4, Memory: 27)": [
+            "0.7400000000"
+        ],
+        "EU (London) (Node: kx.sg1.16xlarge, vCPU: 64, Memory: 1949)": [
+            "42.0150000000"
+        ],
+        "EU (London) (Node: kx.sg1.24xlarge, vCPU: 96, Memory: 2948)": [
+            "63.0230000000"
+        ],
+        "EU (Ireland) (Node: kx.s.16xlarge, vCPU: 64, Memory: 432)": [
+            "10.0800000000"
+        ],
+        "EU (Ireland) (Node: kx.s.2xlarge, vCPU: 8, Memory: 54)": [
+            "1.2600000000"
+        ],
+        "EU (Ireland) (Node: kx.s.32xlarge, vCPU: 128, Memory: 864)": [
+            "20.1600000000"
+        ],
+        "EU (Ireland) (Node: kx.s.4xlarge, vCPU: 16, Memory: 108)": [
             "2.5200000000"
         ],
-        "Asia Pacific (Tokyo)": [
-            "12.1600000000",
-            "6.0800000000",
-            "0.3800000000",
-            "3.0400000000",
-            "72.5290000000",
-            "1.5200000000",
-            "48.3530000000",
-            "0.7600000000",
+        "EU (Ireland) (Node: kx.s.8xlarge, vCPU: 32, Memory: 216)": [
+            "5.0400000000"
+        ],
+        "EU (Ireland) (Node: kx.s.large, vCPU: 2, Memory: 12)": [
+            "0.3180000000"
+        ],
+        "EU (Ireland) (Node: kx.s.xlarge, vCPU: 4, Memory: 27)": [
+            "0.6300000000"
+        ],
+        "EU (Ireland) (Node: kx.sg.16xlarge, vCPU: 64, Memory: 432)": [
+            "10.0800000000"
+        ],
+        "EU (Ireland) (Node: kx.sg.2xlarge, vCPU: 8, Memory: 54)": [
+            "1.2600000000"
+        ],
+        "EU (Ireland) (Node: kx.sg.32xlarge, vCPU: 128, Memory: 864)": [
+            "20.1600000000"
+        ],
+        "EU (Ireland) (Node: kx.sg.4xlarge, vCPU: 16, Memory: 108)": [
+            "2.5200000000"
+        ],
+        "EU (Ireland) (Node: kx.sg.8xlarge, vCPU: 32, Memory: 216)": [
+            "5.0400000000"
+        ],
+        "EU (Ireland) (Node: kx.sg.large, vCPU: 2, Memory: 12)": [
+            "0.3180000000"
+        ],
+        "EU (Ireland) (Node: kx.sg.xlarge, vCPU: 4, Memory: 27)": [
+            "0.6300000000"
+        ],
+        "EU (Ireland) (Node: kx.sg1.16xlarge, vCPU: 64, Memory: 1949)": [
+            "40.0150000000"
+        ],
+        "EU (Ireland) (Node: kx.sg1.24xlarge, vCPU: 96, Memory: 2948)": [
+            "60.0230000000"
+        ],
+        "EU (Frankfurt) (Node: kx.s.16xlarge, vCPU: 64, Memory: 432)": [
+            "12.1600000000"
+        ],
+        "EU (Frankfurt) (Node: kx.s.2xlarge, vCPU: 8, Memory: 54)": [
+            "1.5200000000"
+        ],
+        "EU (Frankfurt) (Node: kx.s.32xlarge, vCPU: 128, Memory: 864)": [
             "24.3200000000"
         ],
-        "Asia Pacific (Sydney)": [
-            "0.3780000000",
-            "3.0200000000",
-            "1.5100000000",
-            "24.1600000000",
-            "72.5290000000",
-            "0.7550000000",
-            "48.3530000000",
-            "6.0400000000",
+        "EU (Frankfurt) (Node: kx.s.4xlarge, vCPU: 16, Memory: 108)": [
+            "3.0400000000"
+        ],
+        "EU (Frankfurt) (Node: kx.s.8xlarge, vCPU: 32, Memory: 216)": [
+            "6.0800000000"
+        ],
+        "EU (Frankfurt) (Node: kx.s.large, vCPU: 2, Memory: 12)": [
+            "0.3800000000"
+        ],
+        "EU (Frankfurt) (Node: kx.s.xlarge, vCPU: 4, Memory: 27)": [
+            "0.7600000000"
+        ],
+        "EU (Frankfurt) (Node: kx.sg.16xlarge, vCPU: 64, Memory: 432)": [
+            "12.1600000000"
+        ],
+        "EU (Frankfurt) (Node: kx.sg.2xlarge, vCPU: 8, Memory: 54)": [
+            "1.5200000000"
+        ],
+        "EU (Frankfurt) (Node: kx.sg.32xlarge, vCPU: 128, Memory: 864)": [
+            "24.3200000000"
+        ],
+        "EU (Frankfurt) (Node: kx.sg.4xlarge, vCPU: 16, Memory: 108)": [
+            "3.0400000000"
+        ],
+        "EU (Frankfurt) (Node: kx.sg.8xlarge, vCPU: 32, Memory: 216)": [
+            "6.0800000000"
+        ],
+        "EU (Frankfurt) (Node: kx.sg.large, vCPU: 2, Memory: 12)": [
+            "0.3800000000"
+        ],
+        "EU (Frankfurt) (Node: kx.sg.xlarge, vCPU: 4, Memory: 27)": [
+            "0.7600000000"
+        ],
+        "EU (Frankfurt) (Node: kx.sg1.16xlarge, vCPU: 64, Memory: 1949)": [
+            "46.6850000000"
+        ],
+        "EU (Frankfurt) (Node: kx.sg1.24xlarge, vCPU: 96, Memory: 2948)": [
+            "70.0280000000"
+        ],
+        "Canada (Central) (Node: kx.s.16xlarge, vCPU: 64, Memory: 432)": [
+            "10.0800000000"
+        ],
+        "Canada (Central) (Node: kx.s.2xlarge, vCPU: 8, Memory: 54)": [
+            "1.2600000000"
+        ],
+        "Canada (Central) (Node: kx.s.32xlarge, vCPU: 128, Memory: 864)": [
+            "20.1600000000"
+        ],
+        "Canada (Central) (Node: kx.s.4xlarge, vCPU: 16, Memory: 108)": [
+            "2.5200000000"
+        ],
+        "Canada (Central) (Node: kx.s.8xlarge, vCPU: 32, Memory: 216)": [
+            "5.0400000000"
+        ],
+        "Canada (Central) (Node: kx.s.large, vCPU: 2, Memory: 12)": [
+            "0.3180000000"
+        ],
+        "Canada (Central) (Node: kx.s.xlarge, vCPU: 4, Memory: 27)": [
+            "0.6300000000"
+        ],
+        "Canada (Central) (Node: kx.sg.16xlarge, vCPU: 64, Memory: 432)": [
+            "10.0800000000"
+        ],
+        "Canada (Central) (Node: kx.sg.2xlarge, vCPU: 8, Memory: 54)": [
+            "1.2600000000"
+        ],
+        "Canada (Central) (Node: kx.sg.32xlarge, vCPU: 128, Memory: 864)": [
+            "20.1600000000"
+        ],
+        "Canada (Central) (Node: kx.sg.4xlarge, vCPU: 16, Memory: 108)": [
+            "2.5200000000"
+        ],
+        "Canada (Central) (Node: kx.sg.8xlarge, vCPU: 32, Memory: 216)": [
+            "5.0400000000"
+        ],
+        "Canada (Central) (Node: kx.sg.large, vCPU: 2, Memory: 12)": [
+            "0.3180000000"
+        ],
+        "Canada (Central) (Node: kx.sg.xlarge, vCPU: 4, Memory: 27)": [
+            "0.6300000000"
+        ],
+        "Canada (Central) (Node: kx.sg1.16xlarge, vCPU: 64, Memory: 1949)": [
+            "36.6800000000"
+        ],
+        "Canada (Central) (Node: kx.sg1.24xlarge, vCPU: 96, Memory: 2948)": [
+            "55.0200000000"
+        ],
+        "Asia Pacific (Tokyo) (Node: kx.s.16xlarge, vCPU: 64, Memory: 432)": [
+            "12.1600000000"
+        ],
+        "Asia Pacific (Tokyo) (Node: kx.s.2xlarge, vCPU: 8, Memory: 54)": [
+            "1.5200000000"
+        ],
+        "Asia Pacific (Tokyo) (Node: kx.s.32xlarge, vCPU: 128, Memory: 864)": [
+            "24.3200000000"
+        ],
+        "Asia Pacific (Tokyo) (Node: kx.s.4xlarge, vCPU: 16, Memory: 108)": [
+            "3.0400000000"
+        ],
+        "Asia Pacific (Tokyo) (Node: kx.s.8xlarge, vCPU: 32, Memory: 216)": [
+            "6.0800000000"
+        ],
+        "Asia Pacific (Tokyo) (Node: kx.s.large, vCPU: 2, Memory: 12)": [
+            "0.3800000000"
+        ],
+        "Asia Pacific (Tokyo) (Node: kx.s.xlarge, vCPU: 4, Memory: 27)": [
+            "0.7600000000"
+        ],
+        "Asia Pacific (Tokyo) (Node: kx.sg.16xlarge, vCPU: 64, Memory: 432)": [
+            "12.1600000000"
+        ],
+        "Asia Pacific (Tokyo) (Node: kx.sg.2xlarge, vCPU: 8, Memory: 54)": [
+            "1.5200000000"
+        ],
+        "Asia Pacific (Tokyo) (Node: kx.sg.32xlarge, vCPU: 128, Memory: 864)": [
+            "24.3200000000"
+        ],
+        "Asia Pacific (Tokyo) (Node: kx.sg.4xlarge, vCPU: 16, Memory: 108)": [
+            "3.0400000000"
+        ],
+        "Asia Pacific (Tokyo) (Node: kx.sg.8xlarge, vCPU: 32, Memory: 216)": [
+            "6.0800000000"
+        ],
+        "Asia Pacific (Tokyo) (Node: kx.sg.large, vCPU: 2, Memory: 12)": [
+            "0.3800000000"
+        ],
+        "Asia Pacific (Tokyo) (Node: kx.sg.xlarge, vCPU: 4, Memory: 27)": [
+            "0.7600000000"
+        ],
+        "Asia Pacific (Tokyo) (Node: kx.sg1.16xlarge, vCPU: 64, Memory: 1949)": [
+            "48.3530000000"
+        ],
+        "Asia Pacific (Tokyo) (Node: kx.sg1.24xlarge, vCPU: 96, Memory: 2948)": [
+            "72.5290000000"
+        ],
+        "Asia Pacific (Sydney) (Node: kx.s.16xlarge, vCPU: 64, Memory: 432)": [
             "12.0800000000"
         ],
-        "Asia Pacific (Singapore)": [
-            "12.1600000000",
-            "6.0800000000",
-            "0.3800000000",
-            "3.0400000000",
-            "72.5290000000",
-            "1.5200000000",
-            "48.3530000000",
-            "0.7600000000",
+        "Asia Pacific (Sydney) (Node: kx.s.2xlarge, vCPU: 8, Memory: 54)": [
+            "1.5100000000"
+        ],
+        "Asia Pacific (Sydney) (Node: kx.s.32xlarge, vCPU: 128, Memory: 864)": [
+            "24.1600000000"
+        ],
+        "Asia Pacific (Sydney) (Node: kx.s.4xlarge, vCPU: 16, Memory: 108)": [
+            "3.0200000000"
+        ],
+        "Asia Pacific (Sydney) (Node: kx.s.8xlarge, vCPU: 32, Memory: 216)": [
+            "6.0400000000"
+        ],
+        "Asia Pacific (Sydney) (Node: kx.s.large, vCPU: 2, Memory: 12)": [
+            "0.3780000000"
+        ],
+        "Asia Pacific (Sydney) (Node: kx.s.xlarge, vCPU: 4, Memory: 27)": [
+            "0.7550000000"
+        ],
+        "Asia Pacific (Sydney) (Node: kx.sg.16xlarge, vCPU: 64, Memory: 432)": [
+            "12.0800000000"
+        ],
+        "Asia Pacific (Sydney) (Node: kx.sg.2xlarge, vCPU: 8, Memory: 54)": [
+            "1.5100000000"
+        ],
+        "Asia Pacific (Sydney) (Node: kx.sg.32xlarge, vCPU: 128, Memory: 864)": [
+            "24.1600000000"
+        ],
+        "Asia Pacific (Sydney) (Node: kx.sg.4xlarge, vCPU: 16, Memory: 108)": [
+            "3.0200000000"
+        ],
+        "Asia Pacific (Sydney) (Node: kx.sg.8xlarge, vCPU: 32, Memory: 216)": [
+            "6.0400000000"
+        ],
+        "Asia Pacific (Sydney) (Node: kx.sg.large, vCPU: 2, Memory: 12)": [
+            "0.3780000000"
+        ],
+        "Asia Pacific (Sydney) (Node: kx.sg.xlarge, vCPU: 4, Memory: 27)": [
+            "0.7550000000"
+        ],
+        "Asia Pacific (Sydney) (Node: kx.sg1.16xlarge, vCPU: 64, Memory: 1949)": [
+            "48.3530000000"
+        ],
+        "Asia Pacific (Sydney) (Node: kx.sg1.24xlarge, vCPU: 96, Memory: 2948)": [
+            "72.5290000000"
+        ],
+        "Asia Pacific (Singapore) (Node: kx.s.16xlarge, vCPU: 64, Memory: 432)": [
+            "12.1600000000"
+        ],
+        "Asia Pacific (Singapore) (Node: kx.s.2xlarge, vCPU: 8, Memory: 54)": [
+            "1.5200000000"
+        ],
+        "Asia Pacific (Singapore) (Node: kx.s.32xlarge, vCPU: 128, Memory: 864)": [
             "24.3200000000"
+        ],
+        "Asia Pacific (Singapore) (Node: kx.s.4xlarge, vCPU: 16, Memory: 108)": [
+            "3.0400000000"
+        ],
+        "Asia Pacific (Singapore) (Node: kx.s.8xlarge, vCPU: 32, Memory: 216)": [
+            "6.0800000000"
+        ],
+        "Asia Pacific (Singapore) (Node: kx.s.large, vCPU: 2, Memory: 12)": [
+            "0.3800000000"
+        ],
+        "Asia Pacific (Singapore) (Node: kx.s.xlarge, vCPU: 4, Memory: 27)": [
+            "0.7600000000"
+        ],
+        "Asia Pacific (Singapore) (Node: kx.sg.16xlarge, vCPU: 64, Memory: 432)": [
+            "12.1600000000"
+        ],
+        "Asia Pacific (Singapore) (Node: kx.sg.2xlarge, vCPU: 8, Memory: 54)": [
+            "1.5200000000"
+        ],
+        "Asia Pacific (Singapore) (Node: kx.sg.32xlarge, vCPU: 128, Memory: 864)": [
+            "24.3200000000"
+        ],
+        "Asia Pacific (Singapore) (Node: kx.sg.4xlarge, vCPU: 16, Memory: 108)": [
+            "3.0400000000"
+        ],
+        "Asia Pacific (Singapore) (Node: kx.sg.8xlarge, vCPU: 32, Memory: 216)": [
+            "6.0800000000"
+        ],
+        "Asia Pacific (Singapore) (Node: kx.sg.large, vCPU: 2, Memory: 12)": [
+            "0.3800000000"
+        ],
+        "Asia Pacific (Singapore) (Node: kx.sg.xlarge, vCPU: 4, Memory: 27)": [
+            "0.7600000000"
+        ],
+        "Asia Pacific (Singapore) (Node: kx.sg1.16xlarge, vCPU: 64, Memory: 1949)": [
+            "48.3530000000"
+        ],
+        "Asia Pacific (Singapore) (Node: kx.sg1.24xlarge, vCPU: 96, Memory: 2948)": [
+            "72.5290000000"
         ]
     },
     "kx sg1.24xlarge RunClusterSingleAz": {
-        "Regionless": [
+        "Default": [
             "50.0180000000"
         ],
-        "US West (Oregon)": [
+        "US West (Oregon) (Node: kx.sg1.24xlarge, vCPU: 96, Memory: 2948)": [
             "50.0180000000"
         ],
-        "US East (Ohio)": [
+        "US East (Ohio) (Node: kx.sg1.24xlarge, vCPU: 96, Memory: 2948)": [
             "50.0180000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (Node: kx.sg1.24xlarge, vCPU: 96, Memory: 2948)": [
             "50.0180000000"
         ],
-        "EU (London)": [
+        "EU (London) (Node: kx.sg1.24xlarge, vCPU: 96, Memory: 2948)": [
             "63.0230000000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (Node: kx.sg1.24xlarge, vCPU: 96, Memory: 2948)": [
             "60.0230000000"
         ],
-        "EU (Frankfurt)": [
+        "EU (Frankfurt) (Node: kx.sg1.24xlarge, vCPU: 96, Memory: 2948)": [
             "70.0280000000"
         ],
-        "Canada (Central)": [
+        "Canada (Central) (Node: kx.sg1.24xlarge, vCPU: 96, Memory: 2948)": [
             "55.0200000000"
         ],
-        "Asia Pacific (Tokyo)": [
+        "Asia Pacific (Tokyo) (Node: kx.sg1.24xlarge, vCPU: 96, Memory: 2948)": [
             "72.5290000000"
         ],
-        "Asia Pacific (Sydney)": [
+        "Asia Pacific (Sydney) (Node: kx.sg1.24xlarge, vCPU: 96, Memory: 2948)": [
             "72.5290000000"
         ],
-        "Asia Pacific (Singapore)": [
+        "Asia Pacific (Singapore) (Node: kx.sg1.24xlarge, vCPU: 96, Memory: 2948)": [
             "72.5290000000"
         ]
     },
     "kx s.2xlarge RunClusterMultiAz": {
-        "Regionless": [
+        "Default": [
             "1.2600000000"
         ],
-        "US West (Oregon)": [
+        "US West (Oregon) (Node: kx.s.2xlarge, vCPU: 8, Memory: 54)": [
             "1.2600000000"
         ],
-        "US East (Ohio)": [
+        "US East (Ohio) (Node: kx.s.2xlarge, vCPU: 8, Memory: 54)": [
             "1.2600000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (Node: kx.s.2xlarge, vCPU: 8, Memory: 54)": [
             "1.2600000000"
         ],
-        "EU (London)": [
+        "EU (London) (Node: kx.s.2xlarge, vCPU: 8, Memory: 54)": [
             "1.4800000000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (Node: kx.s.2xlarge, vCPU: 8, Memory: 54)": [
             "1.2600000000"
         ],
-        "EU (Frankfurt)": [
+        "EU (Frankfurt) (Node: kx.s.2xlarge, vCPU: 8, Memory: 54)": [
             "1.5200000000"
         ],
-        "Canada (Central)": [
+        "Canada (Central) (Node: kx.s.2xlarge, vCPU: 8, Memory: 54)": [
             "1.2600000000"
         ],
-        "Asia Pacific (Tokyo)": [
+        "Asia Pacific (Tokyo) (Node: kx.s.2xlarge, vCPU: 8, Memory: 54)": [
             "1.5200000000"
         ],
-        "Asia Pacific (Sydney)": [
+        "Asia Pacific (Sydney) (Node: kx.s.2xlarge, vCPU: 8, Memory: 54)": [
             "1.5100000000"
         ],
-        "Asia Pacific (Singapore)": [
+        "Asia Pacific (Singapore) (Node: kx.s.2xlarge, vCPU: 8, Memory: 54)": [
             "1.5200000000"
         ]
     },
     "RunCluster XXLarge": {
-        "Regionless": [
+        "Default": [
             "2.0000000000"
         ],
         "US West (Oregon)": [
@@ -300,112 +790,112 @@
         ]
     },
     "kx s.large RunClusterMultiAz": {
-        "Regionless": [
+        "Default": [
             "0.3180000000"
         ],
-        "US West (Oregon)": [
+        "US West (Oregon) (Node: kx.s.large, vCPU: 2, Memory: 12)": [
             "0.3180000000"
         ],
-        "US East (Ohio)": [
+        "US East (Ohio) (Node: kx.s.large, vCPU: 2, Memory: 12)": [
             "0.3180000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (Node: kx.s.large, vCPU: 2, Memory: 12)": [
             "0.3180000000"
         ],
-        "EU (London)": [
+        "EU (London) (Node: kx.s.large, vCPU: 2, Memory: 12)": [
             "0.3700000000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (Node: kx.s.large, vCPU: 2, Memory: 12)": [
             "0.3180000000"
         ],
-        "EU (Frankfurt)": [
+        "EU (Frankfurt) (Node: kx.s.large, vCPU: 2, Memory: 12)": [
             "0.3800000000"
         ],
-        "Canada (Central)": [
+        "Canada (Central) (Node: kx.s.large, vCPU: 2, Memory: 12)": [
             "0.3180000000"
         ],
-        "Asia Pacific (Tokyo)": [
+        "Asia Pacific (Tokyo) (Node: kx.s.large, vCPU: 2, Memory: 12)": [
             "0.3800000000"
         ],
-        "Asia Pacific (Sydney)": [
+        "Asia Pacific (Sydney) (Node: kx.s.large, vCPU: 2, Memory: 12)": [
             "0.3780000000"
         ],
-        "Asia Pacific (Singapore)": [
+        "Asia Pacific (Singapore) (Node: kx.s.large, vCPU: 2, Memory: 12)": [
             "0.3800000000"
         ]
     },
     "kx s.8xlarge RunClusterMultiAz": {
-        "Regionless": [
+        "Default": [
             "5.0400000000"
         ],
-        "US West (Oregon)": [
+        "US West (Oregon) (Node: kx.s.8xlarge, vCPU: 32, Memory: 216)": [
             "5.0400000000"
         ],
-        "US East (Ohio)": [
+        "US East (Ohio) (Node: kx.s.8xlarge, vCPU: 32, Memory: 216)": [
             "5.0400000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (Node: kx.s.8xlarge, vCPU: 32, Memory: 216)": [
             "5.0400000000"
         ],
-        "EU (London)": [
+        "EU (London) (Node: kx.s.8xlarge, vCPU: 32, Memory: 216)": [
             "5.9200000000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (Node: kx.s.8xlarge, vCPU: 32, Memory: 216)": [
             "5.0400000000"
         ],
-        "EU (Frankfurt)": [
+        "EU (Frankfurt) (Node: kx.s.8xlarge, vCPU: 32, Memory: 216)": [
             "6.0800000000"
         ],
-        "Canada (Central)": [
+        "Canada (Central) (Node: kx.s.8xlarge, vCPU: 32, Memory: 216)": [
             "5.0400000000"
         ],
-        "Asia Pacific (Tokyo)": [
+        "Asia Pacific (Tokyo) (Node: kx.s.8xlarge, vCPU: 32, Memory: 216)": [
             "6.0800000000"
         ],
-        "Asia Pacific (Sydney)": [
+        "Asia Pacific (Sydney) (Node: kx.s.8xlarge, vCPU: 32, Memory: 216)": [
             "6.0400000000"
         ],
-        "Asia Pacific (Singapore)": [
+        "Asia Pacific (Singapore) (Node: kx.s.8xlarge, vCPU: 32, Memory: 216)": [
             "6.0800000000"
         ]
     },
     "kx sg1.16xlarge RunClusterSingleAz": {
-        "Regionless": [
+        "Default": [
             "33.3450000000"
         ],
-        "US West (Oregon)": [
+        "US West (Oregon) (Node: kx.sg1.16xlarge, vCPU: 64, Memory: 1949)": [
             "33.3450000000"
         ],
-        "US East (Ohio)": [
+        "US East (Ohio) (Node: kx.sg1.16xlarge, vCPU: 64, Memory: 1949)": [
             "33.3450000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (Node: kx.sg1.16xlarge, vCPU: 64, Memory: 1949)": [
             "33.3450000000"
         ],
-        "EU (London)": [
+        "EU (London) (Node: kx.sg1.16xlarge, vCPU: 64, Memory: 1949)": [
             "42.0150000000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (Node: kx.sg1.16xlarge, vCPU: 64, Memory: 1949)": [
             "40.0150000000"
         ],
-        "EU (Frankfurt)": [
+        "EU (Frankfurt) (Node: kx.sg1.16xlarge, vCPU: 64, Memory: 1949)": [
             "46.6850000000"
         ],
-        "Canada (Central)": [
+        "Canada (Central) (Node: kx.sg1.16xlarge, vCPU: 64, Memory: 1949)": [
             "36.6800000000"
         ],
-        "Asia Pacific (Tokyo)": [
+        "Asia Pacific (Tokyo) (Node: kx.sg1.16xlarge, vCPU: 64, Memory: 1949)": [
             "48.3530000000"
         ],
-        "Asia Pacific (Sydney)": [
+        "Asia Pacific (Sydney) (Node: kx.sg1.16xlarge, vCPU: 64, Memory: 1949)": [
             "48.3530000000"
         ],
-        "Asia Pacific (Singapore)": [
+        "Asia Pacific (Singapore) (Node: kx.sg1.16xlarge, vCPU: 64, Memory: 1949)": [
             "48.3530000000"
         ]
     },
     "DataStored Changeset from 0 to Inf": {
-        "Regionless": [
+        "Default": [
             "0.0264000000"
         ],
         "US West (Oregon)": [
@@ -440,7 +930,7 @@
         ]
     },
     "DataStored from 0 to Inf": {
-        "Regionless": [
+        "Default": [
             "0.0264000000"
         ],
         "US West (Oregon)": [
@@ -475,7 +965,7 @@
         ]
     },
     "RunCluster Medium": {
-        "Regionless": [
+        "Default": [
             "0.2500000000"
         ],
         "US West (Oregon)": [
@@ -495,147 +985,147 @@
         ]
     },
     "kx sg.2xlarge RunClusterSingleAz": {
-        "Regionless": [
+        "Default": [
             "1.2600000000"
         ],
-        "US West (Oregon)": [
+        "US West (Oregon) (Node: kx.sg.2xlarge, vCPU: 8, Memory: 54)": [
             "1.2600000000"
         ],
-        "US East (Ohio)": [
+        "US East (Ohio) (Node: kx.sg.2xlarge, vCPU: 8, Memory: 54)": [
             "1.2600000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (Node: kx.sg.2xlarge, vCPU: 8, Memory: 54)": [
             "1.2600000000"
         ],
-        "EU (London)": [
+        "EU (London) (Node: kx.sg.2xlarge, vCPU: 8, Memory: 54)": [
             "1.4800000000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (Node: kx.sg.2xlarge, vCPU: 8, Memory: 54)": [
             "1.2600000000"
         ],
-        "EU (Frankfurt)": [
+        "EU (Frankfurt) (Node: kx.sg.2xlarge, vCPU: 8, Memory: 54)": [
             "1.5200000000"
         ],
-        "Canada (Central)": [
+        "Canada (Central) (Node: kx.sg.2xlarge, vCPU: 8, Memory: 54)": [
             "1.2600000000"
         ],
-        "Asia Pacific (Tokyo)": [
+        "Asia Pacific (Tokyo) (Node: kx.sg.2xlarge, vCPU: 8, Memory: 54)": [
             "1.5200000000"
         ],
-        "Asia Pacific (Sydney)": [
+        "Asia Pacific (Sydney) (Node: kx.sg.2xlarge, vCPU: 8, Memory: 54)": [
             "1.5100000000"
         ],
-        "Asia Pacific (Singapore)": [
+        "Asia Pacific (Singapore) (Node: kx.sg.2xlarge, vCPU: 8, Memory: 54)": [
             "1.5200000000"
         ]
     },
     "kx sg.xlarge RunClusterSingleAz": {
-        "Regionless": [
+        "Default": [
             "0.6300000000"
         ],
-        "US West (Oregon)": [
+        "US West (Oregon) (Node: kx.sg.xlarge, vCPU: 4, Memory: 27)": [
             "0.6300000000"
         ],
-        "US East (Ohio)": [
+        "US East (Ohio) (Node: kx.sg.xlarge, vCPU: 4, Memory: 27)": [
             "0.6300000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (Node: kx.sg.xlarge, vCPU: 4, Memory: 27)": [
             "0.6300000000"
         ],
-        "EU (London)": [
+        "EU (London) (Node: kx.sg.xlarge, vCPU: 4, Memory: 27)": [
             "0.7400000000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (Node: kx.sg.xlarge, vCPU: 4, Memory: 27)": [
             "0.6300000000"
         ],
-        "EU (Frankfurt)": [
+        "EU (Frankfurt) (Node: kx.sg.xlarge, vCPU: 4, Memory: 27)": [
             "0.7600000000"
         ],
-        "Canada (Central)": [
+        "Canada (Central) (Node: kx.sg.xlarge, vCPU: 4, Memory: 27)": [
             "0.6300000000"
         ],
-        "Asia Pacific (Tokyo)": [
+        "Asia Pacific (Tokyo) (Node: kx.sg.xlarge, vCPU: 4, Memory: 27)": [
             "0.7600000000"
         ],
-        "Asia Pacific (Sydney)": [
+        "Asia Pacific (Sydney) (Node: kx.sg.xlarge, vCPU: 4, Memory: 27)": [
             "0.7550000000"
         ],
-        "Asia Pacific (Singapore)": [
+        "Asia Pacific (Singapore) (Node: kx.sg.xlarge, vCPU: 4, Memory: 27)": [
             "0.7600000000"
         ]
     },
     "kx s.2xlarge RunClusterSingleAz": {
-        "Regionless": [
+        "Default": [
             "1.2600000000"
         ],
-        "US West (Oregon)": [
+        "US West (Oregon) (Node: kx.s.2xlarge, vCPU: 8, Memory: 54)": [
             "1.2600000000"
         ],
-        "US East (Ohio)": [
+        "US East (Ohio) (Node: kx.s.2xlarge, vCPU: 8, Memory: 54)": [
             "1.2600000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (Node: kx.s.2xlarge, vCPU: 8, Memory: 54)": [
             "1.2600000000"
         ],
-        "EU (London)": [
+        "EU (London) (Node: kx.s.2xlarge, vCPU: 8, Memory: 54)": [
             "1.4800000000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (Node: kx.s.2xlarge, vCPU: 8, Memory: 54)": [
             "1.2600000000"
         ],
-        "EU (Frankfurt)": [
+        "EU (Frankfurt) (Node: kx.s.2xlarge, vCPU: 8, Memory: 54)": [
             "1.5200000000"
         ],
-        "Canada (Central)": [
+        "Canada (Central) (Node: kx.s.2xlarge, vCPU: 8, Memory: 54)": [
             "1.2600000000"
         ],
-        "Asia Pacific (Tokyo)": [
+        "Asia Pacific (Tokyo) (Node: kx.s.2xlarge, vCPU: 8, Memory: 54)": [
             "1.5200000000"
         ],
-        "Asia Pacific (Sydney)": [
+        "Asia Pacific (Sydney) (Node: kx.s.2xlarge, vCPU: 8, Memory: 54)": [
             "1.5100000000"
         ],
-        "Asia Pacific (Singapore)": [
+        "Asia Pacific (Singapore) (Node: kx.s.2xlarge, vCPU: 8, Memory: 54)": [
             "1.5200000000"
         ]
     },
     "kx sg.large RunClusterSingleAz": {
-        "Regionless": [
+        "Default": [
             "0.3180000000"
         ],
-        "US West (Oregon)": [
+        "US West (Oregon) (Node: kx.sg.large, vCPU: 2, Memory: 12)": [
             "0.3180000000"
         ],
-        "US East (Ohio)": [
+        "US East (Ohio) (Node: kx.sg.large, vCPU: 2, Memory: 12)": [
             "0.3180000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (Node: kx.sg.large, vCPU: 2, Memory: 12)": [
             "0.3180000000"
         ],
-        "EU (London)": [
+        "EU (London) (Node: kx.sg.large, vCPU: 2, Memory: 12)": [
             "0.3700000000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (Node: kx.sg.large, vCPU: 2, Memory: 12)": [
             "0.3180000000"
         ],
-        "EU (Frankfurt)": [
+        "EU (Frankfurt) (Node: kx.sg.large, vCPU: 2, Memory: 12)": [
             "0.3800000000"
         ],
-        "Canada (Central)": [
+        "Canada (Central) (Node: kx.sg.large, vCPU: 2, Memory: 12)": [
             "0.3180000000"
         ],
-        "Asia Pacific (Tokyo)": [
+        "Asia Pacific (Tokyo) (Node: kx.sg.large, vCPU: 2, Memory: 12)": [
             "0.3800000000"
         ],
-        "Asia Pacific (Sydney)": [
+        "Asia Pacific (Sydney) (Node: kx.sg.large, vCPU: 2, Memory: 12)": [
             "0.3780000000"
         ],
-        "Asia Pacific (Singapore)": [
+        "Asia Pacific (Singapore) (Node: kx.sg.large, vCPU: 2, Memory: 12)": [
             "0.3800000000"
         ]
     },
     "UserEnabled": {
-        "Regionless": [
+        "Default": [
             "150.0000000000"
         ],
         "US West (Oregon)": [
@@ -655,42 +1145,42 @@
         ]
     },
     "kx s.large RunClusterSingleAz": {
-        "Regionless": [
+        "Default": [
             "0.3180000000"
         ],
-        "US West (Oregon)": [
+        "US West (Oregon) (Node: kx.s.large, vCPU: 2, Memory: 12)": [
             "0.3180000000"
         ],
-        "US East (Ohio)": [
+        "US East (Ohio) (Node: kx.s.large, vCPU: 2, Memory: 12)": [
             "0.3180000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (Node: kx.s.large, vCPU: 2, Memory: 12)": [
             "0.3180000000"
         ],
-        "EU (London)": [
+        "EU (London) (Node: kx.s.large, vCPU: 2, Memory: 12)": [
             "0.3700000000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (Node: kx.s.large, vCPU: 2, Memory: 12)": [
             "0.3180000000"
         ],
-        "EU (Frankfurt)": [
+        "EU (Frankfurt) (Node: kx.s.large, vCPU: 2, Memory: 12)": [
             "0.3800000000"
         ],
-        "Canada (Central)": [
+        "Canada (Central) (Node: kx.s.large, vCPU: 2, Memory: 12)": [
             "0.3180000000"
         ],
-        "Asia Pacific (Tokyo)": [
+        "Asia Pacific (Tokyo) (Node: kx.s.large, vCPU: 2, Memory: 12)": [
             "0.3800000000"
         ],
-        "Asia Pacific (Sydney)": [
+        "Asia Pacific (Sydney) (Node: kx.s.large, vCPU: 2, Memory: 12)": [
             "0.3780000000"
         ],
-        "Asia Pacific (Singapore)": [
+        "Asia Pacific (Singapore) (Node: kx.s.large, vCPU: 2, Memory: 12)": [
             "0.3800000000"
         ]
     },
     "StorageProvisioned SaveDownStorage from 0 to Inf": {
-        "Regionless": [
+        "Default": [
             "0.3328000000"
         ],
         "US West (Oregon)": [
@@ -725,7 +1215,7 @@
         ]
     },
     "StorageProvisioned DBCache250 from 0 to Inf": {
-        "Regionless": [
+        "Default": [
             "0.2100000000"
         ],
         "US West (Oregon)": [
@@ -760,7 +1250,7 @@
         ]
     },
     "StorageProvisioned DBCache12 from 0 to Inf": {
-        "Regionless": [
+        "Default": [
             "0.0410000000"
         ],
         "US West (Oregon)": [
@@ -795,287 +1285,287 @@
         ]
     },
     "kx sg.8xlarge RunClusterSingleAz": {
-        "Regionless": [
+        "Default": [
             "5.0400000000"
         ],
-        "US West (Oregon)": [
+        "US West (Oregon) (Node: kx.sg.8xlarge, vCPU: 32, Memory: 216)": [
             "5.0400000000"
         ],
-        "US East (Ohio)": [
+        "US East (Ohio) (Node: kx.sg.8xlarge, vCPU: 32, Memory: 216)": [
             "5.0400000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (Node: kx.sg.8xlarge, vCPU: 32, Memory: 216)": [
             "5.0400000000"
         ],
-        "EU (London)": [
+        "EU (London) (Node: kx.sg.8xlarge, vCPU: 32, Memory: 216)": [
             "5.9200000000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (Node: kx.sg.8xlarge, vCPU: 32, Memory: 216)": [
             "5.0400000000"
         ],
-        "EU (Frankfurt)": [
+        "EU (Frankfurt) (Node: kx.sg.8xlarge, vCPU: 32, Memory: 216)": [
             "6.0800000000"
         ],
-        "Canada (Central)": [
+        "Canada (Central) (Node: kx.sg.8xlarge, vCPU: 32, Memory: 216)": [
             "5.0400000000"
         ],
-        "Asia Pacific (Tokyo)": [
+        "Asia Pacific (Tokyo) (Node: kx.sg.8xlarge, vCPU: 32, Memory: 216)": [
             "6.0800000000"
         ],
-        "Asia Pacific (Sydney)": [
+        "Asia Pacific (Sydney) (Node: kx.sg.8xlarge, vCPU: 32, Memory: 216)": [
             "6.0400000000"
         ],
-        "Asia Pacific (Singapore)": [
+        "Asia Pacific (Singapore) (Node: kx.sg.8xlarge, vCPU: 32, Memory: 216)": [
             "6.0800000000"
         ]
     },
     "kx s.8xlarge RunClusterSingleAz": {
-        "Regionless": [
+        "Default": [
             "5.0400000000"
         ],
-        "US West (Oregon)": [
+        "US West (Oregon) (Node: kx.s.8xlarge, vCPU: 32, Memory: 216)": [
             "5.0400000000"
         ],
-        "US East (Ohio)": [
+        "US East (Ohio) (Node: kx.s.8xlarge, vCPU: 32, Memory: 216)": [
             "5.0400000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (Node: kx.s.8xlarge, vCPU: 32, Memory: 216)": [
             "5.0400000000"
         ],
-        "EU (London)": [
+        "EU (London) (Node: kx.s.8xlarge, vCPU: 32, Memory: 216)": [
             "5.9200000000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (Node: kx.s.8xlarge, vCPU: 32, Memory: 216)": [
             "5.0400000000"
         ],
-        "EU (Frankfurt)": [
+        "EU (Frankfurt) (Node: kx.s.8xlarge, vCPU: 32, Memory: 216)": [
             "6.0800000000"
         ],
-        "Canada (Central)": [
+        "Canada (Central) (Node: kx.s.8xlarge, vCPU: 32, Memory: 216)": [
             "5.0400000000"
         ],
-        "Asia Pacific (Tokyo)": [
+        "Asia Pacific (Tokyo) (Node: kx.s.8xlarge, vCPU: 32, Memory: 216)": [
             "6.0800000000"
         ],
-        "Asia Pacific (Sydney)": [
+        "Asia Pacific (Sydney) (Node: kx.s.8xlarge, vCPU: 32, Memory: 216)": [
             "6.0400000000"
         ],
-        "Asia Pacific (Singapore)": [
+        "Asia Pacific (Singapore) (Node: kx.s.8xlarge, vCPU: 32, Memory: 216)": [
             "6.0800000000"
         ]
     },
     "kx s.16xlarge RunClusterSingleAz": {
-        "Regionless": [
+        "Default": [
             "10.0800000000"
         ],
-        "US West (Oregon)": [
+        "US West (Oregon) (Node: kx.s.16xlarge, vCPU: 64, Memory: 432)": [
             "10.0800000000"
         ],
-        "US East (Ohio)": [
+        "US East (Ohio) (Node: kx.s.16xlarge, vCPU: 64, Memory: 432)": [
             "10.0800000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (Node: kx.s.16xlarge, vCPU: 64, Memory: 432)": [
             "10.0800000000"
         ],
-        "EU (London)": [
+        "EU (London) (Node: kx.s.16xlarge, vCPU: 64, Memory: 432)": [
             "11.8400000000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (Node: kx.s.16xlarge, vCPU: 64, Memory: 432)": [
             "10.0800000000"
         ],
-        "EU (Frankfurt)": [
+        "EU (Frankfurt) (Node: kx.s.16xlarge, vCPU: 64, Memory: 432)": [
             "12.1600000000"
         ],
-        "Canada (Central)": [
+        "Canada (Central) (Node: kx.s.16xlarge, vCPU: 64, Memory: 432)": [
             "10.0800000000"
         ],
-        "Asia Pacific (Tokyo)": [
+        "Asia Pacific (Tokyo) (Node: kx.s.16xlarge, vCPU: 64, Memory: 432)": [
             "12.1600000000"
         ],
-        "Asia Pacific (Sydney)": [
+        "Asia Pacific (Sydney) (Node: kx.s.16xlarge, vCPU: 64, Memory: 432)": [
             "12.0800000000"
         ],
-        "Asia Pacific (Singapore)": [
+        "Asia Pacific (Singapore) (Node: kx.s.16xlarge, vCPU: 64, Memory: 432)": [
             "12.1600000000"
         ]
     },
     "kx s.32xlarge RunClusterSingleAz": {
-        "Regionless": [
+        "Default": [
             "20.1600000000"
         ],
-        "US West (Oregon)": [
+        "US West (Oregon) (Node: kx.s.32xlarge, vCPU: 128, Memory: 864)": [
             "20.1600000000"
         ],
-        "US East (Ohio)": [
+        "US East (Ohio) (Node: kx.s.32xlarge, vCPU: 128, Memory: 864)": [
             "20.1600000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (Node: kx.s.32xlarge, vCPU: 128, Memory: 864)": [
             "20.1600000000"
         ],
-        "EU (London)": [
+        "EU (London) (Node: kx.s.32xlarge, vCPU: 128, Memory: 864)": [
             "23.6800000000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (Node: kx.s.32xlarge, vCPU: 128, Memory: 864)": [
             "20.1600000000"
         ],
-        "EU (Frankfurt)": [
+        "EU (Frankfurt) (Node: kx.s.32xlarge, vCPU: 128, Memory: 864)": [
             "24.3200000000"
         ],
-        "Canada (Central)": [
+        "Canada (Central) (Node: kx.s.32xlarge, vCPU: 128, Memory: 864)": [
             "20.1600000000"
         ],
-        "Asia Pacific (Tokyo)": [
+        "Asia Pacific (Tokyo) (Node: kx.s.32xlarge, vCPU: 128, Memory: 864)": [
             "24.3200000000"
         ],
-        "Asia Pacific (Sydney)": [
+        "Asia Pacific (Sydney) (Node: kx.s.32xlarge, vCPU: 128, Memory: 864)": [
             "24.1600000000"
         ],
-        "Asia Pacific (Singapore)": [
+        "Asia Pacific (Singapore) (Node: kx.s.32xlarge, vCPU: 128, Memory: 864)": [
             "24.3200000000"
         ]
     },
     "kx s.xlarge RunClusterMultiAz": {
-        "Regionless": [
+        "Default": [
             "0.6300000000"
         ],
-        "US West (Oregon)": [
+        "US West (Oregon) (Node: kx.s.xlarge, vCPU: 4, Memory: 27)": [
             "0.6300000000"
         ],
-        "US East (Ohio)": [
+        "US East (Ohio) (Node: kx.s.xlarge, vCPU: 4, Memory: 27)": [
             "0.6300000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (Node: kx.s.xlarge, vCPU: 4, Memory: 27)": [
             "0.6300000000"
         ],
-        "EU (London)": [
+        "EU (London) (Node: kx.s.xlarge, vCPU: 4, Memory: 27)": [
             "0.7400000000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (Node: kx.s.xlarge, vCPU: 4, Memory: 27)": [
             "0.6300000000"
         ],
-        "EU (Frankfurt)": [
+        "EU (Frankfurt) (Node: kx.s.xlarge, vCPU: 4, Memory: 27)": [
             "0.7600000000"
         ],
-        "Canada (Central)": [
+        "Canada (Central) (Node: kx.s.xlarge, vCPU: 4, Memory: 27)": [
             "0.6300000000"
         ],
-        "Asia Pacific (Tokyo)": [
+        "Asia Pacific (Tokyo) (Node: kx.s.xlarge, vCPU: 4, Memory: 27)": [
             "0.7600000000"
         ],
-        "Asia Pacific (Sydney)": [
+        "Asia Pacific (Sydney) (Node: kx.s.xlarge, vCPU: 4, Memory: 27)": [
             "0.7550000000"
         ],
-        "Asia Pacific (Singapore)": [
+        "Asia Pacific (Singapore) (Node: kx.s.xlarge, vCPU: 4, Memory: 27)": [
             "0.7600000000"
         ]
     },
     "kx sg.16xlarge RunClusterSingleAz": {
-        "Regionless": [
+        "Default": [
             "10.0800000000"
         ],
-        "US West (Oregon)": [
+        "US West (Oregon) (Node: kx.sg.16xlarge, vCPU: 64, Memory: 432)": [
             "10.0800000000"
         ],
-        "US East (Ohio)": [
+        "US East (Ohio) (Node: kx.sg.16xlarge, vCPU: 64, Memory: 432)": [
             "10.0800000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (Node: kx.sg.16xlarge, vCPU: 64, Memory: 432)": [
             "10.0800000000"
         ],
-        "EU (London)": [
+        "EU (London) (Node: kx.sg.16xlarge, vCPU: 64, Memory: 432)": [
             "11.8400000000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (Node: kx.sg.16xlarge, vCPU: 64, Memory: 432)": [
             "10.0800000000"
         ],
-        "EU (Frankfurt)": [
+        "EU (Frankfurt) (Node: kx.sg.16xlarge, vCPU: 64, Memory: 432)": [
             "12.1600000000"
         ],
-        "Canada (Central)": [
+        "Canada (Central) (Node: kx.sg.16xlarge, vCPU: 64, Memory: 432)": [
             "10.0800000000"
         ],
-        "Asia Pacific (Tokyo)": [
+        "Asia Pacific (Tokyo) (Node: kx.sg.16xlarge, vCPU: 64, Memory: 432)": [
             "12.1600000000"
         ],
-        "Asia Pacific (Sydney)": [
+        "Asia Pacific (Sydney) (Node: kx.sg.16xlarge, vCPU: 64, Memory: 432)": [
             "12.0800000000"
         ],
-        "Asia Pacific (Singapore)": [
+        "Asia Pacific (Singapore) (Node: kx.sg.16xlarge, vCPU: 64, Memory: 432)": [
             "12.1600000000"
         ]
     },
     "kx sg.32xlarge RunClusterSingleAz": {
-        "Regionless": [
+        "Default": [
             "20.1600000000"
         ],
-        "US West (Oregon)": [
+        "US West (Oregon) (Node: kx.sg.32xlarge, vCPU: 128, Memory: 864)": [
             "20.1600000000"
         ],
-        "US East (Ohio)": [
+        "US East (Ohio) (Node: kx.sg.32xlarge, vCPU: 128, Memory: 864)": [
             "20.1600000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (Node: kx.sg.32xlarge, vCPU: 128, Memory: 864)": [
             "20.1600000000"
         ],
-        "EU (London)": [
+        "EU (London) (Node: kx.sg.32xlarge, vCPU: 128, Memory: 864)": [
             "23.6800000000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (Node: kx.sg.32xlarge, vCPU: 128, Memory: 864)": [
             "20.1600000000"
         ],
-        "EU (Frankfurt)": [
+        "EU (Frankfurt) (Node: kx.sg.32xlarge, vCPU: 128, Memory: 864)": [
             "24.3200000000"
         ],
-        "Canada (Central)": [
+        "Canada (Central) (Node: kx.sg.32xlarge, vCPU: 128, Memory: 864)": [
             "20.1600000000"
         ],
-        "Asia Pacific (Tokyo)": [
+        "Asia Pacific (Tokyo) (Node: kx.sg.32xlarge, vCPU: 128, Memory: 864)": [
             "24.3200000000"
         ],
-        "Asia Pacific (Sydney)": [
+        "Asia Pacific (Sydney) (Node: kx.sg.32xlarge, vCPU: 128, Memory: 864)": [
             "24.1600000000"
         ],
-        "Asia Pacific (Singapore)": [
+        "Asia Pacific (Singapore) (Node: kx.sg.32xlarge, vCPU: 128, Memory: 864)": [
             "24.3200000000"
         ]
     },
     "kx sg.4xlarge RunClusterSingleAz": {
-        "Regionless": [
+        "Default": [
             "2.5200000000"
         ],
-        "US West (Oregon)": [
+        "US West (Oregon) (Node: kx.sg.4xlarge, vCPU: 16, Memory: 108)": [
             "2.5200000000"
         ],
-        "US East (Ohio)": [
+        "US East (Ohio) (Node: kx.sg.4xlarge, vCPU: 16, Memory: 108)": [
             "2.5200000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (Node: kx.sg.4xlarge, vCPU: 16, Memory: 108)": [
             "2.5200000000"
         ],
-        "EU (London)": [
+        "EU (London) (Node: kx.sg.4xlarge, vCPU: 16, Memory: 108)": [
             "2.9600000000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (Node: kx.sg.4xlarge, vCPU: 16, Memory: 108)": [
             "2.5200000000"
         ],
-        "EU (Frankfurt)": [
+        "EU (Frankfurt) (Node: kx.sg.4xlarge, vCPU: 16, Memory: 108)": [
             "3.0400000000"
         ],
-        "Canada (Central)": [
+        "Canada (Central) (Node: kx.sg.4xlarge, vCPU: 16, Memory: 108)": [
             "2.5200000000"
         ],
-        "Asia Pacific (Tokyo)": [
+        "Asia Pacific (Tokyo) (Node: kx.sg.4xlarge, vCPU: 16, Memory: 108)": [
             "3.0400000000"
         ],
-        "Asia Pacific (Sydney)": [
+        "Asia Pacific (Sydney) (Node: kx.sg.4xlarge, vCPU: 16, Memory: 108)": [
             "3.0200000000"
         ],
-        "Asia Pacific (Singapore)": [
+        "Asia Pacific (Singapore) (Node: kx.sg.4xlarge, vCPU: 16, Memory: 108)": [
             "3.0400000000"
         ]
     },
     "DataStored Changeset from 0 to 150": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -1095,7 +1585,7 @@
         ]
     },
     "DataStored from 0 to 150": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -1115,42 +1605,42 @@
         ]
     },
     "kx s.xlarge RunClusterSingleAz": {
-        "Regionless": [
+        "Default": [
             "0.6300000000"
         ],
-        "US West (Oregon)": [
+        "US West (Oregon) (Node: kx.s.xlarge, vCPU: 4, Memory: 27)": [
             "0.6300000000"
         ],
-        "US East (Ohio)": [
+        "US East (Ohio) (Node: kx.s.xlarge, vCPU: 4, Memory: 27)": [
             "0.6300000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (Node: kx.s.xlarge, vCPU: 4, Memory: 27)": [
             "0.6300000000"
         ],
-        "EU (London)": [
+        "EU (London) (Node: kx.s.xlarge, vCPU: 4, Memory: 27)": [
             "0.7400000000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (Node: kx.s.xlarge, vCPU: 4, Memory: 27)": [
             "0.6300000000"
         ],
-        "EU (Frankfurt)": [
+        "EU (Frankfurt) (Node: kx.s.xlarge, vCPU: 4, Memory: 27)": [
             "0.7600000000"
         ],
-        "Canada (Central)": [
+        "Canada (Central) (Node: kx.s.xlarge, vCPU: 4, Memory: 27)": [
             "0.6300000000"
         ],
-        "Asia Pacific (Tokyo)": [
+        "Asia Pacific (Tokyo) (Node: kx.s.xlarge, vCPU: 4, Memory: 27)": [
             "0.7600000000"
         ],
-        "Asia Pacific (Sydney)": [
+        "Asia Pacific (Sydney) (Node: kx.s.xlarge, vCPU: 4, Memory: 27)": [
             "0.7550000000"
         ],
-        "Asia Pacific (Singapore)": [
+        "Asia Pacific (Singapore) (Node: kx.s.xlarge, vCPU: 4, Memory: 27)": [
             "0.7600000000"
         ]
     },
     "RunCluster Small": {
-        "Regionless": [
+        "Default": [
             "0.1400000000"
         ],
         "US West (Oregon)": [
@@ -1170,42 +1660,42 @@
         ]
     },
     "kx s.16xlarge RunClusterMultiAz": {
-        "Regionless": [
+        "Default": [
             "10.0800000000"
         ],
-        "US West (Oregon)": [
+        "US West (Oregon) (Node: kx.s.16xlarge, vCPU: 64, Memory: 432)": [
             "10.0800000000"
         ],
-        "US East (Ohio)": [
+        "US East (Ohio) (Node: kx.s.16xlarge, vCPU: 64, Memory: 432)": [
             "10.0800000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (Node: kx.s.16xlarge, vCPU: 64, Memory: 432)": [
             "10.0800000000"
         ],
-        "EU (London)": [
+        "EU (London) (Node: kx.s.16xlarge, vCPU: 64, Memory: 432)": [
             "11.8400000000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (Node: kx.s.16xlarge, vCPU: 64, Memory: 432)": [
             "10.0800000000"
         ],
-        "EU (Frankfurt)": [
+        "EU (Frankfurt) (Node: kx.s.16xlarge, vCPU: 64, Memory: 432)": [
             "12.1600000000"
         ],
-        "Canada (Central)": [
+        "Canada (Central) (Node: kx.s.16xlarge, vCPU: 64, Memory: 432)": [
             "10.0800000000"
         ],
-        "Asia Pacific (Tokyo)": [
+        "Asia Pacific (Tokyo) (Node: kx.s.16xlarge, vCPU: 64, Memory: 432)": [
             "12.1600000000"
         ],
-        "Asia Pacific (Sydney)": [
+        "Asia Pacific (Sydney) (Node: kx.s.16xlarge, vCPU: 64, Memory: 432)": [
             "12.0800000000"
         ],
-        "Asia Pacific (Singapore)": [
+        "Asia Pacific (Singapore) (Node: kx.s.16xlarge, vCPU: 64, Memory: 432)": [
             "12.1600000000"
         ]
     },
     "StorageProvisioned DBCache from 0 to Inf": {
-        "Regionless": [
+        "Default": [
             "0.7200000000"
         ],
         "US West (Oregon)": [
@@ -1240,7 +1730,7 @@
         ]
     },
     "RunCluster Large": {
-        "Regionless": [
+        "Default": [
             "0.5000000000"
         ],
         "US West (Oregon)": [
@@ -1260,42 +1750,42 @@
         ]
     },
     "kx s.4xlarge RunClusterMultiAz": {
-        "Regionless": [
+        "Default": [
             "2.5200000000"
         ],
-        "US West (Oregon)": [
+        "US West (Oregon) (Node: kx.s.4xlarge, vCPU: 16, Memory: 108)": [
             "2.5200000000"
         ],
-        "US East (Ohio)": [
+        "US East (Ohio) (Node: kx.s.4xlarge, vCPU: 16, Memory: 108)": [
             "2.5200000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (Node: kx.s.4xlarge, vCPU: 16, Memory: 108)": [
             "2.5200000000"
         ],
-        "EU (London)": [
+        "EU (London) (Node: kx.s.4xlarge, vCPU: 16, Memory: 108)": [
             "2.9600000000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (Node: kx.s.4xlarge, vCPU: 16, Memory: 108)": [
             "2.5200000000"
         ],
-        "EU (Frankfurt)": [
+        "EU (Frankfurt) (Node: kx.s.4xlarge, vCPU: 16, Memory: 108)": [
             "3.0400000000"
         ],
-        "Canada (Central)": [
+        "Canada (Central) (Node: kx.s.4xlarge, vCPU: 16, Memory: 108)": [
             "2.5200000000"
         ],
-        "Asia Pacific (Tokyo)": [
+        "Asia Pacific (Tokyo) (Node: kx.s.4xlarge, vCPU: 16, Memory: 108)": [
             "3.0400000000"
         ],
-        "Asia Pacific (Sydney)": [
+        "Asia Pacific (Sydney) (Node: kx.s.4xlarge, vCPU: 16, Memory: 108)": [
             "3.0200000000"
         ],
-        "Asia Pacific (Singapore)": [
+        "Asia Pacific (Singapore) (Node: kx.s.4xlarge, vCPU: 16, Memory: 108)": [
             "3.0400000000"
         ]
     },
     "StorageProvisioned SSD 250 MB s/TiB from 0 to Inf": {
-        "Regionless": [
+        "Default": [
             "0.2100000000"
         ],
         "US West (Oregon)": [
@@ -1330,7 +1820,7 @@
         ]
     },
     "RunCluster XLarge": {
-        "Regionless": [
+        "Default": [
             "1.0000000000"
         ],
         "US West (Oregon)": [
@@ -1350,7 +1840,7 @@
         ]
     },
     "DataStored Changeset from 150 to Inf": {
-        "Regionless": [
+        "Default": [
             "0.1400000000"
         ],
         "US West (Oregon)": [
@@ -1370,7 +1860,7 @@
         ]
     },
     "DataStored from 150 to Inf": {
-        "Regionless": [
+        "Default": [
             "0.1400000000"
         ],
         "US West (Oregon)": [
@@ -1390,7 +1880,7 @@
         ]
     },
     "StorageProvisioned SSD 1000 MB s/TiB from 0 to Inf": {
-        "Regionless": [
+        "Default": [
             "0.7200000000"
         ],
         "US West (Oregon)": [
@@ -1425,42 +1915,42 @@
         ]
     },
     "kx s.4xlarge RunClusterSingleAz": {
-        "Regionless": [
+        "Default": [
             "2.5200000000"
         ],
-        "US West (Oregon)": [
+        "US West (Oregon) (Node: kx.s.4xlarge, vCPU: 16, Memory: 108)": [
             "2.5200000000"
         ],
-        "US East (Ohio)": [
+        "US East (Ohio) (Node: kx.s.4xlarge, vCPU: 16, Memory: 108)": [
             "2.5200000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (Node: kx.s.4xlarge, vCPU: 16, Memory: 108)": [
             "2.5200000000"
         ],
-        "EU (London)": [
+        "EU (London) (Node: kx.s.4xlarge, vCPU: 16, Memory: 108)": [
             "2.9600000000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (Node: kx.s.4xlarge, vCPU: 16, Memory: 108)": [
             "2.5200000000"
         ],
-        "EU (Frankfurt)": [
+        "EU (Frankfurt) (Node: kx.s.4xlarge, vCPU: 16, Memory: 108)": [
             "3.0400000000"
         ],
-        "Canada (Central)": [
+        "Canada (Central) (Node: kx.s.4xlarge, vCPU: 16, Memory: 108)": [
             "2.5200000000"
         ],
-        "Asia Pacific (Tokyo)": [
+        "Asia Pacific (Tokyo) (Node: kx.s.4xlarge, vCPU: 16, Memory: 108)": [
             "3.0400000000"
         ],
-        "Asia Pacific (Sydney)": [
+        "Asia Pacific (Sydney) (Node: kx.s.4xlarge, vCPU: 16, Memory: 108)": [
             "3.0200000000"
         ],
-        "Asia Pacific (Singapore)": [
+        "Asia Pacific (Singapore) (Node: kx.s.4xlarge, vCPU: 16, Memory: 108)": [
             "3.0400000000"
         ]
     },
     "StorageProvisioned HDD 12 MB s/TiB from 0 to Inf": {
-        "Regionless": [
+        "Default": [
             "0.0410000000"
         ],
         "US West (Oregon)": [
@@ -1495,37 +1985,37 @@
         ]
     },
     "kx s.32xlarge RunClusterMultiAz": {
-        "Regionless": [
+        "Default": [
             "20.1600000000"
         ],
-        "US West (Oregon)": [
+        "US West (Oregon) (Node: kx.s.32xlarge, vCPU: 128, Memory: 864)": [
             "20.1600000000"
         ],
-        "US East (Ohio)": [
+        "US East (Ohio) (Node: kx.s.32xlarge, vCPU: 128, Memory: 864)": [
             "20.1600000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (Node: kx.s.32xlarge, vCPU: 128, Memory: 864)": [
             "20.1600000000"
         ],
-        "EU (London)": [
+        "EU (London) (Node: kx.s.32xlarge, vCPU: 128, Memory: 864)": [
             "23.6800000000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (Node: kx.s.32xlarge, vCPU: 128, Memory: 864)": [
             "20.1600000000"
         ],
-        "EU (Frankfurt)": [
+        "EU (Frankfurt) (Node: kx.s.32xlarge, vCPU: 128, Memory: 864)": [
             "24.3200000000"
         ],
-        "Canada (Central)": [
+        "Canada (Central) (Node: kx.s.32xlarge, vCPU: 128, Memory: 864)": [
             "20.1600000000"
         ],
-        "Asia Pacific (Tokyo)": [
+        "Asia Pacific (Tokyo) (Node: kx.s.32xlarge, vCPU: 128, Memory: 864)": [
             "24.3200000000"
         ],
-        "Asia Pacific (Sydney)": [
+        "Asia Pacific (Sydney) (Node: kx.s.32xlarge, vCPU: 128, Memory: 864)": [
             "24.1600000000"
         ],
-        "Asia Pacific (Singapore)": [
+        "Asia Pacific (Singapore) (Node: kx.s.32xlarge, vCPU: 128, Memory: 864)": [
             "24.3200000000"
         ]
     }

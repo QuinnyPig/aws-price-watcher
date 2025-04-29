@@ -1,6 +1,6 @@
 {
     "DataMatchingFee per DataMatchingFee": {
-        "Regionless": [
+        "Default": [
             "100.0000000000"
         ],
         "US West (Oregon)": [
@@ -35,7 +35,7 @@
         ]
     },
     "DataMatching per RecordsMatched": {
-        "Regionless": [
+        "Default": [
             "0.0005000000"
         ],
         "US West (Oregon)": [
@@ -70,7 +70,7 @@
         ]
     },
     "DataMatchingForCollab per RecordsMatched": {
-        "Regionless": [
+        "Default": [
             "0.0005000000"
         ],
         "US West (Oregon)": [
@@ -105,7 +105,7 @@
         ]
     },
     "EntityResolution per Records": {
-        "Regionless": [
+        "Default": [
             "0.0002500000"
         ],
         "US West (Oregon)": [
@@ -140,7 +140,7 @@
         ]
     },
     "DataMatchingFeeForCollab per DataMatchingFee": {
-        "Regionless": [
+        "Default": [
             "100.0000000000"
         ],
         "US West (Oregon)": [
@@ -175,7 +175,7 @@
         ]
     },
     "ProviderIDMappingForCollab per Records": {
-        "Regionless": [
+        "Default": [
             "0.0001000000"
         ],
         "US West (Oregon)": [
@@ -189,7 +189,7 @@
         ]
     },
     "ProviderIDMapping per Records": {
-        "Regionless": [
+        "Default": [
             "0.0001000000"
         ],
         "US West (Oregon)": [
@@ -203,7 +203,7 @@
         ]
     },
     "DataPreparationForCollab per Records": {
-        "Regionless": [
+        "Default": [
             "0.0001000000"
         ],
         "US West (Oregon)": [
@@ -238,7 +238,7 @@
         ]
     },
     "ProviderEntityResolution per Records": {
-        "Regionless": [
+        "Default": [
             "0.0001000000"
         ],
         "US West (Oregon)": [

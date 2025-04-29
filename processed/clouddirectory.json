@@ -1,6 +1,6 @@
 {
     "Eventually Consistent Read Request per Requests": {
-        "Regionless": [
+        "Default": [
             "0.0000003600"
         ],
         "US West (Oregon)": [
@@ -32,7 +32,7 @@
         ]
     },
     "Write Request and Strongly Consistent Read Request per Requests": {
-        "Regionless": [
+        "Default": [
             "0.0000039000"
         ],
         "US West (Oregon)": [
@@ -64,7 +64,7 @@
         ]
     },
     "Storage Standard per GB-Mo": {
-        "Regionless": [
+        "Default": [
             "0.2300000000"
         ],
         "US West (Oregon)": [

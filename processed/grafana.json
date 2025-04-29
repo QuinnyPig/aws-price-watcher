@@ -1,6 +1,6 @@
 {
     "User Fees Enterprise Plugins User": {
-        "Regionless": [
+        "Default": [
             "45.0000000000"
         ],
         "US West (Oregon)": [
@@ -35,7 +35,7 @@
         ]
     },
     "User Fees User": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -70,7 +70,7 @@
         ]
     },
     "User Fees Editor": {
-        "Regionless": [
+        "Default": [
             "9.0000000000"
         ],
         "US West (Oregon)": [
@@ -105,7 +105,7 @@
         ]
     },
     "User Fees Viewer": {
-        "Regionless": [
+        "Default": [
             "5.0000000000"
         ],
         "US West (Oregon)": [

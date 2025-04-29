@@ -1,6 +1,6 @@
 {
     "Comprehend prompt safety classifier for text from 50M to 100M": {
-        "Regionless": [
+        "Default": [
             "0.0000250000"
         ],
         "US West (Oregon)": [
@@ -17,7 +17,7 @@
         ]
     },
     "Processes PII Analysis in text request from 50M to 100M": {
-        "Regionless": [
+        "Default": [
             "0.0000250000"
         ],
         "US West (Oregon)": [
@@ -64,7 +64,7 @@
         ]
     },
     "Processes PII Analysis in text request over 50M": {
-        "Regionless": [
+        "Default": [
             "0.0000250000"
         ],
         "US West (Oregon)": [
@@ -111,7 +111,7 @@
         ]
     },
     "Processes Custom Classification text request": {
-        "Regionless": [
+        "Default": [
             "0.0005000000"
         ],
         "US West (Oregon)": [
@@ -155,7 +155,7 @@
         ]
     },
     "Processes Entity Analysis text request over 50M": {
-        "Regionless": [
+        "Default": [
             "0.0000250000"
         ],
         "US West (Oregon)": [
@@ -202,7 +202,7 @@
         ]
     },
     "Processes Key Phrase detection text request over 50M": {
-        "Regionless": [
+        "Default": [
             "0.0000250000"
         ],
         "US West (Oregon)": [
@@ -246,7 +246,7 @@
         ]
     },
     "Processes Custom Entity model storage request": {
-        "Regionless": [
+        "Default": [
             "0.5000000000"
         ],
         "US West (Oregon)": [
@@ -290,7 +290,7 @@
         ]
     },
     "Processes Contains PII in text requests over 100M": {
-        "Regionless": [
+        "Default": [
             "0.0000001000"
         ],
         "US West (Oregon)": [
@@ -337,7 +337,7 @@
         ]
     },
     "Processes Sentiment Analysis text request from 10M to 50M": {
-        "Regionless": [
+        "Default": [
             "0.0000500000"
         ],
         "US West (Oregon)": [
@@ -384,7 +384,7 @@
         ]
     },
     "Processes Custom Classification model storage request": {
-        "Regionless": [
+        "Default": [
             "0.5000000000"
         ],
         "US West (Oregon)": [
@@ -428,7 +428,7 @@
         ]
     },
     "Processes Event Analysis text request over 50M": {
-        "Regionless": [
+        "Default": [
             "0.0007500000"
         ],
         "US West (Oregon)": [
@@ -472,7 +472,7 @@
         ]
     },
     "Processes Custom Entity text request": {
-        "Regionless": [
+        "Default": [
             "0.0005000000"
         ],
         "US West (Oregon)": [
@@ -516,7 +516,7 @@
         ]
     },
     "Comprehend toxicity detection for text segments upto 10M": {
-        "Regionless": [
+        "Default": [
             "0.0001000000"
         ],
         "US West (Oregon)": [
@@ -533,7 +533,7 @@
         ]
     },
     "Process Targeted Sentiment text request from 10M to 50M": {
-        "Regionless": [
+        "Default": [
             "0.0000500000"
         ],
         "US West (Oregon)": [
@@ -577,7 +577,7 @@
         ]
     },
     "Processes Contains PII in text requests from 50M to 100M": {
-        "Regionless": [
+        "Default": [
             "0.0000005000"
         ],
         "US West (Oregon)": [
@@ -624,7 +624,7 @@
         ]
     },
     "Processes PII Analysis in text request from 10M to 50M": {
-        "Regionless": [
+        "Default": [
             "0.0000500000"
         ],
         "US West (Oregon)": [
@@ -671,7 +671,7 @@
         ]
     },
     "Processes Sentiment Analysis text request over 50M": {
-        "Regionless": [
+        "Default": [
             "0.0000250000"
         ],
         "US West (Oregon)": [
@@ -718,7 +718,7 @@
         ]
     },
     "Comprehend prompt safety classifier for text over 100M": {
-        "Regionless": [
+        "Default": [
             "0.0000050000"
         ],
         "US West (Oregon)": [
@@ -735,7 +735,7 @@
         ]
     },
     "Processes Event Analysis text request from 10M to 50M": {
-        "Regionless": [
+        "Default": [
             "0.0015000000"
         ],
         "US West (Oregon)": [
@@ -779,7 +779,7 @@
         ]
     },
     "Processes Sentiment Analysis text request upto 10M": {
-        "Regionless": [
+        "Default": [
             "0.0001000000"
         ],
         "US West (Oregon)": [
@@ -826,7 +826,7 @@
         ]
     },
     "Processes Syntax Analysis text request upto 10M": {
-        "Regionless": [
+        "Default": [
             "0.0000500000"
         ],
         "US West (Oregon)": [
@@ -870,7 +870,7 @@
         ]
     },
     "Processes Sync custom classification text request": {
-        "Regionless": [
+        "Default": [
             "0.0005000000"
         ],
         "US West (Oregon)": [
@@ -914,7 +914,7 @@
         ]
     },
     "Processes Custom Entity model training request": {
-        "Regionless": [
+        "Default": [
             "0.0008330000"
         ],
         "US West (Oregon)": [
@@ -958,7 +958,7 @@
         ]
     },
     "Topic Modeling Comprehend-DetectTopic": {
-        "Regionless": [
+        "Default": [
             "1.0000000000"
         ],
         "US West (Oregon)": [
@@ -1002,7 +1002,7 @@
         ]
     },
     "Comprehend prompt safety classifier for text from 10M to 50M": {
-        "Regionless": [
+        "Default": [
             "0.0000500000"
         ],
         "US West (Oregon)": [
@@ -1019,7 +1019,7 @@
         ]
     },
     "Comprehend prompt safety classifier for text upto 10M": {
-        "Regionless": [
+        "Default": [
             "0.0001000000"
         ],
         "US West (Oregon)": [
@@ -1036,7 +1036,7 @@
         ]
     },
     "Comprehend toxicity detection for text segments from 10M to 50M": {
-        "Regionless": [
+        "Default": [
             "0.0000500000"
         ],
         "US West (Oregon)": [
@@ -1053,7 +1053,7 @@
         ]
     },
     "Process Targeted Sentiment text request upto 10M": {
-        "Regionless": [
+        "Default": [
             "0.0001000000"
         ],
         "US West (Oregon)": [
@@ -1097,7 +1097,7 @@
         ]
     },
     "Processes PII Analysis in text request upto 10M": {
-        "Regionless": [
+        "Default": [
             "0.0001000000"
         ],
         "US West (Oregon)": [
@@ -1144,7 +1144,7 @@
         ]
     },
     "Processes Event Analysis text request upto 10M": {
-        "Regionless": [
+        "Default": [
             "0.0030000000"
         ],
         "US West (Oregon)": [
@@ -1188,7 +1188,7 @@
         ]
     },
     "Comprehend toxicity detection for text segments from 50M to 100M": {
-        "Regionless": [
+        "Default": [
             "0.0000250000"
         ],
         "US West (Oregon)": [
@@ -1205,7 +1205,7 @@
         ]
     },
     "Processes PII Analysis in text request over 100M": {
-        "Regionless": [
+        "Default": [
             "0.0000050000"
         ],
         "US West (Oregon)": [
@@ -1252,7 +1252,7 @@
         ]
     },
     "Processes Language Detection text request over 50M": {
-        "Regionless": [
+        "Default": [
             "0.0000250000"
         ],
         "US West (Oregon)": [
@@ -1299,7 +1299,7 @@
         ]
     },
     "Topic Modeling Comprehend-DetectTopic-PerMB": {
-        "Regionless": [
+        "Default": [
             "0.0040000000"
         ],
         "US West (Oregon)": [
@@ -1343,7 +1343,7 @@
         ]
     },
     "Processes Entity Analysis text request upto 10M": {
-        "Regionless": [
+        "Default": [
             "0.0001000000"
         ],
         "US West (Oregon)": [
@@ -1390,7 +1390,7 @@
         ]
     },
     "Processes Sync custom entities text request": {
-        "Regionless": [
+        "Default": [
             "0.0005000000"
         ],
         "US West (Oregon)": [
@@ -1434,7 +1434,7 @@
         ]
     },
     "Comprehend toxicity detection for text segments over 100M": {
-        "Regionless": [
+        "Default": [
             "0.0000050000"
         ],
         "US West (Oregon)": [
@@ -1451,7 +1451,7 @@
         ]
     },
     "Processes Syntax Analysis text request over 50M": {
-        "Regionless": [
+        "Default": [
             "0.0000125000"
         ],
         "US West (Oregon)": [
@@ -1495,7 +1495,7 @@
         ]
     },
     "Processes Entity Analysis text request from 10M to 50M": {
-        "Regionless": [
+        "Default": [
             "0.0000500000"
         ],
         "US West (Oregon)": [
@@ -1542,7 +1542,7 @@
         ]
     },
     "Processes Key Phrase detection text request from 10M to 50M": {
-        "Regionless": [
+        "Default": [
             "0.0000500000"
         ],
         "US West (Oregon)": [
@@ -1586,7 +1586,7 @@
         ]
     },
     "Processes Key Phrase detection text request upto 10M": {
-        "Regionless": [
+        "Default": [
             "0.0001000000"
         ],
         "US West (Oregon)": [
@@ -1630,7 +1630,7 @@
         ]
     },
     "Processes Contains PII in text requests upto 10M": {
-        "Regionless": [
+        "Default": [
             "0.0000020000"
         ],
         "US West (Oregon)": [
@@ -1677,7 +1677,7 @@
         ]
     },
     "Process Targeted Sentiment text request over 50M": {
-        "Regionless": [
+        "Default": [
             "0.0000250000"
         ],
         "US West (Oregon)": [
@@ -1721,7 +1721,7 @@
         ]
     },
     "Processes Language Detection text request from 10M to 50M": {
-        "Regionless": [
+        "Default": [
             "0.0000500000"
         ],
         "US West (Oregon)": [
@@ -1768,7 +1768,7 @@
         ]
     },
     "Processes Syntax Analysis text request from 10M to 50M": {
-        "Regionless": [
+        "Default": [
             "0.0000250000"
         ],
         "US West (Oregon)": [
@@ -1812,7 +1812,7 @@
         ]
     },
     "Processes Custom Classification model training request": {
-        "Regionless": [
+        "Default": [
             "0.0008330000"
         ],
         "US West (Oregon)": [
@@ -1856,7 +1856,7 @@
         ]
     },
     "Topic Modeling Comprehend-DetectTopic-Fixed": {
-        "Regionless": [
+        "Default": [
             "1.0000000000"
         ],
         "US West (Oregon)": [
@@ -1900,7 +1900,7 @@
         ]
     },
     "Processes Contains PII in text requests from 10M to 50M": {
-        "Regionless": [
+        "Default": [
             "0.0000010000"
         ],
         "US West (Oregon)": [
@@ -1947,7 +1947,7 @@
         ]
     },
     "Processes Language Detection text request upto 10M": {
-        "Regionless": [
+        "Default": [
             "0.0001000000"
         ],
         "US West (Oregon)": [

@@ -1,6 +1,6 @@
 {
     "Inactive Pipeline": {
-        "Regionless": [
+        "Default": [
             "1.0000000000"
         ],
         "US West (Oregon)": [
@@ -20,7 +20,7 @@
         ]
     },
     "Active Pipeline running on AWS High Frequency": {
-        "Regionless": [
+        "Default": [
             "1.0000000000"
         ],
         "US West (Oregon)": [
@@ -40,7 +40,7 @@
         ]
     },
     "Active Pipeline running on On-Premise Low Frequency": {
-        "Regionless": [
+        "Default": [
             "1.5000000000"
         ],
         "US West (Oregon)": [
@@ -60,7 +60,7 @@
         ]
     },
     "Active Pipeline running on AWS Low Frequency": {
-        "Regionless": [
+        "Default": [
             "0.6000000000"
         ],
         "US West (Oregon)": [
@@ -80,7 +80,7 @@
         ]
     },
     "Active Pipeline running on On-Premise High Frequency": {
-        "Regionless": [
+        "Default": [
             "2.5000000000"
         ],
         "US West (Oregon)": [

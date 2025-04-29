@@ -1,6 +1,6 @@
 {
     "Alexa Web Information Service Requests over 1000000": {
-        "Regionless": [
+        "Default": [
             "0.0003000000"
         ],
         "Any": [
@@ -8,7 +8,7 @@
         ]
     },
     "Alexa Web Information Service Requests upto 1000000": {
-        "Regionless": [
+        "Default": [
             "0.0004500000"
         ],
         "Any": [

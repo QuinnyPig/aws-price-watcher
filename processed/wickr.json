@@ -1,6 +1,6 @@
 {
     "Wickr Standard": {
-        "Regionless": [
+        "Default": [
             "5.0000000000"
         ],
         "US East (N. Virginia)": [
@@ -38,7 +38,7 @@
         ]
     },
     "Wickr Free": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US East (N. Virginia)": [
@@ -76,7 +76,7 @@
         ]
     },
     "Wickr Premium": {
-        "Regionless": [
+        "Default": [
             "15.0000000000"
         ],
         "US East (N. Virginia)": [
@@ -114,7 +114,7 @@
         ]
     },
     "Wickr Guest Users": {
-        "Regionless": [
+        "Default": [
             "2.0000000000"
         ],
         "US East (N. Virginia)": [
@@ -149,7 +149,7 @@
         ]
     },
     "Wickr Enterprise": {
-        "Regionless": [
+        "Default": [
             "35.0000000000"
         ],
         "AWS GovCloud (US)": [

@@ -1,6 +1,6 @@
 {
     "AnalyzeDocument API Forms Over 1M": {
-        "Regionless": [
+        "Default": [
             "0.0400000000"
         ],
         "US West (Oregon)": [
@@ -53,7 +53,7 @@
         ]
     },
     "AnalyzeDocument API Queries First 1M": {
-        "Regionless": [
+        "Default": [
             "0.0150000000"
         ],
         "US West (Oregon)": [
@@ -106,7 +106,7 @@
         ]
     },
     "AnalyzeDocument API Tables Queries Over 1M": {
-        "Regionless": [
+        "Default": [
             "0.0150000000"
         ],
         "US West (Oregon)": [
@@ -159,7 +159,7 @@
         ]
     },
     "Async AnalyzeDocument Signatures API Signatures Over 1M": {
-        "Regionless": [
+        "Default": [
             "0.0014000000"
         ],
         "US West (Oregon)": [
@@ -212,7 +212,7 @@
         ]
     },
     "Async AnalyzeDocument API Queries First 1M": {
-        "Regionless": [
+        "Default": [
             "0.0150000000"
         ],
         "US West (Oregon)": [
@@ -265,7 +265,7 @@
         ]
     },
     "AnalyzeDocument API Forms CustomQueries First 1M": {
-        "Regionless": [
+        "Default": [
             "0.0650000000"
         ],
         "US West (Oregon)": [
@@ -318,7 +318,7 @@
         ]
     },
     "AnalyzeDocument API CustomQueries Tables First 1M": {
-        "Regionless": [
+        "Default": [
             "0.0300000000"
         ],
         "US West (Oregon)": [
@@ -371,7 +371,7 @@
         ]
     },
     "Async AnalyzeDocument API CustomQueries Tables Over 1M": {
-        "Regionless": [
+        "Default": [
             "0.0200000000"
         ],
         "US West (Oregon)": [
@@ -424,7 +424,7 @@
         ]
     },
     "AnalyzeDocument API CustomQueries Tables Over 1M": {
-        "Regionless": [
+        "Default": [
             "0.0200000000"
         ],
         "US West (Oregon)": [
@@ -477,7 +477,7 @@
         ]
     },
     "Analyze ID AnalyzeID API ID Over 100K": {
-        "Regionless": [
+        "Default": [
             "0.0100000000"
         ],
         "US West (Oregon)": [
@@ -530,7 +530,7 @@
         ]
     },
     "AnalyzeDocument Layout API Layout First 1M": {
-        "Regionless": [
+        "Default": [
             "0.0040000000"
         ],
         "US West (Oregon)": [
@@ -583,7 +583,7 @@
         ]
     },
     "Async AnalyzeDocument API Tables Over 1M": {
-        "Regionless": [
+        "Default": [
             "0.0100000000"
         ],
         "US West (Oregon)": [
@@ -636,7 +636,7 @@
         ]
     },
     "AnalyzeDocument API Forms First 1M": {
-        "Regionless": [
+        "Default": [
             "0.0500000000"
         ],
         "US West (Oregon)": [
@@ -689,7 +689,7 @@
         ]
     },
     "Async AnalyzeDocument API Tables Queries Over 1M": {
-        "Regionless": [
+        "Default": [
             "0.0150000000"
         ],
         "US West (Oregon)": [
@@ -742,7 +742,7 @@
         ]
     },
     "AnalyzeDocument API Forms Queries First 1M": {
-        "Regionless": [
+        "Default": [
             "0.0550000000"
         ],
         "US West (Oregon)": [
@@ -795,7 +795,7 @@
         ]
     },
     "AnalyzeDocument API Forms Queries Over 1M": {
-        "Regionless": [
+        "Default": [
             "0.0450000000"
         ],
         "US West (Oregon)": [
@@ -848,7 +848,7 @@
         ]
     },
     "Async AnalyzeDocument API CustomQueries First 1M": {
-        "Regionless": [
+        "Default": [
             "0.0250000000"
         ],
         "US West (Oregon)": [
@@ -901,7 +901,7 @@
         ]
     },
     "Async AnalyzeLending API Lending First 1M": {
-        "Regionless": [
+        "Default": [
             "0.0700000000"
         ],
         "US West (Oregon)": [
@@ -954,7 +954,7 @@
         ]
     },
     "AnalyzeExpense AnalyzeExpense API Expense First 1M": {
-        "Regionless": [
+        "Default": [
             "0.0100000000"
         ],
         "US West (Oregon)": [
@@ -1007,7 +1007,7 @@
         ]
     },
     "Async AnalyzeDocument API CustomQueries Over 1M": {
-        "Regionless": [
+        "Default": [
             "0.0150000000"
         ],
         "US West (Oregon)": [
@@ -1060,7 +1060,7 @@
         ]
     },
     "Async AnalyzeDocument Layout API Layout First 1M": {
-        "Regionless": [
+        "Default": [
             "0.0040000000"
         ],
         "US West (Oregon)": [
@@ -1113,7 +1113,7 @@
         ]
     },
     "Async AnalyzeDocument API Forms CustomQueries+Tables Over 1M": {
-        "Regionless": [
+        "Default": [
             "0.0600000000"
         ],
         "US West (Oregon)": [
@@ -1166,7 +1166,7 @@
         ]
     },
     "Async AnalyzeDocument API Forms CustomQueries Over 1M": {
-        "Regionless": [
+        "Default": [
             "0.0500000000"
         ],
         "US West (Oregon)": [
@@ -1219,7 +1219,7 @@
         ]
     },
     "AnalyzeExpense AnalyzeExpense API Expense Over 1M": {
-        "Regionless": [
+        "Default": [
             "0.0080000000"
         ],
         "US West (Oregon)": [
@@ -1272,7 +1272,7 @@
         ]
     },
     "AnalyzeDocument API Forms Tables+Queries Over 1M": {
-        "Regionless": [
+        "Default": [
             "0.0550000000"
         ],
         "US West (Oregon)": [
@@ -1325,7 +1325,7 @@
         ]
     },
     "Async AnalyzeDocument Layout API Layout Over 1M": {
-        "Regionless": [
+        "Default": [
             "0.0030000000"
         ],
         "US West (Oregon)": [
@@ -1378,7 +1378,7 @@
         ]
     },
     "Async DocumentTextDetection API Text Over 1M": {
-        "Regionless": [
+        "Default": [
             "0.0006000000"
         ],
         "US West (Oregon)": [
@@ -1431,7 +1431,7 @@
         ]
     },
     "AnalyzeDocument Signatures API Signatures Over 1M": {
-        "Regionless": [
+        "Default": [
             "0.0014000000"
         ],
         "US West (Oregon)": [
@@ -1484,7 +1484,7 @@
         ]
     },
     "Async AnalyzeExpense API Expense First 1M": {
-        "Regionless": [
+        "Default": [
             "0.0100000000"
         ],
         "US West (Oregon)": [
@@ -1537,7 +1537,7 @@
         ]
     },
     "Analyze ID AnalyzeID API ID First 100K": {
-        "Regionless": [
+        "Default": [
             "0.0250000000"
         ],
         "US West (Oregon)": [
@@ -1590,7 +1590,7 @@
         ]
     },
     "Async DocumentTextDetection API Text First 1M": {
-        "Regionless": [
+        "Default": [
             "0.0015000000"
         ],
         "US West (Oregon)": [
@@ -1643,7 +1643,7 @@
         ]
     },
     "DetectDocumentText API Text Over 1M": {
-        "Regionless": [
+        "Default": [
             "0.0006000000"
         ],
         "US West (Oregon)": [
@@ -1696,7 +1696,7 @@
         ]
     },
     "Async AnalyzeDocument API Queries Over 1M": {
-        "Regionless": [
+        "Default": [
             "0.0100000000"
         ],
         "US West (Oregon)": [
@@ -1749,7 +1749,7 @@
         ]
     },
     "Async AnalyzeDocument API Forms Queries Over 1M": {
-        "Regionless": [
+        "Default": [
             "0.0450000000"
         ],
         "US West (Oregon)": [
@@ -1802,7 +1802,7 @@
         ]
     },
     "Async AnalyzeDocument API Forms CustomQueries First 1M": {
-        "Regionless": [
+        "Default": [
             "0.0650000000"
         ],
         "US West (Oregon)": [
@@ -1855,7 +1855,7 @@
         ]
     },
     "Async AnalyzeDocument API Tables Queries First 1M": {
-        "Regionless": [
+        "Default": [
             "0.0200000000"
         ],
         "US West (Oregon)": [
@@ -1908,7 +1908,7 @@
         ]
     },
     "Async AnalyzeLending API Lending Over 1M": {
-        "Regionless": [
+        "Default": [
             "0.0550000000"
         ],
         "US West (Oregon)": [
@@ -1961,7 +1961,7 @@
         ]
     },
     "AnalyzeDocument API Tables Queries First 1M": {
-        "Regionless": [
+        "Default": [
             "0.0200000000"
         ],
         "US West (Oregon)": [
@@ -2014,7 +2014,7 @@
         ]
     },
     "AnalyzeDocument Layout API Layout Over 1M": {
-        "Regionless": [
+        "Default": [
             "0.0030000000"
         ],
         "US West (Oregon)": [
@@ -2067,7 +2067,7 @@
         ]
     },
     "Async AnalyzeDocument API Forms Queries First 1M": {
-        "Regionless": [
+        "Default": [
             "0.0550000000"
         ],
         "US West (Oregon)": [
@@ -2120,7 +2120,7 @@
         ]
     },
     "Async AnalyzeDocument API Forms Tables+Queries First 1M": {
-        "Regionless": [
+        "Default": [
             "0.0700000000"
         ],
         "US West (Oregon)": [
@@ -2173,7 +2173,7 @@
         ]
     },
     "AnalyzeDocument API Tables First 1M": {
-        "Regionless": [
+        "Default": [
             "0.0150000000"
         ],
         "US West (Oregon)": [
@@ -2226,7 +2226,7 @@
         ]
     },
     "AnalyzeDocument API Tables Over 1M": {
-        "Regionless": [
+        "Default": [
             "0.0100000000"
         ],
         "US West (Oregon)": [
@@ -2279,7 +2279,7 @@
         ]
     },
     "Async AnalyzeDocument API Forms First 1M": {
-        "Regionless": [
+        "Default": [
             "0.0500000000"
         ],
         "US West (Oregon)": [
@@ -2332,7 +2332,7 @@
         ]
     },
     "AnalyzeDocument Signatures API Signatures First 1M": {
-        "Regionless": [
+        "Default": [
             "0.0035000000"
         ],
         "US West (Oregon)": [
@@ -2385,7 +2385,7 @@
         ]
     },
     "Async AnalyzeDocument API Tables First 1M": {
-        "Regionless": [
+        "Default": [
             "0.0150000000"
         ],
         "US West (Oregon)": [
@@ -2438,7 +2438,7 @@
         ]
     },
     "AnalyzeDocument API Forms CustomQueries+Tables First 1M": {
-        "Regionless": [
+        "Default": [
             "0.0800000000"
         ],
         "US West (Oregon)": [
@@ -2491,7 +2491,7 @@
         ]
     },
     "AnalyzeDocument API Queries Over 1M": {
-        "Regionless": [
+        "Default": [
             "0.0100000000"
         ],
         "US West (Oregon)": [
@@ -2544,7 +2544,7 @@
         ]
     },
     "DetectDocumentText API Text First 1M": {
-        "Regionless": [
+        "Default": [
             "0.0015000000"
         ],
         "US West (Oregon)": [
@@ -2597,7 +2597,7 @@
         ]
     },
     "Async AnalyzeDocument API Forms CustomQueries+Tables First 1M": {
-        "Regionless": [
+        "Default": [
             "0.0800000000"
         ],
         "US West (Oregon)": [
@@ -2650,7 +2650,7 @@
         ]
     },
     "AnalyzeDocument API Forms Tables+Queries First 1M": {
-        "Regionless": [
+        "Default": [
             "0.0700000000"
         ],
         "US West (Oregon)": [
@@ -2703,7 +2703,7 @@
         ]
     },
     "AnalyzeDocument API CustomQueries First 1M": {
-        "Regionless": [
+        "Default": [
             "0.0250000000"
         ],
         "US West (Oregon)": [
@@ -2756,7 +2756,7 @@
         ]
     },
     "Async AnalyzeDocument API Forms Tables+Queries Over 1M": {
-        "Regionless": [
+        "Default": [
             "0.0550000000"
         ],
         "US West (Oregon)": [
@@ -2809,7 +2809,7 @@
         ]
     },
     "Async AnalyzeExpense API Expense Over 1M": {
-        "Regionless": [
+        "Default": [
             "0.0080000000"
         ],
         "US West (Oregon)": [
@@ -2862,7 +2862,7 @@
         ]
     },
     "Async AnalyzeDocument API CustomQueries Tables First 1M": {
-        "Regionless": [
+        "Default": [
             "0.0300000000"
         ],
         "US West (Oregon)": [
@@ -2915,7 +2915,7 @@
         ]
     },
     "AnalyzeDocument API CustomQueries Over 1M": {
-        "Regionless": [
+        "Default": [
             "0.0150000000"
         ],
         "US West (Oregon)": [
@@ -2968,7 +2968,7 @@
         ]
     },
     "AnalyzeDocument API Forms CustomQueries+Tables Over 1M": {
-        "Regionless": [
+        "Default": [
             "0.0600000000"
         ],
         "US West (Oregon)": [
@@ -3021,7 +3021,7 @@
         ]
     },
     "AnalyzeDocument API Forms CustomQueries Over 1M": {
-        "Regionless": [
+        "Default": [
             "0.0500000000"
         ],
         "US West (Oregon)": [
@@ -3074,7 +3074,7 @@
         ]
     },
     "Async AnalyzeDocument Signatures API Signatures First 1M": {
-        "Regionless": [
+        "Default": [
             "0.0035000000"
         ],
         "US West (Oregon)": [
@@ -3127,7 +3127,7 @@
         ]
     },
     "Async AnalyzeDocument API Forms Over 1M": {
-        "Regionless": [
+        "Default": [
             "0.0400000000"
         ],
         "US West (Oregon)": [

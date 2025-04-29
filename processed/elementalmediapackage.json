@@ -1,6 +1,6 @@
 {
     "VOD Origination and Packaging": {
-        "Regionless": [
+        "Default": [
             "0.0500000000"
         ],
         "US West (Oregon)": [
@@ -65,7 +65,7 @@
         ]
     },
     "Origination and Packaging": {
-        "Regionless": [
+        "Default": [
             "0.0500000000"
         ],
         "US West (Oregon)": [
@@ -130,7 +130,7 @@
         ]
     },
     "Ingest": {
-        "Regionless": [
+        "Default": [
             "0.0270000000"
         ],
         "US West (Oregon)": [

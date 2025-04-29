@@ -1,6 +1,6 @@
 {
     "Rekognition Image API upto 1MM per Images Processed Group1": {
-        "Regionless": [
+        "Default": [
             "0.0010000000"
         ],
         "US West (Oregon)": [
@@ -53,7 +53,7 @@
         ]
     },
     "Rekognition API Requests 3000000 per API Calls": {
-        "Regionless": [
+        "Default": [
             "0.0125000000"
         ],
         "US West (Oregon)": [
@@ -73,7 +73,7 @@
         ]
     },
     "Live Streams per Minutes Processed": {
-        "Regionless": [
+        "Default": [
             "0.1200000000"
         ],
         "US West (Oregon)": [
@@ -93,7 +93,7 @@
         ]
     },
     "Moderation Training API per minutes": {
-        "Regionless": [
+        "Default": [
             "0.0833333300"
         ],
         "US West (Oregon)": [
@@ -143,7 +143,7 @@
         ]
     },
     "Rekognition Image API upto 35MM per Images Processed Number of images processed using DetectLabels Image Properties API": {
-        "Regionless": [
+        "Default": [
             "0.0004500000"
         ],
         "US West (Oregon)": [
@@ -196,7 +196,7 @@
         ]
     },
     "Rekognition Image API upto 35MM per Images Processed Group1": {
-        "Regionless": [
+        "Default": [
             "0.0006000000"
         ],
         "US West (Oregon)": [
@@ -249,7 +249,7 @@
         ]
     },
     "Training API per minutes": {
-        "Regionless": [
+        "Default": [
             "0.0166666700"
         ],
         "US West (Oregon)": [
@@ -287,7 +287,7 @@
         ]
     },
     "Rekognition Image API upto 10MM per Images Processed": {
-        "Regionless": [
+        "Default": [
             "0.0008000000"
         ],
         "US West (Oregon)": [
@@ -334,7 +334,7 @@
         ]
     },
     "Rekognition Image API upto 5MM per Images Processed Number of images processed using Custom Moderation Adapter": {
-        "Regionless": [
+        "Default": [
             "0.0009600000"
         ],
         "US West (Oregon)": [
@@ -384,7 +384,7 @@
         ]
     },
     "Rekognition Image API upto 35MM per Images Processed Number of images processed using Custom Image Async API": {
-        "Regionless": [
+        "Default": [
             "0.0007200000"
         ],
         "US West (Oregon)": [
@@ -422,7 +422,7 @@
         ]
     },
     "Number of minutes of Archived Video processed for shot detection": {
-        "Regionless": [
+        "Default": [
             "0.0500000000"
         ],
         "US West (Oregon)": [
@@ -466,7 +466,7 @@
         ]
     },
     "Rekognition Image API upto 5MM per Images Processed Number of images processed using Custom Image Async API": {
-        "Regionless": [
+        "Default": [
             "0.0009600000"
         ],
         "US West (Oregon)": [
@@ -504,7 +504,7 @@
         ]
     },
     "Rekognition Image API upto 35MM per Images Processed Group2": {
-        "Regionless": [
+        "Default": [
             "0.0006000000"
         ],
         "US West (Oregon)": [
@@ -557,7 +557,7 @@
         ]
     },
     "Rekognition Image API upto 5MM per Images Processed Number of images processed using DetectLabels Image Properties API": {
-        "Regionless": [
+        "Default": [
             "0.0006000000"
         ],
         "US West (Oregon)": [
@@ -610,7 +610,7 @@
         ]
     },
     "Rekognition Image API upto 5MM per Images Processed Group1": {
-        "Regionless": [
+        "Default": [
             "0.0008000000"
         ],
         "US West (Oregon)": [
@@ -663,7 +663,7 @@
         ]
     },
     "Face Metadata Storage per Faces Mo": {
-        "Regionless": [
+        "Default": [
             "0.0000100000"
         ],
         "US West (Oregon)": [
@@ -716,7 +716,7 @@
         ]
     },
     "Rekognition Image API upto 100MM per Images Processed": {
-        "Regionless": [
+        "Default": [
             "0.0006000000"
         ],
         "US West (Oregon)": [
@@ -763,7 +763,7 @@
         ]
     },
     "Rekognition Image API over 35MM per Images Processed Number of images processed using Custom Moderation Adapter": {
-        "Regionless": [
+        "Default": [
             "0.0003000000"
         ],
         "US West (Oregon)": [
@@ -813,7 +813,7 @@
         ]
     },
     "Live Streams LabelDetection per Minutes Processed": {
-        "Regionless": [
+        "Default": [
             "0.0081700000"
         ],
         "US West (Oregon)": [
@@ -833,7 +833,7 @@
         ]
     },
     "Inference API per minutes": {
-        "Regionless": [
+        "Default": [
             "0.0666666700"
         ],
         "US West (Oregon)": [
@@ -871,7 +871,7 @@
         ]
     },
     "Rekognition Image API upto 1MM per Images Processed Number of images processed using DetectLabels Image Properties API": {
-        "Regionless": [
+        "Default": [
             "0.0007500000"
         ],
         "US West (Oregon)": [
@@ -924,7 +924,7 @@
         ]
     },
     "User Metadata Storage per Users Mo": {
-        "Regionless": [
+        "Default": [
             "0.0000100000"
         ],
         "US West (Oregon)": [
@@ -977,7 +977,7 @@
         ]
     },
     "Rekognition Image API over 35MM per Images Processed Number of images processed using DetectLabels Image Properties API": {
-        "Regionless": [
+        "Default": [
             "0.0001875000"
         ],
         "US West (Oregon)": [
@@ -1030,7 +1030,7 @@
         ]
     },
     "Rekognition API Requests 500000 per API Calls": {
-        "Regionless": [
+        "Default": [
             "0.0150000000"
         ],
         "US West (Oregon)": [
@@ -1050,7 +1050,7 @@
         ]
     },
     "Rekognition API Requests per API Calls": {
-        "Regionless": [
+        "Default": [
             "0.0100000000"
         ],
         "US West (Oregon)": [
@@ -1070,7 +1070,7 @@
         ]
     },
     "Rekognition Image API over 35MM per Images Processed Group1": {
-        "Regionless": [
+        "Default": [
             "0.0004000000"
         ],
         "US West (Oregon)": [
@@ -1123,7 +1123,7 @@
         ]
     },
     "Rekognition Image API upto 1MM per Images Processed": {
-        "Regionless": [
+        "Default": [
             "0.0010000000"
         ],
         "US West (Oregon)": [
@@ -1170,7 +1170,7 @@
         ]
     },
     "Rekognition Image API over 35MM per Images Processed Group2": {
-        "Regionless": [
+        "Default": [
             "0.0002500000"
         ],
         "US West (Oregon)": [
@@ -1223,7 +1223,7 @@
         ]
     },
     "Archived Content per Minutes Processed": {
-        "Regionless": [
+        "Default": [
             "0.1000000000"
         ],
         "US West (Oregon)": [
@@ -1267,7 +1267,7 @@
         ]
     },
     "Number of minutes of Archived video processed using LabelDetection FaceDetection PersonTracking CelebrityRecognition ContentModeration and FaceSearch using Rekognition Video APIs": {
-        "Regionless": [
+        "Default": [
             "0.1000000000"
         ],
         "US West (Oregon)": [
@@ -1311,7 +1311,7 @@
         ]
     },
     "Rekognition Image API upto 35MM per Images Processed Number of images processed using Custom Moderation Adapter": {
-        "Regionless": [
+        "Default": [
             "0.0007200000"
         ],
         "US West (Oregon)": [
@@ -1361,7 +1361,7 @@
         ]
     },
     "Rekognition Image API upto 1MM per Images Processed Number of images processed using Custom Image Async API": {
-        "Regionless": [
+        "Default": [
             "0.0012000000"
         ],
         "US West (Oregon)": [
@@ -1399,7 +1399,7 @@
         ]
     },
     "Number of minutes of Archived Video processed using Technical Cues detection": {
-        "Regionless": [
+        "Default": [
             "0.0500000000"
         ],
         "US West (Oregon)": [
@@ -1443,7 +1443,7 @@
         ]
     },
     "Rekognition Image API over 35MM per Images Processed Number of images processed using Custom Image Async API": {
-        "Regionless": [
+        "Default": [
             "0.0003000000"
         ],
         "US West (Oregon)": [
@@ -1481,7 +1481,7 @@
         ]
     },
     "Rekognition Image API upto 1MM per Images Processed Group2": {
-        "Regionless": [
+        "Default": [
             "0.0010000000"
         ],
         "US West (Oregon)": [
@@ -1534,7 +1534,7 @@
         ]
     },
     "Rekognition Image API upto 5MM per Images Processed Group2": {
-        "Regionless": [
+        "Default": [
             "0.0008000000"
         ],
         "US West (Oregon)": [
@@ -1587,7 +1587,7 @@
         ]
     },
     "Rekognition Image API over 100MM per Images Processed": {
-        "Regionless": [
+        "Default": [
             "0.0004000000"
         ],
         "US West (Oregon)": [
@@ -1634,7 +1634,7 @@
         ]
     },
     "Rekognition Image API upto 1MM per Images Processed Number of images processed using Custom Moderation Adapter": {
-        "Regionless": [
+        "Default": [
             "0.0012000000"
         ],
         "US West (Oregon)": [
@@ -1684,7 +1684,7 @@
         ]
     },
     "Rekognition Image API upto 5MM per Images Processed Number of images processed using Image Async API": {
-        "Regionless": [
+        "Default": [
             "0.0008000000"
         ],
         "US East (N. Virginia)": [
@@ -1716,7 +1716,7 @@
         ]
     },
     "Rekognition Image API upto 35MM per Images Processed Number of images processed using Image Async API": {
-        "Regionless": [
+        "Default": [
             "0.0006000000"
         ],
         "US East (N. Virginia)": [
@@ -1748,7 +1748,7 @@
         ]
     },
     "Rekognition Image API upto 1MM per Images Processed Number of images processed using Image Async API": {
-        "Regionless": [
+        "Default": [
             "0.0010000000"
         ],
         "US East (N. Virginia)": [
@@ -1780,7 +1780,7 @@
         ]
     },
     "Rekognition Image API over 35MM per Images Processed Number of images processed using Image Async API": {
-        "Regionless": [
+        "Default": [
             "0.0002500000"
         ],
         "US East (N. Virginia)": [

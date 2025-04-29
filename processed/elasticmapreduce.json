@@ -1,6 +1,6 @@
 {
     "Instance-instancetype-r6in.8xlarge": {
-        "Regionless": [
+        "Default": [
             "0.6973200000"
         ],
         "US West (Oregon)": [
@@ -35,7 +35,7 @@
         ]
     },
     "Instance-instancetype-m6in.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2784600000"
         ],
         "US West (Oregon)": [
@@ -85,7 +85,7 @@
         ]
     },
     "Instance-instancetype-c3.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2100000000"
         ],
         "US West (Oregon)": [
@@ -120,7 +120,7 @@
         ]
     },
     "Instance-instancetype-p3.8xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -161,7 +161,7 @@
         ]
     },
     "Instance-instancetype-i4i.12xlarge": {
-        "Regionless": [
+        "Default": [
             "1.0295000000"
         ],
         "US West (Oregon)": [
@@ -259,7 +259,7 @@
         ]
     },
     "Instance-instancetype-im4gn.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.3637925000"
         ],
         "US West (Oregon)": [
@@ -300,7 +300,7 @@
         ]
     },
     "Instance-instancetype-r6g.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2016000000"
         ],
         "US West (Oregon)": [
@@ -407,7 +407,7 @@
         ]
     },
     "Instance-instancetype-r8g.16xlarge": {
-        "Regionless": [
+        "Default": [
             "0.9425600000"
         ],
         "US West (Oregon)": [
@@ -448,7 +448,7 @@
         ]
     },
     "Instance-instancetype-i4i.8xlarge": {
-        "Regionless": [
+        "Default": [
             "0.6865000000"
         ],
         "US West (Oregon)": [
@@ -552,7 +552,7 @@
         ]
     },
     "Instance-instancetype-r6id.32xlarge": {
-        "Regionless": [
+        "Default": [
             "2.4192000000"
         ],
         "US West (Oregon)": [
@@ -608,7 +608,7 @@
         ]
     },
     "Instance-instancetype-m6a.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.0432000000"
         ],
         "US West (Oregon)": [
@@ -661,7 +661,7 @@
         ]
     },
     "Instance-instancetype-r5d.12xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -756,7 +756,7 @@
         ]
     },
     "Instance-instancetype-c5a.24xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -827,7 +827,7 @@
         ]
     },
     "Instance-instancetype-m5zn.3xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2477500000"
         ],
         "US West (Oregon)": [
@@ -865,7 +865,7 @@
         ]
     },
     "Instance-instancetype-m6g.8xlarge": {
-        "Regionless": [
+        "Default": [
             "0.3080000000"
         ],
         "US West (Oregon)": [
@@ -972,7 +972,7 @@
         ]
     },
     "EMR Containers EC2 FlinkNativeGBHours": {
-        "Regionless": [
+        "Default": [
             "0.0011112500"
         ],
         "US West (Oregon)": [
@@ -1061,7 +1061,7 @@
         ]
     },
     "Instance-instancetype-h1.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1170000000"
         ],
         "US West (Oregon)": [
@@ -1078,7 +1078,7 @@
         ]
     },
     "Instance-instancetype-m6idn.16xlarge": {
-        "Regionless": [
+        "Default": [
             "1.2729600000"
         ],
         "US West (Oregon)": [
@@ -1128,7 +1128,7 @@
         ]
     },
     "Instance-instancetype-m5.12xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -1226,7 +1226,7 @@
         ]
     },
     "Instance-instancetype-m5.8xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -1324,7 +1324,7 @@
         ]
     },
     "Instance-instancetype-r5ad.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1310000000"
         ],
         "US West (Oregon)": [
@@ -1377,7 +1377,7 @@
         ]
     },
     "Instance-instancetype-r6gd.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1152000000"
         ],
         "US West (Oregon)": [
@@ -1448,7 +1448,7 @@
         ]
     },
     "Instance-instancetype-i4i.32xlarge": {
-        "Regionless": [
+        "Default": [
             "2.7456000000"
         ],
         "US West (Oregon)": [
@@ -1552,7 +1552,7 @@
         ]
     },
     "Instance-instancetype-r6id.24xlarge": {
-        "Regionless": [
+        "Default": [
             "1.8144000000"
         ],
         "US West (Oregon)": [
@@ -1608,7 +1608,7 @@
         ]
     },
     "Instance-instancetype-m5ad.12xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -1661,7 +1661,7 @@
         ]
     },
     "Instance-instancetype-m5d.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1130000000"
         ],
         "US West (Oregon)": [
@@ -1759,7 +1759,7 @@
         ]
     },
     "Instance-instancetype-r4.8xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -1815,7 +1815,7 @@
         ]
     },
     "Instance-instancetype-m7a.32xlarge": {
-        "Regionless": [
+        "Default": [
             "1.8547200000"
         ],
         "US West (Oregon)": [
@@ -1847,7 +1847,7 @@
         ]
     },
     "Instance-instancetype-c7a.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1026400000"
         ],
         "US West (Oregon)": [
@@ -1876,7 +1876,7 @@
         ]
     },
     "Instance-instancetype-x2gd.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.3340000000"
         ],
         "US West (Oregon)": [
@@ -1893,7 +1893,7 @@
         ]
     },
     "Instance-instancetype-g5.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2515000000"
         ],
         "US West (Oregon)": [
@@ -1946,7 +1946,7 @@
         ]
     },
     "Instance-instancetype-m6in.12xlarge": {
-        "Regionless": [
+        "Default": [
             "0.8353800000"
         ],
         "US West (Oregon)": [
@@ -1996,7 +1996,7 @@
         ]
     },
     "Instance-instancetype-c6in.24xlarge": {
-        "Regionless": [
+        "Default": [
             "1.3608000000"
         ],
         "US West (Oregon)": [
@@ -2091,7 +2091,7 @@
         ]
     },
     "Instance-instancetype-r8g.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.0589100000"
         ],
         "US West (Oregon)": [
@@ -2132,7 +2132,7 @@
         ]
     },
     "Instance-instancetype-r5a.16xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -2191,7 +2191,7 @@
         ]
     },
     "Instance-instancetype-g4dn.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -2265,7 +2265,7 @@
         ]
     },
     "Instance-instancetype-c7gd.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.0907250000"
         ],
         "US West (Oregon)": [
@@ -2312,7 +2312,7 @@
         ]
     },
     "Instance-instancetype-g5.16xlarge": {
-        "Regionless": [
+        "Default": [
             "1.0240000000"
         ],
         "US West (Oregon)": [
@@ -2365,7 +2365,7 @@
         ]
     },
     "Instance-instancetype-x2iedn.24xlarge": {
-        "Regionless": [
+        "Default": [
             "5.0017500000"
         ],
         "US West (Oregon)": [
@@ -2445,7 +2445,7 @@
         ]
     },
     "Instance-instancetype-c7gd.8xlarge": {
-        "Regionless": [
+        "Default": [
             "0.3628750000"
         ],
         "US West (Oregon)": [
@@ -2492,7 +2492,7 @@
         ]
     },
     "Instance-instancetype-r5dn.24xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -2542,7 +2542,7 @@
         ]
     },
     "Instance-instancetype-m5dn.12xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -2574,7 +2574,7 @@
         ]
     },
     "Instance-instancetype-m7i-flex.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1915200000"
         ],
         "US West (Oregon)": [
@@ -2642,7 +2642,7 @@
         ]
     },
     "Instance-instancetype-c5a.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.0770000000"
         ],
         "US West (Oregon)": [
@@ -2713,7 +2713,7 @@
         ]
     },
     "Instance-instancetype-c5d.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1920000000"
         ],
         "US West (Oregon)": [
@@ -2808,7 +2808,7 @@
         ]
     },
     "Instance-instancetype-m6i.24xlarge": {
-        "Regionless": [
+        "Default": [
             "1.1520000000"
         ],
         "US West (Oregon)": [
@@ -2909,7 +2909,7 @@
         ]
     },
     "Instance-instancetype-r7i.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.0661500000"
         ],
         "US West (Oregon)": [
@@ -2989,7 +2989,7 @@
         ]
     },
     "Instance-instancetype-m7g.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.0408000000"
         ],
         "US West (Oregon)": [
@@ -3081,7 +3081,7 @@
         ]
     },
     "Instance-instancetype-m6id.8xlarge": {
-        "Regionless": [
+        "Default": [
             "0.4746000000"
         ],
         "US West (Oregon)": [
@@ -3149,7 +3149,7 @@
         ]
     },
     "Instance-instancetype-m7gd.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1067750000"
         ],
         "US West (Oregon)": [
@@ -3208,7 +3208,7 @@
         ]
     },
     "EMR Containers Fargate SparkOperatorCPUHours": {
-        "Regionless": [
+        "Default": [
             "0.0101200000"
         ],
         "US West (Oregon)": [
@@ -3297,7 +3297,7 @@
         ]
     },
     "Instance-instancetype-r5a.8xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -3356,7 +3356,7 @@
         ]
     },
     "Instance-instancetype-g5.8xlarge": {
-        "Regionless": [
+        "Default": [
             "0.6120000000"
         ],
         "US West (Oregon)": [
@@ -3409,7 +3409,7 @@
         ]
     },
     "Instance-instancetype-r8g.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2356400000"
         ],
         "US West (Oregon)": [
@@ -3450,7 +3450,7 @@
         ]
     },
     "Instance-instancetype-c6i.12xlarge": {
-        "Regionless": [
+        "Default": [
             "0.5100000000"
         ],
         "US West (Oregon)": [
@@ -3542,7 +3542,7 @@
         ]
     },
     "Instance-instancetype-m6a.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1728000000"
         ],
         "US West (Oregon)": [
@@ -3595,7 +3595,7 @@
         ]
     },
     "Instance-instancetype-r6gd.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2304000000"
         ],
         "US West (Oregon)": [
@@ -3666,7 +3666,7 @@
         ]
     },
     "Instance-instancetype-c6gn.8xlarge": {
-        "Regionless": [
+        "Default": [
             "0.3456000000"
         ],
         "US West (Oregon)": [
@@ -3755,7 +3755,7 @@
         ]
     },
     "Instance-instancetype-r5n.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.0745000000"
         ],
         "US West (Oregon)": [
@@ -3823,7 +3823,7 @@
         ]
     },
     "Instance-instancetype-m7i.8xlarge": {
-        "Regionless": [
+        "Default": [
             "0.4032000000"
         ],
         "US West (Oregon)": [
@@ -3897,7 +3897,7 @@
         ]
     },
     "Instance-instancetype-c1.medium": {
-        "Regionless": [
+        "Default": [
             "0.0300000000"
         ],
         "US West (Oregon)": [
@@ -3929,7 +3929,7 @@
         ]
     },
     "Instance-instancetype-c6g.12xlarge": {
-        "Regionless": [
+        "Default": [
             "0.4080000000"
         ],
         "US West (Oregon)": [
@@ -4036,7 +4036,7 @@
         ]
     },
     "Instance-instancetype-r5d.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.0720000000"
         ],
         "US West (Oregon)": [
@@ -4131,7 +4131,7 @@
         ]
     },
     "EMR Containers Fargate InteractiveWorkloadCPUHours": {
-        "Regionless": [
+        "Default": [
             "0.0101200000"
         ],
         "US West (Oregon)": [
@@ -4220,7 +4220,7 @@
         ]
     },
     "Instance-instancetype-r6idn.32xlarge": {
-        "Regionless": [
+        "Default": [
             "3.1262400000"
         ],
         "US West (Oregon)": [
@@ -4255,7 +4255,7 @@
         ]
     },
     "Instance-instancetype-i2.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -4296,7 +4296,7 @@
         ]
     },
     "Instance-instancetype-c4.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.0520000000"
         ],
         "US West (Oregon)": [
@@ -4349,7 +4349,7 @@
         ]
     },
     "Instance-instancetype-c6i.24xlarge": {
-        "Regionless": [
+        "Default": [
             "1.0200000000"
         ],
         "US West (Oregon)": [
@@ -4441,7 +4441,7 @@
         ]
     },
     "Instance-instancetype-r7iz.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.0930000000"
         ],
         "US West (Oregon)": [
@@ -4464,7 +4464,7 @@
         ]
     },
     "Instance-instancetype-m7g.16xlarge": {
-        "Regionless": [
+        "Default": [
             "0.6528000000"
         ],
         "US West (Oregon)": [
@@ -4556,7 +4556,7 @@
         ]
     },
     "Instance-instancetype-g6.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.3308000000"
         ],
         "US West (Oregon)": [
@@ -4612,7 +4612,7 @@
         ]
     },
     "Instance-instancetype-r5n.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -4680,7 +4680,7 @@
         ]
     },
     "Instance-instancetype-c6in.16xlarge": {
-        "Regionless": [
+        "Default": [
             "0.9072000000"
         ],
         "US West (Oregon)": [
@@ -4775,7 +4775,7 @@
         ]
     },
     "Instance-instancetype-r6id.16xlarge": {
-        "Regionless": [
+        "Default": [
             "1.2096000000"
         ],
         "US West (Oregon)": [
@@ -4831,7 +4831,7 @@
         ]
     },
     "Instance-instancetype-r6g.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1008000000"
         ],
         "US West (Oregon)": [
@@ -4938,7 +4938,7 @@
         ]
     },
     "Instance-instancetype-m5.24xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -5036,7 +5036,7 @@
         ]
     },
     "Instance-instancetype-c6i.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.0425000000"
         ],
         "US West (Oregon)": [
@@ -5128,7 +5128,7 @@
         ]
     },
     "Instance-instancetype-c6a.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1530000000"
         ],
         "US West (Oregon)": [
@@ -5178,7 +5178,7 @@
         ]
     },
     "Instance-instancetype-x2gd.12xlarge": {
-        "Regionless": [
+        "Default": [
             "1.0020000000"
         ],
         "US West (Oregon)": [
@@ -5195,7 +5195,7 @@
         ]
     },
     "Instance-instancetype-m5.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.0480000000"
         ],
         "US West (Oregon)": [
@@ -5293,7 +5293,7 @@
         ]
     },
     "Instance-instancetype-m5ad.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.0520000000"
         ],
         "US West (Oregon)": [
@@ -5346,7 +5346,7 @@
         ]
     },
     "EMR Containers Fargate FlinkNativeGBHours": {
-        "Regionless": [
+        "Default": [
             "0.0011112500"
         ],
         "US West (Oregon)": [
@@ -5435,7 +5435,7 @@
         ]
     },
     "EMR Containers Fargate FlinkNativeCPUHours": {
-        "Regionless": [
+        "Default": [
             "0.0101200000"
         ],
         "US West (Oregon)": [
@@ -5524,7 +5524,7 @@
         ]
     },
     "Instance-instancetype-r3.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -5568,7 +5568,7 @@
         ]
     },
     "Instance-instancetype-r6id.12xlarge": {
-        "Regionless": [
+        "Default": [
             "0.9072000000"
         ],
         "US West (Oregon)": [
@@ -5624,7 +5624,7 @@
         ]
     },
     "Instance-instancetype-c6a.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.0382500000"
         ],
         "US West (Oregon)": [
@@ -5674,7 +5674,7 @@
         ]
     },
     "Instance-instancetype-c7a.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.0513200000"
         ],
         "US West (Oregon)": [
@@ -5703,7 +5703,7 @@
         ]
     },
     "Instance-instancetype-c5n.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1080000000"
         ],
         "US West (Oregon)": [
@@ -5780,7 +5780,7 @@
         ]
     },
     "Instance-instancetype-m5a.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1720000000"
         ],
         "US West (Oregon)": [
@@ -5839,7 +5839,7 @@
         ]
     },
     "Instance-instancetype-m7i.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2016000000"
         ],
         "US West (Oregon)": [
@@ -5913,7 +5913,7 @@
         ]
     },
     "Instance-instancetype-i4g.16xlarge": {
-        "Regionless": [
+        "Default": [
             "1.2355200000"
         ],
         "US West (Oregon)": [
@@ -5936,7 +5936,7 @@
         ]
     },
     "Instance-instancetype-r7a.12xlarge": {
-        "Regionless": [
+        "Default": [
             "0.9129000000"
         ],
         "US West (Oregon)": [
@@ -5965,7 +5965,7 @@
         ]
     },
     "Instance-instancetype-c7gn.8xlarge": {
-        "Regionless": [
+        "Default": [
             "0.4992000000"
         ],
         "US West (Oregon)": [
@@ -5985,7 +5985,7 @@
         ]
     },
     "Instance-instancetype-r3.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1800000000"
         ],
         "US West (Oregon)": [
@@ -6029,7 +6029,7 @@
         ]
     },
     "Instance-instancetype-c7a.48xlarge": {
-        "Regionless": [
+        "Default": [
             "2.4633600000"
         ],
         "US West (Oregon)": [
@@ -6058,7 +6058,7 @@
         ]
     },
     "EMR Containers EC2 SparkOperatorCPUHours": {
-        "Regionless": [
+        "Default": [
             "0.0101200000"
         ],
         "US West (Oregon)": [
@@ -6147,7 +6147,7 @@
         ]
     },
     "Instance-instancetype-r7a.8xlarge": {
-        "Regionless": [
+        "Default": [
             "0.6086000000"
         ],
         "US West (Oregon)": [
@@ -6176,7 +6176,7 @@
         ]
     },
     "Instance-instancetype-c6a.32xlarge": {
-        "Regionless": [
+        "Default": [
             "1.2240000000"
         ],
         "US West (Oregon)": [
@@ -6226,7 +6226,7 @@
         ]
     },
     "Instance-instancetype-c6g.8xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2720000000"
         ],
         "US West (Oregon)": [
@@ -6333,7 +6333,7 @@
         ]
     },
     "Instance-instancetype-c6gd.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.0768000000"
         ],
         "US West (Oregon)": [
@@ -6404,7 +6404,7 @@
         ]
     },
     "Instance-instancetype-d3en.8xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -6433,7 +6433,7 @@
         ]
     },
     "Instance-instancetype-r6a.24xlarge": {
-        "Regionless": [
+        "Default": [
             "1.3608000000"
         ],
         "US West (Oregon)": [
@@ -6474,7 +6474,7 @@
         ]
     },
     "Instance-instancetype-m5d.24xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -6572,7 +6572,7 @@
         ]
     },
     "Instance-instancetype-r5ad.8xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -6625,7 +6625,7 @@
         ]
     },
     "EMR Containers EC2 InteractiveWorkloadCPUHours": {
-        "Regionless": [
+        "Default": [
             "0.0101200000"
         ],
         "US West (Oregon)": [
@@ -6714,7 +6714,7 @@
         ]
     },
     "Instance-instancetype-r6in.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.0871650000"
         ],
         "US West (Oregon)": [
@@ -6749,7 +6749,7 @@
         ]
     },
     "Instance-instancetype-c5d.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.0960000000"
         ],
         "US West (Oregon)": [
@@ -6844,7 +6844,7 @@
         ]
     },
     "Instance-instancetype-m7g.8xlarge": {
-        "Regionless": [
+        "Default": [
             "0.3264000000"
         ],
         "US West (Oregon)": [
@@ -6936,7 +6936,7 @@
         ]
     },
     "Instance-instancetype-m6gd.16xlarge": {
-        "Regionless": [
+        "Default": [
             "0.7232000000"
         ],
         "US West (Oregon)": [
@@ -7043,7 +7043,7 @@
         ]
     },
     "Instance-instancetype-m6idn.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1591200000"
         ],
         "US West (Oregon)": [
@@ -7093,7 +7093,7 @@
         ]
     },
     "Instance-instancetype-r5n.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1490000000"
         ],
         "US West (Oregon)": [
@@ -7161,7 +7161,7 @@
         ]
     },
     "Instance-instancetype-r6i.32xlarge": {
-        "Regionless": [
+        "Default": [
             "2.0160000000"
         ],
         "US West (Oregon)": [
@@ -7259,7 +7259,7 @@
         ]
     },
     "Instance-instancetype-x1e.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2085000000"
         ],
         "US West (Oregon)": [
@@ -7312,7 +7312,7 @@
         ]
     },
     "Instance-instancetype-r5dn.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -7362,7 +7362,7 @@
         ]
     },
     "Instance-instancetype-r5.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.0630000000"
         ],
         "US West (Oregon)": [
@@ -7460,7 +7460,7 @@
         ]
     },
     "Instance-instancetype-is4gen.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.5763000000"
         ],
         "US West (Oregon)": [
@@ -7501,7 +7501,7 @@
         ]
     },
     "EMR Containers EC2 CPUHours": {
-        "Regionless": [
+        "Default": [
             "0.0101200000"
         ],
         "US West (Oregon)": [
@@ -7590,7 +7590,7 @@
         ]
     },
     "Instance-instancetype-r6in.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1743300000"
         ],
         "US West (Oregon)": [
@@ -7625,7 +7625,7 @@
         ]
     },
     "Instance-instancetype-r4.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1330000000"
         ],
         "US West (Oregon)": [
@@ -7681,7 +7681,7 @@
         ]
     },
     "Instance-instancetype-m6id.12xlarge": {
-        "Regionless": [
+        "Default": [
             "0.7119000000"
         ],
         "US West (Oregon)": [
@@ -7749,7 +7749,7 @@
         ]
     },
     "Instance-instancetype-m6a.16xlarge": {
-        "Regionless": [
+        "Default": [
             "0.6912000000"
         ],
         "US West (Oregon)": [
@@ -7802,7 +7802,7 @@
         ]
     },
     "Instance-instancetype-r6idn.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.3907800000"
         ],
         "US West (Oregon)": [
@@ -7837,7 +7837,7 @@
         ]
     },
     "Instance-instancetype-g6.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2444000000"
         ],
         "US West (Oregon)": [
@@ -7893,7 +7893,7 @@
         ]
     },
     "Instance-instancetype-m6i.12xlarge": {
-        "Regionless": [
+        "Default": [
             "0.5760000000"
         ],
         "US West (Oregon)": [
@@ -7994,7 +7994,7 @@
         ]
     },
     "Instance-instancetype-m6g.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.0770000000"
         ],
         "US West (Oregon)": [
@@ -8101,7 +8101,7 @@
         ]
     },
     "Instance-instancetype-r5n.16xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -8169,7 +8169,7 @@
         ]
     },
     "Instance-instancetype-r7i.48xlarge": {
-        "Regionless": [
+        "Default": [
             "3.1752000000"
         ],
         "US West (Oregon)": [
@@ -8249,7 +8249,7 @@
         ]
     },
     "Instance-instancetype-m7a.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.0579600000"
         ],
         "US West (Oregon)": [
@@ -8281,7 +8281,7 @@
         ]
     },
     "Instance-instancetype-m6a.32xlarge": {
-        "Regionless": [
+        "Default": [
             "1.3824000000"
         ],
         "US West (Oregon)": [
@@ -8334,7 +8334,7 @@
         ]
     },
     "Instance-instancetype-x2idn.32xlarge": {
-        "Regionless": [
+        "Default": [
             "3.3345000000"
         ],
         "US West (Oregon)": [
@@ -8426,7 +8426,7 @@
         ]
     },
     "Instance-instancetype-i3en.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2260000000"
         ],
         "US West (Oregon)": [
@@ -8533,7 +8533,7 @@
         ]
     },
     "Instance-instancetype-r6idn.16xlarge": {
-        "Regionless": [
+        "Default": [
             "1.5631200000"
         ],
         "US West (Oregon)": [
@@ -8568,7 +8568,7 @@
         ]
     },
     "Instance-instancetype-c7i.48xlarge": {
-        "Regionless": [
+        "Default": [
             "2.1420000000"
         ],
         "US West (Oregon)": [
@@ -8639,7 +8639,7 @@
         ]
     },
     "Instance-instancetype-c7gn.12xlarge": {
-        "Regionless": [
+        "Default": [
             "0.7488000000"
         ],
         "US West (Oregon)": [
@@ -8659,7 +8659,7 @@
         ]
     },
     "Instance-instancetype-r6a.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.0567000000"
         ],
         "US West (Oregon)": [
@@ -8700,7 +8700,7 @@
         ]
     },
     "Instance-instancetype-r7i.16xlarge": {
-        "Regionless": [
+        "Default": [
             "1.0584000000"
         ],
         "US West (Oregon)": [
@@ -8780,7 +8780,7 @@
         ]
     },
     "Instance-instancetype-c5.12xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -8878,7 +8878,7 @@
         ]
     },
     "Instance-instancetype-i3.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1560000000"
         ],
         "US West (Oregon)": [
@@ -8973,7 +8973,7 @@
         ]
     },
     "Instance-instancetype-g3.16xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -9017,7 +9017,7 @@
         ]
     },
     "Instance-instancetype-c6gd.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1536000000"
         ],
         "US West (Oregon)": [
@@ -9088,7 +9088,7 @@
         ]
     },
     "EMR Containers Fargate FlinkOperatorGBHours": {
-        "Regionless": [
+        "Default": [
             "0.0011112500"
         ],
         "US West (Oregon)": [
@@ -9177,7 +9177,7 @@
         ]
     },
     "Instance-instancetype-r8g.8xlarge": {
-        "Regionless": [
+        "Default": [
             "0.4712800000"
         ],
         "US West (Oregon)": [
@@ -9218,7 +9218,7 @@
         ]
     },
     "Instance-instancetype-i3en.3xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -9325,7 +9325,7 @@
         ]
     },
     "Instance-instancetype-r5dn.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.0840000000"
         ],
         "US West (Oregon)": [
@@ -9375,7 +9375,7 @@
         ]
     },
     "Instance-instancetype-x2gd.8xlarge": {
-        "Regionless": [
+        "Default": [
             "0.6680000000"
         ],
         "US West (Oregon)": [
@@ -9392,7 +9392,7 @@
         ]
     },
     "Instance-instancetype-i2.8xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -9433,7 +9433,7 @@
         ]
     },
     "Instance-instancetype-r7a.24xlarge": {
-        "Regionless": [
+        "Default": [
             "1.8258000000"
         ],
         "US West (Oregon)": [
@@ -9462,7 +9462,7 @@
         ]
     },
     "Instance-instancetype-m5n.8xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -9494,7 +9494,7 @@
         ]
     },
     "Instance-instancetype-c6gn.16xlarge": {
-        "Regionless": [
+        "Default": [
             "0.6912000000"
         ],
         "US West (Oregon)": [
@@ -9583,7 +9583,7 @@
         ]
     },
     "Instance-instancetype-x2gd.16xlarge": {
-        "Regionless": [
+        "Default": [
             "1.3360000000"
         ],
         "US West (Oregon)": [
@@ -9600,7 +9600,7 @@
         ]
     },
     "Instance-instancetype-m7gd.8xlarge": {
-        "Regionless": [
+        "Default": [
             "0.4271500000"
         ],
         "US West (Oregon)": [
@@ -9659,7 +9659,7 @@
         ]
     },
     "Instance-instancetype-c7g.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1450000000"
         ],
         "US West (Oregon)": [
@@ -9748,7 +9748,7 @@
         ]
     },
     "Instance-instancetype-h1.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2340000000"
         ],
         "US West (Oregon)": [
@@ -9765,7 +9765,7 @@
         ]
     },
     "Instance-instancetype-c6in.32xlarge": {
-        "Regionless": [
+        "Default": [
             "1.8144000000"
         ],
         "US West (Oregon)": [
@@ -9860,7 +9860,7 @@
         ]
     },
     "Instance-instancetype-m6i.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.0480000000"
         ],
         "US West (Oregon)": [
@@ -9961,7 +9961,7 @@
         ]
     },
     "Instance-instancetype-r6idn.8xlarge": {
-        "Regionless": [
+        "Default": [
             "0.7815600000"
         ],
         "US West (Oregon)": [
@@ -9996,7 +9996,7 @@
         ]
     },
     "Instance-instancetype-i3.16xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -10091,7 +10091,7 @@
         ]
     },
     "Instance-instancetype-c7i.24xlarge": {
-        "Regionless": [
+        "Default": [
             "1.0710000000"
         ],
         "US West (Oregon)": [
@@ -10162,7 +10162,7 @@
         ]
     },
     "Instance-instancetype-m7a.48xlarge": {
-        "Regionless": [
+        "Default": [
             "2.7820800000"
         ],
         "US West (Oregon)": [
@@ -10194,7 +10194,7 @@
         ]
     },
     "Instance-instancetype-z1d.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1860000000"
         ],
         "US West (Oregon)": [
@@ -10235,7 +10235,7 @@
         ]
     },
     "Instance-instancetype-r7gd.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.0680500000"
         ],
         "US West (Oregon)": [
@@ -10300,7 +10300,7 @@
         ]
     },
     "Instance-instancetype-m7i.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.0504000000"
         ],
         "US West (Oregon)": [
@@ -10374,7 +10374,7 @@
         ]
     },
     "Instance-instancetype-c6gn.12xlarge": {
-        "Regionless": [
+        "Default": [
             "0.5184000000"
         ],
         "US West (Oregon)": [
@@ -10463,7 +10463,7 @@
         ]
     },
     "Instance-instancetype-g5.12xlarge": {
-        "Regionless": [
+        "Default": [
             "1.4180000000"
         ],
         "US West (Oregon)": [
@@ -10516,7 +10516,7 @@
         ]
     },
     "Instance-instancetype-i2.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2130000000"
         ],
         "US West (Oregon)": [
@@ -10557,7 +10557,7 @@
         ]
     },
     "Instance-instancetype-m6g.16xlarge": {
-        "Regionless": [
+        "Default": [
             "0.6160000000"
         ],
         "US West (Oregon)": [
@@ -10664,7 +10664,7 @@
         ]
     },
     "Instance-instancetype-m2.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1230000000"
         ],
         "US West (Oregon)": [
@@ -10696,7 +10696,7 @@
         ]
     },
     "Instance-instancetype-c7a.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2052800000"
         ],
         "US West (Oregon)": [
@@ -10725,7 +10725,7 @@
         ]
     },
     "Instance-instancetype-p3.16xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -10766,7 +10766,7 @@
         ]
     },
     "Instance-instancetype-m6in.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.0696150000"
         ],
         "US West (Oregon)": [
@@ -10816,7 +10816,7 @@
         ]
     },
     "Instance-instancetype-p5.48xlarge": {
-        "Regionless": [
+        "Default": [
             "24.5800000000"
         ],
         "US West (Oregon)": [
@@ -10854,7 +10854,7 @@
         ]
     },
     "Instance-instancetype-g6.12xlarge": {
-        "Regionless": [
+        "Default": [
             "1.1504000000"
         ],
         "US West (Oregon)": [
@@ -10910,7 +10910,7 @@
         ]
     },
     "Instance-instancetype-m5a.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.0430000000"
         ],
         "US West (Oregon)": [
@@ -10969,7 +10969,7 @@
         ]
     },
     "Instance-instancetype-d3en.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -10998,7 +10998,7 @@
         ]
     },
     "Instance-instancetype-p2.8xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -11036,7 +11036,7 @@
         ]
     },
     "Instance-instancetype-m7a.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1159200000"
         ],
         "US West (Oregon)": [
@@ -11068,7 +11068,7 @@
         ]
     },
     "Instance-instancetype-x2idn.16xlarge": {
-        "Regionless": [
+        "Default": [
             "1.6672500000"
         ],
         "US West (Oregon)": [
@@ -11160,7 +11160,7 @@
         ]
     },
     "Instance-instancetype-m5n.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1190000000"
         ],
         "US West (Oregon)": [
@@ -11192,7 +11192,7 @@
         ]
     },
     "Instance-instancetype-i4i.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1715000000"
         ],
         "US West (Oregon)": [
@@ -11296,7 +11296,7 @@
         ]
     },
     "Instance-instancetype-m7i-flex.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.0478800000"
         ],
         "US West (Oregon)": [
@@ -11364,7 +11364,7 @@
         ]
     },
     "Instance-instancetype-m5n.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.0595000000"
         ],
         "US West (Oregon)": [
@@ -11396,7 +11396,7 @@
         ]
     },
     "Instance-instancetype-m6a.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.0864000000"
         ],
         "US West (Oregon)": [
@@ -11449,7 +11449,7 @@
         ]
     },
     "Instance-instancetype-c6in.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2268000000"
         ],
         "US West (Oregon)": [
@@ -11544,7 +11544,7 @@
         ]
     },
     "Instance-instancetype-m3.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.0700000000"
         ],
         "US West (Oregon)": [
@@ -11579,7 +11579,7 @@
         ]
     },
     "Instance-instancetype-m5zn.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.0825750000"
         ],
         "US West (Oregon)": [
@@ -11617,7 +11617,7 @@
         ]
     },
     "Instance-instancetype-im4gn.16xlarge": {
-        "Regionless": [
+        "Default": [
             "1.4551675000"
         ],
         "US West (Oregon)": [
@@ -11658,7 +11658,7 @@
         ]
     },
     "Instance-instancetype-r6g.8xlarge": {
-        "Regionless": [
+        "Default": [
             "0.4032000000"
         ],
         "US West (Oregon)": [
@@ -11765,7 +11765,7 @@
         ]
     },
     "Instance-instancetype-c3.8xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -11800,7 +11800,7 @@
         ]
     },
     "EMR WAL WriteRequestGiB": {
-        "Regionless": [
+        "Default": [
             "0.0883000000"
         ],
         "US West (Oregon)": [
@@ -11844,7 +11844,7 @@
         ]
     },
     "Instance-instancetype-m5a.12xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -11903,7 +11903,7 @@
         ]
     },
     "Instance-instancetype-c6id.16xlarge": {
-        "Regionless": [
+        "Default": [
             "0.8064000000"
         ],
         "US West (Oregon)": [
@@ -11962,7 +11962,7 @@
         ]
     },
     "Instance-instancetype-m6gd.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1808000000"
         ],
         "US West (Oregon)": [
@@ -12069,7 +12069,7 @@
         ]
     },
     "Instance-instancetype-m4.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1200000000"
         ],
         "US West (Oregon)": [
@@ -12122,7 +12122,7 @@
         ]
     },
     "Instance-instancetype-c5ad.12xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -12160,7 +12160,7 @@
         ]
     },
     "Instance-instancetype-im4gn.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.0909475000"
         ],
         "US West (Oregon)": [
@@ -12201,7 +12201,7 @@
         ]
     },
     "Instance-instancetype-z1d.12xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -12242,7 +12242,7 @@
         ]
     },
     "Instance-instancetype-r5ad.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2620000000"
         ],
         "US West (Oregon)": [
@@ -12295,7 +12295,7 @@
         ]
     },
     "EMR Containers Fargate SparkSubmitGBHours": {
-        "Regionless": [
+        "Default": [
             "0.0011112500"
         ],
         "US West (Oregon)": [
@@ -12384,7 +12384,7 @@
         ]
     },
     "Instance-instancetype-c5d.12xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -12467,7 +12467,7 @@
         ]
     },
     "Instance-instancetype-r7a.32xlarge": {
-        "Regionless": [
+        "Default": [
             "2.4344000000"
         ],
         "US West (Oregon)": [
@@ -12496,7 +12496,7 @@
         ]
     },
     "Instance-instancetype-m7g.12xlarge": {
-        "Regionless": [
+        "Default": [
             "0.4896000000"
         ],
         "US West (Oregon)": [
@@ -12588,7 +12588,7 @@
         ]
     },
     "Instance-instancetype-r5n.8xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -12656,7 +12656,7 @@
         ]
     },
     "Instance-instancetype-c6in.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1134000000"
         ],
         "US West (Oregon)": [
@@ -12751,7 +12751,7 @@
         ]
     },
     "Instance-instancetype-r6gd.12xlarge": {
-        "Regionless": [
+        "Default": [
             "0.6912000000"
         ],
         "US West (Oregon)": [
@@ -12822,7 +12822,7 @@
         ]
     },
     "Instance-instancetype-r7iz.16xlarge": {
-        "Regionless": [
+        "Default": [
             "1.4880000000"
         ],
         "US West (Oregon)": [
@@ -12845,7 +12845,7 @@
         ]
     },
     "Instance-instancetype-c5a.12xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -12916,7 +12916,7 @@
         ]
     },
     "Instance-instancetype-m5.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1920000000"
         ],
         "US West (Oregon)": [
@@ -13014,7 +13014,7 @@
         ]
     },
     "Instance-instancetype-m6in.24xlarge": {
-        "Regionless": [
+        "Default": [
             "1.6707600000"
         ],
         "US West (Oregon)": [
@@ -13064,7 +13064,7 @@
         ]
     },
     "Instance-instancetype-c5d.24xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -13147,7 +13147,7 @@
         ]
     },
     "Instance-instancetype-r5.16xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -13245,7 +13245,7 @@
         ]
     },
     "Instance-instancetype-c6i.8xlarge": {
-        "Regionless": [
+        "Default": [
             "0.3400000000"
         ],
         "US West (Oregon)": [
@@ -13337,7 +13337,7 @@
         ]
     },
     "Instance-instancetype-r6idn.24xlarge": {
-        "Regionless": [
+        "Default": [
             "2.3446800000"
         ],
         "US West (Oregon)": [
@@ -13372,7 +13372,7 @@
         ]
     },
     "Instance-instancetype-r6in.12xlarge": {
-        "Regionless": [
+        "Default": [
             "1.0459800000"
         ],
         "US West (Oregon)": [
@@ -13407,7 +13407,7 @@
         ]
     },
     "Instance-instancetype-c5d.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.0480000000"
         ],
         "US West (Oregon)": [
@@ -13502,7 +13502,7 @@
         ]
     },
     "Instance-instancetype-m6gd.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.0904000000"
         ],
         "US West (Oregon)": [
@@ -13609,7 +13609,7 @@
         ]
     },
     "Instance-instancetype-m6id.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.0593250000"
         ],
         "US West (Oregon)": [
@@ -13677,7 +13677,7 @@
         ]
     },
     "Instance-instancetype-m4.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.0600000000"
         ],
         "US West (Oregon)": [
@@ -13730,7 +13730,7 @@
         ]
     },
     "Instance-instancetype-r7iz.8xlarge": {
-        "Regionless": [
+        "Default": [
             "0.7440000000"
         ],
         "US West (Oregon)": [
@@ -13753,7 +13753,7 @@
         ]
     },
     "Instance-instancetype-c7gd.12xlarge": {
-        "Regionless": [
+        "Default": [
             "0.5443250000"
         ],
         "US West (Oregon)": [
@@ -13800,7 +13800,7 @@
         ]
     },
     "Instance-instancetype-g4dn.16xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -13874,7 +13874,7 @@
         ]
     },
     "Instance-instancetype-i3en.24xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -13981,7 +13981,7 @@
         ]
     },
     "Instance-instancetype-r6id.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.0756000000"
         ],
         "US West (Oregon)": [
@@ -14037,7 +14037,7 @@
         ]
     },
     "Instance-instancetype-r5b.16xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -14084,7 +14084,7 @@
         ]
     },
     "Instance-instancetype-r5dn.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1670000000"
         ],
         "US West (Oregon)": [
@@ -14134,7 +14134,7 @@
         ]
     },
     "Instance-instancetype-m5d.12xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -14232,7 +14232,7 @@
         ]
     },
     "Instance-instancetype-m5dn.8xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -14264,7 +14264,7 @@
         ]
     },
     "Instance-instancetype-c6id.12xlarge": {
-        "Regionless": [
+        "Default": [
             "0.6048000000"
         ],
         "US West (Oregon)": [
@@ -14323,7 +14323,7 @@
         ]
     },
     "Instance-instancetype-m6id.32xlarge": {
-        "Regionless": [
+        "Default": [
             "1.8984000000"
         ],
         "US West (Oregon)": [
@@ -14391,7 +14391,7 @@
         ]
     },
     "Instance-instancetype-r5ad.16xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -14444,7 +14444,7 @@
         ]
     },
     "Instance-instancetype-r6g.16xlarge": {
-        "Regionless": [
+        "Default": [
             "0.8064000000"
         ],
         "US West (Oregon)": [
@@ -14551,7 +14551,7 @@
         ]
     },
     "Instance-instancetype-c6i.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1700000000"
         ],
         "US West (Oregon)": [
@@ -14643,7 +14643,7 @@
         ]
     },
     "Instance-instancetype-c6in.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.0567000000"
         ],
         "US West (Oregon)": [
@@ -14738,7 +14738,7 @@
         ]
     },
     "Instance-instancetype-r6a.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2268000000"
         ],
         "US West (Oregon)": [
@@ -14779,7 +14779,7 @@
         ]
     },
     "Instance-instancetype-r7g.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.0535500000"
         ],
         "US West (Oregon)": [
@@ -14856,7 +14856,7 @@
         ]
     },
     "Instance-instancetype-g6.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2012000000"
         ],
         "US West (Oregon)": [
@@ -14912,7 +14912,7 @@
         ]
     },
     "Instance-instancetype-m7gd.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.0534000000"
         ],
         "US West (Oregon)": [
@@ -14971,7 +14971,7 @@
         ]
     },
     "Instance-instancetype-m7a.8xlarge": {
-        "Regionless": [
+        "Default": [
             "0.4636800000"
         ],
         "US West (Oregon)": [
@@ -15003,7 +15003,7 @@
         ]
     },
     "Instance-instancetype-c6a.12xlarge": {
-        "Regionless": [
+        "Default": [
             "0.4590000000"
         ],
         "US West (Oregon)": [
@@ -15053,7 +15053,7 @@
         ]
     },
     "Instance-instancetype-m7i.12xlarge": {
-        "Regionless": [
+        "Default": [
             "0.6048000000"
         ],
         "US West (Oregon)": [
@@ -15127,7 +15127,7 @@
         ]
     },
     "Instance-instancetype-c5ad.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.0860000000"
         ],
         "US West (Oregon)": [
@@ -15165,7 +15165,7 @@
         ]
     },
     "Instance-instancetype-m6i.16xlarge": {
-        "Regionless": [
+        "Default": [
             "0.7680000000"
         ],
         "US West (Oregon)": [
@@ -15266,7 +15266,7 @@
         ]
     },
     "Instance-instancetype-r7g.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1071000000"
         ],
         "US West (Oregon)": [
@@ -15343,7 +15343,7 @@
         ]
     },
     "Instance-instancetype-g3s.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1880000000"
         ],
         "US West (Oregon)": [
@@ -15375,7 +15375,7 @@
         ]
     },
     "Instance-instancetype-i4i.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.0857500000"
         ],
         "US West (Oregon)": [
@@ -15479,7 +15479,7 @@
         ]
     },
     "Instance-instancetype-c6id.24xlarge": {
-        "Regionless": [
+        "Default": [
             "1.2096000000"
         ],
         "US West (Oregon)": [
@@ -15538,7 +15538,7 @@
         ]
     },
     "Instance-instancetype-m2.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2460000000"
         ],
         "US West (Oregon)": [
@@ -15570,7 +15570,7 @@
         ]
     },
     "Instance-instancetype-c6a.8xlarge": {
-        "Regionless": [
+        "Default": [
             "0.3060000000"
         ],
         "US West (Oregon)": [
@@ -15620,7 +15620,7 @@
         ]
     },
     "Instance-instancetype-r7gd.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2721500000"
         ],
         "US West (Oregon)": [
@@ -15685,7 +15685,7 @@
         ]
     },
     "Instance-instancetype-m7i-flex.8xlarge": {
-        "Regionless": [
+        "Default": [
             "0.3830400000"
         ],
         "US West (Oregon)": [
@@ -15753,7 +15753,7 @@
         ]
     },
     "Instance-instancetype-r7a.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.0760750000"
         ],
         "US West (Oregon)": [
@@ -15782,7 +15782,7 @@
         ]
     },
     "Instance-instancetype-c7i.16xlarge": {
-        "Regionless": [
+        "Default": [
             "0.7140000000"
         ],
         "US West (Oregon)": [
@@ -15853,7 +15853,7 @@
         ]
     },
     "Instance-instancetype-r8g.12xlarge": {
-        "Regionless": [
+        "Default": [
             "0.7069200000"
         ],
         "US West (Oregon)": [
@@ -15894,7 +15894,7 @@
         ]
     },
     "Instance-instancetype-r5a.12xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -15953,7 +15953,7 @@
         ]
     },
     "Instance-instancetype-x2iedn.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.8336250000"
         ],
         "US West (Oregon)": [
@@ -16033,7 +16033,7 @@
         ]
     },
     "Instance-instancetype-r4.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2660000000"
         ],
         "US West (Oregon)": [
@@ -16089,7 +16089,7 @@
         ]
     },
     "Instance-instancetype-c6a.16xlarge": {
-        "Regionless": [
+        "Default": [
             "0.6120000000"
         ],
         "US West (Oregon)": [
@@ -16139,7 +16139,7 @@
         ]
     },
     "Instance-instancetype-m6in.16xlarge": {
-        "Regionless": [
+        "Default": [
             "1.1138400000"
         ],
         "US West (Oregon)": [
@@ -16189,7 +16189,7 @@
         ]
     },
     "Instance-instancetype-i3en.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1130000000"
         ],
         "US West (Oregon)": [
@@ -16296,7 +16296,7 @@
         ]
     },
     "Instance-instancetype-z1d.3xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -16337,7 +16337,7 @@
         ]
     },
     "Instance-instancetype-r6i.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.0630000000"
         ],
         "US West (Oregon)": [
@@ -16435,7 +16435,7 @@
         ]
     },
     "Instance-instancetype-i2.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -16476,7 +16476,7 @@
         ]
     },
     "Instance-instancetype-r5.8xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -16574,7 +16574,7 @@
         ]
     },
     "EMR Containers Fargate FlinkOperatorCPUHours": {
-        "Regionless": [
+        "Default": [
             "0.0101200000"
         ],
         "US West (Oregon)": [
@@ -16663,7 +16663,7 @@
         ]
     },
     "EMR Containers EC2 FlinkNativeCPUHours": {
-        "Regionless": [
+        "Default": [
             "0.0101200000"
         ],
         "US West (Oregon)": [
@@ -16752,7 +16752,7 @@
         ]
     },
     "Instance-instancetype-x2idn.24xlarge": {
-        "Regionless": [
+        "Default": [
             "2.5008750000"
         ],
         "US West (Oregon)": [
@@ -16844,7 +16844,7 @@
         ]
     },
     "EMR Containers EC2 SparkSubmitCPUHours": {
-        "Regionless": [
+        "Default": [
             "0.0101200000"
         ],
         "US West (Oregon)": [
@@ -16933,7 +16933,7 @@
         ]
     },
     "Instance-instancetype-x2iedn.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.4168125000"
         ],
         "US West (Oregon)": [
@@ -17013,7 +17013,7 @@
         ]
     },
     "Instance-instancetype-g5.48xlarge": {
-        "Regionless": [
+        "Default": [
             "4.0720000000"
         ],
         "US West (Oregon)": [
@@ -17066,7 +17066,7 @@
         ]
     },
     "Instance-instancetype-i3.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -17161,7 +17161,7 @@
         ]
     },
     "EMR Containers Fargate SparkSubmitCPUHours": {
-        "Regionless": [
+        "Default": [
             "0.0101200000"
         ],
         "US West (Oregon)": [
@@ -17250,7 +17250,7 @@
         ]
     },
     "Instance-instancetype-m5dn.24xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -17282,7 +17282,7 @@
         ]
     },
     "Instance-instancetype-r8g.24xlarge": {
-        "Regionless": [
+        "Default": [
             "1.4138400000"
         ],
         "US West (Oregon)": [
@@ -17323,7 +17323,7 @@
         ]
     },
     "Instance-instancetype-r8g.48xlarge": {
-        "Regionless": [
+        "Default": [
             "2.8276800000"
         ],
         "US West (Oregon)": [
@@ -17364,7 +17364,7 @@
         ]
     },
     "Instance-instancetype-r7gd.8xlarge": {
-        "Regionless": [
+        "Default": [
             "0.5443250000"
         ],
         "US West (Oregon)": [
@@ -17429,7 +17429,7 @@
         ]
     },
     "Instance-instancetype-c5a.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1540000000"
         ],
         "US West (Oregon)": [
@@ -17500,7 +17500,7 @@
         ]
     },
     "Instance-instancetype-m6i.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.0960000000"
         ],
         "US West (Oregon)": [
@@ -17601,7 +17601,7 @@
         ]
     },
     "Instance-instancetype-g6.24xlarge": {
-        "Regionless": [
+        "Default": [
             "1.6688000000"
         ],
         "US West (Oregon)": [
@@ -17657,7 +17657,7 @@
         ]
     },
     "Instance-instancetype-d2.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -17728,7 +17728,7 @@
         ]
     },
     "Instance-instancetype-r3.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.0900000000"
         ],
         "US West (Oregon)": [
@@ -17772,7 +17772,7 @@
         ]
     },
     "Instance-instancetype-is4gen.8xlarge": {
-        "Regionless": [
+        "Default": [
             "1.1526000000"
         ],
         "US West (Oregon)": [
@@ -17813,7 +17813,7 @@
         ]
     },
     "Instance-instancetype-c7i.8xlarge": {
-        "Regionless": [
+        "Default": [
             "0.3570000000"
         ],
         "US West (Oregon)": [
@@ -17884,7 +17884,7 @@
         ]
     },
     "Instance-instancetype-r7i.8xlarge": {
-        "Regionless": [
+        "Default": [
             "0.5292000000"
         ],
         "US West (Oregon)": [
@@ -17964,7 +17964,7 @@
         ]
     },
     "Instance-instancetype-m5ad.16xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -18017,7 +18017,7 @@
         ]
     },
     "Instance-instancetype-c5ad.16xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -18055,7 +18055,7 @@
         ]
     },
     "Instance-instancetype-r7i.24xlarge": {
-        "Regionless": [
+        "Default": [
             "1.5876000000"
         ],
         "US West (Oregon)": [
@@ -18135,7 +18135,7 @@
         ]
     },
     "Instance-instancetype-m1.large": {
-        "Regionless": [
+        "Default": [
             "0.0440000000"
         ],
         "US West (Oregon)": [
@@ -18167,7 +18167,7 @@
         ]
     },
     "Instance-instancetype-c5a.16xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -18238,7 +18238,7 @@
         ]
     },
     "Instance-instancetype-r6id.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1512000000"
         ],
         "US West (Oregon)": [
@@ -18294,7 +18294,7 @@
         ]
     },
     "Instance-instancetype-g4dn.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1880000000"
         ],
         "US West (Oregon)": [
@@ -18368,7 +18368,7 @@
         ]
     },
     "Instance-instancetype-c4.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2100000000"
         ],
         "US West (Oregon)": [
@@ -18421,7 +18421,7 @@
         ]
     },
     "Instance-instancetype-r7a.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.3043000000"
         ],
         "US West (Oregon)": [
@@ -18450,7 +18450,7 @@
         ]
     },
     "Instance-instancetype-r6a.48xlarge": {
-        "Regionless": [
+        "Default": [
             "2.7216000000"
         ],
         "US West (Oregon)": [
@@ -18491,7 +18491,7 @@
         ]
     },
     "Instance-instancetype-m5d.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.0570000000"
         ],
         "US West (Oregon)": [
@@ -18589,7 +18589,7 @@
         ]
     },
     "Instance-instancetype-r3.8xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -18633,7 +18633,7 @@
         ]
     },
     "Instance-instancetype-r5n.12xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -18701,7 +18701,7 @@
         ]
     },
     "Instance-instancetype-r5a.24xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -18760,7 +18760,7 @@
         ]
     },
     "Instance-instancetype-c6id.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2016000000"
         ],
         "US West (Oregon)": [
@@ -18819,7 +18819,7 @@
         ]
     },
     "Instance-instancetype-m5a.24xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -18878,7 +18878,7 @@
         ]
     },
     "Instance-instancetype-r5a.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2260000000"
         ],
         "US West (Oregon)": [
@@ -18937,7 +18937,7 @@
         ]
     },
     "Instance-instancetype-r5.24xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -19035,7 +19035,7 @@
         ]
     },
     "Instance-instancetype-m6idn.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.0795600000"
         ],
         "US West (Oregon)": [
@@ -19085,7 +19085,7 @@
         ]
     },
     "Instance-instancetype-c6a.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.0765000000"
         ],
         "US West (Oregon)": [
@@ -19135,7 +19135,7 @@
         ]
     },
     "Instance-instancetype-is4gen.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2881500000"
         ],
         "US West (Oregon)": [
@@ -19176,7 +19176,7 @@
         ]
     },
     "Instance-instancetype-m5n.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2380000000"
         ],
         "US West (Oregon)": [
@@ -19208,7 +19208,7 @@
         ]
     },
     "Instance-instancetype-r6i.8xlarge": {
-        "Regionless": [
+        "Default": [
             "0.5040000000"
         ],
         "US West (Oregon)": [
@@ -19306,7 +19306,7 @@
         ]
     },
     "Instance-instancetype-m5zn.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1651750000"
         ],
         "US West (Oregon)": [
@@ -19344,7 +19344,7 @@
         ]
     },
     "Instance-instancetype-c7a.24xlarge": {
-        "Regionless": [
+        "Default": [
             "1.2316800000"
         ],
         "US West (Oregon)": [
@@ -19373,7 +19373,7 @@
         ]
     },
     "Instance-instancetype-d3.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2497500000"
         ],
         "US West (Oregon)": [
@@ -19423,7 +19423,7 @@
         ]
     },
     "Instance-instancetype-z1d.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.0930000000"
         ],
         "US West (Oregon)": [
@@ -19464,7 +19464,7 @@
         ]
     },
     "Instance-instancetype-c7gd.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1814500000"
         ],
         "US West (Oregon)": [
@@ -19511,7 +19511,7 @@
         ]
     },
     "Instance-instancetype-r6id.8xlarge": {
-        "Regionless": [
+        "Default": [
             "0.6048000000"
         ],
         "US West (Oregon)": [
@@ -19567,7 +19567,7 @@
         ]
     },
     "Instance-instancetype-m6g.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.0390000000"
         ],
         "US West (Oregon)": [
@@ -19674,7 +19674,7 @@
         ]
     },
     "Instance-instancetype-x2gd.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1670000000"
         ],
         "US West (Oregon)": [
@@ -19691,7 +19691,7 @@
         ]
     },
     "Instance-instancetype-m7g.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.0816000000"
         ],
         "US West (Oregon)": [
@@ -19783,7 +19783,7 @@
         ]
     },
     "Instance-instancetype-r6in.32xlarge": {
-        "Regionless": [
+        "Default": [
             "2.7892800000"
         ],
         "US West (Oregon)": [
@@ -19818,7 +19818,7 @@
         ]
     },
     "Instance-instancetype-d3.8xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -19868,7 +19868,7 @@
         ]
     },
     "Instance-instancetype-d3en.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2627500000"
         ],
         "US West (Oregon)": [
@@ -19897,7 +19897,7 @@
         ]
     },
     "Instance-instancetype-m6i.8xlarge": {
-        "Regionless": [
+        "Default": [
             "0.3840000000"
         ],
         "US West (Oregon)": [
@@ -19998,7 +19998,7 @@
         ]
     },
     "Instance-instancetype-c7a.32xlarge": {
-        "Regionless": [
+        "Default": [
             "1.6422400000"
         ],
         "US West (Oregon)": [
@@ -20027,7 +20027,7 @@
         ]
     },
     "Instance-instancetype-im4gn.8xlarge": {
-        "Regionless": [
+        "Default": [
             "0.7275850000"
         ],
         "US West (Oregon)": [
@@ -20068,7 +20068,7 @@
         ]
     },
     "EMR Containers EC2 FlinkOperatorGBHours": {
-        "Regionless": [
+        "Default": [
             "0.0011112500"
         ],
         "US West (Oregon)": [
@@ -20157,7 +20157,7 @@
         ]
     },
     "Instance-instancetype-m5a.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.0860000000"
         ],
         "US West (Oregon)": [
@@ -20216,7 +20216,7 @@
         ]
     },
     "Instance-instancetype-m6idn.24xlarge": {
-        "Regionless": [
+        "Default": [
             "1.9094400000"
         ],
         "US West (Oregon)": [
@@ -20266,7 +20266,7 @@
         ]
     },
     "Instance-instancetype-m5d.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2260000000"
         ],
         "US West (Oregon)": [
@@ -20364,7 +20364,7 @@
         ]
     },
     "Instance-instancetype-r7gd.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1360750000"
         ],
         "US West (Oregon)": [
@@ -20429,7 +20429,7 @@
         ]
     },
     "Instance-instancetype-c5ad.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1720000000"
         ],
         "US West (Oregon)": [
@@ -20467,7 +20467,7 @@
         ]
     },
     "Instance-instancetype-m1.medium": {
-        "Regionless": [
+        "Default": [
             "0.0220000000"
         ],
         "US West (Oregon)": [
@@ -20499,7 +20499,7 @@
         ]
     },
     "Instance-instancetype-m7a.12xlarge": {
-        "Regionless": [
+        "Default": [
             "0.6955200000"
         ],
         "US West (Oregon)": [
@@ -20531,7 +20531,7 @@
         ]
     },
     "Instance-instancetype-c4.large": {
-        "Regionless": [
+        "Default": [
             "0.0260000000"
         ],
         "US West (Oregon)": [
@@ -20584,7 +20584,7 @@
         ]
     },
     "Instance-instancetype-c7gd.16xlarge": {
-        "Regionless": [
+        "Default": [
             "0.7257500000"
         ],
         "US West (Oregon)": [
@@ -20631,7 +20631,7 @@
         ]
     },
     "Instance-instancetype-m6gd.8xlarge": {
-        "Regionless": [
+        "Default": [
             "0.3616000000"
         ],
         "US West (Oregon)": [
@@ -20738,7 +20738,7 @@
         ]
     },
     "Instance-instancetype-m5a.16xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -20797,7 +20797,7 @@
         ]
     },
     "EMR WAL ReadRequestGiB": {
-        "Regionless": [
+        "Default": [
             "0.0883000000"
         ],
         "US West (Oregon)": [
@@ -20841,7 +20841,7 @@
         ]
     },
     "Instance-instancetype-r6idn.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1953900000"
         ],
         "US West (Oregon)": [
@@ -20876,7 +20876,7 @@
         ]
     },
     "Instance-instancetype-m5n.24xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -20908,7 +20908,7 @@
         ]
     },
     "Instance-instancetype-c6g.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.0340000000"
         ],
         "US West (Oregon)": [
@@ -21015,7 +21015,7 @@
         ]
     },
     "Instance-instancetype-c7i.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.0446250000"
         ],
         "US West (Oregon)": [
@@ -21086,7 +21086,7 @@
         ]
     },
     "EMR Containers EC2 FlinkOperatorCPUHours": {
-        "Regionless": [
+        "Default": [
             "0.0101200000"
         ],
         "US West (Oregon)": [
@@ -21175,7 +21175,7 @@
         ]
     },
     "Instance-instancetype-c6id.32xlarge": {
-        "Regionless": [
+        "Default": [
             "1.6128000000"
         ],
         "US West (Oregon)": [
@@ -21234,7 +21234,7 @@
         ]
     },
     "Instance-instancetype-r5b.24xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -21281,7 +21281,7 @@
         ]
     },
     "Instance-instancetype-r7g.16xlarge": {
-        "Regionless": [
+        "Default": [
             "0.8568000000"
         ],
         "US West (Oregon)": [
@@ -21358,7 +21358,7 @@
         ]
     },
     "Instance-instancetype-d3en.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1315000000"
         ],
         "US West (Oregon)": [
@@ -21387,7 +21387,7 @@
         ]
     },
     "Instance-instancetype-m5dn.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -21419,7 +21419,7 @@
         ]
     },
     "Instance-instancetype-x1e.32xlarge": {
-        "Regionless": [
+        "Default": [
             "6.6720000000"
         ],
         "US West (Oregon)": [
@@ -21472,7 +21472,7 @@
         ]
     },
     "Instance-instancetype-g4dn.12xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -21546,7 +21546,7 @@
         ]
     },
     "EMR Containers EC2 SparkSubmitGBHours": {
-        "Regionless": [
+        "Default": [
             "0.0011112500"
         ],
         "US West (Oregon)": [
@@ -21635,7 +21635,7 @@
         ]
     },
     "Instance-instancetype-x1e.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.8340000000"
         ],
         "US West (Oregon)": [
@@ -21688,7 +21688,7 @@
         ]
     },
     "Instance-instancetype-c6gd.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.0384000000"
         ],
         "US West (Oregon)": [
@@ -21759,7 +21759,7 @@
         ]
     },
     "Instance-instancetype-m6idn.32xlarge": {
-        "Regionless": [
+        "Default": [
             "2.5459200000"
         ],
         "US West (Oregon)": [
@@ -21809,7 +21809,7 @@
         ]
     },
     "Instance-instancetype-m6in.8xlarge": {
-        "Regionless": [
+        "Default": [
             "0.5569200000"
         ],
         "US West (Oregon)": [
@@ -21859,7 +21859,7 @@
         ]
     },
     "Instance-instancetype-r5b.12xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -21906,7 +21906,7 @@
         ]
     },
     "Instance-instancetype-c5.18xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -22004,7 +22004,7 @@
         ]
     },
     "Instance-instancetype-m6id.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2373000000"
         ],
         "US West (Oregon)": [
@@ -22072,7 +22072,7 @@
         ]
     },
     "Instance-instancetype-r5dn.8xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -22122,7 +22122,7 @@
         ]
     },
     "Instance-instancetype-r7iz.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.3720000000"
         ],
         "US West (Oregon)": [
@@ -22145,7 +22145,7 @@
         ]
     },
     "Instance-instancetype-m5dn.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1360000000"
         ],
         "US West (Oregon)": [
@@ -22177,7 +22177,7 @@
         ]
     },
     "Instance-instancetype-r7iz.32xlarge": {
-        "Regionless": [
+        "Default": [
             "2.9760000000"
         ],
         "US West (Oregon)": [
@@ -22200,7 +22200,7 @@
         ]
     },
     "Instance-instancetype-r6idn.12xlarge": {
-        "Regionless": [
+        "Default": [
             "1.1723400000"
         ],
         "US West (Oregon)": [
@@ -22235,7 +22235,7 @@
         ]
     },
     "Instance-instancetype-m6a.48xlarge": {
-        "Regionless": [
+        "Default": [
             "2.0736000000"
         ],
         "US West (Oregon)": [
@@ -22288,7 +22288,7 @@
         ]
     },
     "Instance-instancetype-p2.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2250000000"
         ],
         "US West (Oregon)": [
@@ -22326,7 +22326,7 @@
         ]
     },
     "Instance-instancetype-x1.16xlarge": {
-        "Regionless": [
+        "Default": [
             "1.6672500000"
         ],
         "US West (Oregon)": [
@@ -22388,7 +22388,7 @@
         ]
     },
     "Instance-instancetype-m6a.24xlarge": {
-        "Regionless": [
+        "Default": [
             "1.0368000000"
         ],
         "US West (Oregon)": [
@@ -22441,7 +22441,7 @@
         ]
     },
     "Instance-instancetype-r6g.12xlarge": {
-        "Regionless": [
+        "Default": [
             "0.6048000000"
         ],
         "US West (Oregon)": [
@@ -22548,7 +22548,7 @@
         ]
     },
     "Instance-instancetype-d2.8xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -22619,7 +22619,7 @@
         ]
     },
     "Instance-instancetype-r5.12xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -22717,7 +22717,7 @@
         ]
     },
     "Instance-instancetype-m5ad.8xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -22770,7 +22770,7 @@
         ]
     },
     "Instance-instancetype-i3en.12xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -22877,7 +22877,7 @@
         ]
     },
     "Instance-instancetype-c7g.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.0362500000"
         ],
         "US West (Oregon)": [
@@ -22966,7 +22966,7 @@
         ]
     },
     "Instance-instancetype-c5.9xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -23064,7 +23064,7 @@
         ]
     },
     "Instance-instancetype-c6a.48xlarge": {
-        "Regionless": [
+        "Default": [
             "1.8360000000"
         ],
         "US West (Oregon)": [
@@ -23114,7 +23114,7 @@
         ]
     },
     "Instance-instancetype-r6gd.16xlarge": {
-        "Regionless": [
+        "Default": [
             "0.9216000000"
         ],
         "US West (Oregon)": [
@@ -23185,7 +23185,7 @@
         ]
     },
     "Instance-instancetype-r7g.8xlarge": {
-        "Regionless": [
+        "Default": [
             "0.4284000000"
         ],
         "US West (Oregon)": [
@@ -23262,7 +23262,7 @@
         ]
     },
     "Instance-instancetype-x2iedn.8xlarge": {
-        "Regionless": [
+        "Default": [
             "1.6672500000"
         ],
         "US West (Oregon)": [
@@ -23342,7 +23342,7 @@
         ]
     },
     "Instance-instancetype-m1.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.0880000000"
         ],
         "US West (Oregon)": [
@@ -23374,7 +23374,7 @@
         ]
     },
     "Instance-instancetype-r5a.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1130000000"
         ],
         "US West (Oregon)": [
@@ -23433,7 +23433,7 @@
         ]
     },
     "Instance-instancetype-c3.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1050000000"
         ],
         "US West (Oregon)": [
@@ -23468,7 +23468,7 @@
         ]
     },
     "Instance-instancetype-c7gd.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.0453500000"
         ],
         "US West (Oregon)": [
@@ -23515,7 +23515,7 @@
         ]
     },
     "Instance-instancetype-is4gen.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1440750000"
         ],
         "US West (Oregon)": [
@@ -23556,7 +23556,7 @@
         ]
     },
     "Instance-instancetype-m6id.16xlarge": {
-        "Regionless": [
+        "Default": [
             "0.9492000000"
         ],
         "US West (Oregon)": [
@@ -23624,7 +23624,7 @@
         ]
     },
     "EMR Containers EC2 SparkOperatorGBHours": {
-        "Regionless": [
+        "Default": [
             "0.0011112500"
         ],
         "US West (Oregon)": [
@@ -23713,7 +23713,7 @@
         ]
     },
     "Instance-instancetype-r7a.48xlarge": {
-        "Regionless": [
+        "Default": [
             "3.6516000000"
         ],
         "US West (Oregon)": [
@@ -23742,7 +23742,7 @@
         ]
     },
     "Instance-instancetype-m5d.16xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -23840,7 +23840,7 @@
         ]
     },
     "Instance-instancetype-r6a.32xlarge": {
-        "Regionless": [
+        "Default": [
             "1.8144000000"
         ],
         "US West (Oregon)": [
@@ -23881,7 +23881,7 @@
         ]
     },
     "Instance-instancetype-c6i.16xlarge": {
-        "Regionless": [
+        "Default": [
             "0.6800000000"
         ],
         "US West (Oregon)": [
@@ -23973,7 +23973,7 @@
         ]
     },
     "Instance-instancetype-d3.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1247500000"
         ],
         "US West (Oregon)": [
@@ -24023,7 +24023,7 @@
         ]
     },
     "Instance-instancetype-r7iz.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1860000000"
         ],
         "US West (Oregon)": [
@@ -24046,7 +24046,7 @@
         ]
     },
     "Instance-instancetype-r5.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1260000000"
         ],
         "US West (Oregon)": [
@@ -24144,7 +24144,7 @@
         ]
     },
     "Instance-instancetype-r6i.24xlarge": {
-        "Regionless": [
+        "Default": [
             "1.5120000000"
         ],
         "US West (Oregon)": [
@@ -24242,7 +24242,7 @@
         ]
     },
     "Instance-instancetype-r6id.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.3024000000"
         ],
         "US West (Oregon)": [
@@ -24298,7 +24298,7 @@
         ]
     },
     "EMR Containers Fargate InteractiveWorkloadGBHours": {
-        "Regionless": [
+        "Default": [
             "0.0011112500"
         ],
         "US West (Oregon)": [
@@ -24387,7 +24387,7 @@
         ]
     },
     "Instance-instancetype-c3.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.0530000000"
         ],
         "US West (Oregon)": [
@@ -24422,7 +24422,7 @@
         ]
     },
     "Instance-instancetype-m7i.48xlarge": {
-        "Regionless": [
+        "Default": [
             "2.4192000000"
         ],
         "US West (Oregon)": [
@@ -24496,7 +24496,7 @@
         ]
     },
     "Instance-instancetype-g6.16xlarge": {
-        "Regionless": [
+        "Default": [
             "0.8492000000"
         ],
         "US West (Oregon)": [
@@ -24552,7 +24552,7 @@
         ]
     },
     "Instance-instancetype-m4.16xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -24605,7 +24605,7 @@
         ]
     },
     "Instance-instancetype-c5n.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.0540000000"
         ],
         "US West (Oregon)": [
@@ -24682,7 +24682,7 @@
         ]
     },
     "Instance-instancetype-i3.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.0780000000"
         ],
         "US West (Oregon)": [
@@ -24777,7 +24777,7 @@
         ]
     },
     "Instance-instancetype-m5a.8xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -24836,7 +24836,7 @@
         ]
     },
     "Instance-instancetype-c7i.12xlarge": {
-        "Regionless": [
+        "Default": [
             "0.5355000000"
         ],
         "US West (Oregon)": [
@@ -24907,7 +24907,7 @@
         ]
     },
     "Instance-instancetype-c6gn.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.0432000000"
         ],
         "US West (Oregon)": [
@@ -24996,7 +24996,7 @@
         ]
     },
     "Instance-instancetype-r6a.16xlarge": {
-        "Regionless": [
+        "Default": [
             "0.9072000000"
         ],
         "US West (Oregon)": [
@@ -25037,7 +25037,7 @@
         ]
     },
     "Instance-instancetype-r7i.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2646000000"
         ],
         "US West (Oregon)": [
@@ -25117,7 +25117,7 @@
         ]
     },
     "Instance-instancetype-c6in.12xlarge": {
-        "Regionless": [
+        "Default": [
             "0.6804000000"
         ],
         "US West (Oregon)": [
@@ -25212,7 +25212,7 @@
         ]
     },
     "Instance-instancetype-c6gn.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.0864000000"
         ],
         "US West (Oregon)": [
@@ -25301,7 +25301,7 @@
         ]
     },
     "Instance-instancetype-r5d.8xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -25396,7 +25396,7 @@
         ]
     },
     "Instance-instancetype-m6idn.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.3182400000"
         ],
         "US West (Oregon)": [
@@ -25446,7 +25446,7 @@
         ]
     },
     "Instance-instancetype-z1d.6xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -25487,7 +25487,7 @@
         ]
     },
     "Instance-instancetype-i4g.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.0772200000"
         ],
         "US West (Oregon)": [
@@ -25510,7 +25510,7 @@
         ]
     },
     "Instance-instancetype-c5n.9xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -25587,7 +25587,7 @@
         ]
     },
     "Instance-instancetype-m6gd.12xlarge": {
-        "Regionless": [
+        "Default": [
             "0.5424000000"
         ],
         "US West (Oregon)": [
@@ -25694,7 +25694,7 @@
         ]
     },
     "Instance-instancetype-m5d.8xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -25792,7 +25792,7 @@
         ]
     },
     "Instance-instancetype-c6gd.12xlarge": {
-        "Regionless": [
+        "Default": [
             "0.4608000000"
         ],
         "US West (Oregon)": [
@@ -25863,7 +25863,7 @@
         ]
     },
     "Instance-instancetype-m7a.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2318400000"
         ],
         "US West (Oregon)": [
@@ -25895,7 +25895,7 @@
         ]
     },
     "Instance-instancetype-c5.24xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -25993,7 +25993,7 @@
         ]
     },
     "Instance-instancetype-r7gd.12xlarge": {
-        "Regionless": [
+        "Default": [
             "0.8164750000"
         ],
         "US West (Oregon)": [
@@ -26058,7 +26058,7 @@
         ]
     },
     "Instance-instancetype-r6a.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1134000000"
         ],
         "US West (Oregon)": [
@@ -26099,7 +26099,7 @@
         ]
     },
     "Instance-instancetype-x2gd.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.0835000000"
         ],
         "US West (Oregon)": [
@@ -26116,7 +26116,7 @@
         ]
     },
     "Instance-instancetype-m6in.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1392300000"
         ],
         "US West (Oregon)": [
@@ -26166,7 +26166,7 @@
         ]
     },
     "Instance-instancetype-x1e.16xlarge": {
-        "Regionless": [
+        "Default": [
             "3.3360000000"
         ],
         "US West (Oregon)": [
@@ -26219,7 +26219,7 @@
         ]
     },
     "Instance-instancetype-m6in.32xlarge": {
-        "Regionless": [
+        "Default": [
             "2.2276800000"
         ],
         "US West (Oregon)": [
@@ -26269,7 +26269,7 @@
         ]
     },
     "Instance-instancetype-r7i.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1323000000"
         ],
         "US West (Oregon)": [
@@ -26349,7 +26349,7 @@
         ]
     },
     "Instance-instancetype-r5d.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -26444,7 +26444,7 @@
         ]
     },
     "Instance-instancetype-m7gd.12xlarge": {
-        "Regionless": [
+        "Default": [
             "0.6407000000"
         ],
         "US West (Oregon)": [
@@ -26503,7 +26503,7 @@
         ]
     },
     "Instance-instancetype-c5ad.24xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -26541,7 +26541,7 @@
         ]
     },
     "Instance-instancetype-i4i.24xlarge": {
-        "Regionless": [
+        "Default": [
             "2.0592000000"
         ],
         "US West (Oregon)": [
@@ -26639,7 +26639,7 @@
         ]
     },
     "Instance-instancetype-g4dn.8xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -26713,7 +26713,7 @@
         ]
     },
     "Instance-instancetype-d2.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1730000000"
         ],
         "US West (Oregon)": [
@@ -26784,7 +26784,7 @@
         ]
     },
     "Instance-instancetype-r5ad.12xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -26837,7 +26837,7 @@
         ]
     },
     "Instance-instancetype-m7i.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1008000000"
         ],
         "US West (Oregon)": [
@@ -26911,7 +26911,7 @@
         ]
     },
     "Instance-instancetype-r5ad.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.0660000000"
         ],
         "US West (Oregon)": [
@@ -26964,7 +26964,7 @@
         ]
     },
     "Instance-instancetype-r4.16xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -27020,7 +27020,7 @@
         ]
     },
     "Instance-instancetype-r5d.16xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -27115,7 +27115,7 @@
         ]
     },
     "Instance-instancetype-r5b.8xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -27162,7 +27162,7 @@
         ]
     },
     "Instance-instancetype-c5ad.8xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -27200,7 +27200,7 @@
         ]
     },
     "Instance-instancetype-m6g.12xlarge": {
-        "Regionless": [
+        "Default": [
             "0.4620000000"
         ],
         "US West (Oregon)": [
@@ -27307,7 +27307,7 @@
         ]
     },
     "Instance-instancetype-i4g.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1544400000"
         ],
         "US West (Oregon)": [
@@ -27330,7 +27330,7 @@
         ]
     },
     "Instance-instancetype-r5b.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1490000000"
         ],
         "US West (Oregon)": [
@@ -27377,7 +27377,7 @@
         ]
     },
     "Instance-instancetype-r7g.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2142000000"
         ],
         "US West (Oregon)": [
@@ -27454,7 +27454,7 @@
         ]
     },
     "Instance-instancetype-m6a.12xlarge": {
-        "Regionless": [
+        "Default": [
             "0.5184000000"
         ],
         "US West (Oregon)": [
@@ -27507,7 +27507,7 @@
         ]
     },
     "Instance-instancetype-c7g.8xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2900000000"
         ],
         "US West (Oregon)": [
@@ -27596,7 +27596,7 @@
         ]
     },
     "Instance-instancetype-m6g.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1540000000"
         ],
         "US West (Oregon)": [
@@ -27703,7 +27703,7 @@
         ]
     },
     "Instance-instancetype-c5n.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2160000000"
         ],
         "US West (Oregon)": [
@@ -27780,7 +27780,7 @@
         ]
     },
     "Instance-instancetype-r4.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.0670000000"
         ],
         "US West (Oregon)": [
@@ -27836,7 +27836,7 @@
         ]
     },
     "Instance-instancetype-m5dn.16xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -27868,7 +27868,7 @@
         ]
     },
     "Instance-instancetype-m6id.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1186500000"
         ],
         "US West (Oregon)": [
@@ -27936,7 +27936,7 @@
         ]
     },
     "Instance-instancetype-c6gd.16xlarge": {
-        "Regionless": [
+        "Default": [
             "0.6144000000"
         ],
         "US West (Oregon)": [
@@ -28007,7 +28007,7 @@
         ]
     },
     "Instance-instancetype-g6.48xlarge": {
-        "Regionless": [
+        "Default": [
             "3.3376000000"
         ],
         "US West (Oregon)": [
@@ -28063,7 +28063,7 @@
         ]
     },
     "EMR Containers Fargate GBHours": {
-        "Regionless": [
+        "Default": [
             "0.0011112500"
         ],
         "US West (Oregon)": [
@@ -28152,7 +28152,7 @@
         ]
     },
     "Instance-instancetype-g3.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -28196,7 +28196,7 @@
         ]
     },
     "Instance-instancetype-m5ad.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1030000000"
         ],
         "US West (Oregon)": [
@@ -28249,7 +28249,7 @@
         ]
     },
     "Instance-instancetype-c6gd.8xlarge": {
-        "Regionless": [
+        "Default": [
             "0.3072000000"
         ],
         "US West (Oregon)": [
@@ -28320,7 +28320,7 @@
         ]
     },
     "Instance-instancetype-m7i.16xlarge": {
-        "Regionless": [
+        "Default": [
             "0.8064000000"
         ],
         "US West (Oregon)": [
@@ -28394,7 +28394,7 @@
         ]
     },
     "Instance-instancetype-r5b.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -28441,7 +28441,7 @@
         ]
     },
     "Instance-instancetype-c5d.18xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -28536,7 +28536,7 @@
         ]
     },
     "Instance-instancetype-g4dn.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1320000000"
         ],
         "US West (Oregon)": [
@@ -28610,7 +28610,7 @@
         ]
     },
     "Instance-instancetype-m6i.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1920000000"
         ],
         "US West (Oregon)": [
@@ -28711,7 +28711,7 @@
         ]
     },
     "Instance-instancetype-r5d.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1440000000"
         ],
         "US West (Oregon)": [
@@ -28806,7 +28806,7 @@
         ]
     },
     "Instance-instancetype-m6idn.12xlarge": {
-        "Regionless": [
+        "Default": [
             "0.9547200000"
         ],
         "US West (Oregon)": [
@@ -28856,7 +28856,7 @@
         ]
     },
     "Instance-instancetype-r6in.24xlarge": {
-        "Regionless": [
+        "Default": [
             "2.0919600000"
         ],
         "US West (Oregon)": [
@@ -28891,7 +28891,7 @@
         ]
     },
     "Instance-instancetype-c5a.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.0385000000"
         ],
         "US West (Oregon)": [
@@ -28962,7 +28962,7 @@
         ]
     },
     "Instance-instancetype-r7i.12xlarge": {
-        "Regionless": [
+        "Default": [
             "0.7938000000"
         ],
         "US West (Oregon)": [
@@ -29042,7 +29042,7 @@
         ]
     },
     "Instance-instancetype-m4.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2400000000"
         ],
         "US West (Oregon)": [
@@ -29095,7 +29095,7 @@
         ]
     },
     "Instance-instancetype-c5.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1700000000"
         ],
         "US West (Oregon)": [
@@ -29193,7 +29193,7 @@
         ]
     },
     "Instance-instancetype-m3.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1400000000"
         ],
         "US West (Oregon)": [
@@ -29228,7 +29228,7 @@
         ]
     },
     "Instance-instancetype-i4g.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.3088800000"
         ],
         "US West (Oregon)": [
@@ -29251,7 +29251,7 @@
         ]
     },
     "Instance-instancetype-c7gn.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2496000000"
         ],
         "US West (Oregon)": [
@@ -29271,7 +29271,7 @@
         ]
     },
     "Instance-instancetype-gr6.8xlarge": {
-        "Regionless": [
+        "Default": [
             "0.6116000000"
         ],
         "US West (Oregon)": [
@@ -29327,7 +29327,7 @@
         ]
     },
     "Instance-instancetype-r7a.16xlarge": {
-        "Regionless": [
+        "Default": [
             "1.2172000000"
         ],
         "US West (Oregon)": [
@@ -29356,7 +29356,7 @@
         ]
     },
     "Instance-instancetype-g5.24xlarge": {
-        "Regionless": [
+        "Default": [
             "2.0360000000"
         ],
         "US West (Oregon)": [
@@ -29409,7 +29409,7 @@
         ]
     },
     "Instance-instancetype-d3.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -29459,7 +29459,7 @@
         ]
     },
     "Instance-instancetype-c1.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1200000000"
         ],
         "US West (Oregon)": [
@@ -29491,7 +29491,7 @@
         ]
     },
     "Instance-instancetype-m5ad.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2060000000"
         ],
         "US West (Oregon)": [
@@ -29544,7 +29544,7 @@
         ]
     },
     "EMR WAL WALHours": {
-        "Regionless": [
+        "Default": [
             "0.0018000000"
         ],
         "US West (Oregon)": [
@@ -29588,7 +29588,7 @@
         ]
     },
     "Instance-instancetype-m2.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.0620000000"
         ],
         "US West (Oregon)": [
@@ -29620,7 +29620,7 @@
         ]
     },
     "Instance-instancetype-x2iedn.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2084075000"
         ],
         "US West (Oregon)": [
@@ -29700,7 +29700,7 @@
         ]
     },
     "Instance-instancetype-c6id.8xlarge": {
-        "Regionless": [
+        "Default": [
             "0.4032000000"
         ],
         "US West (Oregon)": [
@@ -29759,7 +29759,7 @@
         ]
     },
     "Instance-instancetype-c6gn.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1728000000"
         ],
         "US West (Oregon)": [
@@ -29848,7 +29848,7 @@
         ]
     },
     "Instance-instancetype-c7g.16xlarge": {
-        "Regionless": [
+        "Default": [
             "0.5800000000"
         ],
         "US West (Oregon)": [
@@ -29937,7 +29937,7 @@
         ]
     },
     "EMR Containers EC2 InteractiveWorkloadGBHours": {
-        "Regionless": [
+        "Default": [
             "0.0011112500"
         ],
         "US West (Oregon)": [
@@ -30026,7 +30026,7 @@
         ]
     },
     "Instance-instancetype-m6gd.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.0452000000"
         ],
         "US West (Oregon)": [
@@ -30133,7 +30133,7 @@
         ]
     },
     "Instance-instancetype-m7gd.16xlarge": {
-        "Regionless": [
+        "Default": [
             "0.8542750000"
         ],
         "US West (Oregon)": [
@@ -30192,7 +30192,7 @@
         ]
     },
     "Instance-instancetype-c6id.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.0504000000"
         ],
         "US West (Oregon)": [
@@ -30251,7 +30251,7 @@
         ]
     },
     "Instance-instancetype-d2.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -30322,7 +30322,7 @@
         ]
     },
     "Instance-instancetype-r6gd.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.0576000000"
         ],
         "US West (Oregon)": [
@@ -30393,7 +30393,7 @@
         ]
     },
     "Instance-instancetype-c6i.32xlarge": {
-        "Regionless": [
+        "Default": [
             "1.3600000000"
         ],
         "US West (Oregon)": [
@@ -30485,7 +30485,7 @@
         ]
     },
     "Instance-instancetype-c7gn.16xlarge": {
-        "Regionless": [
+        "Default": [
             "0.9984000000"
         ],
         "US West (Oregon)": [
@@ -30505,7 +30505,7 @@
         ]
     },
     "Instance-instancetype-r7a.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1521500000"
         ],
         "US West (Oregon)": [
@@ -30534,7 +30534,7 @@
         ]
     },
     "Instance-instancetype-c6g.16xlarge": {
-        "Regionless": [
+        "Default": [
             "0.5440000000"
         ],
         "US West (Oregon)": [
@@ -30641,7 +30641,7 @@
         ]
     },
     "Instance-instancetype-x1.32xlarge": {
-        "Regionless": [
+        "Default": [
             "3.3345000000"
         ],
         "US West (Oregon)": [
@@ -30703,7 +30703,7 @@
         ]
     },
     "Instance-instancetype-m5.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.0960000000"
         ],
         "US West (Oregon)": [
@@ -30801,7 +30801,7 @@
         ]
     },
     "Instance-instancetype-m5n.16xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -30833,7 +30833,7 @@
         ]
     },
     "Instance-instancetype-c7a.16xlarge": {
-        "Regionless": [
+        "Default": [
             "0.8211200000"
         ],
         "US West (Oregon)": [
@@ -30862,7 +30862,7 @@
         ]
     },
     "Instance-instancetype-p2.16xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -30900,7 +30900,7 @@
         ]
     },
     "Instance-instancetype-g6.8xlarge": {
-        "Regionless": [
+        "Default": [
             "0.5036000000"
         ],
         "US West (Oregon)": [
@@ -30956,7 +30956,7 @@
         ]
     },
     "Instance-instancetype-r6a.12xlarge": {
-        "Regionless": [
+        "Default": [
             "0.6804000000"
         ],
         "US West (Oregon)": [
@@ -30997,7 +30997,7 @@
         ]
     },
     "EMR Containers Fargate CPUHours": {
-        "Regionless": [
+        "Default": [
             "0.0101200000"
         ],
         "US West (Oregon)": [
@@ -31086,7 +31086,7 @@
         ]
     },
     "Instance-instancetype-g5.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.4060000000"
         ],
         "US West (Oregon)": [
@@ -31139,7 +31139,7 @@
         ]
     },
     "Instance-instancetype-m4.10xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -31189,7 +31189,7 @@
         ]
     },
     "Instance-instancetype-c6in.8xlarge": {
-        "Regionless": [
+        "Default": [
             "0.4536000000"
         ],
         "US West (Oregon)": [
@@ -31284,7 +31284,7 @@
         ]
     },
     "Instance-instancetype-r7g.12xlarge": {
-        "Regionless": [
+        "Default": [
             "0.6426000000"
         ],
         "US West (Oregon)": [
@@ -31361,7 +31361,7 @@
         ]
     },
     "Instance-instancetype-c7i.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1785000000"
         ],
         "US West (Oregon)": [
@@ -31432,7 +31432,7 @@
         ]
     },
     "Instance-instancetype-c5a.8xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -31503,7 +31503,7 @@
         ]
     },
     "Instance-instancetype-im4gn.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1818950000"
         ],
         "US West (Oregon)": [
@@ -31544,7 +31544,7 @@
         ]
     },
     "Instance-instancetype-m7g.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1632000000"
         ],
         "US West (Oregon)": [
@@ -31636,7 +31636,7 @@
         ]
     },
     "Instance-instancetype-r5d.24xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -31731,7 +31731,7 @@
         ]
     },
     "Instance-instancetype-x2iedn.32xlarge": {
-        "Regionless": [
+        "Default": [
             "6.6690000000"
         ],
         "US West (Oregon)": [
@@ -31811,7 +31811,7 @@
         ]
     },
     "Instance-instancetype-i3en.6xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -31918,7 +31918,7 @@
         ]
     },
     "Instance-instancetype-m6id.24xlarge": {
-        "Regionless": [
+        "Default": [
             "1.4238000000"
         ],
         "US West (Oregon)": [
@@ -31986,7 +31986,7 @@
         ]
     },
     "Instance-instancetype-m5.16xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -32084,7 +32084,7 @@
         ]
     },
     "Instance-instancetype-c7gn.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.0624000000"
         ],
         "US West (Oregon)": [
@@ -32104,7 +32104,7 @@
         ]
     },
     "Instance-instancetype-i4g.8xlarge": {
-        "Regionless": [
+        "Default": [
             "0.6177600000"
         ],
         "US West (Oregon)": [
@@ -32127,7 +32127,7 @@
         ]
     },
     "Instance-instancetype-x1e.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.4170000000"
         ],
         "US West (Oregon)": [
@@ -32180,7 +32180,7 @@
         ]
     },
     "Instance-instancetype-r6a.8xlarge": {
-        "Regionless": [
+        "Default": [
             "0.4536000000"
         ],
         "US West (Oregon)": [
@@ -32221,7 +32221,7 @@
         ]
     },
     "Instance-instancetype-gr6.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.3848000000"
         ],
         "US West (Oregon)": [
@@ -32277,7 +32277,7 @@
         ]
     },
     "Instance-instancetype-m1.small": {
-        "Regionless": [
+        "Default": [
             "0.0110000000"
         ],
         "US West (Oregon)": [
@@ -32309,7 +32309,7 @@
         ]
     },
     "Instance-instancetype-i4i.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.3432500000"
         ],
         "US West (Oregon)": [
@@ -32413,7 +32413,7 @@
         ]
     },
     "Instance-instancetype-m5ad.24xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -32466,7 +32466,7 @@
         ]
     },
     "Instance-instancetype-m6i.32xlarge": {
-        "Regionless": [
+        "Default": [
             "1.5360000000"
         ],
         "US West (Oregon)": [
@@ -32567,7 +32567,7 @@
         ]
     },
     "Instance-instancetype-c6a.24xlarge": {
-        "Regionless": [
+        "Default": [
             "0.9180000000"
         ],
         "US West (Oregon)": [
@@ -32617,7 +32617,7 @@
         ]
     },
     "Instance-instancetype-r5dn.16xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -32667,7 +32667,7 @@
         ]
     },
     "Instance-instancetype-r5.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2520000000"
         ],
         "US West (Oregon)": [
@@ -32765,7 +32765,7 @@
         ]
     },
     "Instance-instancetype-m7i.24xlarge": {
-        "Regionless": [
+        "Default": [
             "1.2096000000"
         ],
         "US West (Oregon)": [
@@ -32839,7 +32839,7 @@
         ]
     },
     "Instance-instancetype-x2iedn.16xlarge": {
-        "Regionless": [
+        "Default": [
             "3.3345000000"
         ],
         "US West (Oregon)": [
@@ -32919,7 +32919,7 @@
         ]
     },
     "Instance-instancetype-m7gd.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2135750000"
         ],
         "US West (Oregon)": [
@@ -32978,7 +32978,7 @@
         ]
     },
     "Instance-instancetype-c7a.8xlarge": {
-        "Regionless": [
+        "Default": [
             "0.4105600000"
         ],
         "US West (Oregon)": [
@@ -33007,7 +33007,7 @@
         ]
     },
     "Instance-instancetype-m6idn.8xlarge": {
-        "Regionless": [
+        "Default": [
             "0.6364800000"
         ],
         "US West (Oregon)": [
@@ -33057,7 +33057,7 @@
         ]
     },
     "Instance-instancetype-m5zn.12xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -33095,7 +33095,7 @@
         ]
     },
     "Instance-instancetype-c6id.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1008000000"
         ],
         "US West (Oregon)": [
@@ -33154,7 +33154,7 @@
         ]
     },
     "Instance-instancetype-m5zn.6xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -33192,7 +33192,7 @@
         ]
     },
     "Instance-instancetype-m5dn.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.0680000000"
         ],
         "US West (Oregon)": [
@@ -33224,7 +33224,7 @@
         ]
     },
     "Instance-instancetype-c6g.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.0680000000"
         ],
         "US West (Oregon)": [
@@ -33331,7 +33331,7 @@
         ]
     },
     "Instance-instancetype-r6i.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1260000000"
         ],
         "US West (Oregon)": [
@@ -33429,7 +33429,7 @@
         ]
     },
     "Instance-instancetype-d3en.12xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -33458,7 +33458,7 @@
         ]
     },
     "Instance-instancetype-r5dn.12xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -33508,7 +33508,7 @@
         ]
     },
     "Instance-instancetype-m7a.16xlarge": {
-        "Regionless": [
+        "Default": [
             "0.9273600000"
         ],
         "US West (Oregon)": [
@@ -33540,7 +33540,7 @@
         ]
     },
     "Instance-instancetype-c6i.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.0850000000"
         ],
         "US West (Oregon)": [
@@ -33632,7 +33632,7 @@
         ]
     },
     "Instance-instancetype-m4.large": {
-        "Regionless": [
+        "Default": [
             "0.0300000000"
         ],
         "US West (Oregon)": [
@@ -33685,7 +33685,7 @@
         ]
     },
     "Instance-instancetype-c7g.12xlarge": {
-        "Regionless": [
+        "Default": [
             "0.4350000000"
         ],
         "US West (Oregon)": [
@@ -33774,7 +33774,7 @@
         ]
     },
     "Instance-instancetype-c5.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.0430000000"
         ],
         "US West (Oregon)": [
@@ -33872,7 +33872,7 @@
         ]
     },
     "Instance-instancetype-c5.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.0850000000"
         ],
         "US West (Oregon)": [
@@ -33970,7 +33970,7 @@
         ]
     },
     "Instance-instancetype-r8g.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1178200000"
         ],
         "US West (Oregon)": [
@@ -34011,7 +34011,7 @@
         ]
     },
     "Instance-instancetype-r6i.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2520000000"
         ],
         "US West (Oregon)": [
@@ -34109,7 +34109,7 @@
         ]
     },
     "Instance-instancetype-m7i-flex.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.0957600000"
         ],
         "US West (Oregon)": [
@@ -34177,7 +34177,7 @@
         ]
     },
     "Instance-instancetype-c7a.12xlarge": {
-        "Regionless": [
+        "Default": [
             "0.6158400000"
         ],
         "US West (Oregon)": [
@@ -34206,7 +34206,7 @@
         ]
     },
     "Instance-instancetype-r6i.12xlarge": {
-        "Regionless": [
+        "Default": [
             "0.7560000000"
         ],
         "US West (Oregon)": [
@@ -34304,7 +34304,7 @@
         ]
     },
     "Instance-instancetype-c7g.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.0725000000"
         ],
         "US West (Oregon)": [
@@ -34393,7 +34393,7 @@
         ]
     },
     "Instance-instancetype-i3.8xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -34488,7 +34488,7 @@
         ]
     },
     "Instance-instancetype-r6in.16xlarge": {
-        "Regionless": [
+        "Default": [
             "1.3946400000"
         ],
         "US West (Oregon)": [
@@ -34523,7 +34523,7 @@
         ]
     },
     "Instance-instancetype-r5n.24xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -34591,7 +34591,7 @@
         ]
     },
     "Instance-instancetype-i4i.16xlarge": {
-        "Regionless": [
+        "Default": [
             "1.3727500000"
         ],
         "US West (Oregon)": [
@@ -34695,7 +34695,7 @@
         ]
     },
     "Instance-instancetype-c6g.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1360000000"
         ],
         "US West (Oregon)": [
@@ -34802,7 +34802,7 @@
         ]
     },
     "Instance-instancetype-r5ad.24xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -34855,7 +34855,7 @@
         ]
     },
     "Instance-instancetype-r6in.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.3486600000"
         ],
         "US West (Oregon)": [
@@ -34890,7 +34890,7 @@
         ]
     },
     "Instance-instancetype-m6a.8xlarge": {
-        "Regionless": [
+        "Default": [
             "0.3456000000"
         ],
         "US West (Oregon)": [
@@ -34943,7 +34943,7 @@
         ]
     },
     "Instance-instancetype-r6gd.8xlarge": {
-        "Regionless": [
+        "Default": [
             "0.4608000000"
         ],
         "US West (Oregon)": [
@@ -35014,7 +35014,7 @@
         ]
     },
     "Instance-instancetype-g3.8xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -35058,7 +35058,7 @@
         ]
     },
     "Instance-instancetype-m5n.12xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -35090,7 +35090,7 @@
         ]
     },
     "Instance-instancetype-c7gn.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1248000000"
         ],
         "US West (Oregon)": [
@@ -35110,7 +35110,7 @@
         ]
     },
     "Instance-instancetype-c5n.18xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -35187,7 +35187,7 @@
         ]
     },
     "EMR Containers Fargate SparkOperatorGBHours": {
-        "Regionless": [
+        "Default": [
             "0.0011112500"
         ],
         "US West (Oregon)": [
@@ -35276,7 +35276,7 @@
         ]
     },
     "Instance-instancetype-d3en.6xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -35305,7 +35305,7 @@
         ]
     },
     "Instance-instancetype-p3.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -35346,7 +35346,7 @@
         ]
     },
     "Instance-instancetype-c4.8xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -35399,7 +35399,7 @@
         ]
     },
     "Instance-instancetype-x1e.8xlarge": {
-        "Regionless": [
+        "Default": [
             "1.6680000000"
         ],
         "US West (Oregon)": [
@@ -35452,7 +35452,7 @@
         ]
     },
     "Instance-instancetype-r6g.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.0504000000"
         ],
         "US West (Oregon)": [
@@ -35559,7 +35559,7 @@
         ]
     },
     "Instance-instancetype-r5a.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.0570000000"
         ],
         "US West (Oregon)": [
@@ -35618,7 +35618,7 @@
         ]
     },
     "Instance-instancetype-m7a.24xlarge": {
-        "Regionless": [
+        "Default": [
             "1.3910400000"
         ],
         "US West (Oregon)": [
@@ -35650,7 +35650,7 @@
         ]
     },
     "Instance-instancetype-c4.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1050000000"
         ],
         "US West (Oregon)": [
@@ -35703,7 +35703,7 @@
         ]
     },
     "Instance-instancetype-r7gd.16xlarge": {
-        "Regionless": [
+        "Default": [
             "1.0886500000"
         ],
         "US West (Oregon)": [
@@ -35768,7 +35768,7 @@
         ]
     },
     "Instance-instancetype-c7i.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.0892500000"
         ],
         "US West (Oregon)": [
@@ -35839,7 +35839,7 @@
         ]
     },
     "Instance-instancetype-c5d.9xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -35934,7 +35934,7 @@
         ]
     },
     "Instance-instancetype-r6i.16xlarge": {
-        "Regionless": [
+        "Default": [
             "1.0080000000"
         ],
         "US West (Oregon)": [
@@ -36032,7 +36032,7 @@
         ]
     },
     "Instance-instancetype-r7iz.12xlarge": {
-        "Regionless": [
+        "Default": [
             "1.1160000000"
         ],
         "US West (Oregon)": [
@@ -36055,7 +36055,7 @@
         ]
     },
     "Instance-instancetype-h1.8xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -36072,7 +36072,7 @@
         ]
     },
     "Instance-instancetype-r6idn.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.0976950000"
         ],
         "US West (Oregon)": [
@@ -36107,7 +36107,7 @@
         ]
     },
     "Instance-instancetype-g5.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.3030000000"
         ],
         "US West (Oregon)": [
@@ -36160,7 +36160,7 @@
         ]
     },
     "Instance-instancetype-c5ad.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.0430000000"
         ],
         "US West (Oregon)": [
@@ -36198,7 +36198,7 @@
         ]
     },
     "Instance-instancetype-h1.16xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -36215,7 +36215,7 @@
         ]
     },
     "EMR Containers EC2 GBHours": {
-        "Regionless": [
+        "Default": [
             "0.0011112500"
         ],
         "US West (Oregon)": [
@@ -36304,7 +36304,7 @@
         ]
     },
     "Instance-instancetype-r5b.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.0745000000"
         ],
         "US West (Oregon)": [
@@ -36351,333 +36351,407 @@
         ]
     },
     "Outposts Compute optimized": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
-        "Any": [
-            "0.0850000000",
-            "0.0430000000",
-            "0.0480000000",
-            "0.0960000000",
-            "0.1920000000",
-            "0.2700000000",
+        "Any (Instance Type: c5.18xlarge)": [
+            "0.2700000000"
+        ],
+        "Any (Instance Type: c5.2xlarge)": [
+            "0.0850000000"
+        ],
+        "Any (Instance Type: c5.4xlarge)": [
             "0.1700000000"
+        ],
+        "Any (Instance Type: c5.9xlarge)": [
+            "0.2700000000"
+        ],
+        "Any (Instance Type: c5.xlarge)": [
+            "0.0430000000"
+        ],
+        "Any (Instance Type: c5d.18xlarge)": [
+            "0.2700000000"
+        ],
+        "Any (Instance Type: c5d.2xlarge)": [
+            "0.0960000000"
+        ],
+        "Any (Instance Type: c5d.4xlarge)": [
+            "0.1920000000"
+        ],
+        "Any (Instance Type: c5d.9xlarge)": [
+            "0.2700000000"
+        ],
+        "Any (Instance Type: c5d.xlarge)": [
+            "0.0480000000"
         ]
     },
     "Outposts Storage optimized": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
-        "Any": [
-            "0.1130000000",
-            "0.2260000000",
+        "Any (Instance Type: i3en.12xlarge)": [
             "0.2700000000"
+        ],
+        "Any (Instance Type: i3en.24xlarge)": [
+            "0.2700000000"
+        ],
+        "Any (Instance Type: i3en.2xlarge)": [
+            "0.2260000000"
+        ],
+        "Any (Instance Type: i3en.3xlarge)": [
+            "0.2700000000"
+        ],
+        "Any (Instance Type: i3en.6xlarge)": [
+            "0.2700000000"
+        ],
+        "Any (Instance Type: i3en.xlarge)": [
+            "0.1130000000"
         ]
     },
     "Outposts General purpose": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
-        "Any": [
-            "0.2260000000",
-            "0.1130000000",
-            "0.0570000000",
-            "0.0480000000",
-            "0.0960000000",
-            "0.1920000000",
+        "Any (Instance Type: m5.12xlarge)": [
             "0.2700000000"
+        ],
+        "Any (Instance Type: m5.24xlarge)": [
+            "0.2700000000"
+        ],
+        "Any (Instance Type: m5.2xlarge)": [
+            "0.0960000000"
+        ],
+        "Any (Instance Type: m5.4xlarge)": [
+            "0.1920000000"
+        ],
+        "Any (Instance Type: m5.xlarge)": [
+            "0.0480000000"
+        ],
+        "Any (Instance Type: m5d.12xlarge)": [
+            "0.2700000000"
+        ],
+        "Any (Instance Type: m5d.24xlarge)": [
+            "0.2700000000"
+        ],
+        "Any (Instance Type: m5d.2xlarge)": [
+            "0.1130000000"
+        ],
+        "Any (Instance Type: m5d.4xlarge)": [
+            "0.2260000000"
+        ],
+        "Any (Instance Type: m5d.xlarge)": [
+            "0.0570000000"
         ]
     },
     "Outposts Memory optimized": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
-        "Any": [
-            "0.2520000000",
-            "0.0720000000",
-            "0.1260000000",
-            "0.0630000000",
-            "0.1440000000",
+        "Any (Instance Type: r5.12xlarge)": [
             "0.2700000000"
+        ],
+        "Any (Instance Type: r5.2xlarge)": [
+            "0.1260000000"
+        ],
+        "Any (Instance Type: r5.4xlarge)": [
+            "0.2520000000"
+        ],
+        "Any (Instance Type: r5.xlarge)": [
+            "0.0630000000"
+        ],
+        "Any (Instance Type: r5d.12xlarge)": [
+            "0.2700000000"
+        ],
+        "Any (Instance Type: r5d.24xlarge)": [
+            "0.2700000000"
+        ],
+        "Any (Instance Type: r5d.2xlarge)": [
+            "0.1440000000"
+        ],
+        "Any (Instance Type: r5d.4xlarge)": [
+            "0.2700000000"
+        ],
+        "Any (Instance Type: r5d.xlarge)": [
+            "0.0720000000"
         ]
     },
     "Outposts-General purpose-m5d.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2260000000"
         ],
-        "Any": [
+        "Any (Instance Type: m5d.4xlarge)": [
             "0.2260000000"
         ]
     },
     "Outposts-Compute optimized-c5.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1700000000"
         ],
-        "Any": [
+        "Any (Instance Type: c5.4xlarge)": [
             "0.1700000000"
         ]
     },
     "Outposts-Storage optimized-i3en.12xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
-        "Any": [
+        "Any (Instance Type: i3en.12xlarge)": [
             "0.2700000000"
         ]
     },
     "Outposts-Compute optimized-c5d.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.0960000000"
         ],
-        "Any": [
+        "Any (Instance Type: c5d.2xlarge)": [
             "0.0960000000"
         ]
     },
     "Outposts-Memory optimized-r5.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.0630000000"
         ],
-        "Any": [
+        "Any (Instance Type: r5.xlarge)": [
             "0.0630000000"
         ]
     },
     "Outposts-General purpose-m5.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.0480000000"
         ],
-        "Any": [
+        "Any (Instance Type: m5.xlarge)": [
             "0.0480000000"
         ]
     },
     "Outposts-Memory optimized-r5.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2520000000"
         ],
-        "Any": [
+        "Any (Instance Type: r5.4xlarge)": [
             "0.2520000000"
         ]
     },
     "Outposts-General purpose-m5.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1920000000"
         ],
-        "Any": [
+        "Any (Instance Type: m5.4xlarge)": [
             "0.1920000000"
         ]
     },
     "Outposts-Memory optimized-r5d.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1440000000"
         ],
-        "Any": [
+        "Any (Instance Type: r5d.2xlarge)": [
             "0.1440000000"
         ]
     },
     "Outposts-General purpose-m5d.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1130000000"
         ],
-        "Any": [
+        "Any (Instance Type: m5d.2xlarge)": [
             "0.1130000000"
         ]
     },
     "Outposts-Memory optimized-r5d.24xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
-        "Any": [
+        "Any (Instance Type: r5d.24xlarge)": [
             "0.2700000000"
         ]
     },
     "Outposts-Compute optimized-c5.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.0430000000"
         ],
-        "Any": [
+        "Any (Instance Type: c5.xlarge)": [
             "0.0430000000"
         ]
     },
     "Outposts-Compute optimized-c5.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.0850000000"
         ],
-        "Any": [
+        "Any (Instance Type: c5.2xlarge)": [
             "0.0850000000"
         ]
     },
     "Outposts-General purpose-m5d.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.0570000000"
         ],
-        "Any": [
+        "Any (Instance Type: m5d.xlarge)": [
             "0.0570000000"
         ]
     },
     "Outposts-General purpose-m5.12xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
-        "Any": [
+        "Any (Instance Type: m5.12xlarge)": [
             "0.2700000000"
         ]
     },
     "Outposts-Memory optimized-r5.12xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
-        "Any": [
+        "Any (Instance Type: r5.12xlarge)": [
             "0.2700000000"
         ]
     },
     "Outposts-General purpose-m5d.12xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
-        "Any": [
+        "Any (Instance Type: m5d.12xlarge)": [
             "0.2700000000"
         ]
     },
     "Outposts-General purpose-m5d.24xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
-        "Any": [
+        "Any (Instance Type: m5d.24xlarge)": [
             "0.2700000000"
         ]
     },
     "Outposts-Memory optimized-r5.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1260000000"
         ],
-        "Any": [
+        "Any (Instance Type: r5.2xlarge)": [
             "0.1260000000"
         ]
     },
     "Outposts-General purpose-m5.24xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
-        "Any": [
+        "Any (Instance Type: m5.24xlarge)": [
             "0.2700000000"
         ]
     },
     "Outposts-Compute optimized-c5d.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1920000000"
         ],
-        "Any": [
+        "Any (Instance Type: c5d.4xlarge)": [
             "0.1920000000"
         ]
     },
     "Outposts-Compute optimized-c5.18xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
-        "Any": [
+        "Any (Instance Type: c5.18xlarge)": [
             "0.2700000000"
         ]
     },
     "Outposts-General purpose-m5.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.0960000000"
         ],
-        "Any": [
+        "Any (Instance Type: m5.2xlarge)": [
             "0.0960000000"
         ]
     },
     "Outposts-Storage optimized-i3en.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2260000000"
         ],
-        "Any": [
+        "Any (Instance Type: i3en.2xlarge)": [
             "0.2260000000"
         ]
     },
     "Outposts-Compute optimized-c5d.18xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
-        "Any": [
+        "Any (Instance Type: c5d.18xlarge)": [
             "0.2700000000"
         ]
     },
     "Outposts-Memory optimized-r5d.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
-        "Any": [
+        "Any (Instance Type: r5d.4xlarge)": [
             "0.2700000000"
         ]
     },
     "Outposts-Memory optimized-r5d.12xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
-        "Any": [
+        "Any (Instance Type: r5d.12xlarge)": [
             "0.2700000000"
         ]
     },
     "Outposts-Compute optimized-c5.9xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
-        "Any": [
+        "Any (Instance Type: c5.9xlarge)": [
             "0.2700000000"
         ]
     },
     "Outposts-Storage optimized-i3en.24xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
-        "Any": [
+        "Any (Instance Type: i3en.24xlarge)": [
             "0.2700000000"
         ]
     },
     "Outposts-Compute optimized-c5d.9xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
-        "Any": [
+        "Any (Instance Type: c5d.9xlarge)": [
             "0.2700000000"
         ]
     },
     "Outposts-Storage optimized-i3en.3xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
-        "Any": [
+        "Any (Instance Type: i3en.3xlarge)": [
             "0.2700000000"
         ]
     },
     "Outposts-Storage optimized-i3en.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1130000000"
         ],
-        "Any": [
+        "Any (Instance Type: i3en.xlarge)": [
             "0.1130000000"
         ]
     },
     "Outposts-Storage optimized-i3en.6xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
-        "Any": [
+        "Any (Instance Type: i3en.6xlarge)": [
             "0.2700000000"
         ]
     },
     "Outposts-Memory optimized-r5d.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.0720000000"
         ],
-        "Any": [
+        "Any (Instance Type: r5d.xlarge)": [
             "0.0720000000"
         ]
     },
     "Outposts-Compute optimized-c5d.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.0480000000"
         ],
-        "Any": [
+        "Any (Instance Type: c5d.xlarge)": [
             "0.0480000000"
         ]
     }

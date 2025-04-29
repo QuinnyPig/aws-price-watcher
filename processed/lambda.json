@@ -1,6 +1,6 @@
 {
     "Lambda Duration-ARM Tier2": {
-        "Regionless": [
+        "Default": [
             "0.0000120001"
         ],
         "US West (Oregon)": [
@@ -107,7 +107,7 @@
         ]
     },
     "Lambda Duration Tier2": {
-        "Regionless": [
+        "Default": [
             "0.0000150000"
         ],
         "US West (Oregon)": [
@@ -214,7 +214,7 @@
         ]
     },
     "Lambda Edge-Duration": {
-        "Regionless": [
+        "Default": [
             "0.0000500100"
         ],
         "US West (Oregon)": [
@@ -285,7 +285,7 @@
         ]
     },
     "Lambda Storage-Duration": {
-        "Regionless": [
+        "Default": [
             "0.0000000309"
         ],
         "US West (Oregon)": [
@@ -392,7 +392,7 @@
         ]
     },
     "Lambda Provisioned-Concurrency-ARM": {
-        "Regionless": [
+        "Default": [
             "0.0000033334"
         ],
         "US West (Oregon)": [
@@ -499,7 +499,7 @@
         ]
     },
     "Lambda Processed-Bytes": {
-        "Regionless": [
+        "Default": [
             "0.0080000000"
         ],
         "US West (Oregon)": [
@@ -570,7 +570,7 @@
         ]
     },
     "Lambda Requests-ARM": {
-        "Regionless": [
+        "Default": [
             "0.0000002000"
         ],
         "US West (Oregon)": [
@@ -677,7 +677,7 @@
         ]
     },
     "Lambda Provisioned-Concurrency": {
-        "Regionless": [
+        "Default": [
             "0.0000041667"
         ],
         "US West (Oregon)": [
@@ -784,7 +784,7 @@
         ]
     },
     "Lambda Duration-ARM": {
-        "Regionless": [
+        "Default": [
             "0.0000133334"
         ],
         "US West (Oregon)": [
@@ -891,7 +891,7 @@
         ]
     },
     "Lambda Requests": {
-        "Regionless": [
+        "Default": [
             "0.0000002000"
         ],
         "US West (Oregon)": [
@@ -998,7 +998,7 @@
         ]
     },
     "Lambda Storage-Duration-ARM": {
-        "Regionless": [
+        "Default": [
             "0.0000000309"
         ],
         "US West (Oregon)": [
@@ -1105,7 +1105,7 @@
         ]
     },
     "Lambda Duration": {
-        "Regionless": [
+        "Default": [
             "0.0000166667"
         ],
         "US West (Oregon)": [
@@ -1212,7 +1212,7 @@
         ]
     },
     "Lambda Edge-Requests": {
-        "Regionless": [
+        "Default": [
             "0.0000006000"
         ],
         "US West (Oregon)": [
@@ -1283,7 +1283,7 @@
         ]
     },
     "Lambda Duration Tier3": {
-        "Regionless": [
+        "Default": [
             "0.0000133334"
         ],
         "US West (Oregon)": [
@@ -1390,7 +1390,7 @@
         ]
     },
     "Lambda Duration-Provisioned": {
-        "Regionless": [
+        "Default": [
             "0.0000097222"
         ],
         "US West (Oregon)": [
@@ -1497,7 +1497,7 @@
         ]
     },
     "Lambda Duration-ARM Tier3": {
-        "Regionless": [
+        "Default": [
             "0.0000106667"
         ],
         "US West (Oregon)": [
@@ -1604,7 +1604,7 @@
         ]
     },
     "Lambda Processed-Bytes-ARM": {
-        "Regionless": [
+        "Default": [
             "0.0080000000"
         ],
         "US West (Oregon)": [
@@ -1675,7 +1675,7 @@
         ]
     },
     "Lambda Duration-Provisioned-ARM": {
-        "Regionless": [
+        "Default": [
             "0.0000077778"
         ],
         "US West (Oregon)": [
@@ -1782,7 +1782,7 @@
         ]
     },
     "Lambda Requests 1000000": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "Any": [
@@ -1790,7 +1790,7 @@
         ]
     },
     "Lambda Requests Free Tier": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "Any": [
@@ -1798,7 +1798,7 @@
         ]
     },
     "Lambda Processed-Bytes 100": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "Any": [
@@ -1806,7 +1806,7 @@
         ]
     },
     "Lambda Duration One": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "Any": [
@@ -1814,7 +1814,7 @@
         ]
     },
     "Lambda Duration Free Tier": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "Any": [

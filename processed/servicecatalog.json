@@ -1,6 +1,6 @@
 {
     "API Calls over 1000": {
-        "Regionless": [
+        "Default": [
             "0.0007000000"
         ],
         "US West (Oregon)": [
@@ -98,7 +98,7 @@
         ]
     },
     "ActivePortfolio": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [

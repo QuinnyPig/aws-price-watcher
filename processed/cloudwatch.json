@@ -1,6 +1,6 @@
 {
     "Vended Logs Next Next 20TB": {
-        "Regionless": [
+        "Default": [
             "0.1000000000"
         ],
         "US West (Oregon)": [
@@ -107,7 +107,7 @@
         ]
     },
     "Application Signals for the first 100000000": {
-        "Regionless": [
+        "Default": [
             "0.0000015000"
         ],
         "US West (Oregon)": [
@@ -196,7 +196,7 @@
         ]
     },
     "API Request GetMetricWidgetImage": {
-        "Regionless": [
+        "Default": [
             "0.0000200000"
         ],
         "US West (Oregon)": [
@@ -297,7 +297,7 @@
         ]
     },
     "IA Vended ingested logs from 0 upto 10240": {
-        "Regionless": [
+        "Default": [
             "0.2500000000"
         ],
         "US West (Oregon)": [
@@ -404,7 +404,7 @@
         ]
     },
     "Alarm High Resolution": {
-        "Regionless": [
+        "Default": [
             "0.3000000000"
         ],
         "US West (Oregon)": [
@@ -511,7 +511,7 @@
         ]
     },
     "CW CityNetworkCloudWatch City Network": {
-        "Regionless": [
+        "Default": [
             "0.0000740000"
         ],
         "US West (Oregon)": [
@@ -600,7 +600,7 @@
         ]
     },
     "Application Signals 10000000for the first 1000000000": {
-        "Regionless": [
+        "Default": [
             "0.0000007500"
         ],
         "US West (Oregon)": [
@@ -689,7 +689,7 @@
         ]
     },
     "Application Signals 1000000000 upto Inf": {
-        "Regionless": [
+        "Default": [
             "0.0000003000"
         ],
         "US West (Oregon)": [
@@ -778,7 +778,7 @@
         ]
     },
     "IA Custom ingested Logs from 0 upto Inf": {
-        "Regionless": [
+        "Default": [
             "0.2500000000"
         ],
         "US West (Oregon)": [
@@ -885,7 +885,7 @@
         ]
     },
     "IA Vended ingested logs from 51200 upto Inf": {
-        "Regionless": [
+        "Default": [
             "0.0500000000"
         ],
         "US West (Oregon)": [
@@ -992,7 +992,7 @@
         ]
     },
     "Metric 0 upto Inf": {
-        "Regionless": [
+        "Default": [
             "0.0700000000"
         ],
         "US West (Oregon)": [
@@ -1096,7 +1096,7 @@
         ]
     },
     "Alarm Composite": {
-        "Regionless": [
+        "Default": [
             "0.5000000000"
         ],
         "US West (Oregon)": [
@@ -1203,7 +1203,7 @@
         ]
     },
     "Contributor Insights DynamoDB": {
-        "Regionless": [
+        "Default": [
             "0.5000000000"
         ],
         "US West (Oregon)": [
@@ -1307,7 +1307,7 @@
         ]
     },
     "Vended Logs First 10TB": {
-        "Regionless": [
+        "Default": [
             "0.5000000000"
         ],
         "US West (Oregon)": [
@@ -1414,7 +1414,7 @@
         ]
     },
     "Metric 4000000000 upto Inf": {
-        "Regionless": [
+        "Default": [
             "0.0000001000"
         ],
         "US West (Oregon)": [
@@ -1521,7 +1521,7 @@
         ]
     },
     "ObservationCount CI EKS 4000000000 to Inf": {
-        "Regionless": [
+        "Default": [
             "0.0000001000"
         ],
         "US West (Oregon)": [
@@ -1628,7 +1628,7 @@
         ]
     },
     "Delivered Logs for next 20TB": {
-        "Regionless": [
+        "Default": [
             "0.1500000000"
         ],
         "US West (Oregon)": [
@@ -1735,7 +1735,7 @@
         ]
     },
     "IA Vended ingested logs from 10240 upto 30720": {
-        "Regionless": [
+        "Default": [
             "0.1500000000"
         ],
         "US West (Oregon)": [
@@ -1842,7 +1842,7 @@
         ]
     },
     "Metric for the next 750000": {
-        "Regionless": [
+        "Default": [
             "0.0500000000"
         ],
         "US West (Oregon)": [
@@ -1949,7 +1949,7 @@
         ]
     },
     "Metric Streams MetricUpdate": {
-        "Regionless": [
+        "Default": [
             "0.0000030000"
         ],
         "US West (Oregon)": [
@@ -2050,7 +2050,7 @@
         ]
     },
     "Metric for the first 1000000000": {
-        "Regionless": [
+        "Default": [
             "0.0000002100"
         ],
         "US West (Oregon)": [
@@ -2157,7 +2157,7 @@
         ]
     },
     "ObservationCount CI EKS 0 to 1000000000": {
-        "Regionless": [
+        "Default": [
             "0.0000002100"
         ],
         "US West (Oregon)": [
@@ -2264,7 +2264,7 @@
         ]
     },
     "Stored Data": {
-        "Regionless": [
+        "Default": [
             "0.0300000000"
         ],
         "US West (Oregon)": [
@@ -2371,7 +2371,7 @@
         ]
     },
     "Delivered Logs for over 50TB": {
-        "Regionless": [
+        "Default": [
             "0.0500000000"
         ],
         "US West (Oregon)": [
@@ -2478,7 +2478,7 @@
         ]
     },
     "CW RUMCloudWatch RUM events": {
-        "Regionless": [
+        "Default": [
             "0.0000100000"
         ],
         "US West (Oregon)": [
@@ -2555,7 +2555,7 @@
         ]
     },
     "API Request": {
-        "Regionless": [
+        "Default": [
             "0.0000100000"
         ],
         "US West (Oregon)": [
@@ -2662,7 +2662,7 @@
         ]
     },
     "IA Vended ingested logs from 30720 upto 51200": {
-        "Regionless": [
+        "Default": [
             "0.0750000000"
         ],
         "US West (Oregon)": [
@@ -2769,7 +2769,7 @@
         ]
     },
     "API Request GetInsightRuleReport": {
-        "Regionless": [
+        "Default": [
             "0.0000100000"
         ],
         "US West (Oregon)": [
@@ -2879,7 +2879,7 @@
         ]
     },
     "Amazon Kinesis Data Firehose Delivered Logs for over 50TB": {
-        "Regionless": [
+        "Default": [
             "0.0500000000"
         ],
         "US West (Oregon)": [
@@ -2986,7 +2986,7 @@
         ]
     },
     "Queried Logs Insights": {
-        "Regionless": [
+        "Default": [
             "0.0050000000"
         ],
         "US West (Oregon)": [
@@ -3093,7 +3093,7 @@
         ]
     },
     "Canaries per Runs": {
-        "Regionless": [
+        "Default": [
             "0.0012000000"
         ],
         "US West (Oregon)": [
@@ -3200,7 +3200,7 @@
         ]
     },
     "Metrics Insights Alarms Standard": {
-        "Regionless": [
+        "Default": [
             "0.1000000000"
         ],
         "US West (Oregon)": [
@@ -3307,7 +3307,7 @@
         ]
     },
     "Delivered Logs for next next 20 TB": {
-        "Regionless": [
+        "Default": [
             "0.0750000000"
         ],
         "US West (Oregon)": [
@@ -3414,7 +3414,7 @@
         ]
     },
     "Vended Logs Next 20TB": {
-        "Regionless": [
+        "Default": [
             "0.2500000000"
         ],
         "US West (Oregon)": [
@@ -3521,7 +3521,7 @@
         ]
     },
     "CW RUMCloudWatch RUM free events": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -3598,7 +3598,7 @@
         ]
     },
     "Metric for over 1000000": {
-        "Regionless": [
+        "Default": [
             "0.0200000000"
         ],
         "US West (Oregon)": [
@@ -3705,7 +3705,7 @@
         ]
     },
     "Alarm Standard": {
-        "Regionless": [
+        "Default": [
             "0.1000000000"
         ],
         "US West (Oregon)": [
@@ -3812,7 +3812,7 @@
         ]
     },
     "Vended Logs over 50TB": {
-        "Regionless": [
+        "Default": [
             "0.0500000000"
         ],
         "US West (Oregon)": [
@@ -3919,7 +3919,7 @@
         ]
     },
     "Event CloudWatchLog": {
-        "Regionless": [
+        "Default": [
             "0.0000000200"
         ],
         "US West (Oregon)": [
@@ -4023,7 +4023,7 @@
         ]
     },
     "CW InternetMonitorCloudWatch Internet Monitor": {
-        "Regionless": [
+        "Default": [
             "0.0100000000"
         ],
         "US West (Oregon)": [
@@ -4115,7 +4115,7 @@
         ]
     },
     "CloudWatch Network Monitor CloudWatch NM-Paid": {
-        "Regionless": [
+        "Default": [
             "0.1000000000"
         ],
         "US West (Oregon)": [
@@ -4177,7 +4177,7 @@
         ]
     },
     "Delivered Logs for first 10TB": {
-        "Regionless": [
+        "Default": [
             "0.2500000000"
         ],
         "US West (Oregon)": [
@@ -4284,7 +4284,7 @@
         ]
     },
     "API Request GetMetricData": {
-        "Regionless": [
+        "Default": [
             "0.0000100000"
         ],
         "US West (Oregon)": [
@@ -4391,7 +4391,7 @@
         ]
     },
     "Parquet Conversion": {
-        "Regionless": [
+        "Default": [
             "0.0300000000"
         ],
         "US West (Oregon)": [
@@ -4498,7 +4498,7 @@
         ]
     },
     "Metric for the next 240000": {
-        "Regionless": [
+        "Default": [
             "0.1000000000"
         ],
         "US West (Oregon)": [
@@ -4605,7 +4605,7 @@
         ]
     },
     "Amazon Kinesis Data Firehose Delivered Logs for next 20TB": {
-        "Regionless": [
+        "Default": [
             "0.1500000000"
         ],
         "US West (Oregon)": [
@@ -4712,7 +4712,7 @@
         ]
     },
     "Amazon Kinesis Data Firehose Delivered Logs for first 10TB": {
-        "Regionless": [
+        "Default": [
             "0.2500000000"
         ],
         "US West (Oregon)": [
@@ -4819,7 +4819,7 @@
         ]
     },
     "Amazon Kinesis Data Firehose Delivered Logs for next next 20 TB": {
-        "Regionless": [
+        "Default": [
             "0.0750000000"
         ],
         "US West (Oregon)": [
@@ -4926,7 +4926,7 @@
         ]
     },
     "Event DynamoDB": {
-        "Regionless": [
+        "Default": [
             "0.0000000300"
         ],
         "US West (Oregon)": [
@@ -5030,7 +5030,7 @@
         ]
     },
     "Metric for the first 10000": {
-        "Regionless": [
+        "Default": [
             "0.3000000000"
         ],
         "US West (Oregon)": [
@@ -5137,7 +5137,7 @@
         ]
     },
     "Contributor Insights CloudWatchLogs": {
-        "Regionless": [
+        "Default": [
             "0.5000000000"
         ],
         "US West (Oregon)": [
@@ -5244,7 +5244,7 @@
         ]
     },
     "Logs Collected Data Ingestion": {
-        "Regionless": [
+        "Default": [
             "0.5000000000"
         ],
         "US West (Oregon)": [
@@ -5351,7 +5351,7 @@
         ]
     },
     "Metric 1000000000 upto 4000000000": {
-        "Regionless": [
+        "Default": [
             "0.0000001800"
         ],
         "US West (Oregon)": [
@@ -5458,7 +5458,7 @@
         ]
     },
     "ObservationCount CI EKS 1000000000 to 4000000000": {
-        "Regionless": [
+        "Default": [
             "0.0000001800"
         ],
         "US West (Oregon)": [
@@ -5565,7 +5565,7 @@
         ]
     },
     "DataProtection LogsCloudWatch Logs Data Protection": {
-        "Regionless": [
+        "Default": [
             "0.1200000000"
         ],
         "US West (Oregon)": [
@@ -5654,7 +5654,7 @@
         ]
     },
     "StartLiveTail": {
-        "Regionless": [
+        "Default": [
             "0.0100000000"
         ],
         "US West (Oregon)": [
@@ -5752,7 +5752,7 @@
         ]
     },
     "Dashboard Basic Free upto 3 Dashboard": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "Any": [
@@ -5760,7 +5760,7 @@
         ]
     },
     "Dashboard Extended Dashboard": {
-        "Regionless": [
+        "Default": [
             "3.0000000000"
         ],
         "Any": [
@@ -5768,7 +5768,7 @@
         ]
     },
     "Dashboard Basic Dashboard": {
-        "Regionless": [
+        "Default": [
             "3.0000000000"
         ],
         "Any": [
@@ -5776,7 +5776,7 @@
         ]
     },
     "Canaries per Runs MonthlyFree": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "Any": [

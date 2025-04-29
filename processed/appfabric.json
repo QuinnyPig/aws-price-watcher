@@ -1,6 +1,6 @@
 {
     "Additional App per User UserApp-Mo": {
-        "Regionless": [
+        "Default": [
             "0.0500000000"
         ],
         "US East (N. Virginia)": [
@@ -14,7 +14,7 @@
         ]
     },
     "Standard User User-Mo": {
-        "Regionless": [
+        "Default": [
             "3.0000000000"
         ],
         "US East (N. Virginia)": [
@@ -28,7 +28,7 @@
         ]
     },
     "Free Trial User-Mo": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US East (N. Virginia)": [

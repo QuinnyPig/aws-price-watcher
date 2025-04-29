@@ -1,6 +1,6 @@
 {
     "RL Service Jobs - Standard": {
-        "Regionless": [
+        "Default": [
             "3.5000000000"
         ],
         "US East (N. Virginia)": [
@@ -8,7 +8,7 @@
         ]
     },
     "Storage Service - TimedStorage": {
-        "Regionless": [
+        "Default": [
             "0.0230000000"
         ],
         "US East (N. Virginia)": [

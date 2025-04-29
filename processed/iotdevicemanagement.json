@@ -1,6 +1,6 @@
 {
     "Things Registered": {
-        "Regionless": [
+        "Default": [
             "0.0001000000"
         ],
         "US West (Oregon)": [
@@ -68,7 +68,7 @@
         ]
     },
     "Index Updates": {
-        "Regionless": [
+        "Default": [
             "0.0000022500"
         ],
         "US West (Oregon)": [
@@ -136,7 +136,7 @@
         ]
     },
     "Remote Actions over 250000": {
-        "Regionless": [
+        "Default": [
             "0.0015000000"
         ],
         "US West (Oregon)": [
@@ -204,7 +204,7 @@
         ]
     },
     "Executions": {
-        "Regionless": [
+        "Default": [
             "0.0000065000"
         ],
         "US West (Oregon)": [
@@ -272,7 +272,7 @@
         ]
     },
     "FW Executions": {
-        "Regionless": [
+        "Default": [
             "0.0000065000"
         ],
         "US West (Oregon)": [
@@ -340,7 +340,7 @@
         ]
     },
     "Tunnels per Count": {
-        "Regionless": [
+        "Default": [
             "1.0000000000"
         ],
         "US West (Oregon)": [
@@ -408,7 +408,7 @@
         ]
     },
     "Queries per Queries": {
-        "Regionless": [
+        "Default": [
             "0.0000050000"
         ],
         "US West (Oregon)": [
@@ -476,7 +476,7 @@
         ]
     },
     "Remote Actions 0 to 250000": {
-        "Regionless": [
+        "Default": [
             "0.0030000000"
         ],
         "US West (Oregon)": [
@@ -544,7 +544,7 @@
         ]
     },
     "Remote Actions": {
-        "Regionless": [
+        "Default": [
             "0.0030000000"
         ],
         "US West (Oregon)": [

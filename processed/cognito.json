@@ -1,6 +1,6 @@
 {
     "MAU Frist 50000 per Requests": {
-        "Regionless": [
+        "Default": [
             "0.0055000000"
         ],
         "US West (Oregon)": [
@@ -95,7 +95,7 @@
         ]
     },
     "User Pool MAU 0 upto 50000 per Requests": {
-        "Regionless": [
+        "Default": [
             "0.0055000000"
         ],
         "US West (Oregon)": [
@@ -190,7 +190,7 @@
         ]
     },
     "User Pool RPS UserCreation Full": {
-        "Regionless": [
+        "Default": [
             "20.0000000000"
         ],
         "US West (Oregon)": [
@@ -288,7 +288,7 @@
         ]
     },
     "User Pool RPS UserResourceUpdate Full": {
-        "Regionless": [
+        "Default": [
             "20.0000000000"
         ],
         "US West (Oregon)": [
@@ -386,7 +386,7 @@
         ]
     },
     "ASF MAU Greater than 10000000 per Requests": {
-        "Regionless": [
+        "Default": [
             "0.0100000000"
         ],
         "US West (Oregon)": [
@@ -481,7 +481,7 @@
         ]
     },
     "Enterprise MAU per Requests": {
-        "Regionless": [
+        "Default": [
             "0.0150000000"
         ],
         "US West (Oregon)": [
@@ -576,7 +576,7 @@
         ]
     },
     "User Pools M2M Tokens Full 5000000 upto Inf per CognitoUserPools M2MTokens": {
-        "Regionless": [
+        "Default": [
             "0.0011250000"
         ],
         "US West (Oregon)": [
@@ -674,7 +674,7 @@
         ]
     },
     "User Pool RPS UserToken Free": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -772,7 +772,7 @@
         ]
     },
     "User Pool RPS UserAccountRecovery Free": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -870,7 +870,7 @@
         ]
     },
     "User Pools M2M Tokens Full 0 upto 250000 per CognitoUserPools M2MTokens": {
-        "Regionless": [
+        "Default": [
             "0.0022500000"
         ],
         "US West (Oregon)": [
@@ -968,7 +968,7 @@
         ]
     },
     "User Pool RPS UserAuthentication Partial": {
-        "Regionless": [
+        "Default": [
             "45.0000000000"
         ],
         "US West (Oregon)": [
@@ -1066,7 +1066,7 @@
         ]
     },
     "ASF MAU Next 9000000 per Requests": {
-        "Regionless": [
+        "Default": [
             "0.0150000000"
         ],
         "US West (Oregon)": [
@@ -1161,7 +1161,7 @@
         ]
     },
     "User Pool RPS UserResourceUpdate Free": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -1259,7 +1259,7 @@
         ]
     },
     "User Pool RPS UserAccountRecovery Full": {
-        "Regionless": [
+        "Default": [
             "20.0000000000"
         ],
         "US West (Oregon)": [
@@ -1357,7 +1357,7 @@
         ]
     },
     "ASF MAU Next 900000 per Requests": {
-        "Regionless": [
+        "Default": [
             "0.0200000000"
         ],
         "US West (Oregon)": [
@@ -1452,7 +1452,7 @@
         ]
     },
     "User Pool RPS UserRead Partial": {
-        "Regionless": [
+        "Default": [
             "45.0000000000"
         ],
         "US West (Oregon)": [
@@ -1550,7 +1550,7 @@
         ]
     },
     "User Pool RPS UserFederation Full": {
-        "Regionless": [
+        "Default": [
             "20.0000000000"
         ],
         "US West (Oregon)": [
@@ -1648,7 +1648,7 @@
         ]
     },
     "User Pool RPS UserRead Free": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -1746,7 +1746,7 @@
         ]
     },
     "MAU Next 900000 per Requests": {
-        "Regionless": [
+        "Default": [
             "0.0046000000"
         ],
         "US West (Oregon)": [
@@ -1841,7 +1841,7 @@
         ]
     },
     "User Pool MAU 50000 upto 950000 per Requests": {
-        "Regionless": [
+        "Default": [
             "0.0046000000"
         ],
         "US West (Oregon)": [
@@ -1936,7 +1936,7 @@
         ]
     },
     "MAU Next 9000000 per Requests": {
-        "Regionless": [
+        "Default": [
             "0.0032500000"
         ],
         "US West (Oregon)": [
@@ -2031,7 +2031,7 @@
         ]
     },
     "User Pool MAU 950000 upto 9950000 per Requests": {
-        "Regionless": [
+        "Default": [
             "0.0032500000"
         ],
         "US West (Oregon)": [
@@ -2126,7 +2126,7 @@
         ]
     },
     "User Pool RPS UserAuthentication Free": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -2224,7 +2224,7 @@
         ]
     },
     "User Pools M2M Tokens Full 250000 upto 5000000 per CognitoUserPools M2MTokens": {
-        "Regionless": [
+        "Default": [
             "0.0015000000"
         ],
         "US West (Oregon)": [
@@ -2322,7 +2322,7 @@
         ]
     },
     "User Pool RPS UserCreation Partial": {
-        "Regionless": [
+        "Default": [
             "45.0000000000"
         ],
         "US West (Oregon)": [
@@ -2420,7 +2420,7 @@
         ]
     },
     "ASF MAU Next 50000 per Requests": {
-        "Regionless": [
+        "Default": [
             "0.0350000000"
         ],
         "US West (Oregon)": [
@@ -2515,7 +2515,7 @@
         ]
     },
     "User Pool RPS UserCreation Free": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -2613,7 +2613,7 @@
         ]
     },
     "User Pool RPS UserFederation Free": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -2711,7 +2711,7 @@
         ]
     },
     "User Pools M2M Tokens Free 250000 upto 5000000 per CognitoUserPools M2MTokens": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -2809,7 +2809,7 @@
         ]
     },
     "User Pool RPS UserUpdate Full": {
-        "Regionless": [
+        "Default": [
             "20.0000000000"
         ],
         "US West (Oregon)": [
@@ -2907,7 +2907,7 @@
         ]
     },
     "User Pool RPS UserUpdate Partial": {
-        "Regionless": [
+        "Default": [
             "45.0000000000"
         ],
         "US West (Oregon)": [
@@ -3005,7 +3005,7 @@
         ]
     },
     "User Pool RPS UserToken Full": {
-        "Regionless": [
+        "Default": [
             "20.0000000000"
         ],
         "US West (Oregon)": [
@@ -3103,7 +3103,7 @@
         ]
     },
     "User Pools M2M AppClients Free 0 upto 100 per CognitoUserPools M2MAppClientMo": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -3201,7 +3201,7 @@
         ]
     },
     "User Pools M2M AppClients Full 500 upto Inf per CognitoUserPools M2MAppClientMo": {
-        "Regionless": [
+        "Default": [
             "1.5000000000"
         ],
         "US West (Oregon)": [
@@ -3299,7 +3299,7 @@
         ]
     },
     "User Pool RPS UserRead Full": {
-        "Regionless": [
+        "Default": [
             "20.0000000000"
         ],
         "US West (Oregon)": [
@@ -3397,7 +3397,7 @@
         ]
     },
     "MAU Greater than 10000000 per Requests": {
-        "Regionless": [
+        "Default": [
             "0.0025000000"
         ],
         "US West (Oregon)": [
@@ -3492,7 +3492,7 @@
         ]
     },
     "User Pool MAU 9950000 upto Inf per Requests": {
-        "Regionless": [
+        "Default": [
             "0.0025000000"
         ],
         "US West (Oregon)": [
@@ -3587,7 +3587,7 @@
         ]
     },
     "User Pool RPS UserAuthentication Full": {
-        "Regionless": [
+        "Default": [
             "20.0000000000"
         ],
         "US West (Oregon)": [
@@ -3685,7 +3685,7 @@
         ]
     },
     "User Pools M2M AppClients Free 500 upto Inf per CognitoUserPools M2MAppClientMo": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -3783,7 +3783,7 @@
         ]
     },
     "User Pool RPS UserResourceRead Free": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -3881,7 +3881,7 @@
         ]
     },
     "User Pools M2M AppClients Free 100 upto 500 per CognitoUserPools M2MAppClientMo": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -3979,7 +3979,7 @@
         ]
     },
     "User Pool RPS UserToken Partial": {
-        "Regionless": [
+        "Default": [
             "45.0000000000"
         ],
         "US West (Oregon)": [
@@ -4077,7 +4077,7 @@
         ]
     },
     "ASF MAU Frist 50000 per Requests": {
-        "Regionless": [
+        "Default": [
             "0.0500000000"
         ],
         "US West (Oregon)": [
@@ -4172,7 +4172,7 @@
         ]
     },
     "User Pool RPS UserFederation Partial": {
-        "Regionless": [
+        "Default": [
             "45.0000000000"
         ],
         "US West (Oregon)": [
@@ -4270,7 +4270,7 @@
         ]
     },
     "User Pools M2M AppClients Full 0 upto 100 per CognitoUserPools M2MAppClientMo": {
-        "Regionless": [
+        "Default": [
             "6.0000000000"
         ],
         "US West (Oregon)": [
@@ -4368,7 +4368,7 @@
         ]
     },
     "User Pool RPS UserResourceUpdate Partial": {
-        "Regionless": [
+        "Default": [
             "45.0000000000"
         ],
         "US West (Oregon)": [
@@ -4466,7 +4466,7 @@
         ]
     },
     "User Pool RPS UserResourceRead Full": {
-        "Regionless": [
+        "Default": [
             "20.0000000000"
         ],
         "US West (Oregon)": [
@@ -4564,7 +4564,7 @@
         ]
     },
     "User Pools M2M Tokens Free 5000000 upto Inf per CognitoUserPools M2MTokens": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -4662,7 +4662,7 @@
         ]
     },
     "User Pools M2M Tokens Free 0 upto 250000 per CognitoUserPools M2MTokens": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -4760,7 +4760,7 @@
         ]
     },
     "User Pool RPS UserUpdate Free": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -4858,7 +4858,7 @@
         ]
     },
     "User Pools M2M AppClients Full 100 upto 500 per CognitoUserPools M2MAppClientMo": {
-        "Regionless": [
+        "Default": [
             "3.0000000000"
         ],
         "US West (Oregon)": [
@@ -4956,7 +4956,7 @@
         ]
     },
     "User Pool RPS UserAccountRecovery Partial": {
-        "Regionless": [
+        "Default": [
             "45.0000000000"
         ],
         "US West (Oregon)": [
@@ -5054,7 +5054,7 @@
         ]
     },
     "User Pool RPS UserResourceRead Partial": {
-        "Regionless": [
+        "Default": [
             "45.0000000000"
         ],
         "US West (Oregon)": [
@@ -5152,7 +5152,7 @@
         ]
     },
     "non free User Pool Enterprise MAU 0 upto Inf": {
-        "Regionless": [
+        "Default": [
             "0.0150000000"
         ],
         "Asia Pacific (Malaysia)": [
@@ -5163,7 +5163,7 @@
         ]
     },
     "User Pool MAU 1000000 upto 10000000 per Requests": {
-        "Regionless": [
+        "Default": [
             "0.0032500000"
         ],
         "AWS GovCloud (US)": [
@@ -5171,7 +5171,7 @@
         ]
     },
     "User Pool MAU 0 upto 100000 per Requests": {
-        "Regionless": [
+        "Default": [
             "0.0055000000"
         ],
         "AWS GovCloud (US)": [
@@ -5179,7 +5179,7 @@
         ]
     },
     "User Pool MAU 100000 upto 1000000 per Requests": {
-        "Regionless": [
+        "Default": [
             "0.0046000000"
         ],
         "AWS GovCloud (US)": [
@@ -5187,7 +5187,7 @@
         ]
     },
     "User Pool MAU 10000000 upto Inf per Requests": {
-        "Regionless": [
+        "Default": [
             "0.0025000000"
         ],
         "AWS GovCloud (US)": [

@@ -1,6 +1,6 @@
 {
     "Provisioned Read Units": {
-        "Regionless": [
+        "Default": [
             "0.0001300000"
         ],
         "US West (Oregon)": [
@@ -107,7 +107,7 @@
         ]
     },
     "Provisioned Write Units Free Tier": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -208,7 +208,7 @@
         ]
     },
     "Data Storage Indexed - IA GB-Mo": {
-        "Regionless": [
+        "Default": [
             "0.1000000000"
         ],
         "US West (Oregon)": [
@@ -315,7 +315,7 @@
         ]
     },
     "PayPerRequest Replicated Write Request Units IA": {
-        "Regionless": [
+        "Default": [
             "0.0000007800"
         ],
         "US West (Oregon)": [
@@ -422,7 +422,7 @@
         ]
     },
     "PayPerRequest Replicated Write Request Units": {
-        "Regionless": [
+        "Default": [
             "0.0000006250"
         ],
         "US West (Oregon)": [
@@ -529,7 +529,7 @@
         ]
     },
     "Change Data Capture Units for AWS Glue Elastic Views": {
-        "Regionless": [
+        "Default": [
             "0.0000001000"
         ],
         "US West (Oregon)": [
@@ -555,7 +555,7 @@
         ]
     },
     "3yr Write Capacity Unit Hrs Provisioned": {
-        "Regionless": [
+        "Default": [
             "0.0000810000"
         ],
         "US West (Oregon)": [
@@ -599,7 +599,7 @@
         ]
     },
     "Streams Read Requests Free Tier": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -697,7 +697,7 @@
         ]
     },
     "Change Data Capture Units for Kinesis Data Streams": {
-        "Regionless": [
+        "Default": [
             "0.0000001000"
         ],
         "US West (Oregon)": [
@@ -792,7 +792,7 @@
         ]
     },
     "Data Storage Indexed GB-Mo": {
-        "Regionless": [
+        "Default": [
             "0.2500000000"
         ],
         "US West (Oregon)": [
@@ -899,7 +899,7 @@
         ]
     },
     "3yr Read Capacity Unit Hrs Provisioned": {
-        "Regionless": [
+        "Default": [
             "0.0000160000"
         ],
         "US West (Oregon)": [
@@ -943,7 +943,7 @@
         ]
     },
     "Provisioned Replicated Write Units IA": {
-        "Regionless": [
+        "Default": [
             "0.0008100000"
         ],
         "US West (Oregon)": [
@@ -1050,7 +1050,7 @@
         ]
     },
     "Provisioned 1yr DDB-ReadUnits Upfront Fee": {
-        "Regionless": [
+        "Default": [
             "0.3"
         ],
         "US West (Oregon)": [
@@ -1157,7 +1157,7 @@
         ]
     },
     "Provisioned Read Units IA": {
-        "Regionless": [
+        "Default": [
             "0.0001600000"
         ],
         "US West (Oregon)": [
@@ -1264,7 +1264,7 @@
         ]
     },
     "Provisioned 3yr DDB-WriteUnits Upfront Fee": {
-        "Regionless": [
+        "Default": [
             "1.8"
         ],
         "US West (Oregon)": [
@@ -1308,7 +1308,7 @@
         ]
     },
     "PayPerRequest Write Request Units IA": {
-        "Regionless": [
+        "Default": [
             "0.0000007800"
         ],
         "US West (Oregon)": [
@@ -1415,7 +1415,7 @@
         ]
     },
     "Provisioned 1yr DDB-WriteUnits Upfront Fee": {
-        "Regionless": [
+        "Default": [
             "1.5"
         ],
         "US West (Oregon)": [
@@ -1522,7 +1522,7 @@
         ]
     },
     "Export Data Size Incremental Export per GB": {
-        "Regionless": [
+        "Default": [
             "0.1000000000"
         ],
         "US West (Oregon)": [
@@ -1626,7 +1626,7 @@
         ]
     },
     "PayPerRequest Read Request Units": {
-        "Regionless": [
+        "Default": [
             "0.0000001250"
         ],
         "US West (Oregon)": [
@@ -1733,7 +1733,7 @@
         ]
     },
     "Import Data Size": {
-        "Regionless": [
+        "Default": [
             "0.1500000000"
         ],
         "US West (Oregon)": [
@@ -1840,7 +1840,7 @@
         ]
     },
     "Provisioned Replicated Write UnitsFree Tier": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -1941,7 +1941,7 @@
         ]
     },
     "Provisioned Write Units IA": {
-        "Regionless": [
+        "Default": [
             "0.0008100000"
         ],
         "US West (Oregon)": [
@@ -2048,7 +2048,7 @@
         ]
     },
     "Provisioned Read Units Free Tier": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -2149,7 +2149,7 @@
         ]
     },
     "1yr Read Capacity Unit Hrs Provisioned": {
-        "Regionless": [
+        "Default": [
             "0.0000250000"
         ],
         "US West (Oregon)": [
@@ -2256,7 +2256,7 @@
         ]
     },
     "On-Demand Backup Storage GB-Month": {
-        "Regionless": [
+        "Default": [
             "0.1000000000"
         ],
         "US West (Oregon)": [
@@ -2363,7 +2363,7 @@
         ]
     },
     "1yr Write Capacity Unit Hrs Provisioned": {
-        "Regionless": [
+        "Default": [
             "0.0001280000"
         ],
         "US West (Oregon)": [
@@ -2470,7 +2470,7 @@
         ]
     },
     "Provisioned 3yr DDB-ReadUnits Upfront Fee": {
-        "Regionless": [
+        "Default": [
             "0.36"
         ],
         "US West (Oregon)": [
@@ -2514,7 +2514,7 @@
         ]
     },
     "PITR Backup Storage GB-Mo": {
-        "Regionless": [
+        "Default": [
             "0.2000000000"
         ],
         "US West (Oregon)": [
@@ -2621,7 +2621,7 @@
         ]
     },
     "Streams Read Requests": {
-        "Regionless": [
+        "Default": [
             "0.0000002000"
         ],
         "US West (Oregon)": [
@@ -2725,7 +2725,7 @@
         ]
     },
     "PayPerRequest Write Request Units": {
-        "Regionless": [
+        "Default": [
             "0.0000006250"
         ],
         "US West (Oregon)": [
@@ -2832,7 +2832,7 @@
         ]
     },
     "Restore Data Size": {
-        "Regionless": [
+        "Default": [
             "0.1500000000"
         ],
         "US West (Oregon)": [
@@ -2939,7 +2939,7 @@
         ]
     },
     "Export Data Size per GB": {
-        "Regionless": [
+        "Default": [
             "0.1000000000"
         ],
         "US West (Oregon)": [
@@ -3046,7 +3046,7 @@
         ]
     },
     "Data Storage Indexed Free Tier GB-Mo": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -3147,7 +3147,7 @@
         ]
     },
     "Provisioned Replicated Write Units": {
-        "Regionless": [
+        "Default": [
             "0.0006500000"
         ],
         "US West (Oregon)": [
@@ -3254,7 +3254,7 @@
         ]
     },
     "Provisioned Write Units": {
-        "Regionless": [
+        "Default": [
             "0.0006500000"
         ],
         "US West (Oregon)": [
@@ -3361,7 +3361,7 @@
         ]
     },
     "PayPerRequest Read Request Units IA": {
-        "Regionless": [
+        "Default": [
             "0.0000001550"
         ],
         "US West (Oregon)": [

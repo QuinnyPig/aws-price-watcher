@@ -1,6 +1,6 @@
 {
     "AWS Firewall per Throughput": {
-        "Regionless": [
+        "Default": [
             "0.0650000000"
         ],
         "US West (Oregon)": [
@@ -107,7 +107,7 @@
         ]
     },
     "AWS Firewall per Endpoint": {
-        "Regionless": [
+        "Default": [
             "0.3950000000"
         ],
         "US West (Oregon)": [
@@ -214,7 +214,7 @@
         ]
     },
     "AWS Firewall per Endpoint-Advanced": {
-        "Regionless": [
+        "Default": [
             "0.3800000000"
         ],
         "US West (Oregon)": [
@@ -321,7 +321,7 @@
         ]
     },
     "AWS Firewall per Throughput-Advanced": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [

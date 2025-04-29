@@ -1,6 +1,6 @@
 {
     "Upload part to Glacier Deep Archive Requests": {
-        "Regionless": [
+        "Default": [
             "0.0000050000"
         ],
         "US West (Oregon)": [
@@ -107,7 +107,7 @@
         ]
     },
     "Complete Multipart Upload to Glacier Deep Archive Requests": {
-        "Regionless": [
+        "Default": [
             "0.0000500000"
         ],
         "US West (Oregon)": [
@@ -214,7 +214,7 @@
         ]
     },
     "PUT to Glacier Deep Archive Requests": {
-        "Regionless": [
+        "Default": [
             "0.0000500000"
         ],
         "US West (Oregon)": [
@@ -321,7 +321,7 @@
         ]
     },
     "POST to Glacier Deep Archive Requests": {
-        "Regionless": [
+        "Default": [
             "0.0000500000"
         ],
         "US West (Oregon)": [
@@ -428,7 +428,7 @@
         ]
     },
     "Copy part to Glacier Deep Archive Requests": {
-        "Regionless": [
+        "Default": [
             "0.0000050000"
         ],
         "US West (Oregon)": [
@@ -535,7 +535,7 @@
         ]
     },
     "Lifecycle to Glacier Deep Archive Requests": {
-        "Regionless": [
+        "Default": [
             "0.0000500000"
         ],
         "US West (Oregon)": [
@@ -642,7 +642,7 @@
         ]
     },
     "Glacier Deep Archive GB Mo": {
-        "Regionless": [
+        "Default": [
             "0.0009900000"
         ],
         "US West (Oregon)": [
@@ -749,7 +749,7 @@
         ]
     },
     "GDA Standard Restore Requests": {
-        "Regionless": [
+        "Default": [
             "0.0001000000"
         ],
         "US West (Oregon)": [
@@ -856,7 +856,7 @@
         ]
     },
     "Initiate Multipart Upload for replication to Glacier Deep Archive Requests": {
-        "Regionless": [
+        "Default": [
             "0.0000050000"
         ],
         "US West (Oregon)": [
@@ -963,7 +963,7 @@
         ]
     },
     "COPY Object to Glacier Deep Archive Requests": {
-        "Regionless": [
+        "Default": [
             "0.0000500000"
         ],
         "US West (Oregon)": [
@@ -1070,7 +1070,7 @@
         ]
     },
     "Initiate Multipart Upload to Glacier Deep Archive Requests": {
-        "Regionless": [
+        "Default": [
             "0.0000050000"
         ],
         "US West (Oregon)": [
@@ -1177,7 +1177,7 @@
         ]
     },
     "PUT for replication to Glacier Deep Archive Requests": {
-        "Regionless": [
+        "Default": [
             "0.0000500000"
         ],
         "US West (Oregon)": [
@@ -1284,7 +1284,7 @@
         ]
     },
     "Complete Multipart Upload for repl to Glacier Deep Archive Requests": {
-        "Regionless": [
+        "Default": [
             "0.0000500000"
         ],
         "US West (Oregon)": [
@@ -1391,7 +1391,7 @@
         ]
     },
     "S3 Bulk-Retrieval GB": {
-        "Regionless": [
+        "Default": [
             "0.0025000000"
         ],
         "US West (Oregon)": [
@@ -1498,7 +1498,7 @@
         ]
     },
     "Upload part for replication to Glacier Deep Archive Requests": {
-        "Regionless": [
+        "Default": [
             "0.0000050000"
         ],
         "US West (Oregon)": [
@@ -1605,7 +1605,7 @@
         ]
     },
     "S3 EarlyDelete GDA GB-Mo": {
-        "Regionless": [
+        "Default": [
             "0.0009900000"
         ],
         "US West (Oregon)": [
@@ -1712,7 +1712,7 @@
         ]
     },
     "Glacier Deep Archive Bulk Restore Requests": {
-        "Regionless": [
+        "Default": [
             "0.0000250000"
         ],
         "US West (Oregon)": [
@@ -1819,7 +1819,7 @@
         ]
     },
     "S3 Standard-Retrieval GB": {
-        "Regionless": [
+        "Default": [
             "0.0200000000"
         ],
         "US West (Oregon)": [

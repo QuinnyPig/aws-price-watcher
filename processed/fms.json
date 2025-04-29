@@ -1,6 +1,6 @@
 {
     "Firewall Manager Policy Public Regions Common": {
-        "Regionless": [
+        "Default": [
             "100.0000000000"
         ],
         "US West (Oregon)": [
@@ -107,7 +107,7 @@
         ]
     },
     "Firewall Manager Policy Public Regions": {
-        "Regionless": [
+        "Default": [
             "100.0000000000"
         ],
         "US West (Oregon)": [
@@ -181,7 +181,7 @@
         ]
     },
     "Firewall Manager Policy Public Regions Shield": {
-        "Regionless": [
+        "Default": [
             "100.0000000000"
         ],
         "US West (Oregon)": [
@@ -288,7 +288,7 @@
         ]
     },
     "Firewall Manager Policy Public Regions Usage Audit": {
-        "Regionless": [
+        "Default": [
             "100.0000000000"
         ],
         "US West (Oregon)": [
@@ -395,7 +395,7 @@
         ]
     },
     "Firewall Manager Policy Public Regions Import Network-Firewall": {
-        "Regionless": [
+        "Default": [
             "100.0000000000"
         ],
         "US West (Oregon)": [
@@ -502,7 +502,7 @@
         ]
     },
     "Firewall Manager Policy Public Regions Content Audit": {
-        "Regionless": [
+        "Default": [
             "100.0000000000"
         ],
         "US West (Oregon)": [
@@ -609,7 +609,7 @@
         ]
     },
     "Firewall Manager Policy Public Regions WAFv2": {
-        "Regionless": [
+        "Default": [
             "100.0000000000"
         ],
         "US West (Oregon)": [
@@ -716,7 +716,7 @@
         ]
     },
     "Firewall Manager Policy Public Regions WAF": {
-        "Regionless": [
+        "Default": [
             "100.0000000000"
         ],
         "US West (Oregon)": [
@@ -808,7 +808,7 @@
         ]
     },
     "Firewall Manager Policy Public Regions Network Firewall": {
-        "Regionless": [
+        "Default": [
             "100.0000000000"
         ],
         "US West (Oregon)": [
@@ -915,7 +915,7 @@
         ]
     },
     "Firewall Manager Policy Public Regions Fortinet": {
-        "Regionless": [
+        "Default": [
             "100.0000000000"
         ],
         "US West (Oregon)": [
@@ -932,7 +932,7 @@
         ]
     },
     "Firewall Manager Policy Public Regions PaloAlto": {
-        "Regionless": [
+        "Default": [
             "100.0000000000"
         ],
         "US West (Oregon)": [
@@ -988,7 +988,7 @@
         ]
     },
     "Firewall Manager Policy Public Regions Network Acl-Common": {
-        "Regionless": [
+        "Default": [
             "100.0000000000"
         ],
         "US West (Oregon)": [
@@ -1095,7 +1095,7 @@
         ]
     },
     "Firewall Manager Policy Public Regions DNS Firewall": {
-        "Regionless": [
+        "Default": [
             "100.0000000000"
         ],
         "US West (Oregon)": [
@@ -1202,7 +1202,7 @@
         ]
     },
     "Firewall Manager Policy FMS Shield": {
-        "Regionless": [
+        "Default": [
             "100.0000000000"
         ],
         "Mexico (Central)": [
@@ -1219,7 +1219,7 @@
         ]
     },
     "Firewall Manager Policy FMS WAF": {
-        "Regionless": [
+        "Default": [
             "100.0000000000"
         ],
         "Mexico (Central)": [
@@ -1236,7 +1236,7 @@
         ]
     },
     "Firewall Manager Policy AmazonCloudFront": {
-        "Regionless": [
+        "Default": [
             "100.0000000000"
         ],
         "Any": [
@@ -1244,7 +1244,7 @@
         ]
     },
     "Firewall Manager Policy FMS": {
-        "Regionless": [
+        "Default": [
             "100.0000000000"
         ],
         "Any": [

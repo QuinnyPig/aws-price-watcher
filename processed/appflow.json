@@ -1,6 +1,6 @@
 {
     "PrivateLinkDataProcessing per Processing-Bytes": {
-        "Regionless": [
+        "Default": [
             "0.0200000000"
         ],
         "US West (Oregon)": [
@@ -53,7 +53,7 @@
         ]
     },
     "Data processing outside AWS per Processing-Bytes": {
-        "Regionless": [
+        "Default": [
             "0.1000000000"
         ],
         "US West (Oregon)": [
@@ -106,7 +106,7 @@
         ]
     },
     "Data processing within AWS per Processing-Bytes": {
-        "Regionless": [
+        "Default": [
             "0.0200000000"
         ],
         "US West (Oregon)": [
@@ -159,7 +159,7 @@
         ]
     },
     "ExecuteFlow per Flow runs": {
-        "Regionless": [
+        "Default": [
             "0.0010000000"
         ],
         "US West (Oregon)": [
@@ -212,7 +212,7 @@
         ]
     },
     "Data processing outside AWS First GB per Processing-Bytes": {
-        "Regionless": [
+        "Default": [
             "0.0200000000"
         ],
         "US West (Oregon)": [

@@ -1,6 +1,6 @@
 {
     "Chime EchoReduction per minutes": {
-        "Regionless": [
+        "Default": [
             "0.0023000000"
         ],
         "US West (Oregon)": [
@@ -47,7 +47,7 @@
         ]
     },
     "Chime ContentCapture per minutes": {
-        "Regionless": [
+        "Default": [
             "0.0017000000"
         ],
         "US West (Oregon)": [
@@ -82,7 +82,7 @@
         ]
     },
     "Chime Sip Media per minutes": {
-        "Regionless": [
+        "Default": [
             "0.0020000000"
         ],
         "US West (Oregon)": [
@@ -117,7 +117,7 @@
         ]
     },
     "Chime AudioStream per minutes": {
-        "Regionless": [
+        "Default": [
             "0.0017000000"
         ],
         "US West (Oregon)": [
@@ -152,7 +152,7 @@
         ]
     },
     "Chime VoiceFocus per minutes": {
-        "Regionless": [
+        "Default": [
             "0.0045000000"
         ],
         "US West (Oregon)": [
@@ -187,7 +187,7 @@
         ]
     },
     "Chime ReplicaMeeting per minutes": {
-        "Regionless": [
+        "Default": [
             "0.0085000000"
         ],
         "US West (Oregon)": [
@@ -234,7 +234,7 @@
         ]
     },
     "Chime ActiveSpeakerCapture per minutes": {
-        "Regionless": [
+        "Default": [
             "0.0034000000"
         ],
         "US West (Oregon)": [
@@ -269,7 +269,7 @@
         ]
     },
     "Chime Compositing-Live-Connector-FHD per minutes": {
-        "Regionless": [
+        "Default": [
             "0.1250000000"
         ],
         "US West (Oregon)": [
@@ -304,7 +304,7 @@
         ]
     },
     "Chime AudioCapture per minutes": {
-        "Regionless": [
+        "Default": [
             "0.0017000000"
         ],
         "US West (Oregon)": [
@@ -339,7 +339,7 @@
         ]
     },
     "Chime VideoCapture per minutes": {
-        "Regionless": [
+        "Default": [
             "0.0017000000"
         ],
         "US West (Oregon)": [
@@ -374,7 +374,7 @@
         ]
     },
     "Chime Concatenation per minutes": {
-        "Regionless": [
+        "Default": [
             "0.0020000000"
         ],
         "US West (Oregon)": [
@@ -409,7 +409,7 @@
         ]
     },
     "Chime CallRecording per minutes": {
-        "Regionless": [
+        "Default": [
             "0.0028000000"
         ],
         "US West (Oregon)": [
@@ -444,7 +444,7 @@
         ]
     },
     "Chime Compositing-Recording-HD per minutes": {
-        "Regionless": [
+        "Default": [
             "0.0100000000"
         ],
         "US West (Oregon)": [
@@ -479,7 +479,7 @@
         ]
     },
     "Chime audio stream per minutes": {
-        "Regionless": [
+        "Default": [
             "0.0028000000"
         ],
         "US West (Oregon)": [
@@ -514,7 +514,7 @@
         ]
     },
     "Chime Recording per minutes": {
-        "Regionless": [
+        "Default": [
             "0.0100000000"
         ],
         "US West (Oregon)": [
@@ -528,7 +528,7 @@
         ]
     },
     "Chime FHD ReplicaMeeting per minutes": {
-        "Regionless": [
+        "Default": [
             "0.0170000000"
         ],
         "US West (Oregon)": [
@@ -575,7 +575,7 @@
         ]
     },
     "Chime Live-Connector per minutes": {
-        "Regionless": [
+        "Default": [
             "0.0020000000"
         ],
         "US West (Oregon)": [
@@ -610,7 +610,7 @@
         ]
     },
     "Chime Compositing-Live-Connector-HD per minutes": {
-        "Regionless": [
+        "Default": [
             "0.0900000000"
         ],
         "US West (Oregon)": [
@@ -645,7 +645,7 @@
         ]
     },
     "Chime Analytics per minutes": {
-        "Regionless": [
+        "Default": [
             "0.0230000000"
         ],
         "US West (Oregon)": [
@@ -659,7 +659,7 @@
         ]
     },
     "Chime Compositing-Recording-FHD per minutes": {
-        "Regionless": [
+        "Default": [
             "0.0125000000"
         ],
         "US West (Oregon)": [
@@ -694,7 +694,7 @@
         ]
     },
     "Chime SDK Control per Messages": {
-        "Regionless": [
+        "Default": [
             "0.0000030000"
         ],
         "US East (N. Virginia)": [
@@ -705,7 +705,7 @@
         ]
     },
     "Chime SDK PushNotification per Notifications": {
-        "Regionless": [
+        "Default": [
             "0.0000100000"
         ],
         "US East (N. Virginia)": [
@@ -716,7 +716,7 @@
         ]
     },
     "Chime SDK Storage per GigaBytes": {
-        "Regionless": [
+        "Default": [
             "5.0000000000"
         ],
         "US East (N. Virginia)": [
@@ -727,7 +727,7 @@
         ]
     },
     "Chime SDK List per Messages": {
-        "Regionless": [
+        "Default": [
             "0.0000100000"
         ],
         "US East (N. Virginia)": [
@@ -738,7 +738,7 @@
         ]
     },
     "Chime SDK System per Messages": {
-        "Regionless": [
+        "Default": [
             "0.0000030000"
         ],
         "US East (N. Virginia)": [
@@ -749,7 +749,7 @@
         ]
     },
     "Chime SDK Messages per Messages": {
-        "Regionless": [
+        "Default": [
             "0.0007000000"
         ],
         "US East (N. Virginia)": [
@@ -760,7 +760,7 @@
         ]
     },
     "Chime SDK Recipients per recipients": {
-        "Regionless": [
+        "Default": [
             "0.0000100000"
         ],
         "US East (N. Virginia)": [

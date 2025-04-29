@@ -1,6 +1,6 @@
 {
     "EC2 Container Registry": {
-        "Regionless": [
+        "Default": [
             "0.1000000000"
         ],
         "US West (Oregon)": [
@@ -107,7 +107,7 @@
         ]
     },
     "EC2 Container Registry ECR-DSSE-Encryption Bytes encrypted using dual-layer server-side encryption": {
-        "Regionless": [
+        "Default": [
             "0.0036000000"
         ],
         "AWS GovCloud (US-East)": [
@@ -118,7 +118,7 @@
         ]
     },
     "EC2 Container Registry ECR-DSSE-Decryption Bytes decrypted using dual-layer server-side decryption": {
-        "Regionless": [
+        "Default": [
             "0.0036000000"
         ],
         "AWS GovCloud (US-East)": [

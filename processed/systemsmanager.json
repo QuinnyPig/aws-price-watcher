@@ -104,7 +104,7 @@
         ]
     },
     "Get Configuration Call": {
-        "Regionless": [
+        "Default": [
             "0.0000002000"
         ],
         "US West (Oregon)": [
@@ -211,7 +211,7 @@
         ]
     },
     "Ops Item": {
-        "Regionless": [
+        "Default": [
             "0.0029700000"
         ],
         "US West (Oregon)": [
@@ -318,7 +318,7 @@
         ]
     },
     "Advanced Parameter Standard Throughput per API Request": {
-        "Regionless": [
+        "Default": [
             "0.0000050000"
         ],
         "US West (Oregon)": [
@@ -422,7 +422,7 @@
         ]
     },
     "Get or Describe per API Requests": {
-        "Regionless": [
+        "Default": [
             "0.0000250000"
         ],
         "US West (Oregon)": [
@@ -529,7 +529,7 @@
         ]
     },
     "Configuration Received": {
-        "Regionless": [
+        "Default": [
             "0.0008000000"
         ],
         "US West (Oregon)": [
@@ -636,7 +636,7 @@
         ]
     },
     "Parameter Higher Throughputper API Request": {
-        "Regionless": [
+        "Default": [
             "0.0000050000"
         ],
         "US West (Oregon)": [
@@ -743,7 +743,7 @@
         ]
     },
     "OpsItem API Request": {
-        "Regionless": [
+        "Default": [
             "0.0000390000"
         ],
         "US West (Oregon)": [
@@ -850,7 +850,7 @@
         ]
     },
     "response plan months": {
-        "Regionless": [
+        "Default": [
             "7.0000000000"
         ],
         "US West (Oregon)": [
@@ -912,7 +912,7 @@
         ]
     },
     "Advanced Parameter": {
-        "Regionless": [
+        "Default": [
             "0.0000700000"
         ],
         "US West (Oregon)": [
@@ -1019,7 +1019,7 @@
         ]
     },
     "Instance advanced per Hrs": {
-        "Regionless": [
+        "Default": [
             "0.0069500000"
         ],
         "US West (Oregon)": [
@@ -1126,7 +1126,7 @@
         ]
     },
     "Instance advanced per UnitHrs": {
-        "Regionless": [
+        "Default": [
             "0.0069500000"
         ],
         "US West (Oregon)": [
@@ -1233,7 +1233,7 @@
         ]
     },
     "Storage per GB Mo": {
-        "Regionless": [
+        "Default": [
             "0.0460000000"
         ],
         "US West (Oregon)": [
@@ -1444,7 +1444,7 @@
         ]
     },
     "advanced or standard": {
-        "Regionless": [
+        "Default": [
             "0.0000050000"
         ],
         "Mexico (Central)": [
@@ -1458,7 +1458,7 @@
         ]
     },
     "Advanced Parameter Standard Throughput per Units": {
-        "Regionless": [
+        "Default": [
             "0.0000050000"
         ],
         "Mexico (Central)": [
@@ -1469,7 +1469,7 @@
         ]
     },
     "Step Duration per Units": {
-        "Regionless": [
+        "Default": [
             "0.0000000300"
         ],
         "Any": [
@@ -1480,7 +1480,7 @@
         ]
     },
     "Step Basic per Steps": {
-        "Regionless": [
+        "Default": [
             "0.0020000000"
         ],
         "Any": [

@@ -1,6 +1,6 @@
 {
     "ListTagsForResource API Request": {
-        "Regionless": [
+        "Default": [
             "0.0000020000"
         ],
         "US West (Oregon)": [
@@ -56,7 +56,7 @@
         ]
     },
     "DeleteResourcePolicy API Request": {
-        "Regionless": [
+        "Default": [
             "0.0000020000"
         ],
         "US West (Oregon)": [
@@ -112,7 +112,7 @@
         ]
     },
     "RunEnvironment hour": {
-        "Regionless": [
+        "Default": [
             "0.0280000000"
         ],
         "US West (Oregon)": [
@@ -168,7 +168,7 @@
         ]
     },
     "ListEnvironments API Request": {
-        "Regionless": [
+        "Default": [
             "0.0000020000"
         ],
         "US West (Oregon)": [
@@ -224,7 +224,7 @@
         ]
     },
     "GetRoute API Request": {
-        "Regionless": [
+        "Default": [
             "0.0000020000"
         ],
         "US West (Oregon)": [
@@ -280,7 +280,7 @@
         ]
     },
     "CreateEnvironment API Request": {
-        "Regionless": [
+        "Default": [
             "0.0000020000"
         ],
         "US West (Oregon)": [
@@ -336,7 +336,7 @@
         ]
     },
     "GetService API Request": {
-        "Regionless": [
+        "Default": [
             "0.0000020000"
         ],
         "US West (Oregon)": [
@@ -392,7 +392,7 @@
         ]
     },
     "CreateRoute API Request": {
-        "Regionless": [
+        "Default": [
             "0.0000020000"
         ],
         "US West (Oregon)": [
@@ -448,7 +448,7 @@
         ]
     },
     "UpdateRoute API Request": {
-        "Regionless": [
+        "Default": [
             "0.0000020000"
         ],
         "US West (Oregon)": [
@@ -504,7 +504,7 @@
         ]
     },
     "UntagResource API Request": {
-        "Regionless": [
+        "Default": [
             "0.0000020000"
         ],
         "US West (Oregon)": [
@@ -560,7 +560,7 @@
         ]
     },
     "ListRoutes API Request": {
-        "Regionless": [
+        "Default": [
             "0.0000020000"
         ],
         "US West (Oregon)": [
@@ -616,7 +616,7 @@
         ]
     },
     "DeleteApplication API Request": {
-        "Regionless": [
+        "Default": [
             "0.0000020000"
         ],
         "US West (Oregon)": [
@@ -672,7 +672,7 @@
         ]
     },
     "ListApplications API Request": {
-        "Regionless": [
+        "Default": [
             "0.0000020000"
         ],
         "US West (Oregon)": [
@@ -728,7 +728,7 @@
         ]
     },
     "PutResourcePolicy API Request": {
-        "Regionless": [
+        "Default": [
             "0.0000020000"
         ],
         "US West (Oregon)": [
@@ -784,7 +784,7 @@
         ]
     },
     "ListEnvironmentVpcs API Request": {
-        "Regionless": [
+        "Default": [
             "0.0000020000"
         ],
         "US West (Oregon)": [
@@ -840,7 +840,7 @@
         ]
     },
     "GetApplication API Request": {
-        "Regionless": [
+        "Default": [
             "0.0000020000"
         ],
         "US West (Oregon)": [
@@ -896,7 +896,7 @@
         ]
     },
     "DeleteEnvironment API Request": {
-        "Regionless": [
+        "Default": [
             "0.0000020000"
         ],
         "US West (Oregon)": [
@@ -952,7 +952,7 @@
         ]
     },
     "DeleteRoute API Request": {
-        "Regionless": [
+        "Default": [
             "0.0000020000"
         ],
         "US West (Oregon)": [
@@ -1008,7 +1008,7 @@
         ]
     },
     "ListServices API Request": {
-        "Regionless": [
+        "Default": [
             "0.0000020000"
         ],
         "US West (Oregon)": [
@@ -1064,7 +1064,7 @@
         ]
     },
     "GetResourcePolicy API Request": {
-        "Regionless": [
+        "Default": [
             "0.0000020000"
         ],
         "US West (Oregon)": [
@@ -1120,7 +1120,7 @@
         ]
     },
     "CreateApplication API Request": {
-        "Regionless": [
+        "Default": [
             "0.0000020000"
         ],
         "US West (Oregon)": [
@@ -1176,7 +1176,7 @@
         ]
     },
     "CreateService API Request": {
-        "Regionless": [
+        "Default": [
             "0.0000020000"
         ],
         "US West (Oregon)": [
@@ -1232,7 +1232,7 @@
         ]
     },
     "DeleteService API Request": {
-        "Regionless": [
+        "Default": [
             "0.0000020000"
         ],
         "US West (Oregon)": [
@@ -1288,7 +1288,7 @@
         ]
     },
     "GetEnvironment API Request": {
-        "Regionless": [
+        "Default": [
             "0.0000020000"
         ],
         "US West (Oregon)": [
@@ -1344,7 +1344,7 @@
         ]
     },
     "TagResource API Request": {
-        "Regionless": [
+        "Default": [
             "0.0000020000"
         ],
         "US West (Oregon)": [

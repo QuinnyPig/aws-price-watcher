@@ -1,6 +1,6 @@
 {
     "automated testing minutes on Windows OS and IE per minutes": {
-        "Regionless": [
+        "Default": [
             "0.0050000000"
         ],
         "US West (Oregon)": [
@@ -8,7 +8,7 @@
         ]
     },
     "automated testing minutes on Windows OS and Edge per minutes": {
-        "Regionless": [
+        "Default": [
             "0.0050000000"
         ],
         "US West (Oregon)": [
@@ -16,7 +16,7 @@
         ]
     },
     "Pay as you go automated tests on iOS per Minutes": {
-        "Regionless": [
+        "Default": [
             "0.1700000000"
         ],
         "US West (Oregon)": [
@@ -24,7 +24,7 @@
         ]
     },
     "FREE Web Performance Tests on iOS per Device Minute": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -32,7 +32,7 @@
         ]
     },
     "Unlimited Slot for automated tests on Android per Device Slot-Month": {
-        "Regionless": [
+        "Default": [
             "250.0000000000"
         ],
         "US West (Oregon)": [
@@ -40,7 +40,7 @@
         ]
     },
     "Pay as you go remote access on Android per Minutes": {
-        "Regionless": [
+        "Default": [
             "0.1700000000"
         ],
         "US West (Oregon)": [
@@ -48,7 +48,7 @@
         ]
     },
     "Unlimited Slot for remote access on Android per Device Slot-Month": {
-        "Regionless": [
+        "Default": [
             "250.0000000000"
         ],
         "US West (Oregon)": [
@@ -56,7 +56,7 @@
         ]
     },
     "Pay as you go remote access on iOS per Minutes": {
-        "Regionless": [
+        "Default": [
             "0.1700000000"
         ],
         "US West (Oregon)": [
@@ -64,7 +64,7 @@
         ]
     },
     "Unlimited Slot for remote access tests on iOS per Device Slot-Month": {
-        "Regionless": [
+        "Default": [
             "250.0000000000"
         ],
         "US West (Oregon)": [
@@ -72,7 +72,7 @@
         ]
     },
     "Unlimited Slot for automated tests on iOS per Device Slot-Month": {
-        "Regionless": [
+        "Default": [
             "250.0000000000"
         ],
         "US West (Oregon)": [
@@ -80,7 +80,7 @@
         ]
     },
     "automated testing minutes on Windows OS and Firefox per minutes": {
-        "Regionless": [
+        "Default": [
             "0.0050000000"
         ],
         "US West (Oregon)": [
@@ -88,7 +88,7 @@
         ]
     },
     "Pay as you go automated tests on Android per Minutes": {
-        "Regionless": [
+        "Default": [
             "0.1700000000"
         ],
         "US West (Oregon)": [
@@ -96,7 +96,7 @@
         ]
     },
     "automated testing minutes on Windows OS and Chrome per minutes": {
-        "Regionless": [
+        "Default": [
             "0.0050000000"
         ],
         "US West (Oregon)": [
@@ -104,7 +104,7 @@
         ]
     },
     "FREE Web Performance Tests on Android per Device Minute": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [

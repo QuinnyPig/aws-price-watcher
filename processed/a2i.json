@@ -1,6 +1,6 @@
 {
     "Machine Learning Custom 0 to 50000": {
-        "Regionless": [
+        "Default": [
             "0.0800000000"
         ],
         "US West (Oregon)": [
@@ -41,7 +41,7 @@
         ]
     },
     "Machine Learning Rekognition 100000 to Inf": {
-        "Regionless": [
+        "Default": [
             "0.0200000000"
         ],
         "US West (Oregon)": [
@@ -79,7 +79,7 @@
         ]
     },
     "Machine Learning Textract 0 to 100000": {
-        "Regionless": [
+        "Default": [
             "0.0300000000"
         ],
         "US West (Oregon)": [
@@ -102,7 +102,7 @@
         ]
     },
     "Machine Learning Custom 50000 to 1000000": {
-        "Regionless": [
+        "Default": [
             "0.0400000000"
         ],
         "US West (Oregon)": [
@@ -143,7 +143,7 @@
         ]
     },
     "Machine Learning Textract 100000 to Inf": {
-        "Regionless": [
+        "Default": [
             "0.0200000000"
         ],
         "US West (Oregon)": [
@@ -166,7 +166,7 @@
         ]
     },
     "Machine Learning Custom 1000000 to Inf": {
-        "Regionless": [
+        "Default": [
             "0.0200000000"
         ],
         "US West (Oregon)": [
@@ -207,7 +207,7 @@
         ]
     },
     "Machine Learning Rekognition 0 to 100000": {
-        "Regionless": [
+        "Default": [
             "0.0300000000"
         ],
         "US West (Oregon)": [

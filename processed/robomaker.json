@@ -1,6 +1,6 @@
 {
     "RoboMaker Simulation worldforge export per world": {
-        "Regionless": [
+        "Default": [
             "5.0000000000"
         ],
         "US West (Oregon)": [
@@ -26,7 +26,7 @@
         ]
     },
     "RoboMaker Simulation per GU Hour": {
-        "Regionless": [
+        "Default": [
             "1.5000000000"
         ],
         "US West (Oregon)": [
@@ -55,7 +55,7 @@
         ]
     },
     "RoboMaker Simulation worldforge generate per world": {
-        "Regionless": [
+        "Default": [
             "1.5000000000"
         ],
         "US West (Oregon)": [
@@ -81,7 +81,7 @@
         ]
     },
     "RoboMaker Simulation per SU Hour": {
-        "Regionless": [
+        "Default": [
             "0.4000000000"
         ],
         "US West (Oregon)": [

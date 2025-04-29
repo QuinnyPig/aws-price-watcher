@@ -1,6 +1,6 @@
 {
     "Station usage DataLoading": {
-        "Regionless": [
+        "Default": [
             "2.4900000000"
         ],
         "US East (N. Virginia)": [
@@ -14,7 +14,7 @@
         ]
     },
     "Station usage DataErasing": {
-        "Regionless": [
+        "Default": [
             "2.4900000000"
         ],
         "US East (N. Virginia)": [
@@ -28,7 +28,7 @@
         ]
     },
     "Device Handling": {
-        "Regionless": [
+        "Default": [
             "80.0000000000"
         ],
         "US East (N. Virginia)": [
@@ -42,7 +42,7 @@
         ]
     },
     "Return shipping charges": {
-        "Regionless": [
+        "Default": [
             "1.0000000000"
         ],
         "US East (N. Virginia)": [

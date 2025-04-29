@@ -1,6 +1,6 @@
 {
     "Request Processed Tier8 5000WCU per Request": {
-        "Regionless": [
+        "Default": [
             "0.0000020000"
         ],
         "US West (Oregon)": [
@@ -113,7 +113,7 @@
         ]
     },
     "Challenge Served processed per Request": {
-        "Regionless": [
+        "Default": [
             "0.0000004000"
         ],
         "US West (Oregon)": [
@@ -226,7 +226,7 @@
         ]
     },
     "Web ACL Activated per Month": {
-        "Regionless": [
+        "Default": [
             "5.0000000000"
         ],
         "US West (Oregon)": [
@@ -336,7 +336,7 @@
         ]
     },
     "AMR Bot Control Request Processed Shield Protected per Request from 0 to 1000000": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -449,7 +449,7 @@
         ]
     },
     "AMR Fraud Control request processed Shield Protected per Request from 10000 to 2000000": {
-        "Regionless": [
+        "Default": [
             "0.0010000000"
         ],
         "US West (Oregon)": [
@@ -553,7 +553,7 @@
         ]
     },
     "Rules added per WebACL per month": {
-        "Regionless": [
+        "Default": [
             "1.0000000000"
         ],
         "US West (Oregon)": [
@@ -660,7 +660,7 @@
         ]
     },
     "AMR Fraud Control request processed per Request from 2000000 to 5000000": {
-        "Regionless": [
+        "Default": [
             "0.0007000000"
         ],
         "US West (Oregon)": [
@@ -764,7 +764,7 @@
         ]
     },
     "AMR Bot Control Activated per Month": {
-        "Regionless": [
+        "Default": [
             "10.0000000000"
         ],
         "US West (Oregon)": [
@@ -874,7 +874,7 @@
         ]
     },
     "Request Processed Tier3 2500WCU per Request": {
-        "Regionless": [
+        "Default": [
             "0.0000010000"
         ],
         "US West (Oregon)": [
@@ -987,7 +987,7 @@
         ]
     },
     "Requests Processed 64KB per Request": {
-        "Regionless": [
+        "Default": [
             "0.0000009000"
         ],
         "US West (Oregon)": [
@@ -1097,7 +1097,7 @@
         ]
     },
     "Request Processed Tier4 3000WCU per Request": {
-        "Regionless": [
+        "Default": [
             "0.0000012000"
         ],
         "US West (Oregon)": [
@@ -1210,7 +1210,7 @@
         ]
     },
     "AMR Fraud Control request processed per Request from 5000000 to 15000000": {
-        "Regionless": [
+        "Default": [
             "0.0004000000"
         ],
         "US West (Oregon)": [
@@ -1314,7 +1314,7 @@
         ]
     },
     "Captcha Attempts processed per Request": {
-        "Regionless": [
+        "Default": [
             "0.0004000000"
         ],
         "US West (Oregon)": [
@@ -1427,7 +1427,7 @@
         ]
     },
     "Requests Processed 48KB per Request": {
-        "Regionless": [
+        "Default": [
             "0.0000006000"
         ],
         "US West (Oregon)": [
@@ -1537,7 +1537,7 @@
         ]
     },
     "AMR Bot Control Request Processed per Request from 10000000 to Inf": {
-        "Regionless": [
+        "Default": [
             "0.0000010000"
         ],
         "US West (Oregon)": [
@@ -1647,7 +1647,7 @@
         ]
     },
     "AMR Bot Control Request Processed Shield Protected per Request from 10000000 to Inf": {
-        "Regionless": [
+        "Default": [
             "0.0000010000"
         ],
         "US West (Oregon)": [
@@ -1751,7 +1751,7 @@
         ]
     },
     "AMR Bot Control Request Processed Shield Protected per Request from 0 to 10000000": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -1855,7 +1855,7 @@
         ]
     },
     "AMR Fraud Control request processed per Request from 0 to 10000": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -1959,7 +1959,7 @@
         ]
     },
     "AMR ATP Activated per Month from 0 to Inf": {
-        "Regionless": [
+        "Default": [
             "10.0000000000"
         ],
         "US West (Oregon)": [
@@ -2069,7 +2069,7 @@
         ]
     },
     "AMR Fraud Control request processed Shield Protected per Request from 0 to 10000": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -2173,7 +2173,7 @@
         ]
     },
     "AMR Fraud Control request processed per Request from 15000000 to 30000000": {
-        "Regionless": [
+        "Default": [
             "0.0002000000"
         ],
         "US West (Oregon)": [
@@ -2277,7 +2277,7 @@
         ]
     },
     "AMR Fraud Control request processed Shield Protected per Request from 15000000 to 30000000": {
-        "Regionless": [
+        "Default": [
             "0.0002000000"
         ],
         "US West (Oregon)": [
@@ -2381,7 +2381,7 @@
         ]
     },
     "Request Processed Tier1 per Request": {
-        "Regionless": [
+        "Default": [
             "0.0000006000"
         ],
         "US West (Oregon)": [
@@ -2491,7 +2491,7 @@
         ]
     },
     "Web Requests received per Request": {
-        "Regionless": [
+        "Default": [
             "0.0000006000"
         ],
         "US West (Oregon)": [
@@ -2601,7 +2601,7 @@
         ]
     },
     "Request Processed Tier2 2000WCU per Request": {
-        "Regionless": [
+        "Default": [
             "0.0000008000"
         ],
         "US West (Oregon)": [
@@ -2690,7 +2690,7 @@
         ]
     },
     "Request Processed Tier7 4500WCU per Request": {
-        "Regionless": [
+        "Default": [
             "0.0000018000"
         ],
         "US West (Oregon)": [
@@ -2803,7 +2803,7 @@
         ]
     },
     "AMR Bot Control Targeted Request Processed per Request from 1000000 to Inf": {
-        "Regionless": [
+        "Default": [
             "0.0000100000"
         ],
         "US West (Oregon)": [
@@ -2916,7 +2916,7 @@
         ]
     },
     "AMR Fraud Control request processed Shield Protected per Request from 30000000 to Inf": {
-        "Regionless": [
+        "Default": [
             "0.0000500000"
         ],
         "US West (Oregon)": [
@@ -3020,7 +3020,7 @@
         ]
     },
     "AMR Fraud Control request processed Shield Protected per Request from 5000000 to 15000000": {
-        "Regionless": [
+        "Default": [
             "0.0004000000"
         ],
         "US West (Oregon)": [
@@ -3124,7 +3124,7 @@
         ]
     },
     "Captcha Attempts processed Shield Protected per Request": {
-        "Regionless": [
+        "Default": [
             "0.0004000000"
         ],
         "US West (Oregon)": [
@@ -3237,7 +3237,7 @@
         ]
     },
     "AMR Fraud Control request processed per Request from 10000 to 2000000": {
-        "Regionless": [
+        "Default": [
             "0.0010000000"
         ],
         "US West (Oregon)": [
@@ -3341,7 +3341,7 @@
         ]
     },
     "AMR Fraud Control request processed per Request from 30000000 to Inf": {
-        "Regionless": [
+        "Default": [
             "0.0000500000"
         ],
         "US West (Oregon)": [
@@ -3445,7 +3445,7 @@
         ]
     },
     "Request Processed Tier6 4000WCU per Request": {
-        "Regionless": [
+        "Default": [
             "0.0000016000"
         ],
         "US West (Oregon)": [
@@ -3558,7 +3558,7 @@
         ]
     },
     "AMR ATP Activated Shield Protected per Month": {
-        "Regionless": [
+        "Default": [
             "10.0000000000"
         ],
         "US West (Oregon)": [
@@ -3668,7 +3668,7 @@
         ]
     },
     "AMR Bot Control Request Processed Shield Protected per Request from 1000000 to Inf": {
-        "Regionless": [
+        "Default": [
             "0.0000100000"
         ],
         "US West (Oregon)": [
@@ -3781,7 +3781,7 @@
         ]
     },
     "AMR Bot Control Targeted Request Processed per Request from 0 to 1000000": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -3894,7 +3894,7 @@
         ]
     },
     "Requests Processed 32KB per Request": {
-        "Regionless": [
+        "Default": [
             "0.0000003000"
         ],
         "US West (Oregon)": [
@@ -4004,7 +4004,7 @@
         ]
     },
     "Challenge Served processed Shield Protected per Request": {
-        "Regionless": [
+        "Default": [
             "0.0000004000"
         ],
         "US West (Oregon)": [
@@ -4117,7 +4117,7 @@
         ]
     },
     "Rule Activated per Month": {
-        "Regionless": [
+        "Default": [
             "1.0000000000"
         ],
         "US West (Oregon)": [
@@ -4227,7 +4227,7 @@
         ]
     },
     "AMR Bot Control Request Processed per Request from 0 to 10000000": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -4337,7 +4337,7 @@
         ]
     },
     "Request Processed Tier5 3500WCU per Request": {
-        "Regionless": [
+        "Default": [
             "0.0000014000"
         ],
         "US West (Oregon)": [
@@ -4450,7 +4450,7 @@
         ]
     },
     "AMR Bot Control Activated Shield Protected per Month": {
-        "Regionless": [
+        "Default": [
             "10.0000000000"
         ],
         "US West (Oregon)": [
@@ -4560,7 +4560,7 @@
         ]
     },
     "AMR Fraud Control request processed Shield Protected per Request from 2000000 to 5000000": {
-        "Regionless": [
+        "Default": [
             "0.0007000000"
         ],
         "US West (Oregon)": [
@@ -4664,7 +4664,7 @@
         ]
     },
     "WebACL per month": {
-        "Regionless": [
+        "Default": [
             "5.0000000000"
         ],
         "US West (Oregon)": [
@@ -4771,7 +4771,7 @@
         ]
     },
     "Request Processed Tier2 per Request": {
-        "Regionless": [
+        "Default": [
             "0.0000008000"
         ],
         "Thailand (Bangkok)": [
@@ -4809,7 +4809,7 @@
         ]
     },
     "AMR Bot Control Request Processed Shield Protected per Request from 0 to 1": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "Canada West (Calgary)": [
@@ -4820,7 +4820,7 @@
         ]
     },
     "AMR Bot Control Request Processed Shield Protected per Request from 1 to Inf": {
-        "Regionless": [
+        "Default": [
             "0.0000010000"
         ],
         "Canada West (Calgary)": [

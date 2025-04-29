@@ -1,6 +1,6 @@
 {
     "Position 0 to 1000000": {
-        "Regionless": [
+        "Default": [
             "0.0010000000"
         ],
         "US West (Oregon)": [
@@ -26,7 +26,7 @@
         ]
     },
     "Tasks 250000 to Inf": {
-        "Regionless": [
+        "Default": [
             "0.0030000000"
         ],
         "US West (Oregon)": [
@@ -46,7 +46,7 @@
         ]
     },
     "LoRaWAN bytes 0 to 52400000": {
-        "Regionless": [
+        "Default": [
             "0.0000001380"
         ],
         "US West (Oregon)": [
@@ -72,7 +72,7 @@
         ]
     },
     "LoRaWAN Messages Next 4B": {
-        "Regionless": [
+        "Default": [
             "0.0000015000"
         ],
         "US West (Oregon)": [
@@ -98,7 +98,7 @@
         ]
     },
     "RulesTriggered": {
-        "Regionless": [
+        "Default": [
             "0.0000001500"
         ],
         "US West (Oregon)": [
@@ -166,7 +166,7 @@
         ]
     },
     "LoRaWAN Messages Over 5B": {
-        "Regionless": [
+        "Default": [
             "0.0000012000"
         ],
         "US West (Oregon)": [
@@ -192,7 +192,7 @@
         ]
     },
     "LoRaWAN Subscriptions": {
-        "Regionless": [
+        "Default": [
             "0.5000000000"
         ],
         "US West (Oregon)": [
@@ -212,7 +212,7 @@
         ]
     },
     "Position 1000000 to 5000000": {
-        "Regionless": [
+        "Default": [
             "0.0008000000"
         ],
         "US West (Oregon)": [
@@ -238,7 +238,7 @@
         ]
     },
     "Tasks 0 to 250000": {
-        "Regionless": [
+        "Default": [
             "0.0060000000"
         ],
         "US West (Oregon)": [
@@ -258,7 +258,7 @@
         ]
     },
     "Messages Next 4B": {
-        "Regionless": [
+        "Default": [
             "0.0000008000"
         ],
         "US West (Oregon)": [
@@ -326,7 +326,7 @@
         ]
     },
     "Connectivity Minutes": {
-        "Regionless": [
+        "Default": [
             "0.0000000800"
         ],
         "US West (Oregon)": [
@@ -394,7 +394,7 @@
         ]
     },
     "LoRaWAN bytes 52400000 to Inf": {
-        "Regionless": [
+        "Default": [
             "0.0000001110"
         ],
         "US West (Oregon)": [
@@ -420,7 +420,7 @@
         ]
     },
     "LoRaWAN Messages": {
-        "Regionless": [
+        "Default": [
             "0.0000650000"
         ],
         "US West (Oregon)": [
@@ -446,7 +446,7 @@
         ]
     },
     "ActionsExecuted": {
-        "Regionless": [
+        "Default": [
             "0.0000001500"
         ],
         "US West (Oregon)": [
@@ -514,7 +514,7 @@
         ]
     },
     "LoRaWAN API Calls": {
-        "Regionless": [
+        "Default": [
             "0.0000020000"
         ],
         "US West (Oregon)": [
@@ -540,7 +540,7 @@
         ]
     },
     "Messages Up to 1B": {
-        "Regionless": [
+        "Default": [
             "0.0000010000"
         ],
         "US West (Oregon)": [
@@ -608,7 +608,7 @@
         ]
     },
     "Position 5000000 to Inf": {
-        "Regionless": [
+        "Default": [
             "0.0007000000"
         ],
         "US West (Oregon)": [
@@ -634,7 +634,7 @@
         ]
     },
     "LoRaWAN Records": {
-        "Regionless": [
+        "Default": [
             "0.0000020000"
         ],
         "US West (Oregon)": [
@@ -660,7 +660,7 @@
         ]
     },
     "LoRaWAN Messages Up to 1B": {
-        "Regionless": [
+        "Default": [
             "0.0000023000"
         ],
         "US West (Oregon)": [
@@ -686,7 +686,7 @@
         ]
     },
     "Device Shadow and Registry": {
-        "Regionless": [
+        "Default": [
             "0.0000012500"
         ],
         "US West (Oregon)": [
@@ -754,7 +754,7 @@
         ]
     },
     "Messages Over 5B": {
-        "Regionless": [
+        "Default": [
             "0.0000007000"
         ],
         "US West (Oregon)": [
@@ -822,7 +822,7 @@
         ]
     },
     "Sidewalk Messages Next 4B": {
-        "Regionless": [
+        "Default": [
             "0.0000015000"
         ],
         "US East (N. Virginia)": [
@@ -833,7 +833,7 @@
         ]
     },
     "Sidewalk Messages Over 5B": {
-        "Regionless": [
+        "Default": [
             "0.0000012000"
         ],
         "US East (N. Virginia)": [
@@ -844,7 +844,7 @@
         ]
     },
     "Sidewalk Messages Up to 1B": {
-        "Regionless": [
+        "Default": [
             "0.0000023000"
         ],
         "US East (N. Virginia)": [
@@ -855,7 +855,7 @@
         ]
     },
     "LoRaWAN Tasks 250000 to Inf": {
-        "Regionless": [
+        "Default": [
             "0.0050000000"
         ],
         "South America (Sao Paulo)": [
@@ -866,7 +866,7 @@
         ]
     },
     "Subscriptions": {
-        "Regionless": [
+        "Default": [
             "0.5000000000"
         ],
         "South America (Sao Paulo)": [
@@ -877,7 +877,7 @@
         ]
     },
     "LoRaWAN Tasks 0 to 250000": {
-        "Regionless": [
+        "Default": [
             "0.0090000000"
         ],
         "South America (Sao Paulo)": [

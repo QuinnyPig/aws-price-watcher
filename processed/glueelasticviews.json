@@ -1,6 +1,6 @@
 {
     "PayPerRequestProcessing per VPU-Hr": {
-        "Regionless": [
+        "Default": [
             "0.1600000000"
         ],
         "US West (Oregon)": [
@@ -20,7 +20,7 @@
         ]
     },
     "EV - Table Storage per GB-Mo": {
-        "Regionless": [
+        "Default": [
             "0.0230000000"
         ],
         "US West (Oregon)": [

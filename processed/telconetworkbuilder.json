@@ -1,6 +1,6 @@
 {
     "API Calls from 45000 to Inf": {
-        "Regionless": [
+        "Default": [
             "0.0025000000"
         ],
         "US West (Oregon)": [
@@ -35,7 +35,7 @@
         ]
     },
     "MNFI Hourly": {
-        "Regionless": [
+        "Default": [
             "0.0350000000"
         ],
         "US West (Oregon)": [
@@ -70,7 +70,7 @@
         ]
     },
     "API Calls from 0 to 45000": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [

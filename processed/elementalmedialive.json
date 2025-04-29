@@ -1,6 +1,6 @@
 {
     "Single HD AVC Output Frame 30-60fps 20-50mbps": {
-        "Regionless": [
+        "Default": [
             "0.7920000000"
         ],
         "US West (Oregon)": [
@@ -65,7 +65,7 @@
         ]
     },
     "SD HEVC Input 10-20mbps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.0712000000"
         ],
         "US West (Oregon)": [
@@ -130,7 +130,7 @@
         ]
     },
     "Single SD AVC Output Frame less than 30fps 1 Year": {
-        "Regionless": [
+        "Default": [
             "0.1554000000"
         ],
         "US West (Oregon)": [
@@ -195,7 +195,7 @@
         ]
     },
     "Single SD AVC Output Frame less than 30fps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.1554000000"
         ],
         "US West (Oregon)": [
@@ -260,7 +260,7 @@
         ]
     },
     "Enhanced Single SD AVC Frame less than 30fps 1 Year": {
-        "Regionless": [
+        "Default": [
             "0.1554000000"
         ],
         "US West (Oregon)": [
@@ -325,7 +325,7 @@
         ]
     },
     "HD AVC Output Frame less than 30fps": {
-        "Regionless": [
+        "Default": [
             "2.1060000000"
         ],
         "US West (Oregon)": [
@@ -390,7 +390,7 @@
         ]
     },
     "Enhanced HD AVC Frame less than 30fps": {
-        "Regionless": [
+        "Default": [
             "2.1060000000"
         ],
         "US West (Oregon)": [
@@ -455,7 +455,7 @@
         ]
     },
     "Single UHD HEVC Output Frame less than 30fps": {
-        "Regionless": [
+        "Default": [
             "6.7392000000"
         ],
         "US West (Oregon)": [
@@ -520,7 +520,7 @@
         ]
     },
     "Single SD AVC Output Frame 30-60fps 20-50mbps": {
-        "Regionless": [
+        "Default": [
             "0.3960000000"
         ],
         "US West (Oregon)": [
@@ -585,7 +585,7 @@
         ]
     },
     "MediaLive-Link HD 1 Year Single": {
-        "Regionless": [
+        "Default": [
             "0.2500000000"
         ],
         "US West (Oregon)": [
@@ -641,7 +641,7 @@
         ]
     },
     "FHD HEVC Output Frame 1 Year": {
-        "Regionless": [
+        "Default": [
             "8.1000000000"
         ],
         "US West (Oregon)": [
@@ -706,7 +706,7 @@
         ]
     },
     "FHD HEVC Output Frame Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "8.1000000000"
         ],
         "US West (Oregon)": [
@@ -771,7 +771,7 @@
         ]
     },
     "OUTPUT HEVC FHD 1 Year": {
-        "Regionless": [
+        "Default": [
             "8.1000000000"
         ],
         "US West (Oregon)": [
@@ -836,7 +836,7 @@
         ]
     },
     "Single UHD MPEG2 Input less than 10mbps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.1036000000"
         ],
         "US West (Oregon)": [
@@ -901,7 +901,7 @@
         ]
     },
     "Single SD AV1 Output Frame 30-60fps": {
-        "Regionless": [
+        "Default": [
             "1.4720000000"
         ],
         "US West (Oregon)": [
@@ -966,7 +966,7 @@
         ]
     },
     "Single HD AVC Input less than 10mbps": {
-        "Regionless": [
+        "Default": [
             "0.1404000000"
         ],
         "US West (Oregon)": [
@@ -1031,7 +1031,7 @@
         ]
     },
     "UHD HEVC Input 10-20mbps": {
-        "Regionless": [
+        "Default": [
             "3.5220000000"
         ],
         "US West (Oregon)": [
@@ -1096,7 +1096,7 @@
         ]
     },
     "Single SD CDI Input On Demand": {
-        "Regionless": [
+        "Default": [
             "0.4200000000"
         ],
         "US West (Oregon)": [
@@ -1161,7 +1161,7 @@
         ]
     },
     "Single IDLE OUTPUT": {
-        "Regionless": [
+        "Default": [
             "0.0100000000"
         ],
         "US West (Oregon)": [
@@ -1226,7 +1226,7 @@
         ]
     },
     "HD HEVC Input 10-20mbps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.1438000000"
         ],
         "US West (Oregon)": [
@@ -1291,7 +1291,7 @@
         ]
     },
     "HD HEVC Output Frame 30-60fps": {
-        "Regionless": [
+        "Default": [
             "3.5280000000"
         ],
         "US West (Oregon)": [
@@ -1356,7 +1356,7 @@
         ]
     },
     "Single SD AVC Input 20-50mbps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.0255000000"
         ],
         "US West (Oregon)": [
@@ -1421,7 +1421,7 @@
         ]
     },
     "Audio Only": {
-        "Regionless": [
+        "Default": [
             "0.1740000000"
         ],
         "US West (Oregon)": [
@@ -1486,7 +1486,7 @@
         ]
     },
     "ACTIVE_MULTIPLEX NA On Demand": {
-        "Regionless": [
+        "Default": [
             "0.0100000000"
         ],
         "US West (Oregon)": [
@@ -1551,7 +1551,7 @@
         ]
     },
     "ICTIVE_MULTIPLEX NA NA On Demand": {
-        "Regionless": [
+        "Default": [
             "0.0100000000"
         ],
         "US West (Oregon)": [
@@ -1616,7 +1616,7 @@
         ]
     },
     "Single HD AVC Input less than 10mbps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.0345000000"
         ],
         "US West (Oregon)": [
@@ -1681,7 +1681,7 @@
         ]
     },
     "Single UHD Motion Graphics": {
-        "Regionless": [
+        "Default": [
             "1.7000000000"
         ],
         "US West (Oregon)": [
@@ -1746,7 +1746,7 @@
         ]
     },
     "Single SD HEVC Input less than 10mbps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.0345000000"
         ],
         "US West (Oregon)": [
@@ -1811,7 +1811,7 @@
         ]
     },
     "UHD CDI Input 1 Year": {
-        "Regionless": [
+        "Default": [
             "1.4000000000"
         ],
         "US West (Oregon)": [
@@ -1876,7 +1876,7 @@
         ]
     },
     "HD AVC Output Frame 30-60fps 1 Year": {
-        "Regionless": [
+        "Default": [
             "0.6453000000"
         ],
         "US West (Oregon)": [
@@ -1941,7 +1941,7 @@
         ]
     },
     "HD AVC Output Frame 30-60fps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.6453000000"
         ],
         "US West (Oregon)": [
@@ -2006,7 +2006,7 @@
         ]
     },
     "Enhanced HD AVC Frame 30-60fps 1 Year": {
-        "Regionless": [
+        "Default": [
             "0.6453000000"
         ],
         "US West (Oregon)": [
@@ -2071,7 +2071,7 @@
         ]
     },
     "OUTPUT AVC HD 1 Year Enhanced 30-60fps": {
-        "Regionless": [
+        "Default": [
             "0.6453000000"
         ],
         "US West (Oregon)": [
@@ -2136,7 +2136,7 @@
         ]
     },
     "Single SD MPEG2 Input 10-20mbps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.0107000000"
         ],
         "US West (Oregon)": [
@@ -2201,7 +2201,7 @@
         ]
     },
     "Single UHD AVC Output Frame less than 30fps": {
-        "Regionless": [
+        "Default": [
             "1.6848000000"
         ],
         "US West (Oregon)": [
@@ -2266,7 +2266,7 @@
         ]
     },
     "Single SD AVC Output Frame less than 30fps Less Than 10 mbps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.0518000000"
         ],
         "US West (Oregon)": [
@@ -2331,7 +2331,7 @@
         ]
     },
     "OUTPUT HEVC FHD 3 Year": {
-        "Regionless": [
+        "Default": [
             "6.8850000000"
         ],
         "US West (Oregon)": [
@@ -2396,7 +2396,7 @@
         ]
     },
     "OUTPUT AVC HD 3 Year": {
-        "Regionless": [
+        "Default": [
             "1.1475000000"
         ],
         "US West (Oregon)": [
@@ -2461,7 +2461,7 @@
         ]
     },
     "SD AVC Output Frame less than 30fps Less Than 10 mbps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.0863000000"
         ],
         "US West (Oregon)": [
@@ -2526,7 +2526,7 @@
         ]
     },
     "UHD MPEG2 Input 20-50mbps": {
-        "Regionless": [
+        "Default": [
             "1.0560000000"
         ],
         "US West (Oregon)": [
@@ -2591,7 +2591,7 @@
         ]
     },
     "Single SD HEVC Output Frame less than 30fps": {
-        "Regionless": [
+        "Default": [
             "0.8496000000"
         ],
         "US West (Oregon)": [
@@ -2656,7 +2656,7 @@
         ]
     },
     "UHD AVC Output Frame less than 30fps": {
-        "Regionless": [
+        "Default": [
             "2.8080000000"
         ],
         "US West (Oregon)": [
@@ -2721,7 +2721,7 @@
         ]
     },
     "Single HD AVC Input 10-20mbps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.0427000000"
         ],
         "US West (Oregon)": [
@@ -2786,7 +2786,7 @@
         ]
     },
     "Single HD MPEG2 Input less than 10mbps": {
-        "Regionless": [
+        "Default": [
             "0.0720000000"
         ],
         "US West (Oregon)": [
@@ -2851,7 +2851,7 @@
         ]
     },
     "SD HEVC Input less than 10mbps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.0575000000"
         ],
         "US West (Oregon)": [
@@ -2916,7 +2916,7 @@
         ]
     },
     "HD AVC Output Frame less than 30fps 10-20mbps": {
-        "Regionless": [
+        "Default": [
             "0.8820000000"
         ],
         "US West (Oregon)": [
@@ -2981,7 +2981,7 @@
         ]
     },
     "IDLE OUTPUT": {
-        "Regionless": [
+        "Default": [
             "0.0100000000"
         ],
         "US West (Oregon)": [
@@ -3046,7 +3046,7 @@
         ]
     },
     "Single UHD MPEG2 Input 20-50mbps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.1553000000"
         ],
         "US West (Oregon)": [
@@ -3111,7 +3111,7 @@
         ]
     },
     "Single UHD Motion Graphics Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.4080000000"
         ],
         "US West (Oregon)": [
@@ -3176,7 +3176,7 @@
         ]
     },
     "SD HEVC Output Frame 1 Year": {
-        "Regionless": [
+        "Default": [
             "2.6000000000"
         ],
         "US West (Oregon)": [
@@ -3241,7 +3241,7 @@
         ]
     },
     "SD HEVC Output Frame Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "2.6000000000"
         ],
         "US West (Oregon)": [
@@ -3306,7 +3306,7 @@
         ]
     },
     "OUTPUT HEVC SD 1 Year": {
-        "Regionless": [
+        "Default": [
             "2.6000000000"
         ],
         "US West (Oregon)": [
@@ -3371,7 +3371,7 @@
         ]
     },
     "UHD AVC Input 20-50mbps": {
-        "Regionless": [
+        "Default": [
             "2.1120000000"
         ],
         "US West (Oregon)": [
@@ -3436,7 +3436,7 @@
         ]
     },
     "MediaLive-Link HD On Demand": {
-        "Regionless": [
+        "Default": [
             "0.8333000000"
         ],
         "US West (Oregon)": [
@@ -3492,7 +3492,7 @@
         ]
     },
     "Single UHD HEVC Input less than 10mbps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.4142000000"
         ],
         "US West (Oregon)": [
@@ -3557,7 +3557,7 @@
         ]
     },
     "SD CDI Input 1 Year": {
-        "Regionless": [
+        "Default": [
             "0.1750000000"
         ],
         "US West (Oregon)": [
@@ -3622,7 +3622,7 @@
         ]
     },
     "UHD AVC Input less than 10mbps": {
-        "Regionless": [
+        "Default": [
             "1.4100000000"
         ],
         "US West (Oregon)": [
@@ -3687,7 +3687,7 @@
         ]
     },
     "UHD HEVC Output Frame 30-60fps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "3.4433000000"
         ],
         "US West (Oregon)": [
@@ -3752,7 +3752,7 @@
         ]
     },
     "OUTPUT MPEG2 SD On Demand": {
-        "Regionless": [
+        "Default": [
             "1.9500000000"
         ],
         "US West (Oregon)": [
@@ -3817,7 +3817,7 @@
         ]
     },
     "OUTPUT AVC SD 3 Year": {
-        "Regionless": [
+        "Default": [
             "0.5525000000"
         ],
         "US West (Oregon)": [
@@ -3882,7 +3882,7 @@
         ]
     },
     "Single SD AVC Output Frame less than 30fps 10-20mbps": {
-        "Regionless": [
+        "Default": [
             "0.2628000000"
         ],
         "US West (Oregon)": [
@@ -3947,7 +3947,7 @@
         ]
     },
     "SD MPEG2 Input 10-20mbps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.0178000000"
         ],
         "US West (Oregon)": [
@@ -4012,7 +4012,7 @@
         ]
     },
     "Single HD AVC Output Frame less than 30fps 10-20mbps": {
-        "Regionless": [
+        "Default": [
             "0.5292000000"
         ],
         "US West (Oregon)": [
@@ -4077,7 +4077,7 @@
         ]
     },
     "HD HEVC Input less than 10mbps": {
-        "Regionless": [
+        "Default": [
             "0.4680000000"
         ],
         "US West (Oregon)": [
@@ -4142,7 +4142,7 @@
         ]
     },
     "OUTPUT AVC FHD 3 Year": {
-        "Regionless": [
+        "Default": [
             "1.7213000000"
         ],
         "US West (Oregon)": [
@@ -4207,7 +4207,7 @@
         ]
     },
     "SD AV1 Output Frame less than 30fps": {
-        "Regionless": [
+        "Default": [
             "1.9740000000"
         ],
         "US West (Oregon)": [
@@ -4272,7 +4272,7 @@
         ]
     },
     "Single HD AV1 Output Frame 30-60fps": {
-        "Regionless": [
+        "Default": [
             "2.9640000000"
         ],
         "US West (Oregon)": [
@@ -4337,7 +4337,7 @@
         ]
     },
     "HD AVC Input 10-20mbps": {
-        "Regionless": [
+        "Default": [
             "0.2940000000"
         ],
         "US West (Oregon)": [
@@ -4402,7 +4402,7 @@
         ]
     },
     "SD AVC Output Frame 30-60fps Less than 10mbps": {
-        "Regionless": [
+        "Default": [
             "0.4380000000"
         ],
         "US West (Oregon)": [
@@ -4467,7 +4467,7 @@
         ]
     },
     "HD AVC Output Frame 30-60fps Less than 10mbps": {
-        "Regionless": [
+        "Default": [
             "0.8820000000"
         ],
         "US West (Oregon)": [
@@ -4532,7 +4532,7 @@
         ]
     },
     "Single SD AVC Input 10-20mbps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.0214000000"
         ],
         "US West (Oregon)": [
@@ -4597,7 +4597,7 @@
         ]
     },
     "MediaLive-Link UHD 1 Year Single": {
-        "Regionless": [
+        "Default": [
             "0.8500000000"
         ],
         "US West (Oregon)": [
@@ -4653,7 +4653,7 @@
         ]
     },
     "UHD MPEG2 Input 10-20mbps": {
-        "Regionless": [
+        "Default": [
             "0.8820000000"
         ],
         "US West (Oregon)": [
@@ -4718,7 +4718,7 @@
         ]
     },
     "SD HEVC Input 20-50mbps": {
-        "Regionless": [
+        "Default": [
             "0.3540000000"
         ],
         "US West (Oregon)": [
@@ -4783,7 +4783,7 @@
         ]
     },
     "OUTPUT HEVC SD 3 Year": {
-        "Regionless": [
+        "Default": [
             "2.2100000000"
         ],
         "US West (Oregon)": [
@@ -4848,7 +4848,7 @@
         ]
     },
     "Single HD HEVC Input 20-50mbps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.1036000000"
         ],
         "US West (Oregon)": [
@@ -4913,7 +4913,7 @@
         ]
     },
     "Single HD AVC Output Frame less than 30fps 20-50mbps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.1553000000"
         ],
         "US West (Oregon)": [
@@ -4978,7 +4978,7 @@
         ]
     },
     "Single HD AVC Output Frame 30-60fps 10-20mbps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.1619000000"
         ],
         "US West (Oregon)": [
@@ -5043,7 +5043,7 @@
         ]
     },
     "SD AVC Input 20-50mbps": {
-        "Regionless": [
+        "Default": [
             "0.1740000000"
         ],
         "US West (Oregon)": [
@@ -5108,7 +5108,7 @@
         ]
     },
     "Single SD AVC Input 20-50mbps": {
-        "Regionless": [
+        "Default": [
             "0.1044000000"
         ],
         "US West (Oregon)": [
@@ -5173,7 +5173,7 @@
         ]
     },
     "Single SD AV1 Output Frame less than 30fps": {
-        "Regionless": [
+        "Default": [
             "1.1890000000"
         ],
         "US West (Oregon)": [
@@ -5238,7 +5238,7 @@
         ]
     },
     "Single UHD AVC Input 10-20mbps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.2589000000"
         ],
         "US West (Oregon)": [
@@ -5303,7 +5303,7 @@
         ]
     },
     "SD AVC Input 10-20mbps": {
-        "Regionless": [
+        "Default": [
             "0.1440000000"
         ],
         "US West (Oregon)": [
@@ -5368,7 +5368,7 @@
         ]
     },
     "Single SD HEVC Output Frame 30-60fps": {
-        "Regionless": [
+        "Default": [
             "1.0512000000"
         ],
         "US West (Oregon)": [
@@ -5433,7 +5433,7 @@
         ]
     },
     "OUTPUT MPEG2 HD 1 Year": {
-        "Regionless": [
+        "Default": [
             "1.0125000000"
         ],
         "US West (Oregon)": [
@@ -5498,7 +5498,7 @@
         ]
     },
     "UHD AVC Input 10-20mbps": {
-        "Regionless": [
+        "Default": [
             "1.7580000000"
         ],
         "US West (Oregon)": [
@@ -5563,7 +5563,7 @@
         ]
     },
     "Single SD HEVC Input 20-50mbps": {
-        "Regionless": [
+        "Default": [
             "0.2124000000"
         ],
         "US West (Oregon)": [
@@ -5628,7 +5628,7 @@
         ]
     },
     "UHD HEVC Input 20-50mbps": {
-        "Regionless": [
+        "Default": [
             "4.2240000000"
         ],
         "US West (Oregon)": [
@@ -5693,7 +5693,7 @@
         ]
     },
     "Single HD MPEG2 Input 20-50mbps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.0255000000"
         ],
         "US West (Oregon)": [
@@ -5758,7 +5758,7 @@
         ]
     },
     "UHD AVC Input 20-50mbps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.5178000000"
         ],
         "US West (Oregon)": [
@@ -5823,7 +5823,7 @@
         ]
     },
     "Single SD AVC Output Frame 30-60fps Less than 10mbps": {
-        "Regionless": [
+        "Default": [
             "0.2628000000"
         ],
         "US West (Oregon)": [
@@ -5888,7 +5888,7 @@
         ]
     },
     "SD AVC Output Frame less than 30fps": {
-        "Regionless": [
+        "Default": [
             "1.0620000000"
         ],
         "US West (Oregon)": [
@@ -5953,7 +5953,7 @@
         ]
     },
     "Enhanced SD AVC Frame less than 30fps": {
-        "Regionless": [
+        "Default": [
             "1.0620000000"
         ],
         "US West (Oregon)": [
@@ -6018,7 +6018,7 @@
         ]
     },
     "Single Advanced Audio Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.0214000000"
         ],
         "US West (Oregon)": [
@@ -6083,7 +6083,7 @@
         ]
     },
     "HD AVC Output Frame less than 30fps 20-50mbps": {
-        "Regionless": [
+        "Default": [
             "1.0560000000"
         ],
         "US West (Oregon)": [
@@ -6148,7 +6148,7 @@
         ]
     },
     "MediaLive-Link HD On Demand Single": {
-        "Regionless": [
+        "Default": [
             "0.5000000000"
         ],
         "US West (Oregon)": [
@@ -6204,7 +6204,7 @@
         ]
     },
     "OUTPUT HEVC HD 3 Year": {
-        "Regionless": [
+        "Default": [
             "4.5900000000"
         ],
         "US West (Oregon)": [
@@ -6269,7 +6269,7 @@
         ]
     },
     "HD AVC Output Frame": {
-        "Regionless": [
+        "Default": [
             "5.4000000000"
         ],
         "US West (Oregon)": [
@@ -6334,7 +6334,7 @@
         ]
     },
     "OUTPUT AVC HD On Demand": {
-        "Regionless": [
+        "Default": [
             "5.4000000000"
         ],
         "US West (Oregon)": [
@@ -6399,7 +6399,7 @@
         ]
     },
     "Single SD HEVC Input 20-50mbps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.0518000000"
         ],
         "US West (Oregon)": [
@@ -6464,7 +6464,7 @@
         ]
     },
     "Single SD CDI Input 1 Year": {
-        "Regionless": [
+        "Default": [
             "0.1050000000"
         ],
         "US West (Oregon)": [
@@ -6529,7 +6529,7 @@
         ]
     },
     "Single FHD CDI Input 1 Year": {
-        "Regionless": [
+        "Default": [
             "0.4200000000"
         ],
         "US West (Oregon)": [
@@ -6594,7 +6594,7 @@
         ]
     },
     "Single HD AVC Output Frame less than 30fps": {
-        "Regionless": [
+        "Default": [
             "1.2636000000"
         ],
         "US West (Oregon)": [
@@ -6659,7 +6659,7 @@
         ]
     },
     "Enhanced Single HD AVC Frame less than 30fps": {
-        "Regionless": [
+        "Default": [
             "1.2636000000"
         ],
         "US West (Oregon)": [
@@ -6724,7 +6724,7 @@
         ]
     },
     "Single Audio Normalization": {
-        "Regionless": [
+        "Default": [
             "0.0720000000"
         ],
         "US West (Oregon)": [
@@ -6789,7 +6789,7 @@
         ]
     },
     "Single UHD MPEG2 Input 10-20mbps": {
-        "Regionless": [
+        "Default": [
             "0.5292000000"
         ],
         "US West (Oregon)": [
@@ -6854,7 +6854,7 @@
         ]
     },
     "Single HD HEVC Output Frame less than 30fps": {
-        "Regionless": [
+        "Default": [
             "1.6848000000"
         ],
         "US West (Oregon)": [
@@ -6919,7 +6919,7 @@
         ]
     },
     "Single UHD HEVC Input 10-20mbps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.5178000000"
         ],
         "US West (Oregon)": [
@@ -6984,7 +6984,7 @@
         ]
     },
     "OUTPUT MPEG2 SD 3 Year": {
-        "Regionless": [
+        "Default": [
             "0.4144000000"
         ],
         "US West (Oregon)": [
@@ -7049,7 +7049,7 @@
         ]
     },
     "FHD CDI Input On Demand": {
-        "Regionless": [
+        "Default": [
             "2.8000000000"
         ],
         "US West (Oregon)": [
@@ -7114,7 +7114,7 @@
         ]
     },
     "Advanced Audio": {
-        "Regionless": [
+        "Default": [
             "0.3000000000"
         ],
         "US West (Oregon)": [
@@ -7179,7 +7179,7 @@
         ]
     },
     "SD HEVC Input less than 10mbps": {
-        "Regionless": [
+        "Default": [
             "0.2340000000"
         ],
         "US West (Oregon)": [
@@ -7244,7 +7244,7 @@
         ]
     },
     "HD AV1 Output Frame 30-60fps": {
-        "Regionless": [
+        "Default": [
             "4.9390000000"
         ],
         "US West (Oregon)": [
@@ -7309,7 +7309,7 @@
         ]
     },
     "Single SD MPEG2 Input 20-50mbps": {
-        "Regionless": [
+        "Default": [
             "0.0540000000"
         ],
         "US West (Oregon)": [
@@ -7374,7 +7374,7 @@
         ]
     },
     "Single HD Motion Graphics Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.2040000000"
         ],
         "US West (Oregon)": [
@@ -7439,7 +7439,7 @@
         ]
     },
     "Single HD CDI Input 1 Year": {
-        "Regionless": [
+        "Default": [
             "0.2100000000"
         ],
         "US West (Oregon)": [
@@ -7504,7 +7504,7 @@
         ]
     },
     "HD CDI Input 1 Year": {
-        "Regionless": [
+        "Default": [
             "0.3500000000"
         ],
         "US West (Oregon)": [
@@ -7569,7 +7569,7 @@
         ]
     },
     "UHD Motion Graphics Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.6810000000"
         ],
         "US West (Oregon)": [
@@ -7634,7 +7634,7 @@
         ]
     },
     "Single HD HEVC Input less than 10mbps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.0691000000"
         ],
         "US West (Oregon)": [
@@ -7699,7 +7699,7 @@
         ]
     },
     "SD MPEG2 Input less than 10mbps": {
-        "Regionless": [
+        "Default": [
             "0.0600000000"
         ],
         "US West (Oregon)": [
@@ -7764,7 +7764,7 @@
         ]
     },
     "Single HD MPEG2 Input less than 10mbps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.0173000000"
         ],
         "US West (Oregon)": [
@@ -7829,7 +7829,7 @@
         ]
     },
     "HD MPEG2 Input 10-20mbps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.0356000000"
         ],
         "US West (Oregon)": [
@@ -7894,7 +7894,7 @@
         ]
     },
     "HD HEVC Input 10-20mbps": {
-        "Regionless": [
+        "Default": [
             "0.5880000000"
         ],
         "US West (Oregon)": [
@@ -7959,7 +7959,7 @@
         ]
     },
     "HD AVC Output Frame 30-60fps 10-20mbps": {
-        "Regionless": [
+        "Default": [
             "1.0980000000"
         ],
         "US West (Oregon)": [
@@ -8024,7 +8024,7 @@
         ]
     },
     "SD AV1 Output Frame less than 30fps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.4820000000"
         ],
         "US West (Oregon)": [
@@ -8089,7 +8089,7 @@
         ]
     },
     "HD MPEG2 Input less than 10mbps": {
-        "Regionless": [
+        "Default": [
             "0.1200000000"
         ],
         "US West (Oregon)": [
@@ -8154,7 +8154,7 @@
         ]
     },
     "OUTPUT MPEG2 SD 1 Year": {
-        "Regionless": [
+        "Default": [
             "0.4875000000"
         ],
         "US West (Oregon)": [
@@ -8219,7 +8219,7 @@
         ]
     },
     "Single Audio Only Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.0255000000"
         ],
         "US West (Oregon)": [
@@ -8284,7 +8284,7 @@
         ]
     },
     "Single UHD HEVC Output Frame 30-60fps": {
-        "Regionless": [
+        "Default": [
             "8.4672000000"
         ],
         "US West (Oregon)": [
@@ -8349,7 +8349,7 @@
         ]
     },
     "Single HD AVC Input 10-20mbps": {
-        "Regionless": [
+        "Default": [
             "0.1764000000"
         ],
         "US West (Oregon)": [
@@ -8414,7 +8414,7 @@
         ]
     },
     "HD HEVC Output Frame 30-60fps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.8608000000"
         ],
         "US West (Oregon)": [
@@ -8479,7 +8479,7 @@
         ]
     },
     "FHD HEVC Output Frame": {
-        "Regionless": [
+        "Default": [
             "32.4000000000"
         ],
         "US West (Oregon)": [
@@ -8544,7 +8544,7 @@
         ]
     },
     "OUTPUT HEVC FHD On Demand": {
-        "Regionless": [
+        "Default": [
             "32.4000000000"
         ],
         "US West (Oregon)": [
@@ -8609,7 +8609,7 @@
         ]
     },
     "OUTPUT MPEG2 HD On Demand": {
-        "Regionless": [
+        "Default": [
             "4.0500000000"
         ],
         "US West (Oregon)": [
@@ -8674,7 +8674,7 @@
         ]
     },
     "HD Motion Graphics": {
-        "Regionless": [
+        "Default": [
             "1.4170000000"
         ],
         "US West (Oregon)": [
@@ -8739,7 +8739,7 @@
         ]
     },
     "HD AV1 Output Frame less than 30fps": {
-        "Regionless": [
+        "Default": [
             "3.9310000000"
         ],
         "US West (Oregon)": [
@@ -8804,7 +8804,7 @@
         ]
     },
     "HD HEVC Output Frame 1 Year": {
-        "Regionless": [
+        "Default": [
             "5.4000000000"
         ],
         "US West (Oregon)": [
@@ -8869,7 +8869,7 @@
         ]
     },
     "HD HEVC Output Frame Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "5.4000000000"
         ],
         "US West (Oregon)": [
@@ -8934,7 +8934,7 @@
         ]
     },
     "OUTPUT HEVC HD 1 Year": {
-        "Regionless": [
+        "Default": [
             "5.4000000000"
         ],
         "US West (Oregon)": [
@@ -8999,7 +8999,7 @@
         ]
     },
     "Single SD AVC Output Frame 30-60fps": {
-        "Regionless": [
+        "Default": [
             "0.7884000000"
         ],
         "US West (Oregon)": [
@@ -9064,7 +9064,7 @@
         ]
     },
     "Enhanced Single SD AVC Frame 30-60fps": {
-        "Regionless": [
+        "Default": [
             "0.7884000000"
         ],
         "US West (Oregon)": [
@@ -9129,7 +9129,7 @@
         ]
     },
     "MediaLive-Link UHD On Demand": {
-        "Regionless": [
+        "Default": [
             "4.5830000000"
         ],
         "US West (Oregon)": [
@@ -9185,7 +9185,7 @@
         ]
     },
     "Single UHD MPEG2 Input 10-20mbps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.1291000000"
         ],
         "US West (Oregon)": [
@@ -9250,7 +9250,7 @@
         ]
     },
     "Single SD AVC Input less than 10mbps": {
-        "Regionless": [
+        "Default": [
             "0.0720000000"
         ],
         "US West (Oregon)": [
@@ -9315,7 +9315,7 @@
         ]
     },
     "Single HD AV1 Output Frame less than 30fps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.5760000000"
         ],
         "US West (Oregon)": [
@@ -9380,7 +9380,7 @@
         ]
     },
     "Single UHD AVC Input less than 10mbps": {
-        "Regionless": [
+        "Default": [
             "0.8460000000"
         ],
         "US West (Oregon)": [
@@ -9445,7 +9445,7 @@
         ]
     },
     "HD AVC Output Frame 30-60fps 20-50mbps": {
-        "Regionless": [
+        "Default": [
             "1.3200000000"
         ],
         "US West (Oregon)": [
@@ -9510,7 +9510,7 @@
         ]
     },
     "Single SD MPEG2 Input 10-20mbps": {
-        "Regionless": [
+        "Default": [
             "0.0432000000"
         ],
         "US West (Oregon)": [
@@ -9575,7 +9575,7 @@
         ]
     },
     "Single SD AVC Output Frame less than 30fps 20-50mbps": {
-        "Regionless": [
+        "Default": [
             "0.3168000000"
         ],
         "US West (Oregon)": [
@@ -9640,7 +9640,7 @@
         ]
     },
     "Single SD AVC Output Frame 30-60fps 10-20mbps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.0805000000"
         ],
         "US West (Oregon)": [
@@ -9705,7 +9705,7 @@
         ]
     },
     "UHD Motion Graphics": {
-        "Regionless": [
+        "Default": [
             "2.8340000000"
         ],
         "US West (Oregon)": [
@@ -9770,7 +9770,7 @@
         ]
     },
     "SD AVC Output Frame 30-60fps 10-20mbps": {
-        "Regionless": [
+        "Default": [
             "0.5520000000"
         ],
         "US West (Oregon)": [
@@ -9835,7 +9835,7 @@
         ]
     },
     "Advanced Audio Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.0356000000"
         ],
         "US West (Oregon)": [
@@ -9900,7 +9900,7 @@
         ]
     },
     "UHD HEVC Output Frame less than 30fps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "2.7406000000"
         ],
         "US West (Oregon)": [
@@ -9965,7 +9965,7 @@
         ]
     },
     "Audio Normalization": {
-        "Regionless": [
+        "Default": [
             "0.1200000000"
         ],
         "US West (Oregon)": [
@@ -10030,7 +10030,7 @@
         ]
     },
     "SD HEVC Output Frame 30-60fps": {
-        "Regionless": [
+        "Default": [
             "1.7520000000"
         ],
         "US West (Oregon)": [
@@ -10095,7 +10095,7 @@
         ]
     },
     "Single SD HEVC Input less than 10mbps": {
-        "Regionless": [
+        "Default": [
             "0.1404000000"
         ],
         "US West (Oregon)": [
@@ -10160,7 +10160,7 @@
         ]
     },
     "HD MPEG2 Input 10-20mbps": {
-        "Regionless": [
+        "Default": [
             "0.1440000000"
         ],
         "US West (Oregon)": [
@@ -10225,7 +10225,7 @@
         ]
     },
     "UHD MPEG2 Input 20-50mbps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.2589000000"
         ],
         "US West (Oregon)": [
@@ -10290,7 +10290,7 @@
         ]
     },
     "Single SD HEVC Output Frame 30-60fps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.2565000000"
         ],
         "US West (Oregon)": [
@@ -10355,7 +10355,7 @@
         ]
     },
     "SD HEVC Input 10-20mbps": {
-        "Regionless": [
+        "Default": [
             "0.2940000000"
         ],
         "US West (Oregon)": [
@@ -10420,7 +10420,7 @@
         ]
     },
     "Single UHD MPEG2 Input Less than 10mbps": {
-        "Regionless": [
+        "Default": [
             "0.4212000000"
         ],
         "US West (Oregon)": [
@@ -10485,7 +10485,7 @@
         ]
     },
     "Single SD AV1 Output Frame 30-60fps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.3590000000"
         ],
         "US West (Oregon)": [
@@ -10550,7 +10550,7 @@
         ]
     },
     "Single HD HEVC Input less than 10mbps": {
-        "Regionless": [
+        "Default": [
             "0.2808000000"
         ],
         "US West (Oregon)": [
@@ -10615,7 +10615,7 @@
         ]
     },
     "Single HD AVC Output Frame less than 30fps 10-20mbps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.1291000000"
         ],
         "US West (Oregon)": [
@@ -10680,7 +10680,7 @@
         ]
     },
     "Single HD AVC Output Frame less than 30fps 1 Year": {
-        "Regionless": [
+        "Default": [
             "0.3108000000"
         ],
         "US West (Oregon)": [
@@ -10745,7 +10745,7 @@
         ]
     },
     "Single HD AVC Output Frame less than 30fps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.3108000000"
         ],
         "US West (Oregon)": [
@@ -10810,7 +10810,7 @@
         ]
     },
     "Enhanced Single HD AVC Frame less than 30fps 1 Year": {
-        "Regionless": [
+        "Default": [
             "0.3108000000"
         ],
         "US West (Oregon)": [
@@ -10875,7 +10875,7 @@
         ]
     },
     "Single HD AVC Input 20-50mbps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.0518000000"
         ],
         "US West (Oregon)": [
@@ -10940,7 +10940,7 @@
         ]
     },
     "Single SD HEVC Output Frame less than 30fps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.2073000000"
         ],
         "US West (Oregon)": [
@@ -11005,7 +11005,7 @@
         ]
     },
     "HD Motion Graphics Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.3410000000"
         ],
         "US West (Oregon)": [
@@ -11070,7 +11070,7 @@
         ]
     },
     "Single HD HEVC Input 10-20mbps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.0863000000"
         ],
         "US West (Oregon)": [
@@ -11135,7 +11135,7 @@
         ]
     },
     "SD HEVC Output Frame": {
-        "Regionless": [
+        "Default": [
             "10.4000000000"
         ],
         "US West (Oregon)": [
@@ -11200,7 +11200,7 @@
         ]
     },
     "OUTPUT HEVC SD On Demand": {
-        "Regionless": [
+        "Default": [
             "10.4000000000"
         ],
         "US West (Oregon)": [
@@ -11265,7 +11265,7 @@
         ]
     },
     "Single HD AVC Output Frame 30-60fps": {
-        "Regionless": [
+        "Default": [
             "1.5876000000"
         ],
         "US West (Oregon)": [
@@ -11330,7 +11330,7 @@
         ]
     },
     "Enhanced Single HD AVC Frame 30-60fps": {
-        "Regionless": [
+        "Default": [
             "1.5876000000"
         ],
         "US West (Oregon)": [
@@ -11395,7 +11395,7 @@
         ]
     },
     "MediaLive-Link HD 1 Year": {
-        "Regionless": [
+        "Default": [
             "0.4167000000"
         ],
         "US West (Oregon)": [
@@ -11451,7 +11451,7 @@
         ]
     },
     "Single HD MPEG2 Input 10-20mbps": {
-        "Regionless": [
+        "Default": [
             "0.0864000000"
         ],
         "US West (Oregon)": [
@@ -11516,7 +11516,7 @@
         ]
     },
     "HD HEVC Input 20-50mbps": {
-        "Regionless": [
+        "Default": [
             "0.7020000000"
         ],
         "US West (Oregon)": [
@@ -11581,7 +11581,7 @@
         ]
     },
     "Single SD AVC Output Frame less than 30fps 10-20mbps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.0649000000"
         ],
         "US West (Oregon)": [
@@ -11646,7 +11646,7 @@
         ]
     },
     "HD HEVC Output Frame less than 30fps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.6852000000"
         ],
         "US West (Oregon)": [
@@ -11711,7 +11711,7 @@
         ]
     },
     "UHD HEVC Output Frame 1 Year": {
-        "Regionless": [
+        "Default": [
             "21.6000000000"
         ],
         "US West (Oregon)": [
@@ -11776,7 +11776,7 @@
         ]
     },
     "UHD HEVC Output Frame Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "21.6000000000"
         ],
         "US West (Oregon)": [
@@ -11841,7 +11841,7 @@
         ]
     },
     "OUTPUT HEVC UHD 1 Year": {
-        "Regionless": [
+        "Default": [
             "21.6000000000"
         ],
         "US West (Oregon)": [
@@ -11906,7 +11906,7 @@
         ]
     },
     "SD MPEG2 Input 20-50mbps": {
-        "Regionless": [
+        "Default": [
             "0.0900000000"
         ],
         "US West (Oregon)": [
@@ -11971,7 +11971,7 @@
         ]
     },
     "Single HD HEVC Output Frame 30-60fps": {
-        "Regionless": [
+        "Default": [
             "2.1168000000"
         ],
         "US West (Oregon)": [
@@ -12036,7 +12036,7 @@
         ]
     },
     "SD AVC Output Frame less than 30fps 10-20mbps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.1082000000"
         ],
         "US West (Oregon)": [
@@ -12101,7 +12101,7 @@
         ]
     },
     "Single HD AVC Output Frame less than 30fps Less Than 10 mbps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.1036000000"
         ],
         "US West (Oregon)": [
@@ -12166,7 +12166,7 @@
         ]
     },
     "SD AVC Output Frame 30-60fps Less Than 10mbps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.1082000000"
         ],
         "US West (Oregon)": [
@@ -12231,7 +12231,7 @@
         ]
     },
     "SD AVC Input less than 10mbps": {
-        "Regionless": [
+        "Default": [
             "0.1200000000"
         ],
         "US West (Oregon)": [
@@ -12296,7 +12296,7 @@
         ]
     },
     "Single Advanced Audio": {
-        "Regionless": [
+        "Default": [
             "0.1800000000"
         ],
         "US West (Oregon)": [
@@ -12361,7 +12361,7 @@
         ]
     },
     "HD AVC Output Frame less than 30fps 20-50mbps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.2589000000"
         ],
         "US West (Oregon)": [
@@ -12426,7 +12426,7 @@
         ]
     },
     "SD AVC Output Frame less than 30fps 10-20mbps": {
-        "Regionless": [
+        "Default": [
             "0.4380000000"
         ],
         "US West (Oregon)": [
@@ -12491,7 +12491,7 @@
         ]
     },
     "FHD AVC Output Frame": {
-        "Regionless": [
+        "Default": [
             "8.1000000000"
         ],
         "US West (Oregon)": [
@@ -12556,7 +12556,7 @@
         ]
     },
     "OUTPUT AVC FHD On Demand": {
-        "Regionless": [
+        "Default": [
             "8.1000000000"
         ],
         "US West (Oregon)": [
@@ -12621,7 +12621,7 @@
         ]
     },
     "HD AVC Input 20-50mbps": {
-        "Regionless": [
+        "Default": [
             "0.3540000000"
         ],
         "US West (Oregon)": [
@@ -12686,7 +12686,7 @@
         ]
     },
     "Single HD AV1 Output Frame less than 30fps": {
-        "Regionless": [
+        "Default": [
             "2.3590000000"
         ],
         "US West (Oregon)": [
@@ -12751,7 +12751,7 @@
         ]
     },
     "HD HEVC Input less than 10mbps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.1151000000"
         ],
         "US West (Oregon)": [
@@ -12816,7 +12816,7 @@
         ]
     },
     "Single HD HEVC Output Frame 30-60fps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.5165000000"
         ],
         "US West (Oregon)": [
@@ -12881,7 +12881,7 @@
         ]
     },
     "Single UHD HEVC Input 10-20mbps": {
-        "Regionless": [
+        "Default": [
             "2.1132000000"
         ],
         "US West (Oregon)": [
@@ -12946,7 +12946,7 @@
         ]
     },
     "SD HEVC Output Frame less than 30fps": {
-        "Regionless": [
+        "Default": [
             "1.4100000000"
         ],
         "US West (Oregon)": [
@@ -13011,7 +13011,7 @@
         ]
     },
     "OUTPUT HEVC UHD 3 Year": {
-        "Regionless": [
+        "Default": [
             "18.3600000000"
         ],
         "US West (Oregon)": [
@@ -13076,7 +13076,7 @@
         ]
     },
     "HD MPEG2 Input less than 10mbps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.0288000000"
         ],
         "US West (Oregon)": [
@@ -13141,7 +13141,7 @@
         ]
     },
     "UHD HEVC Input less than 10mbps": {
-        "Regionless": [
+        "Default": [
             "2.8200000000"
         ],
         "US West (Oregon)": [
@@ -13206,7 +13206,7 @@
         ]
     },
     "Single UHD AVC Input 10-20mbps": {
-        "Regionless": [
+        "Default": [
             "1.0548000000"
         ],
         "US West (Oregon)": [
@@ -13271,7 +13271,7 @@
         ]
     },
     "SD AVC Output Frame less than 30fps 1 Year": {
-        "Regionless": [
+        "Default": [
             "0.2589000000"
         ],
         "US West (Oregon)": [
@@ -13336,7 +13336,7 @@
         ]
     },
     "SD AVC Output Frame less than 30fps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.2589000000"
         ],
         "US West (Oregon)": [
@@ -13401,7 +13401,7 @@
         ]
     },
     "Enhanced SD AVC Frame less than 30fps 1 Year": {
-        "Regionless": [
+        "Default": [
             "0.2589000000"
         ],
         "US West (Oregon)": [
@@ -13466,7 +13466,7 @@
         ]
     },
     "OUTPUT AVC SD 1 Year Enhanced less than 30fps": {
-        "Regionless": [
+        "Default": [
             "0.2589000000"
         ],
         "US West (Oregon)": [
@@ -13531,7 +13531,7 @@
         ]
     },
     "Single UHD HEVC Input less than 10mbps": {
-        "Regionless": [
+        "Default": [
             "1.6920000000"
         ],
         "US West (Oregon)": [
@@ -13596,7 +13596,7 @@
         ]
     },
     "UHD MPEG2 Input 10-20mbps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.2151000000"
         ],
         "US West (Oregon)": [
@@ -13661,7 +13661,7 @@
         ]
     },
     "SD AV1 Output Frame 30-60fps": {
-        "Regionless": [
+        "Default": [
             "2.4530000000"
         ],
         "US West (Oregon)": [
@@ -13726,7 +13726,7 @@
         ]
     },
     "SD AVC Input less than 10mbps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.0288000000"
         ],
         "US West (Oregon)": [
@@ -13791,7 +13791,7 @@
         ]
     },
     "SD MPEG2 Input 20-50mbps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.0219000000"
         ],
         "US West (Oregon)": [
@@ -13856,7 +13856,7 @@
         ]
     },
     "HD HEVC Output Frame": {
-        "Regionless": [
+        "Default": [
             "21.6000000000"
         ],
         "US West (Oregon)": [
@@ -13921,7 +13921,7 @@
         ]
     },
     "OUTPUT HEVC HD On Demand": {
-        "Regionless": [
+        "Default": [
             "21.6000000000"
         ],
         "US West (Oregon)": [
@@ -13986,7 +13986,7 @@
         ]
     },
     "Audio Only Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.0425000000"
         ],
         "US West (Oregon)": [
@@ -14051,7 +14051,7 @@
         ]
     },
     "SD AVC Output Frame less than 30fps Less Than 10 mbps": {
-        "Regionless": [
+        "Default": [
             "0.3540000000"
         ],
         "US West (Oregon)": [
@@ -14116,7 +14116,7 @@
         ]
     },
     "Single UHD HEVC Input 20-50mbps": {
-        "Regionless": [
+        "Default": [
             "2.5344000000"
         ],
         "US West (Oregon)": [
@@ -14181,7 +14181,7 @@
         ]
     },
     "Single FHD CDI Input On Demand": {
-        "Regionless": [
+        "Default": [
             "1.6800000000"
         ],
         "US West (Oregon)": [
@@ -14246,7 +14246,7 @@
         ]
     },
     "Single HD AVC Input 20-50mbps": {
-        "Regionless": [
+        "Default": [
             "0.2124000000"
         ],
         "US West (Oregon)": [
@@ -14311,7 +14311,7 @@
         ]
     },
     "Single HD HEVC Input 20-50mbps": {
-        "Regionless": [
+        "Default": [
             "0.4212000000"
         ],
         "US West (Oregon)": [
@@ -14376,7 +14376,7 @@
         ]
     },
     "Single HD MPEG2 Input 20-50mbps": {
-        "Regionless": [
+        "Default": [
             "0.1044000000"
         ],
         "US West (Oregon)": [
@@ -14441,7 +14441,7 @@
         ]
     },
     "SD HEVC Output Frame less than 30fps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.3440000000"
         ],
         "US West (Oregon)": [
@@ -14506,7 +14506,7 @@
         ]
     },
     "Single UHD AVC Output Frame less than 30fps 1 Year": {
-        "Regionless": [
+        "Default": [
             "0.4144000000"
         ],
         "US West (Oregon)": [
@@ -14571,7 +14571,7 @@
         ]
     },
     "Single UHD AVC Output Frame less than 30fps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.4144000000"
         ],
         "US West (Oregon)": [
@@ -14636,7 +14636,7 @@
         ]
     },
     "HD AV1 Output Frame 30-60fps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "1.2050000000"
         ],
         "US West (Oregon)": [
@@ -14701,7 +14701,7 @@
         ]
     },
     "UHD HEVC Input less than 10mbps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.6904000000"
         ],
         "US West (Oregon)": [
@@ -14766,7 +14766,7 @@
         ]
     },
     "HD MPEG2 Input 20-50mbps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.0425000000"
         ],
         "US West (Oregon)": [
@@ -14831,7 +14831,7 @@
         ]
     },
     "HD AVC Output Frame 30-60fps": {
-        "Regionless": [
+        "Default": [
             "2.6460000000"
         ],
         "US West (Oregon)": [
@@ -14896,7 +14896,7 @@
         ]
     },
     "Enhanced HD AVC Frame 30-60fps": {
-        "Regionless": [
+        "Default": [
             "2.6460000000"
         ],
         "US West (Oregon)": [
@@ -14961,7 +14961,7 @@
         ]
     },
     "SD AVC Output Frame less than 30fps 20-50mbps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.1288000000"
         ],
         "US West (Oregon)": [
@@ -15026,7 +15026,7 @@
         ]
     },
     "SD AVC Output Frame 30-60fps 20-50mbps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.1616000000"
         ],
         "US West (Oregon)": [
@@ -15091,7 +15091,7 @@
         ]
     },
     "HD AVC Output Frame less than 30fps 1 Year": {
-        "Regionless": [
+        "Default": [
             "0.5178000000"
         ],
         "US West (Oregon)": [
@@ -15156,7 +15156,7 @@
         ]
     },
     "HD AVC Output Frame less than 30fps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.5178000000"
         ],
         "US West (Oregon)": [
@@ -15221,7 +15221,7 @@
         ]
     },
     "Enhanced HD AVC Frame less than 30fps 1 Year": {
-        "Regionless": [
+        "Default": [
             "0.5178000000"
         ],
         "US West (Oregon)": [
@@ -15286,7 +15286,7 @@
         ]
     },
     "OUTPUT AVC HD 1 Year Enhanced less than 30fps": {
-        "Regionless": [
+        "Default": [
             "0.5178000000"
         ],
         "US West (Oregon)": [
@@ -15351,7 +15351,7 @@
         ]
     },
     "Single SD AVC Input less than 10mbps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.0173000000"
         ],
         "US West (Oregon)": [
@@ -15416,7 +15416,7 @@
         ]
     },
     "Single SD MPEG2 Input 20-50mbps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.0131000000"
         ],
         "US West (Oregon)": [
@@ -15481,7 +15481,7 @@
         ]
     },
     "Single SD MPEG2 Input less than 10mbps": {
-        "Regionless": [
+        "Default": [
             "0.0360000000"
         ],
         "US West (Oregon)": [
@@ -15546,7 +15546,7 @@
         ]
     },
     "UHD HEVC Output Frame": {
-        "Regionless": [
+        "Default": [
             "86.4000000000"
         ],
         "US West (Oregon)": [
@@ -15611,7 +15611,7 @@
         ]
     },
     "OUTPUT HEVC UHD On Demand": {
-        "Regionless": [
+        "Default": [
             "86.4000000000"
         ],
         "US West (Oregon)": [
@@ -15676,7 +15676,7 @@
         ]
     },
     "UHD HEVC Input 20-50mbps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "1.0356000000"
         ],
         "US West (Oregon)": [
@@ -15741,7 +15741,7 @@
         ]
     },
     "Single UHD CDI Input 1 Year": {
-        "Regionless": [
+        "Default": [
             "0.8400000000"
         ],
         "US West (Oregon)": [
@@ -15806,7 +15806,7 @@
         ]
     },
     "Single SD AV1 Output Frame less than 30fps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.2900000000"
         ],
         "US West (Oregon)": [
@@ -15871,7 +15871,7 @@
         ]
     },
     "SD MPEG2 Input 10-20mbps": {
-        "Regionless": [
+        "Default": [
             "0.0720000000"
         ],
         "US West (Oregon)": [
@@ -15936,7 +15936,7 @@
         ]
     },
     "SD AVC Output Frame 30-60fps 20-50mbps": {
-        "Regionless": [
+        "Default": [
             "0.6600000000"
         ],
         "US West (Oregon)": [
@@ -16001,7 +16001,7 @@
         ]
     },
     "HD HEVC Input 20-50mbps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.1726000000"
         ],
         "US West (Oregon)": [
@@ -16066,7 +16066,7 @@
         ]
     },
     "Single SD AVC Output Frame 30-60fps Less Than 10mbps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.0649000000"
         ],
         "US West (Oregon)": [
@@ -16131,7 +16131,7 @@
         ]
     },
     "UHD CDI Input On Demand": {
-        "Regionless": [
+        "Default": [
             "5.6000000000"
         ],
         "US West (Oregon)": [
@@ -16196,7 +16196,7 @@
         ]
     },
     "Single Audio Only": {
-        "Regionless": [
+        "Default": [
             "0.1044000000"
         ],
         "US West (Oregon)": [
@@ -16261,7 +16261,7 @@
         ]
     },
     "Single UHD HEVC Output Frame less than 30fps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "1.6444000000"
         ],
         "US West (Oregon)": [
@@ -16326,7 +16326,7 @@
         ]
     },
     "Single SD AVC Output Frame 30-60fps 10-20mbps": {
-        "Regionless": [
+        "Default": [
             "0.3312000000"
         ],
         "US West (Oregon)": [
@@ -16391,7 +16391,7 @@
         ]
     },
     "IDLE INPUT": {
-        "Regionless": [
+        "Default": [
             "0.0100000000"
         ],
         "US West (Oregon)": [
@@ -16456,7 +16456,7 @@
         ]
     },
     "MediaLive-Link UHD On Demand Single": {
-        "Regionless": [
+        "Default": [
             "2.7500000000"
         ],
         "US West (Oregon)": [
@@ -16512,7 +16512,7 @@
         ]
     },
     "SD AVC Input 20-50mbps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.0425000000"
         ],
         "US West (Oregon)": [
@@ -16577,7 +16577,7 @@
         ]
     },
     "UHD AVC Output Frame less than 30fps 1 Year": {
-        "Regionless": [
+        "Default": [
             "0.6904000000"
         ],
         "US West (Oregon)": [
@@ -16642,7 +16642,7 @@
         ]
     },
     "UHD AVC Output Frame less than 30fps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.6904000000"
         ],
         "US West (Oregon)": [
@@ -16707,7 +16707,7 @@
         ]
     },
     "OUTPUT AVC UHD 1 Year less than 30fps": {
-        "Regionless": [
+        "Default": [
             "0.6904000000"
         ],
         "US West (Oregon)": [
@@ -16772,7 +16772,7 @@
         ]
     },
     "SD CDI Input On Demand": {
-        "Regionless": [
+        "Default": [
             "0.7000000000"
         ],
         "US West (Oregon)": [
@@ -16837,7 +16837,7 @@
         ]
     },
     "Single HD CDI Input On Demand": {
-        "Regionless": [
+        "Default": [
             "0.8400000000"
         ],
         "US West (Oregon)": [
@@ -16902,7 +16902,7 @@
         ]
     },
     "MediaLive-Link UHD 1 Year": {
-        "Regionless": [
+        "Default": [
             "1.4167000000"
         ],
         "US West (Oregon)": [
@@ -16958,7 +16958,7 @@
         ]
     },
     "Single SD AVC Output Frame 30-60fps 20-50mbps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.0970000000"
         ],
         "US West (Oregon)": [
@@ -17023,7 +17023,7 @@
         ]
     },
     "HD AVC Input 20-50mbps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.0863000000"
         ],
         "US West (Oregon)": [
@@ -17088,7 +17088,7 @@
         ]
     },
     "Single HD AV1 Output Frame 30-60fps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.7230000000"
         ],
         "US West (Oregon)": [
@@ -17153,7 +17153,7 @@
         ]
     },
     "Single HD AVC Output Frame less than 30fps 20-50mbps": {
-        "Regionless": [
+        "Default": [
             "0.6336000000"
         ],
         "US West (Oregon)": [
@@ -17218,7 +17218,7 @@
         ]
     },
     "Single SD AVC Output Frame less than 30fps 20-50mbps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.0773000000"
         ],
         "US West (Oregon)": [
@@ -17283,7 +17283,7 @@
         ]
     },
     "Single HD HEVC Input 10-20mbps": {
-        "Regionless": [
+        "Default": [
             "0.3528000000"
         ],
         "US West (Oregon)": [
@@ -17348,7 +17348,7 @@
         ]
     },
     "Single HD HEVC Output Frame less than 30fps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.4111000000"
         ],
         "US West (Oregon)": [
@@ -17413,7 +17413,7 @@
         ]
     },
     "Single SD MPEG2 Input less than 10mbps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.0082000000"
         ],
         "US West (Oregon)": [
@@ -17478,7 +17478,7 @@
         ]
     },
     "Audio Normalization Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.0575000000"
         ],
         "US West (Oregon)": [
@@ -17543,7 +17543,7 @@
         ]
     },
     "SD AVC Output Frame 30-60fps 1 Year": {
-        "Regionless": [
+        "Default": [
             "0.3246000000"
         ],
         "US West (Oregon)": [
@@ -17608,7 +17608,7 @@
         ]
     },
     "SD AVC Output Frame 30-60fps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.3246000000"
         ],
         "US West (Oregon)": [
@@ -17673,7 +17673,7 @@
         ]
     },
     "Enhanced SD AVC Frame 30-60fps 1 Year": {
-        "Regionless": [
+        "Default": [
             "0.3246000000"
         ],
         "US West (Oregon)": [
@@ -17738,7 +17738,7 @@
         ]
     },
     "OUTPUT AVC SD 1 Year Enhanced 30-60fps": {
-        "Regionless": [
+        "Default": [
             "0.3246000000"
         ],
         "US West (Oregon)": [
@@ -17803,7 +17803,7 @@
         ]
     },
     "Single HD Motion Graphics": {
-        "Regionless": [
+        "Default": [
             "0.8500000000"
         ],
         "US West (Oregon)": [
@@ -17868,7 +17868,7 @@
         ]
     },
     "Single SD HEVC Input 10-20mbps": {
-        "Regionless": [
+        "Default": [
             "0.1764000000"
         ],
         "US West (Oregon)": [
@@ -17933,7 +17933,7 @@
         ]
     },
     "Single HD AVC Output Frame less than 30fps Less Than 10 mbps": {
-        "Regionless": [
+        "Default": [
             "0.4212000000"
         ],
         "US West (Oregon)": [
@@ -17998,7 +17998,7 @@
         ]
     },
     "Single UHD MPEG2 Input 20-50mbps": {
-        "Regionless": [
+        "Default": [
             "0.6336000000"
         ],
         "US West (Oregon)": [
@@ -18063,7 +18063,7 @@
         ]
     },
     "OUTPUT MPEG2 HD 3 Year": {
-        "Regionless": [
+        "Default": [
             "0.8606000000"
         ],
         "US West (Oregon)": [
@@ -18128,7 +18128,7 @@
         ]
     },
     "Single UHD HEVC Output Frame 30-60fps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "2.0660000000"
         ],
         "US West (Oregon)": [
@@ -18193,7 +18193,7 @@
         ]
     },
     "Single SD AVC Output Frame less than 30fps Less Than 10 mbps": {
-        "Regionless": [
+        "Default": [
             "0.2124000000"
         ],
         "US West (Oregon)": [
@@ -18258,7 +18258,7 @@
         ]
     },
     "ACTIVE_MULTIPLEX NA 3 Year": {
-        "Regionless": [
+        "Default": [
             "1.7000000000"
         ],
         "US West (Oregon)": [
@@ -18323,7 +18323,7 @@
         ]
     },
     "SD AV1 Output Frame 30-60fps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.5990000000"
         ],
         "US West (Oregon)": [
@@ -18388,7 +18388,7 @@
         ]
     },
     "Single SD AVC Input 10-20mbps": {
-        "Regionless": [
+        "Default": [
             "0.0864000000"
         ],
         "US West (Oregon)": [
@@ -18453,7 +18453,7 @@
         ]
     },
     "Single UHD AVC Input 20-50mbps": {
-        "Regionless": [
+        "Default": [
             "1.2672000000"
         ],
         "US West (Oregon)": [
@@ -18518,7 +18518,7 @@
         ]
     },
     "Single SD HEVC Input 10-20mbps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.0427000000"
         ],
         "US West (Oregon)": [
@@ -18583,7 +18583,7 @@
         ]
     },
     "SD HEVC Input 20-50mbps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.0863000000"
         ],
         "US West (Oregon)": [
@@ -18648,7 +18648,7 @@
         ]
     },
     "HD AVC Output Frame 30-60fps Less Than 10mbps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.2151000000"
         ],
         "US West (Oregon)": [
@@ -18713,7 +18713,7 @@
         ]
     },
     "HD AVC Output Frame less than 30fps Less Than 10 mbps": {
-        "Regionless": [
+        "Default": [
             "0.7020000000"
         ],
         "US West (Oregon)": [
@@ -18778,7 +18778,7 @@
         ]
     },
     "HD AV1 Output Frame less than 30fps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.9590000000"
         ],
         "US West (Oregon)": [
@@ -18843,7 +18843,7 @@
         ]
     },
     "Single HD AVC Output Frame 30-60fps Less Than 10mbps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.1291000000"
         ],
         "US West (Oregon)": [
@@ -18908,7 +18908,7 @@
         ]
     },
     "HD AVC Output Frame less than 30fps Less Than 10 mbps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.1726000000"
         ],
         "US West (Oregon)": [
@@ -18973,7 +18973,7 @@
         ]
     },
     "Single HD MPEG2 Input 10-20mbps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.0214000000"
         ],
         "US West (Oregon)": [
@@ -19038,7 +19038,7 @@
         ]
     },
     "SD AVC Output Frame 30-60fps": {
-        "Regionless": [
+        "Default": [
             "1.3140000000"
         ],
         "US West (Oregon)": [
@@ -19103,7 +19103,7 @@
         ]
     },
     "Enhanced SD AVC Frame 30-60fps": {
-        "Regionless": [
+        "Default": [
             "1.3140000000"
         ],
         "US West (Oregon)": [
@@ -19168,7 +19168,7 @@
         ]
     },
     "Single HD AVC Output Frame 30-60fps Less than 10mbps": {
-        "Regionless": [
+        "Default": [
             "0.5292000000"
         ],
         "US West (Oregon)": [
@@ -19233,7 +19233,7 @@
         ]
     },
     "SD AVC Output Frame 1 Year": {
-        "Regionless": [
+        "Default": [
             "0.6500000000"
         ],
         "US West (Oregon)": [
@@ -19298,7 +19298,7 @@
         ]
     },
     "SD AVC Output Frame Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.6500000000"
         ],
         "US West (Oregon)": [
@@ -19363,7 +19363,7 @@
         ]
     },
     "OUTPUT AVC SD 1 Year": {
-        "Regionless": [
+        "Default": [
             "0.6500000000"
         ],
         "US West (Oregon)": [
@@ -19428,7 +19428,7 @@
         ]
     },
     "UHD MPEG2 Input less than 10mbps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.1726000000"
         ],
         "US West (Oregon)": [
@@ -19493,7 +19493,7 @@
         ]
     },
     "Single HD AVC Output Frame 30-60fps 10-20mbps": {
-        "Regionless": [
+        "Default": [
             "0.6588000000"
         ],
         "US West (Oregon)": [
@@ -19558,7 +19558,7 @@
         ]
     },
     "Single Audio Normalization Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.0345000000"
         ],
         "US West (Oregon)": [
@@ -19623,7 +19623,7 @@
         ]
     },
     "UHD AVC Input 10-20mbps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.4315000000"
         ],
         "US West (Oregon)": [
@@ -19688,7 +19688,7 @@
         ]
     },
     "UHD HEVC Output Frame less than 30fps": {
-        "Regionless": [
+        "Default": [
             "11.2320000000"
         ],
         "US West (Oregon)": [
@@ -19753,7 +19753,7 @@
         ]
     },
     "FHD AVC Output Frame 1 Year": {
-        "Regionless": [
+        "Default": [
             "2.0250000000"
         ],
         "US West (Oregon)": [
@@ -19818,7 +19818,7 @@
         ]
     },
     "FHD AVC Output Frame Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "2.0250000000"
         ],
         "US West (Oregon)": [
@@ -19883,7 +19883,7 @@
         ]
     },
     "OUTPUT AVC FHD 1 Year": {
-        "Regionless": [
+        "Default": [
             "2.0250000000"
         ],
         "US West (Oregon)": [
@@ -19948,7 +19948,7 @@
         ]
     },
     "Single UHD AVC Input 20-50mbps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.3107000000"
         ],
         "US West (Oregon)": [
@@ -20013,7 +20013,7 @@
         ]
     },
     "HD CDI Input On Demand": {
-        "Regionless": [
+        "Default": [
             "1.4000000000"
         ],
         "US West (Oregon)": [
@@ -20078,7 +20078,7 @@
         ]
     },
     "Single UHD HEVC Input 20-50mbps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.6214000000"
         ],
         "US West (Oregon)": [
@@ -20143,7 +20143,7 @@
         ]
     },
     "Single UHD CDI Input On Demand": {
-        "Regionless": [
+        "Default": [
             "3.3600000000"
         ],
         "US West (Oregon)": [
@@ -20208,7 +20208,7 @@
         ]
     },
     "HD AVC Output Frame 1 Year": {
-        "Regionless": [
+        "Default": [
             "1.3500000000"
         ],
         "US West (Oregon)": [
@@ -20273,7 +20273,7 @@
         ]
     },
     "HD AVC Output Frame Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "1.3500000000"
         ],
         "US West (Oregon)": [
@@ -20338,7 +20338,7 @@
         ]
     },
     "OUTPUT AVC HD 1 Year": {
-        "Regionless": [
+        "Default": [
             "1.3500000000"
         ],
         "US West (Oregon)": [
@@ -20403,7 +20403,7 @@
         ]
     },
     "Single HD AVC Output Frame 30-60fps 20-50mbps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.1940000000"
         ],
         "US West (Oregon)": [
@@ -20468,7 +20468,7 @@
         ]
     },
     "Single SD AVC Output Frame 30-60fps 1 Year": {
-        "Regionless": [
+        "Default": [
             "0.1947000000"
         ],
         "US West (Oregon)": [
@@ -20533,7 +20533,7 @@
         ]
     },
     "Single SD AVC Output Frame 30-60fps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.1947000000"
         ],
         "US West (Oregon)": [
@@ -20598,7 +20598,7 @@
         ]
     },
     "Enhanced Single SD AVC Frame 30-60fps 1 Year": {
-        "Regionless": [
+        "Default": [
             "0.1947000000"
         ],
         "US West (Oregon)": [
@@ -20663,7 +20663,7 @@
         ]
     },
     "UHD HEVC Input 10-20mbps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.8630000000"
         ],
         "US West (Oregon)": [
@@ -20728,7 +20728,7 @@
         ]
     },
     "Single UHD AVC Input less than 10mbps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.2071000000"
         ],
         "US West (Oregon)": [
@@ -20793,7 +20793,7 @@
         ]
     },
     "HD HEVC Output Frame less than 30fps": {
-        "Regionless": [
+        "Default": [
             "2.8080000000"
         ],
         "US West (Oregon)": [
@@ -20858,7 +20858,7 @@
         ]
     },
     "Single HD AVC Output Frame 30-60fps 1 Year": {
-        "Regionless": [
+        "Default": [
             "0.3873000000"
         ],
         "US West (Oregon)": [
@@ -20923,7 +20923,7 @@
         ]
     },
     "Single HD AVC Output Frame 30-60fps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.3873000000"
         ],
         "US West (Oregon)": [
@@ -20988,7 +20988,7 @@
         ]
     },
     "Enhanced Single HD AVC Frame 30-60fps 1 Year": {
-        "Regionless": [
+        "Default": [
             "0.3873000000"
         ],
         "US West (Oregon)": [
@@ -21053,7 +21053,7 @@
         ]
     },
     "HD AVC Output Frame less than 30fps 10-20mbps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.2151000000"
         ],
         "US West (Oregon)": [
@@ -21118,7 +21118,7 @@
         ]
     },
     "HD AVC Input less than 10mbps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.0575000000"
         ],
         "US West (Oregon)": [
@@ -21183,7 +21183,7 @@
         ]
     },
     "FHD CDI Input 1 Year": {
-        "Regionless": [
+        "Default": [
             "0.7000000000"
         ],
         "US West (Oregon)": [
@@ -21248,7 +21248,7 @@
         ]
     },
     "HD AVC Input 10-20mbps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.0712000000"
         ],
         "US West (Oregon)": [
@@ -21313,7 +21313,7 @@
         ]
     },
     "Single IDLE INPUT": {
-        "Regionless": [
+        "Default": [
             "0.0100000000"
         ],
         "US West (Oregon)": [
@@ -21378,7 +21378,7 @@
         ]
     },
     "SD MPEG2 Input less than 10mbps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.0137000000"
         ],
         "US West (Oregon)": [
@@ -21443,7 +21443,7 @@
         ]
     },
     "HD AVC Output Frame 30-60fps 20-50mbps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.3233000000"
         ],
         "US West (Oregon)": [
@@ -21508,7 +21508,7 @@
         ]
     },
     "HD MPEG2 Input 20-50mbps": {
-        "Regionless": [
+        "Default": [
             "0.1740000000"
         ],
         "US West (Oregon)": [
@@ -21573,7 +21573,7 @@
         ]
     },
     "ACTIVE_MULTIPLEX NA 1 Year": {
-        "Regionless": [
+        "Default": [
             "2.0000000000"
         ],
         "US West (Oregon)": [
@@ -21638,7 +21638,7 @@
         ]
     },
     "HD AVC Output Frame 30-60fps 10-20mbps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.2699000000"
         ],
         "US West (Oregon)": [
@@ -21703,7 +21703,7 @@
         ]
     },
     "Single SD AVC Output Frame less than 30fps": {
-        "Regionless": [
+        "Default": [
             "0.6372000000"
         ],
         "US West (Oregon)": [
@@ -21768,7 +21768,7 @@
         ]
     },
     "Enhanced Single SD AVC Frame less than 30fps": {
-        "Regionless": [
+        "Default": [
             "0.6372000000"
         ],
         "US West (Oregon)": [
@@ -21833,7 +21833,7 @@
         ]
     },
     "SD AVC Output Frame 30-60fps 10-20mbps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.1342000000"
         ],
         "US West (Oregon)": [
@@ -21898,7 +21898,7 @@
         ]
     },
     "SD HEVC Output Frame 30-60fps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.4275000000"
         ],
         "US West (Oregon)": [
@@ -21963,7 +21963,7 @@
         ]
     },
     "UHD MPEG2 Input Less than 10mbps": {
-        "Regionless": [
+        "Default": [
             "0.7020000000"
         ],
         "US West (Oregon)": [
@@ -22028,7 +22028,7 @@
         ]
     },
     "UHD HEVC Output Frame 30-60fps": {
-        "Regionless": [
+        "Default": [
             "14.1120000000"
         ],
         "US West (Oregon)": [
@@ -22093,7 +22093,7 @@
         ]
     },
     "SD AVC Output Frame less than 30fps 20-50mbps": {
-        "Regionless": [
+        "Default": [
             "0.5280000000"
         ],
         "US West (Oregon)": [
@@ -22158,7 +22158,7 @@
         ]
     },
     "UHD AVC Input less than 10mbps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.3452000000"
         ],
         "US West (Oregon)": [
@@ -22223,7 +22223,7 @@
         ]
     },
     "SD AVC Input 10-20mbps Reserved 12 Months": {
-        "Regionless": [
+        "Default": [
             "0.0356000000"
         ],
         "US West (Oregon)": [
@@ -22288,7 +22288,7 @@
         ]
     },
     "HD AVC Input less than 10mbps": {
-        "Regionless": [
+        "Default": [
             "0.2340000000"
         ],
         "US West (Oregon)": [
@@ -22353,7 +22353,7 @@
         ]
     },
     "SD AVC Output Frame": {
-        "Regionless": [
+        "Default": [
             "2.6000000000"
         ],
         "US West (Oregon)": [
@@ -22418,7 +22418,7 @@
         ]
     },
     "OUTPUT AVC SD On Demand": {
-        "Regionless": [
+        "Default": [
             "2.6000000000"
         ],
         "US West (Oregon)": [
@@ -22483,7 +22483,7 @@
         ]
     },
     "OUTPUT Monitoring SD 1 Year": {
-        "Regionless": [
+        "Default": [
             "0.0863000000"
         ],
         "Canada (Central)": [
@@ -22497,7 +22497,7 @@
         ]
     },
     "OUTPUT Monitoring SD On Demand": {
-        "Regionless": [
+        "Default": [
             "0.3540000000"
         ],
         "Canada (Central)": [
@@ -22511,7 +22511,7 @@
         ]
     },
     "OUTPUT Monitoring SD 3 Year": {
-        "Regionless": [
+        "Default": [
             "0.0734000000"
         ],
         "Canada (Central)": [

@@ -1,6 +1,6 @@
 {
     "Free RDS ACU Monitored CreateDBInstance 0019 per ACU-Months": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -95,7 +95,7 @@
         ]
     },
     "VPC Flow Log and DNS Processed per First 500 GB": {
-        "Regionless": [
+        "Default": [
             "1.0000000000"
         ],
         "US West (Oregon)": [
@@ -202,7 +202,7 @@
         ]
     },
     "EKS vCPU Monitored per First 500 vCPU Months": {
-        "Regionless": [
+        "Default": [
             "1.5000000000"
         ],
         "US West (Oregon)": [
@@ -303,7 +303,7 @@
         ]
     },
     "Kubernetes Audit Logs Events Processed per First 100000000 Events": {
-        "Regionless": [
+        "Default": [
             "0.0000016000"
         ],
         "US West (Oregon)": [
@@ -410,7 +410,7 @@
         ]
     },
     "RDS ACU Monitored CreateDBInstance 0020 per ACU-Months": {
-        "Regionless": [
+        "Default": [
             "0.2500000000"
         ],
         "US West (Oregon)": [
@@ -505,7 +505,7 @@
         ]
     },
     "EKS vCPU Monitored per 500 upto 5000 vCPU Months": {
-        "Regionless": [
+        "Default": [
             "0.7500000000"
         ],
         "US West (Oregon)": [
@@ -606,7 +606,7 @@
         ]
     },
     "Free RDS vCPU Monitored CreateDBInstance 0015 per vCPU-Months": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -701,7 +701,7 @@
         ]
     },
     "Free RDS vCPU Monitored CreateDBInstance 0006 per vCPU-Months": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -796,7 +796,7 @@
         ]
     },
     "Lambda VPC Flow Log and DNS Processed per Next 7500 GB": {
-        "Regionless": [
+        "Default": [
             "0.2500000000"
         ],
         "US West (Oregon)": [
@@ -903,7 +903,7 @@
         ]
     },
     "S3 VPC Flow Log and DNS Processed per First 500000000 Events": {
-        "Regionless": [
+        "Default": [
             "0.0000008000"
         ],
         "US West (Oregon)": [
@@ -1010,7 +1010,7 @@
         ]
     },
     "Free Fargate vCPU Monitored per vCPU Months": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -1111,7 +1111,7 @@
         ]
     },
     "Free RDS vCPU Monitored CreateDBInstance 0009 per vCPU-Months": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -1206,7 +1206,7 @@
         ]
     },
     "Free CloudTrail Events Processed per Events": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -1313,7 +1313,7 @@
         ]
     },
     "RDS vCPU Monitored CreateDBInstance 0020 per vCPU-Months": {
-        "Regionless": [
+        "Default": [
             "1.0000000000"
         ],
         "US West (Oregon)": [
@@ -1408,7 +1408,7 @@
         ]
     },
     "RDS vCPU Monitored CreateDBInstance 0008 per vCPU-Months": {
-        "Regionless": [
+        "Default": [
             "1.0000000000"
         ],
         "US West (Oregon)": [
@@ -1503,7 +1503,7 @@
         ]
     },
     "RDS vCPU Monitored CreateDBInstance 0003 per vCPU-Months": {
-        "Regionless": [
+        "Default": [
             "1.0000000000"
         ],
         "US West (Oregon)": [
@@ -1598,7 +1598,7 @@
         ]
     },
     "RDS vCPU Monitored CreateDBInstance 0002 per vCPU-Months": {
-        "Regionless": [
+        "Default": [
             "1.0000000000"
         ],
         "US West (Oregon)": [
@@ -1693,7 +1693,7 @@
         ]
     },
     "Free RDS ACU Monitored CreateDBInstance 0011 per ACU-Months": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -1788,7 +1788,7 @@
         ]
     },
     "RDS ACU Monitored CreateDBInstance 0003 per ACU-Months": {
-        "Regionless": [
+        "Default": [
             "0.2500000000"
         ],
         "US West (Oregon)": [
@@ -1883,7 +1883,7 @@
         ]
     },
     "Free RDS ACU Monitored CreateDBInstance 0008 per ACU-Months": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -1978,7 +1978,7 @@
         ]
     },
     "Kubernetes Audit Logs Events Processed per Next 200000000 Events": {
-        "Regionless": [
+        "Default": [
             "0.0000008000"
         ],
         "US West (Oregon)": [
@@ -2085,7 +2085,7 @@
         ]
     },
     "Free RDS vCPU Monitored CreateDBInstance 0002 per vCPU-Months": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -2180,7 +2180,7 @@
         ]
     },
     "RDS vCPU Monitored CreateDBInstance 0015 per vCPU-Months": {
-        "Regionless": [
+        "Default": [
             "1.0000000000"
         ],
         "US West (Oregon)": [
@@ -2275,7 +2275,7 @@
         ]
     },
     "Free RDS ACU Monitored CreateDBInstance 0002 per ACU-Months": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -2370,7 +2370,7 @@
         ]
     },
     "RDS vCPU Monitored CreateDBInstance 0021 per vCPU-Months": {
-        "Regionless": [
+        "Default": [
             "1.0000000000"
         ],
         "US West (Oregon)": [
@@ -2465,7 +2465,7 @@
         ]
     },
     "Free RDS vCPU Monitored CreateDBInstance 0018 per vCPU-Months": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -2560,7 +2560,7 @@
         ]
     },
     "RDS ACU Monitored CreateDBInstance 0004 per ACU-Months": {
-        "Regionless": [
+        "Default": [
             "0.2500000000"
         ],
         "US West (Oregon)": [
@@ -2655,7 +2655,7 @@
         ]
     },
     "Free RDS ACU Monitored CreateDBInstance per ACU-Months": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -2750,7 +2750,7 @@
         ]
     },
     "RDS ACU Monitored CreateDBInstance 0009 per ACU-Months": {
-        "Regionless": [
+        "Default": [
             "0.2500000000"
         ],
         "US West (Oregon)": [
@@ -2845,7 +2845,7 @@
         ]
     },
     "RDS ACU Limitless Monitored CreateDBInstance 0016 per ACU-Months": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -2940,7 +2940,7 @@
         ]
     },
     "Free RDS vCPU Monitored CreateDBInstance 0021 per vCPU-Months": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -3035,7 +3035,7 @@
         ]
     },
     "Free RDS ACU Monitored CreateDBInstance 0020 per ACU-Months": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -3130,7 +3130,7 @@
         ]
     },
     "Free EC2 vCPU Monitored per vCPU Months": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -3231,7 +3231,7 @@
         ]
     },
     "RDS ACU Monitored CreateDBInstance 0008 per ACU-Months": {
-        "Regionless": [
+        "Default": [
             "0.2500000000"
         ],
         "US West (Oregon)": [
@@ -3326,7 +3326,7 @@
         ]
     },
     "Free RDS ACU Monitored CreateDBInstance 0014 per ACU-Months": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -3421,7 +3421,7 @@
         ]
     },
     "RDS vCPU Monitored CreateDBInstance 0019 per vCPU-Months": {
-        "Regionless": [
+        "Default": [
             "1.0000000000"
         ],
         "US West (Oregon)": [
@@ -3516,7 +3516,7 @@
         ]
     },
     "Free RDS vCPU Monitored CreateDBInstance 0014 per vCPU-Months": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -3611,7 +3611,7 @@
         ]
     },
     "RDS ACU Monitored CreateDBInstance 0014 per ACU-Months": {
-        "Regionless": [
+        "Default": [
             "0.2500000000"
         ],
         "US West (Oregon)": [
@@ -3706,7 +3706,7 @@
         ]
     },
     "Fargate vCPU Monitored per First 500 vCPU Months": {
-        "Regionless": [
+        "Default": [
             "1.5000000000"
         ],
         "US West (Oregon)": [
@@ -3807,7 +3807,7 @@
         ]
     },
     "Free VPC Flow Log and DNS Processed per GB": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -3914,7 +3914,7 @@
         ]
     },
     "Malware Protection S3 Data Scanned per 1 upto Inf GB": {
-        "Regionless": [
+        "Default": [
             "0.0900000000"
         ],
         "US West (Oregon)": [
@@ -4021,7 +4021,7 @@
         ]
     },
     "Malware Protection S3 Data Scanned per 0 upto 1 GB": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -4128,7 +4128,7 @@
         ]
     },
     "VPC Flow Log and DNS Processed per Over 10000 GB": {
-        "Regionless": [
+        "Default": [
             "0.1500000000"
         ],
         "US West (Oregon)": [
@@ -4235,7 +4235,7 @@
         ]
     },
     "S3 VPC Flow Log and DNS Processed per Over 5000000000 Events": {
-        "Regionless": [
+        "Default": [
             "0.0000002000"
         ],
         "US West (Oregon)": [
@@ -4342,7 +4342,7 @@
         ]
     },
     "RDS vCPU Monitored CreateDBInstance 0016 per vCPU-Months": {
-        "Regionless": [
+        "Default": [
             "1.0000000000"
         ],
         "US West (Oregon)": [
@@ -4437,7 +4437,7 @@
         ]
     },
     "RDS vCPU Monitored CreateDBInstance 0014 per vCPU-Months": {
-        "Regionless": [
+        "Default": [
             "1.0000000000"
         ],
         "US West (Oregon)": [
@@ -4532,7 +4532,7 @@
         ]
     },
     "CloudTrail Events Processed per Events": {
-        "Regionless": [
+        "Default": [
             "0.0000040000"
         ],
         "US West (Oregon)": [
@@ -4639,7 +4639,7 @@
         ]
     },
     "RDS ACU Monitored CreateDBInstance 0011 per ACU-Months": {
-        "Regionless": [
+        "Default": [
             "0.2500000000"
         ],
         "US West (Oregon)": [
@@ -4734,7 +4734,7 @@
         ]
     },
     "Free RDS ACU Monitored CreateDBInstance 0006 per ACU-Months": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -4829,7 +4829,7 @@
         ]
     },
     "RDS ACU Monitored CreateDBInstance 0015 per ACU-Months": {
-        "Regionless": [
+        "Default": [
             "0.2500000000"
         ],
         "US West (Oregon)": [
@@ -4924,7 +4924,7 @@
         ]
     },
     "RDS vCPU Monitored CreateDBInstance 0006 per vCPU-Months": {
-        "Regionless": [
+        "Default": [
             "1.0000000000"
         ],
         "US West (Oregon)": [
@@ -5019,7 +5019,7 @@
         ]
     },
     "Free RDS vCPU Monitored CreateDBInstance 0004 per vCPU-Months": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -5114,7 +5114,7 @@
         ]
     },
     "RDS ACU Monitored CreateDBInstance per ACU-Months": {
-        "Regionless": [
+        "Default": [
             "0.2500000000"
         ],
         "US West (Oregon)": [
@@ -5209,7 +5209,7 @@
         ]
     },
     "Free RDS vCPU Monitored CreateDBInstance 0019 per vCPU-Months": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -5304,7 +5304,7 @@
         ]
     },
     "Free RDS ACU Monitored CreateDBInstance 0021 per ACU-Months": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -5399,7 +5399,7 @@
         ]
     },
     "RDS vCPU Monitored CreateDBInstance 0018 per vCPU-Months": {
-        "Regionless": [
+        "Default": [
             "1.0000000000"
         ],
         "US West (Oregon)": [
@@ -5494,7 +5494,7 @@
         ]
     },
     "RDS ACU Monitored CreateDBInstance 0018 per ACU-Months": {
-        "Regionless": [
+        "Default": [
             "0.2500000000"
         ],
         "US West (Oregon)": [
@@ -5589,7 +5589,7 @@
         ]
     },
     "Free RDS ACU Monitored CreateDBInstance 0015 per ACU-Months": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -5684,7 +5684,7 @@
         ]
     },
     "Lambda VPC Flow Log and DNS Processed per Next 2000 GB": {
-        "Regionless": [
+        "Default": [
             "0.5000000000"
         ],
         "US West (Oregon)": [
@@ -5791,7 +5791,7 @@
         ]
     },
     "VPC Flow Log and DNS Processed per Next 2000 GB": {
-        "Regionless": [
+        "Default": [
             "0.5000000000"
         ],
         "US West (Oregon)": [
@@ -5898,7 +5898,7 @@
         ]
     },
     "EC2 vCPU Monitored per First 500 vCPU Months": {
-        "Regionless": [
+        "Default": [
             "1.5000000000"
         ],
         "US West (Oregon)": [
@@ -5999,7 +5999,7 @@
         ]
     },
     "Kubernetes Audit Logs Events Processed per Over 200000000 Events": {
-        "Regionless": [
+        "Default": [
             "0.0000002000"
         ],
         "US West (Oregon)": [
@@ -6106,7 +6106,7 @@
         ]
     },
     "Free RDS ACU Monitored CreateDBInstance 0016 per ACU-Months": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -6201,7 +6201,7 @@
         ]
     },
     "RDS ACU Monitored CreateDBInstance 0019 per ACU-Months": {
-        "Regionless": [
+        "Default": [
             "0.2500000000"
         ],
         "US West (Oregon)": [
@@ -6296,7 +6296,7 @@
         ]
     },
     "Free S3 VPC Flow Log and DNS Processed per Events": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -6403,7 +6403,7 @@
         ]
     },
     "Free RDS vCPU Monitored CreateDBInstance 0008 per vCPU-Months": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -6498,7 +6498,7 @@
         ]
     },
     "Free RDS ACU Monitored CreateDBInstance 0010 per ACU-Months": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -6593,7 +6593,7 @@
         ]
     },
     "Fargate vCPU Monitored per 5000 upto Inf vCPU Months": {
-        "Regionless": [
+        "Default": [
             "0.2500000000"
         ],
         "US West (Oregon)": [
@@ -6694,7 +6694,7 @@
         ]
     },
     "RDS vCPU Monitored CreateDBInstance 0011 per vCPU-Months": {
-        "Regionless": [
+        "Default": [
             "1.0000000000"
         ],
         "US West (Oregon)": [
@@ -6789,7 +6789,7 @@
         ]
     },
     "RDS ACU Monitored CreateDBInstance 0010 per ACU-Months": {
-        "Regionless": [
+        "Default": [
             "0.2500000000"
         ],
         "US West (Oregon)": [
@@ -6884,7 +6884,7 @@
         ]
     },
     "Free RDS ACU Monitored CreateDBInstance 0009 per ACU-Months": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -6979,7 +6979,7 @@
         ]
     },
     "Free RDS vCPU Monitored CreateDBInstance 0016 per vCPU-Months": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -7074,7 +7074,7 @@
         ]
     },
     "RDS ACU Monitored CreateDBInstance 0006 per ACU-Months": {
-        "Regionless": [
+        "Default": [
             "0.2500000000"
         ],
         "US West (Oregon)": [
@@ -7169,7 +7169,7 @@
         ]
     },
     "Free RDS vCPU Monitored CreateDBInstance 0011 per vCPU-Months": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -7264,7 +7264,7 @@
         ]
     },
     "Free RDS vCPU Monitored CreateDBInstance 0003 per vCPU-Months": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -7359,7 +7359,7 @@
         ]
     },
     "On Demand Malware Protection EBS Volume Data Scanned per GB": {
-        "Regionless": [
+        "Default": [
             "0.0300000000"
         ],
         "US West (Oregon)": [
@@ -7460,7 +7460,7 @@
         ]
     },
     "Malware Protection S3 Request Monitored per 1000 upto Inf Events": {
-        "Regionless": [
+        "Default": [
             "0.0002150000"
         ],
         "US West (Oregon)": [
@@ -7567,7 +7567,7 @@
         ]
     },
     "S3 VPC Flow Log and DNS Processed per Next 4500000000 Events": {
-        "Regionless": [
+        "Default": [
             "0.0000004000"
         ],
         "US West (Oregon)": [
@@ -7674,7 +7674,7 @@
         ]
     },
     "Malware Protection S3 Request Monitored per 0 upto 1000 Events": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -7781,7 +7781,7 @@
         ]
     },
     "RDS ACU Monitored CreateDBInstance 0021 per ACU-Months": {
-        "Regionless": [
+        "Default": [
             "0.2500000000"
         ],
         "US West (Oregon)": [
@@ -7876,7 +7876,7 @@
         ]
     },
     "RDS vCPU Monitored CreateDBInstance 0012 per vCPU-Months": {
-        "Regionless": [
+        "Default": [
             "1.0000000000"
         ],
         "US West (Oregon)": [
@@ -7971,7 +7971,7 @@
         ]
     },
     "Free RDS vCPU Monitored CreateDBInstance 0012 per vCPU-Months": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -8066,7 +8066,7 @@
         ]
     },
     "RDS vCPU Monitored CreateDBInstance 0009 per vCPU-Months": {
-        "Regionless": [
+        "Default": [
             "1.0000000000"
         ],
         "US West (Oregon)": [
@@ -8161,7 +8161,7 @@
         ]
     },
     "Lambda VPC Flow Log and DNS Processed per Over 10000 GB": {
-        "Regionless": [
+        "Default": [
             "0.1500000000"
         ],
         "US West (Oregon)": [
@@ -8268,7 +8268,7 @@
         ]
     },
     "EKS vCPU Monitored per 5000 upto Inf vCPU Months": {
-        "Regionless": [
+        "Default": [
             "0.2500000000"
         ],
         "US West (Oregon)": [
@@ -8369,7 +8369,7 @@
         ]
     },
     "RDS ACU Monitored CreateDBInstance 0002 per ACU-Months": {
-        "Regionless": [
+        "Default": [
             "0.2500000000"
         ],
         "US West (Oregon)": [
@@ -8464,7 +8464,7 @@
         ]
     },
     "Free RDS ACU Monitored CreateDBInstance 0003 per ACU-Months": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -8559,7 +8559,7 @@
         ]
     },
     "RDS ACU Monitored CreateDBInstance 0016 per ACU-Months": {
-        "Regionless": [
+        "Default": [
             "0.2500000000"
         ],
         "US West (Oregon)": [
@@ -8654,7 +8654,7 @@
         ]
     },
     "EC2 vCPU Monitored per 500 upto 5000 vCPU Months": {
-        "Regionless": [
+        "Default": [
             "0.7500000000"
         ],
         "US West (Oregon)": [
@@ -8755,7 +8755,7 @@
         ]
     },
     "Free Lambda VPC Flow Log and DNS Processed per GB": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -8862,7 +8862,7 @@
         ]
     },
     "RDS vCPU Monitored CreateDBInstance 0004 per vCPU-Months": {
-        "Regionless": [
+        "Default": [
             "1.0000000000"
         ],
         "US West (Oregon)": [
@@ -8957,7 +8957,7 @@
         ]
     },
     "VPC Flow Log and DNS Processed per Next 7500 GB": {
-        "Regionless": [
+        "Default": [
             "0.2500000000"
         ],
         "US West (Oregon)": [
@@ -9064,7 +9064,7 @@
         ]
     },
     "RDS vCPU Monitored CreateDBInstance 0010 per vCPU-Months": {
-        "Regionless": [
+        "Default": [
             "1.0000000000"
         ],
         "US West (Oregon)": [
@@ -9159,7 +9159,7 @@
         ]
     },
     "Free Malware Protection EBS Data Scanned per GB": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -9260,7 +9260,7 @@
         ]
     },
     "Free RDS ACU Monitored CreateDBInstance 0012 per ACU-Months": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -9355,7 +9355,7 @@
         ]
     },
     "Free RDS vCPU Monitored CreateDBInstance 0010 per vCPU-Months": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -9450,7 +9450,7 @@
         ]
     },
     "Free RDS vCPU Monitored CreateDBInstance 0005 per vCPU-Months": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -9545,7 +9545,7 @@
         ]
     },
     "EC2 vCPU Monitored per 5000 upto Inf vCPU Months": {
-        "Regionless": [
+        "Default": [
             "0.2500000000"
         ],
         "US West (Oregon)": [
@@ -9646,7 +9646,7 @@
         ]
     },
     "RDS vCPU Monitored CreateDBInstance 0005 per vCPU-Months": {
-        "Regionless": [
+        "Default": [
             "1.0000000000"
         ],
         "US West (Oregon)": [
@@ -9741,7 +9741,7 @@
         ]
     },
     "RDS ACU Monitored CreateDBInstance 0012 per ACU-Months": {
-        "Regionless": [
+        "Default": [
             "0.2500000000"
         ],
         "US West (Oregon)": [
@@ -9836,7 +9836,7 @@
         ]
     },
     "Lambda VPC Flow Log and DNS Processed per First 500 GB": {
-        "Regionless": [
+        "Default": [
             "1.0000000000"
         ],
         "US West (Oregon)": [
@@ -9943,7 +9943,7 @@
         ]
     },
     "Free RDS ACU Monitored CreateDBInstance 0005 per ACU-Months": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -10038,7 +10038,7 @@
         ]
     },
     "Free RDS vCPU Monitored CreateDBInstance 0020 per vCPU-Months": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -10133,7 +10133,7 @@
         ]
     },
     "RDS ACU Limitless Monitored CreateDBInstance 0021 per ACU-Months": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -10228,7 +10228,7 @@
         ]
     },
     "Free EKS vCPU Monitored per vCPU Months": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -10329,7 +10329,7 @@
         ]
     },
     "Fargate vCPU Monitored per 500 upto 5000 vCPU Months": {
-        "Regionless": [
+        "Default": [
             "0.7500000000"
         ],
         "US West (Oregon)": [
@@ -10430,7 +10430,7 @@
         ]
     },
     "Free RDS ACU Monitored CreateDBInstance 0018 per ACU-Months": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -10525,7 +10525,7 @@
         ]
     },
     "Free RDS ACU Monitored CreateDBInstance 0004 per ACU-Months": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -10620,7 +10620,7 @@
         ]
     },
     "Free Kubernetes Audit Logs Events Processed per Events": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -10724,7 +10724,7 @@
         ]
     },
     "Malware Protection EBS Data Scanned per GB": {
-        "Regionless": [
+        "Default": [
             "0.0300000000"
         ],
         "US West (Oregon)": [
@@ -10825,7 +10825,7 @@
         ]
     },
     "RDS ACU Limitless Monitored CreateDBInstance per ACU-Months": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -10920,7 +10920,7 @@
         ]
     },
     "RDS ACU Monitored CreateDBInstance 0005 per ACU-Months": {
-        "Regionless": [
+        "Default": [
             "0.2500000000"
         ],
         "US West (Oregon)": [
@@ -11015,7 +11015,7 @@
         ]
     },
     "Free RDS vCPU Monitored CreateDBInstance per vCPU-Months": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -11110,7 +11110,7 @@
         ]
     },
     "RDS vCPU Monitored CreateDBInstance per vCPU-Months": {
-        "Regionless": [
+        "Default": [
             "1.0000000000"
         ],
         "US West (Oregon)": [

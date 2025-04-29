@@ -1,6 +1,6 @@
 {
     "Neural per Characters": {
-        "Regionless": [
+        "Default": [
             "0.0000160000"
         ],
         "US West (Oregon)": [
@@ -56,7 +56,7 @@
         ]
     },
     "Standard per Characters": {
-        "Regionless": [
+        "Default": [
             "0.0000040000"
         ],
         "US West (Oregon)": [
@@ -130,7 +130,7 @@
         ]
     },
     "Generative per Characters": {
-        "Regionless": [
+        "Default": [
             "0.0000300000"
         ],
         "US West (Oregon)": [
@@ -144,7 +144,7 @@
         ]
     },
     "Long Form per Characters": {
-        "Regionless": [
+        "Default": [
             "0.0001000000"
         ],
         "US East (N. Virginia)": [

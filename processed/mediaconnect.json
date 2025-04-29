@@ -1,6 +1,6 @@
 {
     "RunningFlow CDI-2160p Per Hour": {
-        "Regionless": [
+        "Default": [
             "12.0000000000"
         ],
         "US West (Oregon)": [
@@ -62,7 +62,7 @@
         ]
     },
     "RunningFlow CDI-720p Per Hour": {
-        "Regionless": [
+        "Default": [
             "3.0000000000"
         ],
         "US West (Oregon)": [
@@ -124,7 +124,7 @@
         ]
     },
     "RunningOutput JPEG-XS-1080p Per Hour": {
-        "Regionless": [
+        "Default": [
             "0.3000000000"
         ],
         "US West (Oregon)": [
@@ -186,7 +186,7 @@
         ]
     },
     "RunningOutput CDI-2160p Per Hour": {
-        "Regionless": [
+        "Default": [
             "0.6000000000"
         ],
         "US West (Oregon)": [
@@ -248,7 +248,7 @@
         ]
     },
     "RunningFlow CDI-1080p Per Hour": {
-        "Regionless": [
+        "Default": [
             "6.0000000000"
         ],
         "US West (Oregon)": [
@@ -310,7 +310,7 @@
         ]
     },
     "RunningOutput CDI-720p Per Hour": {
-        "Regionless": [
+        "Default": [
             "0.1300000000"
         ],
         "US West (Oregon)": [
@@ -372,7 +372,7 @@
         ]
     },
     "RunningOutput CDI-1080i Per Hour": {
-        "Regionless": [
+        "Default": [
             "0.1300000000"
         ],
         "US West (Oregon)": [
@@ -434,7 +434,7 @@
         ]
     },
     "RunningFlow CDI-480p Per Hour": {
-        "Regionless": [
+        "Default": [
             "1.5000000000"
         ],
         "US West (Oregon)": [
@@ -496,7 +496,7 @@
         ]
     },
     "RunningFlow CDI-1080i Per Hour": {
-        "Regionless": [
+        "Default": [
             "3.0000000000"
         ],
         "US West (Oregon)": [
@@ -558,7 +558,7 @@
         ]
     },
     "RunningOutput JPEG-XS-720p Per Hour": {
-        "Regionless": [
+        "Default": [
             "0.1300000000"
         ],
         "US West (Oregon)": [
@@ -620,7 +620,7 @@
         ]
     },
     "RunningFlow CDI-Other Per Hour": {
-        "Regionless": [
+        "Default": [
             "1.5000000000"
         ],
         "US West (Oregon)": [
@@ -682,7 +682,7 @@
         ]
     },
     "RunningOutput CDI-1080p Per Hour": {
-        "Regionless": [
+        "Default": [
             "0.3000000000"
         ],
         "US West (Oregon)": [
@@ -744,7 +744,7 @@
         ]
     },
     "RunningOutput CDI-Other Per Hour": {
-        "Regionless": [
+        "Default": [
             "0.0600000000"
         ],
         "US West (Oregon)": [
@@ -806,7 +806,7 @@
         ]
     },
     "RunningOutput JPEG-XS-1080i Per Hour": {
-        "Regionless": [
+        "Default": [
             "0.1300000000"
         ],
         "US West (Oregon)": [
@@ -868,7 +868,7 @@
         ]
     },
     "DataProcessedReserved150Mbps1Yr": {
-        "Regionless": [
+        "Default": [
             "2.8340000000"
         ],
         "US West (Oregon)": [
@@ -939,7 +939,7 @@
         ]
     },
     "RunningOutput JPEG-XS-2160p Per Hour": {
-        "Regionless": [
+        "Default": [
             "0.6000000000"
         ],
         "US West (Oregon)": [
@@ -1001,7 +1001,7 @@
         ]
     },
     "RunningFlow Per Hour": {
-        "Regionless": [
+        "Default": [
             "0.1600000000"
         ],
         "US West (Oregon)": [
@@ -1072,7 +1072,7 @@
         ]
     },
     "DataProcessedReserved50Mbps1Yr": {
-        "Regionless": [
+        "Default": [
             "1.1610000000"
         ],
         "US West (Oregon)": [
@@ -1143,7 +1143,7 @@
         ]
     },
     "RunningOutput JPEG-XS-480p Per Hour": {
-        "Regionless": [
+        "Default": [
             "0.0600000000"
         ],
         "US West (Oregon)": [
@@ -1205,7 +1205,7 @@
         ]
     },
     "DataProcessedReserved500Mbps1Yr": {
-        "Regionless": [
+        "Default": [
             "6.4740000000"
         ],
         "US West (Oregon)": [
@@ -1276,7 +1276,7 @@
         ]
     },
     "RunningOutput CDI-480p Per Hour": {
-        "Regionless": [
+        "Default": [
             "0.0600000000"
         ],
         "US West (Oregon)": [
@@ -1338,7 +1338,7 @@
         ]
     },
     "RunningOutput JPEG-XS-Other Per Hour": {
-        "Regionless": [
+        "Default": [
             "0.0600000000"
         ],
         "US West (Oregon)": [
@@ -1400,7 +1400,7 @@
         ]
     },
     "DataProcessedReserved1500Mbps1Yr": {
-        "Regionless": [
+        "Default": [
             "11.4440000000"
         ],
         "US West (Oregon)": [

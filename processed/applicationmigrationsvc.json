@@ -1,6 +1,6 @@
 {
     "Free Server Migration": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -95,7 +95,7 @@
         ]
     },
     "Normal Server Migration": {
-        "Regionless": [
+        "Default": [
             "0.0420000000"
         ],
         "US West (Oregon)": [

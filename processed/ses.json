@@ -1,6 +1,6 @@
 {
     "Charged for chunks of 256 KB applicable to incoming mail": {
-        "Regionless": [
+        "Default": [
             "0.0000900000"
         ],
         "US West (Verizon) - San Francisco Bay Area": [
@@ -74,7 +74,7 @@
         ]
     },
     "Email sent from AmazonEC2 to SES Mailbox Simulator": {
-        "Regionless": [
+        "Default": [
             "0.0001000000"
         ],
         "US West (Verizon) - San Francisco Bay Area": [
@@ -154,7 +154,7 @@
         ]
     },
     "Email sent to an external recipient": {
-        "Regionless": [
+        "Default": [
             "0.0001000000"
         ],
         "US West (Verizon) - San Francisco Bay Area": [
@@ -234,7 +234,7 @@
         ]
     },
     "Email sent to SES Mailbox Simulator": {
-        "Regionless": [
+        "Default": [
             "0.0001000000"
         ],
         "US West (Verizon) - San Francisco Bay Area": [
@@ -314,7 +314,7 @@
         ]
     },
     "Dedicated IPs": {
-        "Regionless": [
+        "Default": [
             "24.9500000000"
         ],
         "US West (Verizon) - San Francisco Bay Area": [
@@ -394,7 +394,7 @@
         ]
     },
     "Received e mail communication": {
-        "Regionless": [
+        "Default": [
             "0.0001000000"
         ],
         "US West (Verizon) - San Francisco Bay Area": [
@@ -465,7 +465,7 @@
         ]
     },
     "Charged for attachments sent": {
-        "Regionless": [
+        "Default": [
             "0.1200000000"
         ],
         "US West (Verizon) - San Francisco Bay Area": [
@@ -545,7 +545,7 @@
         ]
     },
     "Email sent from AmazonEC2 to an external recipient": {
-        "Regionless": [
+        "Default": [
             "0.0001000000"
         ],
         "US West (Verizon) - San Francisco Bay Area": [
@@ -625,7 +625,7 @@
         ]
     },
     "Dedicated IPs managed from 0 to 10000000": {
-        "Regionless": [
+        "Default": [
             "0.0000800000"
         ],
         "US West (Oregon)": [
@@ -705,7 +705,7 @@
         ]
     },
     "Dedicated IPs managed from 100000000 to Inf": {
-        "Regionless": [
+        "Default": [
             "0.0000040000"
         ],
         "US West (Oregon)": [
@@ -785,7 +785,7 @@
         ]
     },
     "Dedicated IPs managed from 50000000 to 100000000": {
-        "Regionless": [
+        "Default": [
             "0.0000200000"
         ],
         "US West (Oregon)": [
@@ -865,7 +865,7 @@
         ]
     },
     "Dedicated IPs managed from subscription per Month": {
-        "Regionless": [
+        "Default": [
             "15.0000000000"
         ],
         "US West (Oregon)": [
@@ -945,7 +945,7 @@
         ]
     },
     "Dedicated IPs managed from 10000000 to 50000000": {
-        "Regionless": [
+        "Default": [
             "0.0000400000"
         ],
         "US West (Oregon)": [
@@ -1025,7 +1025,7 @@
         ]
     },
     "Message Body Send": {
-        "Regionless": [
+        "Default": [
             "0.0000700000"
         ],
         "China (Ningxia)": [
@@ -1033,7 +1033,7 @@
         ]
     },
     "MonthlyFree OutgoingEmail-Simulator": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "": [

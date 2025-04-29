@@ -1,6 +1,6 @@
 {
     "Findings-UnusedAccessAnalysis per Number of Monitored resources": {
-        "Regionless": [
+        "Default": [
             "0.2000000000"
         ],
         "US West (Oregon)": [
@@ -101,7 +101,7 @@
         ]
     },
     "Checks-AccessCheck per API Requests": {
-        "Regionless": [
+        "Default": [
             "0.0020000000"
         ],
         "US West (Oregon)": [

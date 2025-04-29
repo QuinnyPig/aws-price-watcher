@@ -1,6 +1,6 @@
 {
     "Broker Storage Single AZ GB-Mo": {
-        "Regionless": [
+        "Default": [
             "0.1000000000"
         ],
         "US West (Oregon)": [
@@ -107,7 +107,7 @@
         ]
     },
     "RabbitMQ Active Standby mq m5.large": {
-        "Regionless": [
+        "Default": [
             "0.8640000000"
         ],
         "US West (Oregon)": [
@@ -205,7 +205,7 @@
         ]
     },
     "Single Instance mq t3.micro": {
-        "Regionless": [
+        "Default": [
             "0.0270400000"
         ],
         "US West (Oregon)": [
@@ -312,7 +312,7 @@
         ]
     },
     "Active Standby mq m5.large": {
-        "Regionless": [
+        "Default": [
             "0.5760000000"
         ],
         "US West (Oregon)": [
@@ -419,7 +419,7 @@
         ]
     },
     "Single Instance mq m5.4xlarge": {
-        "Regionless": [
+        "Default": [
             "2.3040000000"
         ],
         "US West (Oregon)": [
@@ -526,7 +526,7 @@
         ]
     },
     "Single Instance mq m5.large": {
-        "Regionless": [
+        "Default": [
             "0.2880000000"
         ],
         "US West (Oregon)": [
@@ -633,7 +633,7 @@
         ]
     },
     "RabbitMQ Active Standby mq m5.xlarge": {
-        "Regionless": [
+        "Default": [
             "1.7280000000"
         ],
         "US West (Oregon)": [
@@ -731,7 +731,7 @@
         ]
     },
     "RabbitMQ Single Instance mq m5.4xlarge": {
-        "Regionless": [
+        "Default": [
             "2.3040000000"
         ],
         "US West (Oregon)": [
@@ -829,7 +829,7 @@
         ]
     },
     "Active Standby mqCRDR m5.2xlarge ActiveMQ CRDR": {
-        "Regionless": [
+        "Default": [
             "0.1000000000"
         ],
         "US West (Oregon)": [
@@ -846,7 +846,7 @@
         ]
     },
     "Active Standby mq m4.large": {
-        "Regionless": [
+        "Default": [
             "0.6000000000"
         ],
         "US West (Oregon)": [
@@ -896,7 +896,7 @@
         ]
     },
     "Active Standby mqCRDR m5.xlarge ActiveMQ CRDR": {
-        "Regionless": [
+        "Default": [
             "0.1000000000"
         ],
         "US West (Oregon)": [
@@ -913,7 +913,7 @@
         ]
     },
     "RabbitMQ Active Standby mq m5.4xlarge": {
-        "Regionless": [
+        "Default": [
             "6.9120000000"
         ],
         "US West (Oregon)": [
@@ -1011,7 +1011,7 @@
         ]
     },
     "Broker Storage GB Mo": {
-        "Regionless": [
+        "Default": [
             "0.3000000000"
         ],
         "US West (Oregon)": [
@@ -1115,7 +1115,7 @@
         ]
     },
     "RabbitMQ Active Standby mq m5.2xlarge": {
-        "Regionless": [
+        "Default": [
             "3.4560000000"
         ],
         "US West (Oregon)": [
@@ -1213,7 +1213,7 @@
         ]
     },
     "Single Instance mq m5.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.5760000000"
         ],
         "US West (Oregon)": [
@@ -1320,7 +1320,7 @@
         ]
     },
     "Active Standby mq m5.4xlarge": {
-        "Regionless": [
+        "Default": [
             "4.6080000000"
         ],
         "US West (Oregon)": [
@@ -1427,7 +1427,7 @@
         ]
     },
     "RabbitMQ Single Instance mq t3.micro": {
-        "Regionless": [
+        "Default": [
             "0.0270400000"
         ],
         "US West (Oregon)": [
@@ -1534,7 +1534,7 @@
         ]
     },
     "Single Instance mq m4.large": {
-        "Regionless": [
+        "Default": [
             "0.3000000000"
         ],
         "US West (Oregon)": [
@@ -1584,7 +1584,7 @@
         ]
     },
     "Single Instance mq m5.2xlarge": {
-        "Regionless": [
+        "Default": [
             "1.1520000000"
         ],
         "US West (Oregon)": [
@@ -1691,7 +1691,7 @@
         ]
     },
     "Active Standby mq t2.micro": {
-        "Regionless": [
+        "Default": [
             "0.0600000000"
         ],
         "US West (Oregon)": [
@@ -1744,7 +1744,7 @@
         ]
     },
     "Active Standby mq t3.micro": {
-        "Regionless": [
+        "Default": [
             "0.0540800000"
         ],
         "US West (Oregon)": [
@@ -1851,7 +1851,7 @@
         ]
     },
     "Active Standby mqCRDR m5.4xlarge ActiveMQ CRDR": {
-        "Regionless": [
+        "Default": [
             "0.1000000000"
         ],
         "US West (Oregon)": [
@@ -1868,7 +1868,7 @@
         ]
     },
     "RabbitMQ Single Instance mq m5.2xlarge": {
-        "Regionless": [
+        "Default": [
             "1.1520000000"
         ],
         "US West (Oregon)": [
@@ -1966,7 +1966,7 @@
         ]
     },
     "Active Standby mqCRDR m5.large ActiveMQ CRDR": {
-        "Regionless": [
+        "Default": [
             "0.1000000000"
         ],
         "US West (Oregon)": [
@@ -1983,7 +1983,7 @@
         ]
     },
     "Active Standby mq m5.2xlarge": {
-        "Regionless": [
+        "Default": [
             "2.3040000000"
         ],
         "US West (Oregon)": [
@@ -2090,7 +2090,7 @@
         ]
     },
     "RabbitMQ Single Instance mq m5.large": {
-        "Regionless": [
+        "Default": [
             "0.2880000000"
         ],
         "US West (Oregon)": [
@@ -2188,7 +2188,7 @@
         ]
     },
     "Active Standby mq m5.xlarge": {
-        "Regionless": [
+        "Default": [
             "1.1520000000"
         ],
         "US West (Oregon)": [
@@ -2295,7 +2295,7 @@
         ]
     },
     "RabbitMQ Single Instance mq m5.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.5760000000"
         ],
         "US West (Oregon)": [
@@ -2393,7 +2393,7 @@
         ]
     },
     "Single Instance mq t2.micro": {
-        "Regionless": [
+        "Default": [
             "0.0300000000"
         ],
         "US West (Oregon)": [
@@ -2446,7 +2446,7 @@
         ]
     },
     "free tier Broker Storage GB-Mo": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "Any": [

@@ -1,6 +1,6 @@
 {
     "CloudHSM Hourly": {
-        "Regionless": [
+        "Default": [
             "1.4500000000"
         ],
         "US West (Oregon)": [
@@ -89,7 +89,7 @@
         ]
     },
     "Trial Hourly": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -133,7 +133,7 @@
         ]
     },
     "Trial upfront": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -177,7 +177,7 @@
         ]
     },
     "Fee for Commitment upfront": {
-        "Regionless": [
+        "Default": [
             "5000.0000000000"
         ],
         "US West (Oregon)": [
@@ -221,7 +221,7 @@
         ]
     },
     "CloudHSM v Classic Hourly": {
-        "Regionless": [
+        "Default": [
             "1.8800000000"
         ],
         "US West (Oregon)": [

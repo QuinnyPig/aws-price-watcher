@@ -1,1422 +1,1814 @@
 {
     "ChimeDialin Toll": {
-        "Regionless": [
+        "Default": [
             "0.0022160000"
         ],
-        "US East (N. Virginia)": [
-            "0.0022160000",
-            "0.0593060000",
-            "0.2600000000",
-            "0.0706300000",
-            "0.0221600000",
-            "0.3040000000",
-            "0.0574910000",
-            "0.0054460000",
-            "0.0056360000",
-            "0.0105530000",
-            "0.0250460000",
-            "0.0057770000",
-            "0.0068080000",
-            "0.0844000000",
-            "0.0123120000",
-            "1.1400000000",
-            "0.0300560000",
-            "0.0584090000",
-            "0.0087950000",
-            "0.0070360000",
-            "0.0389390000",
-            "0.0177280000",
-            "0.0191870000",
-            "0.0367670000",
-            "0.0423610000",
-            "0.1260000000",
-            "0.0188730000",
-            "0.0146760000",
-            "0.0566200000",
+        "US East (N. Virginia) (country: American Samoa)": [
+            "0.0022160000"
+        ],
+        "US East (N. Virginia) (country: Anguilla)": [
+            "0.0022160000"
+        ],
+        "US East (N. Virginia) (country: Antigua and Barbuda)": [
+            "0.0022160000"
+        ],
+        "US East (N. Virginia) (country: Argentina)": [
+            "0.0566200000"
+        ],
+        "US East (N. Virginia) (country: Australia)": [
+            "0.0054460000"
+        ],
+        "US East (N. Virginia) (country: Austria)": [
             "0.0032210000"
+        ],
+        "US East (N. Virginia) (country: Bahamas)": [
+            "0.0022160000"
+        ],
+        "US East (N. Virginia) (country: Bahrain)": [
+            "0.0706300000"
+        ],
+        "US East (N. Virginia) (country: Barbados)": [
+            "0.0022160000"
+        ],
+        "US East (N. Virginia) (country: Belgium)": [
+            "0.0032210000"
+        ],
+        "US East (N. Virginia) (country: Bermuda)": [
+            "0.0022160000"
+        ],
+        "US East (N. Virginia) (country: Brazil)": [
+            "0.0087950000"
+        ],
+        "US East (N. Virginia) (country: British Virgin Islands)": [
+            "0.0022160000"
+        ],
+        "US East (N. Virginia) (country: Canada)": [
+            "0.0022160000"
+        ],
+        "US East (N. Virginia) (country: Cayman Islands)": [
+            "0.0022160000"
+        ],
+        "US East (N. Virginia) (country: Chile)": [
+            "0.0250460000"
+        ],
+        "US East (N. Virginia) (country: China)": [
+            "0.2600000000"
+        ],
+        "US East (N. Virginia) (country: Colombia)": [
+            "0.0250460000"
+        ],
+        "US East (N. Virginia) (country: Costa Rica)": [
+            "0.3040000000"
+        ],
+        "US East (N. Virginia) (country: Cyprus)": [
+            "0.0087950000"
+        ],
+        "US East (N. Virginia) (country: Czech Republic)": [
+            "0.0188730000"
+        ],
+        "US East (N. Virginia) (country: Denmark)": [
+            "0.0032210000"
+        ],
+        "US East (N. Virginia) (country: Dominica)": [
+            "0.0022160000"
+        ],
+        "US East (N. Virginia) (country: Dominican Republic)": [
+            "0.0105530000"
+        ],
+        "US East (N. Virginia) (country: El Salvador)": [
+            "0.0123120000"
+        ],
+        "US East (N. Virginia) (country: Estonia)": [
+            "0.0087950000"
+        ],
+        "US East (N. Virginia) (country: Finland)": [
+            "0.0032210000"
+        ],
+        "US East (N. Virginia) (country: France)": [
+            "0.0032210000"
+        ],
+        "US East (N. Virginia) (country: Georgia)": [
+            "0.0593060000"
+        ],
+        "US East (N. Virginia) (country: Germany)": [
+            "0.0032210000"
+        ],
+        "US East (N. Virginia) (country: Greece)": [
+            "0.0056360000"
+        ],
+        "US East (N. Virginia) (country: Grenada)": [
+            "0.0022160000"
+        ],
+        "US East (N. Virginia) (country: Guam)": [
+            "0.0022160000"
+        ],
+        "US East (N. Virginia) (country: Hong Kong, Special Administrative Region of China)": [
+            "0.0123120000"
+        ],
+        "US East (N. Virginia) (country: Hungary)": [
+            "0.0844000000"
+        ],
+        "US East (N. Virginia) (country: Ireland)": [
+            "0.0032210000"
+        ],
+        "US East (N. Virginia) (country: Israel)": [
+            "0.0054460000"
+        ],
+        "US East (N. Virginia) (country: Italy)": [
+            "0.0032210000"
+        ],
+        "US East (N. Virginia) (country: Jamaica)": [
+            "0.0022160000"
+        ],
+        "US East (N. Virginia) (country: Japan)": [
+            "0.0070360000"
+        ],
+        "US East (N. Virginia) (country: Latvia)": [
+            "0.0087950000"
+        ],
+        "US East (N. Virginia) (country: Lithuania)": [
+            "0.0070360000"
+        ],
+        "US East (N. Virginia) (country: Luxembourg)": [
+            "0.0032210000"
+        ],
+        "US East (N. Virginia) (country: Malaysia)": [
+            "0.0221600000"
+        ],
+        "US East (N. Virginia) (country: Malta)": [
+            "0.0087950000"
+        ],
+        "US East (N. Virginia) (country: Mexico)": [
+            "0.0068080000"
+        ],
+        "US East (N. Virginia) (country: Montserrat)": [
+            "0.0022160000"
+        ],
+        "US East (N. Virginia) (country: Netherlands)": [
+            "0.0032210000"
+        ],
+        "US East (N. Virginia) (country: New Zealand)": [
+            "0.0070360000"
+        ],
+        "US East (N. Virginia) (country: Northern Mariana Islands)": [
+            "0.0022160000"
+        ],
+        "US East (N. Virginia) (country: Norway)": [
+            "0.0146760000"
+        ],
+        "US East (N. Virginia) (country: Panama)": [
+            "0.0300560000"
+        ],
+        "US East (N. Virginia) (country: Poland)": [
+            "0.0032210000"
+        ],
+        "US East (N. Virginia) (country: Portugal)": [
+            "0.0574910000"
+        ],
+        "US East (N. Virginia) (country: Puerto Rico)": [
+            "0.0087950000"
+        ],
+        "US East (N. Virginia) (country: Romania)": [
+            "0.0087950000"
+        ],
+        "US East (N. Virginia) (country: Russian Federation)": [
+            "0.0367670000"
+        ],
+        "US East (N. Virginia) (country: Saint Kitts and Nevis)": [
+            "0.0022160000"
+        ],
+        "US East (N. Virginia) (country: Saint Lucia)": [
+            "0.0022160000"
+        ],
+        "US East (N. Virginia) (country: Saint Vincent and Grenadines)": [
+            "0.0022160000"
+        ],
+        "US East (N. Virginia) (country: Saint-Martin (French part))": [
+            "0.0022160000"
+        ],
+        "US East (N. Virginia) (country: Singapore)": [
+            "0.0177280000"
+        ],
+        "US East (N. Virginia) (country: Slovakia)": [
+            "0.0087950000"
+        ],
+        "US East (N. Virginia) (country: Slovenia)": [
+            "0.0423610000"
+        ],
+        "US East (N. Virginia) (country: South Africa)": [
+            "0.0057770000"
+        ],
+        "US East (N. Virginia) (country: South Korea)": [
+            "0.0188730000"
+        ],
+        "US East (N. Virginia) (country: Spain)": [
+            "0.0191870000"
+        ],
+        "US East (N. Virginia) (country: Sweden)": [
+            "0.0032210000"
+        ],
+        "US East (N. Virginia) (country: Switzerland)": [
+            "0.0032210000"
+        ],
+        "US East (N. Virginia) (country: Taiwan, Republic of China)": [
+            "0.0389390000"
+        ],
+        "US East (N. Virginia) (country: Thailand)": [
+            "0.0584090000"
+        ],
+        "US East (N. Virginia) (country: Trinidad and Tobago)": [
+            "0.0022160000"
+        ],
+        "US East (N. Virginia) (country: Turkey)": [
+            "0.0250460000"
+        ],
+        "US East (N. Virginia) (country: Turks and Caicos Islands)": [
+            "0.0022160000"
+        ],
+        "US East (N. Virginia) (country: Ukraine)": [
+            "0.1260000000"
+        ],
+        "US East (N. Virginia) (country: United Kingdom)": [
+            "0.0032210000"
+        ],
+        "US East (N. Virginia) (country: United States of America)": [
+            "0.0022160000"
+        ],
+        "US East (N. Virginia) (country: Viet Nam)": [
+            "1.1400000000"
+        ],
+        "US East (N. Virginia) (country: Virgin Islands, US)": [
+            "0.0022160000"
         ]
     },
     "ChimeDialin Toll Free": {
-        "Regionless": [
+        "Default": [
             "0.0119100000"
         ],
-        "US East (N. Virginia)": [
-            "0.0909720000",
-            "0.2696000000",
-            "0.0714300000",
-            "0.2200000000",
-            "0.3374300000",
-            "0.1620000000",
-            "0.6024300000",
-            "0.4921770000",
-            "0.2480770000",
-            "0.2978100000",
-            "0.4379280000",
-            "0.1293420000",
-            "0.3134770000",
-            "0.5747300000",
-            "0.1606000000",
-            "0.0590000000",
-            "0.1668610000",
-            "0.1182000000",
-            "0.4000000000",
-            "0.0911510000",
-            "0.1800000000",
-            "0.6000000000",
-            "0.4850000000",
-            "0.2376020000",
-            "0.1738000000",
-            "0.3011280000",
-            "0.0119100000",
-            "0.1934950000",
-            "0.1604830000",
-            "0.1860540000",
-            "0.3407080000",
-            "0.3397770000",
-            "0.6724300000",
-            "0.3594300000",
-            "0.1765600000",
-            "0.3384300000",
-            "0.1426300000",
-            "0.5823000000",
-            "0.1210000000",
-            "0.2580000000",
-            "0.1200000000",
-            "0.2315390000",
-            "0.0514300000",
-            "0.0528690000",
-            "0.2231040000",
-            "0.4029300000",
-            "0.9660000000",
-            "0.3016610000",
-            "0.2104300000",
-            "0.0631950000",
-            "0.1680000000",
-            "0.2624740000",
-            "0.0919710000",
-            "0.1233850000",
-            "0.5836000000",
-            "0.1540000000",
+        "US East (N. Virginia) (country: American Samoa)": [
+            "0.0119100000"
+        ],
+        "US East (N. Virginia) (country: Anguilla)": [
+            "0.0119100000"
+        ],
+        "US East (N. Virginia) (country: Antigua and Barbuda)": [
+            "0.0119100000"
+        ],
+        "US East (N. Virginia) (country: Argentina)": [
+            "0.1540000000"
+        ],
+        "US East (N. Virginia) (country: Australia)": [
+            "0.0514300000"
+        ],
+        "US East (N. Virginia) (country: Austria)": [
+            "0.3407080000"
+        ],
+        "US East (N. Virginia) (country: Bahamas)": [
+            "0.0119100000"
+        ],
+        "US East (N. Virginia) (country: Bahrain)": [
+            "0.1765600000"
+        ],
+        "US East (N. Virginia) (country: Barbados)": [
+            "0.0119100000"
+        ],
+        "US East (N. Virginia) (country: Belgium)": [
+            "0.4029300000"
+        ],
+        "US East (N. Virginia) (country: Bermuda)": [
+            "0.0119100000"
+        ],
+        "US East (N. Virginia) (country: Brazil)": [
+            "0.3134770000"
+        ],
+        "US East (N. Virginia) (country: British Virgin Islands)": [
+            "0.0119100000"
+        ],
+        "US East (N. Virginia) (country: Bulgaria)": [
+            "0.2978100000"
+        ],
+        "US East (N. Virginia) (country: Canada)": [
+            "0.0119100000"
+        ],
+        "US East (N. Virginia) (country: Cayman Islands)": [
+            "0.0119100000"
+        ],
+        "US East (N. Virginia) (country: Chile)": [
+            "0.1800000000"
+        ],
+        "US East (N. Virginia) (country: China)": [
+            "0.6000000000"
+        ],
+        "US East (N. Virginia) (country: Colombia)": [
+            "0.3397770000"
+        ],
+        "US East (N. Virginia) (country: Croatia)": [
+            "0.4379280000"
+        ],
+        "US East (N. Virginia) (country: Cyprus)": [
+            "0.1293420000"
+        ],
+        "US East (N. Virginia) (country: Czech Republic)": [
+            "0.2480770000"
+        ],
+        "US East (N. Virginia) (country: Denmark)": [
+            "0.3374300000"
+        ],
+        "US East (N. Virginia) (country: Dominica)": [
+            "0.0119100000"
+        ],
+        "US East (N. Virginia) (country: Dominican Republic)": [
+            "0.0119100000"
+        ],
+        "US East (N. Virginia) (country: Estonia)": [
+            "0.9660000000"
+        ],
+        "US East (N. Virginia) (country: Finland)": [
+            "0.2376020000"
+        ],
+        "US East (N. Virginia) (country: France)": [
+            "0.0714300000"
+        ],
+        "US East (N. Virginia) (country: Germany)": [
+            "0.1680000000"
+        ],
+        "US East (N. Virginia) (country: Greece)": [
+            "0.6724300000"
+        ],
+        "US East (N. Virginia) (country: Grenada)": [
+            "0.0119100000"
+        ],
+        "US East (N. Virginia) (country: Guam)": [
+            "0.0119100000"
+        ],
+        "US East (N. Virginia) (country: Hong Kong, Special Administrative Region of China)": [
+            "0.1182000000"
+        ],
+        "US East (N. Virginia) (country: Hungary)": [
+            "0.2231040000"
+        ],
+        "US East (N. Virginia) (country: India)": [
+            "0.1210000000"
+        ],
+        "US East (N. Virginia) (country: Indonesia)": [
+            "0.5823000000"
+        ],
+        "US East (N. Virginia) (country: Ireland)": [
+            "0.5747300000"
+        ],
+        "US East (N. Virginia) (country: Israel)": [
+            "0.1620000000"
+        ],
+        "US East (N. Virginia) (country: Italy)": [
+            "0.3594300000"
+        ],
+        "US East (N. Virginia) (country: Jamaica)": [
+            "0.0119100000"
+        ],
+        "US East (N. Virginia) (country: Japan)": [
+            "0.4921770000"
+        ],
+        "US East (N. Virginia) (country: Latvia)": [
+            "0.2696000000"
+        ],
+        "US East (N. Virginia) (country: Lithuania)": [
+            "0.4850000000"
+        ],
+        "US East (N. Virginia) (country: Luxembourg)": [
+            "0.2104300000"
+        ],
+        "US East (N. Virginia) (country: Malaysia)": [
+            "0.1200000000"
+        ],
+        "US East (N. Virginia) (country: Malta)": [
+            "0.1606000000"
+        ],
+        "US East (N. Virginia) (country: Mexico)": [
+            "0.0919710000"
+        ],
+        "US East (N. Virginia) (country: Montserrat)": [
+            "0.0119100000"
+        ],
+        "US East (N. Virginia) (country: Netherlands)": [
+            "0.4000000000"
+        ],
+        "US East (N. Virginia) (country: New Zealand)": [
+            "0.2315390000"
+        ],
+        "US East (N. Virginia) (country: Northern Mariana Islands)": [
+            "0.0119100000"
+        ],
+        "US East (N. Virginia) (country: Norway)": [
+            "0.0528690000"
+        ],
+        "US East (N. Virginia) (country: Pakistan)": [
+            "0.2624740000"
+        ],
+        "US East (N. Virginia) (country: Panama)": [
+            "0.1604830000"
+        ],
+        "US East (N. Virginia) (country: Peru)": [
+            "0.3011280000"
+        ],
+        "US East (N. Virginia) (country: Philippines)": [
+            "0.5836000000"
+        ],
+        "US East (N. Virginia) (country: Poland)": [
             "0.0500000000"
+        ],
+        "US East (N. Virginia) (country: Portugal)": [
+            "0.3016610000"
+        ],
+        "US East (N. Virginia) (country: Puerto Rico)": [
+            "0.0119100000"
+        ],
+        "US East (N. Virginia) (country: Romania)": [
+            "0.2200000000"
+        ],
+        "US East (N. Virginia) (country: Russian Federation)": [
+            "0.1426300000"
+        ],
+        "US East (N. Virginia) (country: Saint Kitts and Nevis)": [
+            "0.0119100000"
+        ],
+        "US East (N. Virginia) (country: Saint Lucia)": [
+            "0.0119100000"
+        ],
+        "US East (N. Virginia) (country: Saint Vincent and Grenadines)": [
+            "0.0119100000"
+        ],
+        "US East (N. Virginia) (country: Saint-Martin (French part))": [
+            "0.0119100000"
+        ],
+        "US East (N. Virginia) (country: Singapore)": [
+            "0.0590000000"
+        ],
+        "US East (N. Virginia) (country: Slovakia)": [
+            "0.1860540000"
+        ],
+        "US East (N. Virginia) (country: Slovenia)": [
+            "0.2580000000"
+        ],
+        "US East (N. Virginia) (country: South Africa)": [
+            "0.1200000000"
+        ],
+        "US East (N. Virginia) (country: South Korea)": [
+            "0.0631950000"
+        ],
+        "US East (N. Virginia) (country: Spain)": [
+            "0.3384300000"
+        ],
+        "US East (N. Virginia) (country: Sweden)": [
+            "0.1668610000"
+        ],
+        "US East (N. Virginia) (country: Switzerland)": [
+            "0.6024300000"
+        ],
+        "US East (N. Virginia) (country: Taiwan, Republic of China)": [
+            "0.1934950000"
+        ],
+        "US East (N. Virginia) (country: Thailand)": [
+            "0.1233850000"
+        ],
+        "US East (N. Virginia) (country: Trinidad and Tobago)": [
+            "0.0119100000"
+        ],
+        "US East (N. Virginia) (country: Turkey)": [
+            "0.0909720000"
+        ],
+        "US East (N. Virginia) (country: Turks and Caicos Islands)": [
+            "0.0119100000"
+        ],
+        "US East (N. Virginia) (country: Ukraine)": [
+            "0.1738000000"
+        ],
+        "US East (N. Virginia) (country: United Kingdom)": [
+            "0.0911510000"
+        ],
+        "US East (N. Virginia) (country: United States of America)": [
+            "0.0119100000"
+        ],
+        "US East (N. Virginia) (country: Virgin Islands, US)": [
+            "0.0119100000"
         ]
     },
     "ChimeDialin Toll OnNet": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: United States of America)": [
             "0.0000000000"
         ]
     },
     "ChimeDialin TollFree OnNet": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: United States of America)": [
             "0.0000000000"
         ]
     },
     "ChimeDialin Cayman Islands Toll": {
-        "Regionless": [
+        "Default": [
             "0.0022160000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Cayman Islands)": [
             "0.0022160000"
         ]
     },
     "ChimeDialin Germany Toll": {
-        "Regionless": [
+        "Default": [
             "0.0032210000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Germany)": [
             "0.0032210000"
         ]
     },
     "ChimeDialin Hungary Toll": {
-        "Regionless": [
+        "Default": [
             "0.0844000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Hungary)": [
             "0.0844000000"
         ]
     },
     "ChimeDialin China Toll": {
-        "Regionless": [
+        "Default": [
             "0.2600000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: China)": [
             "0.2600000000"
         ]
     },
     "ChimeDialin Norway Toll Free": {
-        "Regionless": [
+        "Default": [
             "0.0528690000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Norway)": [
             "0.0528690000"
         ]
     },
     "ChimeDialin Latvia Toll": {
-        "Regionless": [
+        "Default": [
             "0.0087950000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Latvia)": [
             "0.0087950000"
         ]
     },
     "ChimeDialin Turkey Toll": {
-        "Regionless": [
+        "Default": [
             "0.0250460000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Turkey)": [
             "0.0250460000"
         ]
     },
     "ChimeDialin New Zealand Toll Free": {
-        "Regionless": [
+        "Default": [
             "0.2315390000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: New Zealand)": [
             "0.2315390000"
         ]
     },
     "ChimeDialin Ukraine Toll": {
-        "Regionless": [
+        "Default": [
             "0.1260000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Ukraine)": [
             "0.1260000000"
         ]
     },
     "ChimeDialin Virgin Islands US Toll Free": {
-        "Regionless": [
+        "Default": [
             "0.0119100000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Virgin Islands, US)": [
             "0.0119100000"
         ]
     },
     "ChimeDialin Panama Toll Free": {
-        "Regionless": [
+        "Default": [
             "0.1604830000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Panama)": [
             "0.1604830000"
         ]
     },
     "ChimeDialin Switzerland Toll": {
-        "Regionless": [
+        "Default": [
             "0.0032210000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Switzerland)": [
             "0.0032210000"
         ]
     },
     "ChimeDialin South Korea Toll": {
-        "Regionless": [
+        "Default": [
             "0.0188730000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: South Korea)": [
             "0.0188730000"
         ]
     },
     "ChimeDialin Thailand Toll Free": {
-        "Regionless": [
+        "Default": [
             "0.1233850000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Thailand)": [
             "0.1233850000"
         ]
     },
     "ChimeDialin Slovenia Toll": {
-        "Regionless": [
+        "Default": [
             "0.0423610000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Slovenia)": [
             "0.0423610000"
         ]
     },
     "ChimeDialin Lithuania Toll Free": {
-        "Regionless": [
+        "Default": [
             "0.4850000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Lithuania)": [
             "0.4850000000"
         ]
     },
     "ChimeDialin Barbados Toll": {
-        "Regionless": [
+        "Default": [
             "0.0022160000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Barbados)": [
             "0.0022160000"
         ]
     },
     "ChimeDialin Grenada Toll": {
-        "Regionless": [
+        "Default": [
             "0.0022160000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Grenada)": [
             "0.0022160000"
         ]
     },
     "ChimeDialin Saint Kitts and Nevis Toll": {
-        "Regionless": [
+        "Default": [
             "0.0022160000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Saint Kitts and Nevis)": [
             "0.0022160000"
         ]
     },
     "ChimeDialin Japan Toll": {
-        "Regionless": [
+        "Default": [
             "0.0070360000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Japan)": [
             "0.0070360000"
         ]
     },
     "ChimeDialin Romania Toll Free": {
-        "Regionless": [
+        "Default": [
             "0.2200000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Romania)": [
             "0.2200000000"
         ]
     },
     "ChimeDialin United States of America Toll": {
-        "Regionless": [
+        "Default": [
             "0.0022160000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: United States of America)": [
             "0.0022160000"
         ]
     },
     "ChimeDialin Belgium Toll Free": {
-        "Regionless": [
+        "Default": [
             "0.4029300000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Belgium)": [
             "0.4029300000"
         ]
     },
     "ChimeDialin Bahrain Toll Free": {
-        "Regionless": [
+        "Default": [
             "0.1765600000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Bahrain)": [
             "0.1765600000"
         ]
     },
     "ChimeDialin Costa Rica Toll": {
-        "Regionless": [
+        "Default": [
             "0.3040000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Costa Rica)": [
             "0.3040000000"
         ]
     },
     "ChimeDialin Italy Toll": {
-        "Regionless": [
+        "Default": [
             "0.0032210000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Italy)": [
             "0.0032210000"
         ]
     },
     "ChimeDialin Malta Toll": {
-        "Regionless": [
+        "Default": [
             "0.0087950000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Malta)": [
             "0.0087950000"
         ]
     },
     "ChimeDialin Colombia Toll": {
-        "Regionless": [
+        "Default": [
             "0.0250460000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Colombia)": [
             "0.0250460000"
         ]
     },
     "ChimeDialin Montserrat Toll": {
-        "Regionless": [
+        "Default": [
             "0.0022160000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Montserrat)": [
             "0.0022160000"
         ]
     },
     "ChimeDialin Anguilla Toll": {
-        "Regionless": [
+        "Default": [
             "0.0022160000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Anguilla)": [
             "0.0022160000"
         ]
     },
     "ChimeDialin Bulgaria Toll Free": {
-        "Regionless": [
+        "Default": [
             "0.2978100000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Bulgaria)": [
             "0.2978100000"
         ]
     },
     "ChimeDialin Thailand Toll": {
-        "Regionless": [
+        "Default": [
             "0.0584090000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Thailand)": [
             "0.0584090000"
         ]
     },
     "ChimeDialin Saint Lucia Toll": {
-        "Regionless": [
+        "Default": [
             "0.0022160000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Saint Lucia)": [
             "0.0022160000"
         ]
     },
     "ChimeDialin Spain Toll": {
-        "Regionless": [
+        "Default": [
             "0.0191870000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Spain)": [
             "0.0191870000"
         ]
     },
     "ChimeDialin Norway Toll": {
-        "Regionless": [
+        "Default": [
             "0.0146760000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Norway)": [
             "0.0146760000"
         ]
     },
     "ChimeDialin Jamaica Toll Free": {
-        "Regionless": [
+        "Default": [
             "0.0119100000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Jamaica)": [
             "0.0119100000"
         ]
     },
     "ChimeDialin American Samoa Toll Free": {
-        "Regionless": [
+        "Default": [
             "0.0119100000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: American Samoa)": [
             "0.0119100000"
         ]
     },
     "ChimeDialin Northern Mariana Islands Toll Free": {
-        "Regionless": [
+        "Default": [
             "0.0119100000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Northern Mariana Islands)": [
             "0.0119100000"
         ]
     },
     "ChimeDialin Dominica Toll Free": {
-        "Regionless": [
+        "Default": [
             "0.0119100000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Dominica)": [
             "0.0119100000"
         ]
     },
     "ChimeDialin Brazil Toll": {
-        "Regionless": [
+        "Default": [
             "0.0087950000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Brazil)": [
             "0.0087950000"
         ]
     },
     "ChimeDialin United States of America TollFree OnNet": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: United States of America)": [
             "0.0000000000"
         ]
     },
     "ChimeDialin Cyprus Toll": {
-        "Regionless": [
+        "Default": [
             "0.0087950000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Cyprus)": [
             "0.0087950000"
         ]
     },
     "ChimeDialin Mexico Toll Free": {
-        "Regionless": [
+        "Default": [
             "0.0919710000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Mexico)": [
             "0.0919710000"
         ]
     },
     "ChimeDialin Cayman Islands Toll Free": {
-        "Regionless": [
+        "Default": [
             "0.0119100000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Cayman Islands)": [
             "0.0119100000"
         ]
     },
     "ChimeDialin Singapore Toll Free": {
-        "Regionless": [
+        "Default": [
             "0.0590000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Singapore)": [
             "0.0590000000"
         ]
     },
     "ChimeDialin Antigua and Barbuda Toll": {
-        "Regionless": [
+        "Default": [
             "0.0022160000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Antigua and Barbuda)": [
             "0.0022160000"
         ]
     },
     "ChimeDialin Estonia Toll Free": {
-        "Regionless": [
+        "Default": [
             "0.9660000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Estonia)": [
             "0.9660000000"
         ]
     },
     "ChimeDialin Belgium Toll": {
-        "Regionless": [
+        "Default": [
             "0.0032210000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Belgium)": [
             "0.0032210000"
         ]
     },
     "ChimeDialin Taiwan Republic of China Toll Free": {
-        "Regionless": [
+        "Default": [
             "0.1934950000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Taiwan, Republic of China)": [
             "0.1934950000"
         ]
     },
     "ChimeDialin Puerto Rico Toll Free": {
-        "Regionless": [
+        "Default": [
             "0.0119100000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Puerto Rico)": [
             "0.0119100000"
         ]
     },
     "ChimeDialin Russian Federation Toll Free": {
-        "Regionless": [
+        "Default": [
             "0.1426300000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Russian Federation)": [
             "0.1426300000"
         ]
     },
     "ChimeDialin Viet Nam Toll": {
-        "Regionless": [
+        "Default": [
             "1.1400000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Viet Nam)": [
             "1.1400000000"
         ]
     },
     "ChimeDialin Bahrain Toll": {
-        "Regionless": [
+        "Default": [
             "0.0706300000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Bahrain)": [
             "0.0706300000"
         ]
     },
     "ChimeDialin Chile Toll Free": {
-        "Regionless": [
+        "Default": [
             "0.1800000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Chile)": [
             "0.1800000000"
         ]
     },
     "ChimeDialin American Samoa Toll": {
-        "Regionless": [
+        "Default": [
             "0.0022160000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: American Samoa)": [
             "0.0022160000"
         ]
     },
     "ChimeDialin Bahamas Toll": {
-        "Regionless": [
+        "Default": [
             "0.0022160000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Bahamas)": [
             "0.0022160000"
         ]
     },
     "ChimeDialin Finland Toll": {
-        "Regionless": [
+        "Default": [
             "0.0032210000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Finland)": [
             "0.0032210000"
         ]
     },
     "ChimeDialin Malaysia Toll Free": {
-        "Regionless": [
+        "Default": [
             "0.1200000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Malaysia)": [
             "0.1200000000"
         ]
     },
     "ChimeDialin Singapore Toll": {
-        "Regionless": [
+        "Default": [
             "0.0177280000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Singapore)": [
             "0.0177280000"
         ]
     },
     "ChimeDialin Canada Toll Free": {
-        "Regionless": [
+        "Default": [
             "0.0119100000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Canada)": [
             "0.0119100000"
         ]
     },
     "ChimeDialin Argentina Toll Free": {
-        "Regionless": [
+        "Default": [
             "0.1540000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Argentina)": [
             "0.1540000000"
         ]
     },
     "ChimeDialin South Korea Toll Free": {
-        "Regionless": [
+        "Default": [
             "0.0631950000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: South Korea)": [
             "0.0631950000"
         ]
     },
     "ChimeDialin Guam Toll Free": {
-        "Regionless": [
+        "Default": [
             "0.0119100000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Guam)": [
             "0.0119100000"
         ]
     },
     "ChimeDialin Greece Toll": {
-        "Regionless": [
+        "Default": [
             "0.0056360000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Greece)": [
             "0.0056360000"
         ]
     },
     "ChimeDialin Saint Vincent and Grenadines Toll": {
-        "Regionless": [
+        "Default": [
             "0.0022160000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Saint Vincent and Grenadines)": [
             "0.0022160000"
         ]
     },
     "ChimeDialin Lithuania Toll": {
-        "Regionless": [
+        "Default": [
             "0.0070360000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Lithuania)": [
             "0.0070360000"
         ]
     },
     "ChimeDialin Georgia Toll": {
-        "Regionless": [
+        "Default": [
             "0.0593060000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Georgia)": [
             "0.0593060000"
         ]
     },
     "ChimeDialin Romania Toll": {
-        "Regionless": [
+        "Default": [
             "0.0087950000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Romania)": [
             "0.0087950000"
         ]
     },
     "ChimeDialin Chile Toll": {
-        "Regionless": [
+        "Default": [
             "0.0250460000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Chile)": [
             "0.0250460000"
         ]
     },
     "ChimeDialin Ireland Toll Free": {
-        "Regionless": [
+        "Default": [
             "0.5747300000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Ireland)": [
             "0.5747300000"
         ]
     },
     "ChimeDialin Czech Republic Toll Free": {
-        "Regionless": [
+        "Default": [
             "0.2480770000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Czech Republic)": [
             "0.2480770000"
         ]
     },
     "ChimeDialin Montserrat Toll Free": {
-        "Regionless": [
+        "Default": [
             "0.0119100000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Montserrat)": [
             "0.0119100000"
         ]
     },
     "ChimeDialin Trinidad and Tobago Toll Free": {
-        "Regionless": [
+        "Default": [
             "0.0119100000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Trinidad and Tobago)": [
             "0.0119100000"
         ]
     },
     "ChimeDialin Saint Lucia Toll Free": {
-        "Regionless": [
+        "Default": [
             "0.0119100000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Saint Lucia)": [
             "0.0119100000"
         ]
     },
     "ChimeDialin Poland Toll Free": {
-        "Regionless": [
+        "Default": [
             "0.0500000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Poland)": [
             "0.0500000000"
         ]
     },
     "ChimeDialin Philippines Toll Free": {
-        "Regionless": [
+        "Default": [
             "0.5836000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Philippines)": [
             "0.5836000000"
         ]
     },
     "ChimeDialin Mexico Toll": {
-        "Regionless": [
+        "Default": [
             "0.0068080000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Mexico)": [
             "0.0068080000"
         ]
     },
     "ChimeDialin Dominican Republic Toll": {
-        "Regionless": [
+        "Default": [
             "0.0105530000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Dominican Republic)": [
             "0.0105530000"
         ]
     },
     "ChimeDialin India Toll Free": {
-        "Regionless": [
+        "Default": [
             "0.1210000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: India)": [
             "0.1210000000"
         ]
     },
     "ChimeDialin Slovakia Toll Free": {
-        "Regionless": [
+        "Default": [
             "0.1860540000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Slovakia)": [
             "0.1860540000"
         ]
     },
     "ChimeDialin Cyprus Toll Free": {
-        "Regionless": [
+        "Default": [
             "0.1293420000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Cyprus)": [
             "0.1293420000"
         ]
     },
     "ChimeDialin Jamaica Toll": {
-        "Regionless": [
+        "Default": [
             "0.0022160000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Jamaica)": [
             "0.0022160000"
         ]
     },
     "ChimeDialin Bermuda Toll Free": {
-        "Regionless": [
+        "Default": [
             "0.0119100000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Bermuda)": [
             "0.0119100000"
         ]
     },
     "ChimeDialin Panama Toll": {
-        "Regionless": [
+        "Default": [
             "0.0300560000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Panama)": [
             "0.0300560000"
         ]
     },
     "ChimeDialin Spain Toll Free": {
-        "Regionless": [
+        "Default": [
             "0.3384300000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Spain)": [
             "0.3384300000"
         ]
     },
     "ChimeDialin Puerto Rico Toll": {
-        "Regionless": [
+        "Default": [
             "0.0087950000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Puerto Rico)": [
             "0.0087950000"
         ]
     },
     "ChimeDialin Turkey Toll Free": {
-        "Regionless": [
+        "Default": [
             "0.0909720000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Turkey)": [
             "0.0909720000"
         ]
     },
     "ChimeDialin Slovenia Toll Free": {
-        "Regionless": [
+        "Default": [
             "0.2580000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Slovenia)": [
             "0.2580000000"
         ]
     },
     "ChimeDialin Antigua and Barbuda Toll Free": {
-        "Regionless": [
+        "Default": [
             "0.0119100000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Antigua and Barbuda)": [
             "0.0119100000"
         ]
     },
     "ChimeDialin Hong Kong Special Administrative Region of China Toll Free": {
-        "Regionless": [
+        "Default": [
             "0.1182000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Hong Kong, Special Administrative Region of China)": [
             "0.1182000000"
         ]
     },
     "ChimeDialin Latvia Toll Free": {
-        "Regionless": [
+        "Default": [
             "0.2696000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Latvia)": [
             "0.2696000000"
         ]
     },
     "ChimeDialin Israel Toll": {
-        "Regionless": [
+        "Default": [
             "0.0054460000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Israel)": [
             "0.0054460000"
         ]
     },
     "ChimeDialin Germany Toll Free": {
-        "Regionless": [
+        "Default": [
             "0.1680000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Germany)": [
             "0.1680000000"
         ]
     },
     "ChimeDialin Netherlands Toll Free": {
-        "Regionless": [
+        "Default": [
             "0.4000000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Netherlands)": [
             "0.4000000000"
         ]
     },
     "ChimeDialin Virgin Islands US Toll": {
-        "Regionless": [
+        "Default": [
             "0.0022160000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Virgin Islands, US)": [
             "0.0022160000"
         ]
     },
     "ChimeDialin United States of America Toll Free": {
-        "Regionless": [
+        "Default": [
             "0.0119100000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: United States of America)": [
             "0.0119100000"
         ]
     },
     "ChimeDialin Dominica Toll": {
-        "Regionless": [
+        "Default": [
             "0.0022160000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Dominica)": [
             "0.0022160000"
         ]
     },
     "ChimeDialin Australia Toll Free": {
-        "Regionless": [
+        "Default": [
             "0.0514300000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Australia)": [
             "0.0514300000"
         ]
     },
     "ChimeDialin Malaysia Toll": {
-        "Regionless": [
+        "Default": [
             "0.0221600000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Malaysia)": [
             "0.0221600000"
         ]
     },
     "ChimeDialin Sweden Toll Free": {
-        "Regionless": [
+        "Default": [
             "0.1668610000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Sweden)": [
             "0.1668610000"
         ]
     },
     "ChimeDialin Greece Toll Free": {
-        "Regionless": [
+        "Default": [
             "0.6724300000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Greece)": [
             "0.6724300000"
         ]
     },
     "ChimeDialin British Virgin Islands Toll Free": {
-        "Regionless": [
+        "Default": [
             "0.0119100000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: British Virgin Islands)": [
             "0.0119100000"
         ]
     },
     "ChimeDialin Slovakia Toll": {
-        "Regionless": [
+        "Default": [
             "0.0087950000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Slovakia)": [
             "0.0087950000"
         ]
     },
     "ChimeDialin Denmark Toll": {
-        "Regionless": [
+        "Default": [
             "0.0032210000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Denmark)": [
             "0.0032210000"
         ]
     },
     "ChimeDialin United States of America Toll OnNet": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: United States of America)": [
             "0.0000000000"
         ]
     },
     "ChimeDialin Croatia Toll Free": {
-        "Regionless": [
+        "Default": [
             "0.4379280000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Croatia)": [
             "0.4379280000"
         ]
     },
     "ChimeDialin Saint Martin French part Toll Free": {
-        "Regionless": [
+        "Default": [
             "0.0119100000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Saint-Martin (French part))": [
             "0.0119100000"
         ]
     },
     "ChimeDialin Anguilla Toll Free": {
-        "Regionless": [
+        "Default": [
             "0.0119100000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Anguilla)": [
             "0.0119100000"
         ]
     },
     "ChimeDialin Saint Vincent and Grenadines Toll Free": {
-        "Regionless": [
+        "Default": [
             "0.0119100000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Saint Vincent and Grenadines)": [
             "0.0119100000"
         ]
     },
     "ChimeDialin Poland Toll": {
-        "Regionless": [
+        "Default": [
             "0.0032210000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Poland)": [
             "0.0032210000"
         ]
     },
     "ChimeDialin Austria Toll Free": {
-        "Regionless": [
+        "Default": [
             "0.3407080000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Austria)": [
             "0.3407080000"
         ]
     },
     "ChimeDialin France Toll Free": {
-        "Regionless": [
+        "Default": [
             "0.0714300000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: France)": [
             "0.0714300000"
         ]
     },
     "ChimeDialin British Virgin Islands Toll": {
-        "Regionless": [
+        "Default": [
             "0.0022160000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: British Virgin Islands)": [
             "0.0022160000"
         ]
     },
     "ChimeDialin United Kingdom Toll": {
-        "Regionless": [
+        "Default": [
             "0.0032210000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: United Kingdom)": [
             "0.0032210000"
         ]
     },
     "ChimeDialin Sweden Toll": {
-        "Regionless": [
+        "Default": [
             "0.0032210000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Sweden)": [
             "0.0032210000"
         ]
     },
     "ChimeDialin Netherlands Toll": {
-        "Regionless": [
+        "Default": [
             "0.0032210000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Netherlands)": [
             "0.0032210000"
         ]
     },
     "ChimeDialin Bahamas Toll Free": {
-        "Regionless": [
+        "Default": [
             "0.0119100000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Bahamas)": [
             "0.0119100000"
         ]
     },
     "ChimeDialin Peru Toll Free": {
-        "Regionless": [
+        "Default": [
             "0.3011280000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Peru)": [
             "0.3011280000"
         ]
     },
     "ChimeDialin Colombia Toll Free": {
-        "Regionless": [
+        "Default": [
             "0.3397770000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Colombia)": [
             "0.3397770000"
         ]
     },
     "ChimeDialin Indonesia Toll Free": {
-        "Regionless": [
+        "Default": [
             "0.5823000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Indonesia)": [
             "0.5823000000"
         ]
     },
     "ChimeDialin Portugal Toll": {
-        "Regionless": [
+        "Default": [
             "0.0574910000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Portugal)": [
             "0.0574910000"
         ]
     },
     "ChimeDialin Malta Toll Free": {
-        "Regionless": [
+        "Default": [
             "0.1606000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Malta)": [
             "0.1606000000"
         ]
     },
     "ChimeDialin Turks and Caicos Islands Toll": {
-        "Regionless": [
+        "Default": [
             "0.0022160000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Turks and Caicos Islands)": [
             "0.0022160000"
         ]
     },
     "ChimeDialin Estonia Toll": {
-        "Regionless": [
+        "Default": [
             "0.0087950000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Estonia)": [
             "0.0087950000"
         ]
     },
     "ChimeDialin Luxembourg Toll": {
-        "Regionless": [
+        "Default": [
             "0.0032210000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Luxembourg)": [
             "0.0032210000"
         ]
     },
     "ChimeDialin Hungary Toll Free": {
-        "Regionless": [
+        "Default": [
             "0.2231040000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Hungary)": [
             "0.2231040000"
         ]
     },
     "ChimeDialin Israel Toll Free": {
-        "Regionless": [
+        "Default": [
             "0.1620000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Israel)": [
             "0.1620000000"
         ]
     },
     "ChimeDialin Barbados Toll Free": {
-        "Regionless": [
+        "Default": [
             "0.0119100000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Barbados)": [
             "0.0119100000"
         ]
     },
     "ChimeDialin New Zealand Toll": {
-        "Regionless": [
+        "Default": [
             "0.0070360000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: New Zealand)": [
             "0.0070360000"
         ]
     },
     "ChimeDialin Hong Kong Special Administrative Region of China Toll": {
-        "Regionless": [
+        "Default": [
             "0.0123120000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Hong Kong, Special Administrative Region of China)": [
             "0.0123120000"
         ]
     },
     "ChimeDialin Canada Toll": {
-        "Regionless": [
+        "Default": [
             "0.0022160000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Canada)": [
             "0.0022160000"
         ]
     },
     "ChimeDialin Northern Mariana Islands Toll": {
-        "Regionless": [
+        "Default": [
             "0.0022160000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Northern Mariana Islands)": [
             "0.0022160000"
         ]
     },
     "ChimeDialin France Toll": {
-        "Regionless": [
+        "Default": [
             "0.0032210000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: France)": [
             "0.0032210000"
         ]
     },
     "ChimeDialin Australia Toll": {
-        "Regionless": [
+        "Default": [
             "0.0054460000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Australia)": [
             "0.0054460000"
         ]
     },
     "ChimeDialin Taiwan Republic of China Toll": {
-        "Regionless": [
+        "Default": [
             "0.0389390000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Taiwan, Republic of China)": [
             "0.0389390000"
         ]
     },
     "ChimeDialin Trinidad and Tobago Toll": {
-        "Regionless": [
+        "Default": [
             "0.0022160000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Trinidad and Tobago)": [
             "0.0022160000"
         ]
     },
     "ChimeDialin Czech Republic Toll": {
-        "Regionless": [
+        "Default": [
             "0.0188730000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Czech Republic)": [
             "0.0188730000"
         ]
     },
     "ChimeDialin Finland Toll Free": {
-        "Regionless": [
+        "Default": [
             "0.2376020000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Finland)": [
             "0.2376020000"
         ]
     },
     "ChimeDialin Saint Kitts and Nevis Toll Free": {
-        "Regionless": [
+        "Default": [
             "0.0119100000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Saint Kitts and Nevis)": [
             "0.0119100000"
         ]
     },
     "ChimeDialin Argentina Toll": {
-        "Regionless": [
+        "Default": [
             "0.0566200000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Argentina)": [
             "0.0566200000"
         ]
     },
     "ChimeDialin Grenada Toll Free": {
-        "Regionless": [
+        "Default": [
             "0.0119100000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Grenada)": [
             "0.0119100000"
         ]
     },
     "ChimeDialin Turks and Caicos Islands Toll Free": {
-        "Regionless": [
+        "Default": [
             "0.0119100000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Turks and Caicos Islands)": [
             "0.0119100000"
         ]
     },
     "ChimeDialin Ireland Toll": {
-        "Regionless": [
+        "Default": [
             "0.0032210000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Ireland)": [
             "0.0032210000"
         ]
     },
     "ChimeDialin Dominican Republic Toll Free": {
-        "Regionless": [
+        "Default": [
             "0.0119100000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Dominican Republic)": [
             "0.0119100000"
         ]
     },
     "ChimeDialin United Kingdom Toll Free": {
-        "Regionless": [
+        "Default": [
             "0.0911510000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: United Kingdom)": [
             "0.0911510000"
         ]
     },
     "ChimeDialin Ukraine Toll Free": {
-        "Regionless": [
+        "Default": [
             "0.1738000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Ukraine)": [
             "0.1738000000"
         ]
     },
     "ChimeDialin China Toll Free": {
-        "Regionless": [
+        "Default": [
             "0.6000000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: China)": [
             "0.6000000000"
         ]
     },
     "ChimeDialin Pakistan Toll Free": {
-        "Regionless": [
+        "Default": [
             "0.2624740000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Pakistan)": [
             "0.2624740000"
         ]
     },
     "ChimeDialin Russian Federation Toll": {
-        "Regionless": [
+        "Default": [
             "0.0367670000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Russian Federation)": [
             "0.0367670000"
         ]
     },
     "ChimeDialin South Africa Toll Free": {
-        "Regionless": [
+        "Default": [
             "0.1200000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: South Africa)": [
             "0.1200000000"
         ]
     },
     "ChimeDialin Denmark Toll Free": {
-        "Regionless": [
+        "Default": [
             "0.3374300000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Denmark)": [
             "0.3374300000"
         ]
     },
     "ChimeDialin South Africa Toll": {
-        "Regionless": [
+        "Default": [
             "0.0057770000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: South Africa)": [
             "0.0057770000"
         ]
     },
     "ChimeDialin Luxembourg Toll Free": {
-        "Regionless": [
+        "Default": [
             "0.2104300000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Luxembourg)": [
             "0.2104300000"
         ]
     },
     "ChimeDialin Italy Toll Free": {
-        "Regionless": [
+        "Default": [
             "0.3594300000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Italy)": [
             "0.3594300000"
         ]
     },
     "ChimeDialin El Salvador Toll": {
-        "Regionless": [
+        "Default": [
             "0.0123120000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: El Salvador)": [
             "0.0123120000"
         ]
     },
     "ChimeDialin Bermuda Toll": {
-        "Regionless": [
+        "Default": [
             "0.0022160000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Bermuda)": [
             "0.0022160000"
         ]
     },
     "ChimeDialin Saint Martin French part Toll": {
-        "Regionless": [
+        "Default": [
             "0.0022160000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Saint-Martin (French part))": [
             "0.0022160000"
         ]
     },
     "ChimeDialin Austria Toll": {
-        "Regionless": [
+        "Default": [
             "0.0032210000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Austria)": [
             "0.0032210000"
         ]
     },
     "ChimeDialin Switzerland Toll Free": {
-        "Regionless": [
+        "Default": [
             "0.6024300000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Switzerland)": [
             "0.6024300000"
         ]
     },
     "ChimeDialin Guam Toll": {
-        "Regionless": [
+        "Default": [
             "0.0022160000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Guam)": [
             "0.0022160000"
         ]
     },
     "ChimeDialin Portugal Toll Free": {
-        "Regionless": [
+        "Default": [
             "0.3016610000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Portugal)": [
             "0.3016610000"
         ]
     },
     "ChimeDialin Japan Toll Free": {
-        "Regionless": [
+        "Default": [
             "0.4921770000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Japan)": [
             "0.4921770000"
         ]
     },
     "ChimeDialin Brazil Toll Free": {
-        "Regionless": [
+        "Default": [
             "0.3134770000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (country: Brazil)": [
             "0.3134770000"
         ]
     }

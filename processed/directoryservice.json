@@ -1,6 +1,6 @@
 {
     "Large Simple AD": {
-        "Regionless": [
+        "Default": [
             "0.1500000000"
         ],
         "US West (Oregon)": [
@@ -23,7 +23,7 @@
         ]
     },
     "Enterprise Domain Controller for Microsoft Active Directory": {
-        "Regionless": [
+        "Default": [
             "0.2000000000"
         ],
         "US West (Oregon)": [
@@ -124,7 +124,7 @@
         ]
     },
     "Enterprise Shared Account for Microsoft Active Directory": {
-        "Regionless": [
+        "Default": [
             "0.0600000000"
         ],
         "US West (Oregon)": [
@@ -225,7 +225,7 @@
         ]
     },
     "Standard Domain Controller for Microsoft Active Directory": {
-        "Regionless": [
+        "Default": [
             "0.0600000000"
         ],
         "US West (Oregon)": [
@@ -326,7 +326,7 @@
         ]
     },
     "Small Simple AD or AD Connector": {
-        "Regionless": [
+        "Default": [
             "0.0500000000"
         ],
         "US West (Oregon)": [
@@ -349,7 +349,7 @@
         ]
     },
     "Standard Shared Account for Microsoft Active Directory": {
-        "Regionless": [
+        "Default": [
             "0.0180000000"
         ],
         "US West (Oregon)": [
@@ -450,7 +450,7 @@
         ]
     },
     "Large AD Connector": {
-        "Regionless": [
+        "Default": [
             "0.1500000000"
         ],
         "US West (Oregon)": [
@@ -551,7 +551,7 @@
         ]
     },
     "Small AD Connector": {
-        "Regionless": [
+        "Default": [
             "0.0600000000"
         ],
         "US West (N. California)": [

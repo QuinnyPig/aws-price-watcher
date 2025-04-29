@@ -1,6 +1,6 @@
 {
     "Machine Learning Inference from 18000 to 198000": {
-        "Regionless": [
+        "Default": [
             "0.0600000000"
         ],
         "US West (Oregon)": [
@@ -26,7 +26,7 @@
         ]
     },
     "Machine Learning EdgeInference from 0 to 5": {
-        "Regionless": [
+        "Default": [
             "100.0000000000"
         ],
         "US West (Oregon)": [
@@ -52,7 +52,7 @@
         ]
     },
     "Machine Learning Inference from 1998000 to Inf": {
-        "Regionless": [
+        "Default": [
             "0.0466666700"
         ],
         "US West (Oregon)": [
@@ -78,7 +78,7 @@
         ]
     },
     "Machine Learning EdgeInference from 5 to 500": {
-        "Regionless": [
+        "Default": [
             "100.0000000000"
         ],
         "US West (Oregon)": [
@@ -104,7 +104,7 @@
         ]
     },
     "Machine Learning Inference from 0 to 18000": {
-        "Regionless": [
+        "Default": [
             "0.0666666700"
         ],
         "US West (Oregon)": [
@@ -130,7 +130,7 @@
         ]
     },
     "Machine Learning EdgeInference from 2500 to Inf": {
-        "Regionless": [
+        "Default": [
             "60.0000000000"
         ],
         "US West (Oregon)": [
@@ -156,7 +156,7 @@
         ]
     },
     "Machine Learning Training per minutes": {
-        "Regionless": [
+        "Default": [
             "0.0333333330"
         ],
         "US West (Oregon)": [
@@ -182,7 +182,7 @@
         ]
     },
     "Machine Learning Inference from 198000 to 1998000": {
-        "Regionless": [
+        "Default": [
             "0.0533333300"
         ],
         "US West (Oregon)": [
@@ -208,7 +208,7 @@
         ]
     },
     "Machine Learning EdgeInference from 500 to 2500": {
-        "Regionless": [
+        "Default": [
             "80.0000000000"
         ],
         "US West (Oregon)": [

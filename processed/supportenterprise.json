@@ -1,6 +1,6 @@
 {
     "Usage 150 to 500k": {
-        "Regionless": [
+        "Default": [
             "0.0700000000"
         ],
         "Any": [
@@ -8,7 +8,7 @@
         ]
     },
     "Usage 1M Plus": {
-        "Regionless": [
+        "Default": [
             "0.0300000000"
         ],
         "Any": [
@@ -16,7 +16,7 @@
         ]
     },
     "Usage 500K to 1M": {
-        "Regionless": [
+        "Default": [
             "0.0500000000"
         ],
         "Any": [
@@ -24,7 +24,7 @@
         ]
     },
     "Recurring Fee": {
-        "Regionless": [
+        "Default": [
             "15000"
         ],
         "Any": [
@@ -32,7 +32,7 @@
         ]
     },
     "Usage 150k": {
-        "Regionless": [
+        "Default": [
             "0.1000000000"
         ],
         "Any": [

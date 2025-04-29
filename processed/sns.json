@@ -1,6 +1,6 @@
 {
     "Baidu Cloud Push Baidu Notifications": {
-        "Regionless": [
+        "Default": [
             "0.0000005000"
         ],
         "US West (Oregon)": [
@@ -74,7 +74,7 @@
         ]
     },
     "Apple Push Notification Service APNS VOIP Notifications": {
-        "Regionless": [
+        "Default": [
             "0.0000005000"
         ],
         "US West (Oregon)": [
@@ -148,7 +148,7 @@
         ]
     },
     "Apple Push Notification Service APNS Mac OS Notifications": {
-        "Regionless": [
+        "Default": [
             "0.0000005000"
         ],
         "US West (Oregon)": [
@@ -222,7 +222,7 @@
         ]
     },
     "HTTP Notifications": {
-        "Regionless": [
+        "Default": [
             "0.0000006000"
         ],
         "US West (Oregon)": [
@@ -329,7 +329,7 @@
         ]
     },
     "HTTP 100000 to Inf": {
-        "Regionless": [
+        "Default": [
             "0.0000006000"
         ],
         "US West (Oregon)": [
@@ -436,7 +436,7 @@
         ]
     },
     "Google Cloud Messaging for Android GCM Notifications": {
-        "Regionless": [
+        "Default": [
             "0.0000005000"
         ],
         "US West (Oregon)": [
@@ -510,7 +510,7 @@
         ]
     },
     "AWS Lambda Notifications": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -617,7 +617,7 @@
         ]
     },
     "Apple Push Notification Service APNS iOS Notifications": {
-        "Regionless": [
+        "Default": [
             "0.0000005000"
         ],
         "US West (Oregon)": [
@@ -691,7 +691,7 @@
         ]
     },
     "Amazon SNS FIFO Subscription Messages per Messages": {
-        "Regionless": [
+        "Default": [
             "0.0000000100"
         ],
         "US West (Oregon)": [
@@ -792,7 +792,7 @@
         ]
     },
     "Amazon SQS Notifications": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -899,7 +899,7 @@
         ]
     },
     "SMS Notifications": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -991,7 +991,7 @@
         ]
     },
     "SMTP 0 to 1000": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -1092,7 +1092,7 @@
         ]
     },
     "Amazon Device Messaging Mobile Push Notifications": {
-        "Regionless": [
+        "Default": [
             "0.0000005000"
         ],
         "US West (Oregon)": [
@@ -1166,7 +1166,7 @@
         ]
     },
     "Amazon SNS FIFO Topics Storage per GB month": {
-        "Regionless": [
+        "Default": [
             "0.0230000000"
         ],
         "US West (Oregon)": [
@@ -1273,7 +1273,7 @@
         ]
     },
     "Amazon SNS FIFO API Requests per Requests": {
-        "Regionless": [
+        "Default": [
             "0.0000003000"
         ],
         "US West (Oregon)": [
@@ -1374,7 +1374,7 @@
         ]
     },
     "Amazon SNS API Requests": {
-        "Regionless": [
+        "Default": [
             "0.0000005000"
         ],
         "US West (Oregon)": [
@@ -1481,7 +1481,7 @@
         ]
     },
     "SNS FIFO Publish Payload per GB": {
-        "Regionless": [
+        "Default": [
             "0.0170000000"
         ],
         "US West (Oregon)": [
@@ -1582,7 +1582,7 @@
         ]
     },
     "Amazon SNS FIFO Topics Archive Processing per GB": {
-        "Regionless": [
+        "Default": [
             "0.1000000000"
         ],
         "US West (Oregon)": [
@@ -1689,7 +1689,7 @@
         ]
     },
     "Apple Passbook Notifications": {
-        "Regionless": [
+        "Default": [
             "0.0000005000"
         ],
         "US West (Oregon)": [
@@ -1763,7 +1763,7 @@
         ]
     },
     "Amazon SNS Standard Payload Scanned Filtered per GB": {
-        "Regionless": [
+        "Default": [
             "0.0900000000"
         ],
         "US West (Oregon)": [
@@ -1870,7 +1870,7 @@
         ]
     },
     "Apple Push Notification Service APNS Sandbox iOS Notifications": {
-        "Regionless": [
+        "Default": [
             "0.0000005000"
         ],
         "US West (Oregon)": [
@@ -1944,7 +1944,7 @@
         ]
     },
     "HTTP 0 to 100000": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -2051,7 +2051,7 @@
         ]
     },
     "SNS Email and Email JSON Notifications": {
-        "Regionless": [
+        "Default": [
             "0.0000200000"
         ],
         "US West (Oregon)": [
@@ -2158,7 +2158,7 @@
         ]
     },
     "SMTP 1000 to Inf": {
-        "Regionless": [
+        "Default": [
             "0.0000200000"
         ],
         "US West (Oregon)": [
@@ -2259,7 +2259,7 @@
         ]
     },
     "Amazon SNS Audit Reporting per GB": {
-        "Regionless": [
+        "Default": [
             "0.1900000000"
         ],
         "US West (Oregon)": [
@@ -2351,7 +2351,7 @@
         ]
     },
     "Apple Push Notification Service APNS Sandbox Mac OS Notifications": {
-        "Regionless": [
+        "Default": [
             "0.0000005000"
         ],
         "US West (Oregon)": [
@@ -2425,7 +2425,7 @@
         ]
     },
     "Apple Passbook Sandbox Notifications": {
-        "Regionless": [
+        "Default": [
             "0.0000005000"
         ],
         "US West (Oregon)": [
@@ -2499,7 +2499,7 @@
         ]
     },
     "Amazon Kinesis Data Firehose Messages": {
-        "Regionless": [
+        "Default": [
             "0.0000001900"
         ],
         "US West (Oregon)": [
@@ -2606,7 +2606,7 @@
         ]
     },
     "Microsoft Push Notification Service for Windows Phone MPNS Notifications": {
-        "Regionless": [
+        "Default": [
             "0.0000005000"
         ],
         "US West (Oregon)": [
@@ -2680,7 +2680,7 @@
         ]
     },
     "Apple Push Notification Service APNS VOIP Sandbox Notifications": {
-        "Regionless": [
+        "Default": [
             "0.0000005000"
         ],
         "US West (Oregon)": [
@@ -2754,7 +2754,7 @@
         ]
     },
     "Amazon SNS Message Scanning per GB": {
-        "Regionless": [
+        "Default": [
             "0.0800000000"
         ],
         "US West (Oregon)": [
@@ -2843,7 +2843,7 @@
         ]
     },
     "Amazon SNS FIFO Subscription Messages Payload per GB": {
-        "Regionless": [
+        "Default": [
             "0.0010000000"
         ],
         "US West (Oregon)": [
@@ -2944,7 +2944,7 @@
         ]
     },
     "Windows Push Notification Services WNS Notifications": {
-        "Regionless": [
+        "Default": [
             "0.0000005000"
         ],
         "US West (Oregon)": [
@@ -3018,7 +3018,7 @@
         ]
     },
     "SMTP 0 to Inf": {
-        "Regionless": [
+        "Default": [
             "0.0000300000"
         ],
         "AWS GovCloud (US-East)": [

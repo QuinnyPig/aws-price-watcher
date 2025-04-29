@@ -1,6 +1,6 @@
 {
     "Running Channel per hours Standard": {
-        "Regionless": [
+        "Default": [
             "0.3500000000"
         ],
         "US West (Oregon)": [
@@ -62,7 +62,7 @@
         ]
     },
     "Running Channel per hours": {
-        "Regionless": [
+        "Default": [
             "0.1000000000"
         ],
         "US West (Oregon)": [

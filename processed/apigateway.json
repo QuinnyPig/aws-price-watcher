@@ -1,6 +1,6 @@
 {
     "WebSocket Connection Minutes": {
-        "Regionless": [
+        "Default": [
             "0.0000002500"
         ],
         "US West (Oregon)": [
@@ -101,7 +101,7 @@
         ]
     },
     "Caching Memory Size 118": {
-        "Regionless": [
+        "Default": [
             "1.9000000000"
         ],
         "US West (Oregon)": [
@@ -208,7 +208,7 @@
         ]
     },
     "Caching Memory Size 13 5": {
-        "Regionless": [
+        "Default": [
             "0.2500000000"
         ],
         "US West (Oregon)": [
@@ -315,7 +315,7 @@
         ]
     },
     "WebSocket Messages Messages over 1 billion": {
-        "Regionless": [
+        "Default": [
             "0.0000008000"
         ],
         "US West (Oregon)": [
@@ -416,7 +416,7 @@
         ]
     },
     "Caching Memory Size 58 2": {
-        "Regionless": [
+        "Default": [
             "1.0000000000"
         ],
         "US West (Oregon)": [
@@ -523,7 +523,7 @@
         ]
     },
     "API Calls Number of up to 333 million": {
-        "Regionless": [
+        "Default": [
             "0.0000035000"
         ],
         "US West (Oregon)": [
@@ -630,7 +630,7 @@
         ]
     },
     "ApiGatewayHttpApi more than 300 million": {
-        "Regionless": [
+        "Default": [
             "0.0000009000"
         ],
         "US West (Oregon)": [
@@ -731,7 +731,7 @@
         ]
     },
     "ApiGatewayHttpApi First 300 million": {
-        "Regionless": [
+        "Default": [
             "0.0000010000"
         ],
         "US West (Oregon)": [
@@ -832,7 +832,7 @@
         ]
     },
     "Caching Memory Size 6 1": {
-        "Regionless": [
+        "Default": [
             "0.2000000000"
         ],
         "US West (Oregon)": [
@@ -939,7 +939,7 @@
         ]
     },
     "API Calls Number of Request Next 19 billion": {
-        "Regionless": [
+        "Default": [
             "0.0000023800"
         ],
         "US West (Oregon)": [
@@ -1046,7 +1046,7 @@
         ]
     },
     "API Calls Number of Request Over 20 billion": {
-        "Regionless": [
+        "Default": [
             "0.0000015100"
         ],
         "US West (Oregon)": [
@@ -1153,7 +1153,7 @@
         ]
     },
     "Caching Memory Size 28 4": {
-        "Regionless": [
+        "Default": [
             "0.5000000000"
         ],
         "US West (Oregon)": [
@@ -1260,7 +1260,7 @@
         ]
     },
     "WebSocket Messages Messages first 1 billion": {
-        "Regionless": [
+        "Default": [
             "0.0000010000"
         ],
         "US West (Oregon)": [
@@ -1361,7 +1361,7 @@
         ]
     },
     "API Calls Number of Request Next 667 million": {
-        "Regionless": [
+        "Default": [
             "0.0000028000"
         ],
         "US West (Oregon)": [
@@ -1468,7 +1468,7 @@
         ]
     },
     "Caching Memory Size 0 5": {
-        "Regionless": [
+        "Default": [
             "0.0200000000"
         ],
         "US West (Oregon)": [
@@ -1575,7 +1575,7 @@
         ]
     },
     "Caching Memory Size 237": {
-        "Regionless": [
+        "Default": [
             "3.8000000000"
         ],
         "US West (Oregon)": [
@@ -1682,7 +1682,7 @@
         ]
     },
     "Caching Memory Size 1 6": {
-        "Regionless": [
+        "Default": [
             "0.0380000000"
         ],
         "US West (Oregon)": [

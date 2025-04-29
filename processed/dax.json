@@ -1,1265 +1,1885 @@
 {
     "instanceType-unit": {
-        "Regionless": [
+        "Default": [
             "1.0740000000"
         ],
-        "US West (Oregon)": [
-            "4.2950000000",
-            "0.5370000000",
-            "4.0690000000",
-            "0.0400000000",
-            "8.1370000000",
-            "0.0800000000",
-            "2.1480000000",
-            "1.0170000000",
-            "6.1170000000",
-            "0.2550000000",
-            "0.5090000000",
-            "1.0740000000",
-            "2.0340000000",
-            "0.2690000000",
-            "12.2340000000",
+        "US West (Oregon) (Memory: 61, vCPU: 8, Network Performance: High, Instance Type: r3.2xlarge)": [
+            "1.0740000000"
+        ],
+        "US West (Oregon) (Memory: 122, vCPU: 16, Network Performance: High, Instance Type: r3.4xlarge)": [
+            "2.1480000000"
+        ],
+        "US West (Oregon) (Memory: 244, vCPU: 32, Network Performance: 10 Gigabit, Instance Type: r3.8xlarge)": [
+            "4.2950000000"
+        ],
+        "US West (Oregon) (Memory: 15.25, vCPU: 2, Network Performance: Moderate, Instance Type: r3.large)": [
+            "0.2690000000"
+        ],
+        "US West (Oregon) (Memory: 30.5, vCPU: 4, Network Performance: Moderate, Instance Type: r3.xlarge)": [
+            "0.5370000000"
+        ],
+        "US West (Oregon) (Memory: 488, vCPU: 64, Network Performance: 20 Gigabit, Instance Type: r4.16xlarge)": [
             "9.5720000000"
         ],
-        "US West (N. California)": [
-            "0.2840000000",
-            "0.5980000000",
-            "1.1970000000",
-            "9.0670000000",
-            "2.2670000000",
-            "0.0520000000",
-            "0.3000000000",
-            "1.1340000000",
-            "4.5340000000",
-            "4.7860000000",
-            "6.8150000000",
-            "13.6290000000",
-            "0.5660000000",
-            "0.1040000000",
-            "2.3930000000",
+        "US West (Oregon) (Memory: 61, vCPU: 8, Network Performance: High, Instance Type: r4.2xlarge)": [
+            "1.0740000000"
+        ],
+        "US West (Oregon) (Memory: 122, vCPU: 16, Network Performance: High, Instance Type: r4.4xlarge)": [
+            "2.1480000000"
+        ],
+        "US West (Oregon) (Memory: 244, vCPU: 32, Network Performance: 10 Gigabit, Instance Type: r4.8xlarge)": [
+            "4.2950000000"
+        ],
+        "US West (Oregon) (Memory: 15.25, vCPU: 2, Network Performance: Moderate, Instance Type: r4.large)": [
+            "0.2690000000"
+        ],
+        "US West (Oregon) (Memory: 30.5, vCPU: 4, Network Performance: Moderate, Instance Type: r4.xlarge)": [
+            "0.5370000000"
+        ],
+        "US West (Oregon) (Memory: 384, vCPU: 48, Network Performance: 12 Gigabit, Instance Type: r5.12xlarge)": [
+            "6.1170000000"
+        ],
+        "US West (Oregon) (Memory: 512, vCPU: 64, Network Performance: 20 Gigabit, Instance Type: r5.16xlarge)": [
+            "8.1370000000"
+        ],
+        "US West (Oregon) (Memory: 768, vCPU: 96, Network Performance: 25 Gigabit, Instance Type: r5.24xlarge)": [
+            "12.2340000000"
+        ],
+        "US West (Oregon) (Memory: 64, vCPU: 8, Network Performance: High, Instance Type: r5.2xlarge)": [
+            "1.0170000000"
+        ],
+        "US West (Oregon) (Memory: 128, vCPU: 16, Network Performance: High, Instance Type: r5.4xlarge)": [
+            "2.0340000000"
+        ],
+        "US West (Oregon) (Memory: 256, vCPU: 32, Network Performance: 10 Gigabit, Instance Type: r5.8xlarge)": [
+            "4.0690000000"
+        ],
+        "US West (Oregon) (Memory: 16, vCPU: 2, Network Performance: Moderate, Instance Type: r5.large)": [
+            "0.2550000000"
+        ],
+        "US West (Oregon) (Memory: 32, vCPU: 4, Network Performance: Moderate, Instance Type: r5.xlarge)": [
+            "0.5090000000"
+        ],
+        "US West (Oregon) (Memory: 4, vCPU: 2, Network Performance: Low to Moderate, Instance Type: t2.medium)": [
+            "0.0800000000"
+        ],
+        "US West (Oregon) (Memory: 2, vCPU: 1, Network Performance: Low to Moderate, Instance Type: t2.small)": [
+            "0.0400000000"
+        ],
+        "US West (Oregon) (Memory: 4, vCPU: 2, Network Performance: Low to Moderate, Instance Type: t3.medium)": [
+            "0.0800000000"
+        ],
+        "US West (Oregon) (Memory: 2, vCPU: 2, Network Performance: Low to Moderate, Instance Type: t3.small)": [
+            "0.0400000000"
+        ],
+        "US West (N. California) (Memory: 61, vCPU: 8, Network Performance: High, Instance Type: r3.2xlarge)": [
+            "1.1970000000"
+        ],
+        "US West (N. California) (Memory: 122, vCPU: 16, Network Performance: High, Instance Type: r3.4xlarge)": [
+            "2.3930000000"
+        ],
+        "US West (N. California) (Memory: 244, vCPU: 32, Network Performance: 10 Gigabit, Instance Type: r3.8xlarge)": [
+            "4.7860000000"
+        ],
+        "US West (N. California) (Memory: 15.25, vCPU: 2, Network Performance: Moderate, Instance Type: r3.large)": [
+            "0.3000000000"
+        ],
+        "US West (N. California) (Memory: 30.5, vCPU: 4, Network Performance: Moderate, Instance Type: r3.xlarge)": [
+            "0.5980000000"
+        ],
+        "US West (N. California) (Memory: 488, vCPU: 64, Network Performance: 20 Gigabit, Instance Type: r4.16xlarge)": [
             "9.5720000000"
         ],
-        "US East (Ohio)": [
-            "4.2950000000",
-            "0.5370000000",
-            "4.0690000000",
-            "0.0400000000",
-            "8.5900000000",
-            "0.3400000000",
-            "8.1370000000",
-            "0.0800000000",
-            "2.1480000000",
-            "1.0170000000",
-            "6.1170000000",
-            "0.2550000000",
-            "0.5090000000",
-            "1.0740000000",
-            "2.0340000000",
+        "US West (N. California) (Memory: 61, vCPU: 8, Network Performance: High, Instance Type: r4.2xlarge)": [
+            "1.1970000000"
+        ],
+        "US West (N. California) (Memory: 122, vCPU: 16, Network Performance: High, Instance Type: r4.4xlarge)": [
+            "2.3930000000"
+        ],
+        "US West (N. California) (Memory: 244, vCPU: 32, Network Performance: 10 Gigabit, Instance Type: r4.8xlarge)": [
+            "4.7860000000"
+        ],
+        "US West (N. California) (Memory: 15.25, vCPU: 2, Network Performance: Moderate, Instance Type: r4.large)": [
+            "0.3000000000"
+        ],
+        "US West (N. California) (Memory: 30.5, vCPU: 4, Network Performance: Moderate, Instance Type: r4.xlarge)": [
+            "0.5980000000"
+        ],
+        "US West (N. California) (Memory: 384, vCPU: 48, Network Performance: 12 Gigabit, Instance Type: r5.12xlarge)": [
+            "6.8150000000"
+        ],
+        "US West (N. California) (Memory: 512, vCPU: 64, Network Performance: 20 Gigabit, Instance Type: r5.16xlarge)": [
+            "9.0670000000"
+        ],
+        "US West (N. California) (Memory: 768, vCPU: 96, Network Performance: 25 Gigabit, Instance Type: r5.24xlarge)": [
+            "13.6290000000"
+        ],
+        "US West (N. California) (Memory: 64, vCPU: 8, Network Performance: High, Instance Type: r5.2xlarge)": [
+            "1.1340000000"
+        ],
+        "US West (N. California) (Memory: 128, vCPU: 16, Network Performance: High, Instance Type: r5.4xlarge)": [
+            "2.2670000000"
+        ],
+        "US West (N. California) (Memory: 256, vCPU: 32, Network Performance: 10 Gigabit, Instance Type: r5.8xlarge)": [
+            "4.5340000000"
+        ],
+        "US West (N. California) (Memory: 16, vCPU: 2, Network Performance: Moderate, Instance Type: r5.large)": [
+            "0.2840000000"
+        ],
+        "US West (N. California) (Memory: 32, vCPU: 4, Network Performance: Moderate, Instance Type: r5.xlarge)": [
+            "0.5660000000"
+        ],
+        "US West (N. California) (Memory: 4, vCPU: 2, Network Performance: Low to Moderate, Instance Type: t2.medium)": [
+            "0.1040000000"
+        ],
+        "US West (N. California) (Memory: 2, vCPU: 1, Network Performance: Low to Moderate, Instance Type: t2.small)": [
+            "0.0520000000"
+        ],
+        "US West (N. California) (Memory: 4, vCPU: 2, Network Performance: Low to Moderate, Instance Type: t3.medium)": [
+            "0.1040000000"
+        ],
+        "US West (N. California) (Memory: 2, vCPU: 2, Network Performance: Low to Moderate, Instance Type: t3.small)": [
+            "0.0520000000"
+        ],
+        "US East (Ohio) (Memory: 488, vCPU: 64, Network Performance: 20 Gigabit, Instance Type: r4.16xlarge)": [
+            "8.5900000000"
+        ],
+        "US East (Ohio) (Memory: 61, vCPU: 8, Network Performance: High, Instance Type: r4.2xlarge)": [
+            "1.0740000000"
+        ],
+        "US East (Ohio) (Memory: 122, vCPU: 16, Network Performance: High, Instance Type: r4.4xlarge)": [
+            "2.1480000000"
+        ],
+        "US East (Ohio) (Memory: 244, vCPU: 32, Network Performance: 10 Gigabit, Instance Type: r4.8xlarge)": [
+            "4.2950000000"
+        ],
+        "US East (Ohio) (Memory: 15.25, vCPU: 2, Network Performance: Moderate, Instance Type: r4.large)": [
+            "0.3400000000"
+        ],
+        "US East (Ohio) (Memory: 30.5, vCPU: 4, Network Performance: Moderate, Instance Type: r4.xlarge)": [
+            "0.5370000000"
+        ],
+        "US East (Ohio) (Memory: 384, vCPU: 48, Network Performance: 12 Gigabit, Instance Type: r5.12xlarge)": [
+            "6.1170000000"
+        ],
+        "US East (Ohio) (Memory: 512, vCPU: 64, Network Performance: 20 Gigabit, Instance Type: r5.16xlarge)": [
+            "8.1370000000"
+        ],
+        "US East (Ohio) (Memory: 768, vCPU: 96, Network Performance: 25 Gigabit, Instance Type: r5.24xlarge)": [
             "12.2340000000"
         ],
-        "US East (N. Virginia)": [
-            "4.2950000000",
-            "0.5370000000",
-            "4.0690000000",
-            "0.0400000000",
-            "8.5900000000",
-            "8.1370000000",
-            "0.0800000000",
-            "2.1480000000",
-            "1.0170000000",
-            "6.1170000000",
-            "0.2550000000",
-            "0.5090000000",
-            "1.0740000000",
-            "2.0340000000",
-            "0.2690000000",
+        "US East (Ohio) (Memory: 64, vCPU: 8, Network Performance: High, Instance Type: r5.2xlarge)": [
+            "1.0170000000"
+        ],
+        "US East (Ohio) (Memory: 128, vCPU: 16, Network Performance: High, Instance Type: r5.4xlarge)": [
+            "2.0340000000"
+        ],
+        "US East (Ohio) (Memory: 256, vCPU: 32, Network Performance: 10 Gigabit, Instance Type: r5.8xlarge)": [
+            "4.0690000000"
+        ],
+        "US East (Ohio) (Memory: 16, vCPU: 2, Network Performance: Moderate, Instance Type: r5.large)": [
+            "0.2550000000"
+        ],
+        "US East (Ohio) (Memory: 32, vCPU: 4, Network Performance: Moderate, Instance Type: r5.xlarge)": [
+            "0.5090000000"
+        ],
+        "US East (Ohio) (Memory: 4, vCPU: 2, Network Performance: Low to Moderate, Instance Type: t2.medium)": [
+            "0.0800000000"
+        ],
+        "US East (Ohio) (Memory: 2, vCPU: 1, Network Performance: Low to Moderate, Instance Type: t2.small)": [
+            "0.0400000000"
+        ],
+        "US East (Ohio) (Memory: 4, vCPU: 2, Network Performance: Low to Moderate, Instance Type: t3.medium)": [
+            "0.0800000000"
+        ],
+        "US East (Ohio) (Memory: 2, vCPU: 2, Network Performance: Low to Moderate, Instance Type: t3.small)": [
+            "0.0400000000"
+        ],
+        "US East (N. Virginia) (Memory: 61, vCPU: 8, Network Performance: High, Instance Type: r3.2xlarge)": [
+            "1.0740000000"
+        ],
+        "US East (N. Virginia) (Memory: 122, vCPU: 16, Network Performance: High, Instance Type: r3.4xlarge)": [
+            "2.1480000000"
+        ],
+        "US East (N. Virginia) (Memory: 244, vCPU: 32, Network Performance: 10 Gigabit, Instance Type: r3.8xlarge)": [
+            "4.2950000000"
+        ],
+        "US East (N. Virginia) (Memory: 15.25, vCPU: 2, Network Performance: Moderate, Instance Type: r3.large)": [
+            "0.2690000000"
+        ],
+        "US East (N. Virginia) (Memory: 30.5, vCPU: 4, Network Performance: Moderate, Instance Type: r3.xlarge)": [
+            "0.5370000000"
+        ],
+        "US East (N. Virginia) (Memory: 488, vCPU: 64, Network Performance: 20 Gigabit, Instance Type: r4.16xlarge)": [
+            "8.5900000000"
+        ],
+        "US East (N. Virginia) (Memory: 61, vCPU: 8, Network Performance: High, Instance Type: r4.2xlarge)": [
+            "1.0740000000"
+        ],
+        "US East (N. Virginia) (Memory: 122, vCPU: 16, Network Performance: High, Instance Type: r4.4xlarge)": [
+            "2.1480000000"
+        ],
+        "US East (N. Virginia) (Memory: 244, vCPU: 32, Network Performance: 10 Gigabit, Instance Type: r4.8xlarge)": [
+            "4.2950000000"
+        ],
+        "US East (N. Virginia) (Memory: 15.25, vCPU: 2, Network Performance: Moderate, Instance Type: r4.large)": [
+            "0.2690000000"
+        ],
+        "US East (N. Virginia) (Memory: 30.5, vCPU: 4, Network Performance: Moderate, Instance Type: r4.xlarge)": [
+            "0.5370000000"
+        ],
+        "US East (N. Virginia) (Memory: 384, vCPU: 48, Network Performance: 12 Gigabit, Instance Type: r5.12xlarge)": [
+            "6.1170000000"
+        ],
+        "US East (N. Virginia) (Memory: 512, vCPU: 64, Network Performance: 20 Gigabit, Instance Type: r5.16xlarge)": [
+            "8.1370000000"
+        ],
+        "US East (N. Virginia) (Memory: 768, vCPU: 96, Network Performance: 25 Gigabit, Instance Type: r5.24xlarge)": [
             "12.2340000000"
         ],
-        "South America (Sao Paulo)": [
-            "7.6660000000",
-            "4.2940000000",
-            "0.5370000000",
-            "2.1460000000",
-            "2.0390000000",
-            "17.1710000000",
-            "8.5860000000",
-            "0.1650000000",
-            "4.0780000000",
-            "0.0830000000",
-            "1.0200000000",
-            "15.3310000000",
-            "1.0740000000",
-            "0.5100000000",
-            "24.4680000000",
+        "US East (N. Virginia) (Memory: 64, vCPU: 8, Network Performance: High, Instance Type: r5.2xlarge)": [
+            "1.0170000000"
+        ],
+        "US East (N. Virginia) (Memory: 128, vCPU: 16, Network Performance: High, Instance Type: r5.4xlarge)": [
+            "2.0340000000"
+        ],
+        "US East (N. Virginia) (Memory: 256, vCPU: 32, Network Performance: 10 Gigabit, Instance Type: r5.8xlarge)": [
+            "4.0690000000"
+        ],
+        "US East (N. Virginia) (Memory: 16, vCPU: 2, Network Performance: Moderate, Instance Type: r5.large)": [
+            "0.2550000000"
+        ],
+        "US East (N. Virginia) (Memory: 32, vCPU: 4, Network Performance: Moderate, Instance Type: r5.xlarge)": [
+            "0.5090000000"
+        ],
+        "US East (N. Virginia) (Memory: 4, vCPU: 2, Network Performance: Low to Moderate, Instance Type: t2.medium)": [
+            "0.0800000000"
+        ],
+        "US East (N. Virginia) (Memory: 2, vCPU: 1, Network Performance: Low to Moderate, Instance Type: t2.small)": [
+            "0.0400000000"
+        ],
+        "US East (N. Virginia) (Memory: 4, vCPU: 2, Network Performance: Low to Moderate, Instance Type: t3.medium)": [
+            "0.0800000000"
+        ],
+        "US East (N. Virginia) (Memory: 2, vCPU: 2, Network Performance: Low to Moderate, Instance Type: t3.small)": [
+            "0.0400000000"
+        ],
+        "South America (Sao Paulo) (Memory: 488, vCPU: 64, Network Performance: 20 Gigabit, Instance Type: r4.16xlarge)": [
+            "17.1710000000"
+        ],
+        "South America (Sao Paulo) (Memory: 61, vCPU: 8, Network Performance: High, Instance Type: r4.2xlarge)": [
+            "2.1460000000"
+        ],
+        "South America (Sao Paulo) (Memory: 122, vCPU: 16, Network Performance: High, Instance Type: r4.4xlarge)": [
+            "4.2940000000"
+        ],
+        "South America (Sao Paulo) (Memory: 244, vCPU: 32, Network Performance: 10 Gigabit, Instance Type: r4.8xlarge)": [
+            "8.5860000000"
+        ],
+        "South America (Sao Paulo) (Memory: 15.25, vCPU: 2, Network Performance: Moderate, Instance Type: r4.large)": [
+            "0.5370000000"
+        ],
+        "South America (Sao Paulo) (Memory: 30.5, vCPU: 4, Network Performance: Moderate, Instance Type: r4.xlarge)": [
+            "1.0740000000"
+        ],
+        "South America (Sao Paulo) (Memory: 384, vCPU: 48, Network Performance: 12 Gigabit, Instance Type: r5.12xlarge)": [
             "12.2340000000"
         ],
-        "EU (Stockholm)": [
-            "2.1536500000",
-            "4.3073000000",
-            "0.0399000000",
-            "8.6136500000",
-            "6.4742500000",
-            "12.9475500000",
-            "0.2698000000",
-            "0.5377000000",
-            "1.0773000000",
+        "South America (Sao Paulo) (Memory: 512, vCPU: 64, Network Performance: 20 Gigabit, Instance Type: r5.16xlarge)": [
+            "15.3310000000"
+        ],
+        "South America (Sao Paulo) (Memory: 768, vCPU: 96, Network Performance: 25 Gigabit, Instance Type: r5.24xlarge)": [
+            "24.4680000000"
+        ],
+        "South America (Sao Paulo) (Memory: 64, vCPU: 8, Network Performance: High, Instance Type: r5.2xlarge)": [
+            "2.0390000000"
+        ],
+        "South America (Sao Paulo) (Memory: 128, vCPU: 16, Network Performance: High, Instance Type: r5.4xlarge)": [
+            "4.0780000000"
+        ],
+        "South America (Sao Paulo) (Memory: 256, vCPU: 32, Network Performance: 10 Gigabit, Instance Type: r5.8xlarge)": [
+            "7.6660000000"
+        ],
+        "South America (Sao Paulo) (Memory: 16, vCPU: 2, Network Performance: Moderate, Instance Type: r5.large)": [
+            "0.5100000000"
+        ],
+        "South America (Sao Paulo) (Memory: 32, vCPU: 4, Network Performance: Moderate, Instance Type: r5.xlarge)": [
+            "1.0200000000"
+        ],
+        "South America (Sao Paulo) (Memory: 4, vCPU: 2, Network Performance: Low to Moderate, Instance Type: t2.medium)": [
+            "0.1650000000"
+        ],
+        "South America (Sao Paulo) (Memory: 2, vCPU: 1, Network Performance: Low to Moderate, Instance Type: t2.small)": [
+            "0.0830000000"
+        ],
+        "South America (Sao Paulo) (Memory: 4, vCPU: 2, Network Performance: Low to Moderate, Instance Type: t3.medium)": [
+            "0.1650000000"
+        ],
+        "South America (Sao Paulo) (Memory: 2, vCPU: 2, Network Performance: Low to Moderate, Instance Type: t3.small)": [
+            "0.0830000000"
+        ],
+        "EU (Stockholm) (Memory: 384, vCPU: 48, Network Performance: 12 Gigabit, Instance Type: r5.12xlarge)": [
+            "6.4742500000"
+        ],
+        "EU (Stockholm) (Memory: 512, vCPU: 64, Network Performance: 20 Gigabit, Instance Type: r5.16xlarge)": [
+            "8.6136500000"
+        ],
+        "EU (Stockholm) (Memory: 768, vCPU: 96, Network Performance: 25 Gigabit, Instance Type: r5.24xlarge)": [
+            "12.9475500000"
+        ],
+        "EU (Stockholm) (Memory: 64, vCPU: 8, Network Performance: High, Instance Type: r5.2xlarge)": [
+            "1.0773000000"
+        ],
+        "EU (Stockholm) (Memory: 128, vCPU: 16, Network Performance: High, Instance Type: r5.4xlarge)": [
+            "2.1536500000"
+        ],
+        "EU (Stockholm) (Memory: 256, vCPU: 32, Network Performance: 10 Gigabit, Instance Type: r5.8xlarge)": [
+            "4.3073000000"
+        ],
+        "EU (Stockholm) (Memory: 16, vCPU: 2, Network Performance: Moderate, Instance Type: r5.large)": [
+            "0.2698000000"
+        ],
+        "EU (Stockholm) (Memory: 32, vCPU: 4, Network Performance: Moderate, Instance Type: r5.xlarge)": [
+            "0.5377000000"
+        ],
+        "EU (Stockholm) (Memory: 4, vCPU: 2, Network Performance: Low to Moderate, Instance Type: t3.medium)": [
             "0.0817000000"
         ],
-        "EU (Spain)": [
-            "0.2840000000",
-            "2.2670000000",
-            "9.0670000000",
-            "0.0860000000",
-            "1.1340000000",
-            "4.5340000000",
-            "6.8150000000",
-            "13.6290000000",
-            "0.5660000000",
+        "EU (Stockholm) (Memory: 2, vCPU: 2, Network Performance: Low to Moderate, Instance Type: t3.small)": [
+            "0.0399000000"
+        ],
+        "EU (Spain) (Memory: 384, vCPU: 48, Network Performance: 12 Gigabit, Instance Type: r5.12xlarge)": [
+            "6.8150000000"
+        ],
+        "EU (Spain) (Memory: 512, vCPU: 64, Network Performance: 20 Gigabit, Instance Type: r5.16xlarge)": [
+            "9.0670000000"
+        ],
+        "EU (Spain) (Memory: 768, vCPU: 96, Network Performance: 25 Gigabit, Instance Type: r5.24xlarge)": [
+            "13.6290000000"
+        ],
+        "EU (Spain) (Memory: 64, vCPU: 8, Network Performance: High, Instance Type: r5.2xlarge)": [
+            "1.1340000000"
+        ],
+        "EU (Spain) (Memory: 128, vCPU: 16, Network Performance: High, Instance Type: r5.4xlarge)": [
+            "2.2670000000"
+        ],
+        "EU (Spain) (Memory: 256, vCPU: 32, Network Performance: 10 Gigabit, Instance Type: r5.8xlarge)": [
+            "4.5340000000"
+        ],
+        "EU (Spain) (Memory: 16, vCPU: 2, Network Performance: Moderate, Instance Type: r5.large)": [
+            "0.2840000000"
+        ],
+        "EU (Spain) (Memory: 32, vCPU: 4, Network Performance: Moderate, Instance Type: r5.xlarge)": [
+            "0.5660000000"
+        ],
+        "EU (Spain) (Memory: 4, vCPU: 2, Network Performance: Low to Moderate, Instance Type: t3.medium)": [
+            "0.0860000000"
+        ],
+        "EU (Spain) (Memory: 2, vCPU: 2, Network Performance: Low to Moderate, Instance Type: t3.small)": [
             "0.0420000000"
         ],
-        "EU (Paris)": [
-            "5.0272144000",
-            "0.0903344000",
-            "0.6281392000",
-            "14.3260000000",
-            "1.1910000000",
-            "0.3151200000",
-            "0.2990000000",
-            "9.5200000000",
-            "7.1640000000",
-            "0.5950000000",
-            "4.7600000000",
-            "0.0900000000",
-            "0.0440000000",
-            "10.0544288000",
-            "1.2573288000",
-            "0.0441168000",
-            "2.5136072000",
+        "EU (Paris) (Memory: 488, vCPU: 64, Network Performance: 20 Gigabit, Instance Type: r4.16xlarge)": [
+            "10.0544288000"
+        ],
+        "EU (Paris) (Memory: 61, vCPU: 8, Network Performance: High, Instance Type: r4.2xlarge)": [
+            "1.2573288000"
+        ],
+        "EU (Paris) (Memory: 122, vCPU: 16, Network Performance: High, Instance Type: r4.4xlarge)": [
+            "2.5136072000"
+        ],
+        "EU (Paris) (Memory: 244, vCPU: 32, Network Performance: 10 Gigabit, Instance Type: r4.8xlarge)": [
+            "5.0272144000"
+        ],
+        "EU (Paris) (Memory: 15.25, vCPU: 2, Network Performance: Moderate, Instance Type: r4.large)": [
+            "0.3151200000"
+        ],
+        "EU (Paris) (Memory: 30.5, vCPU: 4, Network Performance: Moderate, Instance Type: r4.xlarge)": [
+            "0.6281392000"
+        ],
+        "EU (Paris) (Memory: 384, vCPU: 48, Network Performance: 12 Gigabit, Instance Type: r5.12xlarge)": [
+            "7.1640000000"
+        ],
+        "EU (Paris) (Memory: 512, vCPU: 64, Network Performance: 20 Gigabit, Instance Type: r5.16xlarge)": [
+            "9.5200000000"
+        ],
+        "EU (Paris) (Memory: 768, vCPU: 96, Network Performance: 25 Gigabit, Instance Type: r5.24xlarge)": [
+            "14.3260000000"
+        ],
+        "EU (Paris) (Memory: 64, vCPU: 8, Network Performance: High, Instance Type: r5.2xlarge)": [
+            "1.1910000000"
+        ],
+        "EU (Paris) (Memory: 128, vCPU: 16, Network Performance: High, Instance Type: r5.4xlarge)": [
             "2.3800000000"
         ],
-        "EU (London)": [
-            "5.0272144000",
-            "0.0903344000",
-            "0.6281392000",
-            "14.3260000000",
-            "1.1910000000",
-            "0.3151200000",
-            "0.2990000000",
-            "9.5200000000",
-            "7.1640000000",
-            "0.5950000000",
-            "4.7600000000",
-            "0.0900000000",
-            "0.0440000000",
-            "10.0544288000",
-            "1.2573288000",
-            "0.0441168000",
-            "2.5136072000",
+        "EU (Paris) (Memory: 256, vCPU: 32, Network Performance: 10 Gigabit, Instance Type: r5.8xlarge)": [
+            "4.7600000000"
+        ],
+        "EU (Paris) (Memory: 16, vCPU: 2, Network Performance: Moderate, Instance Type: r5.large)": [
+            "0.2990000000"
+        ],
+        "EU (Paris) (Memory: 32, vCPU: 4, Network Performance: Moderate, Instance Type: r5.xlarge)": [
+            "0.5950000000"
+        ],
+        "EU (Paris) (Memory: 4, vCPU: 2, Network Performance: Low to Moderate, Instance Type: t2.medium)": [
+            "0.0903344000"
+        ],
+        "EU (Paris) (Memory: 2, vCPU: 1, Network Performance: Low to Moderate, Instance Type: t2.small)": [
+            "0.0441168000"
+        ],
+        "EU (Paris) (Memory: 4, vCPU: 2, Network Performance: Low to Moderate, Instance Type: t3.medium)": [
+            "0.0900000000"
+        ],
+        "EU (Paris) (Memory: 2, vCPU: 2, Network Performance: Low to Moderate, Instance Type: t3.small)": [
+            "0.0440000000"
+        ],
+        "EU (London) (Memory: 488, vCPU: 64, Network Performance: 20 Gigabit, Instance Type: r4.16xlarge)": [
+            "10.0544288000"
+        ],
+        "EU (London) (Memory: 61, vCPU: 8, Network Performance: High, Instance Type: r4.2xlarge)": [
+            "1.2573288000"
+        ],
+        "EU (London) (Memory: 122, vCPU: 16, Network Performance: High, Instance Type: r4.4xlarge)": [
+            "2.5136072000"
+        ],
+        "EU (London) (Memory: 244, vCPU: 32, Network Performance: 10 Gigabit, Instance Type: r4.8xlarge)": [
+            "5.0272144000"
+        ],
+        "EU (London) (Memory: 15.25, vCPU: 2, Network Performance: Moderate, Instance Type: r4.large)": [
+            "0.3151200000"
+        ],
+        "EU (London) (Memory: 30.5, vCPU: 4, Network Performance: Moderate, Instance Type: r4.xlarge)": [
+            "0.6281392000"
+        ],
+        "EU (London) (Memory: 384, vCPU: 48, Network Performance: 12 Gigabit, Instance Type: r5.12xlarge)": [
+            "7.1640000000"
+        ],
+        "EU (London) (Memory: 512, vCPU: 64, Network Performance: 20 Gigabit, Instance Type: r5.16xlarge)": [
+            "9.5200000000"
+        ],
+        "EU (London) (Memory: 768, vCPU: 96, Network Performance: 25 Gigabit, Instance Type: r5.24xlarge)": [
+            "14.3260000000"
+        ],
+        "EU (London) (Memory: 64, vCPU: 8, Network Performance: High, Instance Type: r5.2xlarge)": [
+            "1.1910000000"
+        ],
+        "EU (London) (Memory: 128, vCPU: 16, Network Performance: High, Instance Type: r5.4xlarge)": [
             "2.3800000000"
         ],
-        "EU (Ireland)": [
-            "0.2840000000",
-            "0.5980000000",
-            "1.1970000000",
-            "9.0670000000",
-            "2.2670000000",
-            "0.0860000000",
-            "0.3000000000",
-            "1.1340000000",
-            "4.5340000000",
-            "4.7860000000",
-            "6.8150000000",
-            "13.6290000000",
-            "0.5660000000",
-            "2.3930000000",
-            "0.0420000000",
+        "EU (London) (Memory: 256, vCPU: 32, Network Performance: 10 Gigabit, Instance Type: r5.8xlarge)": [
+            "4.7600000000"
+        ],
+        "EU (London) (Memory: 16, vCPU: 2, Network Performance: Moderate, Instance Type: r5.large)": [
+            "0.2990000000"
+        ],
+        "EU (London) (Memory: 32, vCPU: 4, Network Performance: Moderate, Instance Type: r5.xlarge)": [
+            "0.5950000000"
+        ],
+        "EU (London) (Memory: 4, vCPU: 2, Network Performance: Low to Moderate, Instance Type: t2.medium)": [
+            "0.0903344000"
+        ],
+        "EU (London) (Memory: 2, vCPU: 1, Network Performance: Low to Moderate, Instance Type: t2.small)": [
+            "0.0441168000"
+        ],
+        "EU (London) (Memory: 4, vCPU: 2, Network Performance: Low to Moderate, Instance Type: t3.medium)": [
+            "0.0900000000"
+        ],
+        "EU (London) (Memory: 2, vCPU: 2, Network Performance: Low to Moderate, Instance Type: t3.small)": [
+            "0.0440000000"
+        ],
+        "EU (Ireland) (Memory: 61, vCPU: 8, Network Performance: High, Instance Type: r3.2xlarge)": [
+            "1.1970000000"
+        ],
+        "EU (Ireland) (Memory: 122, vCPU: 16, Network Performance: High, Instance Type: r3.4xlarge)": [
+            "2.3930000000"
+        ],
+        "EU (Ireland) (Memory: 244, vCPU: 32, Network Performance: 10 Gigabit, Instance Type: r3.8xlarge)": [
+            "4.7860000000"
+        ],
+        "EU (Ireland) (Memory: 15.25, vCPU: 2, Network Performance: Moderate, Instance Type: r3.large)": [
+            "0.3000000000"
+        ],
+        "EU (Ireland) (Memory: 30.5, vCPU: 4, Network Performance: Moderate, Instance Type: r3.xlarge)": [
+            "0.5980000000"
+        ],
+        "EU (Ireland) (Memory: 488, vCPU: 64, Network Performance: 20 Gigabit, Instance Type: r4.16xlarge)": [
             "9.5720000000"
         ],
-        "EU (Frankfurt)": [
-            "2.5840000000",
-            "0.0920000000",
-            "14.7030000000",
-            "1.2240000000",
-            "0.3230000000",
-            "0.6450000000",
-            "0.3070000000",
-            "5.1680000000",
-            "0.6110000000",
-            "0.0450000000",
-            "9.7940000000",
-            "4.8970000000",
-            "7.3510000000",
-            "2.4490000000",
-            "1.2920000000",
+        "EU (Ireland) (Memory: 61, vCPU: 8, Network Performance: High, Instance Type: r4.2xlarge)": [
+            "1.1970000000"
+        ],
+        "EU (Ireland) (Memory: 122, vCPU: 16, Network Performance: High, Instance Type: r4.4xlarge)": [
+            "2.3930000000"
+        ],
+        "EU (Ireland) (Memory: 244, vCPU: 32, Network Performance: 10 Gigabit, Instance Type: r4.8xlarge)": [
+            "4.7860000000"
+        ],
+        "EU (Ireland) (Memory: 15.25, vCPU: 2, Network Performance: Moderate, Instance Type: r4.large)": [
+            "0.3000000000"
+        ],
+        "EU (Ireland) (Memory: 30.5, vCPU: 4, Network Performance: Moderate, Instance Type: r4.xlarge)": [
+            "0.5980000000"
+        ],
+        "EU (Ireland) (Memory: 384, vCPU: 48, Network Performance: 12 Gigabit, Instance Type: r5.12xlarge)": [
+            "6.8150000000"
+        ],
+        "EU (Ireland) (Memory: 512, vCPU: 64, Network Performance: 20 Gigabit, Instance Type: r5.16xlarge)": [
+            "9.0670000000"
+        ],
+        "EU (Ireland) (Memory: 768, vCPU: 96, Network Performance: 25 Gigabit, Instance Type: r5.24xlarge)": [
+            "13.6290000000"
+        ],
+        "EU (Ireland) (Memory: 64, vCPU: 8, Network Performance: High, Instance Type: r5.2xlarge)": [
+            "1.1340000000"
+        ],
+        "EU (Ireland) (Memory: 128, vCPU: 16, Network Performance: High, Instance Type: r5.4xlarge)": [
+            "2.2670000000"
+        ],
+        "EU (Ireland) (Memory: 256, vCPU: 32, Network Performance: 10 Gigabit, Instance Type: r5.8xlarge)": [
+            "4.5340000000"
+        ],
+        "EU (Ireland) (Memory: 16, vCPU: 2, Network Performance: Moderate, Instance Type: r5.large)": [
+            "0.2840000000"
+        ],
+        "EU (Ireland) (Memory: 32, vCPU: 4, Network Performance: Moderate, Instance Type: r5.xlarge)": [
+            "0.5660000000"
+        ],
+        "EU (Ireland) (Memory: 4, vCPU: 2, Network Performance: Low to Moderate, Instance Type: t2.medium)": [
+            "0.0860000000"
+        ],
+        "EU (Ireland) (Memory: 2, vCPU: 1, Network Performance: Low to Moderate, Instance Type: t2.small)": [
+            "0.0420000000"
+        ],
+        "EU (Ireland) (Memory: 4, vCPU: 2, Network Performance: Low to Moderate, Instance Type: t3.medium)": [
+            "0.0860000000"
+        ],
+        "EU (Ireland) (Memory: 2, vCPU: 2, Network Performance: Low to Moderate, Instance Type: t3.small)": [
+            "0.0420000000"
+        ],
+        "EU (Frankfurt) (Memory: 488, vCPU: 64, Network Performance: 20 Gigabit, Instance Type: r4.16xlarge)": [
             "10.3370000000"
         ],
-        "Asia Pacific (Tokyo)": [
-            "9.7660000000",
-            "0.6440000000",
-            "0.3220000000",
-            "1.2210000000",
-            "0.6100000000",
-            "7.3240000000",
-            "2.4410000000",
-            "5.1540000000",
-            "0.1230000000",
-            "0.0610000000",
-            "1.2890000000",
-            "14.6490000000",
-            "0.3060000000",
-            "2.5770000000",
-            "10.3080000000",
+        "EU (Frankfurt) (Memory: 61, vCPU: 8, Network Performance: High, Instance Type: r4.2xlarge)": [
+            "1.2920000000"
+        ],
+        "EU (Frankfurt) (Memory: 122, vCPU: 16, Network Performance: High, Instance Type: r4.4xlarge)": [
+            "2.5840000000"
+        ],
+        "EU (Frankfurt) (Memory: 244, vCPU: 32, Network Performance: 10 Gigabit, Instance Type: r4.8xlarge)": [
+            "5.1680000000"
+        ],
+        "EU (Frankfurt) (Memory: 15.25, vCPU: 2, Network Performance: Moderate, Instance Type: r4.large)": [
+            "0.3230000000"
+        ],
+        "EU (Frankfurt) (Memory: 30.5, vCPU: 4, Network Performance: Moderate, Instance Type: r4.xlarge)": [
+            "0.6450000000"
+        ],
+        "EU (Frankfurt) (Memory: 384, vCPU: 48, Network Performance: 12 Gigabit, Instance Type: r5.12xlarge)": [
+            "7.3510000000"
+        ],
+        "EU (Frankfurt) (Memory: 512, vCPU: 64, Network Performance: 20 Gigabit, Instance Type: r5.16xlarge)": [
+            "9.7940000000"
+        ],
+        "EU (Frankfurt) (Memory: 768, vCPU: 96, Network Performance: 25 Gigabit, Instance Type: r5.24xlarge)": [
+            "14.7030000000"
+        ],
+        "EU (Frankfurt) (Memory: 64, vCPU: 8, Network Performance: High, Instance Type: r5.2xlarge)": [
+            "1.2240000000"
+        ],
+        "EU (Frankfurt) (Memory: 128, vCPU: 16, Network Performance: High, Instance Type: r5.4xlarge)": [
+            "2.4490000000"
+        ],
+        "EU (Frankfurt) (Memory: 256, vCPU: 32, Network Performance: 10 Gigabit, Instance Type: r5.8xlarge)": [
+            "4.8970000000"
+        ],
+        "EU (Frankfurt) (Memory: 16, vCPU: 2, Network Performance: Moderate, Instance Type: r5.large)": [
+            "0.3070000000"
+        ],
+        "EU (Frankfurt) (Memory: 32, vCPU: 4, Network Performance: Moderate, Instance Type: r5.xlarge)": [
+            "0.6110000000"
+        ],
+        "EU (Frankfurt) (Memory: 4, vCPU: 2, Network Performance: Low to Moderate, Instance Type: t2.medium)": [
+            "0.0920000000"
+        ],
+        "EU (Frankfurt) (Memory: 2, vCPU: 1, Network Performance: Low to Moderate, Instance Type: t2.small)": [
+            "0.0450000000"
+        ],
+        "EU (Frankfurt) (Memory: 4, vCPU: 2, Network Performance: Low to Moderate, Instance Type: t3.medium)": [
+            "0.0920000000"
+        ],
+        "EU (Frankfurt) (Memory: 2, vCPU: 2, Network Performance: Low to Moderate, Instance Type: t3.small)": [
+            "0.0450000000"
+        ],
+        "Asia Pacific (Tokyo) (Memory: 61, vCPU: 8, Network Performance: High, Instance Type: r3.2xlarge)": [
+            "1.2890000000"
+        ],
+        "Asia Pacific (Tokyo) (Memory: 122, vCPU: 16, Network Performance: High, Instance Type: r3.4xlarge)": [
+            "2.5770000000"
+        ],
+        "Asia Pacific (Tokyo) (Memory: 244, vCPU: 32, Network Performance: 10 Gigabit, Instance Type: r3.8xlarge)": [
+            "5.1540000000"
+        ],
+        "Asia Pacific (Tokyo) (Memory: 15.25, vCPU: 2, Network Performance: Moderate, Instance Type: r3.large)": [
+            "0.3220000000"
+        ],
+        "Asia Pacific (Tokyo) (Memory: 30.5, vCPU: 4, Network Performance: Moderate, Instance Type: r3.xlarge)": [
+            "0.6440000000"
+        ],
+        "Asia Pacific (Tokyo) (Memory: 488, vCPU: 64, Network Performance: 20 Gigabit, Instance Type: r4.16xlarge)": [
+            "10.3080000000"
+        ],
+        "Asia Pacific (Tokyo) (Memory: 61, vCPU: 8, Network Performance: High, Instance Type: r4.2xlarge)": [
+            "1.2890000000"
+        ],
+        "Asia Pacific (Tokyo) (Memory: 122, vCPU: 16, Network Performance: High, Instance Type: r4.4xlarge)": [
+            "2.5770000000"
+        ],
+        "Asia Pacific (Tokyo) (Memory: 244, vCPU: 32, Network Performance: 10 Gigabit, Instance Type: r4.8xlarge)": [
+            "5.1540000000"
+        ],
+        "Asia Pacific (Tokyo) (Memory: 15.25, vCPU: 2, Network Performance: Moderate, Instance Type: r4.large)": [
+            "0.3220000000"
+        ],
+        "Asia Pacific (Tokyo) (Memory: 30.5, vCPU: 4, Network Performance: Moderate, Instance Type: r4.xlarge)": [
+            "0.6440000000"
+        ],
+        "Asia Pacific (Tokyo) (Memory: 384, vCPU: 48, Network Performance: 12 Gigabit, Instance Type: r5.12xlarge)": [
+            "7.3240000000"
+        ],
+        "Asia Pacific (Tokyo) (Memory: 512, vCPU: 64, Network Performance: 20 Gigabit, Instance Type: r5.16xlarge)": [
+            "9.7660000000"
+        ],
+        "Asia Pacific (Tokyo) (Memory: 768, vCPU: 96, Network Performance: 25 Gigabit, Instance Type: r5.24xlarge)": [
+            "14.6490000000"
+        ],
+        "Asia Pacific (Tokyo) (Memory: 64, vCPU: 8, Network Performance: High, Instance Type: r5.2xlarge)": [
+            "1.2210000000"
+        ],
+        "Asia Pacific (Tokyo) (Memory: 128, vCPU: 16, Network Performance: High, Instance Type: r5.4xlarge)": [
+            "2.4410000000"
+        ],
+        "Asia Pacific (Tokyo) (Memory: 256, vCPU: 32, Network Performance: 10 Gigabit, Instance Type: r5.8xlarge)": [
             "4.8830000000"
         ],
-        "Asia Pacific (Sydney)": [
-            "9.7660000000",
-            "0.6440000000",
-            "0.3220000000",
-            "1.2210000000",
-            "0.6100000000",
-            "7.3240000000",
-            "2.4410000000",
-            "5.1540000000",
-            "0.1230000000",
-            "0.0610000000",
-            "1.2890000000",
-            "14.6490000000",
-            "0.3060000000",
-            "2.5770000000",
-            "10.3080000000",
+        "Asia Pacific (Tokyo) (Memory: 16, vCPU: 2, Network Performance: Moderate, Instance Type: r5.large)": [
+            "0.3060000000"
+        ],
+        "Asia Pacific (Tokyo) (Memory: 32, vCPU: 4, Network Performance: Moderate, Instance Type: r5.xlarge)": [
+            "0.6100000000"
+        ],
+        "Asia Pacific (Tokyo) (Memory: 4, vCPU: 2, Network Performance: Low to Moderate, Instance Type: t2.medium)": [
+            "0.1230000000"
+        ],
+        "Asia Pacific (Tokyo) (Memory: 2, vCPU: 1, Network Performance: Low to Moderate, Instance Type: t2.small)": [
+            "0.0610000000"
+        ],
+        "Asia Pacific (Tokyo) (Memory: 4, vCPU: 2, Network Performance: Low to Moderate, Instance Type: t3.medium)": [
+            "0.1230000000"
+        ],
+        "Asia Pacific (Tokyo) (Memory: 2, vCPU: 2, Network Performance: Low to Moderate, Instance Type: t3.small)": [
+            "0.0610000000"
+        ],
+        "Asia Pacific (Sydney) (Memory: 61, vCPU: 8, Network Performance: High, Instance Type: r3.2xlarge)": [
+            "1.2890000000"
+        ],
+        "Asia Pacific (Sydney) (Memory: 122, vCPU: 16, Network Performance: High, Instance Type: r3.4xlarge)": [
+            "2.5770000000"
+        ],
+        "Asia Pacific (Sydney) (Memory: 244, vCPU: 32, Network Performance: 10 Gigabit, Instance Type: r3.8xlarge)": [
+            "5.1540000000"
+        ],
+        "Asia Pacific (Sydney) (Memory: 15.25, vCPU: 2, Network Performance: Moderate, Instance Type: r3.large)": [
+            "0.3220000000"
+        ],
+        "Asia Pacific (Sydney) (Memory: 30.5, vCPU: 4, Network Performance: Moderate, Instance Type: r3.xlarge)": [
+            "0.6440000000"
+        ],
+        "Asia Pacific (Sydney) (Memory: 488, vCPU: 64, Network Performance: 20 Gigabit, Instance Type: r4.16xlarge)": [
+            "10.3080000000"
+        ],
+        "Asia Pacific (Sydney) (Memory: 61, vCPU: 8, Network Performance: High, Instance Type: r4.2xlarge)": [
+            "1.2890000000"
+        ],
+        "Asia Pacific (Sydney) (Memory: 122, vCPU: 16, Network Performance: High, Instance Type: r4.4xlarge)": [
+            "2.5770000000"
+        ],
+        "Asia Pacific (Sydney) (Memory: 244, vCPU: 32, Network Performance: 10 Gigabit, Instance Type: r4.8xlarge)": [
+            "5.1540000000"
+        ],
+        "Asia Pacific (Sydney) (Memory: 15.25, vCPU: 2, Network Performance: Moderate, Instance Type: r4.large)": [
+            "0.3220000000"
+        ],
+        "Asia Pacific (Sydney) (Memory: 30.5, vCPU: 4, Network Performance: Moderate, Instance Type: r4.xlarge)": [
+            "0.6440000000"
+        ],
+        "Asia Pacific (Sydney) (Memory: 384, vCPU: 48, Network Performance: 12 Gigabit, Instance Type: r5.12xlarge)": [
+            "7.3240000000"
+        ],
+        "Asia Pacific (Sydney) (Memory: 512, vCPU: 64, Network Performance: 20 Gigabit, Instance Type: r5.16xlarge)": [
+            "9.7660000000"
+        ],
+        "Asia Pacific (Sydney) (Memory: 768, vCPU: 96, Network Performance: 25 Gigabit, Instance Type: r5.24xlarge)": [
+            "14.6490000000"
+        ],
+        "Asia Pacific (Sydney) (Memory: 64, vCPU: 8, Network Performance: High, Instance Type: r5.2xlarge)": [
+            "1.2210000000"
+        ],
+        "Asia Pacific (Sydney) (Memory: 128, vCPU: 16, Network Performance: High, Instance Type: r5.4xlarge)": [
+            "2.4410000000"
+        ],
+        "Asia Pacific (Sydney) (Memory: 256, vCPU: 32, Network Performance: 10 Gigabit, Instance Type: r5.8xlarge)": [
             "4.8830000000"
         ],
-        "Asia Pacific (Singapore)": [
-            "9.7660000000",
-            "0.6440000000",
-            "0.3220000000",
-            "1.2210000000",
-            "0.6100000000",
-            "7.3240000000",
-            "2.4410000000",
-            "5.1540000000",
-            "0.1230000000",
-            "0.0610000000",
-            "1.2890000000",
-            "14.6490000000",
-            "0.3060000000",
-            "2.5770000000",
-            "10.3080000000",
+        "Asia Pacific (Sydney) (Memory: 16, vCPU: 2, Network Performance: Moderate, Instance Type: r5.large)": [
+            "0.3060000000"
+        ],
+        "Asia Pacific (Sydney) (Memory: 32, vCPU: 4, Network Performance: Moderate, Instance Type: r5.xlarge)": [
+            "0.6100000000"
+        ],
+        "Asia Pacific (Sydney) (Memory: 4, vCPU: 2, Network Performance: Low to Moderate, Instance Type: t2.medium)": [
+            "0.1230000000"
+        ],
+        "Asia Pacific (Sydney) (Memory: 2, vCPU: 1, Network Performance: Low to Moderate, Instance Type: t2.small)": [
+            "0.0610000000"
+        ],
+        "Asia Pacific (Sydney) (Memory: 4, vCPU: 2, Network Performance: Low to Moderate, Instance Type: t3.medium)": [
+            "0.1230000000"
+        ],
+        "Asia Pacific (Sydney) (Memory: 2, vCPU: 2, Network Performance: Low to Moderate, Instance Type: t3.small)": [
+            "0.0610000000"
+        ],
+        "Asia Pacific (Singapore) (Memory: 61, vCPU: 8, Network Performance: High, Instance Type: r3.2xlarge)": [
+            "1.2890000000"
+        ],
+        "Asia Pacific (Singapore) (Memory: 122, vCPU: 16, Network Performance: High, Instance Type: r3.4xlarge)": [
+            "2.5770000000"
+        ],
+        "Asia Pacific (Singapore) (Memory: 244, vCPU: 32, Network Performance: 10 Gigabit, Instance Type: r3.8xlarge)": [
+            "5.1540000000"
+        ],
+        "Asia Pacific (Singapore) (Memory: 15.25, vCPU: 2, Network Performance: Moderate, Instance Type: r3.large)": [
+            "0.3220000000"
+        ],
+        "Asia Pacific (Singapore) (Memory: 30.5, vCPU: 4, Network Performance: Moderate, Instance Type: r3.xlarge)": [
+            "0.6440000000"
+        ],
+        "Asia Pacific (Singapore) (Memory: 488, vCPU: 64, Network Performance: 20 Gigabit, Instance Type: r4.16xlarge)": [
+            "10.3080000000"
+        ],
+        "Asia Pacific (Singapore) (Memory: 61, vCPU: 8, Network Performance: High, Instance Type: r4.2xlarge)": [
+            "1.2890000000"
+        ],
+        "Asia Pacific (Singapore) (Memory: 122, vCPU: 16, Network Performance: High, Instance Type: r4.4xlarge)": [
+            "2.5770000000"
+        ],
+        "Asia Pacific (Singapore) (Memory: 244, vCPU: 32, Network Performance: 10 Gigabit, Instance Type: r4.8xlarge)": [
+            "5.1540000000"
+        ],
+        "Asia Pacific (Singapore) (Memory: 15.25, vCPU: 2, Network Performance: Moderate, Instance Type: r4.large)": [
+            "0.3220000000"
+        ],
+        "Asia Pacific (Singapore) (Memory: 30.5, vCPU: 4, Network Performance: Moderate, Instance Type: r4.xlarge)": [
+            "0.6440000000"
+        ],
+        "Asia Pacific (Singapore) (Memory: 384, vCPU: 48, Network Performance: 12 Gigabit, Instance Type: r5.12xlarge)": [
+            "7.3240000000"
+        ],
+        "Asia Pacific (Singapore) (Memory: 512, vCPU: 64, Network Performance: 20 Gigabit, Instance Type: r5.16xlarge)": [
+            "9.7660000000"
+        ],
+        "Asia Pacific (Singapore) (Memory: 768, vCPU: 96, Network Performance: 25 Gigabit, Instance Type: r5.24xlarge)": [
+            "14.6490000000"
+        ],
+        "Asia Pacific (Singapore) (Memory: 64, vCPU: 8, Network Performance: High, Instance Type: r5.2xlarge)": [
+            "1.2210000000"
+        ],
+        "Asia Pacific (Singapore) (Memory: 128, vCPU: 16, Network Performance: High, Instance Type: r5.4xlarge)": [
+            "2.4410000000"
+        ],
+        "Asia Pacific (Singapore) (Memory: 256, vCPU: 32, Network Performance: 10 Gigabit, Instance Type: r5.8xlarge)": [
             "4.8830000000"
         ],
-        "Asia Pacific (Mumbai)": [
-            "2.3260000000",
-            "4.1960000000",
-            "0.2910000000",
-            "9.3030000000",
-            "12.5910000000",
-            "1.1620000000",
-            "0.1170000000",
-            "2.0980000000",
-            "0.5820000000",
-            "8.3920000000",
-            "1.0490000000",
-            "6.2950000000",
-            "0.2620000000",
-            "0.0570000000",
-            "4.6520000000",
+        "Asia Pacific (Singapore) (Memory: 16, vCPU: 2, Network Performance: Moderate, Instance Type: r5.large)": [
+            "0.3060000000"
+        ],
+        "Asia Pacific (Singapore) (Memory: 32, vCPU: 4, Network Performance: Moderate, Instance Type: r5.xlarge)": [
+            "0.6100000000"
+        ],
+        "Asia Pacific (Singapore) (Memory: 4, vCPU: 2, Network Performance: Low to Moderate, Instance Type: t2.medium)": [
+            "0.1230000000"
+        ],
+        "Asia Pacific (Singapore) (Memory: 2, vCPU: 1, Network Performance: Low to Moderate, Instance Type: t2.small)": [
+            "0.0610000000"
+        ],
+        "Asia Pacific (Singapore) (Memory: 4, vCPU: 2, Network Performance: Low to Moderate, Instance Type: t3.medium)": [
+            "0.1230000000"
+        ],
+        "Asia Pacific (Singapore) (Memory: 2, vCPU: 2, Network Performance: Low to Moderate, Instance Type: t3.small)": [
+            "0.0610000000"
+        ],
+        "Asia Pacific (Mumbai) (Memory: 61, vCPU: 8, Network Performance: High, Instance Type: r3.2xlarge)": [
+            "1.1620000000"
+        ],
+        "Asia Pacific (Mumbai) (Memory: 122, vCPU: 16, Network Performance: High, Instance Type: r3.4xlarge)": [
+            "2.3260000000"
+        ],
+        "Asia Pacific (Mumbai) (Memory: 244, vCPU: 32, Network Performance: 10 Gigabit, Instance Type: r3.8xlarge)": [
+            "4.6520000000"
+        ],
+        "Asia Pacific (Mumbai) (Memory: 15.25, vCPU: 2, Network Performance: Moderate, Instance Type: r3.large)": [
+            "0.2910000000"
+        ],
+        "Asia Pacific (Mumbai) (Memory: 30.5, vCPU: 4, Network Performance: Moderate, Instance Type: r3.xlarge)": [
+            "0.5820000000"
+        ],
+        "Asia Pacific (Mumbai) (Memory: 488, vCPU: 64, Network Performance: 20 Gigabit, Instance Type: r4.16xlarge)": [
+            "9.3030000000"
+        ],
+        "Asia Pacific (Mumbai) (Memory: 61, vCPU: 8, Network Performance: High, Instance Type: r4.2xlarge)": [
+            "1.1620000000"
+        ],
+        "Asia Pacific (Mumbai) (Memory: 122, vCPU: 16, Network Performance: High, Instance Type: r4.4xlarge)": [
+            "2.3260000000"
+        ],
+        "Asia Pacific (Mumbai) (Memory: 244, vCPU: 32, Network Performance: 10 Gigabit, Instance Type: r4.8xlarge)": [
+            "4.6520000000"
+        ],
+        "Asia Pacific (Mumbai) (Memory: 15.25, vCPU: 2, Network Performance: Moderate, Instance Type: r4.large)": [
+            "0.2910000000"
+        ],
+        "Asia Pacific (Mumbai) (Memory: 30.5, vCPU: 4, Network Performance: Moderate, Instance Type: r4.xlarge)": [
+            "0.5820000000"
+        ],
+        "Asia Pacific (Mumbai) (Memory: 384, vCPU: 48, Network Performance: 12 Gigabit, Instance Type: r5.12xlarge)": [
+            "6.2950000000"
+        ],
+        "Asia Pacific (Mumbai) (Memory: 512, vCPU: 64, Network Performance: 20 Gigabit, Instance Type: r5.16xlarge)": [
+            "8.3920000000"
+        ],
+        "Asia Pacific (Mumbai) (Memory: 768, vCPU: 96, Network Performance: 25 Gigabit, Instance Type: r5.24xlarge)": [
+            "12.5910000000"
+        ],
+        "Asia Pacific (Mumbai) (Memory: 64, vCPU: 8, Network Performance: High, Instance Type: r5.2xlarge)": [
+            "1.0490000000"
+        ],
+        "Asia Pacific (Mumbai) (Memory: 128, vCPU: 16, Network Performance: High, Instance Type: r5.4xlarge)": [
+            "2.0980000000"
+        ],
+        "Asia Pacific (Mumbai) (Memory: 256, vCPU: 32, Network Performance: 10 Gigabit, Instance Type: r5.8xlarge)": [
+            "4.1960000000"
+        ],
+        "Asia Pacific (Mumbai) (Memory: 16, vCPU: 2, Network Performance: Moderate, Instance Type: r5.large)": [
+            "0.2620000000"
+        ],
+        "Asia Pacific (Mumbai) (Memory: 32, vCPU: 4, Network Performance: Moderate, Instance Type: r5.xlarge)": [
             "0.5250000000"
+        ],
+        "Asia Pacific (Mumbai) (Memory: 4, vCPU: 2, Network Performance: Low to Moderate, Instance Type: t2.medium)": [
+            "0.1170000000"
+        ],
+        "Asia Pacific (Mumbai) (Memory: 2, vCPU: 1, Network Performance: Low to Moderate, Instance Type: t2.small)": [
+            "0.0570000000"
+        ],
+        "Asia Pacific (Mumbai) (Memory: 4, vCPU: 2, Network Performance: Low to Moderate, Instance Type: t3.medium)": [
+            "0.1170000000"
+        ],
+        "Asia Pacific (Mumbai) (Memory: 2, vCPU: 2, Network Performance: Low to Moderate, Instance Type: t3.small)": [
+            "0.0570000000"
         ]
     },
     "r3.4xlarge - Hourly Cost": {
-        "Regionless": [
+        "Default": [
             "2.1480000000"
         ],
-        "US West (Oregon)": [
+        "US West (Oregon) (Memory: 122, vCPU: 16, Network Performance: High, Instance Type: r3.4xlarge)": [
             "2.1480000000"
         ],
-        "US West (N. California)": [
+        "US West (N. California) (Memory: 122, vCPU: 16, Network Performance: High, Instance Type: r3.4xlarge)": [
             "2.3930000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (Memory: 122, vCPU: 16, Network Performance: High, Instance Type: r3.4xlarge)": [
             "2.1480000000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (Memory: 122, vCPU: 16, Network Performance: High, Instance Type: r3.4xlarge)": [
             "2.3930000000"
         ],
-        "Asia Pacific (Tokyo)": [
+        "Asia Pacific (Tokyo) (Memory: 122, vCPU: 16, Network Performance: High, Instance Type: r3.4xlarge)": [
             "2.5770000000"
         ],
-        "Asia Pacific (Sydney)": [
+        "Asia Pacific (Sydney) (Memory: 122, vCPU: 16, Network Performance: High, Instance Type: r3.4xlarge)": [
             "2.5770000000"
         ],
-        "Asia Pacific (Singapore)": [
+        "Asia Pacific (Singapore) (Memory: 122, vCPU: 16, Network Performance: High, Instance Type: r3.4xlarge)": [
             "2.5770000000"
         ],
-        "Asia Pacific (Mumbai)": [
+        "Asia Pacific (Mumbai) (Memory: 122, vCPU: 16, Network Performance: High, Instance Type: r3.4xlarge)": [
             "2.3260000000"
         ]
     },
     "r4.8xlarge - Hourly Cost": {
-        "Regionless": [
+        "Default": [
             "4.2950000000"
         ],
-        "US West (Oregon)": [
+        "US West (Oregon) (Memory: 244, vCPU: 32, Network Performance: 10 Gigabit, Instance Type: r4.8xlarge)": [
             "4.2950000000"
         ],
-        "US West (N. California)": [
+        "US West (N. California) (Memory: 244, vCPU: 32, Network Performance: 10 Gigabit, Instance Type: r4.8xlarge)": [
             "4.7860000000"
         ],
-        "US East (Ohio)": [
+        "US East (Ohio) (Memory: 244, vCPU: 32, Network Performance: 10 Gigabit, Instance Type: r4.8xlarge)": [
             "4.2950000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (Memory: 244, vCPU: 32, Network Performance: 10 Gigabit, Instance Type: r4.8xlarge)": [
             "4.2950000000"
         ],
-        "South America (Sao Paulo)": [
+        "South America (Sao Paulo) (Memory: 244, vCPU: 32, Network Performance: 10 Gigabit, Instance Type: r4.8xlarge)": [
             "8.5860000000"
         ],
-        "EU (Paris)": [
+        "EU (Paris) (Memory: 244, vCPU: 32, Network Performance: 10 Gigabit, Instance Type: r4.8xlarge)": [
             "5.0272144000"
         ],
-        "EU (London)": [
+        "EU (London) (Memory: 244, vCPU: 32, Network Performance: 10 Gigabit, Instance Type: r4.8xlarge)": [
             "5.0272144000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (Memory: 244, vCPU: 32, Network Performance: 10 Gigabit, Instance Type: r4.8xlarge)": [
             "4.7860000000"
         ],
-        "EU (Frankfurt)": [
+        "EU (Frankfurt) (Memory: 244, vCPU: 32, Network Performance: 10 Gigabit, Instance Type: r4.8xlarge)": [
             "5.1680000000"
         ],
-        "Asia Pacific (Tokyo)": [
+        "Asia Pacific (Tokyo) (Memory: 244, vCPU: 32, Network Performance: 10 Gigabit, Instance Type: r4.8xlarge)": [
             "5.1540000000"
         ],
-        "Asia Pacific (Sydney)": [
+        "Asia Pacific (Sydney) (Memory: 244, vCPU: 32, Network Performance: 10 Gigabit, Instance Type: r4.8xlarge)": [
             "5.1540000000"
         ],
-        "Asia Pacific (Singapore)": [
+        "Asia Pacific (Singapore) (Memory: 244, vCPU: 32, Network Performance: 10 Gigabit, Instance Type: r4.8xlarge)": [
             "5.1540000000"
         ],
-        "Asia Pacific (Mumbai)": [
+        "Asia Pacific (Mumbai) (Memory: 244, vCPU: 32, Network Performance: 10 Gigabit, Instance Type: r4.8xlarge)": [
             "4.6520000000"
         ]
     },
     "r4.large - Hourly Cost": {
-        "Regionless": [
+        "Default": [
             "0.2690000000"
         ],
-        "US West (Oregon)": [
+        "US West (Oregon) (Memory: 15.25, vCPU: 2, Network Performance: Moderate, Instance Type: r4.large)": [
             "0.2690000000"
         ],
-        "US West (N. California)": [
+        "US West (N. California) (Memory: 15.25, vCPU: 2, Network Performance: Moderate, Instance Type: r4.large)": [
             "0.3000000000"
         ],
-        "US East (Ohio)": [
+        "US East (Ohio) (Memory: 15.25, vCPU: 2, Network Performance: Moderate, Instance Type: r4.large)": [
             "0.3400000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (Memory: 15.25, vCPU: 2, Network Performance: Moderate, Instance Type: r4.large)": [
             "0.2690000000"
         ],
-        "South America (Sao Paulo)": [
+        "South America (Sao Paulo) (Memory: 15.25, vCPU: 2, Network Performance: Moderate, Instance Type: r4.large)": [
             "0.5370000000"
         ],
-        "EU (Paris)": [
+        "EU (Paris) (Memory: 15.25, vCPU: 2, Network Performance: Moderate, Instance Type: r4.large)": [
             "0.3151200000"
         ],
-        "EU (London)": [
+        "EU (London) (Memory: 15.25, vCPU: 2, Network Performance: Moderate, Instance Type: r4.large)": [
             "0.3151200000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (Memory: 15.25, vCPU: 2, Network Performance: Moderate, Instance Type: r4.large)": [
             "0.3000000000"
         ],
-        "EU (Frankfurt)": [
+        "EU (Frankfurt) (Memory: 15.25, vCPU: 2, Network Performance: Moderate, Instance Type: r4.large)": [
             "0.3230000000"
         ],
-        "Asia Pacific (Tokyo)": [
+        "Asia Pacific (Tokyo) (Memory: 15.25, vCPU: 2, Network Performance: Moderate, Instance Type: r4.large)": [
             "0.3220000000"
         ],
-        "Asia Pacific (Sydney)": [
+        "Asia Pacific (Sydney) (Memory: 15.25, vCPU: 2, Network Performance: Moderate, Instance Type: r4.large)": [
             "0.3220000000"
         ],
-        "Asia Pacific (Singapore)": [
+        "Asia Pacific (Singapore) (Memory: 15.25, vCPU: 2, Network Performance: Moderate, Instance Type: r4.large)": [
             "0.3220000000"
         ],
-        "Asia Pacific (Mumbai)": [
+        "Asia Pacific (Mumbai) (Memory: 15.25, vCPU: 2, Network Performance: Moderate, Instance Type: r4.large)": [
             "0.2910000000"
         ]
     },
     "r5.xlarge - Hourly Cost": {
-        "Regionless": [
+        "Default": [
             "0.5090000000"
         ],
-        "US West (Oregon)": [
+        "US West (Oregon) (Memory: 32, vCPU: 4, Network Performance: Moderate, Instance Type: r5.xlarge)": [
             "0.5090000000"
         ],
-        "US West (N. California)": [
+        "US West (N. California) (Memory: 32, vCPU: 4, Network Performance: Moderate, Instance Type: r5.xlarge)": [
             "0.5660000000"
         ],
-        "US East (Ohio)": [
+        "US East (Ohio) (Memory: 32, vCPU: 4, Network Performance: Moderate, Instance Type: r5.xlarge)": [
             "0.5090000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (Memory: 32, vCPU: 4, Network Performance: Moderate, Instance Type: r5.xlarge)": [
             "0.5090000000"
         ],
-        "South America (Sao Paulo)": [
+        "South America (Sao Paulo) (Memory: 32, vCPU: 4, Network Performance: Moderate, Instance Type: r5.xlarge)": [
             "1.0200000000"
         ],
-        "EU (Stockholm)": [
+        "EU (Stockholm) (Memory: 32, vCPU: 4, Network Performance: Moderate, Instance Type: r5.xlarge)": [
             "0.5377000000"
         ],
-        "EU (Spain)": [
+        "EU (Spain) (Memory: 32, vCPU: 4, Network Performance: Moderate, Instance Type: r5.xlarge)": [
             "0.5660000000"
         ],
-        "EU (Paris)": [
+        "EU (Paris) (Memory: 32, vCPU: 4, Network Performance: Moderate, Instance Type: r5.xlarge)": [
             "0.5950000000"
         ],
-        "EU (London)": [
+        "EU (London) (Memory: 32, vCPU: 4, Network Performance: Moderate, Instance Type: r5.xlarge)": [
             "0.5950000000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (Memory: 32, vCPU: 4, Network Performance: Moderate, Instance Type: r5.xlarge)": [
             "0.5660000000"
         ],
-        "EU (Frankfurt)": [
+        "EU (Frankfurt) (Memory: 32, vCPU: 4, Network Performance: Moderate, Instance Type: r5.xlarge)": [
             "0.6110000000"
         ],
-        "Asia Pacific (Tokyo)": [
+        "Asia Pacific (Tokyo) (Memory: 32, vCPU: 4, Network Performance: Moderate, Instance Type: r5.xlarge)": [
             "0.6100000000"
         ],
-        "Asia Pacific (Sydney)": [
+        "Asia Pacific (Sydney) (Memory: 32, vCPU: 4, Network Performance: Moderate, Instance Type: r5.xlarge)": [
             "0.6100000000"
         ],
-        "Asia Pacific (Singapore)": [
+        "Asia Pacific (Singapore) (Memory: 32, vCPU: 4, Network Performance: Moderate, Instance Type: r5.xlarge)": [
             "0.6100000000"
         ],
-        "Asia Pacific (Mumbai)": [
+        "Asia Pacific (Mumbai) (Memory: 32, vCPU: 4, Network Performance: Moderate, Instance Type: r5.xlarge)": [
             "0.5250000000"
         ]
     },
     "r5.16xlarge - Hourly Cost": {
-        "Regionless": [
+        "Default": [
             "8.1370000000"
         ],
-        "US West (Oregon)": [
+        "US West (Oregon) (Memory: 512, vCPU: 64, Network Performance: 20 Gigabit, Instance Type: r5.16xlarge)": [
             "8.1370000000"
         ],
-        "US West (N. California)": [
+        "US West (N. California) (Memory: 512, vCPU: 64, Network Performance: 20 Gigabit, Instance Type: r5.16xlarge)": [
             "9.0670000000"
         ],
-        "US East (Ohio)": [
+        "US East (Ohio) (Memory: 512, vCPU: 64, Network Performance: 20 Gigabit, Instance Type: r5.16xlarge)": [
             "8.1370000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (Memory: 512, vCPU: 64, Network Performance: 20 Gigabit, Instance Type: r5.16xlarge)": [
             "8.1370000000"
         ],
-        "South America (Sao Paulo)": [
+        "South America (Sao Paulo) (Memory: 512, vCPU: 64, Network Performance: 20 Gigabit, Instance Type: r5.16xlarge)": [
             "15.3310000000"
         ],
-        "EU (Stockholm)": [
+        "EU (Stockholm) (Memory: 512, vCPU: 64, Network Performance: 20 Gigabit, Instance Type: r5.16xlarge)": [
             "8.6136500000"
         ],
-        "EU (Spain)": [
+        "EU (Spain) (Memory: 512, vCPU: 64, Network Performance: 20 Gigabit, Instance Type: r5.16xlarge)": [
             "9.0670000000"
         ],
-        "EU (Paris)": [
+        "EU (Paris) (Memory: 512, vCPU: 64, Network Performance: 20 Gigabit, Instance Type: r5.16xlarge)": [
             "9.5200000000"
         ],
-        "EU (London)": [
+        "EU (London) (Memory: 512, vCPU: 64, Network Performance: 20 Gigabit, Instance Type: r5.16xlarge)": [
             "9.5200000000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (Memory: 512, vCPU: 64, Network Performance: 20 Gigabit, Instance Type: r5.16xlarge)": [
             "9.0670000000"
         ],
-        "EU (Frankfurt)": [
+        "EU (Frankfurt) (Memory: 512, vCPU: 64, Network Performance: 20 Gigabit, Instance Type: r5.16xlarge)": [
             "9.7940000000"
         ],
-        "Asia Pacific (Tokyo)": [
+        "Asia Pacific (Tokyo) (Memory: 512, vCPU: 64, Network Performance: 20 Gigabit, Instance Type: r5.16xlarge)": [
             "9.7660000000"
         ],
-        "Asia Pacific (Sydney)": [
+        "Asia Pacific (Sydney) (Memory: 512, vCPU: 64, Network Performance: 20 Gigabit, Instance Type: r5.16xlarge)": [
             "9.7660000000"
         ],
-        "Asia Pacific (Singapore)": [
+        "Asia Pacific (Singapore) (Memory: 512, vCPU: 64, Network Performance: 20 Gigabit, Instance Type: r5.16xlarge)": [
             "9.7660000000"
         ],
-        "Asia Pacific (Mumbai)": [
+        "Asia Pacific (Mumbai) (Memory: 512, vCPU: 64, Network Performance: 20 Gigabit, Instance Type: r5.16xlarge)": [
             "8.3920000000"
         ]
     },
     "r4.2xlarge - Hourly Cost": {
-        "Regionless": [
+        "Default": [
             "1.0740000000"
         ],
-        "US West (Oregon)": [
+        "US West (Oregon) (Memory: 61, vCPU: 8, Network Performance: High, Instance Type: r4.2xlarge)": [
             "1.0740000000"
         ],
-        "US West (N. California)": [
+        "US West (N. California) (Memory: 61, vCPU: 8, Network Performance: High, Instance Type: r4.2xlarge)": [
             "1.1970000000"
         ],
-        "US East (Ohio)": [
+        "US East (Ohio) (Memory: 61, vCPU: 8, Network Performance: High, Instance Type: r4.2xlarge)": [
             "1.0740000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (Memory: 61, vCPU: 8, Network Performance: High, Instance Type: r4.2xlarge)": [
             "1.0740000000"
         ],
-        "South America (Sao Paulo)": [
+        "South America (Sao Paulo) (Memory: 61, vCPU: 8, Network Performance: High, Instance Type: r4.2xlarge)": [
             "2.1460000000"
         ],
-        "EU (Paris)": [
+        "EU (Paris) (Memory: 61, vCPU: 8, Network Performance: High, Instance Type: r4.2xlarge)": [
             "1.2573288000"
         ],
-        "EU (London)": [
+        "EU (London) (Memory: 61, vCPU: 8, Network Performance: High, Instance Type: r4.2xlarge)": [
             "1.2573288000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (Memory: 61, vCPU: 8, Network Performance: High, Instance Type: r4.2xlarge)": [
             "1.1970000000"
         ],
-        "EU (Frankfurt)": [
+        "EU (Frankfurt) (Memory: 61, vCPU: 8, Network Performance: High, Instance Type: r4.2xlarge)": [
             "1.2920000000"
         ],
-        "Asia Pacific (Tokyo)": [
+        "Asia Pacific (Tokyo) (Memory: 61, vCPU: 8, Network Performance: High, Instance Type: r4.2xlarge)": [
             "1.2890000000"
         ],
-        "Asia Pacific (Sydney)": [
+        "Asia Pacific (Sydney) (Memory: 61, vCPU: 8, Network Performance: High, Instance Type: r4.2xlarge)": [
             "1.2890000000"
         ],
-        "Asia Pacific (Singapore)": [
+        "Asia Pacific (Singapore) (Memory: 61, vCPU: 8, Network Performance: High, Instance Type: r4.2xlarge)": [
             "1.2890000000"
         ],
-        "Asia Pacific (Mumbai)": [
+        "Asia Pacific (Mumbai) (Memory: 61, vCPU: 8, Network Performance: High, Instance Type: r4.2xlarge)": [
             "1.1620000000"
         ]
     },
     "r5.8xlarge - Hourly Cost": {
-        "Regionless": [
+        "Default": [
             "4.0690000000"
         ],
-        "US West (Oregon)": [
+        "US West (Oregon) (Memory: 256, vCPU: 32, Network Performance: 10 Gigabit, Instance Type: r5.8xlarge)": [
             "4.0690000000"
         ],
-        "US West (N. California)": [
+        "US West (N. California) (Memory: 256, vCPU: 32, Network Performance: 10 Gigabit, Instance Type: r5.8xlarge)": [
             "4.5340000000"
         ],
-        "US East (Ohio)": [
+        "US East (Ohio) (Memory: 256, vCPU: 32, Network Performance: 10 Gigabit, Instance Type: r5.8xlarge)": [
             "4.0690000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (Memory: 256, vCPU: 32, Network Performance: 10 Gigabit, Instance Type: r5.8xlarge)": [
             "4.0690000000"
         ],
-        "South America (Sao Paulo)": [
+        "South America (Sao Paulo) (Memory: 256, vCPU: 32, Network Performance: 10 Gigabit, Instance Type: r5.8xlarge)": [
             "7.6660000000"
         ],
-        "EU (Stockholm)": [
+        "EU (Stockholm) (Memory: 256, vCPU: 32, Network Performance: 10 Gigabit, Instance Type: r5.8xlarge)": [
             "4.3073000000"
         ],
-        "EU (Spain)": [
+        "EU (Spain) (Memory: 256, vCPU: 32, Network Performance: 10 Gigabit, Instance Type: r5.8xlarge)": [
             "4.5340000000"
         ],
-        "EU (Paris)": [
+        "EU (Paris) (Memory: 256, vCPU: 32, Network Performance: 10 Gigabit, Instance Type: r5.8xlarge)": [
             "4.7600000000"
         ],
-        "EU (London)": [
+        "EU (London) (Memory: 256, vCPU: 32, Network Performance: 10 Gigabit, Instance Type: r5.8xlarge)": [
             "4.7600000000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (Memory: 256, vCPU: 32, Network Performance: 10 Gigabit, Instance Type: r5.8xlarge)": [
             "4.5340000000"
         ],
-        "EU (Frankfurt)": [
+        "EU (Frankfurt) (Memory: 256, vCPU: 32, Network Performance: 10 Gigabit, Instance Type: r5.8xlarge)": [
             "4.8970000000"
         ],
-        "Asia Pacific (Tokyo)": [
+        "Asia Pacific (Tokyo) (Memory: 256, vCPU: 32, Network Performance: 10 Gigabit, Instance Type: r5.8xlarge)": [
             "4.8830000000"
         ],
-        "Asia Pacific (Sydney)": [
+        "Asia Pacific (Sydney) (Memory: 256, vCPU: 32, Network Performance: 10 Gigabit, Instance Type: r5.8xlarge)": [
             "4.8830000000"
         ],
-        "Asia Pacific (Singapore)": [
+        "Asia Pacific (Singapore) (Memory: 256, vCPU: 32, Network Performance: 10 Gigabit, Instance Type: r5.8xlarge)": [
             "4.8830000000"
         ],
-        "Asia Pacific (Mumbai)": [
+        "Asia Pacific (Mumbai) (Memory: 256, vCPU: 32, Network Performance: 10 Gigabit, Instance Type: r5.8xlarge)": [
             "4.1960000000"
         ]
     },
     "r3.8xlarge - Hourly Cost": {
-        "Regionless": [
+        "Default": [
             "4.2950000000"
         ],
-        "US West (Oregon)": [
+        "US West (Oregon) (Memory: 244, vCPU: 32, Network Performance: 10 Gigabit, Instance Type: r3.8xlarge)": [
             "4.2950000000"
         ],
-        "US West (N. California)": [
+        "US West (N. California) (Memory: 244, vCPU: 32, Network Performance: 10 Gigabit, Instance Type: r3.8xlarge)": [
             "4.7860000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (Memory: 244, vCPU: 32, Network Performance: 10 Gigabit, Instance Type: r3.8xlarge)": [
             "4.2950000000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (Memory: 244, vCPU: 32, Network Performance: 10 Gigabit, Instance Type: r3.8xlarge)": [
             "4.7860000000"
         ],
-        "Asia Pacific (Tokyo)": [
+        "Asia Pacific (Tokyo) (Memory: 244, vCPU: 32, Network Performance: 10 Gigabit, Instance Type: r3.8xlarge)": [
             "5.1540000000"
         ],
-        "Asia Pacific (Sydney)": [
+        "Asia Pacific (Sydney) (Memory: 244, vCPU: 32, Network Performance: 10 Gigabit, Instance Type: r3.8xlarge)": [
             "5.1540000000"
         ],
-        "Asia Pacific (Singapore)": [
+        "Asia Pacific (Singapore) (Memory: 244, vCPU: 32, Network Performance: 10 Gigabit, Instance Type: r3.8xlarge)": [
             "5.1540000000"
         ],
-        "Asia Pacific (Mumbai)": [
+        "Asia Pacific (Mumbai) (Memory: 244, vCPU: 32, Network Performance: 10 Gigabit, Instance Type: r3.8xlarge)": [
             "4.6520000000"
         ]
     },
     "r3.large - Hourly Cost": {
-        "Regionless": [
+        "Default": [
             "0.2690000000"
         ],
-        "US West (Oregon)": [
+        "US West (Oregon) (Memory: 15.25, vCPU: 2, Network Performance: Moderate, Instance Type: r3.large)": [
             "0.2690000000"
         ],
-        "US West (N. California)": [
+        "US West (N. California) (Memory: 15.25, vCPU: 2, Network Performance: Moderate, Instance Type: r3.large)": [
             "0.3000000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (Memory: 15.25, vCPU: 2, Network Performance: Moderate, Instance Type: r3.large)": [
             "0.2690000000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (Memory: 15.25, vCPU: 2, Network Performance: Moderate, Instance Type: r3.large)": [
             "0.3000000000"
         ],
-        "Asia Pacific (Tokyo)": [
+        "Asia Pacific (Tokyo) (Memory: 15.25, vCPU: 2, Network Performance: Moderate, Instance Type: r3.large)": [
             "0.3220000000"
         ],
-        "Asia Pacific (Sydney)": [
+        "Asia Pacific (Sydney) (Memory: 15.25, vCPU: 2, Network Performance: Moderate, Instance Type: r3.large)": [
             "0.3220000000"
         ],
-        "Asia Pacific (Singapore)": [
+        "Asia Pacific (Singapore) (Memory: 15.25, vCPU: 2, Network Performance: Moderate, Instance Type: r3.large)": [
             "0.3220000000"
         ],
-        "Asia Pacific (Mumbai)": [
+        "Asia Pacific (Mumbai) (Memory: 15.25, vCPU: 2, Network Performance: Moderate, Instance Type: r3.large)": [
             "0.2910000000"
         ]
     },
     "r3.xlarge - Hourly Cost": {
-        "Regionless": [
+        "Default": [
             "0.5370000000"
         ],
-        "US West (Oregon)": [
+        "US West (Oregon) (Memory: 30.5, vCPU: 4, Network Performance: Moderate, Instance Type: r3.xlarge)": [
             "0.5370000000"
         ],
-        "US West (N. California)": [
+        "US West (N. California) (Memory: 30.5, vCPU: 4, Network Performance: Moderate, Instance Type: r3.xlarge)": [
             "0.5980000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (Memory: 30.5, vCPU: 4, Network Performance: Moderate, Instance Type: r3.xlarge)": [
             "0.5370000000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (Memory: 30.5, vCPU: 4, Network Performance: Moderate, Instance Type: r3.xlarge)": [
             "0.5980000000"
         ],
-        "Asia Pacific (Tokyo)": [
+        "Asia Pacific (Tokyo) (Memory: 30.5, vCPU: 4, Network Performance: Moderate, Instance Type: r3.xlarge)": [
             "0.6440000000"
         ],
-        "Asia Pacific (Sydney)": [
+        "Asia Pacific (Sydney) (Memory: 30.5, vCPU: 4, Network Performance: Moderate, Instance Type: r3.xlarge)": [
             "0.6440000000"
         ],
-        "Asia Pacific (Singapore)": [
+        "Asia Pacific (Singapore) (Memory: 30.5, vCPU: 4, Network Performance: Moderate, Instance Type: r3.xlarge)": [
             "0.6440000000"
         ],
-        "Asia Pacific (Mumbai)": [
+        "Asia Pacific (Mumbai) (Memory: 30.5, vCPU: 4, Network Performance: Moderate, Instance Type: r3.xlarge)": [
             "0.5820000000"
         ]
     },
     "r4.xlarge - Hourly Cost": {
-        "Regionless": [
+        "Default": [
             "0.5370000000"
         ],
-        "US West (Oregon)": [
+        "US West (Oregon) (Memory: 30.5, vCPU: 4, Network Performance: Moderate, Instance Type: r4.xlarge)": [
             "0.5370000000"
         ],
-        "US West (N. California)": [
+        "US West (N. California) (Memory: 30.5, vCPU: 4, Network Performance: Moderate, Instance Type: r4.xlarge)": [
             "0.5980000000"
         ],
-        "US East (Ohio)": [
+        "US East (Ohio) (Memory: 30.5, vCPU: 4, Network Performance: Moderate, Instance Type: r4.xlarge)": [
             "0.5370000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (Memory: 30.5, vCPU: 4, Network Performance: Moderate, Instance Type: r4.xlarge)": [
             "0.5370000000"
         ],
-        "South America (Sao Paulo)": [
+        "South America (Sao Paulo) (Memory: 30.5, vCPU: 4, Network Performance: Moderate, Instance Type: r4.xlarge)": [
             "1.0740000000"
         ],
-        "EU (Paris)": [
+        "EU (Paris) (Memory: 30.5, vCPU: 4, Network Performance: Moderate, Instance Type: r4.xlarge)": [
             "0.6281392000"
         ],
-        "EU (London)": [
+        "EU (London) (Memory: 30.5, vCPU: 4, Network Performance: Moderate, Instance Type: r4.xlarge)": [
             "0.6281392000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (Memory: 30.5, vCPU: 4, Network Performance: Moderate, Instance Type: r4.xlarge)": [
             "0.5980000000"
         ],
-        "EU (Frankfurt)": [
+        "EU (Frankfurt) (Memory: 30.5, vCPU: 4, Network Performance: Moderate, Instance Type: r4.xlarge)": [
             "0.6450000000"
         ],
-        "Asia Pacific (Tokyo)": [
+        "Asia Pacific (Tokyo) (Memory: 30.5, vCPU: 4, Network Performance: Moderate, Instance Type: r4.xlarge)": [
             "0.6440000000"
         ],
-        "Asia Pacific (Sydney)": [
+        "Asia Pacific (Sydney) (Memory: 30.5, vCPU: 4, Network Performance: Moderate, Instance Type: r4.xlarge)": [
             "0.6440000000"
         ],
-        "Asia Pacific (Singapore)": [
+        "Asia Pacific (Singapore) (Memory: 30.5, vCPU: 4, Network Performance: Moderate, Instance Type: r4.xlarge)": [
             "0.6440000000"
         ],
-        "Asia Pacific (Mumbai)": [
+        "Asia Pacific (Mumbai) (Memory: 30.5, vCPU: 4, Network Performance: Moderate, Instance Type: r4.xlarge)": [
             "0.5820000000"
         ]
     },
     "r5.12xlarge - Hourly Cost": {
-        "Regionless": [
+        "Default": [
             "6.1170000000"
         ],
-        "US West (Oregon)": [
+        "US West (Oregon) (Memory: 384, vCPU: 48, Network Performance: 12 Gigabit, Instance Type: r5.12xlarge)": [
             "6.1170000000"
         ],
-        "US West (N. California)": [
+        "US West (N. California) (Memory: 384, vCPU: 48, Network Performance: 12 Gigabit, Instance Type: r5.12xlarge)": [
             "6.8150000000"
         ],
-        "US East (Ohio)": [
+        "US East (Ohio) (Memory: 384, vCPU: 48, Network Performance: 12 Gigabit, Instance Type: r5.12xlarge)": [
             "6.1170000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (Memory: 384, vCPU: 48, Network Performance: 12 Gigabit, Instance Type: r5.12xlarge)": [
             "6.1170000000"
         ],
-        "South America (Sao Paulo)": [
+        "South America (Sao Paulo) (Memory: 384, vCPU: 48, Network Performance: 12 Gigabit, Instance Type: r5.12xlarge)": [
             "12.2340000000"
         ],
-        "EU (Stockholm)": [
+        "EU (Stockholm) (Memory: 384, vCPU: 48, Network Performance: 12 Gigabit, Instance Type: r5.12xlarge)": [
             "6.4742500000"
         ],
-        "EU (Spain)": [
+        "EU (Spain) (Memory: 384, vCPU: 48, Network Performance: 12 Gigabit, Instance Type: r5.12xlarge)": [
             "6.8150000000"
         ],
-        "EU (Paris)": [
+        "EU (Paris) (Memory: 384, vCPU: 48, Network Performance: 12 Gigabit, Instance Type: r5.12xlarge)": [
             "7.1640000000"
         ],
-        "EU (London)": [
+        "EU (London) (Memory: 384, vCPU: 48, Network Performance: 12 Gigabit, Instance Type: r5.12xlarge)": [
             "7.1640000000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (Memory: 384, vCPU: 48, Network Performance: 12 Gigabit, Instance Type: r5.12xlarge)": [
             "6.8150000000"
         ],
-        "EU (Frankfurt)": [
+        "EU (Frankfurt) (Memory: 384, vCPU: 48, Network Performance: 12 Gigabit, Instance Type: r5.12xlarge)": [
             "7.3510000000"
         ],
-        "Asia Pacific (Tokyo)": [
+        "Asia Pacific (Tokyo) (Memory: 384, vCPU: 48, Network Performance: 12 Gigabit, Instance Type: r5.12xlarge)": [
             "7.3240000000"
         ],
-        "Asia Pacific (Sydney)": [
+        "Asia Pacific (Sydney) (Memory: 384, vCPU: 48, Network Performance: 12 Gigabit, Instance Type: r5.12xlarge)": [
             "7.3240000000"
         ],
-        "Asia Pacific (Singapore)": [
+        "Asia Pacific (Singapore) (Memory: 384, vCPU: 48, Network Performance: 12 Gigabit, Instance Type: r5.12xlarge)": [
             "7.3240000000"
         ],
-        "Asia Pacific (Mumbai)": [
+        "Asia Pacific (Mumbai) (Memory: 384, vCPU: 48, Network Performance: 12 Gigabit, Instance Type: r5.12xlarge)": [
             "6.2950000000"
         ]
     },
     "t2.medium - Hourly Cost": {
-        "Regionless": [
+        "Default": [
             "0.0800000000"
         ],
-        "US West (Oregon)": [
+        "US West (Oregon) (Memory: 4, vCPU: 2, Network Performance: Low to Moderate, Instance Type: t2.medium)": [
             "0.0800000000"
         ],
-        "US West (N. California)": [
+        "US West (N. California) (Memory: 4, vCPU: 2, Network Performance: Low to Moderate, Instance Type: t2.medium)": [
             "0.1040000000"
         ],
-        "US East (Ohio)": [
+        "US East (Ohio) (Memory: 4, vCPU: 2, Network Performance: Low to Moderate, Instance Type: t2.medium)": [
             "0.0800000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (Memory: 4, vCPU: 2, Network Performance: Low to Moderate, Instance Type: t2.medium)": [
             "0.0800000000"
         ],
-        "South America (Sao Paulo)": [
+        "South America (Sao Paulo) (Memory: 4, vCPU: 2, Network Performance: Low to Moderate, Instance Type: t2.medium)": [
             "0.1650000000"
         ],
-        "EU (Paris)": [
+        "EU (Paris) (Memory: 4, vCPU: 2, Network Performance: Low to Moderate, Instance Type: t2.medium)": [
             "0.0903344000"
         ],
-        "EU (London)": [
+        "EU (London) (Memory: 4, vCPU: 2, Network Performance: Low to Moderate, Instance Type: t2.medium)": [
             "0.0903344000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (Memory: 4, vCPU: 2, Network Performance: Low to Moderate, Instance Type: t2.medium)": [
             "0.0860000000"
         ],
-        "EU (Frankfurt)": [
+        "EU (Frankfurt) (Memory: 4, vCPU: 2, Network Performance: Low to Moderate, Instance Type: t2.medium)": [
             "0.0920000000"
         ],
-        "Asia Pacific (Tokyo)": [
+        "Asia Pacific (Tokyo) (Memory: 4, vCPU: 2, Network Performance: Low to Moderate, Instance Type: t2.medium)": [
             "0.1230000000"
         ],
-        "Asia Pacific (Sydney)": [
+        "Asia Pacific (Sydney) (Memory: 4, vCPU: 2, Network Performance: Low to Moderate, Instance Type: t2.medium)": [
             "0.1230000000"
         ],
-        "Asia Pacific (Singapore)": [
+        "Asia Pacific (Singapore) (Memory: 4, vCPU: 2, Network Performance: Low to Moderate, Instance Type: t2.medium)": [
             "0.1230000000"
         ],
-        "Asia Pacific (Mumbai)": [
+        "Asia Pacific (Mumbai) (Memory: 4, vCPU: 2, Network Performance: Low to Moderate, Instance Type: t2.medium)": [
             "0.1170000000"
         ]
     },
     "t2.small - Hourly Cost": {
-        "Regionless": [
+        "Default": [
             "0.0400000000"
         ],
-        "US West (Oregon)": [
+        "US West (Oregon) (Memory: 2, vCPU: 1, Network Performance: Low to Moderate, Instance Type: t2.small)": [
             "0.0400000000"
         ],
-        "US West (N. California)": [
+        "US West (N. California) (Memory: 2, vCPU: 1, Network Performance: Low to Moderate, Instance Type: t2.small)": [
             "0.0520000000"
         ],
-        "US East (Ohio)": [
+        "US East (Ohio) (Memory: 2, vCPU: 1, Network Performance: Low to Moderate, Instance Type: t2.small)": [
             "0.0400000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (Memory: 2, vCPU: 1, Network Performance: Low to Moderate, Instance Type: t2.small)": [
             "0.0400000000"
         ],
-        "South America (Sao Paulo)": [
+        "South America (Sao Paulo) (Memory: 2, vCPU: 1, Network Performance: Low to Moderate, Instance Type: t2.small)": [
             "0.0830000000"
         ],
-        "EU (Paris)": [
+        "EU (Paris) (Memory: 2, vCPU: 1, Network Performance: Low to Moderate, Instance Type: t2.small)": [
             "0.0441168000"
         ],
-        "EU (London)": [
+        "EU (London) (Memory: 2, vCPU: 1, Network Performance: Low to Moderate, Instance Type: t2.small)": [
             "0.0441168000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (Memory: 2, vCPU: 1, Network Performance: Low to Moderate, Instance Type: t2.small)": [
             "0.0420000000"
         ],
-        "EU (Frankfurt)": [
+        "EU (Frankfurt) (Memory: 2, vCPU: 1, Network Performance: Low to Moderate, Instance Type: t2.small)": [
             "0.0450000000"
         ],
-        "Asia Pacific (Tokyo)": [
+        "Asia Pacific (Tokyo) (Memory: 2, vCPU: 1, Network Performance: Low to Moderate, Instance Type: t2.small)": [
             "0.0610000000"
         ],
-        "Asia Pacific (Sydney)": [
+        "Asia Pacific (Sydney) (Memory: 2, vCPU: 1, Network Performance: Low to Moderate, Instance Type: t2.small)": [
             "0.0610000000"
         ],
-        "Asia Pacific (Singapore)": [
+        "Asia Pacific (Singapore) (Memory: 2, vCPU: 1, Network Performance: Low to Moderate, Instance Type: t2.small)": [
             "0.0610000000"
         ],
-        "Asia Pacific (Mumbai)": [
+        "Asia Pacific (Mumbai) (Memory: 2, vCPU: 1, Network Performance: Low to Moderate, Instance Type: t2.small)": [
             "0.0570000000"
         ]
     },
     "r4.4xlarge - Hourly Cost": {
-        "Regionless": [
+        "Default": [
             "2.1480000000"
         ],
-        "US West (Oregon)": [
+        "US West (Oregon) (Memory: 122, vCPU: 16, Network Performance: High, Instance Type: r4.4xlarge)": [
             "2.1480000000"
         ],
-        "US West (N. California)": [
+        "US West (N. California) (Memory: 122, vCPU: 16, Network Performance: High, Instance Type: r4.4xlarge)": [
             "2.3930000000"
         ],
-        "US East (Ohio)": [
+        "US East (Ohio) (Memory: 122, vCPU: 16, Network Performance: High, Instance Type: r4.4xlarge)": [
             "2.1480000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (Memory: 122, vCPU: 16, Network Performance: High, Instance Type: r4.4xlarge)": [
             "2.1480000000"
         ],
-        "South America (Sao Paulo)": [
+        "South America (Sao Paulo) (Memory: 122, vCPU: 16, Network Performance: High, Instance Type: r4.4xlarge)": [
             "4.2940000000"
         ],
-        "EU (Paris)": [
+        "EU (Paris) (Memory: 122, vCPU: 16, Network Performance: High, Instance Type: r4.4xlarge)": [
             "2.5136072000"
         ],
-        "EU (London)": [
+        "EU (London) (Memory: 122, vCPU: 16, Network Performance: High, Instance Type: r4.4xlarge)": [
             "2.5136072000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (Memory: 122, vCPU: 16, Network Performance: High, Instance Type: r4.4xlarge)": [
             "2.3930000000"
         ],
-        "EU (Frankfurt)": [
+        "EU (Frankfurt) (Memory: 122, vCPU: 16, Network Performance: High, Instance Type: r4.4xlarge)": [
             "2.5840000000"
         ],
-        "Asia Pacific (Tokyo)": [
+        "Asia Pacific (Tokyo) (Memory: 122, vCPU: 16, Network Performance: High, Instance Type: r4.4xlarge)": [
             "2.5770000000"
         ],
-        "Asia Pacific (Sydney)": [
+        "Asia Pacific (Sydney) (Memory: 122, vCPU: 16, Network Performance: High, Instance Type: r4.4xlarge)": [
             "2.5770000000"
         ],
-        "Asia Pacific (Singapore)": [
+        "Asia Pacific (Singapore) (Memory: 122, vCPU: 16, Network Performance: High, Instance Type: r4.4xlarge)": [
             "2.5770000000"
         ],
-        "Asia Pacific (Mumbai)": [
+        "Asia Pacific (Mumbai) (Memory: 122, vCPU: 16, Network Performance: High, Instance Type: r4.4xlarge)": [
             "2.3260000000"
         ]
     },
     "r4.16xlarge - Hourly Cost": {
-        "Regionless": [
+        "Default": [
             "9.5720000000"
         ],
-        "US West (Oregon)": [
+        "US West (Oregon) (Memory: 488, vCPU: 64, Network Performance: 20 Gigabit, Instance Type: r4.16xlarge)": [
             "9.5720000000"
         ],
-        "US West (N. California)": [
+        "US West (N. California) (Memory: 488, vCPU: 64, Network Performance: 20 Gigabit, Instance Type: r4.16xlarge)": [
             "9.5720000000"
         ],
-        "US East (Ohio)": [
+        "US East (Ohio) (Memory: 488, vCPU: 64, Network Performance: 20 Gigabit, Instance Type: r4.16xlarge)": [
             "8.5900000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (Memory: 488, vCPU: 64, Network Performance: 20 Gigabit, Instance Type: r4.16xlarge)": [
             "8.5900000000"
         ],
-        "South America (Sao Paulo)": [
+        "South America (Sao Paulo) (Memory: 488, vCPU: 64, Network Performance: 20 Gigabit, Instance Type: r4.16xlarge)": [
             "17.1710000000"
         ],
-        "EU (Paris)": [
+        "EU (Paris) (Memory: 488, vCPU: 64, Network Performance: 20 Gigabit, Instance Type: r4.16xlarge)": [
             "10.0544288000"
         ],
-        "EU (London)": [
+        "EU (London) (Memory: 488, vCPU: 64, Network Performance: 20 Gigabit, Instance Type: r4.16xlarge)": [
             "10.0544288000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (Memory: 488, vCPU: 64, Network Performance: 20 Gigabit, Instance Type: r4.16xlarge)": [
             "9.5720000000"
         ],
-        "EU (Frankfurt)": [
+        "EU (Frankfurt) (Memory: 488, vCPU: 64, Network Performance: 20 Gigabit, Instance Type: r4.16xlarge)": [
             "10.3370000000"
         ],
-        "Asia Pacific (Tokyo)": [
+        "Asia Pacific (Tokyo) (Memory: 488, vCPU: 64, Network Performance: 20 Gigabit, Instance Type: r4.16xlarge)": [
             "10.3080000000"
         ],
-        "Asia Pacific (Sydney)": [
+        "Asia Pacific (Sydney) (Memory: 488, vCPU: 64, Network Performance: 20 Gigabit, Instance Type: r4.16xlarge)": [
             "10.3080000000"
         ],
-        "Asia Pacific (Singapore)": [
+        "Asia Pacific (Singapore) (Memory: 488, vCPU: 64, Network Performance: 20 Gigabit, Instance Type: r4.16xlarge)": [
             "10.3080000000"
         ],
-        "Asia Pacific (Mumbai)": [
+        "Asia Pacific (Mumbai) (Memory: 488, vCPU: 64, Network Performance: 20 Gigabit, Instance Type: r4.16xlarge)": [
             "9.3030000000"
         ]
     },
     "r5.large - Hourly Cost": {
-        "Regionless": [
+        "Default": [
             "0.2550000000"
         ],
-        "US West (Oregon)": [
+        "US West (Oregon) (Memory: 16, vCPU: 2, Network Performance: Moderate, Instance Type: r5.large)": [
             "0.2550000000"
         ],
-        "US West (N. California)": [
+        "US West (N. California) (Memory: 16, vCPU: 2, Network Performance: Moderate, Instance Type: r5.large)": [
             "0.2840000000"
         ],
-        "US East (Ohio)": [
+        "US East (Ohio) (Memory: 16, vCPU: 2, Network Performance: Moderate, Instance Type: r5.large)": [
             "0.2550000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (Memory: 16, vCPU: 2, Network Performance: Moderate, Instance Type: r5.large)": [
             "0.2550000000"
         ],
-        "South America (Sao Paulo)": [
+        "South America (Sao Paulo) (Memory: 16, vCPU: 2, Network Performance: Moderate, Instance Type: r5.large)": [
             "0.5100000000"
         ],
-        "EU (Stockholm)": [
+        "EU (Stockholm) (Memory: 16, vCPU: 2, Network Performance: Moderate, Instance Type: r5.large)": [
             "0.2698000000"
         ],
-        "EU (Spain)": [
+        "EU (Spain) (Memory: 16, vCPU: 2, Network Performance: Moderate, Instance Type: r5.large)": [
             "0.2840000000"
         ],
-        "EU (Paris)": [
+        "EU (Paris) (Memory: 16, vCPU: 2, Network Performance: Moderate, Instance Type: r5.large)": [
             "0.2990000000"
         ],
-        "EU (London)": [
+        "EU (London) (Memory: 16, vCPU: 2, Network Performance: Moderate, Instance Type: r5.large)": [
             "0.2990000000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (Memory: 16, vCPU: 2, Network Performance: Moderate, Instance Type: r5.large)": [
             "0.2840000000"
         ],
-        "EU (Frankfurt)": [
+        "EU (Frankfurt) (Memory: 16, vCPU: 2, Network Performance: Moderate, Instance Type: r5.large)": [
             "0.3070000000"
         ],
-        "Asia Pacific (Tokyo)": [
+        "Asia Pacific (Tokyo) (Memory: 16, vCPU: 2, Network Performance: Moderate, Instance Type: r5.large)": [
             "0.3060000000"
         ],
-        "Asia Pacific (Sydney)": [
+        "Asia Pacific (Sydney) (Memory: 16, vCPU: 2, Network Performance: Moderate, Instance Type: r5.large)": [
             "0.3060000000"
         ],
-        "Asia Pacific (Singapore)": [
+        "Asia Pacific (Singapore) (Memory: 16, vCPU: 2, Network Performance: Moderate, Instance Type: r5.large)": [
             "0.3060000000"
         ],
-        "Asia Pacific (Mumbai)": [
+        "Asia Pacific (Mumbai) (Memory: 16, vCPU: 2, Network Performance: Moderate, Instance Type: r5.large)": [
             "0.2620000000"
         ]
     },
     "r3.2xlarge - Hourly Cost": {
-        "Regionless": [
+        "Default": [
             "1.0740000000"
         ],
-        "US West (Oregon)": [
+        "US West (Oregon) (Memory: 61, vCPU: 8, Network Performance: High, Instance Type: r3.2xlarge)": [
             "1.0740000000"
         ],
-        "US West (N. California)": [
+        "US West (N. California) (Memory: 61, vCPU: 8, Network Performance: High, Instance Type: r3.2xlarge)": [
             "1.1970000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (Memory: 61, vCPU: 8, Network Performance: High, Instance Type: r3.2xlarge)": [
             "1.0740000000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (Memory: 61, vCPU: 8, Network Performance: High, Instance Type: r3.2xlarge)": [
             "1.1970000000"
         ],
-        "Asia Pacific (Tokyo)": [
+        "Asia Pacific (Tokyo) (Memory: 61, vCPU: 8, Network Performance: High, Instance Type: r3.2xlarge)": [
             "1.2890000000"
         ],
-        "Asia Pacific (Sydney)": [
+        "Asia Pacific (Sydney) (Memory: 61, vCPU: 8, Network Performance: High, Instance Type: r3.2xlarge)": [
             "1.2890000000"
         ],
-        "Asia Pacific (Singapore)": [
+        "Asia Pacific (Singapore) (Memory: 61, vCPU: 8, Network Performance: High, Instance Type: r3.2xlarge)": [
             "1.2890000000"
         ],
-        "Asia Pacific (Mumbai)": [
+        "Asia Pacific (Mumbai) (Memory: 61, vCPU: 8, Network Performance: High, Instance Type: r3.2xlarge)": [
             "1.1620000000"
         ]
     },
     "t3.small - Hourly Cost": {
-        "Regionless": [
+        "Default": [
             "0.0400000000"
         ],
-        "US West (Oregon)": [
+        "US West (Oregon) (Memory: 2, vCPU: 2, Network Performance: Low to Moderate, Instance Type: t3.small)": [
             "0.0400000000"
         ],
-        "US West (N. California)": [
+        "US West (N. California) (Memory: 2, vCPU: 2, Network Performance: Low to Moderate, Instance Type: t3.small)": [
             "0.0520000000"
         ],
-        "US East (Ohio)": [
+        "US East (Ohio) (Memory: 2, vCPU: 2, Network Performance: Low to Moderate, Instance Type: t3.small)": [
             "0.0400000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (Memory: 2, vCPU: 2, Network Performance: Low to Moderate, Instance Type: t3.small)": [
             "0.0400000000"
         ],
-        "South America (Sao Paulo)": [
+        "South America (Sao Paulo) (Memory: 2, vCPU: 2, Network Performance: Low to Moderate, Instance Type: t3.small)": [
             "0.0830000000"
         ],
-        "EU (Stockholm)": [
+        "EU (Stockholm) (Memory: 2, vCPU: 2, Network Performance: Low to Moderate, Instance Type: t3.small)": [
             "0.0399000000"
         ],
-        "EU (Spain)": [
+        "EU (Spain) (Memory: 2, vCPU: 2, Network Performance: Low to Moderate, Instance Type: t3.small)": [
             "0.0420000000"
         ],
-        "EU (Paris)": [
+        "EU (Paris) (Memory: 2, vCPU: 2, Network Performance: Low to Moderate, Instance Type: t3.small)": [
             "0.0440000000"
         ],
-        "EU (London)": [
+        "EU (London) (Memory: 2, vCPU: 2, Network Performance: Low to Moderate, Instance Type: t3.small)": [
             "0.0440000000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (Memory: 2, vCPU: 2, Network Performance: Low to Moderate, Instance Type: t3.small)": [
             "0.0420000000"
         ],
-        "EU (Frankfurt)": [
+        "EU (Frankfurt) (Memory: 2, vCPU: 2, Network Performance: Low to Moderate, Instance Type: t3.small)": [
             "0.0450000000"
         ],
-        "Asia Pacific (Tokyo)": [
+        "Asia Pacific (Tokyo) (Memory: 2, vCPU: 2, Network Performance: Low to Moderate, Instance Type: t3.small)": [
             "0.0610000000"
         ],
-        "Asia Pacific (Sydney)": [
+        "Asia Pacific (Sydney) (Memory: 2, vCPU: 2, Network Performance: Low to Moderate, Instance Type: t3.small)": [
             "0.0610000000"
         ],
-        "Asia Pacific (Singapore)": [
+        "Asia Pacific (Singapore) (Memory: 2, vCPU: 2, Network Performance: Low to Moderate, Instance Type: t3.small)": [
             "0.0610000000"
         ],
-        "Asia Pacific (Mumbai)": [
+        "Asia Pacific (Mumbai) (Memory: 2, vCPU: 2, Network Performance: Low to Moderate, Instance Type: t3.small)": [
             "0.0570000000"
         ]
     },
     "r5.4xlarge - Hourly Cost": {
-        "Regionless": [
+        "Default": [
             "2.0340000000"
         ],
-        "US West (Oregon)": [
+        "US West (Oregon) (Memory: 128, vCPU: 16, Network Performance: High, Instance Type: r5.4xlarge)": [
             "2.0340000000"
         ],
-        "US West (N. California)": [
+        "US West (N. California) (Memory: 128, vCPU: 16, Network Performance: High, Instance Type: r5.4xlarge)": [
             "2.2670000000"
         ],
-        "US East (Ohio)": [
+        "US East (Ohio) (Memory: 128, vCPU: 16, Network Performance: High, Instance Type: r5.4xlarge)": [
             "2.0340000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (Memory: 128, vCPU: 16, Network Performance: High, Instance Type: r5.4xlarge)": [
             "2.0340000000"
         ],
-        "South America (Sao Paulo)": [
+        "South America (Sao Paulo) (Memory: 128, vCPU: 16, Network Performance: High, Instance Type: r5.4xlarge)": [
             "4.0780000000"
         ],
-        "EU (Stockholm)": [
+        "EU (Stockholm) (Memory: 128, vCPU: 16, Network Performance: High, Instance Type: r5.4xlarge)": [
             "2.1536500000"
         ],
-        "EU (Spain)": [
+        "EU (Spain) (Memory: 128, vCPU: 16, Network Performance: High, Instance Type: r5.4xlarge)": [
             "2.2670000000"
         ],
-        "EU (Paris)": [
+        "EU (Paris) (Memory: 128, vCPU: 16, Network Performance: High, Instance Type: r5.4xlarge)": [
             "2.3800000000"
         ],
-        "EU (London)": [
+        "EU (London) (Memory: 128, vCPU: 16, Network Performance: High, Instance Type: r5.4xlarge)": [
             "2.3800000000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (Memory: 128, vCPU: 16, Network Performance: High, Instance Type: r5.4xlarge)": [
             "2.2670000000"
         ],
-        "EU (Frankfurt)": [
+        "EU (Frankfurt) (Memory: 128, vCPU: 16, Network Performance: High, Instance Type: r5.4xlarge)": [
             "2.4490000000"
         ],
-        "Asia Pacific (Tokyo)": [
+        "Asia Pacific (Tokyo) (Memory: 128, vCPU: 16, Network Performance: High, Instance Type: r5.4xlarge)": [
             "2.4410000000"
         ],
-        "Asia Pacific (Sydney)": [
+        "Asia Pacific (Sydney) (Memory: 128, vCPU: 16, Network Performance: High, Instance Type: r5.4xlarge)": [
             "2.4410000000"
         ],
-        "Asia Pacific (Singapore)": [
+        "Asia Pacific (Singapore) (Memory: 128, vCPU: 16, Network Performance: High, Instance Type: r5.4xlarge)": [
             "2.4410000000"
         ],
-        "Asia Pacific (Mumbai)": [
+        "Asia Pacific (Mumbai) (Memory: 128, vCPU: 16, Network Performance: High, Instance Type: r5.4xlarge)": [
             "2.0980000000"
         ]
     },
     "r5.24xlarge - Hourly Cost": {
-        "Regionless": [
+        "Default": [
             "12.2340000000"
         ],
-        "US West (Oregon)": [
+        "US West (Oregon) (Memory: 768, vCPU: 96, Network Performance: 25 Gigabit, Instance Type: r5.24xlarge)": [
             "12.2340000000"
         ],
-        "US West (N. California)": [
+        "US West (N. California) (Memory: 768, vCPU: 96, Network Performance: 25 Gigabit, Instance Type: r5.24xlarge)": [
             "13.6290000000"
         ],
-        "US East (Ohio)": [
+        "US East (Ohio) (Memory: 768, vCPU: 96, Network Performance: 25 Gigabit, Instance Type: r5.24xlarge)": [
             "12.2340000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (Memory: 768, vCPU: 96, Network Performance: 25 Gigabit, Instance Type: r5.24xlarge)": [
             "12.2340000000"
         ],
-        "South America (Sao Paulo)": [
+        "South America (Sao Paulo) (Memory: 768, vCPU: 96, Network Performance: 25 Gigabit, Instance Type: r5.24xlarge)": [
             "24.4680000000"
         ],
-        "EU (Stockholm)": [
+        "EU (Stockholm) (Memory: 768, vCPU: 96, Network Performance: 25 Gigabit, Instance Type: r5.24xlarge)": [
             "12.9475500000"
         ],
-        "EU (Spain)": [
+        "EU (Spain) (Memory: 768, vCPU: 96, Network Performance: 25 Gigabit, Instance Type: r5.24xlarge)": [
             "13.6290000000"
         ],
-        "EU (Paris)": [
+        "EU (Paris) (Memory: 768, vCPU: 96, Network Performance: 25 Gigabit, Instance Type: r5.24xlarge)": [
             "14.3260000000"
         ],
-        "EU (London)": [
+        "EU (London) (Memory: 768, vCPU: 96, Network Performance: 25 Gigabit, Instance Type: r5.24xlarge)": [
             "14.3260000000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (Memory: 768, vCPU: 96, Network Performance: 25 Gigabit, Instance Type: r5.24xlarge)": [
             "13.6290000000"
         ],
-        "EU (Frankfurt)": [
+        "EU (Frankfurt) (Memory: 768, vCPU: 96, Network Performance: 25 Gigabit, Instance Type: r5.24xlarge)": [
             "14.7030000000"
         ],
-        "Asia Pacific (Tokyo)": [
+        "Asia Pacific (Tokyo) (Memory: 768, vCPU: 96, Network Performance: 25 Gigabit, Instance Type: r5.24xlarge)": [
             "14.6490000000"
         ],
-        "Asia Pacific (Sydney)": [
+        "Asia Pacific (Sydney) (Memory: 768, vCPU: 96, Network Performance: 25 Gigabit, Instance Type: r5.24xlarge)": [
             "14.6490000000"
         ],
-        "Asia Pacific (Singapore)": [
+        "Asia Pacific (Singapore) (Memory: 768, vCPU: 96, Network Performance: 25 Gigabit, Instance Type: r5.24xlarge)": [
             "14.6490000000"
         ],
-        "Asia Pacific (Mumbai)": [
+        "Asia Pacific (Mumbai) (Memory: 768, vCPU: 96, Network Performance: 25 Gigabit, Instance Type: r5.24xlarge)": [
             "12.5910000000"
         ]
     },
     "r5.2xlarge - Hourly Cost": {
-        "Regionless": [
+        "Default": [
             "1.0170000000"
         ],
-        "US West (Oregon)": [
+        "US West (Oregon) (Memory: 64, vCPU: 8, Network Performance: High, Instance Type: r5.2xlarge)": [
             "1.0170000000"
         ],
-        "US West (N. California)": [
+        "US West (N. California) (Memory: 64, vCPU: 8, Network Performance: High, Instance Type: r5.2xlarge)": [
             "1.1340000000"
         ],
-        "US East (Ohio)": [
+        "US East (Ohio) (Memory: 64, vCPU: 8, Network Performance: High, Instance Type: r5.2xlarge)": [
             "1.0170000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (Memory: 64, vCPU: 8, Network Performance: High, Instance Type: r5.2xlarge)": [
             "1.0170000000"
         ],
-        "South America (Sao Paulo)": [
+        "South America (Sao Paulo) (Memory: 64, vCPU: 8, Network Performance: High, Instance Type: r5.2xlarge)": [
             "2.0390000000"
         ],
-        "EU (Stockholm)": [
+        "EU (Stockholm) (Memory: 64, vCPU: 8, Network Performance: High, Instance Type: r5.2xlarge)": [
             "1.0773000000"
         ],
-        "EU (Spain)": [
+        "EU (Spain) (Memory: 64, vCPU: 8, Network Performance: High, Instance Type: r5.2xlarge)": [
             "1.1340000000"
         ],
-        "EU (Paris)": [
+        "EU (Paris) (Memory: 64, vCPU: 8, Network Performance: High, Instance Type: r5.2xlarge)": [
             "1.1910000000"
         ],
-        "EU (London)": [
+        "EU (London) (Memory: 64, vCPU: 8, Network Performance: High, Instance Type: r5.2xlarge)": [
             "1.1910000000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (Memory: 64, vCPU: 8, Network Performance: High, Instance Type: r5.2xlarge)": [
             "1.1340000000"
         ],
-        "EU (Frankfurt)": [
+        "EU (Frankfurt) (Memory: 64, vCPU: 8, Network Performance: High, Instance Type: r5.2xlarge)": [
             "1.2240000000"
         ],
-        "Asia Pacific (Tokyo)": [
+        "Asia Pacific (Tokyo) (Memory: 64, vCPU: 8, Network Performance: High, Instance Type: r5.2xlarge)": [
             "1.2210000000"
         ],
-        "Asia Pacific (Sydney)": [
+        "Asia Pacific (Sydney) (Memory: 64, vCPU: 8, Network Performance: High, Instance Type: r5.2xlarge)": [
             "1.2210000000"
         ],
-        "Asia Pacific (Singapore)": [
+        "Asia Pacific (Singapore) (Memory: 64, vCPU: 8, Network Performance: High, Instance Type: r5.2xlarge)": [
             "1.2210000000"
         ],
-        "Asia Pacific (Mumbai)": [
+        "Asia Pacific (Mumbai) (Memory: 64, vCPU: 8, Network Performance: High, Instance Type: r5.2xlarge)": [
             "1.0490000000"
         ]
     },
     "t3.medium - Hourly Cost": {
-        "Regionless": [
+        "Default": [
             "0.0800000000"
         ],
-        "US West (Oregon)": [
+        "US West (Oregon) (Memory: 4, vCPU: 2, Network Performance: Low to Moderate, Instance Type: t3.medium)": [
             "0.0800000000"
         ],
-        "US West (N. California)": [
+        "US West (N. California) (Memory: 4, vCPU: 2, Network Performance: Low to Moderate, Instance Type: t3.medium)": [
             "0.1040000000"
         ],
-        "US East (Ohio)": [
+        "US East (Ohio) (Memory: 4, vCPU: 2, Network Performance: Low to Moderate, Instance Type: t3.medium)": [
             "0.0800000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (Memory: 4, vCPU: 2, Network Performance: Low to Moderate, Instance Type: t3.medium)": [
             "0.0800000000"
         ],
-        "South America (Sao Paulo)": [
+        "South America (Sao Paulo) (Memory: 4, vCPU: 2, Network Performance: Low to Moderate, Instance Type: t3.medium)": [
             "0.1650000000"
         ],
-        "EU (Stockholm)": [
+        "EU (Stockholm) (Memory: 4, vCPU: 2, Network Performance: Low to Moderate, Instance Type: t3.medium)": [
             "0.0817000000"
         ],
-        "EU (Spain)": [
+        "EU (Spain) (Memory: 4, vCPU: 2, Network Performance: Low to Moderate, Instance Type: t3.medium)": [
             "0.0860000000"
         ],
-        "EU (Paris)": [
+        "EU (Paris) (Memory: 4, vCPU: 2, Network Performance: Low to Moderate, Instance Type: t3.medium)": [
             "0.0900000000"
         ],
-        "EU (London)": [
+        "EU (London) (Memory: 4, vCPU: 2, Network Performance: Low to Moderate, Instance Type: t3.medium)": [
             "0.0900000000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (Memory: 4, vCPU: 2, Network Performance: Low to Moderate, Instance Type: t3.medium)": [
             "0.0860000000"
         ],
-        "EU (Frankfurt)": [
+        "EU (Frankfurt) (Memory: 4, vCPU: 2, Network Performance: Low to Moderate, Instance Type: t3.medium)": [
             "0.0920000000"
         ],
-        "Asia Pacific (Tokyo)": [
+        "Asia Pacific (Tokyo) (Memory: 4, vCPU: 2, Network Performance: Low to Moderate, Instance Type: t3.medium)": [
             "0.1230000000"
         ],
-        "Asia Pacific (Sydney)": [
+        "Asia Pacific (Sydney) (Memory: 4, vCPU: 2, Network Performance: Low to Moderate, Instance Type: t3.medium)": [
             "0.1230000000"
         ],
-        "Asia Pacific (Singapore)": [
+        "Asia Pacific (Singapore) (Memory: 4, vCPU: 2, Network Performance: Low to Moderate, Instance Type: t3.medium)": [
             "0.1230000000"
         ],
-        "Asia Pacific (Mumbai)": [
+        "Asia Pacific (Mumbai) (Memory: 4, vCPU: 2, Network Performance: Low to Moderate, Instance Type: t3.medium)": [
             "0.1170000000"
         ]
     }

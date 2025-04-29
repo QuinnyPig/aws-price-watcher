@@ -1,6 +1,6 @@
 {
     "IoT SiteWise Monitor per Users": {
-        "Regionless": [
+        "Default": [
             "10.0000000000"
         ],
         "US West (Oregon)": [
@@ -41,7 +41,7 @@
         ]
     },
     "IoT SiteWise Computations per Computations": {
-        "Regionless": [
+        "Default": [
             "0.0000005000"
         ],
         "US West (Oregon)": [
@@ -82,7 +82,7 @@
         ]
     },
     "IoT SiteWise Edge per Pack": {
-        "Regionless": [
+        "Default": [
             "200.0000000000"
         ],
         "US West (Oregon)": [
@@ -123,7 +123,7 @@
         ]
     },
     "IoT SiteWise DataScanned per GB": {
-        "Regionless": [
+        "Default": [
             "0.2000000000"
         ],
         "US West (Oregon)": [
@@ -158,7 +158,7 @@
         ]
     },
     "IoT SiteWise Messaging per Messages": {
-        "Regionless": [
+        "Default": [
             "0.0000010000"
         ],
         "US West (Oregon)": [
@@ -199,7 +199,7 @@
         ]
     },
     "IoT SiteWise Storage Warm per GB-Hours": {
-        "Regionless": [
+        "Default": [
             "0.0000416700"
         ],
         "US West (Oregon)": [
@@ -240,7 +240,7 @@
         ]
     },
     "IoT SiteWise Storage per GB-Hours": {
-        "Regionless": [
+        "Default": [
             "0.0004166700"
         ],
         "US West (Oregon)": [
@@ -281,7 +281,7 @@
         ]
     },
     "IoT SiteWise Data Export per Objects": {
-        "Regionless": [
+        "Default": [
             "0.0000050000"
         ],
         "US West (Oregon)": [

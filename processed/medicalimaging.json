@@ -1,6 +1,6 @@
 {
     "Storage Frequent Access per GB-month": {
-        "Regionless": [
+        "Default": [
             "0.1050000000"
         ],
         "US West (Oregon)": [
@@ -17,7 +17,7 @@
         ]
     },
     "Storage Archive Instant Access per GB-month": {
-        "Regionless": [
+        "Default": [
             "0.0060000000"
         ],
         "US West (Oregon)": [
@@ -34,7 +34,7 @@
         ]
     },
     "API Request Core API per Requests": {
-        "Regionless": [
+        "Default": [
             "0.0000050000"
         ],
         "US West (Oregon)": [

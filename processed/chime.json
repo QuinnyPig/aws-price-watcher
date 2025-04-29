@@ -1,6 +1,6 @@
 {
     "AmazonChime minutes sdk": {
-        "Regionless": [
+        "Default": [
             "0.0017000000"
         ],
         "US West (Oregon)": [
@@ -47,7 +47,7 @@
         ]
     },
     "AmazonChime minutes FHD SDK": {
-        "Regionless": [
+        "Default": [
             "0.0034000000"
         ],
         "US West (Oregon)": [
@@ -94,7 +94,7 @@
         ]
     },
     "AmazonChime minutes SDK Capacity": {
-        "Regionless": [
+        "Default": [
             "0.0001000000"
         ],
         "US West (Oregon)": [
@@ -141,7 +141,7 @@
         ]
     },
     "AmazonChime Meetings": {
-        "Regionless": [
+        "Default": [
             "3.0000000000"
         ],
         "US East (N. Virginia)": [
@@ -149,7 +149,7 @@
         ]
     },
     "AmazonChime ActiveHostsFree": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US East (N. Virginia)": [

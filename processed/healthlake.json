@@ -1,6 +1,6 @@
 {
     "FHIRDataStorage per GB-Mo from 10 to Inf": {
-        "Regionless": [
+        "Default": [
             "0.2500000000"
         ],
         "US West (Oregon)": [
@@ -23,7 +23,7 @@
         ]
     },
     "FHIRQueries per Queries from 0 to 2520000": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -46,7 +46,7 @@
         ]
     },
     "AdvancedDataStorage per GB-Mo from 10 to Inf": {
-        "Regionless": [
+        "Default": [
             "0.3700000000"
         ],
         "US West (Oregon)": [
@@ -69,7 +69,7 @@
         ]
     },
     "FHIRQueries per Queries from 2520000 to Inf": {
-        "Regionless": [
+        "Default": [
             "0.0000015000"
         ],
         "US West (Oregon)": [
@@ -92,7 +92,7 @@
         ]
     },
     "FHIRDataExport per GB": {
-        "Regionless": [
+        "Default": [
             "0.1900000000"
         ],
         "US West (Oregon)": [
@@ -115,7 +115,7 @@
         ]
     },
     "FHIRDataStorage per GB-Mo from 0 to 10": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -138,7 +138,7 @@
         ]
     },
     "FHIRDataStore per hours": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -161,7 +161,7 @@
         ]
     },
     "AdvancedDataStorage per GB-Mo from 0 to 10": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -184,7 +184,7 @@
         ]
     },
     "IntegratedMedicalNLP per Units": {
-        "Regionless": [
+        "Default": [
             "0.0010000000"
         ],
         "US West (Oregon)": [

@@ -1,6 +1,6 @@
 {
     "WAM Standard": {
-        "Regionless": [
+        "Default": [
             "5.0000000000"
         ],
         "US West (Oregon)": [
@@ -20,7 +20,7 @@
         ]
     },
     "WAM Service Entitlement": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -31,7 +31,7 @@
         ]
     },
     "WAM Lite": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -51,7 +51,7 @@
         ]
     },
     "WAM Line of Business": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [

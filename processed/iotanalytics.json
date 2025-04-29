@@ -1,6 +1,6 @@
 {
     "Raw Storage next 450TB per GB-Mo": {
-        "Regionless": [
+        "Default": [
             "0.0220000000"
         ],
         "US West (Oregon)": [
@@ -29,7 +29,7 @@
         ]
     },
     "Custom Analysis Execution - 2-ACU per ACU-Hour": {
-        "Regionless": [
+        "Default": [
             "0.7200000000"
         ],
         "US West (Oregon)": [
@@ -58,7 +58,7 @@
         ]
     },
     "Processed Data per GB": {
-        "Regionless": [
+        "Default": [
             "0.2000000000"
         ],
         "US West (Oregon)": [
@@ -87,7 +87,7 @@
         ]
     },
     "Processed Storage per GB-Mo": {
-        "Regionless": [
+        "Default": [
             "0.0300000000"
         ],
         "US West (Oregon)": [
@@ -116,7 +116,7 @@
         ]
     },
     "Custom Analysis Execution - 1-ACU per ACU-Hour": {
-        "Regionless": [
+        "Default": [
             "0.3600000000"
         ],
         "US West (Oregon)": [
@@ -145,7 +145,7 @@
         ]
     },
     "Raw Storage over 500TB per GB-Mo": {
-        "Regionless": [
+        "Default": [
             "0.0210000000"
         ],
         "US West (Oregon)": [
@@ -174,7 +174,7 @@
         ]
     },
     "Raw Storage first 50TB per GB-Mo": {
-        "Regionless": [
+        "Default": [
             "0.0230000000"
         ],
         "US West (Oregon)": [
@@ -203,7 +203,7 @@
         ]
     },
     "Scanning per TB": {
-        "Regionless": [
+        "Default": [
             "6.5000000000"
         ],
         "US West (Oregon)": [

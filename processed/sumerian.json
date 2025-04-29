@@ -1,6 +1,6 @@
 {
     "Scene Published Traffic per GB": {
-        "Regionless": [
+        "Default": [
             "0.3800000000"
         ],
         "US West (Oregon)": [
@@ -53,7 +53,7 @@
         ]
     },
     "Scene Draft Traffic per GB": {
-        "Regionless": [
+        "Default": [
             "0.3800000000"
         ],
         "US West (Oregon)": [
@@ -106,7 +106,7 @@
         ]
     },
     "Storage per GB-mo": {
-        "Regionless": [
+        "Default": [
             "0.0600000000"
         ],
         "US West (Oregon)": [

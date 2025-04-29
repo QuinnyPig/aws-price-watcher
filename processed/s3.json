@@ -1,6 +1,6 @@
 {
     "Data Returned by S3 Select in Intelligent Tiering per GB": {
-        "Regionless": [
+        "Default": [
             "0.0007000000"
         ],
         "US West (Oregon)": [
@@ -107,7 +107,7 @@
         ]
     },
     "Access Grants Requests ListAGs per Requests": {
-        "Regionless": [
+        "Default": [
             "0.0000300000"
         ],
         "US West (Oregon)": [
@@ -214,7 +214,7 @@
         ]
     },
     "Access Grants Requests ListAGCallerGrants per Requests": {
-        "Regionless": [
+        "Default": [
             "0.0000300000"
         ],
         "US West (Oregon)": [
@@ -321,7 +321,7 @@
         ]
     },
     "Standard Storage Over 500 TB per GB Mo": {
-        "Regionless": [
+        "Default": [
             "0.0210000000"
         ],
         "US West (Oregon)": [
@@ -428,7 +428,7 @@
         ]
     },
     "Access Grants Requests ListAGLocations per Requests": {
-        "Regionless": [
+        "Default": [
             "0.0000300000"
         ],
         "US West (Oregon)": [
@@ -535,7 +535,7 @@
         ]
     },
     "Intelligent Tiering Infrequent Access per GB Mo": {
-        "Regionless": [
+        "Default": [
             "0.0125000000"
         ],
         "US West (Oregon)": [
@@ -642,7 +642,7 @@
         ]
     },
     "Intelligent Tiering Infrequent Access From 0 to Inf per GB-Mo": {
-        "Regionless": [
+        "Default": [
             "0.0125000000"
         ],
         "US West (Oregon)": [
@@ -749,7 +749,7 @@
         ]
     },
     "Per object fee to generate Batch Operations Manifest": {
-        "Regionless": [
+        "Default": [
             "0.0000000150"
         ],
         "US West (Oregon)": [
@@ -856,7 +856,7 @@
         ]
     },
     "Access Grants Requests CreateAGGrant per Requests": {
-        "Regionless": [
+        "Default": [
             "0.0000300000"
         ],
         "US West (Oregon)": [
@@ -963,7 +963,7 @@
         ]
     },
     "Per job fee for Batch Operations jobs": {
-        "Regionless": [
+        "Default": [
             "0.2500000000"
         ],
         "US West (Oregon)": [
@@ -1070,7 +1070,7 @@
         ]
     },
     "Bulk Glacier Restore Requests": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -1177,7 +1177,7 @@
         ]
     },
     "Glacier S3 API Tier 5": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -1284,7 +1284,7 @@
         ]
     },
     "PUT COPY/POST or LIST requests to Intelligent Tiering per Requests": {
-        "Regionless": [
+        "Default": [
             "0.0000050000"
         ],
         "US West (Oregon)": [
@@ -1391,7 +1391,7 @@
         ]
     },
     "Lifecycle Transition Requests into One Zone Infrequent Access per Requests": {
-        "Regionless": [
+        "Default": [
             "0.0000100000"
         ],
         "US West (Oregon)": [
@@ -1498,7 +1498,7 @@
         ]
     },
     "INT AA-RestoreObject Standard INT Retrieval per GB": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -1605,7 +1605,7 @@
         ]
     },
     "PUT requests to Glacier per Requests": {
-        "Regionless": [
+        "Default": [
             "0.0000300000"
         ],
         "US West (Oregon)": [
@@ -1712,7 +1712,7 @@
         ]
     },
     "Fee for Standard Retrieval of data stored": {
-        "Regionless": [
+        "Default": [
             "0.0100000000"
         ],
         "US West (Oregon)": [
@@ -1819,7 +1819,7 @@
         ]
     },
     "Glacier S3 Standard Retrieval RestoreObject": {
-        "Regionless": [
+        "Default": [
             "0.0100000000"
         ],
         "US West (Oregon)": [
@@ -1926,7 +1926,7 @@
         ]
     },
     "Access Grants Requests DeleteAGIdC per Requests": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -2033,7 +2033,7 @@
         ]
     },
     "GET and all other requests to GLACIER per Requests": {
-        "Regionless": [
+        "Default": [
             "0.0000004000"
         ],
         "US West (Oregon)": [
@@ -2140,7 +2140,7 @@
         ]
     },
     "PUT COPY/POST or LIST requests to Express One Zone per Requests": {
-        "Regionless": [
+        "Default": [
             "0.0000011300"
         ],
         "US West (Oregon)": [
@@ -2166,7 +2166,7 @@
         ]
     },
     "Data Scanned by S3 Select in Standard Infrequent Access per GB": {
-        "Regionless": [
+        "Default": [
             "0.0020000000"
         ],
         "US West (Oregon)": [
@@ -2273,7 +2273,7 @@
         ]
     },
     "Access Grants Requests ListAGGrants per Requests": {
-        "Regionless": [
+        "Default": [
             "0.0000300000"
         ],
         "US West (Oregon)": [
@@ -2380,7 +2380,7 @@
         ]
     },
     "Access Grants Requests CreateAGInstancePolicy per Requests": {
-        "Regionless": [
+        "Default": [
             "0.0000300000"
         ],
         "US West (Oregon)": [
@@ -2487,7 +2487,7 @@
         ]
     },
     "S3 API-INT-AdditionalRequest RestoreObject": {
-        "Regionless": [
+        "Default": [
             "0.0000004000"
         ],
         "US West (Oregon)": [
@@ -2594,7 +2594,7 @@
         ]
     },
     "Data Scanned by S3 Select in Intelligent Tiering per GB": {
-        "Regionless": [
+        "Default": [
             "0.0020000000"
         ],
         "US West (Oregon)": [
@@ -2701,7 +2701,7 @@
         ]
     },
     "Data Returned by S3 Select in One Zone Infrequent Access per GB": {
-        "Regionless": [
+        "Default": [
             "0.0100000000"
         ],
         "US West (Oregon)": [
@@ -2808,7 +2808,7 @@
         ]
     },
     "CompleteMultipartUpload for Replication Time Control to Glacier per Requests": {
-        "Regionless": [
+        "Default": [
             "0.0000300000"
         ],
         "US West (Oregon)": [
@@ -2912,7 +2912,7 @@
         ]
     },
     "Data Scanned by S3 Select in Glacier Instant Retrieval per GB": {
-        "Regionless": [
+        "Default": [
             "0.0020000000"
         ],
         "US West (Oregon)": [
@@ -3019,7 +3019,7 @@
         ]
     },
     "Data Scanned by S3 Select in One Zone Infrequent Access per GB": {
-        "Regionless": [
+        "Default": [
             "0.0020000000"
         ],
         "US West (Oregon)": [
@@ -3126,7 +3126,7 @@
         ]
     },
     "Access Grants Requests DeleteAGLocation per Requests": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -3233,7 +3233,7 @@
         ]
     },
     "Per object fee for objects included in Storage Lens 100000000000 Inf": {
-        "Regionless": [
+        "Default": [
             "0.0000001200"
         ],
         "US West (Oregon)": [
@@ -3340,7 +3340,7 @@
         ]
     },
     "Bytes Decrypted using Dual Layer Server-Side Decryption per GB": {
-        "Regionless": [
+        "Default": [
             "0.0030000000"
         ],
         "US West (Oregon)": [
@@ -3447,7 +3447,7 @@
         ]
     },
     "PUT COPY/POST or LIST requests to One Zone Infrequent Access per Requests": {
-        "Regionless": [
+        "Default": [
             "0.0000100000"
         ],
         "US West (Oregon)": [
@@ -3554,7 +3554,7 @@
         ]
     },
     "Express One Zone Storage Inf per GB Mo": {
-        "Regionless": [
+        "Default": [
             "0.1100000000"
         ],
         "US West (Oregon)": [
@@ -3580,7 +3580,7 @@
         ]
     },
     "Object Upload in Express One Zone per GB": {
-        "Regionless": [
+        "Default": [
             "0.0032000000"
         ],
         "US West (Oregon)": [
@@ -3606,7 +3606,7 @@
         ]
     },
     "GET and all other requests to Express One Zone per Requests": {
-        "Regionless": [
+        "Default": [
             "0.0000000300"
         ],
         "US West (Oregon)": [
@@ -3632,7 +3632,7 @@
         ]
     },
     "Glacier S3 Expedited Retrieval": {
-        "Regionless": [
+        "Default": [
             "0.0300000000"
         ],
         "US West (Oregon)": [
@@ -3739,7 +3739,7 @@
         ]
     },
     "Access Grants Requests GetAGInstanceForPrefix per Requests": {
-        "Regionless": [
+        "Default": [
             "0.0000300000"
         ],
         "US West (Oregon)": [
@@ -3846,7 +3846,7 @@
         ]
     },
     "Per object fee for objects listed in an Inventory": {
-        "Regionless": [
+        "Default": [
             "0.0000000025"
         ],
         "US West (Oregon)": [
@@ -3953,7 +3953,7 @@
         ]
     },
     "Glacier Instant Retrieval Storage": {
-        "Regionless": [
+        "Default": [
             "0.0040000000"
         ],
         "US West (Oregon)": [
@@ -4060,7 +4060,7 @@
         ]
     },
     "Access Grants Requests CreateAGIdC per Requests": {
-        "Regionless": [
+        "Default": [
             "0.0000300000"
         ],
         "US West (Oregon)": [
@@ -4167,7 +4167,7 @@
         ]
     },
     "Object Retrieval in Glacier Instant Retrieval per GB": {
-        "Regionless": [
+        "Default": [
             "0.0300000000"
         ],
         "US West (Oregon)": [
@@ -4274,7 +4274,7 @@
         ]
     },
     "GET and all other requests per Requests": {
-        "Regionless": [
+        "Default": [
             "0.0000004000"
         ],
         "US West (Oregon)": [
@@ -4381,7 +4381,7 @@
         ]
     },
     "Object Retrieval in Express One Zone per GB": {
-        "Regionless": [
+        "Default": [
             "0.0006000000"
         ],
         "US West (Oregon)": [
@@ -4407,7 +4407,7 @@
         ]
     },
     "Glacier Storage per GB Mo": {
-        "Regionless": [
+        "Default": [
             "0.0036000000"
         ],
         "US West (Oregon)": [
@@ -4514,7 +4514,7 @@
         ]
     },
     "Bytes Returned by OL APs per GB": {
-        "Regionless": [
+        "Default": [
             "0.0050000000"
         ],
         "US West (Oregon)": [
@@ -4621,7 +4621,7 @@
         ]
     },
     "Reduced Redundancy Storage Next 4 000 TB per GB Mo": {
-        "Regionless": [
+        "Default": [
             "0.0224000000"
         ],
         "US West (Oregon)": [
@@ -4728,7 +4728,7 @@
         ]
     },
     "Standard Infrequent Access Storage per GB-Mo": {
-        "Regionless": [
+        "Default": [
             "0.0125000000"
         ],
         "US West (Oregon)": [
@@ -4835,7 +4835,7 @@
         ]
     },
     "Reduced Redundancy Storage Nex 500 TB per GB Mo": {
-        "Regionless": [
+        "Default": [
             "0.0228000000"
         ],
         "US West (Oregon)": [
@@ -4942,7 +4942,7 @@
         ]
     },
     "Object Retrieval in One Zone Infrequent Access per GB": {
-        "Regionless": [
+        "Default": [
             "0.0100000000"
         ],
         "US West (Oregon)": [
@@ -5049,7 +5049,7 @@
         ]
     },
     "No charge for Free Tier Storage Lens": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -5156,7 +5156,7 @@
         ]
     },
     "UploadPart for Replication Time Control to Glacier per Requests": {
-        "Regionless": [
+        "Default": [
             "0.0000050000"
         ],
         "US West (Oregon)": [
@@ -5260,7 +5260,7 @@
         ]
     },
     "Per object fee for objects included in Storage Lens 25000000000 100000000000": {
-        "Regionless": [
+        "Default": [
             "0.0000001600"
         ],
         "US West (Oregon)": [
@@ -5367,7 +5367,7 @@
         ]
     },
     "Restore Object per Requests": {
-        "Regionless": [
+        "Default": [
             "0.0000500000"
         ],
         "US West (Oregon)": [
@@ -5474,7 +5474,7 @@
         ]
     },
     "Glacier S3 API Tier 3 RestoreObject": {
-        "Regionless": [
+        "Default": [
             "0.0000500000"
         ],
         "US West (Oregon)": [
@@ -5581,7 +5581,7 @@
         ]
     },
     "Lifecycle Transition Requests into Standard Infrequent Access per Requests": {
-        "Regionless": [
+        "Default": [
             "0.0000100000"
         ],
         "US West (Oregon)": [
@@ -5688,7 +5688,7 @@
         ]
     },
     "POST requests to Glacier per Requests": {
-        "Regionless": [
+        "Default": [
             "0.0000300000"
         ],
         "US West (Oregon)": [
@@ -5795,7 +5795,7 @@
         ]
     },
     "Lifecycle Transition Requests into Intelligent Tiering per Requests": {
-        "Regionless": [
+        "Default": [
             "0.0000100000"
         ],
         "US West (Oregon)": [
@@ -5902,7 +5902,7 @@
         ]
     },
     "Data Returned by S3 Select in Standard per GB": {
-        "Regionless": [
+        "Default": [
             "0.0007000000"
         ],
         "US West (Oregon)": [
@@ -6009,7 +6009,7 @@
         ]
     },
     "IntelligentTieringArchiveAccess": {
-        "Regionless": [
+        "Default": [
             "0.0036000000"
         ],
         "US West (Oregon)": [
@@ -6116,7 +6116,7 @@
         ]
     },
     "Access Grants Requests DeleteAGInstancePolicy per Requests": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -6223,7 +6223,7 @@
         ]
     },
     "Tags Storage per Tag Mo": {
-        "Regionless": [
+        "Default": [
             "0.0000006500"
         ],
         "US West (Oregon)": [
@@ -6330,7 +6330,7 @@
         ]
     },
     "S3 API-DAA-TIER3 RestoreObject": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -6437,7 +6437,7 @@
         ]
     },
     "Access Grants Requests GetAGGrant per Requests": {
-        "Regionless": [
+        "Default": [
             "0.0000300000"
         ],
         "US West (Oregon)": [
@@ -6544,7 +6544,7 @@
         ]
     },
     "Access Grants Requests GetAGDataAccess per Requests": {
-        "Regionless": [
+        "Default": [
             "0.0000300000"
         ],
         "US West (Oregon)": [
@@ -6651,7 +6651,7 @@
         ]
     },
     "Per object fee for objects included in Storage Lens 0 25000000000": {
-        "Regionless": [
+        "Default": [
             "0.0000002000"
         ],
         "US West (Oregon)": [
@@ -6758,7 +6758,7 @@
         ]
     },
     "GET and all other requests to Intelligent Tiering per Requests": {
-        "Regionless": [
+        "Default": [
             "0.0000004000"
         ],
         "US West (Oregon)": [
@@ -6865,7 +6865,7 @@
         ]
     },
     "PUT for Replication to Glacier per Requests": {
-        "Regionless": [
+        "Default": [
             "0.0000300000"
         ],
         "US West (Oregon)": [
@@ -6972,7 +6972,7 @@
         ]
     },
     "INT AA-RestoreObject Expedited INT Retrieval per GB": {
-        "Regionless": [
+        "Default": [
             "0.0300000000"
         ],
         "US West (Oregon)": [
@@ -7079,7 +7079,7 @@
         ]
     },
     "PUT COPY/POST or LIST requests to Glacier Instant Retrieval per Requests": {
-        "Regionless": [
+        "Default": [
             "0.0000200000"
         ],
         "US West (Oregon)": [
@@ -7186,7 +7186,7 @@
         ]
     },
     "One Zone Infrequent Access Storage Inf per GB-Mo": {
-        "Regionless": [
+        "Default": [
             "0.0100000000"
         ],
         "US West (Oregon)": [
@@ -7293,7 +7293,7 @@
         ]
     },
     "CompleteMultipartUpload to Glacier per Requests": {
-        "Regionless": [
+        "Default": [
             "0.0000300000"
         ],
         "US West (Oregon)": [
@@ -7400,7 +7400,7 @@
         ]
     },
     "IntelligentTieringDeepArchiveAccess": {
-        "Regionless": [
+        "Default": [
             "0.0009900000"
         ],
         "US West (Oregon)": [
@@ -7507,7 +7507,7 @@
         ]
     },
     "Access Grants Requests CreateAGInstance per Requests": {
-        "Regionless": [
+        "Default": [
             "0.0000300000"
         ],
         "US West (Oregon)": [
@@ -7614,7 +7614,7 @@
         ]
     },
     "Data Returned by S3 Select in Standard Infrequent Access per GB": {
-        "Regionless": [
+        "Default": [
             "0.0100000000"
         ],
         "US West (Oregon)": [
@@ -7721,7 +7721,7 @@
         ]
     },
     "Access Grants Requests DeleteAGGrant per Requests": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -7828,7 +7828,7 @@
         ]
     },
     "Fee for Bulk Retrieval of data stored from Glacier Deep Archive": {
-        "Regionless": [
+        "Default": [
             "0.0025000000"
         ],
         "US West (Oregon)": [
@@ -7935,7 +7935,7 @@
         ]
     },
     "Access Grants Requests GetAGLocation per Requests": {
-        "Regionless": [
+        "Default": [
             "0.0000300000"
         ],
         "US West (Oregon)": [
@@ -8042,7 +8042,7 @@
         ]
     },
     "Bytes Encrypted using Dual Layer Server-Side Encryption per GB": {
-        "Regionless": [
+        "Default": [
             "0.0030000000"
         ],
         "US West (Oregon)": [
@@ -8149,7 +8149,7 @@
         ]
     },
     "Intelligent Tiering Frequent Access Over 500 TB per GB Mo": {
-        "Regionless": [
+        "Default": [
             "0.0210000000"
         ],
         "US West (Oregon)": [
@@ -8256,7 +8256,7 @@
         ]
     },
     "InitiateMultipartUpload for Replication Time Control to Glacier per Requests": {
-        "Regionless": [
+        "Default": [
             "0.0000050000"
         ],
         "US West (Oregon)": [
@@ -8360,7 +8360,7 @@
         ]
     },
     "COPY requests to Glacier per Requests": {
-        "Regionless": [
+        "Default": [
             "0.0000300000"
         ],
         "US West (Oregon)": [
@@ -8467,7 +8467,7 @@
         ]
     },
     "Reduced Redundancy Storage Next 49 TB perGB Mo": {
-        "Regionless": [
+        "Default": [
             "0.0236000000"
         ],
         "US West (Oregon)": [
@@ -8574,7 +8574,7 @@
         ]
     },
     "Per object fee for objects included in Analytics": {
-        "Regionless": [
+        "Default": [
             "0.0000001000"
         ],
         "US West (Oregon)": [
@@ -8681,7 +8681,7 @@
         ]
     },
     "PUT COPY/POST or LIST requests per Requests": {
-        "Regionless": [
+        "Default": [
             "0.0000050000"
         ],
         "US West (Oregon)": [
@@ -8788,7 +8788,7 @@
         ]
     },
     "Lifecycle Transition Requests into Glacier per Requests": {
-        "Regionless": [
+        "Default": [
             "0.0000300000"
         ],
         "US West (Oregon)": [
@@ -8895,7 +8895,7 @@
         ]
     },
     "Access Grants Requests CreateAGLocation per Requests": {
-        "Regionless": [
+        "Default": [
             "0.0000300000"
         ],
         "US West (Oregon)": [
@@ -9002,7 +9002,7 @@
         ]
     },
     "Glacier Expedited Glacier Restore Requests": {
-        "Regionless": [
+        "Default": [
             "0.0100000000"
         ],
         "US West (Oregon)": [
@@ -9109,7 +9109,7 @@
         ]
     },
     "Per object per month monitoring and automation fee for objects in Intelligent Tiering": {
-        "Regionless": [
+        "Default": [
             "0.0000025000"
         ],
         "US West (Oregon)": [
@@ -9216,7 +9216,7 @@
         ]
     },
     "INT AA-RestoreObject Bulk INT Retrieval per GB": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -9323,7 +9323,7 @@
         ]
     },
     "Glacier Staging Storage per GB Mo": {
-        "Regionless": [
+        "Default": [
             "0.0210000000"
         ],
         "US West (Oregon)": [
@@ -9430,7 +9430,7 @@
         ]
     },
     "GET and all other requests to Standard Infrequent Access per Requests": {
-        "Regionless": [
+        "Default": [
             "0.0000010000"
         ],
         "US West (Oregon)": [
@@ -9537,7 +9537,7 @@
         ]
     },
     "CopyPart to Glacier per Requests": {
-        "Regionless": [
+        "Default": [
             "0.0000050000"
         ],
         "US West (Oregon)": [
@@ -9644,7 +9644,7 @@
         ]
     },
     "Object Retrieval in Standard Infrequent Access per GB": {
-        "Regionless": [
+        "Default": [
             "0.0100000000"
         ],
         "US West (Oregon)": [
@@ -9751,7 +9751,7 @@
         ]
     },
     "Fee for Bulk Retrieval of data stored": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -9858,7 +9858,7 @@
         ]
     },
     "Glacier S3 Bulk Retrieval RestoreObject": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -9965,7 +9965,7 @@
         ]
     },
     "Lifecycle Transition Requests into Glacier Instant Retrieval per Requests": {
-        "Regionless": [
+        "Default": [
             "0.0000200000"
         ],
         "US West (Oregon)": [
@@ -10072,7 +10072,7 @@
         ]
     },
     "Access Grants Requests GetAG per Requests": {
-        "Regionless": [
+        "Default": [
             "0.0000300000"
         ],
         "US West (Oregon)": [
@@ -10179,7 +10179,7 @@
         ]
     },
     "GET and all other requests to GDA per Requests": {
-        "Regionless": [
+        "Default": [
             "0.0000004000"
         ],
         "US West (Oregon)": [
@@ -10286,7 +10286,7 @@
         ]
     },
     "Per object fee for object operations performed by Batch Operations": {
-        "Regionless": [
+        "Default": [
             "0.0000010000"
         ],
         "US West (Oregon)": [
@@ -10393,7 +10393,7 @@
         ]
     },
     "Standard Storage Next 450 TB per GB Mo": {
-        "Regionless": [
+        "Default": [
             "0.0220000000"
         ],
         "US West (Oregon)": [
@@ -10500,7 +10500,7 @@
         ]
     },
     "Standard Storage First 50 TB per GB Mo": {
-        "Regionless": [
+        "Default": [
             "0.0230000000"
         ],
         "US West (Oregon)": [
@@ -10607,7 +10607,7 @@
         ]
     },
     "Reduced Redundancy Storage Over 5 000 TB per GB Mo": {
-        "Regionless": [
+        "Default": [
             "0.0220000000"
         ],
         "US West (Oregon)": [
@@ -10714,7 +10714,7 @@
         ]
     },
     "Access Grants Requests GetAGInstancePolicy per Requests": {
-        "Regionless": [
+        "Default": [
             "0.0000300000"
         ],
         "US West (Oregon)": [
@@ -10821,7 +10821,7 @@
         ]
     },
     "Data Returned by S3 Select in Glacier Instant Retrieval per GB": {
-        "Regionless": [
+        "Default": [
             "0.0300000000"
         ],
         "US West (Oregon)": [
@@ -10928,7 +10928,7 @@
         ]
     },
     "GET and all other requests to Glacier Instant Retrieval per Requests": {
-        "Regionless": [
+        "Default": [
             "0.0000100000"
         ],
         "US West (Oregon)": [
@@ -11035,7 +11035,7 @@
         ]
     },
     "Expedited INT Restore Requests per Requests": {
-        "Regionless": [
+        "Default": [
             "0.0100000000"
         ],
         "US West (Oregon)": [
@@ -11142,7 +11142,7 @@
         ]
     },
     "GET and all other requests to One Zone Infrequent Access per Requests": {
-        "Regionless": [
+        "Default": [
             "0.0000010000"
         ],
         "US West (Oregon)": [
@@ -11249,7 +11249,7 @@
         ]
     },
     "Access Grants Requests DeleteAG per Requests": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -11356,7 +11356,7 @@
         ]
     },
     "CompleteMultipartUpload for Replication to Glacier per Requests": {
-        "Regionless": [
+        "Default": [
             "0.0000300000"
         ],
         "US West (Oregon)": [
@@ -11463,7 +11463,7 @@
         ]
     },
     "Reduced Redundancy Storage First 1 YB per GB Mo": {
-        "Regionless": [
+        "Default": [
             "0.0240000000"
         ],
         "US West (Oregon)": [
@@ -11570,7 +11570,7 @@
         ]
     },
     "Intelligent Tiering Archive Instant Access": {
-        "Regionless": [
+        "Default": [
             "0.0040000000"
         ],
         "US West (Oregon)": [
@@ -11677,7 +11677,7 @@
         ]
     },
     "Reduced Redundancy Storage Next 450 TB per GB Mo": {
-        "Regionless": [
+        "Default": [
             "0.0232000000"
         ],
         "US West (Oregon)": [
@@ -11784,7 +11784,7 @@
         ]
     },
     "PUT for Replication Time Control to Glacier per Requests": {
-        "Regionless": [
+        "Default": [
             "0.0000300000"
         ],
         "US West (Oregon)": [
@@ -11891,7 +11891,7 @@
         ]
     },
     "Intelligent Tiering Frequent Access First 50 TB per GB Mo": {
-        "Regionless": [
+        "Default": [
             "0.0230000000"
         ],
         "US West (Oregon)": [
@@ -11998,7 +11998,7 @@
         ]
     },
     "Intelligent Tiering Frequent Access Next 450 TB per GB Mo": {
-        "Regionless": [
+        "Default": [
             "0.0220000000"
         ],
         "US West (Oregon)": [
@@ -12105,7 +12105,7 @@
         ]
     },
     "Fee for Standard Retrieval of data stored from Glacier Deep Archive": {
-        "Regionless": [
+        "Default": [
             "0.0200000000"
         ],
         "US West (Oregon)": [
@@ -12212,7 +12212,7 @@
         ]
     },
     "Lifecycle Transition Requests into Glacier Deep Archive per Requests": {
-        "Regionless": [
+        "Default": [
             "0.0000500000"
         ],
         "US West (Oregon)": [
@@ -12319,7 +12319,7 @@
         ]
     },
     "Access Grants Requests UpdateAGLocation per Requests": {
-        "Regionless": [
+        "Default": [
             "0.0000300000"
         ],
         "US West (Oregon)": [
@@ -12426,7 +12426,7 @@
         ]
     },
     "Data Scanned by S3 Select in Standard per GB": {
-        "Regionless": [
+        "Default": [
             "0.0020000000"
         ],
         "US West (Oregon)": [
@@ -12533,7 +12533,7 @@
         ]
     },
     "PUT COPY/POST or LIST requests to Standard Infrequent Access per Requests": {
-        "Regionless": [
+        "Default": [
             "0.0000100000"
         ],
         "US West (Oregon)": [
@@ -12640,7 +12640,7 @@
         ]
     },
     "Standard INT Restore Requests per Requests": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -12747,7 +12747,7 @@
         ]
     },
     "S3 API-INT-AA-TIER3 RestoreObject": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [

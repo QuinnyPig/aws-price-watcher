@@ -1,6 +1,6 @@
 {
     "perGB per hour": {
-        "Regionless": [
+        "Default": [
             "0.0044450000"
         ],
         "US West (Oregon)": [
@@ -107,7 +107,7 @@
         ]
     },
     "Storage per GB-Hours": {
-        "Regionless": [
+        "Default": [
             "0.0001110000"
         ],
         "US West (Oregon)": [
@@ -214,7 +214,7 @@
         ]
     },
     "perCPU per hour Windows": {
-        "Regionless": [
+        "Default": [
             "0.0465520000"
         ],
         "US West (Oregon)": [
@@ -321,7 +321,7 @@
         ]
     },
     "perGB per hour Windows": {
-        "Regionless": [
+        "Default": [
             "0.0051117500"
         ],
         "US West (Oregon)": [
@@ -428,7 +428,7 @@
         ]
     },
     "perCPU OS License Fee per hour Windows": {
-        "Regionless": [
+        "Default": [
             "0.0460000000"
         ],
         "US West (Oregon)": [
@@ -535,7 +535,7 @@
         ]
     },
     "ARM perCPU per hour": {
-        "Regionless": [
+        "Default": [
             "0.0323800000"
         ],
         "US West (Oregon)": [
@@ -642,7 +642,7 @@
         ]
     },
     "ARM perGB per hour": {
-        "Regionless": [
+        "Default": [
             "0.0035600000"
         ],
         "US West (Oregon)": [
@@ -749,7 +749,7 @@
         ]
     },
     "per hour": {
-        "Regionless": [
+        "Default": [
             "0.0102500000"
         ],
         "US West (Oregon)": [
@@ -853,7 +853,7 @@
         ]
     },
     "perCPU per hour": {
-        "Regionless": [
+        "Default": [
             "0.0404800000"
         ],
         "US West (Oregon)": [

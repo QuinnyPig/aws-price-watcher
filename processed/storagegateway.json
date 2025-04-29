@@ -1,6 +1,6 @@
 {
     "StorageGateway Standard Virtual Tape in Library": {
-        "Regionless": [
+        "Default": [
             "0.0230000000"
         ],
         "US West (Oregon)": [
@@ -107,7 +107,7 @@
         ]
     },
     "StorageGateway Fee Tape EarlyDelete": {
-        "Regionless": [
+        "Default": [
             "0.0036000000"
         ],
         "US West (Oregon)": [
@@ -214,7 +214,7 @@
         ]
     },
     "StorageGateway Fee Glacier Tape Retrieval Current": {
-        "Regionless": [
+        "Default": [
             "0.0100000000"
         ],
         "US West (Oregon)": [
@@ -309,7 +309,7 @@
         ]
     },
     "FSx file gateway per Hrs": {
-        "Regionless": [
+        "Default": [
             "0.6900000000"
         ],
         "US West (Oregon)": [
@@ -389,7 +389,7 @@
         ]
     },
     "StorageGateway Standard Volume Cached": {
-        "Regionless": [
+        "Default": [
             "0.0230000000"
         ],
         "US West (Oregon)": [
@@ -496,7 +496,7 @@
         ]
     },
     "StorageGateway Glacier Archive": {
-        "Regionless": [
+        "Default": [
             "0.0036000000"
         ],
         "US West (Oregon)": [
@@ -603,7 +603,7 @@
         ]
     },
     "StorageGateway UploadedBytes Tier 2": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -710,7 +710,7 @@
         ]
     },
     "StorageGateway UploadedBytes Over 12.2TB": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -811,7 +811,7 @@
         ]
     },
     "StorageGateway UploadedBytes Tier 1": {
-        "Regionless": [
+        "Default": [
             "0.0100000000"
         ],
         "US West (Oregon)": [
@@ -918,7 +918,7 @@
         ]
     },
     "StorageGateway UploadedBytes First 12.2 TB": {
-        "Regionless": [
+        "Default": [
             "0.0100000000"
         ],
         "US West (Oregon)": [
@@ -1019,7 +1019,7 @@
         ]
     },
     "StorageGateway Fee-TapeRetrieval": {
-        "Regionless": [
+        "Default": [
             "0.0100000000"
         ],
         "Mexico (Central)": [
@@ -1045,7 +1045,7 @@
         ]
     },
     "StorageGateway UploadedBytes Over 11.6 TB": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "Asia Pacific (Tokyo)": [
@@ -1053,7 +1053,7 @@
         ]
     },
     "StorageGateway UploadedBytes First 11.6 TB": {
-        "Regionless": [
+        "Default": [
             "0.0100000000"
         ],
         "Asia Pacific (Tokyo)": [
@@ -1061,7 +1061,7 @@
         ]
     },
     "StorageGateway UploadedBytes First first 10.6 TB": {
-        "Regionless": [
+        "Default": [
             "0.0100000000"
         ],
         "Asia Pacific (Seoul)": [
@@ -1069,7 +1069,7 @@
         ]
     },
     "StorageGateway UploadedBytes Over 10.6 TB": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "Asia Pacific (Seoul)": [

@@ -1,6 +1,6 @@
 {
     "Traces Stored": {
-        "Regionless": [
+        "Default": [
             "0.0000050000"
         ],
         "US West (Oregon)": [
@@ -107,7 +107,7 @@
         ]
     },
     "Traces Stored Insights": {
-        "Regionless": [
+        "Default": [
             "0.0000010000"
         ],
         "US West (Oregon)": [
@@ -214,7 +214,7 @@
         ]
     },
     "Traces Retrieved": {
-        "Regionless": [
+        "Default": [
             "0.0000005000"
         ],
         "US West (Oregon)": [
@@ -318,7 +318,7 @@
         ]
     },
     "Traces Scanned": {
-        "Regionless": [
+        "Default": [
             "0.0000005000"
         ],
         "US West (Oregon)": [
@@ -422,7 +422,7 @@
         ]
     },
     "Traces Accessed Free Tier": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "Any": [
@@ -430,7 +430,7 @@
         ]
     },
     "Traces Stored Free Tier": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "Any": [

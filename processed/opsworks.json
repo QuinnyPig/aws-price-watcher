@@ -1,6 +1,6 @@
 {
     "Chef Automate Next 1500 per Hrs": {
-        "Regionless": [
+        "Default": [
             "0.0125000000"
         ],
         "Any": [
@@ -8,7 +8,7 @@
         ]
     },
     "Chef Automate Next 250 per Hrs": {
-        "Regionless": [
+        "Default": [
             "0.0150000000"
         ],
         "Any": [
@@ -16,7 +16,7 @@
         ]
     },
     "Puppet Enterprise Next 500 per Hrs": {
-        "Regionless": [
+        "Default": [
             "0.0150000000"
         ],
         "Any": [
@@ -24,7 +24,7 @@
         ]
     },
     "Chef Automate Over 2400 per Hrs": {
-        "Regionless": [
+        "Default": [
             "0.0100000000"
         ],
         "Any": [
@@ -32,7 +32,7 @@
         ]
     },
     "Puppet Enterprise Next 250 per Hrs": {
-        "Regionless": [
+        "Default": [
             "0.0165000000"
         ],
         "Any": [
@@ -40,7 +40,7 @@
         ]
     },
     "Classic On Premises per Hrs": {
-        "Regionless": [
+        "Default": [
             "0.0200000000"
         ],
         "Any": [
@@ -48,7 +48,7 @@
         ]
     },
     "Puppet Enterprise Next 1500 per Hrs": {
-        "Regionless": [
+        "Default": [
             "0.0135000000"
         ],
         "Any": [
@@ -56,7 +56,7 @@
         ]
     },
     "Chef Automate First 150 per Hrs": {
-        "Regionless": [
+        "Default": [
             "0.0155000000"
         ],
         "Any": [
@@ -64,7 +64,7 @@
         ]
     },
     "Puppet Enterprise Over 2400 per Hrs": {
-        "Regionless": [
+        "Default": [
             "0.0110000000"
         ],
         "Any": [
@@ -72,7 +72,7 @@
         ]
     },
     "Puppet Enterprise First 150 per Hrs": {
-        "Regionless": [
+        "Default": [
             "0.0170000000"
         ],
         "Any": [
@@ -80,7 +80,7 @@
         ]
     },
     "Chef Automate Next 500 per Hrs": {
-        "Regionless": [
+        "Default": [
             "0.0140000000"
         ],
         "Any": [

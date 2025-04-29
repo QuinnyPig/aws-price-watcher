@@ -1,6 +1,6 @@
 {
     "InitiatedWorkflows": {
-        "Regionless": [
+        "Default": [
             "0.0001000000"
         ],
         "US West (Oregon)": [
@@ -107,7 +107,7 @@
         ]
     },
     "OpenWorkflowDays": {
-        "Regionless": [
+        "Default": [
             "0.0000050000"
         ],
         "US West (Oregon)": [
@@ -214,7 +214,7 @@
         ]
     },
     "InitiatedActions": {
-        "Regionless": [
+        "Default": [
             "0.0000250000"
         ],
         "US West (Oregon)": [
@@ -321,7 +321,7 @@
         ]
     },
     "ClosedRetainedWorkflowDays": {
-        "Regionless": [
+        "Default": [
             "0.0000050000"
         ],
         "US West (Oregon)": [
@@ -428,7 +428,7 @@
         ]
     },
     "InitiatedWorkflows free tier": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "Any": [

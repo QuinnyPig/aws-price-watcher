@@ -1,6 +1,6 @@
 {
     "Data Brew Interactive session": {
-        "Regionless": [
+        "Default": [
             "1.0000000000"
         ],
         "US West (Oregon)": [
@@ -65,7 +65,7 @@
         ]
     },
     "ETL Interactive Session": {
-        "Regionless": [
+        "Default": [
             "0.4400000000"
         ],
         "US West (Oregon)": [
@@ -169,7 +169,7 @@
         ]
     },
     "Data Brew free interactive sessions": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -234,7 +234,7 @@
         ]
     },
     "ETL Development endpoint": {
-        "Regionless": [
+        "Default": [
             "0.4400000000"
         ],
         "US West (Oregon)": [
@@ -308,7 +308,7 @@
         ]
     },
     "ETL Ray Job run": {
-        "Regionless": [
+        "Default": [
             "0.4400000000"
         ],
         "US West (Oregon)": [
@@ -328,7 +328,7 @@
         ]
     },
     "Data catalog crawler run": {
-        "Regionless": [
+        "Default": [
             "0.4400000000"
         ],
         "US West (Oregon)": [
@@ -432,7 +432,7 @@
         ]
     },
     "Data catalog storage": {
-        "Regionless": [
+        "Default": [
             "0.0000100000"
         ],
         "US West (Oregon)": [
@@ -533,7 +533,7 @@
         ]
     },
     "ETL Job run": {
-        "Regionless": [
+        "Default": [
             "0.4400000000"
         ],
         "US West (Oregon)": [
@@ -637,7 +637,7 @@
         ]
     },
     "ETL Job run All versions": {
-        "Regionless": [
+        "Default": [
             "0.4400000000"
         ],
         "US West (Oregon)": [
@@ -735,7 +735,7 @@
         ]
     },
     "Data Brew Job run": {
-        "Regionless": [
+        "Default": [
             "0.4800000000"
         ],
         "US West (Oregon)": [
@@ -800,7 +800,7 @@
         ]
     },
     "Data catalog requests": {
-        "Regionless": [
+        "Default": [
             "0.0000010000"
         ],
         "US West (Oregon)": [
@@ -904,7 +904,7 @@
         ]
     },
     "ETL Job run Flex": {
-        "Regionless": [
+        "Default": [
             "0.2900000000"
         ],
         "US West (Oregon)": [
@@ -972,7 +972,7 @@
         ]
     },
     "ETL Ray Interactive Session": {
-        "Regionless": [
+        "Default": [
             "0.4400000000"
         ],
         "US West (Oregon)": [
@@ -992,7 +992,7 @@
         ]
     },
     "Data lake optimization job run": {
-        "Regionless": [
+        "Default": [
             "0.4400000000"
         ],
         "US West (Oregon)": [
@@ -1093,7 +1093,7 @@
         ]
     },
     "ETL Job run NEW version only": {
-        "Regionless": [
+        "Default": [
             "0.4400000000"
         ],
         "Middle East (UAE)": [
@@ -1110,7 +1110,7 @@
         ]
     },
     "Data Catalog storage Free Tier": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "Any": [
@@ -1118,7 +1118,7 @@
         ]
     },
     "Data Catalog Requests Free Tier": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "Any": [

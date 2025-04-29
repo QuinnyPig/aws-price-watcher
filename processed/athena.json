@@ -1,6 +1,6 @@
 {
     "Athena Queries": {
-        "Regionless": [
+        "Default": [
             "5.0000000000"
         ],
         "US West (Oregon)": [
@@ -107,7 +107,7 @@
         ]
     },
     "Athena Spark - Spark_Execution": {
-        "Regionless": [
+        "Default": [
             "0.3500000000"
         ],
         "US West (Oregon)": [
@@ -139,7 +139,7 @@
         ]
     },
     "Athena Queries Data processing": {
-        "Regionless": [
+        "Default": [
             "0.3000000000"
         ],
         "US West (Oregon)": [

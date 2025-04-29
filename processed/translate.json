@@ -1,6 +1,6 @@
 {
     "ActiveCustomTranslationJob": {
-        "Regionless": [
+        "Default": [
             "0.0000600000"
         ],
         "US West (Oregon)": [
@@ -14,7 +14,7 @@
         ]
     },
     "Text Translation per Character": {
-        "Regionless": [
+        "Default": [
             "0.0000150000"
         ],
         "US West (Oregon)": [
@@ -70,7 +70,7 @@
         ]
     },
     "TranslateDocument": {
-        "Regionless": [
+        "Default": [
             "0.0000150000"
         ],
         "US West (Oregon)": [
@@ -126,7 +126,7 @@
         ]
     },
     "TextTranslationJob": {
-        "Regionless": [
+        "Default": [
             "0.0000150000"
         ],
         "US West (Oregon)": [

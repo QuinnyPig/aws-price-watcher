@@ -1,6 +1,6 @@
 {
     "Request HTTPS Methods": {
-        "Regionless": [
+        "Default": [
             "0.0000010000"
         ],
         "United States": [
@@ -35,7 +35,7 @@
         ]
     },
     "CloudFront Request-Tier1 HTTP GET and HEAD requests": {
-        "Regionless": [
+        "Default": [
             "0.0000007500"
         ],
         "United States": [
@@ -73,7 +73,7 @@
         ]
     },
     "HTTPS Proxy requests with Field Level Encryption": {
-        "Regionless": [
+        "Default": [
             "0.0000020000"
         ],
         "United States": [
@@ -108,7 +108,7 @@
         ]
     },
     "CloudFront Request-Tier2 HTTPS GET and HEAD requests": {
-        "Regionless": [
+        "Default": [
             "0.0000010000"
         ],
         "United States": [
@@ -143,7 +143,7 @@
         ]
     },
     "Request HTTP Methods": {
-        "Regionless": [
+        "Default": [
             "0.0000007500"
         ],
         "United States": [
@@ -178,7 +178,7 @@
         ]
     },
     "AWS Lambda-Edge-Requests": {
-        "Regionless": [
+        "Default": [
             "0.0000006000"
         ],
         "US West (Oregon)": [
@@ -228,7 +228,7 @@
         ]
     },
     "AWS Lambda-Edge-Duration": {
-        "Regionless": [
+        "Default": [
             "0.0000500100"
         ],
         "US West (Oregon)": [
@@ -278,7 +278,7 @@
         ]
     },
     "CloudFront Request-Origin-Shield Origin Shield Requests": {
-        "Regionless": [
+        "Default": [
             "0.0000007500"
         ],
         "US West (Oregon)": [
@@ -322,7 +322,7 @@
         ]
     },
     "Charge for using an SSL certificate with a CloudFront alternate domain name": {
-        "Regionless": [
+        "Default": [
             "600.0000000000"
         ],
         "Any": [
@@ -330,537 +330,537 @@
         ]
     },
     "272YGRMFJS3Z4CKG JRTCKXETXF.6YS6EN2CT7 Transfer": {
-        "": [
+        " (Per Month: Inf)": [
             "0.0600000000"
         ]
     },
     "2RU96X5GXXQ62U7Q JRTCKXETXF.6YS6EN2CT7 Transfer": {
-        "": [
+        " (Per Month: Inf)": [
             "0.0600000000"
         ]
     },
     "35MU6Z74MS5VE4JD JRTCKXETXF.6YS6EN2CT7 Transfer": {
-        "": [
+        " (Per Month: Inf)": [
             "0.0000000000"
         ]
     },
     "3R2FUPWJ2VYY9GAN JRTCKXETXF.6YS6EN2CT7 Transfer": {
-        "": [
+        " (Per Month: Inf)": [
             "0.0600000000"
         ]
     },
     "3Y26FTMRTWVTECFD JRTCKXETXF.6YS6EN2CT7 Transfer": {
-        "": [
+        " (Per Month: Inf)": [
             "0.0000000000"
         ]
     },
     "4XHSS3B7VMXW7A64 JRTCKXETXF.6YS6EN2CT7 Transfer": {
-        "": [
+        " (Per Month: Inf)": [
             "0.0000000000"
         ]
     },
     "78WBDMMUMU9U8T6A JRTCKXETXF.6YS6EN2CT7 Transfer": {
-        "": [
+        " (Per Month: Inf)": [
             "0.0800000000"
         ]
     },
     "84SMKMDG5YWAPT3T JRTCKXETXF.6YS6EN2CT7 Transfer": {
-        "": [
+        " (Per Month: Inf)": [
             "0.0000000000"
         ]
     },
     "84Z32PF576RHPTMX JRTCKXETXF.3B9CK5AZ6J Transfer": {
-        "": [
+        " (Per Month: 1048576)": [
             "0.0600000000"
         ]
     },
     "84Z32PF576RHPTMX JRTCKXETXF.AZ7GJS7NVF Transfer": {
-        "": [
+        " (Per Month: 512000)": [
             "0.0800000000"
         ]
     },
     "84Z32PF576RHPTMX JRTCKXETXF.N9EW5UVVPA Transfer": {
-        "": [
+        " (Per Month: 153600)": [
             "0.0900000000"
         ]
     },
     "84Z32PF576RHPTMX JRTCKXETXF.Q3Z75P77EN Transfer": {
-        "": [
+        " (Per Month: 10240)": [
             "0.1100000000"
         ]
     },
     "84Z32PF576RHPTMX JRTCKXETXF.RBMR72YW69 Transfer": {
-        "": [
+        " (Per Month: 5242880)": [
             "0.0500000000"
         ]
     },
     "84Z32PF576RHPTMX JRTCKXETXF.SW9U2ZKBYX Transfer": {
-        "": [
+        " (Per Month: Inf)": [
             "0.0400000000"
         ]
     },
     "84Z32PF576RHPTMX JRTCKXETXF.VF6T3GAUKQ Transfer": {
-        "": [
+        " (Per Month: 51200)": [
             "0.1050000000"
         ]
     },
     "87PASMD9R493XPC4 JRTCKXETXF.6YS6EN2CT7 Transfer": {
-        "": [
+        " (Per Month: Inf)": [
             "0.0000000000"
         ]
     },
     "8BC238S2CWN7UQEA JRTCKXETXF.6YS6EN2CT7 Transfer": {
-        "": [
+        " (Per Month: Inf)": [
             "0.0000000000"
         ]
     },
     "8FZ3FUW5F2Z4TRR7 JRTCKXETXF.6YS6EN2CT7 Transfer": {
-        "": [
+        " (Per Month: Inf)": [
             "0.0000000000"
         ]
     },
     "8JNNPNBQD9DSHV5K JRTCKXETXF.3B9CK5AZ6J Transfer": {
-        "": [
+        " (Per Month: 1048576)": [
             "0.0900000000"
         ]
     },
     "8JNNPNBQD9DSHV5K JRTCKXETXF.AZ7GJS7NVF Transfer": {
-        "": [
+        " (Per Month: 512000)": [
             "0.0920000000"
         ]
     },
     "8JNNPNBQD9DSHV5K JRTCKXETXF.N9EW5UVVPA Transfer": {
-        "": [
+        " (Per Month: 153600)": [
             "0.0940000000"
         ]
     },
     "8JNNPNBQD9DSHV5K JRTCKXETXF.Q3Z75P77EN Transfer": {
-        "": [
+        " (Per Month: 10240)": [
             "0.1140000000"
         ]
     },
     "8JNNPNBQD9DSHV5K JRTCKXETXF.RBMR72YW69 Transfer": {
-        "": [
+        " (Per Month: 5242880)": [
             "0.0850000000"
         ]
     },
     "8JNNPNBQD9DSHV5K JRTCKXETXF.SW9U2ZKBYX Transfer": {
-        "": [
+        " (Per Month: Inf)": [
             "0.0800000000"
         ]
     },
     "8JNNPNBQD9DSHV5K JRTCKXETXF.VF6T3GAUKQ Transfer": {
-        "": [
+        " (Per Month: 51200)": [
             "0.0980000000"
         ]
     },
     "A86N9S7CGUKZHH8P JRTCKXETXF.3B9CK5AZ6J Transfer": {
-        "": [
+        " (Per Month: 1048576)": [
             "0.0800000000"
         ]
     },
     "A86N9S7CGUKZHH8P JRTCKXETXF.AZ7GJS7NVF Transfer": {
-        "": [
+        " (Per Month: 512000)": [
             "0.0900000000"
         ]
     },
     "A86N9S7CGUKZHH8P JRTCKXETXF.N9EW5UVVPA Transfer": {
-        "": [
+        " (Per Month: 153600)": [
             "0.0950000000"
         ]
     },
     "A86N9S7CGUKZHH8P JRTCKXETXF.Q3Z75P77EN Transfer": {
-        "": [
+        " (Per Month: 10240)": [
             "0.1200000000"
         ]
     },
     "A86N9S7CGUKZHH8P JRTCKXETXF.RBMR72YW69 Transfer": {
-        "": [
+        " (Per Month: 5242880)": [
             "0.0700000000"
         ]
     },
     "A86N9S7CGUKZHH8P JRTCKXETXF.SW9U2ZKBYX Transfer": {
-        "": [
+        " (Per Month: Inf)": [
             "0.0600000000"
         ]
     },
     "A86N9S7CGUKZHH8P JRTCKXETXF.VF6T3GAUKQ Transfer": {
-        "": [
+        " (Per Month: 51200)": [
             "0.1000000000"
         ]
     },
     "AGSZEF5XC2MG4FUH JRTCKXETXF.6YS6EN2CT7 Transfer": {
-        "": [
+        " (Per Month: Inf)": [
             "0.0200000000"
         ]
     },
     "B6F5HP6FXAFTNWPC JRTCKXETXF.6YS6EN2CT7 Transfer": {
-        "": [
+        " (Per Month: Inf)": [
             "0.0200000000"
         ]
     },
     "C3HHMR3U9CR9AK63 JRTCKXETXF.6YS6EN2CT7 Transfer": {
-        "": [
+        " (Per Month: Inf)": [
             "0.0200000000"
         ]
     },
     "CME9BRJSS2F5PBYE JRTCKXETXF.3B9CK5AZ6J Transfer": {
-        "": [
+        " (Per Month: 1048576)": [
             "0.0800000000"
         ]
     },
     "CME9BRJSS2F5PBYE JRTCKXETXF.AZ7GJS7NVF Transfer": {
-        "": [
+        " (Per Month: 512000)": [
             "0.0840000000"
         ]
     },
     "CME9BRJSS2F5PBYE JRTCKXETXF.N9EW5UVVPA Transfer": {
-        "": [
+        " (Per Month: 153600)": [
             "0.0860000000"
         ]
     },
     "CME9BRJSS2F5PBYE JRTCKXETXF.Q3Z75P77EN Transfer": {
-        "": [
+        " (Per Month: 10240)": [
             "0.1140000000"
         ]
     },
     "CME9BRJSS2F5PBYE JRTCKXETXF.RBMR72YW69 Transfer": {
-        "": [
+        " (Per Month: 5242880)": [
             "0.0700000000"
         ]
     },
     "CME9BRJSS2F5PBYE JRTCKXETXF.SW9U2ZKBYX Transfer": {
-        "": [
+        " (Per Month: Inf)": [
             "0.0600000000"
         ]
     },
     "CME9BRJSS2F5PBYE JRTCKXETXF.VF6T3GAUKQ Transfer": {
-        "": [
+        " (Per Month: 51200)": [
             "0.0890000000"
         ]
     },
     "DE87RDRTJ8PWWN2X JRTCKXETXF.6YS6EN2CT7 Transfer": {
-        "": [
+        " (Per Month: Inf)": [
             "0.0000000000"
         ]
     },
     "FZ8U6AWT2BMH7T8F JRTCKXETXF.6YS6EN2CT7 Transfer": {
-        "": [
+        " (Per Month: Inf)": [
             "0.1250000000"
         ]
     },
     "GABQ7B9EFS222NC5 JRTCKXETXF.6YS6EN2CT7 Transfer": {
-        "": [
+        " (Per Month: Inf)": [
             "0.0000000000"
         ]
     },
     "GV2WFGX37Q9PDSHF JRTCKXETXF.3B9CK5AZ6J Transfer": {
-        "": [
+        " (Per Month: 1048576)": [
             "0.0300000000"
         ]
     },
     "GV2WFGX37Q9PDSHF JRTCKXETXF.AZ7GJS7NVF Transfer": {
-        "": [
+        " (Per Month: 512000)": [
             "0.0400000000"
         ]
     },
     "GV2WFGX37Q9PDSHF JRTCKXETXF.N9EW5UVVPA Transfer": {
-        "": [
+        " (Per Month: 153600)": [
             "0.0600000000"
         ]
     },
     "GV2WFGX37Q9PDSHF JRTCKXETXF.Q3Z75P77EN Transfer": {
-        "": [
+        " (Per Month: 10240)": [
             "0.0850000000"
         ]
     },
     "GV2WFGX37Q9PDSHF JRTCKXETXF.RBMR72YW69 Transfer": {
-        "": [
+        " (Per Month: 5242880)": [
             "0.0250000000"
         ]
     },
     "GV2WFGX37Q9PDSHF JRTCKXETXF.SW9U2ZKBYX Transfer": {
-        "": [
+        " (Per Month: Inf)": [
             "0.0200000000"
         ]
     },
     "GV2WFGX37Q9PDSHF JRTCKXETXF.VF6T3GAUKQ Transfer": {
-        "": [
+        " (Per Month: 51200)": [
             "0.0800000000"
         ]
     },
     "J8CRHQCUHGEX3EFR A429C66SYZ.6YNURZBX9Y Transfer": {
-        "": [
+        " (Per Month: 1024)": [
             "0.0000000000"
         ]
     },
     "KJKQCFWRY9KUWY4S JRTCKXETXF.3B9CK5AZ6J Transfer": {
-        "": [
+        " (Per Month: 1048576)": [
             "0.0600000000"
         ]
     },
     "KJKQCFWRY9KUWY4S JRTCKXETXF.AZ7GJS7NVF Transfer": {
-        "": [
+        " (Per Month: 512000)": [
             "0.0800000000"
         ]
     },
     "KJKQCFWRY9KUWY4S JRTCKXETXF.N9EW5UVVPA Transfer": {
-        "": [
+        " (Per Month: 153600)": [
             "0.0900000000"
         ]
     },
     "KJKQCFWRY9KUWY4S JRTCKXETXF.Q3Z75P77EN Transfer": {
-        "": [
+        " (Per Month: 10240)": [
             "0.1100000000"
         ]
     },
     "KJKQCFWRY9KUWY4S JRTCKXETXF.RBMR72YW69 Transfer": {
-        "": [
+        " (Per Month: 5242880)": [
             "0.0500000000"
         ]
     },
     "KJKQCFWRY9KUWY4S JRTCKXETXF.SW9U2ZKBYX Transfer": {
-        "": [
+        " (Per Month: Inf)": [
             "0.0400000000"
         ]
     },
     "KJKQCFWRY9KUWY4S JRTCKXETXF.VF6T3GAUKQ Transfer": {
-        "": [
+        " (Per Month: 51200)": [
             "0.1050000000"
         ]
     },
     "MMUKAQPVG2WW2G3B JRTCKXETXF.6YS6EN2CT7 Transfer": {
-        "": [
+        " (Per Month: Inf)": [
             "0.0000000000"
         ]
     },
     "P3NZ2K7DCB3BHD7J JRTCKXETXF.6YS6EN2CT7 Transfer": {
-        "": [
+        " (Per Month: Inf)": [
             "0.0000000000"
         ]
     },
     "Q5UZSF7MCTA8C7KW JRTCKXETXF.6YS6EN2CT7 Transfer": {
-        "": [
+        " (Per Month: Inf)": [
             "0.0000000000"
         ]
     },
     "RSZZSRXKTREEQX4J JRTCKXETXF.6YS6EN2CT7 Transfer": {
-        "": [
+        " (Per Month: Inf)": [
             "0.0000000000"
         ]
     },
     "S64D2BRSD7CS737T JRTCKXETXF.6YS6EN2CT7 Transfer": {
-        "": [
+        " (Per Month: Inf)": [
             "0.0000000000"
         ]
     },
     "S65P5GJQPR3T4BCY JRTCKXETXF.6YS6EN2CT7 Transfer": {
-        "": [
+        " (Per Month: Inf)": [
             "0.0000000000"
         ]
     },
     "S75KUMEBQZJ8N4RN JRTCKXETXF.6YS6EN2CT7 Transfer": {
-        "": [
+        " (Per Month: Inf)": [
             "0.0000000000"
         ]
     },
     "S89KGB9FHD5TVGSR JRTCKXETXF.6YS6EN2CT7 Transfer": {
-        "": [
+        " (Per Month: Inf)": [
             "0.0000000000"
         ]
     },
     "T54WRKH64CXXTABV JRTCKXETXF.6YS6EN2CT7 Transfer": {
-        "": [
+        " (Per Month: Inf)": [
             "0.0000000000"
         ]
     },
     "TU3FH3J5KWMCC26Y JRTCKXETXF.6YS6EN2CT7 Transfer": {
-        "": [
+        " (Per Month: Inf)": [
             "0.0000000000"
         ]
     },
     "U8P37H38743VG7RS JRTCKXETXF.6YS6EN2CT7 Transfer": {
-        "": [
+        " (Per Month: Inf)": [
             "0.0600000000"
         ]
     },
     "VU3485RNDU6HBQF6 JRTCKXETXF.3B9CK5AZ6J Transfer": {
-        "": [
+        " (Per Month: 1048576)": [
             "0.0300000000"
         ]
     },
     "VU3485RNDU6HBQF6 JRTCKXETXF.AZ7GJS7NVF Transfer": {
-        "": [
+        " (Per Month: 512000)": [
             "0.0400000000"
         ]
     },
     "VU3485RNDU6HBQF6 JRTCKXETXF.N9EW5UVVPA Transfer": {
-        "": [
+        " (Per Month: 153600)": [
             "0.0600000000"
         ]
     },
     "VU3485RNDU6HBQF6 JRTCKXETXF.Q3Z75P77EN Transfer": {
-        "": [
+        " (Per Month: 10240)": [
             "0.0850000000"
         ]
     },
     "VU3485RNDU6HBQF6 JRTCKXETXF.RBMR72YW69 Transfer": {
-        "": [
+        " (Per Month: 5242880)": [
             "0.0250000000"
         ]
     },
     "VU3485RNDU6HBQF6 JRTCKXETXF.SW9U2ZKBYX Transfer": {
-        "": [
+        " (Per Month: Inf)": [
             "0.0200000000"
         ]
     },
     "VU3485RNDU6HBQF6 JRTCKXETXF.VF6T3GAUKQ Transfer": {
-        "": [
+        " (Per Month: 51200)": [
             "0.0800000000"
         ]
     },
     "XS6N65FXGPVQ5H8A JRTCKXETXF.6YS6EN2CT7 Transfer": {
-        "": [
+        " (Per Month: Inf)": [
             "0.0000000000"
         ]
     },
     "XVZYVSAH88373VKR JRTCKXETXF.3B9CK5AZ6J Transfer": {
-        "": [
+        " (Per Month: 1048576)": [
             "0.0780000000"
         ]
     },
     "XVZYVSAH88373VKR JRTCKXETXF.AZ7GJS7NVF Transfer": {
-        "": [
+        " (Per Month: 512000)": [
             "0.0800000000"
         ]
     },
     "XVZYVSAH88373VKR JRTCKXETXF.N9EW5UVVPA Transfer": {
-        "": [
+        " (Per Month: 153600)": [
             "0.0820000000"
         ]
     },
     "XVZYVSAH88373VKR JRTCKXETXF.Q3Z75P77EN Transfer": {
-        "": [
+        " (Per Month: 10240)": [
             "0.1090000000"
         ]
     },
     "XVZYVSAH88373VKR JRTCKXETXF.RBMR72YW69 Transfer": {
-        "": [
+        " (Per Month: 5242880)": [
             "0.0750000000"
         ]
     },
     "XVZYVSAH88373VKR JRTCKXETXF.SW9U2ZKBYX Transfer": {
-        "": [
+        " (Per Month: Inf)": [
             "0.0720000000"
         ]
     },
     "XVZYVSAH88373VKR JRTCKXETXF.VF6T3GAUKQ Transfer": {
-        "": [
+        " (Per Month: 51200)": [
             "0.0850000000"
         ]
     },
     "Y2TSW8G2JZ8XKR4K JRTCKXETXF.6YS6EN2CT7 Transfer": {
-        "": [
+        " (Per Month: Inf)": [
             "0.0000000000"
         ]
     },
     "YK6GASV573KDJK53 JRTCKXETXF.6YS6EN2CT7 Transfer": {
-        "": [
+        " (Per Month: Inf)": [
             "0.0000000000"
         ]
     },
     "YNZW9TGPQWEQM4JS JRTCKXETXF.3B9CK5AZ6J Transfer": {
-        "": [
+        " (Per Month: 1048576)": [
             "0.0300000000"
         ]
     },
     "YNZW9TGPQWEQM4JS JRTCKXETXF.AZ7GJS7NVF Transfer": {
-        "": [
+        " (Per Month: 512000)": [
             "0.0400000000"
         ]
     },
     "YNZW9TGPQWEQM4JS JRTCKXETXF.N9EW5UVVPA Transfer": {
-        "": [
+        " (Per Month: 153600)": [
             "0.0600000000"
         ]
     },
     "YNZW9TGPQWEQM4JS JRTCKXETXF.Q3Z75P77EN Transfer": {
-        "": [
+        " (Per Month: 10240)": [
             "0.0850000000"
         ]
     },
     "YNZW9TGPQWEQM4JS JRTCKXETXF.RBMR72YW69 Transfer": {
-        "": [
+        " (Per Month: 5242880)": [
             "0.0250000000"
         ]
     },
     "YNZW9TGPQWEQM4JS JRTCKXETXF.SW9U2ZKBYX Transfer": {
-        "": [
+        " (Per Month: Inf)": [
             "0.0200000000"
         ]
     },
     "YNZW9TGPQWEQM4JS JRTCKXETXF.VF6T3GAUKQ Transfer": {
-        "": [
+        " (Per Month: 51200)": [
             "0.0800000000"
         ]
     },
     "YR9KNSXHQ8YZU3RU JRTCKXETXF.6YS6EN2CT7 Transfer": {
-        "": [
+        " (Per Month: Inf)": [
             "0.1600000000"
         ]
     },
     "YSEGYS2PA9WBNMBT JRTCKXETXF.6YS6EN2CT7 Transfer": {
-        "": [
+        " (Per Month: Inf)": [
             "0.0000000000"
         ]
     },
     "ZF2VDQR5YB6QU3S2 JRTCKXETXF.6YS6EN2CT7 Transfer": {
-        "": [
+        " (Per Month: Inf)": [
             "0.0000000000"
         ]
     },
     "ZJHEJF63R8UQXK6G JRTCKXETXF.6YS6EN2CT7 Transfer": {
-        "": [
+        " (Per Month: Inf)": [
             "0.0000000000"
         ]
     },
     "ZT3N6V49SHDM9P3G JRTCKXETXF.3B9CK5AZ6J Transfer": {
-        "": [
+        " (Per Month: 1048576)": [
             "0.0600000000"
         ]
     },
     "ZT3N6V49SHDM9P3G JRTCKXETXF.AZ7GJS7NVF Transfer": {
-        "": [
+        " (Per Month: 512000)": [
             "0.0800000000"
         ]
     },
     "ZT3N6V49SHDM9P3G JRTCKXETXF.N9EW5UVVPA Transfer": {
-        "": [
+        " (Per Month: 153600)": [
             "0.0900000000"
         ]
     },
     "ZT3N6V49SHDM9P3G JRTCKXETXF.Q3Z75P77EN Transfer": {
-        "": [
+        " (Per Month: 10240)": [
             "0.1100000000"
         ]
     },
     "ZT3N6V49SHDM9P3G JRTCKXETXF.RBMR72YW69 Transfer": {
-        "": [
+        " (Per Month: 5242880)": [
             "0.0500000000"
         ]
     },
     "ZT3N6V49SHDM9P3G JRTCKXETXF.SW9U2ZKBYX Transfer": {
-        "": [
+        " (Per Month: Inf)": [
             "0.0400000000"
         ]
     },
     "ZT3N6V49SHDM9P3G JRTCKXETXF.VF6T3GAUKQ Transfer": {
-        "": [
+        " (Per Month: 51200)": [
             "0.1050000000"
         ]
     },
     "ZY63YD3XZXMPXRD8 JRTCKXETXF.6YS6EN2CT7 Transfer": {
-        "": [
+        " (Per Month: Inf)": [
             "0.0000000000"
         ]
     },
@@ -965,77 +965,77 @@
         ]
     },
     "Regional DT to Internet next 524 TB": {
-        "": [
-            "0.0780000000",
+        " (Per Month: 1048576)": [
             "0.0600000000",
             "0.0300000000",
-            "0.0800000000",
-            "0.0900000000"
+            "0.0780000000",
+            "0.0900000000",
+            "0.0800000000"
         ]
     },
     "Regional DT to Internet Next 350 TB": {
-        "": [
+        " (Per Month: 512000)": [
+            "0.0900000000",
+            "0.0800000000",
             "0.0920000000",
             "0.0400000000",
-            "0.0800000000",
-            "0.0900000000",
             "0.0840000000"
         ]
     },
     "Regional DT to Internet next 100 TB": {
-        "": [
+        " (Per Month: 153600)": [
             "0.0600000000",
-            "0.0860000000",
-            "0.0820000000",
-            "0.0940000000",
             "0.0900000000",
-            "0.0950000000"
+            "0.0940000000",
+            "0.0950000000",
+            "0.0820000000",
+            "0.0860000000"
         ]
     },
     "Regional DT to Internet First 10 TB": {
-        "": [
+        " (Per Month: 10240)": [
+            "0.1100000000",
             "0.1090000000",
-            "0.1140000000",
-            "0.1200000000",
             "0.0850000000",
-            "0.1100000000"
+            "0.1200000000",
+            "0.1140000000"
         ]
     },
     "Regional DT to Internet Next 4 PB": {
-        "": [
-            "0.0700000000",
+        " (Per Month: 5242880)": [
+            "0.0500000000",
+            "0.0850000000",
             "0.0750000000",
             "0.0250000000",
-            "0.0850000000",
-            "0.0500000000"
+            "0.0700000000"
         ]
     },
     "Regional DT to Internet Over 5 PB": {
-        "": [
+        " (Per Month: Inf)": [
             "0.0600000000",
-            "0.0720000000",
-            "0.0400000000",
             "0.0200000000",
-            "0.0800000000"
+            "0.0720000000",
+            "0.0800000000",
+            "0.0400000000"
         ]
     },
     "Regional DT to Internet Next 40 TB": {
-        "": [
-            "0.1050000000",
-            "0.1000000000",
-            "0.0800000000",
+        " (Per Month: 51200)": [
             "0.0980000000",
             "0.0890000000",
-            "0.0850000000"
+            "0.0850000000",
+            "0.1000000000",
+            "0.0800000000",
+            "0.1050000000"
         ]
     },
     "Regional DT to Internet 0 upto 1024": {
-        "": [
+        " (Per Month: 1024)": [
             "0.0000000000"
         ]
     },
     "Charge for using Static IPv4 addresses": {
-        "Regionless": [
+        "Default": [
             "15000.0000000000"
         ],
         "": [
@@ -1043,7 +1043,7 @@
         ]
     },
     "Charge for using Static IPv6 addresses": {
-        "Regionless": [
+        "Default": [
             "5000.0000000000"
         ],
         "": [
@@ -1051,7 +1051,7 @@
         ]
     },
     "Charge for invalidating objects removing the objects from CloudFront edge locations": {
-        "Regionless": [
+        "Default": [
             "0.0050000000"
         ],
         "": [
@@ -1059,7 +1059,7 @@
         ]
     },
     "Charge for invalidating objects removing the objects from CloudFront edge locations First 1000 free": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "": [
@@ -1067,407 +1067,407 @@
         ]
     },
     "Regional DT to Origin from South Africa": {
-        "": [
+        " (Per Month: Inf)": [
             "0.0600000000"
         ]
     },
     "Regional DT to Origin from Middle East": {
-        "": [
+        " (Per Month: Inf)": [
             "0.0600000000"
         ]
     },
     "Regional DT to Origin from Japan": {
-        "": [
+        " (Per Month: Inf)": [
             "0.0600000000"
         ]
     },
     "Regional DT to Origin from Australia": {
-        "": [
+        " (Per Month: Inf)": [
             "0.0800000000"
         ]
     },
     "Regional DT from South Africa to Internet next 524 TB": {
-        "": [
+        " (Per Month: 1048576)": [
             "0.0600000000"
         ]
     },
     "Regional DT from South Africa to Internet Next 350 TB": {
-        "": [
+        " (Per Month: 512000)": [
             "0.0800000000"
         ]
     },
     "Regional DT from South Africa to Internet next 100 TB": {
-        "": [
+        " (Per Month: 153600)": [
             "0.0900000000"
         ]
     },
     "Regional DT from South Africa to Internet First 10 TB": {
-        "": [
+        " (Per Month: 10240)": [
             "0.1100000000"
         ]
     },
     "Regional DT from South Africa to Internet Next 4 PB": {
-        "": [
+        " (Per Month: 5242880)": [
             "0.0500000000"
         ]
     },
     "Regional DT from South Africa to Internet Over 5 PB": {
-        "": [
+        " (Per Month: Inf)": [
             "0.0400000000"
         ]
     },
     "Regional DT from South Africa to Internet Next 40 TB": {
-        "": [
+        " (Per Month: 51200)": [
             "0.1050000000"
         ]
     },
     "Regional DT from Australia to Internet next 524 TB": {
-        "": [
+        " (Per Month: 1048576)": [
             "0.0900000000"
         ]
     },
     "Regional DT from Australia to Internet Next 350 TB": {
-        "": [
+        " (Per Month: 512000)": [
             "0.0920000000"
         ]
     },
     "Regional DT from Australia to Internet next 100 TB": {
-        "": [
+        " (Per Month: 153600)": [
             "0.0940000000"
         ]
     },
     "Regional DT from Australia to Internet First 10 TB": {
-        "": [
+        " (Per Month: 10240)": [
             "0.1140000000"
         ]
     },
     "Regional DT from Australia to Internet Next 4 PB": {
-        "": [
+        " (Per Month: 5242880)": [
             "0.0850000000"
         ]
     },
     "Regional DT from Australia to Internet Over 5 PB": {
-        "": [
+        " (Per Month: Inf)": [
             "0.0800000000"
         ]
     },
     "Regional DT from Australia to Internet Next 40 TB": {
-        "": [
+        " (Per Month: 51200)": [
             "0.0980000000"
         ]
     },
     "Regional DT from Asia Pacific to Internet next 524 TB": {
-        "": [
+        " (Per Month: 1048576)": [
             "0.0800000000"
         ]
     },
     "Regional DT from Asia Pacific to Internet Next 350 TB": {
-        "": [
+        " (Per Month: 512000)": [
             "0.0900000000"
         ]
     },
     "Regional DT from Asia Pacific to Internet next 100 TB": {
-        "": [
+        " (Per Month: 153600)": [
             "0.0950000000"
         ]
     },
     "Regional DT from Asia Pacific to Internet First 10 TB": {
-        "": [
+        " (Per Month: 10240)": [
             "0.1200000000"
         ]
     },
     "Regional DT from Asia Pacific to Internet Next 4 PB": {
-        "": [
+        " (Per Month: 5242880)": [
             "0.0700000000"
         ]
     },
     "Regional DT from Asia Pacific to Internet Over 5 PB": {
-        "": [
+        " (Per Month: Inf)": [
             "0.0600000000"
         ]
     },
     "Regional DT from Asia Pacific to Internet Next 40 TB": {
-        "": [
+        " (Per Month: 51200)": [
             "0.1000000000"
         ]
     },
     "Regional DT to Origin from United States": {
-        "": [
+        " (Per Month: Inf)": [
             "0.0200000000"
         ]
     },
     "Regional DT to Origin from Canada": {
-        "": [
+        " (Per Month: Inf)": [
             "0.0200000000"
         ]
     },
     "Regional DT to Origin from EU": {
-        "": [
+        " (Per Month: Inf)": [
             "0.0200000000"
         ]
     },
     "Regional DT from Japan to Internet next 524 TB": {
-        "": [
+        " (Per Month: 1048576)": [
             "0.0800000000"
         ]
     },
     "Regional DT from Japan to Internet Next 350 TB": {
-        "": [
+        " (Per Month: 512000)": [
             "0.0840000000"
         ]
     },
     "Regional DT from Japan to Internet next 100 TB": {
-        "": [
+        " (Per Month: 153600)": [
             "0.0860000000"
         ]
     },
     "Regional DT from Japan to Internet First 10 TB": {
-        "": [
+        " (Per Month: 10240)": [
             "0.1140000000"
         ]
     },
     "Regional DT from Japan to Internet Next 4 PB": {
-        "": [
+        " (Per Month: 5242880)": [
             "0.0700000000"
         ]
     },
     "Regional DT from Japan to Internet Over 5 PB": {
-        "": [
+        " (Per Month: Inf)": [
             "0.0600000000"
         ]
     },
     "Regional DT from Japan to Internet Next 40 TB": {
-        "": [
+        " (Per Month: 51200)": [
             "0.0890000000"
         ]
     },
     "Regional DT to Origin from South America": {
-        "": [
+        " (Per Month: Inf)": [
             "0.1250000000"
         ]
     },
     "Regional DT from United States to Internet next 524 TB": {
-        "": [
+        " (Per Month: 1048576)": [
             "0.0300000000"
         ]
     },
     "Regional DT from United States to Internet Next 350 TB": {
-        "": [
+        " (Per Month: 512000)": [
             "0.0400000000"
         ]
     },
     "Regional DT from United States to Internet next 100 TB": {
-        "": [
+        " (Per Month: 153600)": [
             "0.0600000000"
         ]
     },
     "Regional DT from United States to Internet First 10 TB": {
-        "": [
+        " (Per Month: 10240)": [
             "0.0850000000"
         ]
     },
     "Regional DT from United States to Internet Next 4 PB": {
-        "": [
+        " (Per Month: 5242880)": [
             "0.0250000000"
         ]
     },
     "Regional DT from United States to Internet Over 5 PB": {
-        "": [
+        " (Per Month: Inf)": [
             "0.0200000000"
         ]
     },
     "Regional DT from United States to Internet Next 40 TB": {
-        "": [
+        " (Per Month: 51200)": [
             "0.0800000000"
         ]
     },
     "Regional DT from Any to Internet 0 upto 1024": {
-        "": [
+        " (Per Month: 1024)": [
             "0.0000000000"
         ]
     },
     "Regional DT from Middle East to Internet next 524 TB": {
-        "": [
+        " (Per Month: 1048576)": [
             "0.0600000000"
         ]
     },
     "Regional DT from Middle East to Internet Next 350 TB": {
-        "": [
+        " (Per Month: 512000)": [
             "0.0800000000"
         ]
     },
     "Regional DT from Middle East to Internet next 100 TB": {
-        "": [
+        " (Per Month: 153600)": [
             "0.0900000000"
         ]
     },
     "Regional DT from Middle East to Internet First 10 TB": {
-        "": [
+        " (Per Month: 10240)": [
             "0.1100000000"
         ]
     },
     "Regional DT from Middle East to Internet Next 4 PB": {
-        "": [
+        " (Per Month: 5242880)": [
             "0.0500000000"
         ]
     },
     "Regional DT from Middle East to Internet Over 5 PB": {
-        "": [
+        " (Per Month: Inf)": [
             "0.0400000000"
         ]
     },
     "Regional DT from Middle East to Internet Next 40 TB": {
-        "": [
+        " (Per Month: 51200)": [
             "0.1050000000"
         ]
     },
     "Regional DT to Origin from Asia Pacific": {
-        "": [
+        " (Per Month: Inf)": [
             "0.0600000000"
         ]
     },
     "Regional DT from EU to Internet next 524 TB": {
-        "": [
+        " (Per Month: 1048576)": [
             "0.0300000000"
         ]
     },
     "Regional DT from EU to Internet Next 350 TB": {
-        "": [
+        " (Per Month: 512000)": [
             "0.0400000000"
         ]
     },
     "Regional DT from EU to Internet next 100 TB": {
-        "": [
+        " (Per Month: 153600)": [
             "0.0600000000"
         ]
     },
     "Regional DT from EU to Internet First 10 TB": {
-        "": [
+        " (Per Month: 10240)": [
             "0.0850000000"
         ]
     },
     "Regional DT from EU to Internet Next 4 PB": {
-        "": [
+        " (Per Month: 5242880)": [
             "0.0250000000"
         ]
     },
     "Regional DT from EU to Internet Over 5 PB": {
-        "": [
+        " (Per Month: Inf)": [
             "0.0200000000"
         ]
     },
     "Regional DT from EU to Internet Next 40 TB": {
-        "": [
+        " (Per Month: 51200)": [
             "0.0800000000"
         ]
     },
     "Regional DT from India to Internet next 524 TB": {
-        "": [
+        " (Per Month: 1048576)": [
             "0.0780000000"
         ]
     },
     "Regional DT from India to Internet Next 350 TB": {
-        "": [
+        " (Per Month: 512000)": [
             "0.0800000000"
         ]
     },
     "Regional DT from India to Internet next 100 TB": {
-        "": [
+        " (Per Month: 153600)": [
             "0.0820000000"
         ]
     },
     "Regional DT from India to Internet First 10 TB": {
-        "": [
+        " (Per Month: 10240)": [
             "0.1090000000"
         ]
     },
     "Regional DT from India to Internet Next 4 PB": {
-        "": [
+        " (Per Month: 5242880)": [
             "0.0750000000"
         ]
     },
     "Regional DT from India to Internet Over 5 PB": {
-        "": [
+        " (Per Month: Inf)": [
             "0.0720000000"
         ]
     },
     "Regional DT from India to Internet Next 40 TB": {
-        "": [
+        " (Per Month: 51200)": [
             "0.0850000000"
         ]
     },
     "Regional DT from Canada to Internet next 524 TB": {
-        "": [
+        " (Per Month: 1048576)": [
             "0.0300000000"
         ]
     },
     "Regional DT from Canada to Internet Next 350 TB": {
-        "": [
+        " (Per Month: 512000)": [
             "0.0400000000"
         ]
     },
     "Regional DT from Canada to Internet next 100 TB": {
-        "": [
+        " (Per Month: 153600)": [
             "0.0600000000"
         ]
     },
     "Regional DT from Canada to Internet First 10 TB": {
-        "": [
+        " (Per Month: 10240)": [
             "0.0850000000"
         ]
     },
     "Regional DT from Canada to Internet Next 4 PB": {
-        "": [
+        " (Per Month: 5242880)": [
             "0.0250000000"
         ]
     },
     "Regional DT from Canada to Internet Over 5 PB": {
-        "": [
+        " (Per Month: Inf)": [
             "0.0200000000"
         ]
     },
     "Regional DT from Canada to Internet Next 40 TB": {
-        "": [
+        " (Per Month: 51200)": [
             "0.0800000000"
         ]
     },
     "Regional DT to Origin from India": {
-        "": [
+        " (Per Month: Inf)": [
             "0.1600000000"
         ]
     },
     "Regional DT from South America to Internet next 524 TB": {
-        "": [
+        " (Per Month: 1048576)": [
             "0.0600000000"
         ]
     },
     "Regional DT from South America to Internet Next 350 TB": {
-        "": [
+        " (Per Month: 512000)": [
             "0.0800000000"
         ]
     },
     "Regional DT from South America to Internet next 100 TB": {
-        "": [
+        " (Per Month: 153600)": [
             "0.0900000000"
         ]
     },
     "Regional DT from South America to Internet First 10 TB": {
-        "": [
+        " (Per Month: 10240)": [
             "0.1100000000"
         ]
     },
     "Regional DT from South America to Internet Next 4 PB": {
-        "": [
+        " (Per Month: 5242880)": [
             "0.0500000000"
         ]
     },
     "Regional DT from South America to Internet Over 5 PB": {
-        "": [
+        " (Per Month: Inf)": [
             "0.0400000000"
         ]
     },
     "Regional DT from South America to Internet Next 40 TB": {
-        "": [
+        " (Per Month: 51200)": [
             "0.1050000000"
         ]
     },

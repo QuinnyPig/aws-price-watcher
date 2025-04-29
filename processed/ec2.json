@@ -1,6 +1,6 @@
 {
     "OnDemand Linux-instancetype-g4dn.2xlarge": {
-        "Regionless": [
+        "Default": [
             "1.3170000000"
         ],
         "US West (Verizon) - Seattle": [
@@ -269,7 +269,7 @@
         ]
     },
     "OnDemand Linux-instancetype-t3.medium": {
-        "Regionless": [
+        "Default": [
             "0.0560000000"
         ],
         "US West (Verizon) - Seattle": [
@@ -574,7 +574,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r5.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.6800000000"
         ],
         "US West (Verizon) - Seattle": [
@@ -822,7 +822,7 @@
         ]
     },
     "OnDemand Linux-instancetype-t3.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2240000000"
         ],
         "US West (Verizon) - Seattle": [
@@ -1124,7 +1124,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c5d.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.4800000000"
         ],
         "US West (Seattle)": [
@@ -1276,7 +1276,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r5d.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.7200000000"
         ],
         "US West (Seattle)": [
@@ -1431,7 +1431,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c5d.12xlarge": {
-        "Regionless": [
+        "Default": [
             "2.8800000000"
         ],
         "US West (Seattle)": [
@@ -1571,7 +1571,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c5d.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.9600000000"
         ],
         "US West (Seattle)": [
@@ -1723,7 +1723,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c6i.large": {
-        "Regionless": [
+        "Default": [
             "0.1020000000"
         ],
         "US West (Phoenix)": [
@@ -1833,7 +1833,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c6i.12xlarge": {
-        "Regionless": [
+        "Default": [
             "2.4480000000"
         ],
         "US West (Phoenix)": [
@@ -1943,7 +1943,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r6i.4xlarge": {
-        "Regionless": [
+        "Default": [
             "1.2096000000"
         ],
         "US West (Phoenix)": [
@@ -2059,7 +2059,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m6i.32xlarge": {
-        "Regionless": [
+        "Default": [
             "7.3728000000"
         ],
         "US West (Phoenix)": [
@@ -2181,7 +2181,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r6i.32xlarge": {
-        "Regionless": [
+        "Default": [
             "9.6768000000"
         ],
         "US West (Phoenix)": [
@@ -2297,7 +2297,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m6i.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2304000000"
         ],
         "US West (Phoenix)": [
@@ -2419,7 +2419,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m6i.16xlarge": {
-        "Regionless": [
+        "Default": [
             "3.6864000000"
         ],
         "US West (Phoenix)": [
@@ -2541,7 +2541,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r6i.16xlarge": {
-        "Regionless": [
+        "Default": [
             "4.8384000000"
         ],
         "US West (Phoenix)": [
@@ -2657,7 +2657,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r5d.4xlarge": {
-        "Regionless": [
+        "Default": [
             "1.4400000000"
         ],
         "US West (Phoenix)": [
@@ -2791,7 +2791,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c6gn.medium": {
-        "Regionless": [
+        "Default": [
             "0.0518400000"
         ],
         "US West (Phoenix)": [
@@ -2898,7 +2898,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m5.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.9600000000"
         ],
         "US West (Phoenix)": [
@@ -3032,7 +3032,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m5.8xlarge": {
-        "Regionless": [
+        "Default": [
             "1.9200000000"
         ],
         "US West (Phoenix)": [
@@ -3166,7 +3166,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m5.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.4800000000"
         ],
         "US West (Phoenix)": [
@@ -3342,7 +3342,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c5d.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2400000000"
         ],
         "US West (Phoenix)": [
@@ -3461,7 +3461,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r6i.24xlarge": {
-        "Regionless": [
+        "Default": [
             "7.2576000000"
         ],
         "US West (Phoenix)": [
@@ -3577,7 +3577,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c6i.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.8160000000"
         ],
         "US West (Phoenix)": [
@@ -3687,7 +3687,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c6i.16xlarge": {
-        "Regionless": [
+        "Default": [
             "3.2640000000"
         ],
         "US West (Phoenix)": [
@@ -3797,7 +3797,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m6i.large": {
-        "Regionless": [
+        "Default": [
             "0.1152000000"
         ],
         "US West (Phoenix)": [
@@ -3919,7 +3919,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c6gn.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.8294400000"
         ],
         "US West (Phoenix)": [
@@ -4026,7 +4026,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r6i.metal": {
-        "Regionless": [
+        "Default": [
             "9.6768000000"
         ],
         "US West (Phoenix)": [
@@ -4142,7 +4142,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m6i.8xlarge": {
-        "Regionless": [
+        "Default": [
             "1.8432000000"
         ],
         "US West (Phoenix)": [
@@ -4264,7 +4264,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c6gn.large": {
-        "Regionless": [
+        "Default": [
             "0.1036800000"
         ],
         "US West (Phoenix)": [
@@ -4371,7 +4371,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m6i.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.9216000000"
         ],
         "US West (Phoenix)": [
@@ -4493,7 +4493,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r6i.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.6048000000"
         ],
         "US West (Phoenix)": [
@@ -4609,7 +4609,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m6i.24xlarge": {
-        "Regionless": [
+        "Default": [
             "5.5296000000"
         ],
         "US West (Phoenix)": [
@@ -4731,7 +4731,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c6gn.8xlarge": {
-        "Regionless": [
+        "Default": [
             "1.6588800000"
         ],
         "US West (Phoenix)": [
@@ -4838,7 +4838,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c6gn.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2073600000"
         ],
         "US West (Phoenix)": [
@@ -4945,7 +4945,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c6i.metal": {
-        "Regionless": [
+        "Default": [
             "6.5280000000"
         ],
         "US West (Phoenix)": [
@@ -5055,7 +5055,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r6i.large": {
-        "Regionless": [
+        "Default": [
             "0.1512000000"
         ],
         "US West (Phoenix)": [
@@ -5171,7 +5171,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c6i.32xlarge": {
-        "Regionless": [
+        "Default": [
             "6.5280000000"
         ],
         "US West (Phoenix)": [
@@ -5281,7 +5281,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r6i.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.3024000000"
         ],
         "US West (Phoenix)": [
@@ -5397,7 +5397,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r5d.8xlarge": {
-        "Regionless": [
+        "Default": [
             "2.8800000000"
         ],
         "US West (Phoenix)": [
@@ -5525,7 +5525,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c6gn.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.4147200000"
         ],
         "US West (Phoenix)": [
@@ -5632,7 +5632,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c6i.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.4080000000"
         ],
         "US West (Phoenix)": [
@@ -5742,7 +5742,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c6gn.12xlarge": {
-        "Regionless": [
+        "Default": [
             "2.4883200000"
         ],
         "US West (Phoenix)": [
@@ -5849,7 +5849,7 @@
         ]
     },
     "OnDemand Linux-instancetype-g4dn.4xlarge": {
-        "Regionless": [
+        "Default": [
             "1.6250000000"
         ],
         "US West (Phoenix)": [
@@ -5956,7 +5956,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m6i.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.4608000000"
         ],
         "US West (Phoenix)": [
@@ -6078,7 +6078,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c6gn.16xlarge": {
-        "Regionless": [
+        "Default": [
             "3.3177600000"
         ],
         "US West (Phoenix)": [
@@ -6185,7 +6185,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m6i.metal": {
-        "Regionless": [
+        "Default": [
             "7.3728000000"
         ],
         "US West (Phoenix)": [
@@ -6307,7 +6307,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r6i.12xlarge": {
-        "Regionless": [
+        "Default": [
             "3.6288000000"
         ],
         "US West (Phoenix)": [
@@ -6423,7 +6423,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r6i.8xlarge": {
-        "Regionless": [
+        "Default": [
             "2.4192000000"
         ],
         "US West (Phoenix)": [
@@ -6539,7 +6539,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c6i.8xlarge": {
-        "Regionless": [
+        "Default": [
             "1.6320000000"
         ],
         "US West (Phoenix)": [
@@ -6649,7 +6649,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m5.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2400000000"
         ],
         "US West (Phoenix)": [
@@ -6789,7 +6789,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c6i.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2040000000"
         ],
         "US West (Phoenix)": [
@@ -6899,7 +6899,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c6i.24xlarge": {
-        "Regionless": [
+        "Default": [
             "4.8960000000"
         ],
         "US West (Phoenix)": [
@@ -7009,7 +7009,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m6i.12xlarge": {
-        "Regionless": [
+        "Default": [
             "2.7648000000"
         ],
         "US West (Phoenix)": [
@@ -7131,7 +7131,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r5d.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.3600000000"
         ],
         "US West (Phoenix)": [
@@ -7262,7 +7262,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c8g.metal-24xl": {
-        "Regionless": [
+        "Default": [
             "3.8284800000"
         ],
         "US West (Oregon)": [
@@ -7306,7 +7306,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c5.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.3400000000"
         ],
         "US West (Oregon)": [
@@ -7464,7 +7464,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r6in.24xlarge": {
-        "Regionless": [
+        "Default": [
             "8.3678400000"
         ],
         "US West (Oregon)": [
@@ -7499,7 +7499,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r5a.12xlarge": {
-        "Regionless": [
+        "Default": [
             "2.7120000000"
         ],
         "US West (Oregon)": [
@@ -7558,7 +7558,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m7g.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.3264000000"
         ],
         "US West (Oregon)": [
@@ -7650,7 +7650,7 @@
         ]
     },
     "OnDemand Linux-instancetype-g5.48xlarge": {
-        "Regionless": [
+        "Default": [
             "16.2880000000"
         ],
         "US West (Oregon)": [
@@ -7703,7 +7703,7 @@
         ]
     },
     "OnDemand Linux-instancetype-x1.16xlarge": {
-        "Regionless": [
+        "Default": [
             "6.6690000000"
         ],
         "US West (Oregon)": [
@@ -7765,7 +7765,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c4.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.3980000000"
         ],
         "US West (Oregon)": [
@@ -7818,7 +7818,7 @@
         ]
     },
     "OnDemand Linux-instancetype-x8g.medium": {
-        "Regionless": [
+        "Default": [
             "0.0977000000"
         ],
         "US West (Oregon)": [
@@ -7832,7 +7832,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c7i.large": {
-        "Regionless": [
+        "Default": [
             "0.0892500000"
         ],
         "US West (Oregon)": [
@@ -7906,7 +7906,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m1.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.3500000000"
         ],
         "US West (Oregon)": [
@@ -7938,7 +7938,7 @@
         ]
     },
     "OnDemand Linux-instancetype-i4i.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.6860000000"
         ],
         "US West (Oregon)": [
@@ -8042,7 +8042,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r6gd.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.9216000000"
         ],
         "US West (Oregon)": [
@@ -8113,7 +8113,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c5ad.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1720000000"
         ],
         "US West (Oregon)": [
@@ -8151,7 +8151,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m5n.12xlarge": {
-        "Regionless": [
+        "Default": [
             "2.8560000000"
         ],
         "US West (Oregon)": [
@@ -8183,7 +8183,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m6a.12xlarge": {
-        "Regionless": [
+        "Default": [
             "2.0736000000"
         ],
         "US West (Oregon)": [
@@ -8236,7 +8236,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m7a.8xlarge": {
-        "Regionless": [
+        "Default": [
             "1.8547200000"
         ],
         "US West (Oregon)": [
@@ -8268,7 +8268,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m7i.12xlarge": {
-        "Regionless": [
+        "Default": [
             "2.4192000000"
         ],
         "US West (Oregon)": [
@@ -8345,7 +8345,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m4.16xlarge": {
-        "Regionless": [
+        "Default": [
             "3.2000000000"
         ],
         "US West (Oregon)": [
@@ -8398,7 +8398,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c7g.16xlarge": {
-        "Regionless": [
+        "Default": [
             "2.3200000000"
         ],
         "US West (Oregon)": [
@@ -8487,7 +8487,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r7iz.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.7440000000"
         ],
         "US West (Oregon)": [
@@ -8510,7 +8510,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c6in.16xlarge": {
-        "Regionless": [
+        "Default": [
             "3.6288000000"
         ],
         "US West (Oregon)": [
@@ -8608,7 +8608,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c8g.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.3190400000"
         ],
         "US West (Oregon)": [
@@ -8652,7 +8652,7 @@
         ]
     },
     "OnDemand Linux-instancetype-p3dn.24xlarge": {
-        "Regionless": [
+        "Default": [
             "31.2120000000"
         ],
         "US West (Oregon)": [
@@ -8675,7 +8675,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m5n.8xlarge": {
-        "Regionless": [
+        "Default": [
             "1.9040000000"
         ],
         "US West (Oregon)": [
@@ -8707,7 +8707,7 @@
         ]
     },
     "OnDemand Linux-instancetype-is4gen.medium": {
-        "Regionless": [
+        "Default": [
             "0.1440800000"
         ],
         "US West (Oregon)": [
@@ -8748,7 +8748,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m6in.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2784600000"
         ],
         "US West (Oregon)": [
@@ -8804,7 +8804,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c3.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.4200000000"
         ],
         "US West (Oregon)": [
@@ -8842,7 +8842,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r5dn.4xlarge": {
-        "Regionless": [
+        "Default": [
             "1.3360000000"
         ],
         "US West (Oregon)": [
@@ -8892,7 +8892,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c4.large": {
-        "Regionless": [
+        "Default": [
             "0.1000000000"
         ],
         "US West (Oregon)": [
@@ -8945,7 +8945,7 @@
         ]
     },
     "OnDemand Linux-instancetype-g4dn.8xlarge": {
-        "Regionless": [
+        "Default": [
             "2.1760000000"
         ],
         "US West (Oregon)": [
@@ -9022,7 +9022,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m5n.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.9520000000"
         ],
         "US West (Oregon)": [
@@ -9054,7 +9054,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r6idn.16xlarge": {
-        "Regionless": [
+        "Default": [
             "6.2524800000"
         ],
         "US West (Oregon)": [
@@ -9089,7 +9089,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m7a.24xlarge": {
-        "Regionless": [
+        "Default": [
             "5.5641600000"
         ],
         "US West (Oregon)": [
@@ -9121,7 +9121,7 @@
         ]
     },
     "OnDemand Linux-instancetype-d2.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.6900000000"
         ],
         "US West (Oregon)": [
@@ -9192,7 +9192,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c5.large": {
-        "Regionless": [
+        "Default": [
             "0.0850000000"
         ],
         "US West (Oregon)": [
@@ -9293,7 +9293,7 @@
         ]
     },
     "OnDemand Linux-instancetype-i2.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.8530000000"
         ],
         "US West (Oregon)": [
@@ -9334,7 +9334,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m6gd.large": {
-        "Regionless": [
+        "Default": [
             "0.0904000000"
         ],
         "US West (Oregon)": [
@@ -9441,7 +9441,7 @@
         ]
     },
     "OnDemand Linux-instancetype-t2.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1856000000"
         ],
         "US West (Oregon)": [
@@ -9497,7 +9497,7 @@
         ]
     },
     "OnDemand Linux-instancetype-im4gn.8xlarge": {
-        "Regionless": [
+        "Default": [
             "2.9103400000"
         ],
         "US West (Oregon)": [
@@ -9538,7 +9538,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m5n.large": {
-        "Regionless": [
+        "Default": [
             "0.1190000000"
         ],
         "US West (Oregon)": [
@@ -9570,7 +9570,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r8g.medium": {
-        "Regionless": [
+        "Default": [
             "0.0589100000"
         ],
         "US West (Oregon)": [
@@ -9611,7 +9611,7 @@
         ]
     },
     "OnDemand Linux-instancetype-t4g.micro": {
-        "Regionless": [
+        "Default": [
             "0.0084000000"
         ],
         "US West (Oregon)": [
@@ -9718,7 +9718,7 @@
         ]
     },
     "OnDemand Linux-instancetype-x2idn.24xlarge": {
-        "Regionless": [
+        "Default": [
             "10.0035000000"
         ],
         "US West (Oregon)": [
@@ -9810,7 +9810,7 @@
         ]
     },
     "OnDemand Linux-instancetype-x2iedn.2xlarge": {
-        "Regionless": [
+        "Default": [
             "1.6672500000"
         ],
         "US West (Oregon)": [
@@ -9890,7 +9890,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c5a.12xlarge": {
-        "Regionless": [
+        "Default": [
             "1.8480000000"
         ],
         "US West (Oregon)": [
@@ -9961,7 +9961,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c6gd.metal": {
-        "Regionless": [
+        "Default": [
             "2.4576000000"
         ],
         "US West (Oregon)": [
@@ -10032,7 +10032,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r5.metal": {
-        "Regionless": [
+        "Default": [
             "6.0480000000"
         ],
         "US West (Oregon)": [
@@ -10133,7 +10133,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c7gd.8xlarge": {
-        "Regionless": [
+        "Default": [
             "1.4515000000"
         ],
         "US West (Oregon)": [
@@ -10189,7 +10189,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r6in.metal": {
-        "Regionless": [
+        "Default": [
             "11.1571200000"
         ],
         "US West (Oregon)": [
@@ -10224,7 +10224,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c6g.large": {
-        "Regionless": [
+        "Default": [
             "0.0680000000"
         ],
         "US West (Oregon)": [
@@ -10331,7 +10331,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c7g.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2900000000"
         ],
         "US West (Oregon)": [
@@ -10420,7 +10420,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r4.large": {
-        "Regionless": [
+        "Default": [
             "0.1330000000"
         ],
         "US West (Oregon)": [
@@ -10476,7 +10476,7 @@
         ]
     },
     "OnDemand Linux-instancetype-gr6.8xlarge": {
-        "Regionless": [
+        "Default": [
             "2.4464000000"
         ],
         "US West (Oregon)": [
@@ -10532,7 +10532,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r7i.large": {
-        "Regionless": [
+        "Default": [
             "0.1323000000"
         ],
         "US West (Oregon)": [
@@ -10618,7 +10618,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r8g.large": {
-        "Regionless": [
+        "Default": [
             "0.1178200000"
         ],
         "US West (Oregon)": [
@@ -10659,7 +10659,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m6idn.16xlarge": {
-        "Regionless": [
+        "Default": [
             "5.0918400000"
         ],
         "US West (Oregon)": [
@@ -10709,7 +10709,7 @@
         ]
     },
     "OnDemand Linux-instancetype-u-6tb1.56xlarge": {
-        "Regionless": [
+        "Default": [
             "46.4039100000"
         ],
         "US West (Oregon)": [
@@ -10783,7 +10783,7 @@
         ]
     },
     "OnDemand Linux-instancetype-x2idn.32xlarge": {
-        "Regionless": [
+        "Default": [
             "13.3380000000"
         ],
         "US West (Oregon)": [
@@ -10875,7 +10875,7 @@
         ]
     },
     "OnDemand Linux-instancetype-i3en.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.4520000000"
         ],
         "US West (Oregon)": [
@@ -10985,7 +10985,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c6g.12xlarge": {
-        "Regionless": [
+        "Default": [
             "1.6320000000"
         ],
         "US West (Oregon)": [
@@ -11092,7 +11092,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c6a.8xlarge": {
-        "Regionless": [
+        "Default": [
             "1.2240000000"
         ],
         "US West (Oregon)": [
@@ -11142,7 +11142,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m6g.12xlarge": {
-        "Regionless": [
+        "Default": [
             "1.8480000000"
         ],
         "US West (Oregon)": [
@@ -11255,7 +11255,7 @@
         ]
     },
     "OnDemand Linux-instancetype-i4g.8xlarge": {
-        "Regionless": [
+        "Default": [
             "2.4710400000"
         ],
         "US West (Oregon)": [
@@ -11284,7 +11284,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m7i.8xlarge": {
-        "Regionless": [
+        "Default": [
             "1.6128000000"
         ],
         "US West (Oregon)": [
@@ -11361,7 +11361,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c6gd.12xlarge": {
-        "Regionless": [
+        "Default": [
             "1.8432000000"
         ],
         "US West (Oregon)": [
@@ -11432,7 +11432,7 @@
         ]
     },
     "OnDemand Linux-instancetype-i3en.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.9040000000"
         ],
         "US West (Oregon)": [
@@ -11542,7 +11542,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r6idn.24xlarge": {
-        "Regionless": [
+        "Default": [
             "9.3787200000"
         ],
         "US West (Oregon)": [
@@ -11577,7 +11577,7 @@
         ]
     },
     "OnDemand Linux-instancetype-t3a.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.3008000000"
         ],
         "US West (Oregon)": [
@@ -11639,7 +11639,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r7gd.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2722000000"
         ],
         "US West (Oregon)": [
@@ -11713,7 +11713,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r5dn.metal": {
-        "Regionless": [
+        "Default": [
             "8.0160000000"
         ],
         "US West (Oregon)": [
@@ -11763,7 +11763,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c6id.16xlarge": {
-        "Regionless": [
+        "Default": [
             "3.2256000000"
         ],
         "US West (Oregon)": [
@@ -11825,7 +11825,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c5d.9xlarge": {
-        "Regionless": [
+        "Default": [
             "1.7280000000"
         ],
         "US West (Oregon)": [
@@ -11920,7 +11920,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m5zn.metal": {
-        "Regionless": [
+        "Default": [
             "3.9641000000"
         ],
         "US West (Oregon)": [
@@ -11958,7 +11958,7 @@
         ]
     },
     "OnDemand Linux-instancetype-g5.8xlarge": {
-        "Regionless": [
+        "Default": [
             "2.4480000000"
         ],
         "US West (Oregon)": [
@@ -12014,7 +12014,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r5a.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.4520000000"
         ],
         "US West (Oregon)": [
@@ -12073,7 +12073,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c7i-flex.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.3391500000"
         ],
         "US West (Oregon)": [
@@ -12141,7 +12141,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c5a.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1540000000"
         ],
         "US West (Oregon)": [
@@ -12212,7 +12212,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m7a.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.4636800000"
         ],
         "US West (Oregon)": [
@@ -12244,7 +12244,7 @@
         ]
     },
     "OnDemand Linux-instancetype-g5.24xlarge": {
-        "Regionless": [
+        "Default": [
             "8.1440000000"
         ],
         "US West (Oregon)": [
@@ -12297,7 +12297,7 @@
         ]
     },
     "OnDemand Linux-instancetype-i4i.8xlarge": {
-        "Regionless": [
+        "Default": [
             "2.7460000000"
         ],
         "US West (Oregon)": [
@@ -12401,7 +12401,7 @@
         ]
     },
     "OnDemand Linux-instancetype-g6e.12xlarge": {
-        "Regionless": [
+        "Default": [
             "10.4926400000"
         ],
         "US West (Oregon)": [
@@ -12430,7 +12430,7 @@
         ]
     },
     "OnDemand Linux-instancetype-d3en.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.5260000000"
         ],
         "US West (Oregon)": [
@@ -12459,7 +12459,7 @@
         ]
     },
     "OnDemand Linux-instancetype-d3.4xlarge": {
-        "Regionless": [
+        "Default": [
             "1.9980000000"
         ],
         "US West (Oregon)": [
@@ -12509,7 +12509,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r5dn.8xlarge": {
-        "Regionless": [
+        "Default": [
             "2.6720000000"
         ],
         "US West (Oregon)": [
@@ -12559,7 +12559,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c6gd.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.6144000000"
         ],
         "US West (Oregon)": [
@@ -12630,7 +12630,7 @@
         ]
     },
     "OnDemand Linux-instancetype-im4gn.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.3637900000"
         ],
         "US West (Oregon)": [
@@ -12671,7 +12671,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r5ad.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2620000000"
         ],
         "US West (Oregon)": [
@@ -12724,7 +12724,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r7iz.16xlarge": {
-        "Regionless": [
+        "Default": [
             "5.9520000000"
         ],
         "US West (Oregon)": [
@@ -12747,7 +12747,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r6a.8xlarge": {
-        "Regionless": [
+        "Default": [
             "1.8144000000"
         ],
         "US West (Oregon)": [
@@ -12788,7 +12788,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m5zn.3xlarge": {
-        "Regionless": [
+        "Default": [
             "0.9910000000"
         ],
         "US West (Oregon)": [
@@ -12826,7 +12826,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r5n.24xlarge": {
-        "Regionless": [
+        "Default": [
             "7.1520000000"
         ],
         "US West (Oregon)": [
@@ -12894,7 +12894,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c6gd.8xlarge": {
-        "Regionless": [
+        "Default": [
             "1.2288000000"
         ],
         "US West (Oregon)": [
@@ -12965,7 +12965,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r5dn.large": {
-        "Regionless": [
+        "Default": [
             "0.1670000000"
         ],
         "US West (Oregon)": [
@@ -13015,7 +13015,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m7i.metal-48xl": {
-        "Regionless": [
+        "Default": [
             "9.6768000000"
         ],
         "US West (Oregon)": [
@@ -13092,7 +13092,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c7i.48xlarge": {
-        "Regionless": [
+        "Default": [
             "8.5680000000"
         ],
         "US West (Oregon)": [
@@ -13166,7 +13166,7 @@
         ]
     },
     "OnDemand Linux-instancetype-d3en.8xlarge": {
-        "Regionless": [
+        "Default": [
             "4.2057600000"
         ],
         "US West (Oregon)": [
@@ -13195,7 +13195,7 @@
         ]
     },
     "OnDemand Linux-instancetype-t2.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.3712000000"
         ],
         "US West (Oregon)": [
@@ -13251,7 +13251,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m7i.24xlarge": {
-        "Regionless": [
+        "Default": [
             "4.8384000000"
         ],
         "US West (Oregon)": [
@@ -13328,7 +13328,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m7g.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1632000000"
         ],
         "US West (Oregon)": [
@@ -13420,7 +13420,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r6idn.8xlarge": {
-        "Regionless": [
+        "Default": [
             "3.1262400000"
         ],
         "US West (Oregon)": [
@@ -13455,7 +13455,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r7gd.medium": {
-        "Regionless": [
+        "Default": [
             "0.0680000000"
         ],
         "US West (Oregon)": [
@@ -13529,7 +13529,7 @@
         ]
     },
     "OnDemand Linux-instancetype-g5g.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.4200000000"
         ],
         "US West (Oregon)": [
@@ -13555,7 +13555,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m6id.24xlarge": {
-        "Regionless": [
+        "Default": [
             "5.6952000000"
         ],
         "US West (Oregon)": [
@@ -13626,7 +13626,7 @@
         ]
     },
     "OnDemand Linux-instancetype-i2.2xlarge": {
-        "Regionless": [
+        "Default": [
             "1.7050000000"
         ],
         "US West (Oregon)": [
@@ -13667,7 +13667,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c6in.8xlarge": {
-        "Regionless": [
+        "Default": [
             "1.8144000000"
         ],
         "US West (Oregon)": [
@@ -13765,7 +13765,7 @@
         ]
     },
     "OnDemand Linux-instancetype-g4ad.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.3785300000"
         ],
         "US West (Oregon)": [
@@ -13794,7 +13794,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r5.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2520000000"
         ],
         "US West (Oregon)": [
@@ -13904,7 +13904,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c6a.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1530000000"
         ],
         "US West (Oregon)": [
@@ -13954,7 +13954,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m4.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.8000000000"
         ],
         "US West (Oregon)": [
@@ -14007,7 +14007,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m6id.8xlarge": {
-        "Regionless": [
+        "Default": [
             "1.8984000000"
         ],
         "US West (Oregon)": [
@@ -14078,7 +14078,7 @@
         ]
     },
     "OnDemand Linux-instancetype-x2gd.metal": {
-        "Regionless": [
+        "Default": [
             "5.3440000000"
         ],
         "US West (Oregon)": [
@@ -14095,7 +14095,7 @@
         ]
     },
     "OnDemand Linux-instancetype-x2iezn.6xlarge": {
-        "Regionless": [
+        "Default": [
             "5.0040000000"
         ],
         "US West (Oregon)": [
@@ -14115,7 +14115,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c7a.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.4105600000"
         ],
         "US West (Oregon)": [
@@ -14144,7 +14144,7 @@
         ]
     },
     "OnDemand Linux-instancetype-d3en.2xlarge": {
-        "Regionless": [
+        "Default": [
             "1.0510000000"
         ],
         "US West (Oregon)": [
@@ -14173,7 +14173,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r6idn.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.7815600000"
         ],
         "US West (Oregon)": [
@@ -14208,7 +14208,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c7a.12xlarge": {
-        "Regionless": [
+        "Default": [
             "2.4633600000"
         ],
         "US West (Oregon)": [
@@ -14237,7 +14237,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r7gd.large": {
-        "Regionless": [
+        "Default": [
             "0.1361000000"
         ],
         "US West (Oregon)": [
@@ -14311,7 +14311,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c6a.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.3060000000"
         ],
         "US West (Oregon)": [
@@ -14361,7 +14361,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m6in.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.5569200000"
         ],
         "US West (Oregon)": [
@@ -14417,7 +14417,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c5a.24xlarge": {
-        "Regionless": [
+        "Default": [
             "3.6960000000"
         ],
         "US West (Oregon)": [
@@ -14488,7 +14488,7 @@
         ]
     },
     "OnDemand Linux-instancetype-i4g.large": {
-        "Regionless": [
+        "Default": [
             "0.1544400000"
         ],
         "US West (Oregon)": [
@@ -14517,7 +14517,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r7a.4xlarge": {
-        "Regionless": [
+        "Default": [
             "1.2172000000"
         ],
         "US West (Oregon)": [
@@ -14546,7 +14546,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r7a.metal-48xl": {
-        "Regionless": [
+        "Default": [
             "14.6064000000"
         ],
         "US West (Oregon)": [
@@ -14575,7 +14575,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r6a.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.9072000000"
         ],
         "US West (Oregon)": [
@@ -14616,7 +14616,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r6id.8xlarge": {
-        "Regionless": [
+        "Default": [
             "2.4192000000"
         ],
         "US West (Oregon)": [
@@ -14675,7 +14675,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c6a.16xlarge": {
-        "Regionless": [
+        "Default": [
             "2.4480000000"
         ],
         "US West (Oregon)": [
@@ -14725,7 +14725,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c8g.16xlarge": {
-        "Regionless": [
+        "Default": [
             "2.5523200000"
         ],
         "US West (Oregon)": [
@@ -14769,7 +14769,7 @@
         ]
     },
     "OnDemand Linux-instancetype-x2gd.large": {
-        "Regionless": [
+        "Default": [
             "0.1670000000"
         ],
         "US West (Oregon)": [
@@ -14786,7 +14786,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m6a.16xlarge": {
-        "Regionless": [
+        "Default": [
             "2.7648000000"
         ],
         "US West (Oregon)": [
@@ -14839,7 +14839,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c8g.12xlarge": {
-        "Regionless": [
+        "Default": [
             "1.9142400000"
         ],
         "US West (Oregon)": [
@@ -14883,7 +14883,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r7a.large": {
-        "Regionless": [
+        "Default": [
             "0.1521500000"
         ],
         "US West (Oregon)": [
@@ -14912,7 +14912,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c6g.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2720000000"
         ],
         "US West (Oregon)": [
@@ -15019,7 +15019,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r5a.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.9040000000"
         ],
         "US West (Oregon)": [
@@ -15078,7 +15078,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m4.large": {
-        "Regionless": [
+        "Default": [
             "0.1000000000"
         ],
         "US West (Oregon)": [
@@ -15131,7 +15131,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m5a.large": {
-        "Regionless": [
+        "Default": [
             "0.0860000000"
         ],
         "US West (Oregon)": [
@@ -15190,7 +15190,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c7a.32xlarge": {
-        "Regionless": [
+        "Default": [
             "6.5689600000"
         ],
         "US West (Oregon)": [
@@ -15219,7 +15219,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m8g.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.3590400000"
         ],
         "US West (Oregon)": [
@@ -15266,7 +15266,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m5zn.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.3303000000"
         ],
         "US West (Oregon)": [
@@ -15304,7 +15304,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c7a.8xlarge": {
-        "Regionless": [
+        "Default": [
             "1.6422400000"
         ],
         "US West (Oregon)": [
@@ -15333,7 +15333,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c6in.metal": {
-        "Regionless": [
+        "Default": [
             "7.2576000000"
         ],
         "US West (Oregon)": [
@@ -15431,7 +15431,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m5a.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1720000000"
         ],
         "US West (Oregon)": [
@@ -15490,7 +15490,7 @@
         ]
     },
     "OnDemand Linux-instancetype-z1d.large": {
-        "Regionless": [
+        "Default": [
             "0.1860000000"
         ],
         "US West (Oregon)": [
@@ -15531,7 +15531,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c6in.large": {
-        "Regionless": [
+        "Default": [
             "0.1134000000"
         ],
         "US West (Oregon)": [
@@ -15638,7 +15638,7 @@
         ]
     },
     "OnDemand Linux-instancetype-i4i.12xlarge": {
-        "Regionless": [
+        "Default": [
             "4.1180000000"
         ],
         "US West (Oregon)": [
@@ -15739,7 +15739,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r7g.16xlarge": {
-        "Regionless": [
+        "Default": [
             "3.4272000000"
         ],
         "US West (Oregon)": [
@@ -15816,7 +15816,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r5ad.12xlarge": {
-        "Regionless": [
+        "Default": [
             "3.1440000000"
         ],
         "US West (Oregon)": [
@@ -15869,7 +15869,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r6idn.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.3907800000"
         ],
         "US West (Oregon)": [
@@ -15904,7 +15904,7 @@
         ]
     },
     "OnDemand Linux-instancetype-u-18tb1.112xlarge": {
-        "Regionless": [
+        "Default": [
             "163.8000000000"
         ],
         "US West (Oregon)": [
@@ -15924,7 +15924,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r6id.large": {
-        "Regionless": [
+        "Default": [
             "0.1512000000"
         ],
         "US West (Oregon)": [
@@ -15983,7 +15983,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r7gd.16xlarge": {
-        "Regionless": [
+        "Default": [
             "4.3546000000"
         ],
         "US West (Oregon)": [
@@ -16057,7 +16057,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r6idn.large": {
-        "Regionless": [
+        "Default": [
             "0.1953900000"
         ],
         "US West (Oregon)": [
@@ -16092,7 +16092,7 @@
         ]
     },
     "OnDemand Linux-instancetype-d3en.6xlarge": {
-        "Regionless": [
+        "Default": [
             "3.1540000000"
         ],
         "US West (Oregon)": [
@@ -16121,7 +16121,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c5ad.large": {
-        "Regionless": [
+        "Default": [
             "0.0860000000"
         ],
         "US West (Oregon)": [
@@ -16159,7 +16159,7 @@
         ]
     },
     "OnDemand Linux-instancetype-a1.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2040000000"
         ],
         "US West (Oregon)": [
@@ -16191,7 +16191,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c7gn.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.9984000000"
         ],
         "US West (Oregon)": [
@@ -16211,7 +16211,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c7gn.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.4992000000"
         ],
         "US West (Oregon)": [
@@ -16231,7 +16231,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m6id.32xlarge": {
-        "Regionless": [
+        "Default": [
             "7.5936000000"
         ],
         "US West (Oregon)": [
@@ -16302,7 +16302,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m4.10xlarge": {
-        "Regionless": [
+        "Default": [
             "2.0000000000"
         ],
         "US West (Oregon)": [
@@ -16352,7 +16352,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r6idn.32xlarge": {
-        "Regionless": [
+        "Default": [
             "12.5049600000"
         ],
         "US West (Oregon)": [
@@ -16387,7 +16387,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r6gd.metal": {
-        "Regionless": [
+        "Default": [
             "3.6864000000"
         ],
         "US West (Oregon)": [
@@ -16458,7 +16458,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r7a.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.3043000000"
         ],
         "US West (Oregon)": [
@@ -16487,7 +16487,7 @@
         ]
     },
     "OnDemand Linux-instancetype-g4ad.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.8670000000"
         ],
         "US West (Oregon)": [
@@ -16516,7 +16516,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r6gd.16xlarge": {
-        "Regionless": [
+        "Default": [
             "3.6864000000"
         ],
         "US West (Oregon)": [
@@ -16587,7 +16587,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r5n.16xlarge": {
-        "Regionless": [
+        "Default": [
             "4.7680000000"
         ],
         "US West (Oregon)": [
@@ -16655,7 +16655,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r5n.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2980000000"
         ],
         "US West (Oregon)": [
@@ -16723,7 +16723,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m6gd.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.7232000000"
         ],
         "US West (Oregon)": [
@@ -16830,7 +16830,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m7a.large": {
-        "Regionless": [
+        "Default": [
             "0.1159200000"
         ],
         "US West (Oregon)": [
@@ -16862,7 +16862,7 @@
         ]
     },
     "OnDemand Linux-instancetype-x8g.metal-24xl": {
-        "Regionless": [
+        "Default": [
             "9.3792000000"
         ],
         "US West (Oregon)": [
@@ -16876,7 +16876,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c5.24xlarge": {
-        "Regionless": [
+        "Default": [
             "4.0800000000"
         ],
         "US West (Oregon)": [
@@ -16992,7 +16992,7 @@
         ]
     },
     "OnDemand Linux-instancetype-t4g.nano": {
-        "Regionless": [
+        "Default": [
             "0.0042000000"
         ],
         "US West (Oregon)": [
@@ -17099,7 +17099,7 @@
         ]
     },
     "OnDemand Linux-instancetype-u7in-24tb.224xlarge": {
-        "Regionless": [
+        "Default": [
             "270.7312800000"
         ],
         "US West (Oregon)": [
@@ -17113,7 +17113,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m6id.metal": {
-        "Regionless": [
+        "Default": [
             "7.5936000000"
         ],
         "US West (Oregon)": [
@@ -17184,7 +17184,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r8g.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2356400000"
         ],
         "US West (Oregon)": [
@@ -17225,7 +17225,7 @@
         ]
     },
     "OnDemand Linux-instancetype-g5.2xlarge": {
-        "Regionless": [
+        "Default": [
             "1.2120000000"
         ],
         "US West (Oregon)": [
@@ -17278,7 +17278,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m3.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2660000000"
         ],
         "US West (Oregon)": [
@@ -17316,7 +17316,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m5dn.8xlarge": {
-        "Regionless": [
+        "Default": [
             "2.1760000000"
         ],
         "US West (Oregon)": [
@@ -17348,7 +17348,7 @@
         ]
     },
     "OnDemand Linux-instancetype-i3en.3xlarge": {
-        "Regionless": [
+        "Default": [
             "1.3560000000"
         ],
         "US West (Oregon)": [
@@ -17458,7 +17458,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m7a.32xlarge": {
-        "Regionless": [
+        "Default": [
             "7.4188800000"
         ],
         "US West (Oregon)": [
@@ -17490,7 +17490,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m5zn.6xlarge": {
-        "Regionless": [
+        "Default": [
             "1.9820000000"
         ],
         "US West (Oregon)": [
@@ -17528,7 +17528,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c7a.large": {
-        "Regionless": [
+        "Default": [
             "0.1026400000"
         ],
         "US West (Oregon)": [
@@ -17557,7 +17557,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m6in.8xlarge": {
-        "Regionless": [
+        "Default": [
             "2.2276800000"
         ],
         "US West (Oregon)": [
@@ -17613,7 +17613,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r6a.large": {
-        "Regionless": [
+        "Default": [
             "0.1134000000"
         ],
         "US West (Oregon)": [
@@ -17654,7 +17654,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c7gd.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1814000000"
         ],
         "US West (Oregon)": [
@@ -17710,7 +17710,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r5ad.24xlarge": {
-        "Regionless": [
+        "Default": [
             "6.2880000000"
         ],
         "US West (Oregon)": [
@@ -17763,7 +17763,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m3.medium": {
-        "Regionless": [
+        "Default": [
             "0.0670000000"
         ],
         "US West (Oregon)": [
@@ -17801,7 +17801,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m5a.12xlarge": {
-        "Regionless": [
+        "Default": [
             "2.0640000000"
         ],
         "US West (Oregon)": [
@@ -17860,7 +17860,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m5n.metal": {
-        "Regionless": [
+        "Default": [
             "5.7120000000"
         ],
         "US West (Oregon)": [
@@ -17892,7 +17892,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r6a.32xlarge": {
-        "Regionless": [
+        "Default": [
             "7.2576000000"
         ],
         "US West (Oregon)": [
@@ -17933,7 +17933,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m7g.16xlarge": {
-        "Regionless": [
+        "Default": [
             "2.6112000000"
         ],
         "US West (Oregon)": [
@@ -18025,7 +18025,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m5d.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2260000000"
         ],
         "US West (Oregon)": [
@@ -18123,7 +18123,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m5ad.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.8240000000"
         ],
         "US West (Oregon)": [
@@ -18176,7 +18176,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c7gd.16xlarge": {
-        "Regionless": [
+        "Default": [
             "2.9030000000"
         ],
         "US West (Oregon)": [
@@ -18232,7 +18232,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m8g.24xlarge": {
-        "Regionless": [
+        "Default": [
             "4.3084800000"
         ],
         "US West (Oregon)": [
@@ -18279,7 +18279,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r8g.metal-48xl": {
-        "Regionless": [
+        "Default": [
             "11.3107200000"
         ],
         "US West (Oregon)": [
@@ -18320,7 +18320,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r8g.8xlarge": {
-        "Regionless": [
+        "Default": [
             "1.8851200000"
         ],
         "US West (Oregon)": [
@@ -18361,7 +18361,7 @@
         ]
     },
     "OnDemand Linux-instancetype-im4gn.16xlarge": {
-        "Regionless": [
+        "Default": [
             "5.8206700000"
         ],
         "US West (Oregon)": [
@@ -18402,7 +18402,7 @@
         ]
     },
     "OnDemand Linux-instancetype-h1.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.9360000000"
         ],
         "US West (Oregon)": [
@@ -18419,7 +18419,7 @@
         ]
     },
     "OnDemand Linux-instancetype-t3.small": {
-        "Regionless": [
+        "Default": [
             "0.0208000000"
         ],
         "US West (Oregon)": [
@@ -18529,7 +18529,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m5n.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2380000000"
         ],
         "US West (Oregon)": [
@@ -18561,7 +18561,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r7a.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.6086000000"
         ],
         "US West (Oregon)": [
@@ -18590,7 +18590,7 @@
         ]
     },
     "OnDemand Linux-instancetype-i3.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.3120000000"
         ],
         "US West (Oregon)": [
@@ -18685,7 +18685,7 @@
         ]
     },
     "OnDemand Linux-instancetype-dl1.24xlarge": {
-        "Regionless": [
+        "Default": [
             "13.1090400000"
         ],
         "US West (Oregon)": [
@@ -18696,7 +18696,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c8g.medium": {
-        "Regionless": [
+        "Default": [
             "0.0398800000"
         ],
         "US West (Oregon)": [
@@ -18740,7 +18740,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m8g.metal-48xl": {
-        "Regionless": [
+        "Default": [
             "8.6169600000"
         ],
         "US West (Oregon)": [
@@ -18787,7 +18787,7 @@
         ]
     },
     "OnDemand Linux-instancetype-a1.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.4080000000"
         ],
         "US West (Oregon)": [
@@ -18819,7 +18819,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m7i-flex.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.3830400000"
         ],
         "US West (Oregon)": [
@@ -18896,7 +18896,7 @@
         ]
     },
     "OnDemand Linux-instancetype-x2iezn.2xlarge": {
-        "Regionless": [
+        "Default": [
             "1.6680000000"
         ],
         "US West (Oregon)": [
@@ -18916,7 +18916,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r5n.12xlarge": {
-        "Regionless": [
+        "Default": [
             "3.5760000000"
         ],
         "US West (Oregon)": [
@@ -18984,7 +18984,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c7gn.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2496000000"
         ],
         "US West (Oregon)": [
@@ -19004,7 +19004,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c7g.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.5800000000"
         ],
         "US West (Oregon)": [
@@ -19093,7 +19093,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r7gd.4xlarge": {
-        "Regionless": [
+        "Default": [
             "1.0886000000"
         ],
         "US West (Oregon)": [
@@ -19167,7 +19167,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r6a.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2268000000"
         ],
         "US West (Oregon)": [
@@ -19208,7 +19208,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r6in.large": {
-        "Regionless": [
+        "Default": [
             "0.1743300000"
         ],
         "US West (Oregon)": [
@@ -19243,7 +19243,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m6idn.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.3182400000"
         ],
         "US West (Oregon)": [
@@ -19293,7 +19293,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r8g.12xlarge": {
-        "Regionless": [
+        "Default": [
             "2.8276800000"
         ],
         "US West (Oregon)": [
@@ -19334,7 +19334,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r6g.metal": {
-        "Regionless": [
+        "Default": [
             "3.2256000000"
         ],
         "US West (Oregon)": [
@@ -19441,7 +19441,7 @@
         ]
     },
     "OnDemand Linux-instancetype-t2.small": {
-        "Regionless": [
+        "Default": [
             "0.0230000000"
         ],
         "US West (Oregon)": [
@@ -19497,7 +19497,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m6id.12xlarge": {
-        "Regionless": [
+        "Default": [
             "2.8476000000"
         ],
         "US West (Oregon)": [
@@ -19568,7 +19568,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m2.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2450000000"
         ],
         "US West (Oregon)": [
@@ -19600,7 +19600,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m7a.12xlarge": {
-        "Regionless": [
+        "Default": [
             "2.7820800000"
         ],
         "US West (Oregon)": [
@@ -19632,7 +19632,7 @@
         ]
     },
     "OnDemand Linux-instancetype-is4gen.2xlarge": {
-        "Regionless": [
+        "Default": [
             "1.1526000000"
         ],
         "US West (Oregon)": [
@@ -19673,7 +19673,7 @@
         ]
     },
     "OnDemand Linux-instancetype-z1d.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.3720000000"
         ],
         "US West (Oregon)": [
@@ -19714,7 +19714,7 @@
         ]
     },
     "OnDemand Linux-instancetype-inf1.6xlarge": {
-        "Regionless": [
+        "Default": [
             "1.1800000000"
         ],
         "US West (Oregon)": [
@@ -19782,7 +19782,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r6a.48xlarge": {
-        "Regionless": [
+        "Default": [
             "10.8864000000"
         ],
         "US West (Oregon)": [
@@ -19823,7 +19823,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c7g.metal": {
-        "Regionless": [
+        "Default": [
             "2.3200000000"
         ],
         "US West (Oregon)": [
@@ -19912,7 +19912,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r4.4xlarge": {
-        "Regionless": [
+        "Default": [
             "1.0640000000"
         ],
         "US West (Oregon)": [
@@ -19968,7 +19968,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m5.metal": {
-        "Regionless": [
+        "Default": [
             "4.6080000000"
         ],
         "US West (Oregon)": [
@@ -20069,7 +20069,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c6a.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.6120000000"
         ],
         "US West (Oregon)": [
@@ -20119,7 +20119,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r4.16xlarge": {
-        "Regionless": [
+        "Default": [
             "4.2560000000"
         ],
         "US West (Oregon)": [
@@ -20175,7 +20175,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m7i.16xlarge": {
-        "Regionless": [
+        "Default": [
             "3.2256000000"
         ],
         "US West (Oregon)": [
@@ -20252,7 +20252,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c6in.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.9072000000"
         ],
         "US West (Oregon)": [
@@ -20359,7 +20359,7 @@
         ]
     },
     "OnDemand Linux-instancetype-i3en.24xlarge": {
-        "Regionless": [
+        "Default": [
             "10.8480000000"
         ],
         "US West (Oregon)": [
@@ -20469,7 +20469,7 @@
         ]
     },
     "OnDemand Linux-instancetype-i3en.metal": {
-        "Regionless": [
+        "Default": [
             "10.8480000000"
         ],
         "US West (Oregon)": [
@@ -20579,7 +20579,7 @@
         ]
     },
     "OnDemand Linux-instancetype-im4gn.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.7275800000"
         ],
         "US West (Oregon)": [
@@ -20620,7 +20620,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r6g.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.4032000000"
         ],
         "US West (Oregon)": [
@@ -20727,7 +20727,7 @@
         ]
     },
     "OnDemand Linux-instancetype-h1.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.4680000000"
         ],
         "US West (Oregon)": [
@@ -20744,7 +20744,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r5ad.4xlarge": {
-        "Regionless": [
+        "Default": [
             "1.0480000000"
         ],
         "US West (Oregon)": [
@@ -20797,7 +20797,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m5d.12xlarge": {
-        "Regionless": [
+        "Default": [
             "2.7120000000"
         ],
         "US West (Oregon)": [
@@ -20895,7 +20895,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r7gd.8xlarge": {
-        "Regionless": [
+        "Default": [
             "2.1773000000"
         ],
         "US West (Oregon)": [
@@ -20969,7 +20969,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r5b.metal": {
-        "Regionless": [
+        "Default": [
             "7.1520000000"
         ],
         "US West (Oregon)": [
@@ -21016,7 +21016,7 @@
         ]
     },
     "OnDemand Linux-instancetype-x2gd.8xlarge": {
-        "Regionless": [
+        "Default": [
             "2.6720000000"
         ],
         "US West (Oregon)": [
@@ -21033,7 +21033,7 @@
         ]
     },
     "OnDemand Linux-instancetype-t3a.nano": {
-        "Regionless": [
+        "Default": [
             "0.0047000000"
         ],
         "US West (Oregon)": [
@@ -21095,7 +21095,7 @@
         ]
     },
     "OnDemand Linux-instancetype-t4g.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1344000000"
         ],
         "US West (Oregon)": [
@@ -21202,7 +21202,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c6id.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2016000000"
         ],
         "US West (Oregon)": [
@@ -21264,7 +21264,7 @@
         ]
     },
     "OnDemand Linux-instancetype-gr6.4xlarge": {
-        "Regionless": [
+        "Default": [
             "1.5392000000"
         ],
         "US West (Oregon)": [
@@ -21320,7 +21320,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r7i.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2646000000"
         ],
         "US West (Oregon)": [
@@ -21406,7 +21406,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m5.24xlarge": {
-        "Regionless": [
+        "Default": [
             "4.6080000000"
         ],
         "US West (Oregon)": [
@@ -21507,7 +21507,7 @@
         ]
     },
     "OnDemand Linux-instancetype-i2.4xlarge": {
-        "Regionless": [
+        "Default": [
             "3.4100000000"
         ],
         "US West (Oregon)": [
@@ -21548,7 +21548,7 @@
         ]
     },
     "OnDemand Linux-instancetype-x2iedn.32xlarge": {
-        "Regionless": [
+        "Default": [
             "26.6760000000"
         ],
         "US West (Oregon)": [
@@ -21628,7 +21628,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c6gd.16xlarge": {
-        "Regionless": [
+        "Default": [
             "2.4576000000"
         ],
         "US West (Oregon)": [
@@ -21699,7 +21699,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r7a.8xlarge": {
-        "Regionless": [
+        "Default": [
             "2.4344000000"
         ],
         "US West (Oregon)": [
@@ -21728,7 +21728,7 @@
         ]
     },
     "OnDemand Linux-instancetype-g6e.24xlarge": {
-        "Regionless": [
+        "Default": [
             "15.0655900000"
         ],
         "US West (Oregon)": [
@@ -21757,7 +21757,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r8g.16xlarge": {
-        "Regionless": [
+        "Default": [
             "3.7702400000"
         ],
         "US West (Oregon)": [
@@ -21798,7 +21798,7 @@
         ]
     },
     "OnDemand Linux-instancetype-x2gd.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.6680000000"
         ],
         "US West (Oregon)": [
@@ -21815,7 +21815,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c7a.24xlarge": {
-        "Regionless": [
+        "Default": [
             "4.9267200000"
         ],
         "US West (Oregon)": [
@@ -21844,7 +21844,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m6idn.large": {
-        "Regionless": [
+        "Default": [
             "0.1591200000"
         ],
         "US West (Oregon)": [
@@ -21894,7 +21894,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r5.large": {
-        "Regionless": [
+        "Default": [
             "0.1260000000"
         ],
         "US West (Oregon)": [
@@ -22001,7 +22001,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m5n.24xlarge": {
-        "Regionless": [
+        "Default": [
             "5.7120000000"
         ],
         "US West (Oregon)": [
@@ -22033,7 +22033,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c3.8xlarge": {
-        "Regionless": [
+        "Default": [
             "1.6800000000"
         ],
         "US West (Oregon)": [
@@ -22071,7 +22071,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m5.16xlarge": {
-        "Regionless": [
+        "Default": [
             "3.0720000000"
         ],
         "US West (Oregon)": [
@@ -22172,7 +22172,7 @@
         ]
     },
     "OnDemand Linux-instancetype-g2.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.6500000000"
         ],
         "US West (Oregon)": [
@@ -22204,7 +22204,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m7a.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.9273600000"
         ],
         "US West (Oregon)": [
@@ -22236,7 +22236,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r6id.4xlarge": {
-        "Regionless": [
+        "Default": [
             "1.2096000000"
         ],
         "US West (Oregon)": [
@@ -22295,7 +22295,7 @@
         ]
     },
     "OnDemand Linux-instancetype-x2iedn.metal": {
-        "Regionless": [
+        "Default": [
             "26.6760000000"
         ],
         "US West (Oregon)": [
@@ -22375,7 +22375,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c7i.8xlarge": {
-        "Regionless": [
+        "Default": [
             "1.4280000000"
         ],
         "US West (Oregon)": [
@@ -22449,7 +22449,7 @@
         ]
     },
     "OnDemand Linux-instancetype-x8g.24xlarge": {
-        "Regionless": [
+        "Default": [
             "9.3792000000"
         ],
         "US West (Oregon)": [
@@ -22463,7 +22463,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r7gd.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.5443000000"
         ],
         "US West (Oregon)": [
@@ -22537,7 +22537,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m5zn.large": {
-        "Regionless": [
+        "Default": [
             "0.1652000000"
         ],
         "US West (Oregon)": [
@@ -22575,7 +22575,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c6in.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2268000000"
         ],
         "US West (Oregon)": [
@@ -22682,7 +22682,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c5n.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.8640000000"
         ],
         "US West (Oregon)": [
@@ -22759,7 +22759,7 @@
         ]
     },
     "OnDemand Linux-instancetype-t3a.medium": {
-        "Regionless": [
+        "Default": [
             "0.0376000000"
         ],
         "US West (Oregon)": [
@@ -22821,7 +22821,7 @@
         ]
     },
     "OnDemand Linux-instancetype-i4i.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.3430000000"
         ],
         "US West (Oregon)": [
@@ -22925,7 +22925,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m5ad.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2060000000"
         ],
         "US West (Oregon)": [
@@ -22978,7 +22978,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m8g.metal-24xl": {
-        "Regionless": [
+        "Default": [
             "4.3084800000"
         ],
         "US West (Oregon)": [
@@ -23025,7 +23025,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r7g.8xlarge": {
-        "Regionless": [
+        "Default": [
             "1.7136000000"
         ],
         "US West (Oregon)": [
@@ -23102,7 +23102,7 @@
         ]
     },
     "OnDemand Linux-instancetype-u-9tb1.112xlarge": {
-        "Regionless": [
+        "Default": [
             "81.9000000000"
         ],
         "US West (Oregon)": [
@@ -23155,7 +23155,7 @@
         ]
     },
     "OnDemand Linux-instancetype-im4gn.4xlarge": {
-        "Regionless": [
+        "Default": [
             "1.4551700000"
         ],
         "US West (Oregon)": [
@@ -23196,7 +23196,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m5d.metal": {
-        "Regionless": [
+        "Default": [
             "5.4240000000"
         ],
         "US West (Oregon)": [
@@ -23294,7 +23294,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m6a.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.6912000000"
         ],
         "US West (Oregon)": [
@@ -23347,7 +23347,7 @@
         ]
     },
     "OnDemand Linux-instancetype-vt1.24xlarge": {
-        "Regionless": [
+        "Default": [
             "5.2000000000"
         ],
         "US West (Oregon)": [
@@ -23364,7 +23364,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r7i.metal-48xl": {
-        "Regionless": [
+        "Default": [
             "12.7008000000"
         ],
         "US West (Oregon)": [
@@ -23450,7 +23450,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c8g.24xlarge": {
-        "Regionless": [
+        "Default": [
             "3.8284800000"
         ],
         "US West (Oregon)": [
@@ -23494,7 +23494,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r5b.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.5960000000"
         ],
         "US West (Oregon)": [
@@ -23541,7 +23541,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c5n.large": {
-        "Regionless": [
+        "Default": [
             "0.1080000000"
         ],
         "US West (Oregon)": [
@@ -23618,7 +23618,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c7gn.metal": {
-        "Regionless": [
+        "Default": [
             "3.9936000000"
         ],
         "US West (Oregon)": [
@@ -23638,7 +23638,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c8g.large": {
-        "Regionless": [
+        "Default": [
             "0.0797600000"
         ],
         "US West (Oregon)": [
@@ -23682,7 +23682,7 @@
         ]
     },
     "OnDemand Linux-instancetype-g4dn.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.5260000000"
         ],
         "US West (Oregon)": [
@@ -23759,7 +23759,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c6g.16xlarge": {
-        "Regionless": [
+        "Default": [
             "2.1760000000"
         ],
         "US West (Oregon)": [
@@ -23866,7 +23866,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m5d.24xlarge": {
-        "Regionless": [
+        "Default": [
             "5.4240000000"
         ],
         "US West (Oregon)": [
@@ -23964,7 +23964,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r5a.8xlarge": {
-        "Regionless": [
+        "Default": [
             "1.8080000000"
         ],
         "US West (Oregon)": [
@@ -24023,7 +24023,7 @@
         ]
     },
     "OnDemand Linux-instancetype-g5.16xlarge": {
-        "Regionless": [
+        "Default": [
             "4.0960000000"
         ],
         "US West (Oregon)": [
@@ -24076,7 +24076,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r6id.12xlarge": {
-        "Regionless": [
+        "Default": [
             "3.6288000000"
         ],
         "US West (Oregon)": [
@@ -24135,7 +24135,7 @@
         ]
     },
     "OnDemand Linux-instancetype-x2idn.metal": {
-        "Regionless": [
+        "Default": [
             "13.3380000000"
         ],
         "US West (Oregon)": [
@@ -24227,7 +24227,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c7i-flex.large": {
-        "Regionless": [
+        "Default": [
             "0.0847900000"
         ],
         "US West (Oregon)": [
@@ -24295,7 +24295,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c7i.16xlarge": {
-        "Regionless": [
+        "Default": [
             "2.8560000000"
         ],
         "US West (Oregon)": [
@@ -24369,7 +24369,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c7g.large": {
-        "Regionless": [
+        "Default": [
             "0.0725000000"
         ],
         "US West (Oregon)": [
@@ -24458,7 +24458,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r5d.24xlarge": {
-        "Regionless": [
+        "Default": [
             "6.9120000000"
         ],
         "US West (Oregon)": [
@@ -24556,7 +24556,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m6in.4xlarge": {
-        "Regionless": [
+        "Default": [
             "1.1138400000"
         ],
         "US West (Oregon)": [
@@ -24612,7 +24612,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m6gd.8xlarge": {
-        "Regionless": [
+        "Default": [
             "1.4464000000"
         ],
         "US West (Oregon)": [
@@ -24719,7 +24719,7 @@
         ]
     },
     "OnDemand Linux-instancetype-g5g.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.8280000000"
         ],
         "US West (Oregon)": [
@@ -24745,7 +24745,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m5ad.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.4120000000"
         ],
         "US West (Oregon)": [
@@ -24798,7 +24798,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m6g.16xlarge": {
-        "Regionless": [
+        "Default": [
             "2.4640000000"
         ],
         "US West (Oregon)": [
@@ -24911,7 +24911,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r5ad.8xlarge": {
-        "Regionless": [
+        "Default": [
             "2.0960000000"
         ],
         "US West (Oregon)": [
@@ -24964,7 +24964,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c5a.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.3080000000"
         ],
         "US West (Oregon)": [
@@ -25035,7 +25035,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m8g.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.7180800000"
         ],
         "US West (Oregon)": [
@@ -25082,7 +25082,7 @@
         ]
     },
     "OnDemand Linux-instancetype-x8g.4xlarge": {
-        "Regionless": [
+        "Default": [
             "1.5632000000"
         ],
         "US West (Oregon)": [
@@ -25096,7 +25096,7 @@
         ]
     },
     "OnDemand Linux-instancetype-g6e.xlarge": {
-        "Regionless": [
+        "Default": [
             "1.8610000000"
         ],
         "US West (Oregon)": [
@@ -25125,7 +25125,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c7gn.8xlarge": {
-        "Regionless": [
+        "Default": [
             "1.9968000000"
         ],
         "US West (Oregon)": [
@@ -25145,7 +25145,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m6g.large": {
-        "Regionless": [
+        "Default": [
             "0.0770000000"
         ],
         "US West (Oregon)": [
@@ -25258,7 +25258,7 @@
         ]
     },
     "OnDemand Linux-instancetype-f1.4xlarge": {
-        "Regionless": [
+        "Default": [
             "3.3000000000"
         ],
         "US West (Oregon)": [
@@ -25284,7 +25284,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m6g.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1540000000"
         ],
         "US West (Oregon)": [
@@ -25397,7 +25397,7 @@
         ]
     },
     "OnDemand Linux-instancetype-t3a.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1504000000"
         ],
         "US West (Oregon)": [
@@ -25459,7 +25459,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r7g.metal": {
-        "Regionless": [
+        "Default": [
             "3.4272000000"
         ],
         "US West (Oregon)": [
@@ -25536,7 +25536,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c6g.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1360000000"
         ],
         "US West (Oregon)": [
@@ -25643,7 +25643,7 @@
         ]
     },
     "OnDemand Linux-instancetype-g4dn.16xlarge": {
-        "Regionless": [
+        "Default": [
             "4.3520000000"
         ],
         "US West (Oregon)": [
@@ -25720,7 +25720,7 @@
         ]
     },
     "OnDemand Linux-instancetype-g6e.8xlarge": {
-        "Regionless": [
+        "Default": [
             "4.5285600000"
         ],
         "US West (Oregon)": [
@@ -25749,7 +25749,7 @@
         ]
     },
     "OnDemand Linux-instancetype-p3.8xlarge": {
-        "Regionless": [
+        "Default": [
             "12.2400000000"
         ],
         "US West (Oregon)": [
@@ -25790,7 +25790,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r5b.large": {
-        "Regionless": [
+        "Default": [
             "0.1490000000"
         ],
         "US West (Oregon)": [
@@ -25837,7 +25837,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m8g.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1795200000"
         ],
         "US West (Oregon)": [
@@ -25884,7 +25884,7 @@
         ]
     },
     "OnDemand Linux-instancetype-g5.4xlarge": {
-        "Regionless": [
+        "Default": [
             "1.6240000000"
         ],
         "US West (Oregon)": [
@@ -25940,7 +25940,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r7g.medium": {
-        "Regionless": [
+        "Default": [
             "0.0536000000"
         ],
         "US West (Oregon)": [
@@ -26017,7 +26017,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c7gd.12xlarge": {
-        "Regionless": [
+        "Default": [
             "2.1773000000"
         ],
         "US West (Oregon)": [
@@ -26073,7 +26073,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m6idn.4xlarge": {
-        "Regionless": [
+        "Default": [
             "1.2729600000"
         ],
         "US West (Oregon)": [
@@ -26123,7 +26123,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m3.large": {
-        "Regionless": [
+        "Default": [
             "0.1330000000"
         ],
         "US West (Oregon)": [
@@ -26161,7 +26161,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c6g.medium": {
-        "Regionless": [
+        "Default": [
             "0.0340000000"
         ],
         "US West (Oregon)": [
@@ -26268,7 +26268,7 @@
         ]
     },
     "OnDemand Linux-instancetype-i3.metal": {
-        "Regionless": [
+        "Default": [
             "4.9920000000"
         ],
         "US West (Oregon)": [
@@ -26342,7 +26342,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m6g.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.6160000000"
         ],
         "US West (Oregon)": [
@@ -26455,7 +26455,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r6g.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.8064000000"
         ],
         "US West (Oregon)": [
@@ -26562,7 +26562,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c5.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.6800000000"
         ],
         "US West (Oregon)": [
@@ -26690,7 +26690,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c5n.metal": {
-        "Regionless": [
+        "Default": [
             "3.8880000000"
         ],
         "US West (Oregon)": [
@@ -26767,7 +26767,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r5dn.12xlarge": {
-        "Regionless": [
+        "Default": [
             "4.0080000000"
         ],
         "US West (Oregon)": [
@@ -26817,7 +26817,7 @@
         ]
     },
     "OnDemand Linux-instancetype-p4de.24xlarge": {
-        "Regionless": [
+        "Default": [
             "40.9657500000"
         ],
         "US West (Oregon)": [
@@ -26837,7 +26837,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r7iz.4xlarge": {
-        "Regionless": [
+        "Default": [
             "1.4880000000"
         ],
         "US West (Oregon)": [
@@ -26860,7 +26860,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c6id.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.8064000000"
         ],
         "US West (Oregon)": [
@@ -26922,7 +26922,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c3.large": {
-        "Regionless": [
+        "Default": [
             "0.1050000000"
         ],
         "US West (Oregon)": [
@@ -26960,7 +26960,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r5n.metal": {
-        "Regionless": [
+        "Default": [
             "7.1520000000"
         ],
         "US West (Oregon)": [
@@ -27028,7 +27028,7 @@
         ]
     },
     "OnDemand Linux-instancetype-t3a.micro": {
-        "Regionless": [
+        "Default": [
             "0.0094000000"
         ],
         "US West (Oregon)": [
@@ -27090,7 +27090,7 @@
         ]
     },
     "OnDemand Linux-instancetype-x2iedn.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.8336300000"
         ],
         "US West (Oregon)": [
@@ -27170,7 +27170,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r5b.8xlarge": {
-        "Regionless": [
+        "Default": [
             "2.3840000000"
         ],
         "US West (Oregon)": [
@@ -27217,7 +27217,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c7i-flex.8xlarge": {
-        "Regionless": [
+        "Default": [
             "1.3566000000"
         ],
         "US West (Oregon)": [
@@ -27285,7 +27285,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c6gd.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1536000000"
         ],
         "US West (Oregon)": [
@@ -27356,7 +27356,7 @@
         ]
     },
     "OnDemand Linux-instancetype-h1.16xlarge": {
-        "Regionless": [
+        "Default": [
             "3.7440000000"
         ],
         "US West (Oregon)": [
@@ -27373,7 +27373,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r7i.12xlarge": {
-        "Regionless": [
+        "Default": [
             "3.1752000000"
         ],
         "US West (Oregon)": [
@@ -27459,7 +27459,7 @@
         ]
     },
     "OnDemand Linux-instancetype-i4g.16xlarge": {
-        "Regionless": [
+        "Default": [
             "4.9420800000"
         ],
         "US West (Oregon)": [
@@ -27488,7 +27488,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r5b.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2980000000"
         ],
         "US West (Oregon)": [
@@ -27535,7 +27535,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c7i.metal-48xl": {
-        "Regionless": [
+        "Default": [
             "8.5680000000"
         ],
         "US West (Oregon)": [
@@ -27609,7 +27609,7 @@
         ]
     },
     "OnDemand Linux-instancetype-z1d.6xlarge": {
-        "Regionless": [
+        "Default": [
             "2.2320000000"
         ],
         "US West (Oregon)": [
@@ -27650,7 +27650,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c6a.24xlarge": {
-        "Regionless": [
+        "Default": [
             "3.6720000000"
         ],
         "US West (Oregon)": [
@@ -27700,7 +27700,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r4.8xlarge": {
-        "Regionless": [
+        "Default": [
             "2.1280000000"
         ],
         "US West (Oregon)": [
@@ -27756,7 +27756,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r7gd.metal": {
-        "Regionless": [
+        "Default": [
             "4.3546000000"
         ],
         "US West (Oregon)": [
@@ -27830,7 +27830,7 @@
         ]
     },
     "OnDemand Linux-instancetype-i2.8xlarge": {
-        "Regionless": [
+        "Default": [
             "6.8200000000"
         ],
         "US West (Oregon)": [
@@ -27871,7 +27871,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c5.metal": {
-        "Regionless": [
+        "Default": [
             "4.0800000000"
         ],
         "US West (Oregon)": [
@@ -27972,7 +27972,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c5ad.16xlarge": {
-        "Regionless": [
+        "Default": [
             "2.7520000000"
         ],
         "US West (Oregon)": [
@@ -28010,7 +28010,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c5ad.24xlarge": {
-        "Regionless": [
+        "Default": [
             "4.1280000000"
         ],
         "US West (Oregon)": [
@@ -28048,7 +28048,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r6a.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.4536000000"
         ],
         "US West (Oregon)": [
@@ -28089,7 +28089,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c7g.medium": {
-        "Regionless": [
+        "Default": [
             "0.0363000000"
         ],
         "US West (Oregon)": [
@@ -28178,7 +28178,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r5dn.24xlarge": {
-        "Regionless": [
+        "Default": [
             "8.0160000000"
         ],
         "US West (Oregon)": [
@@ -28228,7 +28228,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c7i-flex.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1695800000"
         ],
         "US West (Oregon)": [
@@ -28296,7 +28296,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m7gd.metal": {
-        "Regionless": [
+        "Default": [
             "3.4171000000"
         ],
         "US West (Oregon)": [
@@ -28355,7 +28355,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r5.24xlarge": {
-        "Regionless": [
+        "Default": [
             "6.0480000000"
         ],
         "US West (Oregon)": [
@@ -28456,7 +28456,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m6id.16xlarge": {
-        "Regionless": [
+        "Default": [
             "3.7968000000"
         ],
         "US West (Oregon)": [
@@ -28527,7 +28527,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m6idn.metal": {
-        "Regionless": [
+        "Default": [
             "10.1836800000"
         ],
         "US West (Oregon)": [
@@ -28577,7 +28577,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m7i-flex.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.7660800000"
         ],
         "US West (Oregon)": [
@@ -28654,7 +28654,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r6id.24xlarge": {
-        "Regionless": [
+        "Default": [
             "7.2576000000"
         ],
         "US West (Oregon)": [
@@ -28713,7 +28713,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m4.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.4000000000"
         ],
         "US West (Oregon)": [
@@ -28766,7 +28766,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r7iz.metal-16xl": {
-        "Regionless": [
+        "Default": [
             "5.9520000000"
         ],
         "US West (Oregon)": [
@@ -28789,7 +28789,7 @@
         ]
     },
     "OnDemand Linux-instancetype-i3.large": {
-        "Regionless": [
+        "Default": [
             "0.1560000000"
         ],
         "US West (Oregon)": [
@@ -28884,7 +28884,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m7i-flex.8xlarge": {
-        "Regionless": [
+        "Default": [
             "1.5321600000"
         ],
         "US West (Oregon)": [
@@ -28961,7 +28961,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m8g.large": {
-        "Regionless": [
+        "Default": [
             "0.0897600000"
         ],
         "US West (Oregon)": [
@@ -29008,7 +29008,7 @@
         ]
     },
     "OnDemand Linux-instancetype-x2gd.medium": {
-        "Regionless": [
+        "Default": [
             "0.0835000000"
         ],
         "US West (Oregon)": [
@@ -29025,7 +29025,7 @@
         ]
     },
     "OnDemand Linux-instancetype-t1.micro": {
-        "Regionless": [
+        "Default": [
             "0.0200000000"
         ],
         "US West (Oregon)": [
@@ -29057,7 +29057,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c5a.large": {
-        "Regionless": [
+        "Default": [
             "0.0770000000"
         ],
         "US West (Oregon)": [
@@ -29128,7 +29128,7 @@
         ]
     },
     "OnDemand Linux-instancetype-t4g.large": {
-        "Regionless": [
+        "Default": [
             "0.0672000000"
         ],
         "US West (Oregon)": [
@@ -29235,7 +29235,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r6id.metal": {
-        "Regionless": [
+        "Default": [
             "9.6768000000"
         ],
         "US West (Oregon)": [
@@ -29294,7 +29294,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r7g.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2142000000"
         ],
         "US West (Oregon)": [
@@ -29371,7 +29371,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r7g.large": {
-        "Regionless": [
+        "Default": [
             "0.1071000000"
         ],
         "US West (Oregon)": [
@@ -29448,7 +29448,7 @@
         ]
     },
     "OnDemand Linux-instancetype-x1e.16xlarge": {
-        "Regionless": [
+        "Default": [
             "13.3440000000"
         ],
         "US West (Oregon)": [
@@ -29501,7 +29501,7 @@
         ]
     },
     "OnDemand Linux-instancetype-t3a.small": {
-        "Regionless": [
+        "Default": [
             "0.0188000000"
         ],
         "US West (Oregon)": [
@@ -29563,7 +29563,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c5ad.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.3440000000"
         ],
         "US West (Oregon)": [
@@ -29601,7 +29601,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r6id.16xlarge": {
-        "Regionless": [
+        "Default": [
             "4.8384000000"
         ],
         "US West (Oregon)": [
@@ -29660,7 +29660,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r6a.metal": {
-        "Regionless": [
+        "Default": [
             "10.8864000000"
         ],
         "US West (Oregon)": [
@@ -29701,7 +29701,7 @@
         ]
     },
     "OnDemand Linux-instancetype-g4ad.8xlarge": {
-        "Regionless": [
+        "Default": [
             "1.7340000000"
         ],
         "US West (Oregon)": [
@@ -29730,7 +29730,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c6in.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.4536000000"
         ],
         "US West (Oregon)": [
@@ -29837,7 +29837,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r8g.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.4712800000"
         ],
         "US West (Oregon)": [
@@ -29878,7 +29878,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r3.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.6650000000"
         ],
         "US West (Oregon)": [
@@ -29922,7 +29922,7 @@
         ]
     },
     "OnDemand Linux-instancetype-t3.nano": {
-        "Regionless": [
+        "Default": [
             "0.0052000000"
         ],
         "US West (Oregon)": [
@@ -30032,7 +30032,7 @@
         ]
     },
     "OnDemand Linux-instancetype-z1d.metal": {
-        "Regionless": [
+        "Default": [
             "4.4640000000"
         ],
         "US West (Oregon)": [
@@ -30073,7 +30073,7 @@
         ]
     },
     "OnDemand Linux-instancetype-d3.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.4990000000"
         ],
         "US West (Oregon)": [
@@ -30123,7 +30123,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r7i.16xlarge": {
-        "Regionless": [
+        "Default": [
             "4.2336000000"
         ],
         "US West (Oregon)": [
@@ -30209,7 +30209,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m6id.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.4746000000"
         ],
         "US West (Oregon)": [
@@ -30280,7 +30280,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c5d.metal": {
-        "Regionless": [
+        "Default": [
             "4.6080000000"
         ],
         "US West (Oregon)": [
@@ -30363,7 +30363,7 @@
         ]
     },
     "OnDemand Linux-instancetype-inf1.24xlarge": {
-        "Regionless": [
+        "Default": [
             "4.7210000000"
         ],
         "US West (Oregon)": [
@@ -30434,7 +30434,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r5d.metal": {
-        "Regionless": [
+        "Default": [
             "6.9120000000"
         ],
         "US West (Oregon)": [
@@ -30532,7 +30532,7 @@
         ]
     },
     "OnDemand Linux-instancetype-inf2.8xlarge": {
-        "Regionless": [
+        "Default": [
             "1.9678600000"
         ],
         "US West (Oregon)": [
@@ -30576,7 +30576,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r6g.8xlarge": {
-        "Regionless": [
+        "Default": [
             "1.6128000000"
         ],
         "US West (Oregon)": [
@@ -30683,7 +30683,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r7iz.metal-32xl": {
-        "Regionless": [
+        "Default": [
             "11.9040000000"
         ],
         "US West (Oregon)": [
@@ -30706,7 +30706,7 @@
         ]
     },
     "OnDemand Linux-instancetype-h1.8xlarge": {
-        "Regionless": [
+        "Default": [
             "1.8720000000"
         ],
         "US West (Oregon)": [
@@ -30723,7 +30723,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c7i.metal-24xl": {
-        "Regionless": [
+        "Default": [
             "4.2840000000"
         ],
         "US West (Oregon)": [
@@ -30797,7 +30797,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m5dn.16xlarge": {
-        "Regionless": [
+        "Default": [
             "4.3520000000"
         ],
         "US West (Oregon)": [
@@ -30829,7 +30829,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c7a.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.8211200000"
         ],
         "US West (Oregon)": [
@@ -30858,7 +30858,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r7a.medium": {
-        "Regionless": [
+        "Default": [
             "0.0760800000"
         ],
         "US West (Oregon)": [
@@ -30887,7 +30887,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m6idn.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.6364800000"
         ],
         "US West (Oregon)": [
@@ -30937,7 +30937,7 @@
         ]
     },
     "OnDemand Linux-instancetype-t3a.large": {
-        "Regionless": [
+        "Default": [
             "0.0752000000"
         ],
         "US West (Oregon)": [
@@ -30999,7 +30999,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m3.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.5320000000"
         ],
         "US West (Oregon)": [
@@ -31037,7 +31037,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r7i.8xlarge": {
-        "Regionless": [
+        "Default": [
             "2.1168000000"
         ],
         "US West (Oregon)": [
@@ -31123,7 +31123,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r5d.12xlarge": {
-        "Regionless": [
+        "Default": [
             "3.4560000000"
         ],
         "US West (Oregon)": [
@@ -31227,7 +31227,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r5n.8xlarge": {
-        "Regionless": [
+        "Default": [
             "2.3840000000"
         ],
         "US West (Oregon)": [
@@ -31295,7 +31295,7 @@
         ]
     },
     "OnDemand Linux-instancetype-g3.8xlarge": {
-        "Regionless": [
+        "Default": [
             "2.2800000000"
         ],
         "US West (Oregon)": [
@@ -31339,7 +31339,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r5ad.16xlarge": {
-        "Regionless": [
+        "Default": [
             "4.1920000000"
         ],
         "US West (Oregon)": [
@@ -31392,7 +31392,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m5ad.12xlarge": {
-        "Regionless": [
+        "Default": [
             "2.4720000000"
         ],
         "US West (Oregon)": [
@@ -31445,7 +31445,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c6gd.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.3072000000"
         ],
         "US West (Oregon)": [
@@ -31516,7 +31516,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c8g.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.6380800000"
         ],
         "US West (Oregon)": [
@@ -31560,7 +31560,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m5a.8xlarge": {
-        "Regionless": [
+        "Default": [
             "1.3760000000"
         ],
         "US West (Oregon)": [
@@ -31619,7 +31619,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r6in.32xlarge": {
-        "Regionless": [
+        "Default": [
             "11.1571200000"
         ],
         "US West (Oregon)": [
@@ -31654,7 +31654,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m5dn.24xlarge": {
-        "Regionless": [
+        "Default": [
             "6.5280000000"
         ],
         "US West (Oregon)": [
@@ -31686,7 +31686,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m5.12xlarge": {
-        "Regionless": [
+        "Default": [
             "2.3040000000"
         ],
         "US West (Oregon)": [
@@ -31799,7 +31799,7 @@
         ]
     },
     "OnDemand Linux-instancetype-x2gd.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.3340000000"
         ],
         "US West (Oregon)": [
@@ -31816,7 +31816,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c5d.large": {
-        "Regionless": [
+        "Default": [
             "0.0960000000"
         ],
         "US West (Oregon)": [
@@ -31911,7 +31911,7 @@
         ]
     },
     "OnDemand Linux-instancetype-g5g.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.5560000000"
         ],
         "US West (Oregon)": [
@@ -31937,7 +31937,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m5zn.12xlarge": {
-        "Regionless": [
+        "Default": [
             "3.9641000000"
         ],
         "US West (Oregon)": [
@@ -31975,7 +31975,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c5ad.12xlarge": {
-        "Regionless": [
+        "Default": [
             "2.0640000000"
         ],
         "US West (Oregon)": [
@@ -32013,7 +32013,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m6g.metal": {
-        "Regionless": [
+        "Default": [
             "2.4640000000"
         ],
         "US West (Oregon)": [
@@ -32126,7 +32126,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r5b.16xlarge": {
-        "Regionless": [
+        "Default": [
             "4.7680000000"
         ],
         "US West (Oregon)": [
@@ -32173,7 +32173,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m8g.48xlarge": {
-        "Regionless": [
+        "Default": [
             "8.6169600000"
         ],
         "US West (Oregon)": [
@@ -32220,7 +32220,7 @@
         ]
     },
     "OnDemand Linux-instancetype-x2iedn.8xlarge": {
-        "Regionless": [
+        "Default": [
             "6.6690000000"
         ],
         "US West (Oregon)": [
@@ -32300,7 +32300,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m5d.8xlarge": {
-        "Regionless": [
+        "Default": [
             "1.8080000000"
         ],
         "US West (Oregon)": [
@@ -32398,7 +32398,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c5.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1700000000"
         ],
         "US West (Oregon)": [
@@ -32508,7 +32508,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m5dn.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2720000000"
         ],
         "US West (Oregon)": [
@@ -32540,7 +32540,7 @@
         ]
     },
     "OnDemand Linux-instancetype-p2.16xlarge": {
-        "Regionless": [
+        "Default": [
             "14.4000000000"
         ],
         "US West (Oregon)": [
@@ -32578,7 +32578,7 @@
         ]
     },
     "OnDemand Linux-instancetype-u7i-12tb.224xlarge": {
-        "Regionless": [
+        "Default": [
             "135.2277500000"
         ],
         "US West (Oregon)": [
@@ -32589,7 +32589,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c1.medium": {
-        "Regionless": [
+        "Default": [
             "0.1300000000"
         ],
         "US West (Oregon)": [
@@ -32621,7 +32621,7 @@
         ]
     },
     "OnDemand Linux-instancetype-x2iedn.16xlarge": {
-        "Regionless": [
+        "Default": [
             "13.3380000000"
         ],
         "US West (Oregon)": [
@@ -32701,7 +32701,7 @@
         ]
     },
     "OnDemand Linux-instancetype-is4gen.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.5763000000"
         ],
         "US West (Oregon)": [
@@ -32742,7 +32742,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c5a.8xlarge": {
-        "Regionless": [
+        "Default": [
             "1.2320000000"
         ],
         "US West (Oregon)": [
@@ -32813,7 +32813,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m6in.16xlarge": {
-        "Regionless": [
+        "Default": [
             "4.4553600000"
         ],
         "US West (Oregon)": [
@@ -32866,7 +32866,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m7gd.medium": {
-        "Regionless": [
+        "Default": [
             "0.0534000000"
         ],
         "US West (Oregon)": [
@@ -32925,7 +32925,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r8g.24xlarge": {
-        "Regionless": [
+        "Default": [
             "5.6553600000"
         ],
         "US West (Oregon)": [
@@ -32966,7 +32966,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r6g.16xlarge": {
-        "Regionless": [
+        "Default": [
             "3.2256000000"
         ],
         "US West (Oregon)": [
@@ -33073,7 +33073,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c7a.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2052800000"
         ],
         "US West (Oregon)": [
@@ -33102,7 +33102,7 @@
         ]
     },
     "OnDemand Linux-instancetype-im4gn.large": {
-        "Regionless": [
+        "Default": [
             "0.1819000000"
         ],
         "US West (Oregon)": [
@@ -33143,7 +33143,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m7g.12xlarge": {
-        "Regionless": [
+        "Default": [
             "1.9584000000"
         ],
         "US West (Oregon)": [
@@ -33235,7 +33235,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m6in.12xlarge": {
-        "Regionless": [
+        "Default": [
             "3.3415200000"
         ],
         "US West (Oregon)": [
@@ -33288,7 +33288,7 @@
         ]
     },
     "OnDemand Linux-instancetype-d2.2xlarge": {
-        "Regionless": [
+        "Default": [
             "1.3800000000"
         ],
         "US West (Oregon)": [
@@ -33359,7 +33359,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r7a.48xlarge": {
-        "Regionless": [
+        "Default": [
             "14.6064000000"
         ],
         "US West (Oregon)": [
@@ -33388,7 +33388,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m6idn.32xlarge": {
-        "Regionless": [
+        "Default": [
             "10.1836800000"
         ],
         "US West (Oregon)": [
@@ -33438,7 +33438,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m7gd.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.8543000000"
         ],
         "US West (Oregon)": [
@@ -33497,7 +33497,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m6idn.8xlarge": {
-        "Regionless": [
+        "Default": [
             "2.5459200000"
         ],
         "US West (Oregon)": [
@@ -33547,7 +33547,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c5a.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.6160000000"
         ],
         "US West (Oregon)": [
@@ -33618,7 +33618,7 @@
         ]
     },
     "OnDemand Linux-instancetype-x2gd.16xlarge": {
-        "Regionless": [
+        "Default": [
             "5.3440000000"
         ],
         "US West (Oregon)": [
@@ -33635,7 +33635,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c6g.8xlarge": {
-        "Regionless": [
+        "Default": [
             "1.0880000000"
         ],
         "US West (Oregon)": [
@@ -33742,7 +33742,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r4.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.5320000000"
         ],
         "US West (Oregon)": [
@@ -33798,7 +33798,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m6gd.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1808000000"
         ],
         "US West (Oregon)": [
@@ -33905,7 +33905,7 @@
         ]
     },
     "OnDemand Linux-instancetype-inf2.48xlarge": {
-        "Regionless": [
+        "Default": [
             "12.9812700000"
         ],
         "US West (Oregon)": [
@@ -33949,7 +33949,7 @@
         ]
     },
     "OnDemand Linux-instancetype-trn1n.32xlarge": {
-        "Regionless": [
+        "Default": [
             "24.7800000000"
         ],
         "US West (Oregon)": [
@@ -33963,7 +33963,7 @@
         ]
     },
     "OnDemand Linux-instancetype-i4i.32xlarge": {
-        "Regionless": [
+        "Default": [
             "10.9824000000"
         ],
         "US West (Oregon)": [
@@ -34067,7 +34067,7 @@
         ]
     },
     "OnDemand Linux-instancetype-g4dn.12xlarge": {
-        "Regionless": [
+        "Default": [
             "3.9120000000"
         ],
         "US West (Oregon)": [
@@ -34144,7 +34144,7 @@
         ]
     },
     "OnDemand Linux-instancetype-i4g.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.6177600000"
         ],
         "US West (Oregon)": [
@@ -34173,7 +34173,7 @@
         ]
     },
     "OnDemand Linux-instancetype-i4g.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.3088800000"
         ],
         "US West (Oregon)": [
@@ -34202,7 +34202,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c8g.8xlarge": {
-        "Regionless": [
+        "Default": [
             "1.2761600000"
         ],
         "US West (Oregon)": [
@@ -34246,7 +34246,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m6in.32xlarge": {
-        "Regionless": [
+        "Default": [
             "8.9107200000"
         ],
         "US West (Oregon)": [
@@ -34299,7 +34299,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m6g.medium": {
-        "Regionless": [
+        "Default": [
             "0.0385000000"
         ],
         "US West (Oregon)": [
@@ -34412,7 +34412,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m5.large": {
-        "Regionless": [
+        "Default": [
             "0.0960000000"
         ],
         "US West (Oregon)": [
@@ -34516,7 +34516,7 @@
         ]
     },
     "OnDemand Linux-instancetype-a1.medium": {
-        "Regionless": [
+        "Default": [
             "0.0255000000"
         ],
         "US West (Oregon)": [
@@ -34548,7 +34548,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m6a.32xlarge": {
-        "Regionless": [
+        "Default": [
             "5.5296000000"
         ],
         "US West (Oregon)": [
@@ -34601,7 +34601,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c8g.metal-48xl": {
-        "Regionless": [
+        "Default": [
             "7.6569600000"
         ],
         "US West (Oregon)": [
@@ -34645,7 +34645,7 @@
         ]
     },
     "OnDemand Linux-instancetype-t3.micro": {
-        "Regionless": [
+        "Default": [
             "0.0104000000"
         ],
         "US West (Oregon)": [
@@ -34755,7 +34755,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m5a.16xlarge": {
-        "Regionless": [
+        "Default": [
             "2.7520000000"
         ],
         "US West (Oregon)": [
@@ -34814,7 +34814,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r7a.12xlarge": {
-        "Regionless": [
+        "Default": [
             "3.6516000000"
         ],
         "US West (Oregon)": [
@@ -34843,7 +34843,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c6id.24xlarge": {
-        "Regionless": [
+        "Default": [
             "4.8384000000"
         ],
         "US West (Oregon)": [
@@ -34905,7 +34905,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m6g.8xlarge": {
-        "Regionless": [
+        "Default": [
             "1.2320000000"
         ],
         "US West (Oregon)": [
@@ -35018,7 +35018,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c6id.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.4032000000"
         ],
         "US West (Oregon)": [
@@ -35080,7 +35080,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r7gd.12xlarge": {
-        "Regionless": [
+        "Default": [
             "3.2659000000"
         ],
         "US West (Oregon)": [
@@ -35154,7 +35154,7 @@
         ]
     },
     "OnDemand Linux-instancetype-g5.12xlarge": {
-        "Regionless": [
+        "Default": [
             "5.6720000000"
         ],
         "US West (Oregon)": [
@@ -35207,7 +35207,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c8g.48xlarge": {
-        "Regionless": [
+        "Default": [
             "7.6569600000"
         ],
         "US West (Oregon)": [
@@ -35251,7 +35251,7 @@
         ]
     },
     "OnDemand Linux-instancetype-a1.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1020000000"
         ],
         "US West (Oregon)": [
@@ -35283,7 +35283,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m7i.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.8064000000"
         ],
         "US West (Oregon)": [
@@ -35360,7 +35360,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c6a.48xlarge": {
-        "Regionless": [
+        "Default": [
             "7.3440000000"
         ],
         "US West (Oregon)": [
@@ -35410,7 +35410,7 @@
         ]
     },
     "OnDemand Linux-instancetype-t2.medium": {
-        "Regionless": [
+        "Default": [
             "0.0464000000"
         ],
         "US West (Oregon)": [
@@ -35466,7 +35466,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c3.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.8400000000"
         ],
         "US West (Oregon)": [
@@ -35504,7 +35504,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m7a.48xlarge": {
-        "Regionless": [
+        "Default": [
             "11.1283200000"
         ],
         "US West (Oregon)": [
@@ -35536,7 +35536,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c6a.metal": {
-        "Regionless": [
+        "Default": [
             "7.3440000000"
         ],
         "US West (Oregon)": [
@@ -35586,7 +35586,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c7gn.medium": {
-        "Regionless": [
+        "Default": [
             "0.0624000000"
         ],
         "US West (Oregon)": [
@@ -35606,7 +35606,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c7a.medium": {
-        "Regionless": [
+        "Default": [
             "0.0513200000"
         ],
         "US West (Oregon)": [
@@ -35635,7 +35635,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r6id.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.3024000000"
         ],
         "US West (Oregon)": [
@@ -35694,7 +35694,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m8g.8xlarge": {
-        "Regionless": [
+        "Default": [
             "1.4361600000"
         ],
         "US West (Oregon)": [
@@ -35741,7 +35741,7 @@
         ]
     },
     "OnDemand Linux-instancetype-i4i.24xlarge": {
-        "Regionless": [
+        "Default": [
             "8.2368000000"
         ],
         "US West (Oregon)": [
@@ -35842,7 +35842,7 @@
         ]
     },
     "OnDemand Linux-instancetype-d3.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.9990000000"
         ],
         "US West (Oregon)": [
@@ -35892,7 +35892,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m4.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2000000000"
         ],
         "US West (Oregon)": [
@@ -35945,7 +35945,7 @@
         ]
     },
     "OnDemand Linux-instancetype-inf2.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.7582000000"
         ],
         "US West (Oregon)": [
@@ -35989,7 +35989,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m6g.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.3080000000"
         ],
         "US West (Oregon)": [
@@ -36102,7 +36102,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r7i.24xlarge": {
-        "Regionless": [
+        "Default": [
             "6.3504000000"
         ],
         "US West (Oregon)": [
@@ -36188,7 +36188,7 @@
         ]
     },
     "OnDemand Linux-instancetype-p3.2xlarge": {
-        "Regionless": [
+        "Default": [
             "3.0600000000"
         ],
         "US West (Oregon)": [
@@ -36229,7 +36229,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r6gd.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2304000000"
         ],
         "US West (Oregon)": [
@@ -36300,7 +36300,7 @@
         ]
     },
     "OnDemand Linux-instancetype-p2.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.9000000000"
         ],
         "US West (Oregon)": [
@@ -36338,7 +36338,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m5dn.large": {
-        "Regionless": [
+        "Default": [
             "0.1360000000"
         ],
         "US West (Oregon)": [
@@ -36370,7 +36370,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m7i.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2016000000"
         ],
         "US West (Oregon)": [
@@ -36447,7 +36447,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m7gd.8xlarge": {
-        "Regionless": [
+        "Default": [
             "1.7086000000"
         ],
         "US West (Oregon)": [
@@ -36506,7 +36506,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r7a.24xlarge": {
-        "Regionless": [
+        "Default": [
             "7.3032000000"
         ],
         "US West (Oregon)": [
@@ -36535,7 +36535,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r6in.12xlarge": {
-        "Regionless": [
+        "Default": [
             "4.1839200000"
         ],
         "US West (Oregon)": [
@@ -36570,7 +36570,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r5n.large": {
-        "Regionless": [
+        "Default": [
             "0.1490000000"
         ],
         "US West (Oregon)": [
@@ -36638,7 +36638,7 @@
         ]
     },
     "OnDemand Linux-instancetype-g6.24xlarge": {
-        "Regionless": [
+        "Default": [
             "6.6752000000"
         ],
         "US West (Oregon)": [
@@ -36694,7 +36694,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m7i.large": {
-        "Regionless": [
+        "Default": [
             "0.1008000000"
         ],
         "US West (Oregon)": [
@@ -36771,7 +36771,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m7a.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2318400000"
         ],
         "US West (Oregon)": [
@@ -36803,7 +36803,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r7i.4xlarge": {
-        "Regionless": [
+        "Default": [
             "1.0584000000"
         ],
         "US West (Oregon)": [
@@ -36889,7 +36889,7 @@
         ]
     },
     "OnDemand Linux-instancetype-g5g.8xlarge": {
-        "Regionless": [
+        "Default": [
             "1.3720000000"
         ],
         "US West (Oregon)": [
@@ -36915,7 +36915,7 @@
         ]
     },
     "OnDemand Linux-instancetype-x8g.16xlarge": {
-        "Regionless": [
+        "Default": [
             "6.2528000000"
         ],
         "US West (Oregon)": [
@@ -36929,7 +36929,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c6a.12xlarge": {
-        "Regionless": [
+        "Default": [
             "1.8360000000"
         ],
         "US West (Oregon)": [
@@ -36979,7 +36979,7 @@
         ]
     },
     "OnDemand Linux-instancetype-i4i.4xlarge": {
-        "Regionless": [
+        "Default": [
             "1.3730000000"
         ],
         "US West (Oregon)": [
@@ -37083,7 +37083,7 @@
         ]
     },
     "OnDemand Linux-instancetype-g2.8xlarge": {
-        "Regionless": [
+        "Default": [
             "2.6000000000"
         ],
         "US West (Oregon)": [
@@ -37115,7 +37115,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c5d.18xlarge": {
-        "Regionless": [
+        "Default": [
             "3.4560000000"
         ],
         "US West (Oregon)": [
@@ -37210,7 +37210,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r6gd.large": {
-        "Regionless": [
+        "Default": [
             "0.1152000000"
         ],
         "US West (Oregon)": [
@@ -37281,7 +37281,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r5.12xlarge": {
-        "Regionless": [
+        "Default": [
             "3.0240000000"
         ],
         "US West (Oregon)": [
@@ -37388,7 +37388,7 @@
         ]
     },
     "OnDemand Linux-instancetype-dl2q.24xlarge": {
-        "Regionless": [
+        "Default": [
             "8.9194000000"
         ],
         "US West (Oregon)": [
@@ -37399,7 +37399,7 @@
         ]
     },
     "OnDemand Linux-instancetype-x2idn.16xlarge": {
-        "Regionless": [
+        "Default": [
             "6.6690000000"
         ],
         "US West (Oregon)": [
@@ -37491,7 +37491,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c6g.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.5440000000"
         ],
         "US West (Oregon)": [
@@ -37598,7 +37598,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c3.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2100000000"
         ],
         "US West (Oregon)": [
@@ -37636,7 +37636,7 @@
         ]
     },
     "OnDemand Linux-instancetype-t4g.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2688000000"
         ],
         "US West (Oregon)": [
@@ -37743,7 +37743,7 @@
         ]
     },
     "OnDemand Linux-instancetype-u7in-32tb.224xlarge": {
-        "Regionless": [
+        "Default": [
             "360.9869500000"
         ],
         "US West (Oregon)": [
@@ -37754,7 +37754,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m5d.large": {
-        "Regionless": [
+        "Default": [
             "0.1130000000"
         ],
         "US West (Oregon)": [
@@ -37852,7 +37852,7 @@
         ]
     },
     "OnDemand Linux-instancetype-x8g.48xlarge": {
-        "Regionless": [
+        "Default": [
             "18.7584000000"
         ],
         "US West (Oregon)": [
@@ -37866,7 +37866,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m6gd.medium": {
-        "Regionless": [
+        "Default": [
             "0.0452000000"
         ],
         "US West (Oregon)": [
@@ -37973,7 +37973,7 @@
         ]
     },
     "OnDemand Linux-instancetype-u-24tb1.112xlarge": {
-        "Regionless": [
+        "Default": [
             "218.4000000000"
         ],
         "US West (Oregon)": [
@@ -37996,7 +37996,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m6idn.24xlarge": {
-        "Regionless": [
+        "Default": [
             "7.6377600000"
         ],
         "US West (Oregon)": [
@@ -38046,7 +38046,7 @@
         ]
     },
     "OnDemand Linux-instancetype-x2gd.12xlarge": {
-        "Regionless": [
+        "Default": [
             "4.0080000000"
         ],
         "US West (Oregon)": [
@@ -38063,7 +38063,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m5zn.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.6607000000"
         ],
         "US West (Oregon)": [
@@ -38101,7 +38101,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r7iz.12xlarge": {
-        "Regionless": [
+        "Default": [
             "4.4640000000"
         ],
         "US West (Oregon)": [
@@ -38124,7 +38124,7 @@
         ]
     },
     "OnDemand Linux-instancetype-t4g.medium": {
-        "Regionless": [
+        "Default": [
             "0.0336000000"
         ],
         "US West (Oregon)": [
@@ -38231,7 +38231,7 @@
         ]
     },
     "OnDemand Linux-instancetype-x1e.8xlarge": {
-        "Regionless": [
+        "Default": [
             "6.6720000000"
         ],
         "US West (Oregon)": [
@@ -38284,7 +38284,7 @@
         ]
     },
     "OnDemand Linux-instancetype-p5.48xlarge": {
-        "Regionless": [
+        "Default": [
             "98.3200000000"
         ],
         "US West (Oregon)": [
@@ -38328,7 +38328,7 @@
         ]
     },
     "OnDemand Linux-instancetype-p4d.24xlarge": {
-        "Regionless": [
+        "Default": [
             "32.7726000000"
         ],
         "US West (Oregon)": [
@@ -38372,7 +38372,7 @@
         ]
     },
     "OnDemand Linux-instancetype-g6e.16xlarge": {
-        "Regionless": [
+        "Default": [
             "7.5771900000"
         ],
         "US West (Oregon)": [
@@ -38401,7 +38401,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r5d.large": {
-        "Regionless": [
+        "Default": [
             "0.1440000000"
         ],
         "US West (Oregon)": [
@@ -38499,7 +38499,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m1.medium": {
-        "Regionless": [
+        "Default": [
             "0.0870000000"
         ],
         "US West (Oregon)": [
@@ -38531,7 +38531,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c7i.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.7140000000"
         ],
         "US West (Oregon)": [
@@ -38605,7 +38605,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m7gd.16xlarge": {
-        "Regionless": [
+        "Default": [
             "3.4171000000"
         ],
         "US West (Oregon)": [
@@ -38664,7 +38664,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r7iz.large": {
-        "Regionless": [
+        "Default": [
             "0.1860000000"
         ],
         "US West (Oregon)": [
@@ -38687,7 +38687,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r5dn.16xlarge": {
-        "Regionless": [
+        "Default": [
             "5.3440000000"
         ],
         "US West (Oregon)": [
@@ -38737,7 +38737,7 @@
         ]
     },
     "OnDemand Linux-instancetype-x8g.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.7816000000"
         ],
         "US West (Oregon)": [
@@ -38751,7 +38751,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m7g.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.6528000000"
         ],
         "US West (Oregon)": [
@@ -38843,7 +38843,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m5ad.8xlarge": {
-        "Regionless": [
+        "Default": [
             "1.6480000000"
         ],
         "US West (Oregon)": [
@@ -38896,7 +38896,7 @@
         ]
     },
     "OnDemand Linux-instancetype-g6.48xlarge": {
-        "Regionless": [
+        "Default": [
             "13.3504000000"
         ],
         "US West (Oregon)": [
@@ -38952,7 +38952,7 @@
         ]
     },
     "OnDemand Linux-instancetype-x2gd.4xlarge": {
-        "Regionless": [
+        "Default": [
             "1.3360000000"
         ],
         "US West (Oregon)": [
@@ -38969,7 +38969,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c7a.metal-48xl": {
-        "Regionless": [
+        "Default": [
             "9.8534400000"
         ],
         "US West (Oregon)": [
@@ -38998,7 +38998,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r6idn.4xlarge": {
-        "Regionless": [
+        "Default": [
             "1.5631200000"
         ],
         "US West (Oregon)": [
@@ -39033,7 +39033,7 @@
         ]
     },
     "OnDemand Linux-instancetype-t3.large": {
-        "Regionless": [
+        "Default": [
             "0.0832000000"
         ],
         "US West (Oregon)": [
@@ -39143,7 +39143,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c6id.metal": {
-        "Regionless": [
+        "Default": [
             "6.4512000000"
         ],
         "US West (Oregon)": [
@@ -39205,7 +39205,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r7g.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.8568000000"
         ],
         "US West (Oregon)": [
@@ -39282,7 +39282,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m7i.48xlarge": {
-        "Regionless": [
+        "Default": [
             "9.6768000000"
         ],
         "US West (Oregon)": [
@@ -39359,7 +39359,7 @@
         ]
     },
     "OnDemand Linux-instancetype-x1e.4xlarge": {
-        "Regionless": [
+        "Default": [
             "3.3360000000"
         ],
         "US West (Oregon)": [
@@ -39412,7 +39412,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m7a.metal-48xl": {
-        "Regionless": [
+        "Default": [
             "11.1283200000"
         ],
         "US West (Oregon)": [
@@ -39444,7 +39444,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m7i.metal-24xl": {
-        "Regionless": [
+        "Default": [
             "4.8384000000"
         ],
         "US West (Oregon)": [
@@ -39521,7 +39521,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c6id.32xlarge": {
-        "Regionless": [
+        "Default": [
             "6.4512000000"
         ],
         "US West (Oregon)": [
@@ -39583,7 +39583,7 @@
         ]
     },
     "OnDemand Linux-instancetype-x1.32xlarge": {
-        "Regionless": [
+        "Default": [
             "13.3380000000"
         ],
         "US West (Oregon)": [
@@ -39645,7 +39645,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c6id.12xlarge": {
-        "Regionless": [
+        "Default": [
             "2.4192000000"
         ],
         "US West (Oregon)": [
@@ -39707,7 +39707,7 @@
         ]
     },
     "OnDemand Linux-instancetype-a1.large": {
-        "Regionless": [
+        "Default": [
             "0.0510000000"
         ],
         "US West (Oregon)": [
@@ -39739,7 +39739,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r6in.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.6973200000"
         ],
         "US West (Oregon)": [
@@ -39774,7 +39774,7 @@
         ]
     },
     "OnDemand Linux-instancetype-i4g.4xlarge": {
-        "Regionless": [
+        "Default": [
             "1.2355200000"
         ],
         "US West (Oregon)": [
@@ -39803,7 +39803,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c7gd.large": {
-        "Regionless": [
+        "Default": [
             "0.0907000000"
         ],
         "US West (Oregon)": [
@@ -39859,7 +39859,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c7i-flex.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.6783000000"
         ],
         "US West (Oregon)": [
@@ -39927,7 +39927,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r7i.metal-24xl": {
-        "Regionless": [
+        "Default": [
             "6.3504000000"
         ],
         "US West (Oregon)": [
@@ -40013,7 +40013,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r8g.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.9425600000"
         ],
         "US West (Oregon)": [
@@ -40054,7 +40054,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c5d.24xlarge": {
-        "Regionless": [
+        "Default": [
             "4.6080000000"
         ],
         "US West (Oregon)": [
@@ -40137,7 +40137,7 @@
         ]
     },
     "OnDemand Linux-instancetype-z1d.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.7440000000"
         ],
         "US West (Oregon)": [
@@ -40178,7 +40178,7 @@
         ]
     },
     "OnDemand Linux-instancetype-is4gen.large": {
-        "Regionless": [
+        "Default": [
             "0.2881500000"
         ],
         "US West (Oregon)": [
@@ -40219,7 +40219,7 @@
         ]
     },
     "OnDemand Linux-instancetype-inf1.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.3620000000"
         ],
         "US West (Oregon)": [
@@ -40287,7 +40287,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r7g.12xlarge": {
-        "Regionless": [
+        "Default": [
             "2.5704000000"
         ],
         "US West (Oregon)": [
@@ -40364,7 +40364,7 @@
         ]
     },
     "OnDemand Linux-instancetype-g6.8xlarge": {
-        "Regionless": [
+        "Default": [
             "2.0144000000"
         ],
         "US West (Oregon)": [
@@ -40420,7 +40420,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c7i.12xlarge": {
-        "Regionless": [
+        "Default": [
             "2.1420000000"
         ],
         "US West (Oregon)": [
@@ -40494,7 +40494,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r6g.medium": {
-        "Regionless": [
+        "Default": [
             "0.0504000000"
         ],
         "US West (Oregon)": [
@@ -40601,7 +40601,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c6gd.medium": {
-        "Regionless": [
+        "Default": [
             "0.0384000000"
         ],
         "US West (Oregon)": [
@@ -40672,7 +40672,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m7gd.12xlarge": {
-        "Regionless": [
+        "Default": [
             "2.5628000000"
         ],
         "US West (Oregon)": [
@@ -40731,7 +40731,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c7gd.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.3629000000"
         ],
         "US West (Oregon)": [
@@ -40787,7 +40787,7 @@
         ]
     },
     "OnDemand Linux-instancetype-i3.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.6240000000"
         ],
         "US West (Oregon)": [
@@ -40882,7 +40882,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m5ad.16xlarge": {
-        "Regionless": [
+        "Default": [
             "3.2960000000"
         ],
         "US West (Oregon)": [
@@ -40935,7 +40935,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r5ad.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.5240000000"
         ],
         "US West (Oregon)": [
@@ -40988,7 +40988,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c6a.32xlarge": {
-        "Regionless": [
+        "Default": [
             "4.8960000000"
         ],
         "US West (Oregon)": [
@@ -41038,7 +41038,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m6a.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.3456000000"
         ],
         "US West (Oregon)": [
@@ -41091,7 +41091,7 @@
         ]
     },
     "OnDemand Linux-instancetype-z1d.12xlarge": {
-        "Regionless": [
+        "Default": [
             "4.4640000000"
         ],
         "US West (Oregon)": [
@@ -41132,7 +41132,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c4.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.7960000000"
         ],
         "US West (Oregon)": [
@@ -41185,7 +41185,7 @@
         ]
     },
     "OnDemand Linux-instancetype-i4i.metal": {
-        "Regionless": [
+        "Default": [
             "10.9820000000"
         ],
         "US West (Oregon)": [
@@ -41289,7 +41289,7 @@
         ]
     },
     "OnDemand Linux-instancetype-i3en.large": {
-        "Regionless": [
+        "Default": [
             "0.2260000000"
         ],
         "US West (Oregon)": [
@@ -41399,7 +41399,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c7a.16xlarge": {
-        "Regionless": [
+        "Default": [
             "3.2844800000"
         ],
         "US West (Oregon)": [
@@ -41428,7 +41428,7 @@
         ]
     },
     "OnDemand Linux-instancetype-x8g.12xlarge": {
-        "Regionless": [
+        "Default": [
             "4.6896000000"
         ],
         "US West (Oregon)": [
@@ -41442,7 +41442,7 @@
         ]
     },
     "OnDemand Linux-instancetype-x1e.32xlarge": {
-        "Regionless": [
+        "Default": [
             "26.6880000000"
         ],
         "US West (Oregon)": [
@@ -41495,7 +41495,7 @@
         ]
     },
     "OnDemand Linux-instancetype-i3.16xlarge": {
-        "Regionless": [
+        "Default": [
             "4.9920000000"
         ],
         "US West (Oregon)": [
@@ -41590,7 +41590,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c5ad.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.6880000000"
         ],
         "US West (Oregon)": [
@@ -41628,7 +41628,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c6gd.large": {
-        "Regionless": [
+        "Default": [
             "0.0768000000"
         ],
         "US West (Oregon)": [
@@ -41699,7 +41699,7 @@
         ]
     },
     "OnDemand Linux-instancetype-x2iezn.4xlarge": {
-        "Regionless": [
+        "Default": [
             "3.3360000000"
         ],
         "US West (Oregon)": [
@@ -41719,7 +41719,7 @@
         ]
     },
     "OnDemand Linux-instancetype-f1.16xlarge": {
-        "Regionless": [
+        "Default": [
             "13.2000000000"
         ],
         "US West (Oregon)": [
@@ -41739,7 +41739,7 @@
         ]
     },
     "OnDemand Linux-instancetype-g6.4xlarge": {
-        "Regionless": [
+        "Default": [
             "1.3232000000"
         ],
         "US West (Oregon)": [
@@ -41795,7 +41795,7 @@
         ]
     },
     "OnDemand Linux-instancetype-i4i.large": {
-        "Regionless": [
+        "Default": [
             "0.1720000000"
         ],
         "US West (Oregon)": [
@@ -41899,7 +41899,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c5.12xlarge": {
-        "Regionless": [
+        "Default": [
             "2.0400000000"
         ],
         "US West (Oregon)": [
@@ -42051,7 +42051,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c7i.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.3570000000"
         ],
         "US West (Oregon)": [
@@ -42125,7 +42125,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m8g.12xlarge": {
-        "Regionless": [
+        "Default": [
             "2.1542400000"
         ],
         "US West (Oregon)": [
@@ -42172,7 +42172,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r5n.4xlarge": {
-        "Regionless": [
+        "Default": [
             "1.1920000000"
         ],
         "US West (Oregon)": [
@@ -42240,7 +42240,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m1.small": {
-        "Regionless": [
+        "Default": [
             "0.0440000000"
         ],
         "US West (Oregon)": [
@@ -42272,7 +42272,7 @@
         ]
     },
     "OnDemand Linux-instancetype-g4ad.16xlarge": {
-        "Regionless": [
+        "Default": [
             "3.4680000000"
         ],
         "US West (Oregon)": [
@@ -42301,7 +42301,7 @@
         ]
     },
     "OnDemand Linux-instancetype-t2.nano": {
-        "Regionless": [
+        "Default": [
             "0.0058000000"
         ],
         "US West (Oregon)": [
@@ -42357,7 +42357,7 @@
         ]
     },
     "OnDemand Linux-instancetype-t4g.small": {
-        "Regionless": [
+        "Default": [
             "0.0168000000"
         ],
         "US West (Oregon)": [
@@ -42464,7 +42464,7 @@
         ]
     },
     "OnDemand Linux-instancetype-d3.8xlarge": {
-        "Regionless": [
+        "Default": [
             "3.9955200000"
         ],
         "US West (Oregon)": [
@@ -42514,7 +42514,7 @@
         ]
     },
     "OnDemand Linux-instancetype-u-6tb1.112xlarge": {
-        "Regionless": [
+        "Default": [
             "54.6000000000"
         ],
         "US West (Oregon)": [
@@ -42588,7 +42588,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c7gd.metal": {
-        "Regionless": [
+        "Default": [
             "2.9030000000"
         ],
         "US West (Oregon)": [
@@ -42644,7 +42644,7 @@
         ]
     },
     "OnDemand Linux-instancetype-vt1.6xlarge": {
-        "Regionless": [
+        "Default": [
             "1.3000000000"
         ],
         "US West (Oregon)": [
@@ -42661,7 +42661,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c7gn.16xlarge": {
-        "Regionless": [
+        "Default": [
             "3.9936000000"
         ],
         "US West (Oregon)": [
@@ -42681,7 +42681,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r5b.12xlarge": {
-        "Regionless": [
+        "Default": [
             "3.5760000000"
         ],
         "US West (Oregon)": [
@@ -42728,7 +42728,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c5a.16xlarge": {
-        "Regionless": [
+        "Default": [
             "2.4640000000"
         ],
         "US West (Oregon)": [
@@ -42799,7 +42799,7 @@
         ]
     },
     "OnDemand Linux-instancetype-g3.16xlarge": {
-        "Regionless": [
+        "Default": [
             "4.5600000000"
         ],
         "US West (Oregon)": [
@@ -42843,7 +42843,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r6g.12xlarge": {
-        "Regionless": [
+        "Default": [
             "2.4192000000"
         ],
         "US West (Oregon)": [
@@ -42950,7 +42950,7 @@
         ]
     },
     "OnDemand Linux-instancetype-g3.4xlarge": {
-        "Regionless": [
+        "Default": [
             "1.1400000000"
         ],
         "US West (Oregon)": [
@@ -42994,7 +42994,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r6in.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.3486600000"
         ],
         "US West (Oregon)": [
@@ -43029,7 +43029,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m7a.16xlarge": {
-        "Regionless": [
+        "Default": [
             "3.7094400000"
         ],
         "US West (Oregon)": [
@@ -43061,7 +43061,7 @@
         ]
     },
     "OnDemand Linux-instancetype-i3en.6xlarge": {
-        "Regionless": [
+        "Default": [
             "2.7120000000"
         ],
         "US West (Oregon)": [
@@ -43171,7 +43171,7 @@
         ]
     },
     "OnDemand Linux-instancetype-g5g.metal": {
-        "Regionless": [
+        "Default": [
             "2.7440000000"
         ],
         "US West (Oregon)": [
@@ -43197,7 +43197,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r6gd.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.4608000000"
         ],
         "US West (Oregon)": [
@@ -43268,7 +43268,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c5n.18xlarge": {
-        "Regionless": [
+        "Default": [
             "3.8880000000"
         ],
         "US West (Oregon)": [
@@ -43345,7 +43345,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r5.8xlarge": {
-        "Regionless": [
+        "Default": [
             "2.0160000000"
         ],
         "US West (Oregon)": [
@@ -43452,7 +43452,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c8g.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1595200000"
         ],
         "US West (Oregon)": [
@@ -43496,7 +43496,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c4.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1990000000"
         ],
         "US West (Oregon)": [
@@ -43549,7 +43549,7 @@
         ]
     },
     "OnDemand Linux-instancetype-t3.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.3328000000"
         ],
         "US West (Oregon)": [
@@ -43659,7 +43659,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m1.large": {
-        "Regionless": [
+        "Default": [
             "0.1750000000"
         ],
         "US West (Oregon)": [
@@ -43691,7 +43691,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m8g.16xlarge": {
-        "Regionless": [
+        "Default": [
             "2.8723200000"
         ],
         "US West (Oregon)": [
@@ -43738,7 +43738,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m5dn.metal": {
-        "Regionless": [
+        "Default": [
             "6.5280000000"
         ],
         "US West (Oregon)": [
@@ -43770,7 +43770,7 @@
         ]
     },
     "OnDemand Linux-instancetype-u-12tb1.112xlarge": {
-        "Regionless": [
+        "Default": [
             "109.2000000000"
         ],
         "US West (Oregon)": [
@@ -43820,7 +43820,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r6gd.12xlarge": {
-        "Regionless": [
+        "Default": [
             "2.7648000000"
         ],
         "US West (Oregon)": [
@@ -43891,7 +43891,7 @@
         ]
     },
     "OnDemand Linux-instancetype-g3s.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.7500000000"
         ],
         "US West (Oregon)": [
@@ -43926,7 +43926,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r6in.16xlarge": {
-        "Regionless": [
+        "Default": [
             "5.5785600000"
         ],
         "US West (Oregon)": [
@@ -43961,7 +43961,7 @@
         ]
     },
     "OnDemand Linux-instancetype-p3.16xlarge": {
-        "Regionless": [
+        "Default": [
             "24.4800000000"
         ],
         "US West (Oregon)": [
@@ -44002,7 +44002,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c1.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.5200000000"
         ],
         "US West (Oregon)": [
@@ -44034,7 +44034,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m5d.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.9040000000"
         ],
         "US West (Oregon)": [
@@ -44132,7 +44132,7 @@
         ]
     },
     "OnDemand Linux-instancetype-x2iezn.8xlarge": {
-        "Regionless": [
+        "Default": [
             "6.6720000000"
         ],
         "US West (Oregon)": [
@@ -44152,7 +44152,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r5a.24xlarge": {
-        "Regionless": [
+        "Default": [
             "5.4240000000"
         ],
         "US West (Oregon)": [
@@ -44211,7 +44211,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r7i.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.5292000000"
         ],
         "US West (Oregon)": [
@@ -44297,7 +44297,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r6id.32xlarge": {
-        "Regionless": [
+        "Default": [
             "9.6768000000"
         ],
         "US West (Oregon)": [
@@ -44356,7 +44356,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r6a.16xlarge": {
-        "Regionless": [
+        "Default": [
             "3.6288000000"
         ],
         "US West (Oregon)": [
@@ -44397,7 +44397,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m2.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.4900000000"
         ],
         "US West (Oregon)": [
@@ -44429,7 +44429,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m6a.large": {
-        "Regionless": [
+        "Default": [
             "0.0864000000"
         ],
         "US West (Oregon)": [
@@ -44482,7 +44482,7 @@
         ]
     },
     "OnDemand Linux-instancetype-t2.micro": {
-        "Regionless": [
+        "Default": [
             "0.0116000000"
         ],
         "US West (Oregon)": [
@@ -44538,7 +44538,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r6g.large": {
-        "Regionless": [
+        "Default": [
             "0.1008000000"
         ],
         "US West (Oregon)": [
@@ -44645,7 +44645,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m6a.24xlarge": {
-        "Regionless": [
+        "Default": [
             "4.1472000000"
         ],
         "US West (Oregon)": [
@@ -44698,7 +44698,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m5d.16xlarge": {
-        "Regionless": [
+        "Default": [
             "3.6160000000"
         ],
         "US West (Oregon)": [
@@ -44796,7 +44796,7 @@
         ]
     },
     "OnDemand Linux-instancetype-t2.large": {
-        "Regionless": [
+        "Default": [
             "0.0928000000"
         ],
         "US West (Oregon)": [
@@ -44852,7 +44852,7 @@
         ]
     },
     "OnDemand Linux-instancetype-g6e.4xlarge": {
-        "Regionless": [
+        "Default": [
             "3.0042400000"
         ],
         "US West (Oregon)": [
@@ -44881,7 +44881,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m6in.large": {
-        "Regionless": [
+        "Default": [
             "0.1392300000"
         ],
         "US West (Oregon)": [
@@ -44934,7 +44934,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r7a.32xlarge": {
-        "Regionless": [
+        "Default": [
             "9.7376000000"
         ],
         "US West (Oregon)": [
@@ -44963,7 +44963,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c7i.24xlarge": {
-        "Regionless": [
+        "Default": [
             "4.2840000000"
         ],
         "US West (Oregon)": [
@@ -45037,7 +45037,7 @@
         ]
     },
     "OnDemand Linux-instancetype-vt1.3xlarge": {
-        "Regionless": [
+        "Default": [
             "0.6500000000"
         ],
         "US West (Oregon)": [
@@ -45054,7 +45054,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c5ad.8xlarge": {
-        "Regionless": [
+        "Default": [
             "1.3760000000"
         ],
         "US West (Oregon)": [
@@ -45092,7 +45092,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c6id.8xlarge": {
-        "Regionless": [
+        "Default": [
             "1.6128000000"
         ],
         "US West (Oregon)": [
@@ -45154,7 +45154,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m6idn.12xlarge": {
-        "Regionless": [
+        "Default": [
             "3.8188800000"
         ],
         "US West (Oregon)": [
@@ -45204,7 +45204,7 @@
         ]
     },
     "OnDemand Linux-instancetype-g6.16xlarge": {
-        "Regionless": [
+        "Default": [
             "3.3968000000"
         ],
         "US West (Oregon)": [
@@ -45260,7 +45260,7 @@
         ]
     },
     "OnDemand Linux-instancetype-is4gen.4xlarge": {
-        "Regionless": [
+        "Default": [
             "2.3052000000"
         ],
         "US West (Oregon)": [
@@ -45301,7 +45301,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m8g.medium": {
-        "Regionless": [
+        "Default": [
             "0.0448800000"
         ],
         "US West (Oregon)": [
@@ -45348,7 +45348,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r3.large": {
-        "Regionless": [
+        "Default": [
             "0.1660000000"
         ],
         "US West (Oregon)": [
@@ -45392,7 +45392,7 @@
         ]
     },
     "OnDemand Linux-instancetype-g6.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.9776000000"
         ],
         "US West (Oregon)": [
@@ -45448,7 +45448,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c7gd.medium": {
-        "Regionless": [
+        "Default": [
             "0.0454000000"
         ],
         "US West (Oregon)": [
@@ -45504,7 +45504,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m5n.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.4760000000"
         ],
         "US West (Oregon)": [
@@ -45536,7 +45536,7 @@
         ]
     },
     "OnDemand Linux-instancetype-i3en.12xlarge": {
-        "Regionless": [
+        "Default": [
             "5.4240000000"
         ],
         "US West (Oregon)": [
@@ -45646,7 +45646,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m5dn.12xlarge": {
-        "Regionless": [
+        "Default": [
             "3.2640000000"
         ],
         "US West (Oregon)": [
@@ -45678,7 +45678,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r3.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.3330000000"
         ],
         "US West (Oregon)": [
@@ -45722,7 +45722,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c7g.8xlarge": {
-        "Regionless": [
+        "Default": [
             "1.1600000000"
         ],
         "US West (Oregon)": [
@@ -45811,7 +45811,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r6idn.12xlarge": {
-        "Regionless": [
+        "Default": [
             "4.6893600000"
         ],
         "US West (Oregon)": [
@@ -45846,7 +45846,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m6id.large": {
-        "Regionless": [
+        "Default": [
             "0.1186500000"
         ],
         "US West (Oregon)": [
@@ -45917,7 +45917,7 @@
         ]
     },
     "OnDemand Linux-instancetype-i3.4xlarge": {
-        "Regionless": [
+        "Default": [
             "1.2480000000"
         ],
         "US West (Oregon)": [
@@ -46012,7 +46012,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r5b.4xlarge": {
-        "Regionless": [
+        "Default": [
             "1.1920000000"
         ],
         "US West (Oregon)": [
@@ -46059,7 +46059,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c7gn.large": {
-        "Regionless": [
+        "Default": [
             "0.1248000000"
         ],
         "US West (Oregon)": [
@@ -46079,7 +46079,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m5ad.24xlarge": {
-        "Regionless": [
+        "Default": [
             "4.9440000000"
         ],
         "US West (Oregon)": [
@@ -46132,7 +46132,7 @@
         ]
     },
     "OnDemand Linux-instancetype-g6e.2xlarge": {
-        "Regionless": [
+        "Default": [
             "2.2420800000"
         ],
         "US West (Oregon)": [
@@ -46161,7 +46161,7 @@
         ]
     },
     "OnDemand Linux-instancetype-x2iedn.24xlarge": {
-        "Regionless": [
+        "Default": [
             "20.0070000000"
         ],
         "US West (Oregon)": [
@@ -46241,7 +46241,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m5ad.large": {
-        "Regionless": [
+        "Default": [
             "0.1030000000"
         ],
         "US West (Oregon)": [
@@ -46294,7 +46294,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m7g.large": {
-        "Regionless": [
+        "Default": [
             "0.0816000000"
         ],
         "US West (Oregon)": [
@@ -46386,7 +46386,7 @@
         ]
     },
     "OnDemand Linux-instancetype-inf1.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2280000000"
         ],
         "US West (Oregon)": [
@@ -46457,7 +46457,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c7i.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1785000000"
         ],
         "US West (Oregon)": [
@@ -46531,7 +46531,7 @@
         ]
     },
     "OnDemand Linux-instancetype-trn1.2xlarge": {
-        "Regionless": [
+        "Default": [
             "1.3437500000"
         ],
         "US West (Oregon)": [
@@ -46545,7 +46545,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r6a.24xlarge": {
-        "Regionless": [
+        "Default": [
             "5.4432000000"
         ],
         "US West (Oregon)": [
@@ -46586,7 +46586,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c7gd.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.7258000000"
         ],
         "US West (Oregon)": [
@@ -46642,7 +46642,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c6in.32xlarge": {
-        "Regionless": [
+        "Default": [
             "7.2576000000"
         ],
         "US West (Oregon)": [
@@ -46740,7 +46740,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m6gd.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.3616000000"
         ],
         "US West (Oregon)": [
@@ -46847,7 +46847,7 @@
         ]
     },
     "OnDemand Linux-instancetype-a1.metal": {
-        "Regionless": [
+        "Default": [
             "0.4080000000"
         ],
         "US West (Oregon)": [
@@ -46879,7 +46879,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r6in.8xlarge": {
-        "Regionless": [
+        "Default": [
             "2.7892800000"
         ],
         "US West (Oregon)": [
@@ -46914,7 +46914,7 @@
         ]
     },
     "OnDemand Linux-instancetype-p2.8xlarge": {
-        "Regionless": [
+        "Default": [
             "7.2000000000"
         ],
         "US West (Oregon)": [
@@ -46952,7 +46952,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c7g.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1450000000"
         ],
         "US West (Oregon)": [
@@ -47041,7 +47041,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r3.4xlarge": {
-        "Regionless": [
+        "Default": [
             "1.3300000000"
         ],
         "US West (Oregon)": [
@@ -47085,7 +47085,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m6in.24xlarge": {
-        "Regionless": [
+        "Default": [
             "6.6830400000"
         ],
         "US West (Oregon)": [
@@ -47141,7 +47141,7 @@
         ]
     },
     "OnDemand Linux-instancetype-d3en.4xlarge": {
-        "Regionless": [
+        "Default": [
             "2.1030000000"
         ],
         "US West (Oregon)": [
@@ -47170,7 +47170,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c6a.large": {
-        "Regionless": [
+        "Default": [
             "0.0765000000"
         ],
         "US West (Oregon)": [
@@ -47220,7 +47220,7 @@
         ]
     },
     "OnDemand Linux-instancetype-d2.4xlarge": {
-        "Regionless": [
+        "Default": [
             "2.7600000000"
         ],
         "US West (Oregon)": [
@@ -47291,7 +47291,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m7i-flex.large": {
-        "Regionless": [
+        "Default": [
             "0.0957600000"
         ],
         "US West (Oregon)": [
@@ -47368,7 +47368,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c5n.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.4320000000"
         ],
         "US West (Oregon)": [
@@ -47445,7 +47445,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r6gd.medium": {
-        "Regionless": [
+        "Default": [
             "0.0576000000"
         ],
         "US West (Oregon)": [
@@ -47516,7 +47516,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r6id.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.6048000000"
         ],
         "US West (Oregon)": [
@@ -47575,7 +47575,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r6idn.metal": {
-        "Regionless": [
+        "Default": [
             "12.5049600000"
         ],
         "US West (Oregon)": [
@@ -47610,7 +47610,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c7gn.12xlarge": {
-        "Regionless": [
+        "Default": [
             "2.9952000000"
         ],
         "US West (Oregon)": [
@@ -47630,7 +47630,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r6a.12xlarge": {
-        "Regionless": [
+        "Default": [
             "2.7216000000"
         ],
         "US West (Oregon)": [
@@ -47671,7 +47671,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r5a.large": {
-        "Regionless": [
+        "Default": [
             "0.1130000000"
         ],
         "US West (Oregon)": [
@@ -47730,7 +47730,7 @@
         ]
     },
     "OnDemand Linux-instancetype-u7in-16tb.224xlarge": {
-        "Regionless": [
+        "Default": [
             "180.4755800000"
         ],
         "US West (Oregon)": [
@@ -47747,7 +47747,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c6g.metal": {
-        "Regionless": [
+        "Default": [
             "2.1760000000"
         ],
         "US West (Oregon)": [
@@ -47854,7 +47854,7 @@
         ]
     },
     "OnDemand Linux-instancetype-x1e.2xlarge": {
-        "Regionless": [
+        "Default": [
             "1.6680000000"
         ],
         "US West (Oregon)": [
@@ -47907,7 +47907,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c5n.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2160000000"
         ],
         "US West (Oregon)": [
@@ -47984,7 +47984,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r5.4xlarge": {
-        "Regionless": [
+        "Default": [
             "1.0080000000"
         ],
         "US West (Oregon)": [
@@ -48136,7 +48136,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r5b.24xlarge": {
-        "Regionless": [
+        "Default": [
             "7.1520000000"
         ],
         "US West (Oregon)": [
@@ -48183,7 +48183,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m6a.48xlarge": {
-        "Regionless": [
+        "Default": [
             "8.2944000000"
         ],
         "US West (Oregon)": [
@@ -48236,7 +48236,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m6a.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1728000000"
         ],
         "US West (Oregon)": [
@@ -48289,7 +48289,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r8g.48xlarge": {
-        "Regionless": [
+        "Default": [
             "11.3107200000"
         ],
         "US West (Oregon)": [
@@ -48330,7 +48330,7 @@
         ]
     },
     "OnDemand Linux-instancetype-g4ad.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.5411700000"
         ],
         "US West (Oregon)": [
@@ -48359,7 +48359,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r3.8xlarge": {
-        "Regionless": [
+        "Default": [
             "2.6600000000"
         ],
         "US West (Oregon)": [
@@ -48403,7 +48403,7 @@
         ]
     },
     "OnDemand Linux-instancetype-g6e.48xlarge": {
-        "Regionless": [
+        "Default": [
             "30.1311800000"
         ],
         "US West (Oregon)": [
@@ -48432,7 +48432,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m7g.metal": {
-        "Regionless": [
+        "Default": [
             "2.6112000000"
         ],
         "US West (Oregon)": [
@@ -48524,7 +48524,7 @@
         ]
     },
     "OnDemand Linux-instancetype-x2iezn.metal": {
-        "Regionless": [
+        "Default": [
             "10.0080000000"
         ],
         "US West (Oregon)": [
@@ -48544,7 +48544,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m7g.medium": {
-        "Regionless": [
+        "Default": [
             "0.0408000000"
         ],
         "US West (Oregon)": [
@@ -48636,7 +48636,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m6id.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.9492000000"
         ],
         "US West (Oregon)": [
@@ -48707,7 +48707,7 @@
         ]
     },
     "OnDemand Linux-instancetype-x8g.large": {
-        "Regionless": [
+        "Default": [
             "0.1954000000"
         ],
         "US West (Oregon)": [
@@ -48721,7 +48721,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r5dn.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.3340000000"
         ],
         "US West (Oregon)": [
@@ -48771,7 +48771,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c6in.24xlarge": {
-        "Regionless": [
+        "Default": [
             "5.4432000000"
         ],
         "US West (Oregon)": [
@@ -48869,7 +48869,7 @@
         ]
     },
     "OnDemand Linux-instancetype-x8g.8xlarge": {
-        "Regionless": [
+        "Default": [
             "3.1264000000"
         ],
         "US West (Oregon)": [
@@ -48883,7 +48883,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r7g.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.4284000000"
         ],
         "US West (Oregon)": [
@@ -48960,7 +48960,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c7g.12xlarge": {
-        "Regionless": [
+        "Default": [
             "1.7400000000"
         ],
         "US West (Oregon)": [
@@ -49049,7 +49049,7 @@
         ]
     },
     "OnDemand Linux-instancetype-x2iedn.4xlarge": {
-        "Regionless": [
+        "Default": [
             "3.3345000000"
         ],
         "US West (Oregon)": [
@@ -49129,7 +49129,7 @@
         ]
     },
     "OnDemand Linux-instancetype-u-3tb1.56xlarge": {
-        "Regionless": [
+        "Default": [
             "27.3000000000"
         ],
         "US West (Oregon)": [
@@ -49176,7 +49176,7 @@
         ]
     },
     "OnDemand Linux-instancetype-g6.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.8048000000"
         ],
         "US West (Oregon)": [
@@ -49232,7 +49232,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r6gd.8xlarge": {
-        "Regionless": [
+        "Default": [
             "1.8432000000"
         ],
         "US West (Oregon)": [
@@ -49303,7 +49303,7 @@
         ]
     },
     "OnDemand Linux-instancetype-g5.xlarge": {
-        "Regionless": [
+        "Default": [
             "1.0060000000"
         ],
         "US West (Oregon)": [
@@ -49356,7 +49356,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r5d.16xlarge": {
-        "Regionless": [
+        "Default": [
             "4.6080000000"
         ],
         "US West (Oregon)": [
@@ -49454,7 +49454,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m5a.24xlarge": {
-        "Regionless": [
+        "Default": [
             "4.1280000000"
         ],
         "US West (Oregon)": [
@@ -49513,7 +49513,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m7gd.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.4271000000"
         ],
         "US West (Oregon)": [
@@ -49572,7 +49572,7 @@
         ]
     },
     "OnDemand Linux-instancetype-i4i.16xlarge": {
-        "Regionless": [
+        "Default": [
             "5.4910000000"
         ],
         "US West (Oregon)": [
@@ -49676,7 +49676,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m7gd.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2136000000"
         ],
         "US West (Oregon)": [
@@ -49735,7 +49735,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m6in.metal": {
-        "Regionless": [
+        "Default": [
             "8.9107200000"
         ],
         "US West (Oregon)": [
@@ -49788,7 +49788,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m7g.8xlarge": {
-        "Regionless": [
+        "Default": [
             "1.3056000000"
         ],
         "US West (Oregon)": [
@@ -49880,7 +49880,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r8g.metal-24xl": {
-        "Regionless": [
+        "Default": [
             "5.6553600000"
         ],
         "US West (Oregon)": [
@@ -49921,7 +49921,7 @@
         ]
     },
     "OnDemand Linux-instancetype-d3en.12xlarge": {
-        "Regionless": [
+        "Default": [
             "6.3086400000"
         ],
         "US West (Oregon)": [
@@ -49950,7 +49950,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r5dn.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.6680000000"
         ],
         "US West (Oregon)": [
@@ -50000,7 +50000,7 @@
         ]
     },
     "OnDemand Linux-instancetype-z1d.3xlarge": {
-        "Regionless": [
+        "Default": [
             "1.1160000000"
         ],
         "US West (Oregon)": [
@@ -50041,7 +50041,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m6id.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2373000000"
         ],
         "US West (Oregon)": [
@@ -50112,7 +50112,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r5a.16xlarge": {
-        "Regionless": [
+        "Default": [
             "3.6160000000"
         ],
         "US West (Oregon)": [
@@ -50171,7 +50171,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m5n.16xlarge": {
-        "Regionless": [
+        "Default": [
             "3.8080000000"
         ],
         "US West (Oregon)": [
@@ -50203,7 +50203,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m5a.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.6880000000"
         ],
         "US West (Oregon)": [
@@ -50262,7 +50262,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m6a.8xlarge": {
-        "Regionless": [
+        "Default": [
             "1.3824000000"
         ],
         "US West (Oregon)": [
@@ -50315,7 +50315,7 @@
         ]
     },
     "OnDemand Linux-instancetype-g4dn.metal": {
-        "Regionless": [
+        "Default": [
             "7.8240000000"
         ],
         "US West (Oregon)": [
@@ -50389,7 +50389,7 @@
         ]
     },
     "OnDemand Linux-instancetype-i3.8xlarge": {
-        "Regionless": [
+        "Default": [
             "2.4960000000"
         ],
         "US West (Oregon)": [
@@ -50484,7 +50484,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r5.16xlarge": {
-        "Regionless": [
+        "Default": [
             "4.0320000000"
         ],
         "US West (Oregon)": [
@@ -50585,7 +50585,7 @@
         ]
     },
     "OnDemand Linux-instancetype-cr1.8xlarge": {
-        "Regionless": [
+        "Default": [
             "3.5000000000"
         ],
         "US West (Oregon)": [
@@ -50602,7 +50602,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m5d.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.4520000000"
         ],
         "US West (Oregon)": [
@@ -50700,7 +50700,7 @@
         ]
     },
     "OnDemand Linux-instancetype-x2iezn.12xlarge": {
-        "Regionless": [
+        "Default": [
             "10.0080000000"
         ],
         "US West (Oregon)": [
@@ -50720,7 +50720,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r7a.16xlarge": {
-        "Regionless": [
+        "Default": [
             "4.8688000000"
         ],
         "US West (Oregon)": [
@@ -50749,7 +50749,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m5a.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.3440000000"
         ],
         "US West (Oregon)": [
@@ -50808,7 +50808,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r7iz.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.3720000000"
         ],
         "US West (Oregon)": [
@@ -50831,7 +50831,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m6gd.16xlarge": {
-        "Regionless": [
+        "Default": [
             "2.8928000000"
         ],
         "US West (Oregon)": [
@@ -50938,7 +50938,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r6in.4xlarge": {
-        "Regionless": [
+        "Default": [
             "1.3946400000"
         ],
         "US West (Oregon)": [
@@ -50973,7 +50973,7 @@
         ]
     },
     "OnDemand Linux-instancetype-d2.8xlarge": {
-        "Regionless": [
+        "Default": [
             "5.5200000000"
         ],
         "US West (Oregon)": [
@@ -51044,7 +51044,7 @@
         ]
     },
     "OnDemand Linux-instancetype-x8g.metal-48xl": {
-        "Regionless": [
+        "Default": [
             "18.7584000000"
         ],
         "US West (Oregon)": [
@@ -51058,7 +51058,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c6in.12xlarge": {
-        "Regionless": [
+        "Default": [
             "2.7216000000"
         ],
         "US West (Oregon)": [
@@ -51156,7 +51156,7 @@
         ]
     },
     "OnDemand Linux-instancetype-f1.2xlarge": {
-        "Regionless": [
+        "Default": [
             "1.6500000000"
         ],
         "US West (Oregon)": [
@@ -51182,7 +51182,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c5.9xlarge": {
-        "Regionless": [
+        "Default": [
             "1.5300000000"
         ],
         "US West (Oregon)": [
@@ -51283,7 +51283,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m6a.metal": {
-        "Regionless": [
+        "Default": [
             "8.2944000000"
         ],
         "US West (Oregon)": [
@@ -51336,7 +51336,7 @@
         ]
     },
     "OnDemand Linux-instancetype-inf2.24xlarge": {
-        "Regionless": [
+        "Default": [
             "6.4906300000"
         ],
         "US West (Oregon)": [
@@ -51380,7 +51380,7 @@
         ]
     },
     "OnDemand Linux-instancetype-x8g.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.3908000000"
         ],
         "US West (Oregon)": [
@@ -51394,7 +51394,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m7a.medium": {
-        "Regionless": [
+        "Default": [
             "0.0579600000"
         ],
         "US West (Oregon)": [
@@ -51426,7 +51426,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m7i.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.4032000000"
         ],
         "US West (Oregon)": [
@@ -51503,7 +51503,7 @@
         ]
     },
     "OnDemand Linux-instancetype-trn1.32xlarge": {
-        "Regionless": [
+        "Default": [
             "21.5000000000"
         ],
         "US West (Oregon)": [
@@ -51517,7 +51517,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m5dn.4xlarge": {
-        "Regionless": [
+        "Default": [
             "1.0880000000"
         ],
         "US West (Oregon)": [
@@ -51549,7 +51549,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r5ad.large": {
-        "Regionless": [
+        "Default": [
             "0.1310000000"
         ],
         "US West (Oregon)": [
@@ -51602,7 +51602,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c5.18xlarge": {
-        "Regionless": [
+        "Default": [
             "3.0600000000"
         ],
         "US West (Oregon)": [
@@ -51703,7 +51703,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m2.4xlarge": {
-        "Regionless": [
+        "Default": [
             "0.9800000000"
         ],
         "US West (Oregon)": [
@@ -51735,7 +51735,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m7gd.large": {
-        "Regionless": [
+        "Default": [
             "0.1068000000"
         ],
         "US West (Oregon)": [
@@ -51794,7 +51794,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r6g.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2016000000"
         ],
         "US West (Oregon)": [
@@ -51901,7 +51901,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m5dn.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.5440000000"
         ],
         "US West (Oregon)": [
@@ -51933,7 +51933,7 @@
         ]
     },
     "OnDemand Linux-instancetype-g6.12xlarge": {
-        "Regionless": [
+        "Default": [
             "4.6016000000"
         ],
         "US West (Oregon)": [
@@ -51989,7 +51989,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r7iz.32xlarge": {
-        "Regionless": [
+        "Default": [
             "11.9040000000"
         ],
         "US West (Oregon)": [
@@ -52012,7 +52012,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r7i.48xlarge": {
-        "Regionless": [
+        "Default": [
             "12.7008000000"
         ],
         "US West (Oregon)": [
@@ -52098,7 +52098,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m6gd.12xlarge": {
-        "Regionless": [
+        "Default": [
             "2.1696000000"
         ],
         "US West (Oregon)": [
@@ -52205,7 +52205,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r7iz.8xlarge": {
-        "Regionless": [
+        "Default": [
             "2.9760000000"
         ],
         "US West (Oregon)": [
@@ -52228,7 +52228,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r5n.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.5960000000"
         ],
         "US West (Oregon)": [
@@ -52296,7 +52296,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c7a.48xlarge": {
-        "Regionless": [
+        "Default": [
             "9.8534400000"
         ],
         "US West (Oregon)": [
@@ -52325,7 +52325,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m6gd.metal": {
-        "Regionless": [
+        "Default": [
             "2.8928000000"
         ],
         "US West (Oregon)": [
@@ -52432,7 +52432,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r4.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2660000000"
         ],
         "US West (Oregon)": [
@@ -52488,7 +52488,7 @@
         ]
     },
     "OnDemand Linux-instancetype-r5a.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2260000000"
         ],
         "US West (Oregon)": [
@@ -52547,7 +52547,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c5n.9xlarge": {
-        "Regionless": [
+        "Default": [
             "1.9440000000"
         ],
         "US West (Oregon)": [
@@ -52624,7 +52624,7 @@
         ]
     },
     "OnDemand Linux-instancetype-is4gen.8xlarge": {
-        "Regionless": [
+        "Default": [
             "4.6104000000"
         ],
         "US West (Oregon)": [
@@ -52665,7 +52665,7 @@
         ]
     },
     "OnDemand Linux-instancetype-x1e.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.8340000000"
         ],
         "US West (Oregon)": [
@@ -52718,7 +52718,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c6id.large": {
-        "Regionless": [
+        "Default": [
             "0.1008000000"
         ],
         "US West (Oregon)": [
@@ -52780,7 +52780,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c4.8xlarge": {
-        "Regionless": [
+        "Default": [
             "1.5910000000"
         ],
         "US West (Oregon)": [
@@ -52833,7 +52833,7 @@
         ]
     },
     "OnDemand Linux-instancetype-g5g.16xlarge": {
-        "Regionless": [
+        "Default": [
             "2.7440000000"
         ],
         "US West (Oregon)": [
@@ -52859,7 +52859,7 @@
         ]
     },
     "OnDemand Linux-instancetype-m7i-flex.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.1915200000"
         ],
         "US West (Oregon)": [
@@ -52936,7 +52936,7 @@
         ]
     },
     "OnDemand Linux-instancetype-hpc7a.24xlarge": {
-        "Regionless": [
+        "Default": [
             "7.2000000000"
         ],
         "US East (Ohio)": [
@@ -52959,7 +52959,7 @@
         ]
     },
     "OnDemand Linux-instancetype-hpc7a.48xlarge": {
-        "Regionless": [
+        "Default": [
             "7.2000000000"
         ],
         "US East (Ohio)": [
@@ -52982,7 +52982,7 @@
         ]
     },
     "OnDemand Linux-instancetype-hpc7a.96xlarge": {
-        "Regionless": [
+        "Default": [
             "7.2000000000"
         ],
         "US East (Ohio)": [
@@ -53005,7 +53005,7 @@
         ]
     },
     "OnDemand Linux-instancetype-hpc6a.48xlarge": {
-        "Regionless": [
+        "Default": [
             "2.8800000000"
         ],
         "US East (Ohio)": [
@@ -53028,7 +53028,7 @@
         ]
     },
     "OnDemand Linux-instancetype-hpc6id.32xlarge": {
-        "Regionless": [
+        "Default": [
             "5.7000000000"
         ],
         "US East (Ohio)": [
@@ -53045,7 +53045,7 @@
         ]
     },
     "OnDemand Linux-instancetype-hpc7a.12xlarge": {
-        "Regionless": [
+        "Default": [
             "7.2000000000"
         ],
         "US East (Ohio)": [
@@ -53068,7 +53068,7 @@
         ]
     },
     "OnDemand Linux-instancetype-hpc7g.4xlarge": {
-        "Regionless": [
+        "Default": [
             "1.6832000000"
         ],
         "US East (N. Virginia)": [
@@ -53085,7 +53085,7 @@
         ]
     },
     "OnDemand Linux-instancetype-hpc7g.8xlarge": {
-        "Regionless": [
+        "Default": [
             "1.6832000000"
         ],
         "US East (N. Virginia)": [
@@ -53102,7 +53102,7 @@
         ]
     },
     "OnDemand Linux-instancetype-hpc7g.16xlarge": {
-        "Regionless": [
+        "Default": [
             "1.6832000000"
         ],
         "US East (N. Virginia)": [
@@ -53119,7 +53119,7 @@
         ]
     },
     "OnDemand Linux-instancetype-c6gn.metal": {
-        "Regionless": [
+        "Default": [
             "3.2800000000"
         ],
         "EU (Paris)": [
@@ -53130,7 +53130,7 @@
         ]
     },
     "OnDemand Linux-instancetype-hs1.8xlarge": {
-        "Regionless": [
+        "Default": [
             "5.5200000000"
         ],
         "AWS GovCloud (US)": [
@@ -53138,7 +53138,7 @@
         ]
     },
     "OnDemand Linux-instancetype-i3p.16xlarge": {
-        "Regionless": [
+        "Default": [
             "6.0160000000"
         ],
         "AWS GovCloud (US)": [
@@ -53146,7 +53146,7 @@
         ]
     },
     "OnDemand Linux-instancetype-cc2.8xlarge": {
-        "Regionless": [
+        "Default": [
             "2.2500000000"
         ],
         "AWS GovCloud (US)": [

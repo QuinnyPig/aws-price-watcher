@@ -1,6 +1,6 @@
 {
     "WorkDocs and Amazon WorkSpaces": {
-        "Regionless": [
+        "Default": [
             "2.0000000000"
         ],
         "US West (Oregon)": [
@@ -23,7 +23,7 @@
         ]
     },
     "Additional storage First TB": {
-        "Regionless": [
+        "Default": [
             "0.0230000000"
         ],
         "US West (Oregon)": [
@@ -46,7 +46,7 @@
         ]
     },
     "WorkDocs Basic Paid": {
-        "Regionless": [
+        "Default": [
             "2.0000000000"
         ],
         "US West (Oregon)": [
@@ -69,7 +69,7 @@
         ]
     },
     "WorkDocs Paid": {
-        "Regionless": [
+        "Default": [
             "5.0000000000"
         ],
         "US West (Oregon)": [
@@ -92,7 +92,7 @@
         ]
     },
     "Additional storage Next 500TB": {
-        "Regionless": [
+        "Default": [
             "0.0210000000"
         ],
         "US West (Oregon)": [
@@ -115,7 +115,7 @@
         ]
     },
     "Additional storage Next 4000TB": {
-        "Regionless": [
+        "Default": [
             "0.0210000000"
         ],
         "US West (Oregon)": [
@@ -138,7 +138,7 @@
         ]
     },
     "Additional storage Next 49TB": {
-        "Regionless": [
+        "Default": [
             "0.0230000000"
         ],
         "US West (Oregon)": [
@@ -161,7 +161,7 @@
         ]
     },
     "Additional storage Over 5000 TB": {
-        "Regionless": [
+        "Default": [
             "0.0210000000"
         ],
         "US West (Oregon)": [
@@ -184,7 +184,7 @@
         ]
     },
     "Additional storage Next 450TB": {
-        "Regionless": [
+        "Default": [
             "0.0220000000"
         ],
         "US West (Oregon)": [

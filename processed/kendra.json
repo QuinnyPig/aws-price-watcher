@@ -1,6 +1,6 @@
 {
     "Enterprise Additional Query Storage Capacity Kendra-Query-Capacity-Unit per hours": {
-        "Regionless": [
+        "Default": [
             "0.7000000000"
         ],
         "US West (Oregon)": [
@@ -38,7 +38,7 @@
         ]
     },
     "Pay Per Query Storage Capacity Units KendraQueryCapacityUnit per hours": {
-        "Regionless": [
+        "Default": [
             "3.5000000000"
         ],
         "US West (Oregon)": [
@@ -76,7 +76,7 @@
         ]
     },
     "Developer Base Query Storage Capacity KendraDeveloperEdition per hours": {
-        "Regionless": [
+        "Default": [
             "1.1250000000"
         ],
         "US West (Oregon)": [
@@ -114,7 +114,7 @@
         ]
     },
     "Intelligent Ranking Base Capacity BaseCapacity per hours": {
-        "Regionless": [
+        "Default": [
             "0.1400000000"
         ],
         "US West (Oregon)": [
@@ -152,7 +152,7 @@
         ]
     },
     "Pay Per Query Storage Capacity Units KendraEnterpriseEdition per hours": {
-        "Regionless": [
+        "Default": [
             "7.0000000000"
         ],
         "US West (Oregon)": [
@@ -190,7 +190,7 @@
         ]
     },
     "Enterprise Additional Storage Capacity Kendra-Storage-Capacity-Unit per hours": {
-        "Regionless": [
+        "Default": [
             "0.7000000000"
         ],
         "US West (Oregon)": [
@@ -228,7 +228,7 @@
         ]
     },
     "Enterprise Additional Query Storage Capacity KendraStorageCapacityUnit per hours": {
-        "Regionless": [
+        "Default": [
             "3.5000000000"
         ],
         "US West (Oregon)": [
@@ -266,7 +266,7 @@
         ]
     },
     "Pay Per Hour Connector Compute ConnectorSync per hours": {
-        "Regionless": [
+        "Default": [
             "0.3500000000"
         ],
         "US West (Oregon)": [
@@ -304,7 +304,7 @@
         ]
     },
     "Intelligent Ranking Capacity Units CapacityUnits per hours": {
-        "Regionless": [
+        "Default": [
             "0.0035000000"
         ],
         "US West (Oregon)": [
@@ -342,7 +342,7 @@
         ]
     },
     "Pay Per Document Scanned Unit DocumentsScanned per Count": {
-        "Regionless": [
+        "Default": [
             "0.0000010000"
         ],
         "US West (Oregon)": [
@@ -380,7 +380,7 @@
         ]
     },
     "Enterprise Base Query Storage Capacity Edition per hours": {
-        "Regionless": [
+        "Default": [
             "1.4000000000"
         ],
         "US West (Oregon)": [

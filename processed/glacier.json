@@ -1,6 +1,6 @@
 {
     "Bulk-Select-Returned per GB": {
-        "Regionless": [
+        "Default": [
             "0.0025000000"
         ],
         "US West (Oregon)": [
@@ -68,7 +68,7 @@
         ]
     },
     "Storage Amazon Glacier Standard": {
-        "Regionless": [
+        "Default": [
             "0.0036000000"
         ],
         "US West (Oregon)": [
@@ -142,7 +142,7 @@
         ]
     },
     "Expedited-Retrieval per GB": {
-        "Regionless": [
+        "Default": [
             "0.0300000000"
         ],
         "US West (Oregon)": [
@@ -216,7 +216,7 @@
         ]
     },
     "Standard-Select-Returned per GB": {
-        "Regionless": [
+        "Default": [
             "0.0100000000"
         ],
         "US West (Oregon)": [
@@ -284,7 +284,7 @@
         ]
     },
     "Standard-Retrieval per GB": {
-        "Regionless": [
+        "Default": [
             "0.0100000000"
         ],
         "US West (Oregon)": [
@@ -358,7 +358,7 @@
         ]
     },
     "Provisioned-Capacity per Units": {
-        "Regionless": [
+        "Default": [
             "100.0000000000"
         ],
         "US West (Oregon)": [
@@ -432,7 +432,7 @@
         ]
     },
     "Bulk-Retrieval per GB": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -506,7 +506,7 @@
         ]
     },
     "PeakRestore per GB": {
-        "Regionless": [
+        "Default": [
             "0.0067000000"
         ],
         "US West (Oregon)": [
@@ -565,7 +565,7 @@
         ]
     },
     "Expedited-Select-Returned per GB": {
-        "Regionless": [
+        "Default": [
             "0.0300000000"
         ],
         "US West (Oregon)": [
@@ -633,7 +633,7 @@
         ]
     },
     "Bulk-Select-Scanned per GB": {
-        "Regionless": [
+        "Default": [
             "0.0010000000"
         ],
         "US West (Oregon)": [
@@ -701,7 +701,7 @@
         ]
     },
     "Standard-Select-Scanned per GB": {
-        "Regionless": [
+        "Default": [
             "0.0080000000"
         ],
         "US West (Oregon)": [
@@ -769,7 +769,7 @@
         ]
     },
     "Expedited-Select-Scanned per GB": {
-        "Regionless": [
+        "Default": [
             "0.0200000000"
         ],
         "US West (Oregon)": [
@@ -837,7 +837,7 @@
         ]
     },
     "API Request Expedited": {
-        "Regionless": [
+        "Default": [
             "0.0100000000"
         ],
         "US West (Oregon)": [
@@ -911,7 +911,7 @@
         ]
     },
     "EarlyDelete per GB-Mo": {
-        "Regionless": [
+        "Default": [
             "0.0036000000"
         ],
         "US West (Oregon)": [
@@ -985,7 +985,7 @@
         ]
     },
     "API Request Bulk": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -1059,7 +1059,7 @@
         ]
     },
     "API Request Standard": {
-        "Regionless": [
+        "Default": [
             "0.0000300000"
         ],
         "US West (Oregon)": [

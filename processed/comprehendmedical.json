@@ -1,871 +1,871 @@
 {
     "ICD10CMInference Batching Tier3": {
-        "Regionless": [
+        "Default": [
             "0.0002500000"
         ],
-        "US West (Oregon)": [
+        "US West (Oregon) (StartingRange: 2000000, EndingRange: Inf)": [
             "0.0002500000"
         ],
-        "US East (Ohio)": [
+        "US East (Ohio) (StartingRange: 2000000, EndingRange: Inf)": [
             "0.0002500000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (StartingRange: 2000000, EndingRange: Inf)": [
             "0.0002500000"
         ],
-        "EU (London)": [
+        "EU (London) (StartingRange: 2000000, EndingRange: Inf)": [
             "0.0002500000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (StartingRange: 2000000, EndingRange: Inf)": [
             "0.0002500000"
         ],
-        "Canada (Central)": [
+        "Canada (Central) (StartingRange: 2000000, EndingRange: Inf)": [
             "0.0002500000"
         ],
-        "Asia Pacific (Sydney)": [
+        "Asia Pacific (Sydney) (StartingRange: 2000000, EndingRange: Inf)": [
             "0.0002500000"
         ],
-        "AWS GovCloud (US)": [
+        "AWS GovCloud (US) (StartingRange: 2000000, EndingRange: Inf)": [
             "0.0002500000"
         ]
     },
     "RxNormInference Batching Tier3": {
-        "Regionless": [
+        "Default": [
             "0.0002500000"
         ],
-        "US West (Oregon)": [
+        "US West (Oregon) (StartingRange: 2000000, EndingRange: Inf)": [
             "0.0002500000"
         ],
-        "US East (Ohio)": [
+        "US East (Ohio) (StartingRange: 2000000, EndingRange: Inf)": [
             "0.0002500000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (StartingRange: 2000000, EndingRange: Inf)": [
             "0.0002500000"
         ],
-        "EU (London)": [
+        "EU (London) (StartingRange: 2000000, EndingRange: Inf)": [
             "0.0002500000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (StartingRange: 2000000, EndingRange: Inf)": [
             "0.0002500000"
         ],
-        "Canada (Central)": [
+        "Canada (Central) (StartingRange: 2000000, EndingRange: Inf)": [
             "0.0002500000"
         ],
-        "Asia Pacific (Sydney)": [
+        "Asia Pacific (Sydney) (StartingRange: 2000000, EndingRange: Inf)": [
             "0.0002500000"
         ],
-        "AWS GovCloud (US)": [
+        "AWS GovCloud (US) (StartingRange: 2000000, EndingRange: Inf)": [
             "0.0002500000"
         ]
     },
     "DetectEntities Tier2": {
-        "Regionless": [
+        "Default": [
             "0.0050000000"
         ],
-        "US West (Oregon)": [
+        "US West (Oregon) (StartingRange: 1000000, EndingRange: 2000000)": [
             "0.0050000000"
         ],
-        "US East (Ohio)": [
+        "US East (Ohio) (StartingRange: 1000000, EndingRange: 2000000)": [
             "0.0050000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (StartingRange: 1000000, EndingRange: 2000000)": [
             "0.0050000000"
         ],
-        "EU (London)": [
+        "EU (London) (StartingRange: 1000000, EndingRange: 2000000)": [
             "0.0050000000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (StartingRange: 1000000, EndingRange: 2000000)": [
             "0.0050000000"
         ],
-        "Canada (Central)": [
+        "Canada (Central) (StartingRange: 1000000, EndingRange: 2000000)": [
             "0.0050000000"
         ],
-        "Asia Pacific (Sydney)": [
+        "Asia Pacific (Sydney) (StartingRange: 1000000, EndingRange: 2000000)": [
             "0.0050000000"
         ],
-        "AWS GovCloud (US)": [
+        "AWS GovCloud (US) (StartingRange: 1000000, EndingRange: 2000000)": [
             "0.0050000000"
         ]
     },
     "InferRxNorm": {
-        "Regionless": [
+        "Default": [
             "0.0002500000"
         ],
-        "US West (Oregon)": [
+        "US West (Oregon) (StartingRange: 0, EndingRange: 1000000)": [
             "0.0002500000"
         ],
-        "US East (Ohio)": [
+        "US East (Ohio) (StartingRange: 0, EndingRange: 1000000)": [
             "0.0002500000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (StartingRange: 0, EndingRange: 1000000)": [
             "0.0002500000"
         ],
-        "EU (London)": [
+        "EU (London) (StartingRange: 0, EndingRange: 1000000)": [
             "0.0002500000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (StartingRange: 0, EndingRange: 1000000)": [
             "0.0002500000"
         ],
-        "Canada (Central)": [
+        "Canada (Central) (StartingRange: 0, EndingRange: 1000000)": [
             "0.0002500000"
         ],
-        "Asia Pacific (Sydney)": [
+        "Asia Pacific (Sydney) (StartingRange: 0, EndingRange: 1000000)": [
             "0.0002500000"
         ],
-        "AWS GovCloud (US)": [
+        "AWS GovCloud (US) (StartingRange: 0, EndingRange: 1000000)": [
             "0.0002500000"
         ]
     },
     "PHIDetection Batching Tier3": {
-        "Regionless": [
+        "Default": [
             "0.0002500000"
         ],
-        "US West (Oregon)": [
+        "US West (Oregon) (StartingRange: 2000000, EndingRange: Inf)": [
             "0.0002500000"
         ],
-        "US East (Ohio)": [
+        "US East (Ohio) (StartingRange: 2000000, EndingRange: Inf)": [
             "0.0002500000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (StartingRange: 2000000, EndingRange: Inf)": [
             "0.0002500000"
         ],
-        "EU (London)": [
+        "EU (London) (StartingRange: 2000000, EndingRange: Inf)": [
             "0.0002500000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (StartingRange: 2000000, EndingRange: Inf)": [
             "0.0002500000"
         ],
-        "Canada (Central)": [
+        "Canada (Central) (StartingRange: 2000000, EndingRange: Inf)": [
             "0.0002500000"
         ],
-        "Asia Pacific (Sydney)": [
+        "Asia Pacific (Sydney) (StartingRange: 2000000, EndingRange: Inf)": [
             "0.0002500000"
         ],
-        "AWS GovCloud (US)": [
+        "AWS GovCloud (US) (StartingRange: 2000000, EndingRange: Inf)": [
             "0.0002500000"
         ]
     },
     "PHIDetection Batching Tier2": {
-        "Regionless": [
+        "Default": [
             "0.0005000000"
         ],
-        "US West (Oregon)": [
+        "US West (Oregon) (StartingRange: 1000000, EndingRange: 2000000)": [
             "0.0005000000"
         ],
-        "US East (Ohio)": [
+        "US East (Ohio) (StartingRange: 1000000, EndingRange: 2000000)": [
             "0.0005000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (StartingRange: 1000000, EndingRange: 2000000)": [
             "0.0005000000"
         ],
-        "EU (London)": [
+        "EU (London) (StartingRange: 1000000, EndingRange: 2000000)": [
             "0.0005000000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (StartingRange: 1000000, EndingRange: 2000000)": [
             "0.0005000000"
         ],
-        "Canada (Central)": [
+        "Canada (Central) (StartingRange: 1000000, EndingRange: 2000000)": [
             "0.0005000000"
         ],
-        "Asia Pacific (Sydney)": [
+        "Asia Pacific (Sydney) (StartingRange: 1000000, EndingRange: 2000000)": [
             "0.0005000000"
         ],
-        "AWS GovCloud (US)": [
+        "AWS GovCloud (US) (StartingRange: 1000000, EndingRange: 2000000)": [
             "0.0005000000"
         ]
     },
     "DetectPHI": {
-        "Regionless": [
+        "Default": [
             "0.0014000000"
         ],
-        "US West (Oregon)": [
+        "US West (Oregon) (StartingRange: 0, EndingRange: 1000000)": [
             "0.0014000000"
         ],
-        "US East (Ohio)": [
+        "US East (Ohio) (StartingRange: 0, EndingRange: 1000000)": [
             "0.0014000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (StartingRange: 0, EndingRange: 1000000)": [
             "0.0014000000"
         ],
-        "EU (London)": [
+        "EU (London) (StartingRange: 0, EndingRange: 1000000)": [
             "0.0014000000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (StartingRange: 0, EndingRange: 1000000)": [
             "0.0014000000"
         ],
-        "Canada (Central)": [
+        "Canada (Central) (StartingRange: 0, EndingRange: 1000000)": [
             "0.0014000000"
         ],
-        "Asia Pacific (Sydney)": [
+        "Asia Pacific (Sydney) (StartingRange: 0, EndingRange: 1000000)": [
             "0.0014000000"
         ],
-        "AWS GovCloud (US)": [
+        "AWS GovCloud (US) (StartingRange: 0, EndingRange: 1000000)": [
             "0.0014000000"
         ]
     },
     "ICD10CMInference Batching": {
-        "Regionless": [
+        "Default": [
             "0.0005000000"
         ],
-        "US West (Oregon)": [
+        "US West (Oregon) (StartingRange: 0, EndingRange: 1000000)": [
             "0.0005000000"
         ],
-        "US East (Ohio)": [
+        "US East (Ohio) (StartingRange: 0, EndingRange: 1000000)": [
             "0.0005000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (StartingRange: 0, EndingRange: 1000000)": [
             "0.0005000000"
         ],
-        "EU (London)": [
+        "EU (London) (StartingRange: 0, EndingRange: 1000000)": [
             "0.0005000000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (StartingRange: 0, EndingRange: 1000000)": [
             "0.0005000000"
         ],
-        "Canada (Central)": [
+        "Canada (Central) (StartingRange: 0, EndingRange: 1000000)": [
             "0.0005000000"
         ],
-        "Asia Pacific (Sydney)": [
+        "Asia Pacific (Sydney) (StartingRange: 0, EndingRange: 1000000)": [
             "0.0005000000"
         ],
-        "AWS GovCloud (US)": [
+        "AWS GovCloud (US) (StartingRange: 0, EndingRange: 1000000)": [
             "0.0005000000"
         ]
     },
     "DetectEntities": {
-        "Regionless": [
+        "Default": [
             "0.0100000000"
         ],
-        "US West (Oregon)": [
+        "US West (Oregon) (StartingRange: 0, EndingRange: 1000000)": [
             "0.0100000000"
         ],
-        "US East (Ohio)": [
+        "US East (Ohio) (StartingRange: 0, EndingRange: 1000000)": [
             "0.0100000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (StartingRange: 0, EndingRange: 1000000)": [
             "0.0100000000"
         ],
-        "EU (London)": [
+        "EU (London) (StartingRange: 0, EndingRange: 1000000)": [
             "0.0100000000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (StartingRange: 0, EndingRange: 1000000)": [
             "0.0100000000"
         ],
-        "Canada (Central)": [
+        "Canada (Central) (StartingRange: 0, EndingRange: 1000000)": [
             "0.0100000000"
         ],
-        "Asia Pacific (Sydney)": [
+        "Asia Pacific (Sydney) (StartingRange: 0, EndingRange: 1000000)": [
             "0.0100000000"
         ],
-        "AWS GovCloud (US)": [
+        "AWS GovCloud (US) (StartingRange: 0, EndingRange: 1000000)": [
             "0.0100000000"
         ]
     },
     "ICD10CMInference Batching Tier2": {
-        "Regionless": [
+        "Default": [
             "0.0005000000"
         ],
-        "US West (Oregon)": [
+        "US West (Oregon) (StartingRange: 1000000, EndingRange: 2000000)": [
             "0.0005000000"
         ],
-        "US East (Ohio)": [
+        "US East (Ohio) (StartingRange: 1000000, EndingRange: 2000000)": [
             "0.0005000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (StartingRange: 1000000, EndingRange: 2000000)": [
             "0.0005000000"
         ],
-        "EU (London)": [
+        "EU (London) (StartingRange: 1000000, EndingRange: 2000000)": [
             "0.0005000000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (StartingRange: 1000000, EndingRange: 2000000)": [
             "0.0005000000"
         ],
-        "Canada (Central)": [
+        "Canada (Central) (StartingRange: 1000000, EndingRange: 2000000)": [
             "0.0005000000"
         ],
-        "Asia Pacific (Sydney)": [
+        "Asia Pacific (Sydney) (StartingRange: 1000000, EndingRange: 2000000)": [
             "0.0005000000"
         ],
-        "AWS GovCloud (US)": [
+        "AWS GovCloud (US) (StartingRange: 1000000, EndingRange: 2000000)": [
             "0.0005000000"
         ]
     },
     "InferSNOMEDCT": {
-        "Regionless": [
+        "Default": [
             "0.0075000000"
         ],
-        "US West (Oregon)": [
+        "US West (Oregon) (StartingRange: 0, EndingRange: 1000000)": [
             "0.0075000000"
         ],
-        "US East (Ohio)": [
+        "US East (Ohio) (StartingRange: 0, EndingRange: 1000000)": [
             "0.0075000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (StartingRange: 0, EndingRange: 1000000)": [
             "0.0075000000"
         ],
-        "EU (London)": [
+        "EU (London) (StartingRange: 0, EndingRange: 1000000)": [
             "0.0075000000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (StartingRange: 0, EndingRange: 1000000)": [
             "0.0075000000"
         ],
-        "Canada (Central)": [
+        "Canada (Central) (StartingRange: 0, EndingRange: 1000000)": [
             "0.0075000000"
         ],
-        "Asia Pacific (Sydney)": [
+        "Asia Pacific (Sydney) (StartingRange: 0, EndingRange: 1000000)": [
             "0.0075000000"
         ],
-        "AWS GovCloud (US)": [
+        "AWS GovCloud (US) (StartingRange: 0, EndingRange: 1000000)": [
             "0.0075000000"
         ]
     },
     "EntitiesDetection Batching Tier2": {
-        "Regionless": [
+        "Default": [
             "0.0050000000"
         ],
-        "US West (Oregon)": [
+        "US West (Oregon) (StartingRange: 1000000, EndingRange: 2000000)": [
             "0.0050000000"
         ],
-        "US East (Ohio)": [
+        "US East (Ohio) (StartingRange: 1000000, EndingRange: 2000000)": [
             "0.0050000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (StartingRange: 1000000, EndingRange: 2000000)": [
             "0.0050000000"
         ],
-        "EU (London)": [
+        "EU (London) (StartingRange: 1000000, EndingRange: 2000000)": [
             "0.0050000000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (StartingRange: 1000000, EndingRange: 2000000)": [
             "0.0050000000"
         ],
-        "Canada (Central)": [
+        "Canada (Central) (StartingRange: 1000000, EndingRange: 2000000)": [
             "0.0050000000"
         ],
-        "Asia Pacific (Sydney)": [
+        "Asia Pacific (Sydney) (StartingRange: 1000000, EndingRange: 2000000)": [
             "0.0050000000"
         ],
-        "AWS GovCloud (US)": [
+        "AWS GovCloud (US) (StartingRange: 1000000, EndingRange: 2000000)": [
             "0.0050000000"
         ]
     },
     "SNOMEDCTInference Batching Tier3": {
-        "Regionless": [
+        "Default": [
             "0.0007500000"
         ],
-        "US West (Oregon)": [
+        "US West (Oregon) (StartingRange: 2000000, EndingRange: Inf)": [
             "0.0007500000"
         ],
-        "US East (Ohio)": [
+        "US East (Ohio) (StartingRange: 2000000, EndingRange: Inf)": [
             "0.0007500000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (StartingRange: 2000000, EndingRange: Inf)": [
             "0.0007500000"
         ],
-        "EU (London)": [
+        "EU (London) (StartingRange: 2000000, EndingRange: Inf)": [
             "0.0007500000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (StartingRange: 2000000, EndingRange: Inf)": [
             "0.0007500000"
         ],
-        "Canada (Central)": [
+        "Canada (Central) (StartingRange: 2000000, EndingRange: Inf)": [
             "0.0007500000"
         ],
-        "Asia Pacific (Sydney)": [
+        "Asia Pacific (Sydney) (StartingRange: 2000000, EndingRange: Inf)": [
             "0.0007500000"
         ],
-        "AWS GovCloud (US)": [
+        "AWS GovCloud (US) (StartingRange: 2000000, EndingRange: Inf)": [
             "0.0007500000"
         ]
     },
     "InferSNOMEDCT Tier2": {
-        "Regionless": [
+        "Default": [
             "0.0037500000"
         ],
-        "US West (Oregon)": [
+        "US West (Oregon) (StartingRange: 1000000, EndingRange: 2000000)": [
             "0.0037500000"
         ],
-        "US East (Ohio)": [
+        "US East (Ohio) (StartingRange: 1000000, EndingRange: 2000000)": [
             "0.0037500000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (StartingRange: 1000000, EndingRange: 2000000)": [
             "0.0037500000"
         ],
-        "EU (London)": [
+        "EU (London) (StartingRange: 1000000, EndingRange: 2000000)": [
             "0.0037500000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (StartingRange: 1000000, EndingRange: 2000000)": [
             "0.0037500000"
         ],
-        "Canada (Central)": [
+        "Canada (Central) (StartingRange: 1000000, EndingRange: 2000000)": [
             "0.0037500000"
         ],
-        "Asia Pacific (Sydney)": [
+        "Asia Pacific (Sydney) (StartingRange: 1000000, EndingRange: 2000000)": [
             "0.0037500000"
         ],
-        "AWS GovCloud (US)": [
+        "AWS GovCloud (US) (StartingRange: 1000000, EndingRange: 2000000)": [
             "0.0037500000"
         ]
     },
     "SNOMEDCTInference Batching Tier2": {
-        "Regionless": [
+        "Default": [
             "0.0037500000"
         ],
-        "US West (Oregon)": [
+        "US West (Oregon) (StartingRange: 1000000, EndingRange: 2000000)": [
             "0.0037500000"
         ],
-        "US East (Ohio)": [
+        "US East (Ohio) (StartingRange: 1000000, EndingRange: 2000000)": [
             "0.0037500000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (StartingRange: 1000000, EndingRange: 2000000)": [
             "0.0037500000"
         ],
-        "EU (London)": [
+        "EU (London) (StartingRange: 1000000, EndingRange: 2000000)": [
             "0.0037500000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (StartingRange: 1000000, EndingRange: 2000000)": [
             "0.0037500000"
         ],
-        "Canada (Central)": [
+        "Canada (Central) (StartingRange: 1000000, EndingRange: 2000000)": [
             "0.0037500000"
         ],
-        "Asia Pacific (Sydney)": [
+        "Asia Pacific (Sydney) (StartingRange: 1000000, EndingRange: 2000000)": [
             "0.0037500000"
         ],
-        "AWS GovCloud (US)": [
+        "AWS GovCloud (US) (StartingRange: 1000000, EndingRange: 2000000)": [
             "0.0037500000"
         ]
     },
     "DetectPHI Tier3": {
-        "Regionless": [
+        "Default": [
             "0.0002500000"
         ],
-        "US West (Oregon)": [
+        "US West (Oregon) (StartingRange: 2000000, EndingRange: Inf)": [
             "0.0002500000"
         ],
-        "US East (Ohio)": [
+        "US East (Ohio) (StartingRange: 2000000, EndingRange: Inf)": [
             "0.0002500000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (StartingRange: 2000000, EndingRange: Inf)": [
             "0.0002500000"
         ],
-        "EU (London)": [
+        "EU (London) (StartingRange: 2000000, EndingRange: Inf)": [
             "0.0002500000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (StartingRange: 2000000, EndingRange: Inf)": [
             "0.0002500000"
         ],
-        "Canada (Central)": [
+        "Canada (Central) (StartingRange: 2000000, EndingRange: Inf)": [
             "0.0002500000"
         ],
-        "Asia Pacific (Sydney)": [
+        "Asia Pacific (Sydney) (StartingRange: 2000000, EndingRange: Inf)": [
             "0.0002500000"
         ],
-        "AWS GovCloud (US)": [
+        "AWS GovCloud (US) (StartingRange: 2000000, EndingRange: Inf)": [
             "0.0002500000"
         ]
     },
     "InferRxNorm Tier2": {
-        "Regionless": [
+        "Default": [
             "0.0002500000"
         ],
-        "US West (Oregon)": [
+        "US West (Oregon) (StartingRange: 1000000, EndingRange: 2000000)": [
             "0.0002500000"
         ],
-        "US East (Ohio)": [
+        "US East (Ohio) (StartingRange: 1000000, EndingRange: 2000000)": [
             "0.0002500000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (StartingRange: 1000000, EndingRange: 2000000)": [
             "0.0002500000"
         ],
-        "EU (London)": [
+        "EU (London) (StartingRange: 1000000, EndingRange: 2000000)": [
             "0.0002500000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (StartingRange: 1000000, EndingRange: 2000000)": [
             "0.0002500000"
         ],
-        "Canada (Central)": [
+        "Canada (Central) (StartingRange: 1000000, EndingRange: 2000000)": [
             "0.0002500000"
         ],
-        "Asia Pacific (Sydney)": [
+        "Asia Pacific (Sydney) (StartingRange: 1000000, EndingRange: 2000000)": [
             "0.0002500000"
         ],
-        "AWS GovCloud (US)": [
+        "AWS GovCloud (US) (StartingRange: 1000000, EndingRange: 2000000)": [
             "0.0002500000"
         ]
     },
     "SNOMEDCTInference Batching": {
-        "Regionless": [
+        "Default": [
             "0.0075000000"
         ],
-        "US West (Oregon)": [
+        "US West (Oregon) (StartingRange: 0, EndingRange: 1000000)": [
             "0.0075000000"
         ],
-        "US East (Ohio)": [
+        "US East (Ohio) (StartingRange: 0, EndingRange: 1000000)": [
             "0.0075000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (StartingRange: 0, EndingRange: 1000000)": [
             "0.0075000000"
         ],
-        "EU (London)": [
+        "EU (London) (StartingRange: 0, EndingRange: 1000000)": [
             "0.0075000000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (StartingRange: 0, EndingRange: 1000000)": [
             "0.0075000000"
         ],
-        "Canada (Central)": [
+        "Canada (Central) (StartingRange: 0, EndingRange: 1000000)": [
             "0.0075000000"
         ],
-        "Asia Pacific (Sydney)": [
+        "Asia Pacific (Sydney) (StartingRange: 0, EndingRange: 1000000)": [
             "0.0075000000"
         ],
-        "AWS GovCloud (US)": [
+        "AWS GovCloud (US) (StartingRange: 0, EndingRange: 1000000)": [
             "0.0075000000"
         ]
     },
     "DetectPHI Tier2": {
-        "Regionless": [
+        "Default": [
             "0.0005000000"
         ],
-        "US West (Oregon)": [
+        "US West (Oregon) (StartingRange: 1000000, EndingRange: 2000000)": [
             "0.0005000000"
         ],
-        "US East (Ohio)": [
+        "US East (Ohio) (StartingRange: 1000000, EndingRange: 2000000)": [
             "0.0005000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (StartingRange: 1000000, EndingRange: 2000000)": [
             "0.0005000000"
         ],
-        "EU (London)": [
+        "EU (London) (StartingRange: 1000000, EndingRange: 2000000)": [
             "0.0005000000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (StartingRange: 1000000, EndingRange: 2000000)": [
             "0.0005000000"
         ],
-        "Canada (Central)": [
+        "Canada (Central) (StartingRange: 1000000, EndingRange: 2000000)": [
             "0.0005000000"
         ],
-        "Asia Pacific (Sydney)": [
+        "Asia Pacific (Sydney) (StartingRange: 1000000, EndingRange: 2000000)": [
             "0.0005000000"
         ],
-        "AWS GovCloud (US)": [
+        "AWS GovCloud (US) (StartingRange: 1000000, EndingRange: 2000000)": [
             "0.0005000000"
         ]
     },
     "EntitiesDetection Batching Tier3": {
-        "Regionless": [
+        "Default": [
             "0.0010000000"
         ],
-        "US West (Oregon)": [
+        "US West (Oregon) (StartingRange: 2000000, EndingRange: Inf)": [
             "0.0010000000"
         ],
-        "US East (Ohio)": [
+        "US East (Ohio) (StartingRange: 2000000, EndingRange: Inf)": [
             "0.0010000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (StartingRange: 2000000, EndingRange: Inf)": [
             "0.0010000000"
         ],
-        "EU (London)": [
+        "EU (London) (StartingRange: 2000000, EndingRange: Inf)": [
             "0.0010000000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (StartingRange: 2000000, EndingRange: Inf)": [
             "0.0010000000"
         ],
-        "Canada (Central)": [
+        "Canada (Central) (StartingRange: 2000000, EndingRange: Inf)": [
             "0.0010000000"
         ],
-        "Asia Pacific (Sydney)": [
+        "Asia Pacific (Sydney) (StartingRange: 2000000, EndingRange: Inf)": [
             "0.0010000000"
         ],
-        "AWS GovCloud (US)": [
+        "AWS GovCloud (US) (StartingRange: 2000000, EndingRange: Inf)": [
             "0.0010000000"
         ]
     },
     "PHIDetection Batching": {
-        "Regionless": [
+        "Default": [
             "0.0014000000"
         ],
-        "US West (Oregon)": [
+        "US West (Oregon) (StartingRange: 0, EndingRange: 1000000)": [
             "0.0014000000"
         ],
-        "US East (Ohio)": [
+        "US East (Ohio) (StartingRange: 0, EndingRange: 1000000)": [
             "0.0014000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (StartingRange: 0, EndingRange: 1000000)": [
             "0.0014000000"
         ],
-        "EU (London)": [
+        "EU (London) (StartingRange: 0, EndingRange: 1000000)": [
             "0.0014000000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (StartingRange: 0, EndingRange: 1000000)": [
             "0.0014000000"
         ],
-        "Canada (Central)": [
+        "Canada (Central) (StartingRange: 0, EndingRange: 1000000)": [
             "0.0014000000"
         ],
-        "Asia Pacific (Sydney)": [
+        "Asia Pacific (Sydney) (StartingRange: 0, EndingRange: 1000000)": [
             "0.0014000000"
         ],
-        "AWS GovCloud (US)": [
+        "AWS GovCloud (US) (StartingRange: 0, EndingRange: 1000000)": [
             "0.0014000000"
         ]
     },
     "InferICD10CM Tier3": {
-        "Regionless": [
+        "Default": [
             "0.0002500000"
         ],
-        "US West (Oregon)": [
+        "US West (Oregon) (StartingRange: 2000000, EndingRange: Inf)": [
             "0.0002500000"
         ],
-        "US East (Ohio)": [
+        "US East (Ohio) (StartingRange: 2000000, EndingRange: Inf)": [
             "0.0002500000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (StartingRange: 2000000, EndingRange: Inf)": [
             "0.0002500000"
         ],
-        "EU (London)": [
+        "EU (London) (StartingRange: 2000000, EndingRange: Inf)": [
             "0.0002500000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (StartingRange: 2000000, EndingRange: Inf)": [
             "0.0002500000"
         ],
-        "Canada (Central)": [
+        "Canada (Central) (StartingRange: 2000000, EndingRange: Inf)": [
             "0.0002500000"
         ],
-        "Asia Pacific (Sydney)": [
+        "Asia Pacific (Sydney) (StartingRange: 2000000, EndingRange: Inf)": [
             "0.0002500000"
         ],
-        "AWS GovCloud (US)": [
+        "AWS GovCloud (US) (StartingRange: 2000000, EndingRange: Inf)": [
             "0.0002500000"
         ]
     },
     "InferRxNorm Tier3": {
-        "Regionless": [
+        "Default": [
             "0.0002500000"
         ],
-        "US West (Oregon)": [
+        "US West (Oregon) (StartingRange: 2000000, EndingRange: Inf)": [
             "0.0002500000"
         ],
-        "US East (Ohio)": [
+        "US East (Ohio) (StartingRange: 2000000, EndingRange: Inf)": [
             "0.0002500000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (StartingRange: 2000000, EndingRange: Inf)": [
             "0.0002500000"
         ],
-        "EU (London)": [
+        "EU (London) (StartingRange: 2000000, EndingRange: Inf)": [
             "0.0002500000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (StartingRange: 2000000, EndingRange: Inf)": [
             "0.0002500000"
         ],
-        "Canada (Central)": [
+        "Canada (Central) (StartingRange: 2000000, EndingRange: Inf)": [
             "0.0002500000"
         ],
-        "Asia Pacific (Sydney)": [
+        "Asia Pacific (Sydney) (StartingRange: 2000000, EndingRange: Inf)": [
             "0.0002500000"
         ],
-        "AWS GovCloud (US)": [
+        "AWS GovCloud (US) (StartingRange: 2000000, EndingRange: Inf)": [
             "0.0002500000"
         ]
     },
     "RxNormInference Batching": {
-        "Regionless": [
+        "Default": [
             "0.0002500000"
         ],
-        "US West (Oregon)": [
+        "US West (Oregon) (StartingRange: 0, EndingRange: 1000000)": [
             "0.0002500000"
         ],
-        "US East (Ohio)": [
+        "US East (Ohio) (StartingRange: 0, EndingRange: 1000000)": [
             "0.0002500000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (StartingRange: 0, EndingRange: 1000000)": [
             "0.0002500000"
         ],
-        "EU (London)": [
+        "EU (London) (StartingRange: 0, EndingRange: 1000000)": [
             "0.0002500000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (StartingRange: 0, EndingRange: 1000000)": [
             "0.0002500000"
         ],
-        "Canada (Central)": [
+        "Canada (Central) (StartingRange: 0, EndingRange: 1000000)": [
             "0.0002500000"
         ],
-        "Asia Pacific (Sydney)": [
+        "Asia Pacific (Sydney) (StartingRange: 0, EndingRange: 1000000)": [
             "0.0002500000"
         ],
-        "AWS GovCloud (US)": [
+        "AWS GovCloud (US) (StartingRange: 0, EndingRange: 1000000)": [
             "0.0002500000"
         ]
     },
     "EntitiesDetection Batching": {
-        "Regionless": [
+        "Default": [
             "0.0100000000"
         ],
-        "US West (Oregon)": [
+        "US West (Oregon) (StartingRange: 0, EndingRange: 1000000)": [
             "0.0100000000"
         ],
-        "US East (Ohio)": [
+        "US East (Ohio) (StartingRange: 0, EndingRange: 1000000)": [
             "0.0100000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (StartingRange: 0, EndingRange: 1000000)": [
             "0.0100000000"
         ],
-        "EU (London)": [
+        "EU (London) (StartingRange: 0, EndingRange: 1000000)": [
             "0.0100000000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (StartingRange: 0, EndingRange: 1000000)": [
             "0.0100000000"
         ],
-        "Canada (Central)": [
+        "Canada (Central) (StartingRange: 0, EndingRange: 1000000)": [
             "0.0100000000"
         ],
-        "Asia Pacific (Sydney)": [
+        "Asia Pacific (Sydney) (StartingRange: 0, EndingRange: 1000000)": [
             "0.0100000000"
         ],
-        "AWS GovCloud (US)": [
+        "AWS GovCloud (US) (StartingRange: 0, EndingRange: 1000000)": [
             "0.0100000000"
         ]
     },
     "InferSNOMEDCT Tier3": {
-        "Regionless": [
+        "Default": [
             "0.0007500000"
         ],
-        "US West (Oregon)": [
+        "US West (Oregon) (StartingRange: 2000000, EndingRange: Inf)": [
             "0.0007500000"
         ],
-        "US East (Ohio)": [
+        "US East (Ohio) (StartingRange: 2000000, EndingRange: Inf)": [
             "0.0007500000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (StartingRange: 2000000, EndingRange: Inf)": [
             "0.0007500000"
         ],
-        "EU (London)": [
+        "EU (London) (StartingRange: 2000000, EndingRange: Inf)": [
             "0.0007500000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (StartingRange: 2000000, EndingRange: Inf)": [
             "0.0007500000"
         ],
-        "Canada (Central)": [
+        "Canada (Central) (StartingRange: 2000000, EndingRange: Inf)": [
             "0.0007500000"
         ],
-        "Asia Pacific (Sydney)": [
+        "Asia Pacific (Sydney) (StartingRange: 2000000, EndingRange: Inf)": [
             "0.0007500000"
         ],
-        "AWS GovCloud (US)": [
+        "AWS GovCloud (US) (StartingRange: 2000000, EndingRange: Inf)": [
             "0.0007500000"
         ]
     },
     "InferICD10CM Tier2": {
-        "Regionless": [
+        "Default": [
             "0.0005000000"
         ],
-        "US West (Oregon)": [
+        "US West (Oregon) (StartingRange: 1000000, EndingRange: 2000000)": [
             "0.0005000000"
         ],
-        "US East (Ohio)": [
+        "US East (Ohio) (StartingRange: 1000000, EndingRange: 2000000)": [
             "0.0005000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (StartingRange: 1000000, EndingRange: 2000000)": [
             "0.0005000000"
         ],
-        "EU (London)": [
+        "EU (London) (StartingRange: 1000000, EndingRange: 2000000)": [
             "0.0005000000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (StartingRange: 1000000, EndingRange: 2000000)": [
             "0.0005000000"
         ],
-        "Canada (Central)": [
+        "Canada (Central) (StartingRange: 1000000, EndingRange: 2000000)": [
             "0.0005000000"
         ],
-        "Asia Pacific (Sydney)": [
+        "Asia Pacific (Sydney) (StartingRange: 1000000, EndingRange: 2000000)": [
             "0.0005000000"
         ],
-        "AWS GovCloud (US)": [
+        "AWS GovCloud (US) (StartingRange: 1000000, EndingRange: 2000000)": [
             "0.0005000000"
         ]
     },
     "InferICD10CM": {
-        "Regionless": [
+        "Default": [
             "0.0005000000"
         ],
-        "US West (Oregon)": [
+        "US West (Oregon) (StartingRange: 0, EndingRange: 1000000)": [
             "0.0005000000"
         ],
-        "US East (Ohio)": [
+        "US East (Ohio) (StartingRange: 0, EndingRange: 1000000)": [
             "0.0005000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (StartingRange: 0, EndingRange: 1000000)": [
             "0.0005000000"
         ],
-        "EU (London)": [
+        "EU (London) (StartingRange: 0, EndingRange: 1000000)": [
             "0.0005000000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (StartingRange: 0, EndingRange: 1000000)": [
             "0.0005000000"
         ],
-        "Canada (Central)": [
+        "Canada (Central) (StartingRange: 0, EndingRange: 1000000)": [
             "0.0005000000"
         ],
-        "Asia Pacific (Sydney)": [
+        "Asia Pacific (Sydney) (StartingRange: 0, EndingRange: 1000000)": [
             "0.0005000000"
         ],
-        "AWS GovCloud (US)": [
+        "AWS GovCloud (US) (StartingRange: 0, EndingRange: 1000000)": [
             "0.0005000000"
         ]
     },
     "DetectEntities Tier3": {
-        "Regionless": [
+        "Default": [
             "0.0010000000"
         ],
-        "US West (Oregon)": [
+        "US West (Oregon) (StartingRange: 2000000, EndingRange: Inf)": [
             "0.0010000000"
         ],
-        "US East (Ohio)": [
+        "US East (Ohio) (StartingRange: 2000000, EndingRange: Inf)": [
             "0.0010000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (StartingRange: 2000000, EndingRange: Inf)": [
             "0.0010000000"
         ],
-        "EU (London)": [
+        "EU (London) (StartingRange: 2000000, EndingRange: Inf)": [
             "0.0010000000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (StartingRange: 2000000, EndingRange: Inf)": [
             "0.0010000000"
         ],
-        "Canada (Central)": [
+        "Canada (Central) (StartingRange: 2000000, EndingRange: Inf)": [
             "0.0010000000"
         ],
-        "Asia Pacific (Sydney)": [
+        "Asia Pacific (Sydney) (StartingRange: 2000000, EndingRange: Inf)": [
             "0.0010000000"
         ],
-        "AWS GovCloud (US)": [
+        "AWS GovCloud (US) (StartingRange: 2000000, EndingRange: Inf)": [
             "0.0010000000"
         ]
     },
     "RxNormInference Batching Tier2": {
-        "Regionless": [
+        "Default": [
             "0.0002500000"
         ],
-        "US West (Oregon)": [
+        "US West (Oregon) (StartingRange: 1000000, EndingRange: 2000000)": [
             "0.0002500000"
         ],
-        "US East (Ohio)": [
+        "US East (Ohio) (StartingRange: 1000000, EndingRange: 2000000)": [
             "0.0002500000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (StartingRange: 1000000, EndingRange: 2000000)": [
             "0.0002500000"
         ],
-        "EU (London)": [
+        "EU (London) (StartingRange: 1000000, EndingRange: 2000000)": [
             "0.0002500000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (StartingRange: 1000000, EndingRange: 2000000)": [
             "0.0002500000"
         ],
-        "Canada (Central)": [
+        "Canada (Central) (StartingRange: 1000000, EndingRange: 2000000)": [
             "0.0002500000"
         ],
-        "Asia Pacific (Sydney)": [
+        "Asia Pacific (Sydney) (StartingRange: 1000000, EndingRange: 2000000)": [
             "0.0002500000"
         ],
-        "AWS GovCloud (US)": [
+        "AWS GovCloud (US) (StartingRange: 1000000, EndingRange: 2000000)": [
             "0.0002500000"
         ]
     }

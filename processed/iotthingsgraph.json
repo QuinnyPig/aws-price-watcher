@@ -1,6 +1,6 @@
 {
     "Steps Executed": {
-        "Regionless": [
+        "Default": [
             "0.0000450000"
         ],
         "US West (Oregon)": [
@@ -23,7 +23,7 @@
         ]
     },
     "Deployments": {
-        "Regionless": [
+        "Default": [
             "0.0095000000"
         ],
         "US West (Oregon)": [
@@ -46,7 +46,7 @@
         ]
     },
     "Global Deployments": {
-        "Regionless": [
+        "Default": [
             "0.0095000000"
         ],
         "Any": [

@@ -1,6 +1,6 @@
 {
     "Hourly charge for IPv4 address in a contiguous block of IPv4 address per Hrs": {
-        "Regionless": [
+        "Default": [
             "0.0080000000"
         ],
         "US West (Seattle)": [
@@ -206,7 +206,7 @@
         ]
     },
     "Hourly charge for Idle Public IPv4 Addresses per Hrs": {
-        "Regionless": [
+        "Default": [
             "0.0050000000"
         ],
         "US West (Seattle)": [
@@ -412,7 +412,7 @@
         ]
     },
     "Hourly charge for In use Public IPv4 Addresses per Hrs": {
-        "Regionless": [
+        "Default": [
             "0.0050000000"
         ],
         "US West (Seattle)": [
@@ -618,7 +618,7 @@
         ]
     },
     "Hourly charge for Verified Access Applications per hours Tier2": {
-        "Regionless": [
+        "Default": [
             "0.2000000000"
         ],
         "US West (Oregon)": [
@@ -683,7 +683,7 @@
         ]
     },
     "Charge per ENI processed by VPC Access Analyzer per NetworkInterface Assessment": {
-        "Regionless": [
+        "Default": [
             "0.0020000000"
         ],
         "US West (Oregon)": [
@@ -754,7 +754,7 @@
         ]
     },
     "Hourly charge for Client VPN connections per Hourly": {
-        "Regionless": [
+        "Default": [
             "0.0500000000"
         ],
         "US West (Oregon)": [
@@ -849,7 +849,7 @@
         ]
     },
     "Hourly charge for Traffic Mirroring Source per hour": {
-        "Regionless": [
+        "Default": [
             "0.0150000000"
         ],
         "US West (Oregon)": [
@@ -956,7 +956,7 @@
         ]
     },
     "Charge per GB Data Processed by VPC Lattice Service per GB": {
-        "Regionless": [
+        "Default": [
             "0.0250000000"
         ],
         "US West (Oregon)": [
@@ -1045,7 +1045,7 @@
         ]
     },
     "Charge for per GB data processed by AWS Transit Gateway for Multicast receivers per GigaBytes": {
-        "Regionless": [
+        "Default": [
             "0.0200000000"
         ],
         "US West (Oregon)": [
@@ -1149,7 +1149,7 @@
         ]
     },
     "Charge for per GB data processed by AWS Transit Gateway for Multicast receivers per GB": {
-        "Regionless": [
+        "Default": [
             "0.0200000000"
         ],
         "US West (Oregon)": [
@@ -1253,7 +1253,7 @@
         ]
     },
     "Charge per Request per hour processed by VPC Lattice Service per Requests": {
-        "Regionless": [
+        "Default": [
             "0.0000001000"
         ],
         "US West (Oregon)": [
@@ -1342,7 +1342,7 @@
         ]
     },
     "Hourly charge for AWS Gateway Load Balancer VPC Endpoint per Hrs": {
-        "Regionless": [
+        "Default": [
             "0.0100000000"
         ],
         "US West (Oregon)": [
@@ -1449,7 +1449,7 @@
         ]
     },
     "Hourly charge for Client VPN Endpoints per Hourly": {
-        "Regionless": [
+        "Default": [
             "0.1000000000"
         ],
         "US West (Oregon)": [
@@ -1544,7 +1544,7 @@
         ]
     },
     "Free for the first 300 000 Requests per hour processed by VPC Lattice Service per Requests": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -1633,7 +1633,7 @@
         ]
     },
     "Hourly charge for Active IP Addresses per hours": {
-        "Regionless": [
+        "Default": [
             "0.0002700000"
         ],
         "US West (Oregon)": [
@@ -1740,7 +1740,7 @@
         ]
     },
     "Hourly charge for Transit Gateway Connect attachments per hour": {
-        "Regionless": [
+        "Default": [
             "0.0500000000"
         ],
         "US West (Oregon)": [
@@ -1847,7 +1847,7 @@
         ]
     },
     "Hourly charge for VPC Endpoints per Hrs": {
-        "Regionless": [
+        "Default": [
             "0.0100000000"
         ],
         "US West (Oregon)": [
@@ -1954,7 +1954,7 @@
         ]
     },
     "Hourly charge for Verified Access Applications per hours Tier1": {
-        "Regionless": [
+        "Default": [
             "0.2700000000"
         ],
         "US West (Oregon)": [
@@ -2019,7 +2019,7 @@
         ]
     },
     "Hourly charge for Transit Gateway Peering Attachments per hour": {
-        "Regionless": [
+        "Default": [
             "0.0500000000"
         ],
         "US West (Oregon)": [
@@ -2126,7 +2126,7 @@
         ]
     },
     "Charge for per GB data processed by VPC Endpoints per GB from 1048576 to 5242880": {
-        "Regionless": [
+        "Default": [
             "0.0060000000"
         ],
         "US West (Oregon)": [
@@ -2233,7 +2233,7 @@
         ]
     },
     "Charge per analysis processed by VPC Reachability Analyzer per ReachabilityAnalyses": {
-        "Regionless": [
+        "Default": [
             "0.1000000000"
         ],
         "US West (Oregon)": [
@@ -2304,7 +2304,7 @@
         ]
     },
     "Charge for per GB data processed by AWS Transit Gateways for Site to-Site VPN attachments per GigaBytes": {
-        "Regionless": [
+        "Default": [
             "0.0200000000"
         ],
         "US West (Oregon)": [
@@ -2411,7 +2411,7 @@
         ]
     },
     "CreateVpnConnection per Hrs": {
-        "Regionless": [
+        "Default": [
             "0.0500000000"
         ],
         "US West (Oregon)": [
@@ -2518,7 +2518,7 @@
         ]
     },
     "CreateVpnConnection per hours": {
-        "Regionless": [
+        "Default": [
             "0.0500000000"
         ],
         "US West (Oregon)": [
@@ -2625,7 +2625,7 @@
         ]
     },
     "Charge per Connection per hour processed by VPC Lattice Service per Connections": {
-        "Regionless": [
+        "Default": [
             "0.0000001000"
         ],
         "US West (Oregon)": [
@@ -2714,7 +2714,7 @@
         ]
     },
     "Charge for per GB data processed by VPC Endpoints per GB from 5242880 to Inf": {
-        "Regionless": [
+        "Default": [
             "0.0040000000"
         ],
         "US West (Oregon)": [
@@ -2821,7 +2821,7 @@
         ]
     },
     "Hourly charge for Transit Gateway AWS Direct Connect Gateway attachments per hour": {
-        "Regionless": [
+        "Default": [
             "0.0500000000"
         ],
         "US West (Oregon)": [
@@ -2928,7 +2928,7 @@
         ]
     },
     "Charge per Hour per VPC Lattice Service per Hrs": {
-        "Regionless": [
+        "Default": [
             "0.0250000000"
         ],
         "US West (Oregon)": [
@@ -3017,7 +3017,7 @@
         ]
     },
     "Hourly charge for Transit Gateway VPC Attachments per hour": {
-        "Regionless": [
+        "Default": [
             "0.0500000000"
         ],
         "US West (Oregon)": [
@@ -3124,7 +3124,7 @@
         ]
     },
     "Data processed by AWS Verified Access per GB": {
-        "Regionless": [
+        "Default": [
             "0.0200000000"
         ],
         "US West (Oregon)": [
@@ -3189,7 +3189,7 @@
         ]
     },
     "Charge for per GB data processed by VPC Endpoints per GB from 0 to 1048576": {
-        "Regionless": [
+        "Default": [
             "0.0100000000"
         ],
         "US West (Oregon)": [
@@ -3296,7 +3296,7 @@
         ]
     },
     "Hourly charge for Transit Gateway Site to-Site VPN attachments per hour": {
-        "Regionless": [
+        "Default": [
             "0.0500000000"
         ],
         "US West (Oregon)": [
@@ -3403,7 +3403,7 @@
         ]
     },
     "Free for the first 300 000 Connections per hour processed by VPC Lattice Service per Connections": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -3492,7 +3492,7 @@
         ]
     },
     "Charge for per GB data processed by AWS Transit Gateways for VPC attachments per GigaBytes": {
-        "Regionless": [
+        "Default": [
             "0.0200000000"
         ],
         "US West (Oregon)": [
@@ -3599,7 +3599,7 @@
         ]
     },
     "Charge for per GB data processed by AWS Gateway Load Balancer VPC Endpoint per GB": {
-        "Regionless": [
+        "Default": [
             "0.0035000000"
         ],
         "US West (Oregon)": [
@@ -3706,7 +3706,7 @@
         ]
     },
     "Charge for per GB data processed by AWS Transit Gateways for AWS Direct Connect Gateway attachments per GigaBytes": {
-        "Regionless": [
+        "Default": [
             "0.0200000000"
         ],
         "US West (Oregon)": [
@@ -3813,7 +3813,7 @@
         ]
     },
     "Charge per GB data processed by AWS Transit Gateway for Multicast receivers per GigaBytes": {
-        "Regionless": [
+        "Default": [
             "0.0200000000"
         ],
         "Mexico (Central)": [
@@ -3827,7 +3827,7 @@
         ]
     },
     "CreateVpnConnection GovCloud Only FIPS140 2 per Hrs": {
-        "Regionless": [
+        "Default": [
             "0.0650000000"
         ],
         "AWS GovCloud (US-East)": [

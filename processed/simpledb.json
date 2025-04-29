@@ -1,6 +1,6 @@
 {
     "Database Utilization per Hrs": {
-        "Regionless": [
+        "Default": [
             "0.1400000000"
         ],
         "US West (Oregon)": [
@@ -29,7 +29,7 @@
         ]
     },
     "Database Storage per GB-Mo": {
-        "Regionless": [
+        "Default": [
             "0.2500000000"
         ],
         "US West (Oregon)": [

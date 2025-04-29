@@ -1,6 +1,6 @@
 {
     "Developer Tools Action ActionMinute": {
-        "Regionless": [
+        "Default": [
             "0.1000000000"
         ],
         "US West (Oregon)": [
@@ -74,7 +74,7 @@
         ]
     },
     "Developer Tools Multi-Account Action ActionMinuteAccount": {
-        "Regionless": [
+        "Default": [
             "0.1000000000"
         ],
         "US West (Oregon)": [

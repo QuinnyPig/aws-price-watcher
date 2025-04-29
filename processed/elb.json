@@ -1,6 +1,6 @@
 {
     "Application Load Balancer Idle Hours": {
-        "Regionless": [
+        "Default": [
             "0.0108000000"
         ],
         "US West (Verizon) - Seattle": [
@@ -104,7 +104,7 @@
         ]
     },
     "Application Load Balancer LCU Hours": {
-        "Regionless": [
+        "Default": [
             "0.0108000000"
         ],
         "US West (Verizon) - Seattle": [
@@ -376,7 +376,7 @@
         ]
     },
     "Application Load Balancer Hours": {
-        "Regionless": [
+        "Default": [
             "0.0303750000"
         ],
         "US West (Verizon) - Seattle": [
@@ -648,7 +648,7 @@
         ]
     },
     "AWS Outposts Application Load Balancer Hours": {
-        "Regionless": [
+        "Default": [
             "0.0225000000"
         ],
         "US West (Oregon)": [
@@ -740,7 +740,7 @@
         ]
     },
     "TS Application Load Balancer Hours": {
-        "Regionless": [
+        "Default": [
             "0.0063000000"
         ],
         "US West (Oregon)": [
@@ -847,7 +847,7 @@
         ]
     },
     "Classic Load Balancer Data": {
-        "Regionless": [
+        "Default": [
             "0.0080000000"
         ],
         "US West (Oregon)": [
@@ -954,7 +954,7 @@
         ]
     },
     "Network Load Balancer LCU Hours": {
-        "Regionless": [
+        "Default": [
             "0.0060000000"
         ],
         "US West (Oregon)": [
@@ -1061,7 +1061,7 @@
         ]
     },
     "Gateway Load Balancer Hours": {
-        "Regionless": [
+        "Default": [
             "0.0125000000"
         ],
         "US West (Oregon)": [
@@ -1168,7 +1168,7 @@
         ]
     },
     "Classic Load Balancer Hours": {
-        "Regionless": [
+        "Default": [
             "0.0250000000"
         ],
         "US West (Oregon)": [
@@ -1275,7 +1275,7 @@
         ]
     },
     "Application Load Balancer ReservedLCU-Hr": {
-        "Regionless": [
+        "Default": [
             "0.0080000000"
         ],
         "US West (Oregon)": [
@@ -1379,7 +1379,7 @@
         ]
     },
     "Network Load Balancer Hours": {
-        "Regionless": [
+        "Default": [
             "0.0225000000"
         ],
         "US West (Oregon)": [
@@ -1486,7 +1486,7 @@
         ]
     },
     "Gateway Load Balancer LCU Hours": {
-        "Regionless": [
+        "Default": [
             "0.0040000000"
         ],
         "US West (Oregon)": [
@@ -1593,7 +1593,7 @@
         ]
     },
     "AWS Outposts Application Load Balancer LCU Hours": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -1685,7 +1685,7 @@
         ]
     },
     "Classic Load Balancer Idle Hours": {
-        "Regionless": [
+        "Default": [
             "0.0078400000"
         ],
         "Middle East (UAE)": [

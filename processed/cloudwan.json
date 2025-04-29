@@ -1,6 +1,6 @@
 {
     "Connect Connect attachments hour": {
-        "Regionless": [
+        "Default": [
             "0.0650000000"
         ],
         "US West (Oregon)": [
@@ -89,7 +89,7 @@
         ]
     },
     "VPC Core Network Edge hour": {
-        "Regionless": [
+        "Default": [
             "0.5000000000"
         ],
         "US West (Oregon)": [
@@ -178,7 +178,7 @@
         ]
     },
     "VPC VPC attachments GigaBytes": {
-        "Regionless": [
+        "Default": [
             "0.0200000000"
         ],
         "US West (Oregon)": [
@@ -264,7 +264,7 @@
         ]
     },
     "Transit Gateway Core Network Edge TGW Peering hour": {
-        "Regionless": [
+        "Default": [
             "0.0650000000"
         ],
         "US West (Oregon)": [
@@ -353,7 +353,7 @@
         ]
     },
     "VPC VPC Attachments hour": {
-        "Regionless": [
+        "Default": [
             "0.0650000000"
         ],
         "US West (Oregon)": [
@@ -442,7 +442,7 @@
         ]
     },
     "AWS Site-to-Site VPN Site-to-Site VPN attachments hour": {
-        "Regionless": [
+        "Default": [
             "0.0650000000"
         ],
         "US West (Oregon)": [
@@ -531,7 +531,7 @@
         ]
     },
     "AWS Site-to-Site VPN Site-to-Site VPN attachments GigaBytes": {
-        "Regionless": [
+        "Default": [
             "0.0200000000"
         ],
         "US West (Oregon)": [

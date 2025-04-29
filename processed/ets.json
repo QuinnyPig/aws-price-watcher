@@ -1,6 +1,6 @@
 {
     "Audio per minutes": {
-        "Regionless": [
+        "Default": [
             "0.0045000000"
         ],
         "US West (Oregon)": [
@@ -29,7 +29,7 @@
         ]
     },
     "Standard Definition per minutes": {
-        "Regionless": [
+        "Default": [
             "0.0150000000"
         ],
         "US West (Oregon)": [
@@ -58,7 +58,7 @@
         ]
     },
     "High Definition per minutes": {
-        "Regionless": [
+        "Default": [
             "0.0300000000"
         ],
         "US West (Oregon)": [
@@ -87,7 +87,7 @@
         ]
     },
     "Audio FREE Tier per minutes": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "Any": [
@@ -95,7 +95,7 @@
         ]
     },
     "Standard Definition FREE Tier per minutes": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "Any": [
@@ -103,7 +103,7 @@
         ]
     },
     "High Definition FREE Tier per minutes": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "Any": [

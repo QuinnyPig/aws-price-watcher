@@ -1,6 +1,6 @@
 {
     "Sustainability Data Requests per Count Tier100": {
-        "Regionless": [
+        "Default": [
             "6.0000000000"
         ],
         "US West (Portland)": [
@@ -20,7 +20,7 @@
         ]
     },
     "Component SKU Location Combinations Tier1": {
-        "Regionless": [
+        "Default": [
             "0.3000000000"
         ],
         "US West (Portland)": [
@@ -40,7 +40,7 @@
         ]
     },
     "Component SKU Location Combinations per Count 10000": {
-        "Regionless": [
+        "Default": [
             "0.1000000000"
         ],
         "US West (Portland)": [
@@ -60,7 +60,7 @@
         ]
     },
     "Sustainability Data Requests per Count 100": {
-        "Regionless": [
+        "Default": [
             "3.0000000000"
         ],
         "US West (Portland)": [
@@ -80,7 +80,7 @@
         ]
     },
     "SCI Product SKU Location Combinations Tier1": {
-        "Regionless": [
+        "Default": [
             "0.4000000000"
         ],
         "US West (Oregon)": [
@@ -100,7 +100,7 @@
         ]
     },
     "SCI Product SKU Location Combinations Tier2": {
-        "Regionless": [
+        "Default": [
             "0.1300000000"
         ],
         "US West (Oregon)": [
@@ -120,7 +120,7 @@
         ]
     },
     "ADP Product SKU Location Combinations Tier1": {
-        "Regionless": [
+        "Default": [
             "0.3000000000"
         ],
         "US West (Oregon)": [
@@ -140,7 +140,7 @@
         ]
     },
     "ADP Product SKU Location Combinations Tier2": {
-        "Regionless": [
+        "Default": [
             "0.1000000000"
         ],
         "US West (Oregon)": [
@@ -160,7 +160,7 @@
         ]
     },
     "SCDL over 10GBStorage per GB month Tier2": {
-        "Regionless": [
+        "Default": [
             "0.2500000000"
         ],
         "US West (Oregon)": [
@@ -180,7 +180,7 @@
         ]
     },
     "SCDL up to 10GB Storage per hours": {
-        "Regionless": [
+        "Default": [
             "0.2800000000"
         ],
         "US West (Oregon)": [
@@ -200,7 +200,7 @@
         ]
     },
     "SCDL over 10GBStorage per GB month Tier1": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -220,7 +220,7 @@
         ]
     },
     "SCI Product SKU Location Combinations Tier3": {
-        "Regionless": [
+        "Default": [
             "0.0650000000"
         ],
         "US West (Oregon)": [
@@ -240,7 +240,7 @@
         ]
     },
     "ADP Product SKU Location Combinations Tier3": {
-        "Regionless": [
+        "Default": [
             "0.0350000000"
         ],
         "US West (Oregon)": [
@@ -260,7 +260,7 @@
         ]
     },
     "SCDL hourly up to 10 GB storage per hours": {
-        "Regionless": [
+        "Default": [
             "0.2800000000"
         ],
         "US West (Oregon)": [

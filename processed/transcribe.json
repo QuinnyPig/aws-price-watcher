@@ -1,6 +1,6 @@
 {
     "Transcription Job Audio to Text per second from 300000000 to Inf": {
-        "Regionless": [
+        "Default": [
             "0.0001300000"
         ],
         "US West (Oregon)": [
@@ -35,7 +35,7 @@
         ]
     },
     "Transcription Job CallAnalytics Transcribe Call Analytics per seconds from 0 to 15000000": {
-        "Regionless": [
+        "Default": [
             "0.0005000000"
         ],
         "US West (Oregon)": [
@@ -70,7 +70,7 @@
         ]
     },
     "Transcription Job SummaryCallAnalyticsTranscribe Transcribe Call Analytics Summarization per seconds from 0 to 15000000": {
-        "Regionless": [
+        "Default": [
             "0.0000400000"
         ],
         "US West (Oregon)": [
@@ -81,7 +81,7 @@
         ]
     },
     "Transcription Job CallAnalytics Transcribe Call Analytics per seconds from 60000000 to 300000000": {
-        "Regionless": [
+        "Default": [
             "0.0002300000"
         ],
         "US West (Oregon)": [
@@ -95,7 +95,7 @@
         ]
     },
     "Streaming RedactionTranscribeStreaming automatic content redaction per seconds from 300000000 to Inf": {
-        "Regionless": [
+        "Default": [
             "0.0000130000"
         ],
         "US West (Oregon)": [
@@ -121,7 +121,7 @@
         ]
     },
     "Transcription Job ToxicityDetection Toxicity Detection per seconds from 60000000 to 300000000": {
-        "Regionless": [
+        "Default": [
             "0.0000250000"
         ],
         "US West (Oregon)": [
@@ -144,7 +144,7 @@
         ]
     },
     "Transcription Job ToxicityDetection Toxicity Detection per seconds from 0 to 15000000": {
-        "Regionless": [
+        "Default": [
             "0.0000600000"
         ],
         "US West (Oregon)": [
@@ -167,7 +167,7 @@
         ]
     },
     "Transcription Job CallAnalytics Transcribe Call Analytics per seconds from 15000000 to 60000000": {
-        "Regionless": [
+        "Default": [
             "0.0003100000"
         ],
         "US West (Oregon)": [
@@ -202,7 +202,7 @@
         ]
     },
     "Streaming TranscribeStreamingClm Transcribe Custom Language Model per seconds from 60000000 to 300000000": {
-        "Regionless": [
+        "Default": [
             "0.0000430000"
         ],
         "US West (Oregon)": [
@@ -228,7 +228,7 @@
         ]
     },
     "Streaming CallAnalytics Transcribe Call Analytics per seconds from 15000000 to 60000000": {
-        "Regionless": [
+        "Default": [
             "0.0003100000"
         ],
         "US West (Oregon)": [
@@ -257,7 +257,7 @@
         ]
     },
     "Streaming CallAnalytics Transcribe Call Analytics per seconds from 300000000 to Inf": {
-        "Regionless": [
+        "Default": [
             "0.0001900000"
         ],
         "US West (Oregon)": [
@@ -271,7 +271,7 @@
         ]
     },
     "Streaming TranscribeStreamingClm Transcribe Custom Language Model per seconds from 0 to 15000000": {
-        "Regionless": [
+        "Default": [
             "0.0001000000"
         ],
         "US West (Oregon)": [
@@ -321,7 +321,7 @@
         ]
     },
     "Streaming RedactionTranscribeStreaming automatic content redaction per seconds from 0 to 15000000": {
-        "Regionless": [
+        "Default": [
             "0.0000400000"
         ],
         "US West (Oregon)": [
@@ -368,7 +368,7 @@
         ]
     },
     "Streaming Medical per seconds": {
-        "Regionless": [
+        "Default": [
             "0.0012500000"
         ],
         "US West (Oregon)": [
@@ -412,7 +412,7 @@
         ]
     },
     "Transcription Job ToxicityDetection Toxicity Detection per seconds from 300000000 to Inf": {
-        "Regionless": [
+        "Default": [
             "0.0000200000"
         ],
         "US West (Oregon)": [
@@ -435,7 +435,7 @@
         ]
     },
     "Transcription Job Redaction Audio to Text per Second from 15000000 to 60000000": {
-        "Regionless": [
+        "Default": [
             "0.0000250000"
         ],
         "US West (Oregon)": [
@@ -497,7 +497,7 @@
         ]
     },
     "Streaming CallAnalytics Transcribe Call Analytics per seconds from 60000000 to 300000000": {
-        "Regionless": [
+        "Default": [
             "0.0002300000"
         ],
         "US West (Oregon)": [
@@ -511,7 +511,7 @@
         ]
     },
     "Streaming RedactionTranscribeStreaming automatic content redaction per seconds from 60000000 to 300000000": {
-        "Regionless": [
+        "Default": [
             "0.0000170000"
         ],
         "US West (Oregon)": [
@@ -537,7 +537,7 @@
         ]
     },
     "Transcription Job SummaryCallAnalyticsTranscribe Transcribe Call Analytics Summarization per seconds from 15000000 to 60000000": {
-        "Regionless": [
+        "Default": [
             "0.0000250000"
         ],
         "US West (Oregon)": [
@@ -548,7 +548,7 @@
         ]
     },
     "Transcription Job SummaryCallAnalyticsTranscribe Transcribe Call Analytics Summarization per seconds from 60000000 to 300000000": {
-        "Regionless": [
+        "Default": [
             "0.0000183333"
         ],
         "US West (Oregon)": [
@@ -559,7 +559,7 @@
         ]
     },
     "Streaming per second": {
-        "Regionless": [
+        "Default": [
             "0.0004000000"
         ],
         "US West (Oregon)": [
@@ -612,7 +612,7 @@
         ]
     },
     "Streaming Stream to Text per second from 0 to 15000000": {
-        "Regionless": [
+        "Default": [
             "0.0004000000"
         ],
         "US West (Oregon)": [
@@ -665,7 +665,7 @@
         ]
     },
     "Streaming Stream to Text per second from 60000000 to 300000000": {
-        "Regionless": [
+        "Default": [
             "0.0001700000"
         ],
         "US West (Oregon)": [
@@ -694,7 +694,7 @@
         ]
     },
     "Transcription Job Redaction Audio to Text per Second from 60000000 to 300000000": {
-        "Regionless": [
+        "Default": [
             "0.0000170000"
         ],
         "US West (Oregon)": [
@@ -723,7 +723,7 @@
         ]
     },
     "Transcription Job TranscribeClmAudio Transcribe Custom Language Model per seconds from 15000000 to 60000000": {
-        "Regionless": [
+        "Default": [
             "0.0000630000"
         ],
         "US West (Oregon)": [
@@ -785,7 +785,7 @@
         ]
     },
     "Streaming TranscribeStreamingClm Transcribe Custom Language Model per seconds from 15000000 to 60000000": {
-        "Regionless": [
+        "Default": [
             "0.0000630000"
         ],
         "US West (Oregon)": [
@@ -835,7 +835,7 @@
         ]
     },
     "Transcription Job TranscribeClmAudio per seconds": {
-        "Regionless": [
+        "Default": [
             "0.0001000000"
         ],
         "US West (Oregon)": [
@@ -897,7 +897,7 @@
         ]
     },
     "Transcription Job TranscribeClmAudio Transcribe Custom Language Model per seconds from 0 to 15000000": {
-        "Regionless": [
+        "Default": [
             "0.0001000000"
         ],
         "US West (Oregon)": [
@@ -959,7 +959,7 @@
         ]
     },
     "Transcription Job Audio to Text per second from 60000000 to 300000000": {
-        "Regionless": [
+        "Default": [
             "0.0001700000"
         ],
         "US West (Oregon)": [
@@ -994,7 +994,7 @@
         ]
     },
     "Transcription Job SummaryCallAnalyticsTranscribe Transcribe Call Analytics Summarization per seconds from 300000000 to Inf": {
-        "Regionless": [
+        "Default": [
             "0.0000150000"
         ],
         "US West (Oregon)": [
@@ -1005,7 +1005,7 @@
         ]
     },
     "Transcription Job CallAnalytics Transcribe Call Analytics per seconds from 300000000 to Inf": {
-        "Regionless": [
+        "Default": [
             "0.0001900000"
         ],
         "US West (Oregon)": [
@@ -1019,7 +1019,7 @@
         ]
     },
     "Streaming Stream to Text per second from 15000000 to 60000000": {
-        "Regionless": [
+        "Default": [
             "0.0002500000"
         ],
         "US West (Oregon)": [
@@ -1072,7 +1072,7 @@
         ]
     },
     "Transcription Job ToxicityDetection Toxicity Detection per seconds from 15000000 to 60000000": {
-        "Regionless": [
+        "Default": [
             "0.0000375000"
         ],
         "US West (Oregon)": [
@@ -1095,7 +1095,7 @@
         ]
     },
     "Transcription Job Redaction Audio to Text per Second from 300000000 to Inf": {
-        "Regionless": [
+        "Default": [
             "0.0000130000"
         ],
         "US West (Oregon)": [
@@ -1124,7 +1124,7 @@
         ]
     },
     "Transcription Job TranscribeClmAudio Transcribe Custom Language Model per seconds from 60000000 to 300000000": {
-        "Regionless": [
+        "Default": [
             "0.0000430000"
         ],
         "US West (Oregon)": [
@@ -1153,7 +1153,7 @@
         ]
     },
     "Streaming RedactionTranscribeStreaming automatic content redaction per seconds from 15000000 to 60000000": {
-        "Regionless": [
+        "Default": [
             "0.0000250000"
         ],
         "US West (Oregon)": [
@@ -1200,7 +1200,7 @@
         ]
     },
     "Transcription Job Audio to Text per second from 15000000 to 60000000": {
-        "Regionless": [
+        "Default": [
             "0.0002500000"
         ],
         "US West (Oregon)": [
@@ -1268,7 +1268,7 @@
         ]
     },
     "Streaming Stream to Text per second from 300000000 to Inf": {
-        "Regionless": [
+        "Default": [
             "0.0001300000"
         ],
         "US West (Oregon)": [
@@ -1297,7 +1297,7 @@
         ]
     },
     "Transcription Job per second": {
-        "Regionless": [
+        "Default": [
             "0.0004000000"
         ],
         "US West (Oregon)": [
@@ -1365,7 +1365,7 @@
         ]
     },
     "Transcription Job Audio to Text per second from 0 to 15000000": {
-        "Regionless": [
+        "Default": [
             "0.0004000000"
         ],
         "US West (Oregon)": [
@@ -1433,7 +1433,7 @@
         ]
     },
     "Transcription Job Medical per seconds": {
-        "Regionless": [
+        "Default": [
             "0.0012500000"
         ],
         "US West (Oregon)": [
@@ -1501,7 +1501,7 @@
         ]
     },
     "Streaming CallAnalytics Transcribe Call Analytics per seconds from 0 to 15000000": {
-        "Regionless": [
+        "Default": [
             "0.0005000000"
         ],
         "US West (Oregon)": [
@@ -1530,7 +1530,7 @@
         ]
     },
     "Streaming TranscribeStreamingClm Transcribe Custom Language Model per seconds from 300000000 to Inf": {
-        "Regionless": [
+        "Default": [
             "0.0000330000"
         ],
         "US West (Oregon)": [
@@ -1556,7 +1556,7 @@
         ]
     },
     "Transcription Job TranscribeClmAudio Transcribe Custom Language Model per seconds from 300000000 to Inf": {
-        "Regionless": [
+        "Default": [
             "0.0000330000"
         ],
         "US West (Oregon)": [
@@ -1585,7 +1585,7 @@
         ]
     },
     "Transcription Job Redaction per Second": {
-        "Regionless": [
+        "Default": [
             "0.0000400000"
         ],
         "US West (Oregon)": [
@@ -1647,7 +1647,7 @@
         ]
     },
     "Transcription Job Redaction Audio to Text per Second from 0 to 15000000": {
-        "Regionless": [
+        "Default": [
             "0.0000400000"
         ],
         "US West (Oregon)": [
@@ -1709,7 +1709,7 @@
         ]
     },
     "Transcription Job TranscribeClmAudio Transcribe Custom Language Model per seconds from 60000000 to Inf": {
-        "Regionless": [
+        "Default": [
             "0.0000550000"
         ],
         "US West (N. California)": [
@@ -1747,7 +1747,7 @@
         ]
     },
     "Transcription Job Redaction Audio to Text per Second from 60000000 to Inf": {
-        "Regionless": [
+        "Default": [
             "0.0000220000"
         ],
         "US West (N. California)": [
@@ -1785,7 +1785,7 @@
         ]
     },
     "Transcription Job Audio to Text per second from 60000000 to Inf": {
-        "Regionless": [
+        "Default": [
             "0.0002200000"
         ],
         "US West (N. California)": [
@@ -1823,7 +1823,7 @@
         ]
     },
     "Transcription Job HealthScribeBatch Health Scribe per seconds from 0 to Inf": {
-        "Regionless": [
+        "Default": [
             "0.0016670000"
         ],
         "US East (N. Virginia)": [
@@ -1831,7 +1831,7 @@
         ]
     },
     "Streaming Stream to Text per second from 60000000 to Inf": {
-        "Regionless": [
+        "Default": [
             "0.0002700000"
         ],
         "South America (Sao Paulo)": [
@@ -1860,7 +1860,7 @@
         ]
     },
     "Streaming TranscribeStreamingClm Transcribe Custom Language Model per seconds from 60000000 to Inf": {
-        "Regionless": [
+        "Default": [
             "0.0000680000"
         ],
         "South America (Sao Paulo)": [
@@ -1889,7 +1889,7 @@
         ]
     },
     "Streaming RedactionTranscribeStreaming automatic content redaction per seconds from 60000000 to Inf": {
-        "Regionless": [
+        "Default": [
             "0.0000170000"
         ],
         "EU (London)": [
@@ -1915,7 +1915,7 @@
         ]
     },
     "Transcription Job CallAnalytics Transcribe Call Analytics per seconds from 60000000 to Inf": {
-        "Regionless": [
+        "Default": [
             "0.0002300000"
         ],
         "EU (London)": [
@@ -1941,7 +1941,7 @@
         ]
     },
     "Streaming CallAnalytics Transcribe Call Analytics per seconds from 60000000 to Inf": {
-        "Regionless": [
+        "Default": [
             "0.0002300000"
         ],
         "EU (London)": [

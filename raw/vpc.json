@@ -5546,11 +5546,6 @@
                 "price": "0.0020000000",
                 "RegionlessRateCode": "2hyEc_1IpzBg88f-4b3Ly8vw7_Jyf_2AKWMekXEqV_Q"
             },
-            "2hyEc_1IpzBg88f-4b3Ly8vw7_Jyf_2AKWMekXEqV_Q": {
-                "rateCode": "B85DYAQEQPGB88AV.JRTCKXETXF.6YS6EN2CT7",
-                "price": "0.0020000000",
-                "RegionlessRateCode": "2hyEc_1IpzBg88f-4b3Ly8vw7_Jyf_2AKWMekXEqV_Q"
-            },
             "2u73sSnyv2p-AmJUlnbu-lK1nddDBYoXB5a3FPIfzzs": {
                 "rateCode": "2P7BG2ZWCQAQUCZA.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0500000000",
@@ -5630,11 +5625,6 @@
                 "rateCode": "J6PCHJC7DUCC5Z4S.JRTCKXETXF.RBMR72YW69",
                 "price": "0.0060000000",
                 "RegionlessRateCode": "Tqbq4NsTPpNjQAuKdJcumFAvifu-A3UlvVb7v_27IHY"
-            },
-            "U_t8B2flXk5HFpMye_YDoXswFdrRqU9MSeVdJjoS410": {
-                "rateCode": "FE7F2TME3SVW35J4.JRTCKXETXF.6YS6EN2CT7",
-                "price": "0.1000000000",
-                "RegionlessRateCode": "U_t8B2flXk5HFpMye_YDoXswFdrRqU9MSeVdJjoS410"
             },
             "U_t8B2flXk5HFpMye_YDoXswFdrRqU9MSeVdJjoS410": {
                 "rateCode": "FE7F2TME3SVW35J4.JRTCKXETXF.6YS6EN2CT7",
@@ -5726,11 +5716,6 @@
                 "price": "0.0020000000",
                 "RegionlessRateCode": "2hyEc_1IpzBg88f-4b3Ly8vw7_Jyf_2AKWMekXEqV_Q"
             },
-            "Charge per ENI processed by VPC Access Analyzer per NetworkInterface Assessment": {
-                "rateCode": "B85DYAQEQPGB88AV.JRTCKXETXF.6YS6EN2CT7",
-                "price": "0.0020000000",
-                "RegionlessRateCode": "2hyEc_1IpzBg88f-4b3Ly8vw7_Jyf_2AKWMekXEqV_Q"
-            },
             "Hourly charge for Client VPN connections per Hourly": {
                 "rateCode": "2P7BG2ZWCQAQUCZA.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0500000000",
@@ -5805,11 +5790,6 @@
                 "rateCode": "J6PCHJC7DUCC5Z4S.JRTCKXETXF.RBMR72YW69",
                 "price": "0.0060000000",
                 "RegionlessRateCode": "Tqbq4NsTPpNjQAuKdJcumFAvifu-A3UlvVb7v_27IHY"
-            },
-            "Charge per analysis processed by VPC Reachability Analyzer per ReachabilityAnalyses": {
-                "rateCode": "FE7F2TME3SVW35J4.JRTCKXETXF.6YS6EN2CT7",
-                "price": "0.1000000000",
-                "RegionlessRateCode": "U_t8B2flXk5HFpMye_YDoXswFdrRqU9MSeVdJjoS410"
             },
             "Charge per analysis processed by VPC Reachability Analyzer per ReachabilityAnalyses": {
                 "rateCode": "FE7F2TME3SVW35J4.JRTCKXETXF.6YS6EN2CT7",

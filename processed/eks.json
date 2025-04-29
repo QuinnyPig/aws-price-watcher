@@ -1,6 +1,6 @@
 {
     "Compute per hours": {
-        "Regionless": [
+        "Default": [
             "0.1000000000"
         ],
         "US West (Oregon)": [
@@ -53,7 +53,7 @@
         ]
     },
     "Compute ExtendedSupport per Hours": {
-        "Regionless": [
+        "Default": [
             "0.5000000000"
         ],
         "US West (Oregon)": [
@@ -160,7 +160,7 @@
         ]
     },
     "Fargate perCPU per hours": {
-        "Regionless": [
+        "Default": [
             "0.0404800000"
         ],
         "US West (Oregon)": [
@@ -261,7 +261,7 @@
         ]
     },
     "Fargate perGB per hours": {
-        "Regionless": [
+        "Default": [
             "0.0044450000"
         ],
         "US West (Oregon)": [
@@ -362,7 +362,7 @@
         ]
     },
     "Compute per Hours": {
-        "Regionless": [
+        "Default": [
             "0.1000000000"
         ],
         "US West (Oregon)": [

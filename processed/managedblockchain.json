@@ -1,213 +1,477 @@
 {
     "Ethereum Public": {
-        "Regionless": [
+        "Default": [
             "0.5440000000"
         ],
-        "US East (N. Virginia)": [
-            "0.1340000000",
-            "0.2720000000",
-            "1.2290000000",
-            "0.2670000000",
-            "0.5440000000",
-            "0.3070000000",
-            "1.0880000000",
-            "0.6170000000",
+        "US East (N. Virginia) (Instance Name: bc.c5.2xlarge)": [
+            "0.5440000000"
+        ],
+        "US East (N. Virginia) (Instance Name: bc.c5.4xlarge)": [
+            "1.0880000000"
+        ],
+        "US East (N. Virginia) (Instance Name: bc.c5.xlarge)": [
+            "0.2720000000"
+        ],
+        "US East (N. Virginia) (Instance Name: bc.m5.2xlarge)": [
+            "0.6170000000"
+        ],
+        "US East (N. Virginia) (Instance Name: bc.m5.4xlarge)": [
+            "1.2290000000"
+        ],
+        "US East (N. Virginia) (Instance Name: bc.m5.large)": [
             "0.1540000000"
         ],
-        "EU (London)": [
-            "0.1510000000",
-            "0.6460000000",
-            "0.3020000000",
-            "0.3550000000",
-            "0.3230000000",
-            "1.4210000000",
-            "0.1780000000",
-            "1.2930000000",
+        "US East (N. Virginia) (Instance Name: bc.m5.xlarge)": [
+            "0.3070000000"
+        ],
+        "US East (N. Virginia) (Instance Name: bc.t3.large)": [
+            "0.1340000000"
+        ],
+        "US East (N. Virginia) (Instance Name: bc.t3.xlarge)": [
+            "0.2670000000"
+        ],
+        "EU (London) (Instance Name: bc.c5.2xlarge)": [
+            "0.6460000000"
+        ],
+        "EU (London) (Instance Name: bc.c5.4xlarge)": [
+            "1.2930000000"
+        ],
+        "EU (London) (Instance Name: bc.c5.xlarge)": [
+            "0.3230000000"
+        ],
+        "EU (London) (Instance Name: bc.m5.2xlarge)": [
             "0.7100000000"
         ],
-        "EU (Ireland)": [
-            "1.3700000000",
-            "0.2920000000",
-            "0.3070000000",
-            "0.3420000000",
-            "0.1460000000",
-            "0.1710000000",
-            "0.6140000000",
-            "1.2290000000",
+        "EU (London) (Instance Name: bc.m5.4xlarge)": [
+            "1.4210000000"
+        ],
+        "EU (London) (Instance Name: bc.m5.large)": [
+            "0.1780000000"
+        ],
+        "EU (London) (Instance Name: bc.m5.xlarge)": [
+            "0.3550000000"
+        ],
+        "EU (London) (Instance Name: bc.t3.large)": [
+            "0.1510000000"
+        ],
+        "EU (London) (Instance Name: bc.t3.xlarge)": [
+            "0.3020000000"
+        ],
+        "EU (Ireland) (Instance Name: bc.c5.2xlarge)": [
+            "0.6140000000"
+        ],
+        "EU (Ireland) (Instance Name: bc.c5.4xlarge)": [
+            "1.2290000000"
+        ],
+        "EU (Ireland) (Instance Name: bc.c5.xlarge)": [
+            "0.3070000000"
+        ],
+        "EU (Ireland) (Instance Name: bc.m5.2xlarge)": [
             "0.6850000000"
         ],
-        "Asia Pacific (Tokyo)": [
-            "1.3700000000",
-            "0.3970000000",
-            "0.3420000000",
-            "0.3480000000",
-            "0.7940000000",
-            "1.5870000000",
-            "0.1980000000",
-            "0.6850000000",
+        "EU (Ireland) (Instance Name: bc.m5.4xlarge)": [
+            "1.3700000000"
+        ],
+        "EU (Ireland) (Instance Name: bc.m5.large)": [
+            "0.1710000000"
+        ],
+        "EU (Ireland) (Instance Name: bc.m5.xlarge)": [
+            "0.3420000000"
+        ],
+        "EU (Ireland) (Instance Name: bc.t3.large)": [
+            "0.1460000000"
+        ],
+        "EU (Ireland) (Instance Name: bc.t3.xlarge)": [
+            "0.2920000000"
+        ],
+        "Asia Pacific (Tokyo) (Instance Name: bc.c5.2xlarge)": [
+            "0.6850000000"
+        ],
+        "Asia Pacific (Tokyo) (Instance Name: bc.c5.4xlarge)": [
+            "1.3700000000"
+        ],
+        "Asia Pacific (Tokyo) (Instance Name: bc.c5.xlarge)": [
+            "0.3420000000"
+        ],
+        "Asia Pacific (Tokyo) (Instance Name: bc.m5.2xlarge)": [
+            "0.7940000000"
+        ],
+        "Asia Pacific (Tokyo) (Instance Name: bc.m5.4xlarge)": [
+            "1.5870000000"
+        ],
+        "Asia Pacific (Tokyo) (Instance Name: bc.m5.large)": [
+            "0.1980000000"
+        ],
+        "Asia Pacific (Tokyo) (Instance Name: bc.m5.xlarge)": [
+            "0.3970000000"
+        ],
+        "Asia Pacific (Tokyo) (Instance Name: bc.t3.large)": [
             "0.1740000000"
         ],
-        "Asia Pacific (Singapore)": [
-            "0.3380000000",
-            "0.6270000000",
-            "1.5360000000",
-            "0.7680000000",
-            "0.3840000000",
-            "0.1920000000",
-            "0.3140000000",
-            "0.1690000000",
+        "Asia Pacific (Tokyo) (Instance Name: bc.t3.xlarge)": [
+            "0.3480000000"
+        ],
+        "Asia Pacific (Singapore) (Instance Name: bc.c5.2xlarge)": [
+            "0.6270000000"
+        ],
+        "Asia Pacific (Singapore) (Instance Name: bc.c5.4xlarge)": [
             "1.2540000000"
         ],
-        "Asia Pacific (Seoul)": [
-            "0.3780000000",
-            "0.1660000000",
-            "1.5100000000",
-            "0.1890000000",
-            "0.3070000000",
-            "0.3330000000",
-            "0.7550000000",
-            "0.6140000000",
+        "Asia Pacific (Singapore) (Instance Name: bc.c5.xlarge)": [
+            "0.3140000000"
+        ],
+        "Asia Pacific (Singapore) (Instance Name: bc.m5.2xlarge)": [
+            "0.7680000000"
+        ],
+        "Asia Pacific (Singapore) (Instance Name: bc.m5.4xlarge)": [
+            "1.5360000000"
+        ],
+        "Asia Pacific (Singapore) (Instance Name: bc.m5.large)": [
+            "0.1920000000"
+        ],
+        "Asia Pacific (Singapore) (Instance Name: bc.m5.xlarge)": [
+            "0.3840000000"
+        ],
+        "Asia Pacific (Singapore) (Instance Name: bc.t3.large)": [
+            "0.1690000000"
+        ],
+        "Asia Pacific (Singapore) (Instance Name: bc.t3.xlarge)": [
+            "0.3380000000"
+        ],
+        "Asia Pacific (Seoul) (Instance Name: bc.c5.2xlarge)": [
+            "0.6140000000"
+        ],
+        "Asia Pacific (Seoul) (Instance Name: bc.c5.4xlarge)": [
             "1.2290000000"
+        ],
+        "Asia Pacific (Seoul) (Instance Name: bc.c5.xlarge)": [
+            "0.3070000000"
+        ],
+        "Asia Pacific (Seoul) (Instance Name: bc.m5.2xlarge)": [
+            "0.7550000000"
+        ],
+        "Asia Pacific (Seoul) (Instance Name: bc.m5.4xlarge)": [
+            "1.5100000000"
+        ],
+        "Asia Pacific (Seoul) (Instance Name: bc.m5.large)": [
+            "0.1890000000"
+        ],
+        "Asia Pacific (Seoul) (Instance Name: bc.m5.xlarge)": [
+            "0.3780000000"
+        ],
+        "Asia Pacific (Seoul) (Instance Name: bc.t3.large)": [
+            "0.1660000000"
+        ],
+        "Asia Pacific (Seoul) (Instance Name: bc.t3.xlarge)": [
+            "0.3330000000"
         ]
     },
     "Standard": {
-        "Regionless": [
+        "Default": [
             "0.5440000000"
         ],
-        "US East (N. Virginia)": [
-            "0.1340000000",
-            "0.2720000000",
-            "1.2290000000",
-            "0.0670000000",
-            "0.0340000000",
-            "0.2670000000",
-            "0.5440000000",
-            "0.3070000000",
-            "1.0880000000",
-            "0.6170000000",
-            "0.1360000000",
+        "US East (N. Virginia) (Instance Name: bc.c5.2xlarge)": [
+            "0.5440000000"
+        ],
+        "US East (N. Virginia) (Instance Name: bc.c5.4xlarge)": [
+            "1.0880000000"
+        ],
+        "US East (N. Virginia) (Instance Name: bc.c5.large)": [
+            "0.1360000000"
+        ],
+        "US East (N. Virginia) (Instance Name: bc.c5.xlarge)": [
+            "0.2720000000"
+        ],
+        "US East (N. Virginia) (Instance Name: bc.m5.2xlarge)": [
+            "0.6170000000"
+        ],
+        "US East (N. Virginia) (Instance Name: bc.m5.4xlarge)": [
+            "1.2290000000"
+        ],
+        "US East (N. Virginia) (Instance Name: bc.m5.large)": [
             "0.1540000000"
         ],
-        "EU (London)": [
-            "0.1510000000",
-            "0.6460000000",
-            "0.3020000000",
-            "0.0760000000",
-            "0.1620000000",
-            "0.3550000000",
-            "0.3230000000",
-            "1.4210000000",
-            "0.1780000000",
-            "0.0380000000",
-            "1.2930000000",
+        "US East (N. Virginia) (Instance Name: bc.m5.xlarge)": [
+            "0.3070000000"
+        ],
+        "US East (N. Virginia) (Instance Name: bc.t3.large)": [
+            "0.1340000000"
+        ],
+        "US East (N. Virginia) (Instance Name: bc.t3.medium)": [
+            "0.0670000000"
+        ],
+        "US East (N. Virginia) (Instance Name: bc.t3.small)": [
+            "0.0340000000"
+        ],
+        "US East (N. Virginia) (Instance Name: bc.t3.xlarge)": [
+            "0.2670000000"
+        ],
+        "EU (London) (Instance Name: bc.c5.2xlarge)": [
+            "0.6460000000"
+        ],
+        "EU (London) (Instance Name: bc.c5.4xlarge)": [
+            "1.2930000000"
+        ],
+        "EU (London) (Instance Name: bc.c5.large)": [
+            "0.1620000000"
+        ],
+        "EU (London) (Instance Name: bc.c5.xlarge)": [
+            "0.3230000000"
+        ],
+        "EU (London) (Instance Name: bc.m5.2xlarge)": [
             "0.7100000000"
         ],
-        "EU (Ireland)": [
-            "0.1540000000",
-            "1.3700000000",
-            "0.0360000000",
-            "0.2920000000",
-            "0.3070000000",
-            "0.3420000000",
-            "0.1460000000",
-            "0.1710000000",
-            "0.0730000000",
-            "0.6140000000",
-            "1.2290000000",
-            "0.6850000000"
+        "EU (London) (Instance Name: bc.m5.4xlarge)": [
+            "1.4210000000"
         ],
-        "Asia Pacific (Tokyo)": [
-            "1.3700000000",
-            "0.3970000000",
-            "0.3420000000",
-            "0.6850000000",
-            "0.3480000000",
-            "0.7940000000",
-            "0.1710000000",
-            "0.0870000000",
-            "1.5870000000",
-            "0.1980000000",
-            "0.0440000000",
-            "0.1740000000"
+        "EU (London) (Instance Name: bc.m5.large)": [
+            "0.1780000000"
         ],
-        "Asia Pacific (Singapore)": [
-            "0.3380000000",
-            "0.1570000000",
-            "0.6270000000",
-            "1.5360000000",
-            "0.7680000000",
-            "0.3840000000",
-            "0.1920000000",
-            "0.3140000000",
-            "0.0840000000",
-            "0.1690000000",
-            "0.0420000000",
-            "1.2540000000"
+        "EU (London) (Instance Name: bc.m5.xlarge)": [
+            "0.3550000000"
         ],
-        "Asia Pacific (Seoul)": [
-            "0.3780000000",
-            "0.1660000000",
-            "1.2290000000",
-            "1.5100000000",
-            "0.1890000000",
-            "0.3070000000",
-            "0.0830000000",
-            "0.3330000000",
-            "0.7550000000",
-            "0.0420000000",
-            "0.6140000000",
+        "EU (London) (Instance Name: bc.t3.large)": [
+            "0.1510000000"
+        ],
+        "EU (London) (Instance Name: bc.t3.medium)": [
+            "0.0760000000"
+        ],
+        "EU (London) (Instance Name: bc.t3.small)": [
+            "0.0380000000"
+        ],
+        "EU (London) (Instance Name: bc.t3.xlarge)": [
+            "0.3020000000"
+        ],
+        "EU (Ireland) (Instance Name: bc.c5.2xlarge)": [
+            "0.6140000000"
+        ],
+        "EU (Ireland) (Instance Name: bc.c5.4xlarge)": [
+            "1.2290000000"
+        ],
+        "EU (Ireland) (Instance Name: bc.c5.large)": [
             "0.1540000000"
         ],
-        "AWS GovCloud (US)": [
-            "0.1562000000",
-            "0.3123000000",
-            "1.5488000000",
-            "0.7744000000",
-            "0.0390000000",
-            "0.0781000000",
-            "0.3872000000",
-            "0.3264000000",
-            "0.6528000000",
-            "0.1632000000",
-            "1.3056000000",
+        "EU (Ireland) (Instance Name: bc.c5.xlarge)": [
+            "0.3070000000"
+        ],
+        "EU (Ireland) (Instance Name: bc.m5.2xlarge)": [
+            "0.6850000000"
+        ],
+        "EU (Ireland) (Instance Name: bc.m5.4xlarge)": [
+            "1.3700000000"
+        ],
+        "EU (Ireland) (Instance Name: bc.m5.large)": [
+            "0.1710000000"
+        ],
+        "EU (Ireland) (Instance Name: bc.m5.xlarge)": [
+            "0.3420000000"
+        ],
+        "EU (Ireland) (Instance Name: bc.t3.large)": [
+            "0.1460000000"
+        ],
+        "EU (Ireland) (Instance Name: bc.t3.medium)": [
+            "0.0730000000"
+        ],
+        "EU (Ireland) (Instance Name: bc.t3.small)": [
+            "0.0360000000"
+        ],
+        "EU (Ireland) (Instance Name: bc.t3.xlarge)": [
+            "0.2920000000"
+        ],
+        "Asia Pacific (Tokyo) (Instance Name: bc.c5.2xlarge)": [
+            "0.6850000000"
+        ],
+        "Asia Pacific (Tokyo) (Instance Name: bc.c5.4xlarge)": [
+            "1.3700000000"
+        ],
+        "Asia Pacific (Tokyo) (Instance Name: bc.c5.large)": [
+            "0.1710000000"
+        ],
+        "Asia Pacific (Tokyo) (Instance Name: bc.c5.xlarge)": [
+            "0.3420000000"
+        ],
+        "Asia Pacific (Tokyo) (Instance Name: bc.m5.2xlarge)": [
+            "0.7940000000"
+        ],
+        "Asia Pacific (Tokyo) (Instance Name: bc.m5.4xlarge)": [
+            "1.5870000000"
+        ],
+        "Asia Pacific (Tokyo) (Instance Name: bc.m5.large)": [
+            "0.1980000000"
+        ],
+        "Asia Pacific (Tokyo) (Instance Name: bc.m5.xlarge)": [
+            "0.3970000000"
+        ],
+        "Asia Pacific (Tokyo) (Instance Name: bc.t3.large)": [
+            "0.1740000000"
+        ],
+        "Asia Pacific (Tokyo) (Instance Name: bc.t3.medium)": [
+            "0.0870000000"
+        ],
+        "Asia Pacific (Tokyo) (Instance Name: bc.t3.small)": [
+            "0.0440000000"
+        ],
+        "Asia Pacific (Tokyo) (Instance Name: bc.t3.xlarge)": [
+            "0.3480000000"
+        ],
+        "Asia Pacific (Singapore) (Instance Name: bc.c5.2xlarge)": [
+            "0.6270000000"
+        ],
+        "Asia Pacific (Singapore) (Instance Name: bc.c5.4xlarge)": [
+            "1.2540000000"
+        ],
+        "Asia Pacific (Singapore) (Instance Name: bc.c5.large)": [
+            "0.1570000000"
+        ],
+        "Asia Pacific (Singapore) (Instance Name: bc.c5.xlarge)": [
+            "0.3140000000"
+        ],
+        "Asia Pacific (Singapore) (Instance Name: bc.m5.2xlarge)": [
+            "0.7680000000"
+        ],
+        "Asia Pacific (Singapore) (Instance Name: bc.m5.4xlarge)": [
+            "1.5360000000"
+        ],
+        "Asia Pacific (Singapore) (Instance Name: bc.m5.large)": [
+            "0.1920000000"
+        ],
+        "Asia Pacific (Singapore) (Instance Name: bc.m5.xlarge)": [
+            "0.3840000000"
+        ],
+        "Asia Pacific (Singapore) (Instance Name: bc.t3.large)": [
+            "0.1690000000"
+        ],
+        "Asia Pacific (Singapore) (Instance Name: bc.t3.medium)": [
+            "0.0840000000"
+        ],
+        "Asia Pacific (Singapore) (Instance Name: bc.t3.small)": [
+            "0.0420000000"
+        ],
+        "Asia Pacific (Singapore) (Instance Name: bc.t3.xlarge)": [
+            "0.3380000000"
+        ],
+        "Asia Pacific (Seoul) (Instance Name: bc.c5.2xlarge)": [
+            "0.6140000000"
+        ],
+        "Asia Pacific (Seoul) (Instance Name: bc.c5.4xlarge)": [
+            "1.2290000000"
+        ],
+        "Asia Pacific (Seoul) (Instance Name: bc.c5.large)": [
+            "0.1540000000"
+        ],
+        "Asia Pacific (Seoul) (Instance Name: bc.c5.xlarge)": [
+            "0.3070000000"
+        ],
+        "Asia Pacific (Seoul) (Instance Name: bc.m5.2xlarge)": [
+            "0.7550000000"
+        ],
+        "Asia Pacific (Seoul) (Instance Name: bc.m5.4xlarge)": [
+            "1.5100000000"
+        ],
+        "Asia Pacific (Seoul) (Instance Name: bc.m5.large)": [
+            "0.1890000000"
+        ],
+        "Asia Pacific (Seoul) (Instance Name: bc.m5.xlarge)": [
+            "0.3780000000"
+        ],
+        "Asia Pacific (Seoul) (Instance Name: bc.t3.large)": [
+            "0.1660000000"
+        ],
+        "Asia Pacific (Seoul) (Instance Name: bc.t3.medium)": [
+            "0.0830000000"
+        ],
+        "Asia Pacific (Seoul) (Instance Name: bc.t3.small)": [
+            "0.0420000000"
+        ],
+        "Asia Pacific (Seoul) (Instance Name: bc.t3.xlarge)": [
+            "0.3330000000"
+        ],
+        "AWS GovCloud (US) (Instance Name: bc.c5.2xlarge)": [
+            "0.6528000000"
+        ],
+        "AWS GovCloud (US) (Instance Name: bc.c5.4xlarge)": [
+            "1.3056000000"
+        ],
+        "AWS GovCloud (US) (Instance Name: bc.c5.large)": [
+            "0.1632000000"
+        ],
+        "AWS GovCloud (US) (Instance Name: bc.c5.xlarge)": [
+            "0.3264000000"
+        ],
+        "AWS GovCloud (US) (Instance Name: bc.m5.2xlarge)": [
+            "0.7744000000"
+        ],
+        "AWS GovCloud (US) (Instance Name: bc.m5.4xlarge)": [
+            "1.5488000000"
+        ],
+        "AWS GovCloud (US) (Instance Name: bc.m5.large)": [
             "0.1936000000"
+        ],
+        "AWS GovCloud (US) (Instance Name: bc.m5.xlarge)": [
+            "0.3872000000"
+        ],
+        "AWS GovCloud (US) (Instance Name: bc.t3.large)": [
+            "0.1562000000"
+        ],
+        "AWS GovCloud (US) (Instance Name: bc.t3.medium)": [
+            "0.0781000000"
+        ],
+        "AWS GovCloud (US) (Instance Name: bc.t3.small)": [
+            "0.0390000000"
+        ],
+        "AWS GovCloud (US) (Instance Name: bc.t3.xlarge)": [
+            "0.3123000000"
         ]
     },
     "Starter": {
-        "Regionless": [
+        "Default": [
             "0.0670000000"
         ],
-        "US East (N. Virginia)": [
-            "0.0670000000",
+        "US East (N. Virginia) (Instance Name: bc.t3.medium)": [
+            "0.0670000000"
+        ],
+        "US East (N. Virginia) (Instance Name: bc.t3.small)": [
             "0.0340000000"
         ],
-        "EU (London)": [
-            "0.0380000000",
+        "EU (London) (Instance Name: bc.t3.medium)": [
             "0.0760000000"
         ],
-        "EU (Ireland)": [
-            "0.0360000000",
+        "EU (London) (Instance Name: bc.t3.small)": [
+            "0.0380000000"
+        ],
+        "EU (Ireland) (Instance Name: bc.t3.medium)": [
             "0.0730000000"
         ],
-        "Asia Pacific (Tokyo)": [
-            "0.0870000000",
+        "EU (Ireland) (Instance Name: bc.t3.small)": [
+            "0.0360000000"
+        ],
+        "Asia Pacific (Tokyo) (Instance Name: bc.t3.medium)": [
+            "0.0870000000"
+        ],
+        "Asia Pacific (Tokyo) (Instance Name: bc.t3.small)": [
             "0.0440000000"
         ],
-        "Asia Pacific (Singapore)": [
-            "0.0840000000",
+        "Asia Pacific (Singapore) (Instance Name: bc.t3.medium)": [
+            "0.0840000000"
+        ],
+        "Asia Pacific (Singapore) (Instance Name: bc.t3.small)": [
             "0.0420000000"
         ],
-        "Asia Pacific (Seoul)": [
-            "0.0420000000",
+        "Asia Pacific (Seoul) (Instance Name: bc.t3.medium)": [
             "0.0830000000"
         ],
-        "AWS GovCloud (US)": [
-            "0.0390000000",
+        "Asia Pacific (Seoul) (Instance Name: bc.t3.small)": [
+            "0.0420000000"
+        ],
+        "AWS GovCloud (US) (Instance Name: bc.t3.medium)": [
             "0.0781000000"
+        ],
+        "AWS GovCloud (US) (Instance Name: bc.t3.small)": [
+            "0.0390000000"
         ]
     },
     "Standard Data Written": {
-        "Regionless": [
+        "Default": [
             "0.1000000000"
         ],
         "US East (N. Virginia)": [
@@ -233,111 +497,111 @@
         ]
     },
     "Standard Instance bc c5.4xlarge": {
-        "Regionless": [
+        "Default": [
             "1.0880000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (Instance Name: bc.c5.4xlarge)": [
             "1.0880000000"
         ],
-        "EU (London)": [
+        "EU (London) (Instance Name: bc.c5.4xlarge)": [
             "1.2930000000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (Instance Name: bc.c5.4xlarge)": [
             "1.2290000000"
         ],
-        "Asia Pacific (Tokyo)": [
+        "Asia Pacific (Tokyo) (Instance Name: bc.c5.4xlarge)": [
             "1.3700000000"
         ],
-        "Asia Pacific (Singapore)": [
+        "Asia Pacific (Singapore) (Instance Name: bc.c5.4xlarge)": [
             "1.2540000000"
         ],
-        "Asia Pacific (Seoul)": [
+        "Asia Pacific (Seoul) (Instance Name: bc.c5.4xlarge)": [
             "1.2290000000"
         ],
-        "AWS GovCloud (US)": [
+        "AWS GovCloud (US) (Instance Name: bc.c5.4xlarge)": [
             "1.3056000000"
         ]
     },
     "Standard Instance bc t3.large": {
-        "Regionless": [
+        "Default": [
             "0.1340000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (Instance Name: bc.t3.large)": [
             "0.1340000000"
         ],
-        "EU (London)": [
+        "EU (London) (Instance Name: bc.t3.large)": [
             "0.1510000000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (Instance Name: bc.t3.large)": [
             "0.1460000000"
         ],
-        "Asia Pacific (Tokyo)": [
+        "Asia Pacific (Tokyo) (Instance Name: bc.t3.large)": [
             "0.1740000000"
         ],
-        "Asia Pacific (Singapore)": [
+        "Asia Pacific (Singapore) (Instance Name: bc.t3.large)": [
             "0.1690000000"
         ],
-        "Asia Pacific (Seoul)": [
+        "Asia Pacific (Seoul) (Instance Name: bc.t3.large)": [
             "0.1660000000"
         ],
-        "AWS GovCloud (US)": [
+        "AWS GovCloud (US) (Instance Name: bc.t3.large)": [
             "0.1562000000"
         ]
     },
     "Starter Instance bc t3.small": {
-        "Regionless": [
+        "Default": [
             "0.0340000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (Instance Name: bc.t3.small)": [
             "0.0340000000"
         ],
-        "EU (London)": [
+        "EU (London) (Instance Name: bc.t3.small)": [
             "0.0380000000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (Instance Name: bc.t3.small)": [
             "0.0360000000"
         ],
-        "Asia Pacific (Tokyo)": [
+        "Asia Pacific (Tokyo) (Instance Name: bc.t3.small)": [
             "0.0440000000"
         ],
-        "Asia Pacific (Singapore)": [
+        "Asia Pacific (Singapore) (Instance Name: bc.t3.small)": [
             "0.0420000000"
         ],
-        "Asia Pacific (Seoul)": [
+        "Asia Pacific (Seoul) (Instance Name: bc.t3.small)": [
             "0.0420000000"
         ],
-        "AWS GovCloud (US)": [
+        "AWS GovCloud (US) (Instance Name: bc.t3.small)": [
             "0.0390000000"
         ]
     },
     "Standard Instance bc c5.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.5440000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (Instance Name: bc.c5.2xlarge)": [
             "0.5440000000"
         ],
-        "EU (London)": [
+        "EU (London) (Instance Name: bc.c5.2xlarge)": [
             "0.6460000000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (Instance Name: bc.c5.2xlarge)": [
             "0.6140000000"
         ],
-        "Asia Pacific (Tokyo)": [
+        "Asia Pacific (Tokyo) (Instance Name: bc.c5.2xlarge)": [
             "0.6850000000"
         ],
-        "Asia Pacific (Singapore)": [
+        "Asia Pacific (Singapore) (Instance Name: bc.c5.2xlarge)": [
             "0.6270000000"
         ],
-        "Asia Pacific (Seoul)": [
+        "Asia Pacific (Seoul) (Instance Name: bc.c5.2xlarge)": [
             "0.6140000000"
         ],
-        "AWS GovCloud (US)": [
+        "AWS GovCloud (US) (Instance Name: bc.c5.2xlarge)": [
             "0.6528000000"
         ]
     },
     "Standard Member": {
-        "Regionless": [
+        "Default": [
             "0.5500000000"
         ],
         "US East (N. Virginia)": [
@@ -363,7 +627,7 @@
         ]
     },
     "Bitcoin Testnet-Access L Request": {
-        "Regionless": [
+        "Default": [
             "0.0000160000"
         ],
         "US East (N. Virginia)": [
@@ -386,56 +650,56 @@
         ]
     },
     "Standard Instance bc t3.small": {
-        "Regionless": [
+        "Default": [
             "0.0340000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (Instance Name: bc.t3.small)": [
             "0.0340000000"
         ],
-        "EU (London)": [
+        "EU (London) (Instance Name: bc.t3.small)": [
             "0.0380000000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (Instance Name: bc.t3.small)": [
             "0.0360000000"
         ],
-        "Asia Pacific (Tokyo)": [
+        "Asia Pacific (Tokyo) (Instance Name: bc.t3.small)": [
             "0.0440000000"
         ],
-        "Asia Pacific (Singapore)": [
+        "Asia Pacific (Singapore) (Instance Name: bc.t3.small)": [
             "0.0420000000"
         ],
-        "Asia Pacific (Seoul)": [
+        "Asia Pacific (Seoul) (Instance Name: bc.t3.small)": [
             "0.0420000000"
         ],
-        "AWS GovCloud (US)": [
+        "AWS GovCloud (US) (Instance Name: bc.t3.small)": [
             "0.0390000000"
         ]
     },
     "Ethereum Public Instance bc m5.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.3070000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (Instance Name: bc.m5.xlarge)": [
             "0.3070000000"
         ],
-        "EU (London)": [
+        "EU (London) (Instance Name: bc.m5.xlarge)": [
             "0.3550000000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (Instance Name: bc.m5.xlarge)": [
             "0.3420000000"
         ],
-        "Asia Pacific (Tokyo)": [
+        "Asia Pacific (Tokyo) (Instance Name: bc.m5.xlarge)": [
             "0.3970000000"
         ],
-        "Asia Pacific (Singapore)": [
+        "Asia Pacific (Singapore) (Instance Name: bc.m5.xlarge)": [
             "0.3840000000"
         ],
-        "Asia Pacific (Seoul)": [
+        "Asia Pacific (Seoul) (Instance Name: bc.m5.xlarge)": [
             "0.3780000000"
         ]
     },
     "Bitcoin Testnet-Query M Request": {
-        "Regionless": [
+        "Default": [
             "0.0000090000"
         ],
         "US East (N. Virginia)": [
@@ -443,33 +707,33 @@
         ]
     },
     "Standard Instance bc t3.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2670000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (Instance Name: bc.t3.xlarge)": [
             "0.2670000000"
         ],
-        "EU (London)": [
+        "EU (London) (Instance Name: bc.t3.xlarge)": [
             "0.3020000000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (Instance Name: bc.t3.xlarge)": [
             "0.2920000000"
         ],
-        "Asia Pacific (Tokyo)": [
+        "Asia Pacific (Tokyo) (Instance Name: bc.t3.xlarge)": [
             "0.3480000000"
         ],
-        "Asia Pacific (Singapore)": [
+        "Asia Pacific (Singapore) (Instance Name: bc.t3.xlarge)": [
             "0.3380000000"
         ],
-        "Asia Pacific (Seoul)": [
+        "Asia Pacific (Seoul) (Instance Name: bc.t3.xlarge)": [
             "0.3330000000"
         ],
-        "AWS GovCloud (US)": [
+        "AWS GovCloud (US) (Instance Name: bc.t3.xlarge)": [
             "0.3123000000"
         ]
     },
     "Bitcoin Testnet-Query XL Request": {
-        "Regionless": [
+        "Default": [
             "0.0000250000"
         ],
         "US East (N. Virginia)": [
@@ -477,128 +741,128 @@
         ]
     },
     "Standard Instance bc t3.medium": {
-        "Regionless": [
+        "Default": [
             "0.0670000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (Instance Name: bc.t3.medium)": [
             "0.0670000000"
         ],
-        "EU (London)": [
+        "EU (London) (Instance Name: bc.t3.medium)": [
             "0.0760000000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (Instance Name: bc.t3.medium)": [
             "0.0730000000"
         ],
-        "Asia Pacific (Tokyo)": [
+        "Asia Pacific (Tokyo) (Instance Name: bc.t3.medium)": [
             "0.0870000000"
         ],
-        "Asia Pacific (Singapore)": [
+        "Asia Pacific (Singapore) (Instance Name: bc.t3.medium)": [
             "0.0840000000"
         ],
-        "Asia Pacific (Seoul)": [
+        "Asia Pacific (Seoul) (Instance Name: bc.t3.medium)": [
             "0.0830000000"
         ],
-        "AWS GovCloud (US)": [
+        "AWS GovCloud (US) (Instance Name: bc.t3.medium)": [
             "0.0781000000"
         ]
     },
     "Ethereum Public Instance bc m5.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.6170000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (Instance Name: bc.m5.2xlarge)": [
             "0.6170000000"
         ],
-        "EU (London)": [
+        "EU (London) (Instance Name: bc.m5.2xlarge)": [
             "0.7100000000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (Instance Name: bc.m5.2xlarge)": [
             "0.6850000000"
         ],
-        "Asia Pacific (Tokyo)": [
+        "Asia Pacific (Tokyo) (Instance Name: bc.m5.2xlarge)": [
             "0.7940000000"
         ],
-        "Asia Pacific (Singapore)": [
+        "Asia Pacific (Singapore) (Instance Name: bc.m5.2xlarge)": [
             "0.7680000000"
         ],
-        "Asia Pacific (Seoul)": [
+        "Asia Pacific (Seoul) (Instance Name: bc.m5.2xlarge)": [
             "0.7550000000"
         ]
     },
     "Ethereum Public Instance bc c5.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2720000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (Instance Name: bc.c5.xlarge)": [
             "0.2720000000"
         ],
-        "EU (London)": [
+        "EU (London) (Instance Name: bc.c5.xlarge)": [
             "0.3230000000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (Instance Name: bc.c5.xlarge)": [
             "0.3070000000"
         ],
-        "Asia Pacific (Tokyo)": [
+        "Asia Pacific (Tokyo) (Instance Name: bc.c5.xlarge)": [
             "0.3420000000"
         ],
-        "Asia Pacific (Singapore)": [
+        "Asia Pacific (Singapore) (Instance Name: bc.c5.xlarge)": [
             "0.3140000000"
         ],
-        "Asia Pacific (Seoul)": [
+        "Asia Pacific (Seoul) (Instance Name: bc.c5.xlarge)": [
             "0.3070000000"
         ]
     },
     "Ethereum Public Instance bc m5.large": {
-        "Regionless": [
+        "Default": [
             "0.1540000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (Instance Name: bc.m5.large)": [
             "0.1540000000"
         ],
-        "EU (London)": [
+        "EU (London) (Instance Name: bc.m5.large)": [
             "0.1780000000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (Instance Name: bc.m5.large)": [
             "0.1710000000"
         ],
-        "Asia Pacific (Tokyo)": [
+        "Asia Pacific (Tokyo) (Instance Name: bc.m5.large)": [
             "0.1980000000"
         ],
-        "Asia Pacific (Singapore)": [
+        "Asia Pacific (Singapore) (Instance Name: bc.m5.large)": [
             "0.1920000000"
         ],
-        "Asia Pacific (Seoul)": [
+        "Asia Pacific (Seoul) (Instance Name: bc.m5.large)": [
             "0.1890000000"
         ]
     },
     "Standard Instance bc m5.4xlarge": {
-        "Regionless": [
+        "Default": [
             "1.2290000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (Instance Name: bc.m5.4xlarge)": [
             "1.2290000000"
         ],
-        "EU (London)": [
+        "EU (London) (Instance Name: bc.m5.4xlarge)": [
             "1.4210000000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (Instance Name: bc.m5.4xlarge)": [
             "1.3700000000"
         ],
-        "Asia Pacific (Tokyo)": [
+        "Asia Pacific (Tokyo) (Instance Name: bc.m5.4xlarge)": [
             "1.5870000000"
         ],
-        "Asia Pacific (Singapore)": [
+        "Asia Pacific (Singapore) (Instance Name: bc.m5.4xlarge)": [
             "1.5360000000"
         ],
-        "Asia Pacific (Seoul)": [
+        "Asia Pacific (Seoul) (Instance Name: bc.m5.4xlarge)": [
             "1.5100000000"
         ],
-        "AWS GovCloud (US)": [
+        "AWS GovCloud (US) (Instance Name: bc.m5.4xlarge)": [
             "1.5488000000"
         ]
     },
     "Ethereum Mainnet-Query M Request": {
-        "Regionless": [
+        "Default": [
             "0.0000090000"
         ],
         "US East (N. Virginia)": [
@@ -606,7 +870,7 @@
         ]
     },
     "Bitcoin Mainnet-Query M Request": {
-        "Regionless": [
+        "Default": [
             "0.0000090000"
         ],
         "US East (N. Virginia)": [
@@ -614,33 +878,33 @@
         ]
     },
     "Standard Instance bc c5.large": {
-        "Regionless": [
+        "Default": [
             "0.1360000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (Instance Name: bc.c5.large)": [
             "0.1360000000"
         ],
-        "EU (London)": [
+        "EU (London) (Instance Name: bc.c5.large)": [
             "0.1620000000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (Instance Name: bc.c5.large)": [
             "0.1540000000"
         ],
-        "Asia Pacific (Tokyo)": [
+        "Asia Pacific (Tokyo) (Instance Name: bc.c5.large)": [
             "0.1710000000"
         ],
-        "Asia Pacific (Singapore)": [
+        "Asia Pacific (Singapore) (Instance Name: bc.c5.large)": [
             "0.1570000000"
         ],
-        "Asia Pacific (Seoul)": [
+        "Asia Pacific (Seoul) (Instance Name: bc.c5.large)": [
             "0.1540000000"
         ],
-        "AWS GovCloud (US)": [
+        "AWS GovCloud (US) (Instance Name: bc.c5.large)": [
             "0.1632000000"
         ]
     },
     "Bitcoin Mainnet-Access XL Request": {
-        "Regionless": [
+        "Default": [
             "0.0000250000"
         ],
         "US East (N. Virginia)": [
@@ -663,7 +927,7 @@
         ]
     },
     "Bitcoin Testnet-Access XS Request": {
-        "Regionless": [
+        "Default": [
             "0.0000050000"
         ],
         "US East (N. Virginia)": [
@@ -686,7 +950,7 @@
         ]
     },
     "Ethereum Public Node Storage": {
-        "Regionless": [
+        "Default": [
             "0.1000000000"
         ],
         "US East (N. Virginia)": [
@@ -709,30 +973,30 @@
         ]
     },
     "Ethereum Public Instance bc c5.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.5440000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (Instance Name: bc.c5.2xlarge)": [
             "0.5440000000"
         ],
-        "EU (London)": [
+        "EU (London) (Instance Name: bc.c5.2xlarge)": [
             "0.6460000000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (Instance Name: bc.c5.2xlarge)": [
             "0.6140000000"
         ],
-        "Asia Pacific (Tokyo)": [
+        "Asia Pacific (Tokyo) (Instance Name: bc.c5.2xlarge)": [
             "0.6850000000"
         ],
-        "Asia Pacific (Singapore)": [
+        "Asia Pacific (Singapore) (Instance Name: bc.c5.2xlarge)": [
             "0.6270000000"
         ],
-        "Asia Pacific (Seoul)": [
+        "Asia Pacific (Seoul) (Instance Name: bc.c5.2xlarge)": [
             "0.6140000000"
         ]
     },
     "Ethereum Mainnet-Query S Request": {
-        "Regionless": [
+        "Default": [
             "0.0000070000"
         ],
         "US East (N. Virginia)": [
@@ -740,7 +1004,7 @@
         ]
     },
     "Starter Node Storage": {
-        "Regionless": [
+        "Default": [
             "0.1000000000"
         ],
         "US East (N. Virginia)": [
@@ -766,7 +1030,7 @@
         ]
     },
     "Ethereum Public Request": {
-        "Regionless": [
+        "Default": [
             "0.0000030000"
         ],
         "US East (N. Virginia)": [
@@ -789,180 +1053,180 @@
         ]
     },
     "Standard Instance bc m5.large": {
-        "Regionless": [
+        "Default": [
             "0.1540000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (Instance Name: bc.m5.large)": [
             "0.1540000000"
         ],
-        "EU (London)": [
+        "EU (London) (Instance Name: bc.m5.large)": [
             "0.1780000000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (Instance Name: bc.m5.large)": [
             "0.1710000000"
         ],
-        "Asia Pacific (Tokyo)": [
+        "Asia Pacific (Tokyo) (Instance Name: bc.m5.large)": [
             "0.1980000000"
         ],
-        "Asia Pacific (Singapore)": [
+        "Asia Pacific (Singapore) (Instance Name: bc.m5.large)": [
             "0.1920000000"
         ],
-        "Asia Pacific (Seoul)": [
+        "Asia Pacific (Seoul) (Instance Name: bc.m5.large)": [
             "0.1890000000"
         ],
-        "AWS GovCloud (US)": [
+        "AWS GovCloud (US) (Instance Name: bc.m5.large)": [
             "0.1936000000"
         ]
     },
     "Ethereum Public Instance bc t3.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2670000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (Instance Name: bc.t3.xlarge)": [
             "0.2670000000"
         ],
-        "EU (London)": [
+        "EU (London) (Instance Name: bc.t3.xlarge)": [
             "0.3020000000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (Instance Name: bc.t3.xlarge)": [
             "0.2920000000"
         ],
-        "Asia Pacific (Tokyo)": [
+        "Asia Pacific (Tokyo) (Instance Name: bc.t3.xlarge)": [
             "0.3480000000"
         ],
-        "Asia Pacific (Singapore)": [
+        "Asia Pacific (Singapore) (Instance Name: bc.t3.xlarge)": [
             "0.3380000000"
         ],
-        "Asia Pacific (Seoul)": [
+        "Asia Pacific (Seoul) (Instance Name: bc.t3.xlarge)": [
             "0.3330000000"
         ]
     },
     "Starter Instance bc t3.medium": {
-        "Regionless": [
+        "Default": [
             "0.0670000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (Instance Name: bc.t3.medium)": [
             "0.0670000000"
         ],
-        "EU (London)": [
+        "EU (London) (Instance Name: bc.t3.medium)": [
             "0.0760000000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (Instance Name: bc.t3.medium)": [
             "0.0730000000"
         ],
-        "Asia Pacific (Tokyo)": [
+        "Asia Pacific (Tokyo) (Instance Name: bc.t3.medium)": [
             "0.0870000000"
         ],
-        "Asia Pacific (Singapore)": [
+        "Asia Pacific (Singapore) (Instance Name: bc.t3.medium)": [
             "0.0840000000"
         ],
-        "Asia Pacific (Seoul)": [
+        "Asia Pacific (Seoul) (Instance Name: bc.t3.medium)": [
             "0.0830000000"
         ],
-        "AWS GovCloud (US)": [
+        "AWS GovCloud (US) (Instance Name: bc.t3.medium)": [
             "0.0781000000"
         ]
     },
     "Ethereum Public Instance bc t3.large": {
-        "Regionless": [
+        "Default": [
             "0.1340000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (Instance Name: bc.t3.large)": [
             "0.1340000000"
         ],
-        "EU (London)": [
+        "EU (London) (Instance Name: bc.t3.large)": [
             "0.1510000000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (Instance Name: bc.t3.large)": [
             "0.1460000000"
         ],
-        "Asia Pacific (Tokyo)": [
+        "Asia Pacific (Tokyo) (Instance Name: bc.t3.large)": [
             "0.1740000000"
         ],
-        "Asia Pacific (Singapore)": [
+        "Asia Pacific (Singapore) (Instance Name: bc.t3.large)": [
             "0.1690000000"
         ],
-        "Asia Pacific (Seoul)": [
+        "Asia Pacific (Seoul) (Instance Name: bc.t3.large)": [
             "0.1660000000"
         ]
     },
     "Standard Instance bc m5.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.3070000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (Instance Name: bc.m5.xlarge)": [
             "0.3070000000"
         ],
-        "EU (London)": [
+        "EU (London) (Instance Name: bc.m5.xlarge)": [
             "0.3550000000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (Instance Name: bc.m5.xlarge)": [
             "0.3420000000"
         ],
-        "Asia Pacific (Tokyo)": [
+        "Asia Pacific (Tokyo) (Instance Name: bc.m5.xlarge)": [
             "0.3970000000"
         ],
-        "Asia Pacific (Singapore)": [
+        "Asia Pacific (Singapore) (Instance Name: bc.m5.xlarge)": [
             "0.3840000000"
         ],
-        "Asia Pacific (Seoul)": [
+        "Asia Pacific (Seoul) (Instance Name: bc.m5.xlarge)": [
             "0.3780000000"
         ],
-        "AWS GovCloud (US)": [
+        "AWS GovCloud (US) (Instance Name: bc.m5.xlarge)": [
             "0.3872000000"
         ]
     },
     "Ethereum Public Instance bc m5.4xlarge": {
-        "Regionless": [
+        "Default": [
             "1.2290000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (Instance Name: bc.m5.4xlarge)": [
             "1.2290000000"
         ],
-        "EU (London)": [
+        "EU (London) (Instance Name: bc.m5.4xlarge)": [
             "1.4210000000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (Instance Name: bc.m5.4xlarge)": [
             "1.3700000000"
         ],
-        "Asia Pacific (Tokyo)": [
+        "Asia Pacific (Tokyo) (Instance Name: bc.m5.4xlarge)": [
             "1.5870000000"
         ],
-        "Asia Pacific (Singapore)": [
+        "Asia Pacific (Singapore) (Instance Name: bc.m5.4xlarge)": [
             "1.5360000000"
         ],
-        "Asia Pacific (Seoul)": [
+        "Asia Pacific (Seoul) (Instance Name: bc.m5.4xlarge)": [
             "1.5100000000"
         ]
     },
     "Standard Instance bc m5.2xlarge": {
-        "Regionless": [
+        "Default": [
             "0.6170000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (Instance Name: bc.m5.2xlarge)": [
             "0.6170000000"
         ],
-        "EU (London)": [
+        "EU (London) (Instance Name: bc.m5.2xlarge)": [
             "0.7100000000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (Instance Name: bc.m5.2xlarge)": [
             "0.6850000000"
         ],
-        "Asia Pacific (Tokyo)": [
+        "Asia Pacific (Tokyo) (Instance Name: bc.m5.2xlarge)": [
             "0.7940000000"
         ],
-        "Asia Pacific (Singapore)": [
+        "Asia Pacific (Singapore) (Instance Name: bc.m5.2xlarge)": [
             "0.7680000000"
         ],
-        "Asia Pacific (Seoul)": [
+        "Asia Pacific (Seoul) (Instance Name: bc.m5.2xlarge)": [
             "0.7550000000"
         ],
-        "AWS GovCloud (US)": [
+        "AWS GovCloud (US) (Instance Name: bc.m5.2xlarge)": [
             "0.7744000000"
         ]
     },
     "Starter Member": {
-        "Regionless": [
+        "Default": [
             "0.3000000000"
         ],
         "US East (N. Virginia)": [
@@ -988,7 +1252,7 @@
         ]
     },
     "Ethereum Sepolia-Testnet-Query M Request": {
-        "Regionless": [
+        "Default": [
             "0.0000090000"
         ],
         "US East (N. Virginia)": [
@@ -996,30 +1260,30 @@
         ]
     },
     "Ethereum Public Instance bc c5.4xlarge": {
-        "Regionless": [
+        "Default": [
             "1.0880000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (Instance Name: bc.c5.4xlarge)": [
             "1.0880000000"
         ],
-        "EU (London)": [
+        "EU (London) (Instance Name: bc.c5.4xlarge)": [
             "1.2930000000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (Instance Name: bc.c5.4xlarge)": [
             "1.2290000000"
         ],
-        "Asia Pacific (Tokyo)": [
+        "Asia Pacific (Tokyo) (Instance Name: bc.c5.4xlarge)": [
             "1.3700000000"
         ],
-        "Asia Pacific (Singapore)": [
+        "Asia Pacific (Singapore) (Instance Name: bc.c5.4xlarge)": [
             "1.2540000000"
         ],
-        "Asia Pacific (Seoul)": [
+        "Asia Pacific (Seoul) (Instance Name: bc.c5.4xlarge)": [
             "1.2290000000"
         ]
     },
     "Bitcoin Testnet-Access XL Request": {
-        "Regionless": [
+        "Default": [
             "0.0000250000"
         ],
         "US East (N. Virginia)": [
@@ -1042,7 +1306,7 @@
         ]
     },
     "Starter Data Written": {
-        "Regionless": [
+        "Default": [
             "0.1000000000"
         ],
         "US East (N. Virginia)": [
@@ -1068,7 +1332,7 @@
         ]
     },
     "Bitcoin Mainnet-Access L Request": {
-        "Regionless": [
+        "Default": [
             "0.0000160000"
         ],
         "US East (N. Virginia)": [
@@ -1091,7 +1355,7 @@
         ]
     },
     "Bitcoin Testnet-Query S Request": {
-        "Regionless": [
+        "Default": [
             "0.0000070000"
         ],
         "US East (N. Virginia)": [
@@ -1099,7 +1363,7 @@
         ]
     },
     "Bitcoin Mainnet-Query XL Request": {
-        "Regionless": [
+        "Default": [
             "0.0000250000"
         ],
         "US East (N. Virginia)": [
@@ -1107,7 +1371,7 @@
         ]
     },
     "Ethereum Sepolia-Testnet-Query S Request": {
-        "Regionless": [
+        "Default": [
             "0.0000070000"
         ],
         "US East (N. Virginia)": [
@@ -1115,33 +1379,33 @@
         ]
     },
     "Standard Instance bc c5.xlarge": {
-        "Regionless": [
+        "Default": [
             "0.2720000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (Instance Name: bc.c5.xlarge)": [
             "0.2720000000"
         ],
-        "EU (London)": [
+        "EU (London) (Instance Name: bc.c5.xlarge)": [
             "0.3230000000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (Instance Name: bc.c5.xlarge)": [
             "0.3070000000"
         ],
-        "Asia Pacific (Tokyo)": [
+        "Asia Pacific (Tokyo) (Instance Name: bc.c5.xlarge)": [
             "0.3420000000"
         ],
-        "Asia Pacific (Singapore)": [
+        "Asia Pacific (Singapore) (Instance Name: bc.c5.xlarge)": [
             "0.3140000000"
         ],
-        "Asia Pacific (Seoul)": [
+        "Asia Pacific (Seoul) (Instance Name: bc.c5.xlarge)": [
             "0.3070000000"
         ],
-        "AWS GovCloud (US)": [
+        "AWS GovCloud (US) (Instance Name: bc.c5.xlarge)": [
             "0.3264000000"
         ]
     },
     "Bitcoin Mainnet-Access XS Request": {
-        "Regionless": [
+        "Default": [
             "0.0000050000"
         ],
         "US East (N. Virginia)": [
@@ -1164,7 +1428,7 @@
         ]
     },
     "Standard Node Storage": {
-        "Regionless": [
+        "Default": [
             "0.1000000000"
         ],
         "US East (N. Virginia)": [
@@ -1190,7 +1454,7 @@
         ]
     },
     "Bitcoin Mainnet-Query S Request": {
-        "Regionless": [
+        "Default": [
             "0.0000070000"
         ],
         "US East (N. Virginia)": [

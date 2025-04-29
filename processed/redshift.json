@@ -1,1204 +1,1716 @@
 {
     "OnDemand Compute Instance Current Generation": {
-        "Regionless": [
+        "Default": [
             "4.8000000000"
         ],
-        "US West (Oregon)": [
-            "13.0400000000",
-            "0.2500000000",
-            "4.8000000000",
-            "0.5430000000",
-            "3.2600000000",
+        "US West (Oregon) (Memory: 244 GiB, vCPU: 32, Storage: 2.56TB SSD, I/O: 7.50 GB/s, Instance Type: dc2.8xlarge, ECU: 99)": [
+            "4.8000000000"
+        ],
+        "US West (Oregon) (Memory: 15 GiB, vCPU: 2, Storage: 0.16TB SSD, I/O: 0.60 GB/s, Instance Type: dc2.large, ECU: 7)": [
+            "0.2500000000"
+        ],
+        "US West (Oregon) (Memory: 384 GiB, vCPU: 48, Storage: 64TB RMS, I/O: 8.00 GB/s, Instance Type: ra3.16xlarge, ECU: 148.5)": [
+            "13.0400000000"
+        ],
+        "US West (Oregon) (Memory: 96 GiB, vCPU: 12, Storage: 64TB RMS, I/O: 2.00 GB/s, Instance Type: ra3.4xlarge, ECU: 37.125)": [
+            "3.2600000000"
+        ],
+        "US West (Oregon) (Memory: 16 GiB, vCPU: 2, Storage: 8TB RMS, I/O: 0.325 GB/s, Instance Type: ra3.large, ECU: 6.1875)": [
+            "0.5430000000"
+        ],
+        "US West (Oregon) (Memory: 32 GiB, vCPU: 4, Storage: 32TB RMS, I/O: 0.65 GB/s, Instance Type: ra3.xlplus, ECU: 12.375)": [
             "1.0860000000"
         ],
-        "US West (N. California)": [
-            "1.2020000000",
-            "0.6010000000",
-            "6.4000000000",
-            "14.4240000000",
-            "0.3300000000",
+        "US West (N. California) (Memory: 244 GiB, vCPU: 32, Storage: 2.56TB SSD, I/O: 7.50 GB/s, Instance Type: dc2.8xlarge, ECU: 99)": [
+            "6.4000000000"
+        ],
+        "US West (N. California) (Memory: 15 GiB, vCPU: 2, Storage: 0.16TB SSD, I/O: 0.60 GB/s, Instance Type: dc2.large, ECU: 7)": [
+            "0.3300000000"
+        ],
+        "US West (N. California) (Memory: 384 GiB, vCPU: 48, Storage: 64TB RMS, I/O: 8.00 GB/s, Instance Type: ra3.16xlarge, ECU: 148.5)": [
+            "14.4240000000"
+        ],
+        "US West (N. California) (Memory: 96 GiB, vCPU: 12, Storage: 64TB RMS, I/O: 2.00 GB/s, Instance Type: ra3.4xlarge, ECU: 37.125)": [
             "3.6060000000"
         ],
-        "US East (Ohio)": [
-            "13.0400000000",
-            "0.2500000000",
-            "4.8000000000",
-            "0.5430000000",
-            "3.2600000000",
-            "1.0860000000"
-        ],
-        "US East (N. Virginia)": [
-            "13.0400000000",
-            "0.2500000000",
-            "4.8000000000",
-            "0.5430000000",
-            "3.2600000000",
-            "1.0860000000"
-        ],
-        "South America (Sao Paulo)": [
-            "7.6800000000",
-            "0.4000000000",
-            "5.1950000000",
-            "0.8660000000",
-            "20.7800000000",
-            "1.7310000000"
-        ],
-        "Middle East (UAE)": [
-            "15.8664000000",
-            "0.3300000000",
-            "0.6610000000",
-            "3.9666000000",
-            "6.1600000000",
-            "1.3222000000"
-        ],
-        "Middle East (Bahrain)": [
-            "3.9700000000",
-            "1.3200000000",
-            "0.3300000000",
-            "15.8700000000",
-            "6.1600000000",
-            "0.6600000000"
-        ],
-        "Mexico (Central)": [
-            "0.5701500000",
-            "1.1403000000",
-            "3.4230000000",
-            "13.6920000000"
-        ],
-        "Israel (Tel Aviv)": [
-            "3.7863000000",
-            "0.6310000000",
-            "1.2621000000",
-            "15.1452000000"
-        ],
-        "EU (Zurich)": [
-            "6.0480000000",
-            "4.2834000000",
-            "1.4278000000",
-            "17.1358000000",
-            "0.3240000000",
-            "0.7140000000"
-        ],
-        "EU (Stockholm)": [
-            "1.1390000000",
-            "5.3200000000",
-            "0.2850000000",
-            "3.4180000000",
-            "0.5700000000",
-            "13.6750000000"
-        ],
-        "EU (Spain)": [
-            "1.2020000000",
-            "0.6010000000",
-            "0.3000000000",
-            "14.4240000000",
-            "5.6000000000",
-            "3.6060000000"
-        ],
-        "EU (Paris)": [
-            "1.2650000000",
-            "3.7950000000",
-            "5.8800000000",
-            "0.6330000000",
-            "15.1800000000",
-            "0.3200000000"
-        ],
-        "EU (Milan)": [
-            "0.3150000000",
-            "0.6300000000",
-            "1.2600000000",
-            "5.8800000000",
-            "15.1500000000",
-            "3.7900000000"
-        ],
-        "EU (London)": [
-            "1.2640000000",
-            "3.7930000000",
-            "5.8800000000",
-            "0.6320000000",
-            "0.3200000000",
-            "15.1740000000"
-        ],
-        "EU (Ireland)": [
-            "1.2020000000",
-            "0.6010000000",
-            "0.3000000000",
-            "14.4240000000",
-            "5.6000000000",
-            "3.6060000000"
-        ],
-        "EU (Frankfurt)": [
-            "6.0480000000",
-            "15.5780000000",
-            "1.2980000000",
-            "3.8940000000",
-            "0.3240000000",
-            "0.6490000000"
-        ],
-        "Canada West (Calgary)": [
-            "3.6070000000",
-            "14.4300000000",
-            "1.2020000000",
+        "US West (N. California) (Memory: 16 GiB, vCPU: 2, Storage: 8TB RMS, I/O: 0.325 GB/s, Instance Type: ra3.large, ECU: 6.1875)": [
             "0.6010000000"
         ],
-        "Canada (Central)": [
-            "14.4300000000",
-            "1.2020000000",
-            "0.6010000000",
-            "3.6070000000",
-            "0.2750000000",
-            "5.2800000000"
+        "US West (N. California) (Memory: 32 GiB, vCPU: 4, Storage: 32TB RMS, I/O: 0.65 GB/s, Instance Type: ra3.xlplus, ECU: 12.375)": [
+            "1.2020000000"
         ],
-        "Asia Pacific (Tokyo)": [
-            "6.0950000000",
-            "1.2780000000",
-            "15.3470000000",
-            "0.6390000000",
-            "0.3140000000",
-            "3.8360000000"
+        "US East (Ohio) (Memory: 244 GiB, vCPU: 32, Storage: 2.56TB SSD, I/O: 7.50 GB/s, Instance Type: dc2.8xlarge, ECU: 99)": [
+            "4.8000000000"
         ],
-        "Asia Pacific (Thailand)": [
-            "3.5181000000",
-            "0.5863500000",
-            "1.1727000000",
-            "14.0724000000"
+        "US East (Ohio) (Memory: 15 GiB, vCPU: 2, Storage: 0.16TB SSD, I/O: 0.60 GB/s, Instance Type: dc2.large, ECU: 7)": [
+            "0.2500000000"
         ],
-        "Asia Pacific (Sydney)": [
-            "6.4000000000",
-            "0.6520000000",
-            "3.9090000000",
-            "0.3300000000",
-            "15.6360000000",
-            "1.3030000000"
+        "US East (Ohio) (Memory: 384 GiB, vCPU: 48, Storage: 64TB RMS, I/O: 8.00 GB/s, Instance Type: ra3.16xlarge, ECU: 148.5)": [
+            "13.0400000000"
         ],
-        "Asia Pacific (Singapore)": [
-            "6.4000000000",
-            "0.6520000000",
-            "3.9090000000",
-            "0.3300000000",
-            "15.6360000000",
-            "1.3030000000"
+        "US East (Ohio) (Memory: 96 GiB, vCPU: 12, Storage: 64TB RMS, I/O: 2.00 GB/s, Instance Type: ra3.4xlarge, ECU: 37.125)": [
+            "3.2600000000"
         ],
-        "Asia Pacific (Seoul)": [
-            "0.3000000000",
-            "15.3470000000",
-            "0.6390000000",
-            "5.8000000000",
-            "1.2780000000",
-            "3.8360000000"
+        "US East (Ohio) (Memory: 16 GiB, vCPU: 2, Storage: 8TB RMS, I/O: 0.325 GB/s, Instance Type: ra3.large, ECU: 6.1875)": [
+            "0.5430000000"
         ],
-        "Asia Pacific (Osaka)": [
-            "6.0950000000",
-            "0.6400000000",
-            "1.2800000000",
-            "3.8400000000",
-            "0.3140000000",
-            "15.3500000000"
-        ],
-        "Asia Pacific (Mumbai)": [
-            "0.3150000000",
-            "14.8270000000",
-            "0.6180000000",
-            "1.2350000000",
-            "3.7060000000",
-            "6.1000000000"
-        ],
-        "Asia Pacific (Melbourne)": [
-            "6.4000000000",
-            "0.6520000000",
-            "3.9090000000",
-            "0.3300000000",
-            "15.6360000000",
-            "1.3030000000"
-        ],
-        "Asia Pacific (Malaysia)": [
-            "3.5181000000",
-            "0.5863500000",
-            "1.1727000000",
-            "14.0724000000"
-        ],
-        "Asia Pacific (Jakarta)": [
-            "15.3630000000",
-            "6.4000000000",
-            "0.6520000000",
-            "3.9090000000",
-            "0.3300000000",
-            "1.3030000000"
-        ],
-        "Asia Pacific (Hyderabad)": [
-            "0.3150000000",
-            "14.8270000000",
-            "0.6180000000",
-            "1.2350000000",
-            "3.7060000000",
-            "6.1000000000"
-        ],
-        "Asia Pacific (Hong Kong)": [
-            "0.3630000000",
-            "13.0400000000",
-            "0.5430000000",
-            "3.2600000000",
-            "1.0860000000",
-            "7.0400000000"
-        ],
-        "Africa (Cape Town)": [
-            "0.7150000000",
-            "0.3570000000",
-            "1.4300000000",
-            "6.6640000000",
-            "17.1600000000",
-            "4.2900000000"
-        ],
-        "AWS GovCloud (US-East)": [
-            "13.0400000000",
-            "0.3000000000",
-            "5.7600000000",
-            "0.5430000000",
-            "3.2600000000",
+        "US East (Ohio) (Memory: 32 GiB, vCPU: 4, Storage: 32TB RMS, I/O: 0.65 GB/s, Instance Type: ra3.xlplus, ECU: 12.375)": [
             "1.0860000000"
         ],
-        "AWS GovCloud (US)": [
-            "13.0400000000",
-            "0.3000000000",
-            "5.7600000000",
-            "0.5430000000",
-            "3.2600000000",
+        "US East (N. Virginia) (Memory: 244 GiB, vCPU: 32, Storage: 2.56TB SSD, I/O: 7.50 GB/s, Instance Type: dc2.8xlarge, ECU: 99)": [
+            "4.8000000000"
+        ],
+        "US East (N. Virginia) (Memory: 15 GiB, vCPU: 2, Storage: 0.16TB SSD, I/O: 0.60 GB/s, Instance Type: dc2.large, ECU: 7)": [
+            "0.2500000000"
+        ],
+        "US East (N. Virginia) (Memory: 384 GiB, vCPU: 48, Storage: 64TB RMS, I/O: 8.00 GB/s, Instance Type: ra3.16xlarge, ECU: 148.5)": [
+            "13.0400000000"
+        ],
+        "US East (N. Virginia) (Memory: 96 GiB, vCPU: 12, Storage: 64TB RMS, I/O: 2.00 GB/s, Instance Type: ra3.4xlarge, ECU: 37.125)": [
+            "3.2600000000"
+        ],
+        "US East (N. Virginia) (Memory: 16 GiB, vCPU: 2, Storage: 8TB RMS, I/O: 0.325 GB/s, Instance Type: ra3.large, ECU: 6.1875)": [
+            "0.5430000000"
+        ],
+        "US East (N. Virginia) (Memory: 32 GiB, vCPU: 4, Storage: 32TB RMS, I/O: 0.65 GB/s, Instance Type: ra3.xlplus, ECU: 12.375)": [
+            "1.0860000000"
+        ],
+        "South America (Sao Paulo) (Memory: 244 GiB, vCPU: 32, Storage: 2.56TB SSD, I/O: 7.50 GB/s, Instance Type: dc2.8xlarge, ECU: 99)": [
+            "7.6800000000"
+        ],
+        "South America (Sao Paulo) (Memory: 15 GiB, vCPU: 2, Storage: 0.16TB SSD, I/O: 0.60 GB/s, Instance Type: dc2.large, ECU: 7)": [
+            "0.4000000000"
+        ],
+        "South America (Sao Paulo) (Memory: 384 GiB, vCPU: 48, Storage: 64TB RMS, I/O: 8.00 GB/s, Instance Type: ra3.16xlarge, ECU: 148.5)": [
+            "20.7800000000"
+        ],
+        "South America (Sao Paulo) (Memory: 96 GiB, vCPU: 12, Storage: 64TB RMS, I/O: 2.00 GB/s, Instance Type: ra3.4xlarge, ECU: 37.125)": [
+            "5.1950000000"
+        ],
+        "South America (Sao Paulo) (Memory: 16 GiB, vCPU: 2, Storage: 8TB RMS, I/O: 0.325 GB/s, Instance Type: ra3.large, ECU: 6.1875)": [
+            "0.8660000000"
+        ],
+        "South America (Sao Paulo) (Memory: 32 GiB, vCPU: 4, Storage: 32TB RMS, I/O: 0.65 GB/s, Instance Type: ra3.xlplus, ECU: 12.375)": [
+            "1.7310000000"
+        ],
+        "Middle East (UAE) (Memory: 244 GiB, vCPU: 32, Storage: 2.56TB SSD, I/O: 7.50 GB/s, Instance Type: dc2.8xlarge, ECU: 99)": [
+            "6.1600000000"
+        ],
+        "Middle East (UAE) (Memory: 15 GiB, vCPU: 2, Storage: 0.16TB SSD, I/O: 0.60 GB/s, Instance Type: dc2.large, ECU: 7)": [
+            "0.3300000000"
+        ],
+        "Middle East (UAE) (Memory: 384 GiB, vCPU: 48, Storage: 64TB RMS, I/O: 8.00 GB/s, Instance Type: ra3.16xlarge, ECU: 148.5)": [
+            "15.8664000000"
+        ],
+        "Middle East (UAE) (Memory: 96 GiB, vCPU: 12, Storage: 64TB RMS, I/O: 2.00 GB/s, Instance Type: ra3.4xlarge, ECU: 37.125)": [
+            "3.9666000000"
+        ],
+        "Middle East (UAE) (Memory: 16 GiB, vCPU: 2, Storage: 8TB RMS, I/O: 0.325 GB/s, Instance Type: ra3.large, ECU: 6.1875)": [
+            "0.6610000000"
+        ],
+        "Middle East (UAE) (Memory: 32 GiB, vCPU: 4, Storage: 32TB RMS, I/O: 0.65 GB/s, Instance Type: ra3.xlplus, ECU: 12.375)": [
+            "1.3222000000"
+        ],
+        "Middle East (Bahrain) (Memory: 244 GiB, vCPU: 32, Storage: 2.56TB SSD, I/O: 7.50 GB/s, Instance Type: dc2.8xlarge, ECU: 99)": [
+            "6.1600000000"
+        ],
+        "Middle East (Bahrain) (Memory: 15 GiB, vCPU: 2, Storage: 0.16TB SSD, I/O: 0.60 GB/s, Instance Type: dc2.large, ECU: 7)": [
+            "0.3300000000"
+        ],
+        "Middle East (Bahrain) (Memory: 384 GiB, vCPU: 48, Storage: 64TB RMS, I/O: 8.00 GB/s, Instance Type: ra3.16xlarge, ECU: 148.5)": [
+            "15.8700000000"
+        ],
+        "Middle East (Bahrain) (Memory: 96 GiB, vCPU: 12, Storage: 64TB RMS, I/O: 2.00 GB/s, Instance Type: ra3.4xlarge, ECU: 37.125)": [
+            "3.9700000000"
+        ],
+        "Middle East (Bahrain) (Memory: 16 GiB, vCPU: 2, Storage: 8TB RMS, I/O: 0.325 GB/s, Instance Type: ra3.large, ECU: 6.1875)": [
+            "0.6600000000"
+        ],
+        "Middle East (Bahrain) (Memory: 32 GiB, vCPU: 4, Storage: 32TB RMS, I/O: 0.65 GB/s, Instance Type: ra3.xlplus, ECU: 12.375)": [
+            "1.3200000000"
+        ],
+        "Mexico (Central) (Memory: 384 GiB, vCPU: 48, Storage: 64TB RMS, I/O: 8.00 GB/s, Instance Type: ra3.16xlarge, ECU: 148.5)": [
+            "13.6920000000"
+        ],
+        "Mexico (Central) (Memory: 96 GiB, vCPU: 12, Storage: 64TB RMS, I/O: 2.00 GB/s, Instance Type: ra3.4xlarge, ECU: 37.125)": [
+            "3.4230000000"
+        ],
+        "Mexico (Central) (Memory: 16 GiB, vCPU: 2, Storage: 8TB RMS, I/O: 0.325 GB/s, Instance Type: ra3.large, ECU: 6.1875)": [
+            "0.5701500000"
+        ],
+        "Mexico (Central) (Memory: 32 GiB, vCPU: 4, Storage: 32TB RMS, I/O: 0.65 GB/s, Instance Type: ra3.xlplus, ECU: 12.375)": [
+            "1.1403000000"
+        ],
+        "Israel (Tel Aviv) (Memory: 384 GiB, vCPU: 48, Storage: 64TB RMS, I/O: 8.00 GB/s, Instance Type: ra3.16xlarge, ECU: 148.5)": [
+            "15.1452000000"
+        ],
+        "Israel (Tel Aviv) (Memory: 96 GiB, vCPU: 12, Storage: 64TB RMS, I/O: 2.00 GB/s, Instance Type: ra3.4xlarge, ECU: 37.125)": [
+            "3.7863000000"
+        ],
+        "Israel (Tel Aviv) (Memory: 16 GiB, vCPU: 2, Storage: 8TB RMS, I/O: 0.325 GB/s, Instance Type: ra3.large, ECU: 6.1875)": [
+            "0.6310000000"
+        ],
+        "Israel (Tel Aviv) (Memory: 32 GiB, vCPU: 4, Storage: 32TB RMS, I/O: 0.65 GB/s, Instance Type: ra3.xlplus, ECU: 12.375)": [
+            "1.2621000000"
+        ],
+        "EU (Zurich) (Memory: 244 GiB, vCPU: 32, Storage: 2.56TB SSD, I/O: 7.50 GB/s, Instance Type: dc2.8xlarge, ECU: 99)": [
+            "6.0480000000"
+        ],
+        "EU (Zurich) (Memory: 15 GiB, vCPU: 2, Storage: 0.16TB SSD, I/O: 0.60 GB/s, Instance Type: dc2.large, ECU: 7)": [
+            "0.3240000000"
+        ],
+        "EU (Zurich) (Memory: 384 GiB, vCPU: 48, Storage: 64TB RMS, I/O: 8.00 GB/s, Instance Type: ra3.16xlarge, ECU: 148.5)": [
+            "17.1358000000"
+        ],
+        "EU (Zurich) (Memory: 96 GiB, vCPU: 12, Storage: 64TB RMS, I/O: 2.00 GB/s, Instance Type: ra3.4xlarge, ECU: 37.125)": [
+            "4.2834000000"
+        ],
+        "EU (Zurich) (Memory: 16 GiB, vCPU: 2, Storage: 8TB RMS, I/O: 0.325 GB/s, Instance Type: ra3.large, ECU: 6.1875)": [
+            "0.7140000000"
+        ],
+        "EU (Zurich) (Memory: 32 GiB, vCPU: 4, Storage: 32TB RMS, I/O: 0.65 GB/s, Instance Type: ra3.xlplus, ECU: 12.375)": [
+            "1.4278000000"
+        ],
+        "EU (Stockholm) (Memory: 244 GiB, vCPU: 32, Storage: 2.56TB SSD, I/O: 7.50 GB/s, Instance Type: dc2.8xlarge, ECU: 99)": [
+            "5.3200000000"
+        ],
+        "EU (Stockholm) (Memory: 15 GiB, vCPU: 2, Storage: 0.16TB SSD, I/O: 0.60 GB/s, Instance Type: dc2.large, ECU: 7)": [
+            "0.2850000000"
+        ],
+        "EU (Stockholm) (Memory: 384 GiB, vCPU: 48, Storage: 64TB RMS, I/O: 8.00 GB/s, Instance Type: ra3.16xlarge, ECU: 148.5)": [
+            "13.6750000000"
+        ],
+        "EU (Stockholm) (Memory: 96 GiB, vCPU: 12, Storage: 64TB RMS, I/O: 2.00 GB/s, Instance Type: ra3.4xlarge, ECU: 37.125)": [
+            "3.4180000000"
+        ],
+        "EU (Stockholm) (Memory: 16 GiB, vCPU: 2, Storage: 8TB RMS, I/O: 0.325 GB/s, Instance Type: ra3.large, ECU: 6.1875)": [
+            "0.5700000000"
+        ],
+        "EU (Stockholm) (Memory: 32 GiB, vCPU: 4, Storage: 32TB RMS, I/O: 0.65 GB/s, Instance Type: ra3.xlplus, ECU: 12.375)": [
+            "1.1390000000"
+        ],
+        "EU (Spain) (Memory: 244 GiB, vCPU: 32, Storage: 2.56TB SSD, I/O: 7.50 GB/s, Instance Type: dc2.8xlarge, ECU: 99)": [
+            "5.6000000000"
+        ],
+        "EU (Spain) (Memory: 15 GiB, vCPU: 2, Storage: 0.16TB SSD, I/O: 0.60 GB/s, Instance Type: dc2.large, ECU: 7)": [
+            "0.3000000000"
+        ],
+        "EU (Spain) (Memory: 384 GiB, vCPU: 48, Storage: 64TB RMS, I/O: 8.00 GB/s, Instance Type: ra3.16xlarge, ECU: 148.5)": [
+            "14.4240000000"
+        ],
+        "EU (Spain) (Memory: 96 GiB, vCPU: 12, Storage: 64TB RMS, I/O: 2.00 GB/s, Instance Type: ra3.4xlarge, ECU: 37.125)": [
+            "3.6060000000"
+        ],
+        "EU (Spain) (Memory: 16 GiB, vCPU: 2, Storage: 8TB RMS, I/O: 0.325 GB/s, Instance Type: ra3.large, ECU: 6.1875)": [
+            "0.6010000000"
+        ],
+        "EU (Spain) (Memory: 32 GiB, vCPU: 4, Storage: 32TB RMS, I/O: 0.65 GB/s, Instance Type: ra3.xlplus, ECU: 12.375)": [
+            "1.2020000000"
+        ],
+        "EU (Paris) (Memory: 244 GiB, vCPU: 32, Storage: 2.56TB SSD, I/O: 7.50 GB/s, Instance Type: dc2.8xlarge, ECU: 99)": [
+            "5.8800000000"
+        ],
+        "EU (Paris) (Memory: 15 GiB, vCPU: 2, Storage: 0.16TB SSD, I/O: 0.60 GB/s, Instance Type: dc2.large, ECU: 7)": [
+            "0.3200000000"
+        ],
+        "EU (Paris) (Memory: 384 GiB, vCPU: 48, Storage: 64TB RMS, I/O: 8.00 GB/s, Instance Type: ra3.16xlarge, ECU: 148.5)": [
+            "15.1800000000"
+        ],
+        "EU (Paris) (Memory: 96 GiB, vCPU: 12, Storage: 64TB RMS, I/O: 2.00 GB/s, Instance Type: ra3.4xlarge, ECU: 37.125)": [
+            "3.7950000000"
+        ],
+        "EU (Paris) (Memory: 16 GiB, vCPU: 2, Storage: 8TB RMS, I/O: 0.325 GB/s, Instance Type: ra3.large, ECU: 6.1875)": [
+            "0.6330000000"
+        ],
+        "EU (Paris) (Memory: 32 GiB, vCPU: 4, Storage: 32TB RMS, I/O: 0.65 GB/s, Instance Type: ra3.xlplus, ECU: 12.375)": [
+            "1.2650000000"
+        ],
+        "EU (Milan) (Memory: 244 GiB, vCPU: 32, Storage: 2.56TB SSD, I/O: 7.50 GB/s, Instance Type: dc2.8xlarge, ECU: 99)": [
+            "5.8800000000"
+        ],
+        "EU (Milan) (Memory: 15 GiB, vCPU: 2, Storage: 0.16TB SSD, I/O: 0.60 GB/s, Instance Type: dc2.large, ECU: 7)": [
+            "0.3150000000"
+        ],
+        "EU (Milan) (Memory: 384 GiB, vCPU: 48, Storage: 64TB RMS, I/O: 8.00 GB/s, Instance Type: ra3.16xlarge, ECU: 148.5)": [
+            "15.1500000000"
+        ],
+        "EU (Milan) (Memory: 96 GiB, vCPU: 12, Storage: 64TB RMS, I/O: 2.00 GB/s, Instance Type: ra3.4xlarge, ECU: 37.125)": [
+            "3.7900000000"
+        ],
+        "EU (Milan) (Memory: 16 GiB, vCPU: 2, Storage: 8TB RMS, I/O: 0.325 GB/s, Instance Type: ra3.large, ECU: 6.1875)": [
+            "0.6300000000"
+        ],
+        "EU (Milan) (Memory: 32 GiB, vCPU: 4, Storage: 32TB RMS, I/O: 0.65 GB/s, Instance Type: ra3.xlplus, ECU: 12.375)": [
+            "1.2600000000"
+        ],
+        "EU (London) (Memory: 244 GiB, vCPU: 32, Storage: 2.56TB SSD, I/O: 7.50 GB/s, Instance Type: dc2.8xlarge, ECU: 99)": [
+            "5.8800000000"
+        ],
+        "EU (London) (Memory: 15 GiB, vCPU: 2, Storage: 0.16TB SSD, I/O: 0.60 GB/s, Instance Type: dc2.large, ECU: 7)": [
+            "0.3200000000"
+        ],
+        "EU (London) (Memory: 384 GiB, vCPU: 48, Storage: 64TB RMS, I/O: 8.00 GB/s, Instance Type: ra3.16xlarge, ECU: 148.5)": [
+            "15.1740000000"
+        ],
+        "EU (London) (Memory: 96 GiB, vCPU: 12, Storage: 64TB RMS, I/O: 2.00 GB/s, Instance Type: ra3.4xlarge, ECU: 37.125)": [
+            "3.7930000000"
+        ],
+        "EU (London) (Memory: 16 GiB, vCPU: 2, Storage: 8TB RMS, I/O: 0.325 GB/s, Instance Type: ra3.large, ECU: 6.1875)": [
+            "0.6320000000"
+        ],
+        "EU (London) (Memory: 32 GiB, vCPU: 4, Storage: 32TB RMS, I/O: 0.65 GB/s, Instance Type: ra3.xlplus, ECU: 12.375)": [
+            "1.2640000000"
+        ],
+        "EU (Ireland) (Memory: 244 GiB, vCPU: 32, Storage: 2.56TB SSD, I/O: 7.50 GB/s, Instance Type: dc2.8xlarge, ECU: 99)": [
+            "5.6000000000"
+        ],
+        "EU (Ireland) (Memory: 15 GiB, vCPU: 2, Storage: 0.16TB SSD, I/O: 0.60 GB/s, Instance Type: dc2.large, ECU: 7)": [
+            "0.3000000000"
+        ],
+        "EU (Ireland) (Memory: 384 GiB, vCPU: 48, Storage: 64TB RMS, I/O: 8.00 GB/s, Instance Type: ra3.16xlarge, ECU: 148.5)": [
+            "14.4240000000"
+        ],
+        "EU (Ireland) (Memory: 96 GiB, vCPU: 12, Storage: 64TB RMS, I/O: 2.00 GB/s, Instance Type: ra3.4xlarge, ECU: 37.125)": [
+            "3.6060000000"
+        ],
+        "EU (Ireland) (Memory: 16 GiB, vCPU: 2, Storage: 8TB RMS, I/O: 0.325 GB/s, Instance Type: ra3.large, ECU: 6.1875)": [
+            "0.6010000000"
+        ],
+        "EU (Ireland) (Memory: 32 GiB, vCPU: 4, Storage: 32TB RMS, I/O: 0.65 GB/s, Instance Type: ra3.xlplus, ECU: 12.375)": [
+            "1.2020000000"
+        ],
+        "EU (Frankfurt) (Memory: 244 GiB, vCPU: 32, Storage: 2.56TB SSD, I/O: 7.50 GB/s, Instance Type: dc2.8xlarge, ECU: 99)": [
+            "6.0480000000"
+        ],
+        "EU (Frankfurt) (Memory: 15 GiB, vCPU: 2, Storage: 0.16TB SSD, I/O: 0.60 GB/s, Instance Type: dc2.large, ECU: 7)": [
+            "0.3240000000"
+        ],
+        "EU (Frankfurt) (Memory: 384 GiB, vCPU: 48, Storage: 64TB RMS, I/O: 8.00 GB/s, Instance Type: ra3.16xlarge, ECU: 148.5)": [
+            "15.5780000000"
+        ],
+        "EU (Frankfurt) (Memory: 96 GiB, vCPU: 12, Storage: 64TB RMS, I/O: 2.00 GB/s, Instance Type: ra3.4xlarge, ECU: 37.125)": [
+            "3.8940000000"
+        ],
+        "EU (Frankfurt) (Memory: 16 GiB, vCPU: 2, Storage: 8TB RMS, I/O: 0.325 GB/s, Instance Type: ra3.large, ECU: 6.1875)": [
+            "0.6490000000"
+        ],
+        "EU (Frankfurt) (Memory: 32 GiB, vCPU: 4, Storage: 32TB RMS, I/O: 0.65 GB/s, Instance Type: ra3.xlplus, ECU: 12.375)": [
+            "1.2980000000"
+        ],
+        "Canada West (Calgary) (Memory: 384 GiB, vCPU: 48, Storage: 64TB RMS, I/O: 8.00 GB/s, Instance Type: ra3.16xlarge, ECU: 148.5)": [
+            "14.4300000000"
+        ],
+        "Canada West (Calgary) (Memory: 96 GiB, vCPU: 12, Storage: 64TB RMS, I/O: 2.00 GB/s, Instance Type: ra3.4xlarge, ECU: 37.125)": [
+            "3.6070000000"
+        ],
+        "Canada West (Calgary) (Memory: 16 GiB, vCPU: 2, Storage: 8TB RMS, I/O: 0.325 GB/s, Instance Type: ra3.large, ECU: 6.1875)": [
+            "0.6010000000"
+        ],
+        "Canada West (Calgary) (Memory: 32 GiB, vCPU: 4, Storage: 32TB RMS, I/O: 0.65 GB/s, Instance Type: ra3.xlplus, ECU: 12.375)": [
+            "1.2020000000"
+        ],
+        "Canada (Central) (Memory: 244 GiB, vCPU: 32, Storage: 2.56TB SSD, I/O: 7.50 GB/s, Instance Type: dc2.8xlarge, ECU: 99)": [
+            "5.2800000000"
+        ],
+        "Canada (Central) (Memory: 15 GiB, vCPU: 2, Storage: 0.16TB SSD, I/O: 0.60 GB/s, Instance Type: dc2.large, ECU: 7)": [
+            "0.2750000000"
+        ],
+        "Canada (Central) (Memory: 384 GiB, vCPU: 48, Storage: 64TB RMS, I/O: 8.00 GB/s, Instance Type: ra3.16xlarge, ECU: 148.5)": [
+            "14.4300000000"
+        ],
+        "Canada (Central) (Memory: 96 GiB, vCPU: 12, Storage: 64TB RMS, I/O: 2.00 GB/s, Instance Type: ra3.4xlarge, ECU: 37.125)": [
+            "3.6070000000"
+        ],
+        "Canada (Central) (Memory: 16 GiB, vCPU: 2, Storage: 8TB RMS, I/O: 0.325 GB/s, Instance Type: ra3.large, ECU: 6.1875)": [
+            "0.6010000000"
+        ],
+        "Canada (Central) (Memory: 32 GiB, vCPU: 4, Storage: 32TB RMS, I/O: 0.65 GB/s, Instance Type: ra3.xlplus, ECU: 12.375)": [
+            "1.2020000000"
+        ],
+        "Asia Pacific (Tokyo) (Memory: 244 GiB, vCPU: 32, Storage: 2.56TB SSD, I/O: 7.50 GB/s, Instance Type: dc2.8xlarge, ECU: 99)": [
+            "6.0950000000"
+        ],
+        "Asia Pacific (Tokyo) (Memory: 15 GiB, vCPU: 2, Storage: 0.16TB SSD, I/O: 0.60 GB/s, Instance Type: dc2.large, ECU: 7)": [
+            "0.3140000000"
+        ],
+        "Asia Pacific (Tokyo) (Memory: 384 GiB, vCPU: 48, Storage: 64TB RMS, I/O: 8.00 GB/s, Instance Type: ra3.16xlarge, ECU: 148.5)": [
+            "15.3470000000"
+        ],
+        "Asia Pacific (Tokyo) (Memory: 96 GiB, vCPU: 12, Storage: 64TB RMS, I/O: 2.00 GB/s, Instance Type: ra3.4xlarge, ECU: 37.125)": [
+            "3.8360000000"
+        ],
+        "Asia Pacific (Tokyo) (Memory: 16 GiB, vCPU: 2, Storage: 8TB RMS, I/O: 0.325 GB/s, Instance Type: ra3.large, ECU: 6.1875)": [
+            "0.6390000000"
+        ],
+        "Asia Pacific (Tokyo) (Memory: 32 GiB, vCPU: 4, Storage: 32TB RMS, I/O: 0.65 GB/s, Instance Type: ra3.xlplus, ECU: 12.375)": [
+            "1.2780000000"
+        ],
+        "Asia Pacific (Thailand) (Memory: 384 GiB, vCPU: 48, Storage: 64TB RMS, I/O: 8.00 GB/s, Instance Type: ra3.16xlarge, ECU: 148.5)": [
+            "14.0724000000"
+        ],
+        "Asia Pacific (Thailand) (Memory: 96 GiB, vCPU: 12, Storage: 64TB RMS, I/O: 2.00 GB/s, Instance Type: ra3.4xlarge, ECU: 37.125)": [
+            "3.5181000000"
+        ],
+        "Asia Pacific (Thailand) (Memory: 16 GiB, vCPU: 2, Storage: 8TB RMS, I/O: 0.325 GB/s, Instance Type: ra3.large, ECU: 6.1875)": [
+            "0.5863500000"
+        ],
+        "Asia Pacific (Thailand) (Memory: 32 GiB, vCPU: 4, Storage: 32TB RMS, I/O: 0.65 GB/s, Instance Type: ra3.xlplus, ECU: 12.375)": [
+            "1.1727000000"
+        ],
+        "Asia Pacific (Sydney) (Memory: 244 GiB, vCPU: 32, Storage: 2.56TB SSD, I/O: 7.50 GB/s, Instance Type: dc2.8xlarge, ECU: 99)": [
+            "6.4000000000"
+        ],
+        "Asia Pacific (Sydney) (Memory: 15 GiB, vCPU: 2, Storage: 0.16TB SSD, I/O: 0.60 GB/s, Instance Type: dc2.large, ECU: 7)": [
+            "0.3300000000"
+        ],
+        "Asia Pacific (Sydney) (Memory: 384 GiB, vCPU: 48, Storage: 64TB RMS, I/O: 8.00 GB/s, Instance Type: ra3.16xlarge, ECU: 148.5)": [
+            "15.6360000000"
+        ],
+        "Asia Pacific (Sydney) (Memory: 96 GiB, vCPU: 12, Storage: 64TB RMS, I/O: 2.00 GB/s, Instance Type: ra3.4xlarge, ECU: 37.125)": [
+            "3.9090000000"
+        ],
+        "Asia Pacific (Sydney) (Memory: 16 GiB, vCPU: 2, Storage: 8TB RMS, I/O: 0.325 GB/s, Instance Type: ra3.large, ECU: 6.1875)": [
+            "0.6520000000"
+        ],
+        "Asia Pacific (Sydney) (Memory: 32 GiB, vCPU: 4, Storage: 32TB RMS, I/O: 0.65 GB/s, Instance Type: ra3.xlplus, ECU: 12.375)": [
+            "1.3030000000"
+        ],
+        "Asia Pacific (Singapore) (Memory: 244 GiB, vCPU: 32, Storage: 2.56TB SSD, I/O: 7.50 GB/s, Instance Type: dc2.8xlarge, ECU: 99)": [
+            "6.4000000000"
+        ],
+        "Asia Pacific (Singapore) (Memory: 15 GiB, vCPU: 2, Storage: 0.16TB SSD, I/O: 0.60 GB/s, Instance Type: dc2.large, ECU: 7)": [
+            "0.3300000000"
+        ],
+        "Asia Pacific (Singapore) (Memory: 384 GiB, vCPU: 48, Storage: 64TB RMS, I/O: 8.00 GB/s, Instance Type: ra3.16xlarge, ECU: 148.5)": [
+            "15.6360000000"
+        ],
+        "Asia Pacific (Singapore) (Memory: 96 GiB, vCPU: 12, Storage: 64TB RMS, I/O: 2.00 GB/s, Instance Type: ra3.4xlarge, ECU: 37.125)": [
+            "3.9090000000"
+        ],
+        "Asia Pacific (Singapore) (Memory: 16 GiB, vCPU: 2, Storage: 8TB RMS, I/O: 0.325 GB/s, Instance Type: ra3.large, ECU: 6.1875)": [
+            "0.6520000000"
+        ],
+        "Asia Pacific (Singapore) (Memory: 32 GiB, vCPU: 4, Storage: 32TB RMS, I/O: 0.65 GB/s, Instance Type: ra3.xlplus, ECU: 12.375)": [
+            "1.3030000000"
+        ],
+        "Asia Pacific (Seoul) (Memory: 244 GiB, vCPU: 32, Storage: 2.56TB SSD, I/O: 7.50 GB/s, Instance Type: dc2.8xlarge, ECU: 99)": [
+            "5.8000000000"
+        ],
+        "Asia Pacific (Seoul) (Memory: 15 GiB, vCPU: 2, Storage: 0.16TB SSD, I/O: 0.60 GB/s, Instance Type: dc2.large, ECU: 7)": [
+            "0.3000000000"
+        ],
+        "Asia Pacific (Seoul) (Memory: 384 GiB, vCPU: 48, Storage: 64TB RMS, I/O: 8.00 GB/s, Instance Type: ra3.16xlarge, ECU: 148.5)": [
+            "15.3470000000"
+        ],
+        "Asia Pacific (Seoul) (Memory: 96 GiB, vCPU: 12, Storage: 64TB RMS, I/O: 2.00 GB/s, Instance Type: ra3.4xlarge, ECU: 37.125)": [
+            "3.8360000000"
+        ],
+        "Asia Pacific (Seoul) (Memory: 16 GiB, vCPU: 2, Storage: 8TB RMS, I/O: 0.325 GB/s, Instance Type: ra3.large, ECU: 6.1875)": [
+            "0.6390000000"
+        ],
+        "Asia Pacific (Seoul) (Memory: 32 GiB, vCPU: 4, Storage: 32TB RMS, I/O: 0.65 GB/s, Instance Type: ra3.xlplus, ECU: 12.375)": [
+            "1.2780000000"
+        ],
+        "Asia Pacific (Osaka) (Memory: 244 GiB, vCPU: 32, Storage: 2.56TB SSD, I/O: 7.50 GB/s, Instance Type: dc2.8xlarge, ECU: 99)": [
+            "6.0950000000"
+        ],
+        "Asia Pacific (Osaka) (Memory: 15 GiB, vCPU: 2, Storage: 0.16TB SSD, I/O: 0.60 GB/s, Instance Type: dc2.large, ECU: 7)": [
+            "0.3140000000"
+        ],
+        "Asia Pacific (Osaka) (Memory: 384 GiB, vCPU: 48, Storage: 64TB RMS, I/O: 8.00 GB/s, Instance Type: ra3.16xlarge, ECU: 148.5)": [
+            "15.3500000000"
+        ],
+        "Asia Pacific (Osaka) (Memory: 96 GiB, vCPU: 12, Storage: 64TB RMS, I/O: 2.00 GB/s, Instance Type: ra3.4xlarge, ECU: 37.125)": [
+            "3.8400000000"
+        ],
+        "Asia Pacific (Osaka) (Memory: 16 GiB, vCPU: 2, Storage: 8TB RMS, I/O: 0.325 GB/s, Instance Type: ra3.large, ECU: 6.1875)": [
+            "0.6400000000"
+        ],
+        "Asia Pacific (Osaka) (Memory: 32 GiB, vCPU: 4, Storage: 32TB RMS, I/O: 0.65 GB/s, Instance Type: ra3.xlplus, ECU: 12.375)": [
+            "1.2800000000"
+        ],
+        "Asia Pacific (Mumbai) (Memory: 244 GiB, vCPU: 32, Storage: 2.56TB SSD, I/O: 7.50 GB/s, Instance Type: dc2.8xlarge, ECU: 99)": [
+            "6.1000000000"
+        ],
+        "Asia Pacific (Mumbai) (Memory: 15 GiB, vCPU: 2, Storage: 0.16TB SSD, I/O: 0.60 GB/s, Instance Type: dc2.large, ECU: 7)": [
+            "0.3150000000"
+        ],
+        "Asia Pacific (Mumbai) (Memory: 384 GiB, vCPU: 48, Storage: 64TB RMS, I/O: 8.00 GB/s, Instance Type: ra3.16xlarge, ECU: 148.5)": [
+            "14.8270000000"
+        ],
+        "Asia Pacific (Mumbai) (Memory: 96 GiB, vCPU: 12, Storage: 64TB RMS, I/O: 2.00 GB/s, Instance Type: ra3.4xlarge, ECU: 37.125)": [
+            "3.7060000000"
+        ],
+        "Asia Pacific (Mumbai) (Memory: 16 GiB, vCPU: 2, Storage: 8TB RMS, I/O: 0.325 GB/s, Instance Type: ra3.large, ECU: 6.1875)": [
+            "0.6180000000"
+        ],
+        "Asia Pacific (Mumbai) (Memory: 32 GiB, vCPU: 4, Storage: 32TB RMS, I/O: 0.65 GB/s, Instance Type: ra3.xlplus, ECU: 12.375)": [
+            "1.2350000000"
+        ],
+        "Asia Pacific (Melbourne) (Memory: 244 GiB, vCPU: 32, Storage: 2.56TB SSD, I/O: 7.50 GB/s, Instance Type: dc2.8xlarge, ECU: 99)": [
+            "6.4000000000"
+        ],
+        "Asia Pacific (Melbourne) (Memory: 15 GiB, vCPU: 2, Storage: 0.16TB SSD, I/O: 0.60 GB/s, Instance Type: dc2.large, ECU: 7)": [
+            "0.3300000000"
+        ],
+        "Asia Pacific (Melbourne) (Memory: 384 GiB, vCPU: 48, Storage: 64TB RMS, I/O: 8.00 GB/s, Instance Type: ra3.16xlarge, ECU: 148.5)": [
+            "15.6360000000"
+        ],
+        "Asia Pacific (Melbourne) (Memory: 96 GiB, vCPU: 12, Storage: 64TB RMS, I/O: 2.00 GB/s, Instance Type: ra3.4xlarge, ECU: 37.125)": [
+            "3.9090000000"
+        ],
+        "Asia Pacific (Melbourne) (Memory: 16 GiB, vCPU: 2, Storage: 8TB RMS, I/O: 0.325 GB/s, Instance Type: ra3.large, ECU: 6.1875)": [
+            "0.6520000000"
+        ],
+        "Asia Pacific (Melbourne) (Memory: 32 GiB, vCPU: 4, Storage: 32TB RMS, I/O: 0.65 GB/s, Instance Type: ra3.xlplus, ECU: 12.375)": [
+            "1.3030000000"
+        ],
+        "Asia Pacific (Malaysia) (Memory: 384 GiB, vCPU: 48, Storage: 64TB RMS, I/O: 8.00 GB/s, Instance Type: ra3.16xlarge, ECU: 148.5)": [
+            "14.0724000000"
+        ],
+        "Asia Pacific (Malaysia) (Memory: 96 GiB, vCPU: 12, Storage: 64TB RMS, I/O: 2.00 GB/s, Instance Type: ra3.4xlarge, ECU: 37.125)": [
+            "3.5181000000"
+        ],
+        "Asia Pacific (Malaysia) (Memory: 16 GiB, vCPU: 2, Storage: 8TB RMS, I/O: 0.325 GB/s, Instance Type: ra3.large, ECU: 6.1875)": [
+            "0.5863500000"
+        ],
+        "Asia Pacific (Malaysia) (Memory: 32 GiB, vCPU: 4, Storage: 32TB RMS, I/O: 0.65 GB/s, Instance Type: ra3.xlplus, ECU: 12.375)": [
+            "1.1727000000"
+        ],
+        "Asia Pacific (Jakarta) (Memory: 244 GiB, vCPU: 32, Storage: 2.56TB SSD, I/O: 7.50 GB/s, Instance Type: dc2.8xlarge, ECU: 99)": [
+            "6.4000000000"
+        ],
+        "Asia Pacific (Jakarta) (Memory: 15 GiB, vCPU: 2, Storage: 0.16TB SSD, I/O: 0.60 GB/s, Instance Type: dc2.large, ECU: 7)": [
+            "0.3300000000"
+        ],
+        "Asia Pacific (Jakarta) (Memory: 384 GiB, vCPU: 48, Storage: 64TB RMS, I/O: 8.00 GB/s, Instance Type: ra3.16xlarge, ECU: 148.5)": [
+            "15.3630000000"
+        ],
+        "Asia Pacific (Jakarta) (Memory: 96 GiB, vCPU: 12, Storage: 64TB RMS, I/O: 2.00 GB/s, Instance Type: ra3.4xlarge, ECU: 37.125)": [
+            "3.9090000000"
+        ],
+        "Asia Pacific (Jakarta) (Memory: 16 GiB, vCPU: 2, Storage: 8TB RMS, I/O: 0.325 GB/s, Instance Type: ra3.large, ECU: 6.1875)": [
+            "0.6520000000"
+        ],
+        "Asia Pacific (Jakarta) (Memory: 32 GiB, vCPU: 4, Storage: 32TB RMS, I/O: 0.65 GB/s, Instance Type: ra3.xlplus, ECU: 12.375)": [
+            "1.3030000000"
+        ],
+        "Asia Pacific (Hyderabad) (Memory: 244 GiB, vCPU: 32, Storage: 2.56TB SSD, I/O: 7.50 GB/s, Instance Type: dc2.8xlarge, ECU: 99)": [
+            "6.1000000000"
+        ],
+        "Asia Pacific (Hyderabad) (Memory: 15 GiB, vCPU: 2, Storage: 0.16TB SSD, I/O: 0.60 GB/s, Instance Type: dc2.large, ECU: 7)": [
+            "0.3150000000"
+        ],
+        "Asia Pacific (Hyderabad) (Memory: 384 GiB, vCPU: 48, Storage: 64TB RMS, I/O: 8.00 GB/s, Instance Type: ra3.16xlarge, ECU: 148.5)": [
+            "14.8270000000"
+        ],
+        "Asia Pacific (Hyderabad) (Memory: 96 GiB, vCPU: 12, Storage: 64TB RMS, I/O: 2.00 GB/s, Instance Type: ra3.4xlarge, ECU: 37.125)": [
+            "3.7060000000"
+        ],
+        "Asia Pacific (Hyderabad) (Memory: 16 GiB, vCPU: 2, Storage: 8TB RMS, I/O: 0.325 GB/s, Instance Type: ra3.large, ECU: 6.1875)": [
+            "0.6180000000"
+        ],
+        "Asia Pacific (Hyderabad) (Memory: 32 GiB, vCPU: 4, Storage: 32TB RMS, I/O: 0.65 GB/s, Instance Type: ra3.xlplus, ECU: 12.375)": [
+            "1.2350000000"
+        ],
+        "Asia Pacific (Hong Kong) (Memory: 244 GiB, vCPU: 32, Storage: 2.56TB SSD, I/O: 7.50 GB/s, Instance Type: dc2.8xlarge, ECU: 99)": [
+            "7.0400000000"
+        ],
+        "Asia Pacific (Hong Kong) (Memory: 15 GiB, vCPU: 2, Storage: 0.16TB SSD, I/O: 0.60 GB/s, Instance Type: dc2.large, ECU: 7)": [
+            "0.3630000000"
+        ],
+        "Asia Pacific (Hong Kong) (Memory: 384 GiB, vCPU: 48, Storage: 64TB RMS, I/O: 8.00 GB/s, Instance Type: ra3.16xlarge, ECU: 148.5)": [
+            "13.0400000000"
+        ],
+        "Asia Pacific (Hong Kong) (Memory: 96 GiB, vCPU: 12, Storage: 64TB RMS, I/O: 2.00 GB/s, Instance Type: ra3.4xlarge, ECU: 37.125)": [
+            "3.2600000000"
+        ],
+        "Asia Pacific (Hong Kong) (Memory: 16 GiB, vCPU: 2, Storage: 8TB RMS, I/O: 0.325 GB/s, Instance Type: ra3.large, ECU: 6.1875)": [
+            "0.5430000000"
+        ],
+        "Asia Pacific (Hong Kong) (Memory: 32 GiB, vCPU: 4, Storage: 32TB RMS, I/O: 0.65 GB/s, Instance Type: ra3.xlplus, ECU: 12.375)": [
+            "1.0860000000"
+        ],
+        "Africa (Cape Town) (Memory: 244 GiB, vCPU: 32, Storage: 2.56TB SSD, I/O: 7.50 GB/s, Instance Type: dc2.8xlarge, ECU: 99)": [
+            "6.6640000000"
+        ],
+        "Africa (Cape Town) (Memory: 15 GiB, vCPU: 2, Storage: 0.16TB SSD, I/O: 0.60 GB/s, Instance Type: dc2.large, ECU: 7)": [
+            "0.3570000000"
+        ],
+        "Africa (Cape Town) (Memory: 384 GiB, vCPU: 48, Storage: 64TB RMS, I/O: 8.00 GB/s, Instance Type: ra3.16xlarge, ECU: 148.5)": [
+            "17.1600000000"
+        ],
+        "Africa (Cape Town) (Memory: 96 GiB, vCPU: 12, Storage: 64TB RMS, I/O: 2.00 GB/s, Instance Type: ra3.4xlarge, ECU: 37.125)": [
+            "4.2900000000"
+        ],
+        "Africa (Cape Town) (Memory: 16 GiB, vCPU: 2, Storage: 8TB RMS, I/O: 0.325 GB/s, Instance Type: ra3.large, ECU: 6.1875)": [
+            "0.7150000000"
+        ],
+        "Africa (Cape Town) (Memory: 32 GiB, vCPU: 4, Storage: 32TB RMS, I/O: 0.65 GB/s, Instance Type: ra3.xlplus, ECU: 12.375)": [
+            "1.4300000000"
+        ],
+        "AWS GovCloud (US-East) (Memory: 244 GiB, vCPU: 32, Storage: 2.56TB SSD, I/O: 7.50 GB/s, Instance Type: dc2.8xlarge, ECU: 99)": [
+            "5.7600000000"
+        ],
+        "AWS GovCloud (US-East) (Memory: 15 GiB, vCPU: 2, Storage: 0.16TB SSD, I/O: 0.60 GB/s, Instance Type: dc2.large, ECU: 7)": [
+            "0.3000000000"
+        ],
+        "AWS GovCloud (US-East) (Memory: 384 GiB, vCPU: 48, Storage: 64TB RMS, I/O: 8.00 GB/s, Instance Type: ra3.16xlarge, ECU: 148.5)": [
+            "13.0400000000"
+        ],
+        "AWS GovCloud (US-East) (Memory: 96 GiB, vCPU: 12, Storage: 64TB RMS, I/O: 2.00 GB/s, Instance Type: ra3.4xlarge, ECU: 37.125)": [
+            "3.2600000000"
+        ],
+        "AWS GovCloud (US-East) (Memory: 16 GiB, vCPU: 2, Storage: 8TB RMS, I/O: 0.325 GB/s, Instance Type: ra3.large, ECU: 6.1875)": [
+            "0.5430000000"
+        ],
+        "AWS GovCloud (US-East) (Memory: 32 GiB, vCPU: 4, Storage: 32TB RMS, I/O: 0.65 GB/s, Instance Type: ra3.xlplus, ECU: 12.375)": [
+            "1.0860000000"
+        ],
+        "AWS GovCloud (US) (Memory: 244 GiB, vCPU: 32, Storage: 2.56TB SSD, I/O: 7.50 GB/s, Instance Type: dc2.8xlarge, ECU: 99)": [
+            "5.7600000000"
+        ],
+        "AWS GovCloud (US) (Memory: 15 GiB, vCPU: 2, Storage: 0.16TB SSD, I/O: 0.60 GB/s, Instance Type: dc2.large, ECU: 7)": [
+            "0.3000000000"
+        ],
+        "AWS GovCloud (US) (Memory: 384 GiB, vCPU: 48, Storage: 64TB RMS, I/O: 8.00 GB/s, Instance Type: ra3.16xlarge, ECU: 148.5)": [
+            "13.0400000000"
+        ],
+        "AWS GovCloud (US) (Memory: 96 GiB, vCPU: 12, Storage: 64TB RMS, I/O: 2.00 GB/s, Instance Type: ra3.4xlarge, ECU: 37.125)": [
+            "3.2600000000"
+        ],
+        "AWS GovCloud (US) (Memory: 16 GiB, vCPU: 2, Storage: 8TB RMS, I/O: 0.325 GB/s, Instance Type: ra3.large, ECU: 6.1875)": [
+            "0.5430000000"
+        ],
+        "AWS GovCloud (US) (Memory: 32 GiB, vCPU: 4, Storage: 32TB RMS, I/O: 0.65 GB/s, Instance Type: ra3.xlplus, ECU: 12.375)": [
             "1.0860000000"
         ]
     },
     "Redshift Concurrency Scaling Current Generation Dense Compute": {
-        "Regionless": [
+        "Default": [
             "0.0013300000"
         ],
-        "US West (Oregon)": [
-            "0.0013300000",
+        "US West (Oregon) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.8xlarge, ECU: , Usage Family: Dense Compute)": [
+            "0.0013300000"
+        ],
+        "US West (Oregon) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.large, ECU: , Usage Family: Dense Compute)": [
             "0.0000700000"
         ],
-        "US West (N. California)": [
-            "0.0000900000",
+        "US West (N. California) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.8xlarge, ECU: , Usage Family: Dense Compute)": [
             "0.0017800000"
         ],
-        "US East (Ohio)": [
-            "0.0013300000",
+        "US West (N. California) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.large, ECU: , Usage Family: Dense Compute)": [
+            "0.0000900000"
+        ],
+        "US East (Ohio) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.8xlarge, ECU: , Usage Family: Dense Compute)": [
+            "0.0013300000"
+        ],
+        "US East (Ohio) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.large, ECU: , Usage Family: Dense Compute)": [
             "0.0000700000"
         ],
-        "US East (N. Virginia)": [
-            "0.0013300000",
+        "US East (N. Virginia) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.8xlarge, ECU: , Usage Family: Dense Compute)": [
+            "0.0013300000"
+        ],
+        "US East (N. Virginia) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.large, ECU: , Usage Family: Dense Compute)": [
             "0.0000700000"
         ],
-        "South America (Sao Paulo)": [
-            "0.0021300000",
+        "South America (Sao Paulo) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.8xlarge, ECU: , Usage Family: Dense Compute)": [
+            "0.0021300000"
+        ],
+        "South America (Sao Paulo) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.large, ECU: , Usage Family: Dense Compute)": [
             "0.0001100000"
         ],
-        "Middle East (UAE)": [
-            "0.0017200000",
-            "0.0001100000"
-        ],
-        "Middle East (Bahrain)": [
-            "0.0000900000",
+        "Middle East (UAE) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.8xlarge, ECU: , Usage Family: Dense Compute)": [
             "0.0017200000"
         ],
-        "EU (Stockholm)": [
-            "0.0002500000",
+        "Middle East (UAE) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.large, ECU: , Usage Family: Dense Compute)": [
+            "0.0001100000"
+        ],
+        "Middle East (Bahrain) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.8xlarge, ECU: , Usage Family: Dense Compute)": [
+            "0.0017200000"
+        ],
+        "Middle East (Bahrain) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.large, ECU: , Usage Family: Dense Compute)": [
+            "0.0000900000"
+        ],
+        "EU (Stockholm) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ds2.8xlarge, ECU: , Usage Family: Dense Compute)": [
             "0.0020100000"
         ],
-        "EU (Paris)": [
-            "0.0000900000",
+        "EU (Stockholm) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ds2.xlarge, ECU: , Usage Family: Dense Compute)": [
+            "0.0002500000"
+        ],
+        "EU (Paris) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.8xlarge, ECU: , Usage Family: Dense Compute)": [
             "0.0016300000"
         ],
-        "EU (London)": [
-            "0.0002800000",
+        "EU (Paris) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.large, ECU: , Usage Family: Dense Compute)": [
+            "0.0000900000"
+        ],
+        "EU (London) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ds2.8xlarge, ECU: , Usage Family: Dense Compute)": [
             "0.0022200000"
         ],
-        "EU (Ireland)": [
-            "0.0000800000",
+        "EU (London) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ds2.xlarge, ECU: , Usage Family: Dense Compute)": [
+            "0.0002800000"
+        ],
+        "EU (Ireland) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.8xlarge, ECU: , Usage Family: Dense Compute)": [
             "0.0015600000"
         ],
-        "EU (Frankfurt)": [
-            "0.0016800000",
-            "0.0000900000"
-        ],
-        "Canada (Central)": [
-            "0.0000800000",
-            "0.0014700000"
-        ],
-        "Asia Pacific (Tokyo)": [
-            "0.0000900000",
-            "0.0016900000"
-        ],
-        "Asia Pacific (Sydney)": [
-            "0.0000900000",
-            "0.0017800000"
-        ],
-        "Asia Pacific (Singapore)": [
-            "0.0000900000",
-            "0.0017800000"
-        ],
-        "Asia Pacific (Seoul)": [
-            "0.0016100000",
+        "EU (Ireland) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.large, ECU: , Usage Family: Dense Compute)": [
             "0.0000800000"
         ],
-        "Asia Pacific (Osaka)": [
-            "0.0026400000",
-            "0.0003300000"
+        "EU (Frankfurt) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.8xlarge, ECU: , Usage Family: Dense Compute)": [
+            "0.0016800000"
         ],
-        "Asia Pacific (Mumbai)": [
+        "EU (Frankfurt) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.large, ECU: , Usage Family: Dense Compute)": [
             "0.0000900000"
         ],
-        "Asia Pacific (Hong Kong)": [
-            "0.0030600000",
+        "Canada (Central) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.8xlarge, ECU: , Usage Family: Dense Compute)": [
+            "0.0014700000"
+        ],
+        "Canada (Central) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.large, ECU: , Usage Family: Dense Compute)": [
+            "0.0000800000"
+        ],
+        "Asia Pacific (Tokyo) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.8xlarge, ECU: , Usage Family: Dense Compute)": [
+            "0.0016900000"
+        ],
+        "Asia Pacific (Tokyo) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.large, ECU: , Usage Family: Dense Compute)": [
+            "0.0000900000"
+        ],
+        "Asia Pacific (Sydney) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.8xlarge, ECU: , Usage Family: Dense Compute)": [
+            "0.0017800000"
+        ],
+        "Asia Pacific (Sydney) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.large, ECU: , Usage Family: Dense Compute)": [
+            "0.0000900000"
+        ],
+        "Asia Pacific (Singapore) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.8xlarge, ECU: , Usage Family: Dense Compute)": [
+            "0.0017800000"
+        ],
+        "Asia Pacific (Singapore) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.large, ECU: , Usage Family: Dense Compute)": [
+            "0.0000900000"
+        ],
+        "Asia Pacific (Seoul) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.8xlarge, ECU: , Usage Family: Dense Compute)": [
+            "0.0016100000"
+        ],
+        "Asia Pacific (Seoul) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.large, ECU: , Usage Family: Dense Compute)": [
+            "0.0000800000"
+        ],
+        "Asia Pacific (Osaka) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ds2.8xlarge, ECU: , Usage Family: Dense Compute)": [
+            "0.0026400000"
+        ],
+        "Asia Pacific (Osaka) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ds2.xlarge, ECU: , Usage Family: Dense Compute)": [
+            "0.0003300000"
+        ],
+        "Asia Pacific (Mumbai) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.large, ECU: , Usage Family: Dense Compute)": [
+            "0.0000900000"
+        ],
+        "Asia Pacific (Hong Kong) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ds2.8xlarge, ECU: , Usage Family: Dense Compute)": [
+            "0.0030600000"
+        ],
+        "Asia Pacific (Hong Kong) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ds2.xlarge, ECU: , Usage Family: Dense Compute)": [
             "0.0003800000"
         ],
-        "AWS GovCloud (US-East)": [
-            "0.0018900000",
+        "AWS GovCloud (US-East) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ds2.8xlarge, ECU: , Usage Family: Dense Compute)": [
+            "0.0018900000"
+        ],
+        "AWS GovCloud (US-East) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ds2.xlarge, ECU: , Usage Family: Dense Compute)": [
             "0.0002400000"
         ],
-        "AWS GovCloud (US)": [
-            "0.0002800000",
+        "AWS GovCloud (US) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ds2.8xlarge, ECU: , Usage Family: Dense Compute)": [
             "0.0022700000"
+        ],
+        "AWS GovCloud (US) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ds2.xlarge, ECU: , Usage Family: Dense Compute)": [
+            "0.0002800000"
         ]
     },
     "Redshift Concurrency Scaling Current Generation Dense Storage": {
-        "Regionless": [
+        "Default": [
             "0.0018900000"
         ],
-        "US West (Oregon)": [
-            "0.0018900000",
+        "US West (Oregon) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ds2.8xlarge, ECU: , Usage Family: Dense Storage)": [
+            "0.0018900000"
+        ],
+        "US West (Oregon) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ds2.xlarge, ECU: , Usage Family: Dense Storage)": [
             "0.0002400000"
         ],
-        "US East (Ohio)": [
-            "0.0018900000",
+        "US East (Ohio) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ds2.8xlarge, ECU: , Usage Family: Dense Storage)": [
+            "0.0018900000"
+        ],
+        "US East (Ohio) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ds2.xlarge, ECU: , Usage Family: Dense Storage)": [
             "0.0002400000"
         ],
-        "US East (N. Virginia)": [
-            "0.0018900000",
+        "US East (N. Virginia) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ds2.8xlarge, ECU: , Usage Family: Dense Storage)": [
+            "0.0018900000"
+        ],
+        "US East (N. Virginia) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ds2.xlarge, ECU: , Usage Family: Dense Storage)": [
             "0.0002400000"
         ],
-        "Middle East (Bahrain)": [
-            "0.0023200000",
+        "Middle East (Bahrain) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ds2.8xlarge, ECU: , Usage Family: Dense Storage)": [
+            "0.0023200000"
+        ],
+        "Middle East (Bahrain) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ds2.xlarge, ECU: , Usage Family: Dense Storage)": [
             "0.0002900000"
         ],
-        "EU (Stockholm)": [
-            "0.0014800000",
+        "EU (Stockholm) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.8xlarge, ECU: , Usage Family: Dense Storage)": [
+            "0.0014800000"
+        ],
+        "EU (Stockholm) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.large, ECU: , Usage Family: Dense Storage)": [
             "0.0000800000"
         ],
-        "EU (London)": [
-            "0.0000900000",
+        "EU (London) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.8xlarge, ECU: , Usage Family: Dense Storage)": [
             "0.0016300000"
         ],
-        "EU (Ireland)": [
-            "0.0021100000",
+        "EU (London) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.large, ECU: , Usage Family: Dense Storage)": [
+            "0.0000900000"
+        ],
+        "EU (Ireland) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ds2.8xlarge, ECU: , Usage Family: Dense Storage)": [
+            "0.0021100000"
+        ],
+        "EU (Ireland) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ds2.xlarge, ECU: , Usage Family: Dense Storage)": [
             "0.0002600000"
         ],
-        "Asia Pacific (Tokyo)": [
-            "0.0026400000",
+        "Asia Pacific (Tokyo) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ds2.8xlarge, ECU: , Usage Family: Dense Storage)": [
+            "0.0026400000"
+        ],
+        "Asia Pacific (Tokyo) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ds2.xlarge, ECU: , Usage Family: Dense Storage)": [
             "0.0003300000"
         ],
-        "Asia Pacific (Osaka)": [
-            "0.0000900000",
+        "Asia Pacific (Osaka) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.8xlarge, ECU: , Usage Family: Dense Storage)": [
             "0.0016900000"
         ],
-        "Asia Pacific (Hong Kong)": [
-            "0.0001000000",
+        "Asia Pacific (Osaka) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.large, ECU: , Usage Family: Dense Storage)": [
+            "0.0000900000"
+        ],
+        "Asia Pacific (Hong Kong) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.8xlarge, ECU: , Usage Family: Dense Storage)": [
             "0.0019600000"
         ],
-        "AWS GovCloud (US-East)": [
-            "0.0013300000",
+        "Asia Pacific (Hong Kong) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.large, ECU: , Usage Family: Dense Storage)": [
+            "0.0001000000"
+        ],
+        "AWS GovCloud (US-East) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.8xlarge, ECU: , Usage Family: Dense Storage)": [
+            "0.0013300000"
+        ],
+        "AWS GovCloud (US-East) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.large, ECU: , Usage Family: Dense Storage)": [
             "0.0000700000"
         ],
-        "AWS GovCloud (US)": [
-            "0.0000800000",
+        "AWS GovCloud (US) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.8xlarge, ECU: , Usage Family: Dense Storage)": [
             "0.0016000000"
+        ],
+        "AWS GovCloud (US) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.large, ECU: , Usage Family: Dense Storage)": [
+            "0.0000800000"
         ]
     },
     "Redshift Concurrency Scaling Current Generation RA3": {
-        "Regionless": [
+        "Default": [
             "0.0036200000"
         ],
-        "US West (Oregon)": [
-            "0.0003000000",
-            "0.0036200000",
+        "US West (Oregon) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.16xlarge, ECU: , Usage Family: RA3)": [
+            "0.0036200000"
+        ],
+        "US West (Oregon) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.4xlarge, ECU: , Usage Family: RA3)": [
             "0.0009000000"
         ],
-        "US West (N. California)": [
-            "0.0040000000",
-            "0.0010000000",
+        "US West (Oregon) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.xlplus, ECU: , Usage Family: RA3)": [
+            "0.0003000000"
+        ],
+        "US West (N. California) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.16xlarge, ECU: , Usage Family: RA3)": [
+            "0.0040000000"
+        ],
+        "US West (N. California) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.4xlarge, ECU: , Usage Family: RA3)": [
+            "0.0010000000"
+        ],
+        "US West (N. California) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.xlplus, ECU: , Usage Family: RA3)": [
             "0.0003300000"
         ],
-        "US East (Ohio)": [
-            "0.0003000000",
-            "0.0036200000",
+        "US East (Ohio) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.16xlarge, ECU: , Usage Family: RA3)": [
+            "0.0036200000"
+        ],
+        "US East (Ohio) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.4xlarge, ECU: , Usage Family: RA3)": [
             "0.0009000000"
         ],
-        "US East (N. Virginia)": [
-            "0.0003000000",
-            "0.0036200000",
+        "US East (Ohio) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.xlplus, ECU: , Usage Family: RA3)": [
+            "0.0003000000"
+        ],
+        "US East (N. Virginia) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.16xlarge, ECU: , Usage Family: RA3)": [
+            "0.0036200000"
+        ],
+        "US East (N. Virginia) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.4xlarge, ECU: , Usage Family: RA3)": [
             "0.0009000000"
         ],
-        "South America (Sao Paulo)": [
-            "0.0014400000",
-            "0.0004800000",
+        "US East (N. Virginia) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.xlplus, ECU: , Usage Family: RA3)": [
+            "0.0003000000"
+        ],
+        "South America (Sao Paulo) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.16xlarge, ECU: , Usage Family: RA3)": [
             "0.0057600000"
         ],
-        "Middle East (UAE)": [
-            "0.0044000000",
-            "0.0011000000",
+        "South America (Sao Paulo) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.4xlarge, ECU: , Usage Family: RA3)": [
+            "0.0014400000"
+        ],
+        "South America (Sao Paulo) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.xlplus, ECU: , Usage Family: RA3)": [
+            "0.0004800000"
+        ],
+        "Middle East (UAE) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.16xlarge, ECU: , Usage Family: RA3)": [
+            "0.0044000000"
+        ],
+        "Middle East (UAE) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.4xlarge, ECU: , Usage Family: RA3)": [
+            "0.0011000000"
+        ],
+        "Middle East (UAE) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.xlplus, ECU: , Usage Family: RA3)": [
             "0.0003700000"
         ],
-        "Mexico (Central)": [
-            "0.0001575000",
-            "0.0009450000",
-            "0.0038010000",
+        "Mexico (Central) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.16xlarge, ECU: , Usage Family: RA3)": [
+            "0.0038010000"
+        ],
+        "Mexico (Central) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.4xlarge, ECU: , Usage Family: RA3)": [
+            "0.0009450000"
+        ],
+        "Mexico (Central) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.large, ECU: , Usage Family: RA3)": [
+            "0.0001575000"
+        ],
+        "Mexico (Central) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.xlplus, ECU: , Usage Family: RA3)": [
             "0.0003150000"
         ],
-        "Israel (Tel Aviv)": [
-            "0.0003465000",
-            "0.0010500000",
-            "0.0042000000",
+        "Israel (Tel Aviv) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.16xlarge, ECU: , Usage Family: RA3)": [
+            "0.0042000000"
+        ],
+        "Israel (Tel Aviv) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.4xlarge, ECU: , Usage Family: RA3)": [
+            "0.0010500000"
+        ],
+        "Israel (Tel Aviv) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.large, ECU: , Usage Family: RA3)": [
             "0.0001800000"
         ],
-        "EU (Zurich)": [
-            "0.0011880000",
-            "0.0003960000",
-            "0.0001155000",
-            "0.0047520000",
+        "Israel (Tel Aviv) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.xlplus, ECU: , Usage Family: RA3)": [
+            "0.0003465000"
+        ],
+        "EU (Zurich) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.8xlarge, ECU: , Usage Family: RA3)": [
             "0.0018480000"
         ],
-        "EU (Stockholm)": [
-            "0.0037900000",
-            "0.0009400000",
+        "EU (Zurich) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.large, ECU: , Usage Family: RA3)": [
+            "0.0001155000"
+        ],
+        "EU (Zurich) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.16xlarge, ECU: , Usage Family: RA3)": [
+            "0.0047520000"
+        ],
+        "EU (Zurich) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.4xlarge, ECU: , Usage Family: RA3)": [
+            "0.0011880000"
+        ],
+        "EU (Zurich) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.xlplus, ECU: , Usage Family: RA3)": [
+            "0.0003960000"
+        ],
+        "EU (Stockholm) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.16xlarge, ECU: , Usage Family: RA3)": [
+            "0.0037900000"
+        ],
+        "EU (Stockholm) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.4xlarge, ECU: , Usage Family: RA3)": [
+            "0.0009400000"
+        ],
+        "EU (Stockholm) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.xlplus, ECU: , Usage Family: RA3)": [
             "0.0003100000"
         ],
-        "EU (Spain)": [
-            "0.0040000000",
-            "0.0000800000",
-            "0.0010000000",
-            "0.0015600000",
+        "EU (Spain) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.8xlarge, ECU: , Usage Family: RA3)": [
+            "0.0015600000"
+        ],
+        "EU (Spain) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.large, ECU: , Usage Family: RA3)": [
+            "0.0000800000"
+        ],
+        "EU (Spain) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.16xlarge, ECU: , Usage Family: RA3)": [
+            "0.0040000000"
+        ],
+        "EU (Spain) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.4xlarge, ECU: , Usage Family: RA3)": [
+            "0.0010000000"
+        ],
+        "EU (Spain) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.xlplus, ECU: , Usage Family: RA3)": [
             "0.0003300000"
         ],
-        "EU (Paris)": [
-            "0.0010500000",
-            "0.0042000000",
+        "EU (Paris) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.16xlarge, ECU: , Usage Family: RA3)": [
+            "0.0042000000"
+        ],
+        "EU (Paris) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.4xlarge, ECU: , Usage Family: RA3)": [
+            "0.0010500000"
+        ],
+        "EU (Paris) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.xlplus, ECU: , Usage Family: RA3)": [
             "0.0003500000"
         ],
-        "EU (London)": [
-            "0.0010500000",
-            "0.0042100000",
+        "EU (London) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.16xlarge, ECU: , Usage Family: RA3)": [
+            "0.0042100000"
+        ],
+        "EU (London) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.4xlarge, ECU: , Usage Family: RA3)": [
+            "0.0010500000"
+        ],
+        "EU (London) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.xlplus, ECU: , Usage Family: RA3)": [
             "0.0003500000"
         ],
-        "EU (Ireland)": [
-            "0.0040000000",
-            "0.0010000000",
+        "EU (Ireland) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.16xlarge, ECU: , Usage Family: RA3)": [
+            "0.0040000000"
+        ],
+        "EU (Ireland) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.4xlarge, ECU: , Usage Family: RA3)": [
+            "0.0010000000"
+        ],
+        "EU (Ireland) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.xlplus, ECU: , Usage Family: RA3)": [
             "0.0003300000"
         ],
-        "EU (Frankfurt)": [
-            "0.0043200000",
-            "0.0010800000",
+        "EU (Frankfurt) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.16xlarge, ECU: , Usage Family: RA3)": [
+            "0.0043200000"
+        ],
+        "EU (Frankfurt) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.4xlarge, ECU: , Usage Family: RA3)": [
+            "0.0010800000"
+        ],
+        "EU (Frankfurt) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.xlplus, ECU: , Usage Family: RA3)": [
             "0.0003600000"
         ],
-        "Canada West (Calgary)": [
-            "0.0040000000",
-            "0.0001700000",
-            "0.0010000000",
+        "Canada West (Calgary) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.16xlarge, ECU: , Usage Family: RA3)": [
+            "0.0040000000"
+        ],
+        "Canada West (Calgary) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.4xlarge, ECU: , Usage Family: RA3)": [
+            "0.0010000000"
+        ],
+        "Canada West (Calgary) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.large, ECU: , Usage Family: RA3)": [
+            "0.0001700000"
+        ],
+        "Canada West (Calgary) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.xlplus, ECU: , Usage Family: RA3)": [
             "0.0003300000"
         ],
-        "Canada (Central)": [
-            "0.0040000000",
-            "0.0010000000",
+        "Canada (Central) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.16xlarge, ECU: , Usage Family: RA3)": [
+            "0.0040000000"
+        ],
+        "Canada (Central) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.4xlarge, ECU: , Usage Family: RA3)": [
+            "0.0010000000"
+        ],
+        "Canada (Central) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.xlplus, ECU: , Usage Family: RA3)": [
             "0.0003300000"
         ],
-        "Asia Pacific (Tokyo)": [
-            "0.0042600000",
-            "0.0010600000",
+        "Asia Pacific (Tokyo) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.16xlarge, ECU: , Usage Family: RA3)": [
+            "0.0042600000"
+        ],
+        "Asia Pacific (Tokyo) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.4xlarge, ECU: , Usage Family: RA3)": [
+            "0.0010600000"
+        ],
+        "Asia Pacific (Tokyo) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.xlplus, ECU: , Usage Family: RA3)": [
             "0.0003500000"
         ],
-        "Asia Pacific (Thailand)": [
-            "0.0032580000",
-            "0.0002700000",
-            "0.0001350000",
+        "Asia Pacific (Thailand) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.16xlarge, ECU: , Usage Family: RA3)": [
+            "0.0032580000"
+        ],
+        "Asia Pacific (Thailand) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.4xlarge, ECU: , Usage Family: RA3)": [
             "0.0008100000"
         ],
-        "Asia Pacific (Sydney)": [
-            "0.0010800000",
-            "0.0003600000",
+        "Asia Pacific (Thailand) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.large, ECU: , Usage Family: RA3)": [
+            "0.0001350000"
+        ],
+        "Asia Pacific (Thailand) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.xlplus, ECU: , Usage Family: RA3)": [
+            "0.0002700000"
+        ],
+        "Asia Pacific (Sydney) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.16xlarge, ECU: , Usage Family: RA3)": [
             "0.0043400000"
         ],
-        "Asia Pacific (Singapore)": [
-            "0.0010800000",
-            "0.0003600000",
+        "Asia Pacific (Sydney) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.4xlarge, ECU: , Usage Family: RA3)": [
+            "0.0010800000"
+        ],
+        "Asia Pacific (Sydney) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.xlplus, ECU: , Usage Family: RA3)": [
+            "0.0003600000"
+        ],
+        "Asia Pacific (Singapore) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.16xlarge, ECU: , Usage Family: RA3)": [
             "0.0043400000"
         ],
-        "Asia Pacific (Seoul)": [
-            "0.0042600000",
-            "0.0010600000",
+        "Asia Pacific (Singapore) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.4xlarge, ECU: , Usage Family: RA3)": [
+            "0.0010800000"
+        ],
+        "Asia Pacific (Singapore) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.xlplus, ECU: , Usage Family: RA3)": [
+            "0.0003600000"
+        ],
+        "Asia Pacific (Seoul) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.16xlarge, ECU: , Usage Family: RA3)": [
+            "0.0042600000"
+        ],
+        "Asia Pacific (Seoul) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.4xlarge, ECU: , Usage Family: RA3)": [
+            "0.0010600000"
+        ],
+        "Asia Pacific (Seoul) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.xlplus, ECU: , Usage Family: RA3)": [
             "0.0003500000"
         ],
-        "Asia Pacific (Mumbai)": [
-            "0.0010200000",
-            "0.0041100000",
+        "Asia Pacific (Mumbai) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.16xlarge, ECU: , Usage Family: RA3)": [
+            "0.0041100000"
+        ],
+        "Asia Pacific (Mumbai) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.4xlarge, ECU: , Usage Family: RA3)": [
+            "0.0010200000"
+        ],
+        "Asia Pacific (Mumbai) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.xlplus, ECU: , Usage Family: RA3)": [
             "0.0003400000"
         ],
-        "Asia Pacific (Malaysia)": [
-            "0.0032580000",
-            "0.0002700000",
-            "0.0001350000",
+        "Asia Pacific (Malaysia) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.16xlarge, ECU: , Usage Family: RA3)": [
+            "0.0032580000"
+        ],
+        "Asia Pacific (Malaysia) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.4xlarge, ECU: , Usage Family: RA3)": [
             "0.0008100000"
         ],
-        "AWS GovCloud (US-East)": [
-            "0.0003000000",
-            "0.0036200000",
-            "0.0001500000",
+        "Asia Pacific (Malaysia) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.large, ECU: , Usage Family: RA3)": [
+            "0.0001350000"
+        ],
+        "Asia Pacific (Malaysia) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.xlplus, ECU: , Usage Family: RA3)": [
+            "0.0002700000"
+        ],
+        "AWS GovCloud (US-East) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.16xlarge, ECU: , Usage Family: RA3)": [
+            "0.0036200000"
+        ],
+        "AWS GovCloud (US-East) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.4xlarge, ECU: , Usage Family: RA3)": [
             "0.0009100000"
         ],
-        "AWS GovCloud (US)": [
-            "0.0003000000",
-            "0.0036200000",
-            "0.0001500000",
+        "AWS GovCloud (US-East) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.large, ECU: , Usage Family: RA3)": [
+            "0.0001500000"
+        ],
+        "AWS GovCloud (US-East) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.xlplus, ECU: , Usage Family: RA3)": [
+            "0.0003000000"
+        ],
+        "AWS GovCloud (US) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.16xlarge, ECU: , Usage Family: RA3)": [
+            "0.0036200000"
+        ],
+        "AWS GovCloud (US) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.4xlarge, ECU: , Usage Family: RA3)": [
             "0.0009100000"
+        ],
+        "AWS GovCloud (US) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.large, ECU: , Usage Family: RA3)": [
+            "0.0001500000"
+        ],
+        "AWS GovCloud (US) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.xlplus, ECU: , Usage Family: RA3)": [
+            "0.0003000000"
         ]
     },
     "Redshift Inter Region Data Transfer Charges": {
-        "Regionless": [
+        "Default": [
             "0.0200000000"
         ],
-        "US West (Oregon)": [
+        "US West (Oregon) (Location: US West (Oregon))": [
             "0.0200000000"
         ],
-        "US West (N. California)": [
+        "US West (N. California) (Location: US West (N. California))": [
             "0.0200000000"
         ],
-        "US East (Ohio)": [
+        "US East (Ohio) (Location: US East (Ohio))": [
             "0.0200000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (Location: US East (N. Virginia))": [
             "0.0200000000"
         ],
-        "South America (Sao Paulo)": [
+        "South America (Sao Paulo) (Location: South America (Sao Paulo))": [
             "0.1380000000"
         ],
-        "Middle East (Bahrain)": [
+        "Middle East (Bahrain) (Location: Middle East (Bahrain))": [
             "0.1100000000"
         ],
-        "Mexico (Central)": [
+        "Mexico (Central) (Location: Mexico (Central))": [
             "0.0210000000"
         ],
-        "EU (Stockholm)": [
+        "EU (Stockholm) (Location: EU (Stockholm))": [
             "0.0200000000"
         ],
-        "EU (Paris)": [
+        "EU (Paris) (Location: EU (Paris))": [
             "0.0200000000"
         ],
-        "EU (Milan)": [
+        "EU (Milan) (Location: EU (Milan))": [
             "0.0200000000"
         ],
-        "EU (London)": [
+        "EU (London) (Location: EU (London))": [
             "0.0200000000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (Location: EU (Ireland))": [
             "0.0200000000"
         ],
-        "EU (Frankfurt)": [
+        "EU (Frankfurt) (Location: EU (Frankfurt))": [
             "0.0200000000"
         ],
-        "Canada (Central)": [
+        "Canada (Central) (Location: Canada (Central))": [
             "0.0200000000"
         ],
-        "Asia Pacific (Thailand)": [
+        "Asia Pacific (Thailand) (Location: Asia Pacific (Thailand))": [
             "0.0180000000"
         ],
-        "Asia Pacific (Sydney)": [
+        "Asia Pacific (Sydney) (Location: Asia Pacific (Sydney))": [
             "0.0980000000"
         ],
-        "Asia Pacific (Singapore)": [
+        "Asia Pacific (Singapore) (Location: Asia Pacific (Singapore))": [
             "0.0900000000"
         ],
-        "Asia Pacific (Seoul)": [
+        "Asia Pacific (Seoul) (Location: Asia Pacific (Seoul))": [
             "0.0200000000"
         ],
-        "Asia Pacific (Osaka)": [
+        "Asia Pacific (Osaka) (Location: Asia Pacific (Osaka))": [
             "0.0200000000"
         ],
-        "Asia Pacific (Mumbai)": [
+        "Asia Pacific (Mumbai) (Location: Asia Pacific (Mumbai))": [
             "0.0860000000"
         ],
-        "Asia Pacific (Melbourne)": [
+        "Asia Pacific (Melbourne) (Location: Asia Pacific (Melbourne))": [
             "0.0980000000"
         ],
-        "Asia Pacific (Malaysia)": [
+        "Asia Pacific (Malaysia) (Location: Asia Pacific (Malaysia))": [
             "0.0180000000"
         ],
-        "Asia Pacific (Hong Kong)": [
+        "Asia Pacific (Hong Kong) (Location: Asia Pacific (Hong Kong))": [
             "0.0900000000"
         ],
-        "Africa (Cape Town)": [
+        "Africa (Cape Town) (Location: Africa (Cape Town))": [
             "0.0200000000"
         ],
-        "AWS GovCloud (US-East)": [
+        "AWS GovCloud (US-East) (Location: AWS GovCloud (US-East))": [
             "0.0300000000"
         ],
-        "AWS GovCloud (US)": [
+        "AWS GovCloud (US) (Location: AWS GovCloud (US))": [
             "0.0300000000"
         ]
     },
     "ds2 xlarge Redshift Concurrency Scaling Current Generation Dense Storage": {
-        "Regionless": [
+        "Default": [
             "0.0002400000"
         ],
-        "US West (Oregon)": [
+        "US West (Oregon) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ds2.xlarge, ECU: , Usage Family: Dense Storage)": [
             "0.0002400000"
         ],
-        "US East (Ohio)": [
+        "US East (Ohio) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ds2.xlarge, ECU: , Usage Family: Dense Storage)": [
             "0.0002400000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ds2.xlarge, ECU: , Usage Family: Dense Storage)": [
             "0.0002400000"
         ],
-        "Middle East (Bahrain)": [
+        "Middle East (Bahrain) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ds2.xlarge, ECU: , Usage Family: Dense Storage)": [
             "0.0002900000"
         ],
-        "EU (Stockholm)": [
+        "EU (Stockholm) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ds2.xlarge, ECU: , Usage Family: Dense Compute)": [
             "0.0002500000"
         ],
-        "EU (London)": [
+        "EU (London) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ds2.xlarge, ECU: , Usage Family: Dense Compute)": [
             "0.0002800000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ds2.xlarge, ECU: , Usage Family: Dense Storage)": [
             "0.0002600000"
         ],
-        "Asia Pacific (Tokyo)": [
+        "Asia Pacific (Tokyo) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ds2.xlarge, ECU: , Usage Family: Dense Storage)": [
             "0.0003300000"
         ],
-        "Asia Pacific (Osaka)": [
+        "Asia Pacific (Osaka) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ds2.xlarge, ECU: , Usage Family: Dense Compute)": [
             "0.0003300000"
         ],
-        "Asia Pacific (Hong Kong)": [
+        "Asia Pacific (Hong Kong) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ds2.xlarge, ECU: , Usage Family: Dense Compute)": [
             "0.0003800000"
         ],
-        "AWS GovCloud (US)": [
+        "AWS GovCloud (US) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ds2.xlarge, ECU: , Usage Family: Dense Compute)": [
             "0.0002800000"
         ]
     },
     "dc2 large OnDemand Compute Instance Current Generation": {
-        "Regionless": [
+        "Default": [
             "0.2500000000"
         ],
-        "US West (Oregon)": [
+        "US West (Oregon) (Memory: 15 GiB, vCPU: 2, Storage: 0.16TB SSD, I/O: 0.60 GB/s, Instance Type: dc2.large, ECU: 7)": [
             "0.2500000000"
         ],
-        "US West (N. California)": [
+        "US West (N. California) (Memory: 15 GiB, vCPU: 2, Storage: 0.16TB SSD, I/O: 0.60 GB/s, Instance Type: dc2.large, ECU: 7)": [
             "0.3300000000"
         ],
-        "US East (Ohio)": [
+        "US East (Ohio) (Memory: 15 GiB, vCPU: 2, Storage: 0.16TB SSD, I/O: 0.60 GB/s, Instance Type: dc2.large, ECU: 7)": [
             "0.2500000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (Memory: 15 GiB, vCPU: 2, Storage: 0.16TB SSD, I/O: 0.60 GB/s, Instance Type: dc2.large, ECU: 7)": [
             "0.2500000000"
         ],
-        "South America (Sao Paulo)": [
+        "South America (Sao Paulo) (Memory: 15 GiB, vCPU: 2, Storage: 0.16TB SSD, I/O: 0.60 GB/s, Instance Type: dc2.large, ECU: 7)": [
             "0.4000000000"
         ],
-        "Middle East (UAE)": [
+        "Middle East (UAE) (Memory: 15 GiB, vCPU: 2, Storage: 0.16TB SSD, I/O: 0.60 GB/s, Instance Type: dc2.large, ECU: 7)": [
             "0.3300000000"
         ],
-        "Middle East (Bahrain)": [
+        "Middle East (Bahrain) (Memory: 15 GiB, vCPU: 2, Storage: 0.16TB SSD, I/O: 0.60 GB/s, Instance Type: dc2.large, ECU: 7)": [
             "0.3300000000"
         ],
-        "EU (Zurich)": [
+        "EU (Zurich) (Memory: 15 GiB, vCPU: 2, Storage: 0.16TB SSD, I/O: 0.60 GB/s, Instance Type: dc2.large, ECU: 7)": [
             "0.3240000000"
         ],
-        "EU (Stockholm)": [
+        "EU (Stockholm) (Memory: 15 GiB, vCPU: 2, Storage: 0.16TB SSD, I/O: 0.60 GB/s, Instance Type: dc2.large, ECU: 7)": [
             "0.2850000000"
         ],
-        "EU (Spain)": [
+        "EU (Spain) (Memory: 15 GiB, vCPU: 2, Storage: 0.16TB SSD, I/O: 0.60 GB/s, Instance Type: dc2.large, ECU: 7)": [
             "0.3000000000"
         ],
-        "EU (Paris)": [
+        "EU (Paris) (Memory: 15 GiB, vCPU: 2, Storage: 0.16TB SSD, I/O: 0.60 GB/s, Instance Type: dc2.large, ECU: 7)": [
             "0.3200000000"
         ],
-        "EU (Milan)": [
+        "EU (Milan) (Memory: 15 GiB, vCPU: 2, Storage: 0.16TB SSD, I/O: 0.60 GB/s, Instance Type: dc2.large, ECU: 7)": [
             "0.3150000000"
         ],
-        "EU (London)": [
+        "EU (London) (Memory: 15 GiB, vCPU: 2, Storage: 0.16TB SSD, I/O: 0.60 GB/s, Instance Type: dc2.large, ECU: 7)": [
             "0.3200000000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (Memory: 15 GiB, vCPU: 2, Storage: 0.16TB SSD, I/O: 0.60 GB/s, Instance Type: dc2.large, ECU: 7)": [
             "0.3000000000"
         ],
-        "EU (Frankfurt)": [
+        "EU (Frankfurt) (Memory: 15 GiB, vCPU: 2, Storage: 0.16TB SSD, I/O: 0.60 GB/s, Instance Type: dc2.large, ECU: 7)": [
             "0.3240000000"
         ],
-        "Canada (Central)": [
+        "Canada (Central) (Memory: 15 GiB, vCPU: 2, Storage: 0.16TB SSD, I/O: 0.60 GB/s, Instance Type: dc2.large, ECU: 7)": [
             "0.2750000000"
         ],
-        "Asia Pacific (Tokyo)": [
+        "Asia Pacific (Tokyo) (Memory: 15 GiB, vCPU: 2, Storage: 0.16TB SSD, I/O: 0.60 GB/s, Instance Type: dc2.large, ECU: 7)": [
             "0.3140000000"
         ],
-        "Asia Pacific (Sydney)": [
+        "Asia Pacific (Sydney) (Memory: 15 GiB, vCPU: 2, Storage: 0.16TB SSD, I/O: 0.60 GB/s, Instance Type: dc2.large, ECU: 7)": [
             "0.3300000000"
         ],
-        "Asia Pacific (Singapore)": [
+        "Asia Pacific (Singapore) (Memory: 15 GiB, vCPU: 2, Storage: 0.16TB SSD, I/O: 0.60 GB/s, Instance Type: dc2.large, ECU: 7)": [
             "0.3300000000"
         ],
-        "Asia Pacific (Seoul)": [
+        "Asia Pacific (Seoul) (Memory: 15 GiB, vCPU: 2, Storage: 0.16TB SSD, I/O: 0.60 GB/s, Instance Type: dc2.large, ECU: 7)": [
             "0.3000000000"
         ],
-        "Asia Pacific (Osaka)": [
+        "Asia Pacific (Osaka) (Memory: 15 GiB, vCPU: 2, Storage: 0.16TB SSD, I/O: 0.60 GB/s, Instance Type: dc2.large, ECU: 7)": [
             "0.3140000000"
         ],
-        "Asia Pacific (Mumbai)": [
+        "Asia Pacific (Mumbai) (Memory: 15 GiB, vCPU: 2, Storage: 0.16TB SSD, I/O: 0.60 GB/s, Instance Type: dc2.large, ECU: 7)": [
             "0.3150000000"
         ],
-        "Asia Pacific (Melbourne)": [
+        "Asia Pacific (Melbourne) (Memory: 15 GiB, vCPU: 2, Storage: 0.16TB SSD, I/O: 0.60 GB/s, Instance Type: dc2.large, ECU: 7)": [
             "0.3300000000"
         ],
-        "Asia Pacific (Jakarta)": [
+        "Asia Pacific (Jakarta) (Memory: 15 GiB, vCPU: 2, Storage: 0.16TB SSD, I/O: 0.60 GB/s, Instance Type: dc2.large, ECU: 7)": [
             "0.3300000000"
         ],
-        "Asia Pacific (Hyderabad)": [
+        "Asia Pacific (Hyderabad) (Memory: 15 GiB, vCPU: 2, Storage: 0.16TB SSD, I/O: 0.60 GB/s, Instance Type: dc2.large, ECU: 7)": [
             "0.3150000000"
         ],
-        "Asia Pacific (Hong Kong)": [
+        "Asia Pacific (Hong Kong) (Memory: 15 GiB, vCPU: 2, Storage: 0.16TB SSD, I/O: 0.60 GB/s, Instance Type: dc2.large, ECU: 7)": [
             "0.3630000000"
         ],
-        "Africa (Cape Town)": [
+        "Africa (Cape Town) (Memory: 15 GiB, vCPU: 2, Storage: 0.16TB SSD, I/O: 0.60 GB/s, Instance Type: dc2.large, ECU: 7)": [
             "0.3570000000"
         ],
-        "AWS GovCloud (US-East)": [
+        "AWS GovCloud (US-East) (Memory: 15 GiB, vCPU: 2, Storage: 0.16TB SSD, I/O: 0.60 GB/s, Instance Type: dc2.large, ECU: 7)": [
             "0.3000000000"
         ],
-        "AWS GovCloud (US)": [
+        "AWS GovCloud (US) (Memory: 15 GiB, vCPU: 2, Storage: 0.16TB SSD, I/O: 0.60 GB/s, Instance Type: dc2.large, ECU: 7)": [
             "0.3000000000"
         ]
     },
     "ra3 large OnDemand Compute Instance Current Generation": {
-        "Regionless": [
+        "Default": [
             "0.5430000000"
         ],
-        "US West (Oregon)": [
+        "US West (Oregon) (Memory: 16 GiB, vCPU: 2, Storage: 8TB RMS, I/O: 0.325 GB/s, Instance Type: ra3.large, ECU: 6.1875)": [
             "0.5430000000"
         ],
-        "US West (N. California)": [
+        "US West (N. California) (Memory: 16 GiB, vCPU: 2, Storage: 8TB RMS, I/O: 0.325 GB/s, Instance Type: ra3.large, ECU: 6.1875)": [
             "0.6010000000"
         ],
-        "US East (Ohio)": [
+        "US East (Ohio) (Memory: 16 GiB, vCPU: 2, Storage: 8TB RMS, I/O: 0.325 GB/s, Instance Type: ra3.large, ECU: 6.1875)": [
             "0.5430000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (Memory: 16 GiB, vCPU: 2, Storage: 8TB RMS, I/O: 0.325 GB/s, Instance Type: ra3.large, ECU: 6.1875)": [
             "0.5430000000"
         ],
-        "South America (Sao Paulo)": [
+        "South America (Sao Paulo) (Memory: 16 GiB, vCPU: 2, Storage: 8TB RMS, I/O: 0.325 GB/s, Instance Type: ra3.large, ECU: 6.1875)": [
             "0.8660000000"
         ],
-        "Middle East (UAE)": [
+        "Middle East (UAE) (Memory: 16 GiB, vCPU: 2, Storage: 8TB RMS, I/O: 0.325 GB/s, Instance Type: ra3.large, ECU: 6.1875)": [
             "0.6610000000"
         ],
-        "Middle East (Bahrain)": [
+        "Middle East (Bahrain) (Memory: 16 GiB, vCPU: 2, Storage: 8TB RMS, I/O: 0.325 GB/s, Instance Type: ra3.large, ECU: 6.1875)": [
             "0.6600000000"
         ],
-        "Mexico (Central)": [
+        "Mexico (Central) (Memory: 16 GiB, vCPU: 2, Storage: 8TB RMS, I/O: 0.325 GB/s, Instance Type: ra3.large, ECU: 6.1875)": [
             "0.5701500000"
         ],
-        "Israel (Tel Aviv)": [
+        "Israel (Tel Aviv) (Memory: 16 GiB, vCPU: 2, Storage: 8TB RMS, I/O: 0.325 GB/s, Instance Type: ra3.large, ECU: 6.1875)": [
             "0.6310000000"
         ],
-        "EU (Zurich)": [
+        "EU (Zurich) (Memory: 16 GiB, vCPU: 2, Storage: 8TB RMS, I/O: 0.325 GB/s, Instance Type: ra3.large, ECU: 6.1875)": [
             "0.7140000000"
         ],
-        "EU (Stockholm)": [
+        "EU (Stockholm) (Memory: 16 GiB, vCPU: 2, Storage: 8TB RMS, I/O: 0.325 GB/s, Instance Type: ra3.large, ECU: 6.1875)": [
             "0.5700000000"
         ],
-        "EU (Spain)": [
+        "EU (Spain) (Memory: 16 GiB, vCPU: 2, Storage: 8TB RMS, I/O: 0.325 GB/s, Instance Type: ra3.large, ECU: 6.1875)": [
             "0.6010000000"
         ],
-        "EU (Paris)": [
+        "EU (Paris) (Memory: 16 GiB, vCPU: 2, Storage: 8TB RMS, I/O: 0.325 GB/s, Instance Type: ra3.large, ECU: 6.1875)": [
             "0.6330000000"
         ],
-        "EU (Milan)": [
+        "EU (Milan) (Memory: 16 GiB, vCPU: 2, Storage: 8TB RMS, I/O: 0.325 GB/s, Instance Type: ra3.large, ECU: 6.1875)": [
             "0.6300000000"
         ],
-        "EU (London)": [
+        "EU (London) (Memory: 16 GiB, vCPU: 2, Storage: 8TB RMS, I/O: 0.325 GB/s, Instance Type: ra3.large, ECU: 6.1875)": [
             "0.6320000000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (Memory: 16 GiB, vCPU: 2, Storage: 8TB RMS, I/O: 0.325 GB/s, Instance Type: ra3.large, ECU: 6.1875)": [
             "0.6010000000"
         ],
-        "EU (Frankfurt)": [
+        "EU (Frankfurt) (Memory: 16 GiB, vCPU: 2, Storage: 8TB RMS, I/O: 0.325 GB/s, Instance Type: ra3.large, ECU: 6.1875)": [
             "0.6490000000"
         ],
-        "Canada West (Calgary)": [
+        "Canada West (Calgary) (Memory: 16 GiB, vCPU: 2, Storage: 8TB RMS, I/O: 0.325 GB/s, Instance Type: ra3.large, ECU: 6.1875)": [
             "0.6010000000"
         ],
-        "Canada (Central)": [
+        "Canada (Central) (Memory: 16 GiB, vCPU: 2, Storage: 8TB RMS, I/O: 0.325 GB/s, Instance Type: ra3.large, ECU: 6.1875)": [
             "0.6010000000"
         ],
-        "Asia Pacific (Tokyo)": [
+        "Asia Pacific (Tokyo) (Memory: 16 GiB, vCPU: 2, Storage: 8TB RMS, I/O: 0.325 GB/s, Instance Type: ra3.large, ECU: 6.1875)": [
             "0.6390000000"
         ],
-        "Asia Pacific (Thailand)": [
+        "Asia Pacific (Thailand) (Memory: 16 GiB, vCPU: 2, Storage: 8TB RMS, I/O: 0.325 GB/s, Instance Type: ra3.large, ECU: 6.1875)": [
             "0.5863500000"
         ],
-        "Asia Pacific (Sydney)": [
+        "Asia Pacific (Sydney) (Memory: 16 GiB, vCPU: 2, Storage: 8TB RMS, I/O: 0.325 GB/s, Instance Type: ra3.large, ECU: 6.1875)": [
             "0.6520000000"
         ],
-        "Asia Pacific (Singapore)": [
+        "Asia Pacific (Singapore) (Memory: 16 GiB, vCPU: 2, Storage: 8TB RMS, I/O: 0.325 GB/s, Instance Type: ra3.large, ECU: 6.1875)": [
             "0.6520000000"
         ],
-        "Asia Pacific (Seoul)": [
+        "Asia Pacific (Seoul) (Memory: 16 GiB, vCPU: 2, Storage: 8TB RMS, I/O: 0.325 GB/s, Instance Type: ra3.large, ECU: 6.1875)": [
             "0.6390000000"
         ],
-        "Asia Pacific (Osaka)": [
+        "Asia Pacific (Osaka) (Memory: 16 GiB, vCPU: 2, Storage: 8TB RMS, I/O: 0.325 GB/s, Instance Type: ra3.large, ECU: 6.1875)": [
             "0.6400000000"
         ],
-        "Asia Pacific (Mumbai)": [
+        "Asia Pacific (Mumbai) (Memory: 16 GiB, vCPU: 2, Storage: 8TB RMS, I/O: 0.325 GB/s, Instance Type: ra3.large, ECU: 6.1875)": [
             "0.6180000000"
         ],
-        "Asia Pacific (Melbourne)": [
+        "Asia Pacific (Melbourne) (Memory: 16 GiB, vCPU: 2, Storage: 8TB RMS, I/O: 0.325 GB/s, Instance Type: ra3.large, ECU: 6.1875)": [
             "0.6520000000"
         ],
-        "Asia Pacific (Malaysia)": [
+        "Asia Pacific (Malaysia) (Memory: 16 GiB, vCPU: 2, Storage: 8TB RMS, I/O: 0.325 GB/s, Instance Type: ra3.large, ECU: 6.1875)": [
             "0.5863500000"
         ],
-        "Asia Pacific (Jakarta)": [
+        "Asia Pacific (Jakarta) (Memory: 16 GiB, vCPU: 2, Storage: 8TB RMS, I/O: 0.325 GB/s, Instance Type: ra3.large, ECU: 6.1875)": [
             "0.6520000000"
         ],
-        "Asia Pacific (Hyderabad)": [
+        "Asia Pacific (Hyderabad) (Memory: 16 GiB, vCPU: 2, Storage: 8TB RMS, I/O: 0.325 GB/s, Instance Type: ra3.large, ECU: 6.1875)": [
             "0.6180000000"
         ],
-        "Asia Pacific (Hong Kong)": [
+        "Asia Pacific (Hong Kong) (Memory: 16 GiB, vCPU: 2, Storage: 8TB RMS, I/O: 0.325 GB/s, Instance Type: ra3.large, ECU: 6.1875)": [
             "0.5430000000"
         ],
-        "Africa (Cape Town)": [
+        "Africa (Cape Town) (Memory: 16 GiB, vCPU: 2, Storage: 8TB RMS, I/O: 0.325 GB/s, Instance Type: ra3.large, ECU: 6.1875)": [
             "0.7150000000"
         ],
-        "AWS GovCloud (US-East)": [
+        "AWS GovCloud (US-East) (Memory: 16 GiB, vCPU: 2, Storage: 8TB RMS, I/O: 0.325 GB/s, Instance Type: ra3.large, ECU: 6.1875)": [
             "0.5430000000"
         ],
-        "AWS GovCloud (US)": [
+        "AWS GovCloud (US) (Memory: 16 GiB, vCPU: 2, Storage: 8TB RMS, I/O: 0.325 GB/s, Instance Type: ra3.large, ECU: 6.1875)": [
             "0.5430000000"
         ]
     },
     "ra3 16xlarge Redshift Concurrency Scaling Current Generation RA3": {
-        "Regionless": [
+        "Default": [
             "0.0036200000"
         ],
-        "US West (Oregon)": [
+        "US West (Oregon) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.16xlarge, ECU: , Usage Family: RA3)": [
             "0.0036200000"
         ],
-        "US West (N. California)": [
+        "US West (N. California) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.16xlarge, ECU: , Usage Family: RA3)": [
             "0.0040000000"
         ],
-        "US East (Ohio)": [
+        "US East (Ohio) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.16xlarge, ECU: , Usage Family: RA3)": [
             "0.0036200000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.16xlarge, ECU: , Usage Family: RA3)": [
             "0.0036200000"
         ],
-        "South America (Sao Paulo)": [
+        "South America (Sao Paulo) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.16xlarge, ECU: , Usage Family: RA3)": [
             "0.0057600000"
         ],
-        "Middle East (UAE)": [
+        "Middle East (UAE) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.16xlarge, ECU: , Usage Family: RA3)": [
             "0.0044000000"
         ],
-        "Mexico (Central)": [
+        "Mexico (Central) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.16xlarge, ECU: , Usage Family: RA3)": [
             "0.0038010000"
         ],
-        "Israel (Tel Aviv)": [
+        "Israel (Tel Aviv) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.16xlarge, ECU: , Usage Family: RA3)": [
             "0.0042000000"
         ],
-        "EU (Zurich)": [
+        "EU (Zurich) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.16xlarge, ECU: , Usage Family: RA3)": [
             "0.0047520000"
         ],
-        "EU (Stockholm)": [
+        "EU (Stockholm) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.16xlarge, ECU: , Usage Family: RA3)": [
             "0.0037900000"
         ],
-        "EU (Spain)": [
+        "EU (Spain) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.16xlarge, ECU: , Usage Family: RA3)": [
             "0.0040000000"
         ],
-        "EU (Paris)": [
+        "EU (Paris) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.16xlarge, ECU: , Usage Family: RA3)": [
             "0.0042000000"
         ],
-        "EU (London)": [
+        "EU (London) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.16xlarge, ECU: , Usage Family: RA3)": [
             "0.0042100000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.16xlarge, ECU: , Usage Family: RA3)": [
             "0.0040000000"
         ],
-        "EU (Frankfurt)": [
+        "EU (Frankfurt) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.16xlarge, ECU: , Usage Family: RA3)": [
             "0.0043200000"
         ],
-        "Canada West (Calgary)": [
+        "Canada West (Calgary) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.16xlarge, ECU: , Usage Family: RA3)": [
             "0.0040000000"
         ],
-        "Canada (Central)": [
+        "Canada (Central) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.16xlarge, ECU: , Usage Family: RA3)": [
             "0.0040000000"
         ],
-        "Asia Pacific (Tokyo)": [
+        "Asia Pacific (Tokyo) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.16xlarge, ECU: , Usage Family: RA3)": [
             "0.0042600000"
         ],
-        "Asia Pacific (Thailand)": [
+        "Asia Pacific (Thailand) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.16xlarge, ECU: , Usage Family: RA3)": [
             "0.0032580000"
         ],
-        "Asia Pacific (Sydney)": [
+        "Asia Pacific (Sydney) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.16xlarge, ECU: , Usage Family: RA3)": [
             "0.0043400000"
         ],
-        "Asia Pacific (Singapore)": [
+        "Asia Pacific (Singapore) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.16xlarge, ECU: , Usage Family: RA3)": [
             "0.0043400000"
         ],
-        "Asia Pacific (Seoul)": [
+        "Asia Pacific (Seoul) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.16xlarge, ECU: , Usage Family: RA3)": [
             "0.0042600000"
         ],
-        "Asia Pacific (Mumbai)": [
+        "Asia Pacific (Mumbai) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.16xlarge, ECU: , Usage Family: RA3)": [
             "0.0041100000"
         ],
-        "Asia Pacific (Malaysia)": [
+        "Asia Pacific (Malaysia) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.16xlarge, ECU: , Usage Family: RA3)": [
             "0.0032580000"
         ],
-        "AWS GovCloud (US-East)": [
+        "AWS GovCloud (US-East) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.16xlarge, ECU: , Usage Family: RA3)": [
             "0.0036200000"
         ],
-        "AWS GovCloud (US)": [
+        "AWS GovCloud (US) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.16xlarge, ECU: , Usage Family: RA3)": [
             "0.0036200000"
         ]
     },
     "ra3 16xlarge OnDemand Compute Instance Current Generation": {
-        "Regionless": [
+        "Default": [
             "13.0400000000"
         ],
-        "US West (Oregon)": [
+        "US West (Oregon) (Memory: 384 GiB, vCPU: 48, Storage: 64TB RMS, I/O: 8.00 GB/s, Instance Type: ra3.16xlarge, ECU: 148.5)": [
             "13.0400000000"
         ],
-        "US West (N. California)": [
+        "US West (N. California) (Memory: 384 GiB, vCPU: 48, Storage: 64TB RMS, I/O: 8.00 GB/s, Instance Type: ra3.16xlarge, ECU: 148.5)": [
             "14.4240000000"
         ],
-        "US East (Ohio)": [
+        "US East (Ohio) (Memory: 384 GiB, vCPU: 48, Storage: 64TB RMS, I/O: 8.00 GB/s, Instance Type: ra3.16xlarge, ECU: 148.5)": [
             "13.0400000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (Memory: 384 GiB, vCPU: 48, Storage: 64TB RMS, I/O: 8.00 GB/s, Instance Type: ra3.16xlarge, ECU: 148.5)": [
             "13.0400000000"
         ],
-        "South America (Sao Paulo)": [
+        "South America (Sao Paulo) (Memory: 384 GiB, vCPU: 48, Storage: 64TB RMS, I/O: 8.00 GB/s, Instance Type: ra3.16xlarge, ECU: 148.5)": [
             "20.7800000000"
         ],
-        "Middle East (UAE)": [
+        "Middle East (UAE) (Memory: 384 GiB, vCPU: 48, Storage: 64TB RMS, I/O: 8.00 GB/s, Instance Type: ra3.16xlarge, ECU: 148.5)": [
             "15.8664000000"
         ],
-        "Middle East (Bahrain)": [
+        "Middle East (Bahrain) (Memory: 384 GiB, vCPU: 48, Storage: 64TB RMS, I/O: 8.00 GB/s, Instance Type: ra3.16xlarge, ECU: 148.5)": [
             "15.8700000000"
         ],
-        "Mexico (Central)": [
+        "Mexico (Central) (Memory: 384 GiB, vCPU: 48, Storage: 64TB RMS, I/O: 8.00 GB/s, Instance Type: ra3.16xlarge, ECU: 148.5)": [
             "13.6920000000"
         ],
-        "Israel (Tel Aviv)": [
+        "Israel (Tel Aviv) (Memory: 384 GiB, vCPU: 48, Storage: 64TB RMS, I/O: 8.00 GB/s, Instance Type: ra3.16xlarge, ECU: 148.5)": [
             "15.1452000000"
         ],
-        "EU (Zurich)": [
+        "EU (Zurich) (Memory: 384 GiB, vCPU: 48, Storage: 64TB RMS, I/O: 8.00 GB/s, Instance Type: ra3.16xlarge, ECU: 148.5)": [
             "17.1358000000"
         ],
-        "EU (Stockholm)": [
+        "EU (Stockholm) (Memory: 384 GiB, vCPU: 48, Storage: 64TB RMS, I/O: 8.00 GB/s, Instance Type: ra3.16xlarge, ECU: 148.5)": [
             "13.6750000000"
         ],
-        "EU (Spain)": [
+        "EU (Spain) (Memory: 384 GiB, vCPU: 48, Storage: 64TB RMS, I/O: 8.00 GB/s, Instance Type: ra3.16xlarge, ECU: 148.5)": [
             "14.4240000000"
         ],
-        "EU (Paris)": [
+        "EU (Paris) (Memory: 384 GiB, vCPU: 48, Storage: 64TB RMS, I/O: 8.00 GB/s, Instance Type: ra3.16xlarge, ECU: 148.5)": [
             "15.1800000000"
         ],
-        "EU (Milan)": [
+        "EU (Milan) (Memory: 384 GiB, vCPU: 48, Storage: 64TB RMS, I/O: 8.00 GB/s, Instance Type: ra3.16xlarge, ECU: 148.5)": [
             "15.1500000000"
         ],
-        "EU (London)": [
+        "EU (London) (Memory: 384 GiB, vCPU: 48, Storage: 64TB RMS, I/O: 8.00 GB/s, Instance Type: ra3.16xlarge, ECU: 148.5)": [
             "15.1740000000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (Memory: 384 GiB, vCPU: 48, Storage: 64TB RMS, I/O: 8.00 GB/s, Instance Type: ra3.16xlarge, ECU: 148.5)": [
             "14.4240000000"
         ],
-        "EU (Frankfurt)": [
+        "EU (Frankfurt) (Memory: 384 GiB, vCPU: 48, Storage: 64TB RMS, I/O: 8.00 GB/s, Instance Type: ra3.16xlarge, ECU: 148.5)": [
             "15.5780000000"
         ],
-        "Canada West (Calgary)": [
+        "Canada West (Calgary) (Memory: 384 GiB, vCPU: 48, Storage: 64TB RMS, I/O: 8.00 GB/s, Instance Type: ra3.16xlarge, ECU: 148.5)": [
             "14.4300000000"
         ],
-        "Canada (Central)": [
+        "Canada (Central) (Memory: 384 GiB, vCPU: 48, Storage: 64TB RMS, I/O: 8.00 GB/s, Instance Type: ra3.16xlarge, ECU: 148.5)": [
             "14.4300000000"
         ],
-        "Asia Pacific (Tokyo)": [
+        "Asia Pacific (Tokyo) (Memory: 384 GiB, vCPU: 48, Storage: 64TB RMS, I/O: 8.00 GB/s, Instance Type: ra3.16xlarge, ECU: 148.5)": [
             "15.3470000000"
         ],
-        "Asia Pacific (Thailand)": [
+        "Asia Pacific (Thailand) (Memory: 384 GiB, vCPU: 48, Storage: 64TB RMS, I/O: 8.00 GB/s, Instance Type: ra3.16xlarge, ECU: 148.5)": [
             "14.0724000000"
         ],
-        "Asia Pacific (Sydney)": [
+        "Asia Pacific (Sydney) (Memory: 384 GiB, vCPU: 48, Storage: 64TB RMS, I/O: 8.00 GB/s, Instance Type: ra3.16xlarge, ECU: 148.5)": [
             "15.6360000000"
         ],
-        "Asia Pacific (Singapore)": [
+        "Asia Pacific (Singapore) (Memory: 384 GiB, vCPU: 48, Storage: 64TB RMS, I/O: 8.00 GB/s, Instance Type: ra3.16xlarge, ECU: 148.5)": [
             "15.6360000000"
         ],
-        "Asia Pacific (Seoul)": [
+        "Asia Pacific (Seoul) (Memory: 384 GiB, vCPU: 48, Storage: 64TB RMS, I/O: 8.00 GB/s, Instance Type: ra3.16xlarge, ECU: 148.5)": [
             "15.3470000000"
         ],
-        "Asia Pacific (Osaka)": [
+        "Asia Pacific (Osaka) (Memory: 384 GiB, vCPU: 48, Storage: 64TB RMS, I/O: 8.00 GB/s, Instance Type: ra3.16xlarge, ECU: 148.5)": [
             "15.3500000000"
         ],
-        "Asia Pacific (Mumbai)": [
+        "Asia Pacific (Mumbai) (Memory: 384 GiB, vCPU: 48, Storage: 64TB RMS, I/O: 8.00 GB/s, Instance Type: ra3.16xlarge, ECU: 148.5)": [
             "14.8270000000"
         ],
-        "Asia Pacific (Melbourne)": [
+        "Asia Pacific (Melbourne) (Memory: 384 GiB, vCPU: 48, Storage: 64TB RMS, I/O: 8.00 GB/s, Instance Type: ra3.16xlarge, ECU: 148.5)": [
             "15.6360000000"
         ],
-        "Asia Pacific (Malaysia)": [
+        "Asia Pacific (Malaysia) (Memory: 384 GiB, vCPU: 48, Storage: 64TB RMS, I/O: 8.00 GB/s, Instance Type: ra3.16xlarge, ECU: 148.5)": [
             "14.0724000000"
         ],
-        "Asia Pacific (Jakarta)": [
+        "Asia Pacific (Jakarta) (Memory: 384 GiB, vCPU: 48, Storage: 64TB RMS, I/O: 8.00 GB/s, Instance Type: ra3.16xlarge, ECU: 148.5)": [
             "15.3630000000"
         ],
-        "Asia Pacific (Hyderabad)": [
+        "Asia Pacific (Hyderabad) (Memory: 384 GiB, vCPU: 48, Storage: 64TB RMS, I/O: 8.00 GB/s, Instance Type: ra3.16xlarge, ECU: 148.5)": [
             "14.8270000000"
         ],
-        "Asia Pacific (Hong Kong)": [
+        "Asia Pacific (Hong Kong) (Memory: 384 GiB, vCPU: 48, Storage: 64TB RMS, I/O: 8.00 GB/s, Instance Type: ra3.16xlarge, ECU: 148.5)": [
             "13.0400000000"
         ],
-        "Africa (Cape Town)": [
+        "Africa (Cape Town) (Memory: 384 GiB, vCPU: 48, Storage: 64TB RMS, I/O: 8.00 GB/s, Instance Type: ra3.16xlarge, ECU: 148.5)": [
             "17.1600000000"
         ],
-        "AWS GovCloud (US-East)": [
+        "AWS GovCloud (US-East) (Memory: 384 GiB, vCPU: 48, Storage: 64TB RMS, I/O: 8.00 GB/s, Instance Type: ra3.16xlarge, ECU: 148.5)": [
             "13.0400000000"
         ],
-        "AWS GovCloud (US)": [
+        "AWS GovCloud (US) (Memory: 384 GiB, vCPU: 48, Storage: 64TB RMS, I/O: 8.00 GB/s, Instance Type: ra3.16xlarge, ECU: 148.5)": [
             "13.0400000000"
         ]
     },
     "ds2 8xlarge Redshift Concurrency Scaling Current Generation Dense Storage": {
-        "Regionless": [
+        "Default": [
             "0.0018900000"
         ],
-        "US West (Oregon)": [
+        "US West (Oregon) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ds2.8xlarge, ECU: , Usage Family: Dense Storage)": [
             "0.0018900000"
         ],
-        "US East (Ohio)": [
+        "US East (Ohio) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ds2.8xlarge, ECU: , Usage Family: Dense Storage)": [
             "0.0018900000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ds2.8xlarge, ECU: , Usage Family: Dense Storage)": [
             "0.0018900000"
         ],
-        "Middle East (Bahrain)": [
+        "Middle East (Bahrain) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ds2.8xlarge, ECU: , Usage Family: Dense Storage)": [
             "0.0023200000"
         ],
-        "EU (Stockholm)": [
+        "EU (Stockholm) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ds2.8xlarge, ECU: , Usage Family: Dense Compute)": [
             "0.0020100000"
         ],
-        "EU (London)": [
+        "EU (London) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ds2.8xlarge, ECU: , Usage Family: Dense Compute)": [
             "0.0022200000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ds2.8xlarge, ECU: , Usage Family: Dense Storage)": [
             "0.0021100000"
         ],
-        "Asia Pacific (Tokyo)": [
+        "Asia Pacific (Tokyo) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ds2.8xlarge, ECU: , Usage Family: Dense Storage)": [
             "0.0026400000"
         ],
-        "Asia Pacific (Osaka)": [
+        "Asia Pacific (Osaka) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ds2.8xlarge, ECU: , Usage Family: Dense Compute)": [
             "0.0026400000"
         ],
-        "Asia Pacific (Hong Kong)": [
+        "Asia Pacific (Hong Kong) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ds2.8xlarge, ECU: , Usage Family: Dense Compute)": [
             "0.0030600000"
         ],
-        "AWS GovCloud (US)": [
+        "AWS GovCloud (US) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ds2.8xlarge, ECU: , Usage Family: Dense Compute)": [
             "0.0022700000"
         ]
     },
     "dc2 8xlarge OnDemand Compute Instance Current Generation": {
-        "Regionless": [
+        "Default": [
             "4.8000000000"
         ],
-        "US West (Oregon)": [
+        "US West (Oregon) (Memory: 244 GiB, vCPU: 32, Storage: 2.56TB SSD, I/O: 7.50 GB/s, Instance Type: dc2.8xlarge, ECU: 99)": [
             "4.8000000000"
         ],
-        "US West (N. California)": [
+        "US West (N. California) (Memory: 244 GiB, vCPU: 32, Storage: 2.56TB SSD, I/O: 7.50 GB/s, Instance Type: dc2.8xlarge, ECU: 99)": [
             "6.4000000000"
         ],
-        "US East (Ohio)": [
+        "US East (Ohio) (Memory: 244 GiB, vCPU: 32, Storage: 2.56TB SSD, I/O: 7.50 GB/s, Instance Type: dc2.8xlarge, ECU: 99)": [
             "4.8000000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (Memory: 244 GiB, vCPU: 32, Storage: 2.56TB SSD, I/O: 7.50 GB/s, Instance Type: dc2.8xlarge, ECU: 99)": [
             "4.8000000000"
         ],
-        "South America (Sao Paulo)": [
+        "South America (Sao Paulo) (Memory: 244 GiB, vCPU: 32, Storage: 2.56TB SSD, I/O: 7.50 GB/s, Instance Type: dc2.8xlarge, ECU: 99)": [
             "7.6800000000"
         ],
-        "Middle East (UAE)": [
+        "Middle East (UAE) (Memory: 244 GiB, vCPU: 32, Storage: 2.56TB SSD, I/O: 7.50 GB/s, Instance Type: dc2.8xlarge, ECU: 99)": [
             "6.1600000000"
         ],
-        "Middle East (Bahrain)": [
+        "Middle East (Bahrain) (Memory: 244 GiB, vCPU: 32, Storage: 2.56TB SSD, I/O: 7.50 GB/s, Instance Type: dc2.8xlarge, ECU: 99)": [
             "6.1600000000"
         ],
-        "EU (Zurich)": [
+        "EU (Zurich) (Memory: 244 GiB, vCPU: 32, Storage: 2.56TB SSD, I/O: 7.50 GB/s, Instance Type: dc2.8xlarge, ECU: 99)": [
             "6.0480000000"
         ],
-        "EU (Stockholm)": [
+        "EU (Stockholm) (Memory: 244 GiB, vCPU: 32, Storage: 2.56TB SSD, I/O: 7.50 GB/s, Instance Type: dc2.8xlarge, ECU: 99)": [
             "5.3200000000"
         ],
-        "EU (Spain)": [
+        "EU (Spain) (Memory: 244 GiB, vCPU: 32, Storage: 2.56TB SSD, I/O: 7.50 GB/s, Instance Type: dc2.8xlarge, ECU: 99)": [
             "5.6000000000"
         ],
-        "EU (Paris)": [
+        "EU (Paris) (Memory: 244 GiB, vCPU: 32, Storage: 2.56TB SSD, I/O: 7.50 GB/s, Instance Type: dc2.8xlarge, ECU: 99)": [
             "5.8800000000"
         ],
-        "EU (Milan)": [
+        "EU (Milan) (Memory: 244 GiB, vCPU: 32, Storage: 2.56TB SSD, I/O: 7.50 GB/s, Instance Type: dc2.8xlarge, ECU: 99)": [
             "5.8800000000"
         ],
-        "EU (London)": [
+        "EU (London) (Memory: 244 GiB, vCPU: 32, Storage: 2.56TB SSD, I/O: 7.50 GB/s, Instance Type: dc2.8xlarge, ECU: 99)": [
             "5.8800000000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (Memory: 244 GiB, vCPU: 32, Storage: 2.56TB SSD, I/O: 7.50 GB/s, Instance Type: dc2.8xlarge, ECU: 99)": [
             "5.6000000000"
         ],
-        "EU (Frankfurt)": [
+        "EU (Frankfurt) (Memory: 244 GiB, vCPU: 32, Storage: 2.56TB SSD, I/O: 7.50 GB/s, Instance Type: dc2.8xlarge, ECU: 99)": [
             "6.0480000000"
         ],
-        "Canada (Central)": [
+        "Canada (Central) (Memory: 244 GiB, vCPU: 32, Storage: 2.56TB SSD, I/O: 7.50 GB/s, Instance Type: dc2.8xlarge, ECU: 99)": [
             "5.2800000000"
         ],
-        "Asia Pacific (Tokyo)": [
+        "Asia Pacific (Tokyo) (Memory: 244 GiB, vCPU: 32, Storage: 2.56TB SSD, I/O: 7.50 GB/s, Instance Type: dc2.8xlarge, ECU: 99)": [
             "6.0950000000"
         ],
-        "Asia Pacific (Sydney)": [
+        "Asia Pacific (Sydney) (Memory: 244 GiB, vCPU: 32, Storage: 2.56TB SSD, I/O: 7.50 GB/s, Instance Type: dc2.8xlarge, ECU: 99)": [
             "6.4000000000"
         ],
-        "Asia Pacific (Singapore)": [
+        "Asia Pacific (Singapore) (Memory: 244 GiB, vCPU: 32, Storage: 2.56TB SSD, I/O: 7.50 GB/s, Instance Type: dc2.8xlarge, ECU: 99)": [
             "6.4000000000"
         ],
-        "Asia Pacific (Seoul)": [
+        "Asia Pacific (Seoul) (Memory: 244 GiB, vCPU: 32, Storage: 2.56TB SSD, I/O: 7.50 GB/s, Instance Type: dc2.8xlarge, ECU: 99)": [
             "5.8000000000"
         ],
-        "Asia Pacific (Osaka)": [
+        "Asia Pacific (Osaka) (Memory: 244 GiB, vCPU: 32, Storage: 2.56TB SSD, I/O: 7.50 GB/s, Instance Type: dc2.8xlarge, ECU: 99)": [
             "6.0950000000"
         ],
-        "Asia Pacific (Mumbai)": [
+        "Asia Pacific (Mumbai) (Memory: 244 GiB, vCPU: 32, Storage: 2.56TB SSD, I/O: 7.50 GB/s, Instance Type: dc2.8xlarge, ECU: 99)": [
             "6.1000000000"
         ],
-        "Asia Pacific (Melbourne)": [
+        "Asia Pacific (Melbourne) (Memory: 244 GiB, vCPU: 32, Storage: 2.56TB SSD, I/O: 7.50 GB/s, Instance Type: dc2.8xlarge, ECU: 99)": [
             "6.4000000000"
         ],
-        "Asia Pacific (Jakarta)": [
+        "Asia Pacific (Jakarta) (Memory: 244 GiB, vCPU: 32, Storage: 2.56TB SSD, I/O: 7.50 GB/s, Instance Type: dc2.8xlarge, ECU: 99)": [
             "6.4000000000"
         ],
-        "Asia Pacific (Hyderabad)": [
+        "Asia Pacific (Hyderabad) (Memory: 244 GiB, vCPU: 32, Storage: 2.56TB SSD, I/O: 7.50 GB/s, Instance Type: dc2.8xlarge, ECU: 99)": [
             "6.1000000000"
         ],
-        "Asia Pacific (Hong Kong)": [
+        "Asia Pacific (Hong Kong) (Memory: 244 GiB, vCPU: 32, Storage: 2.56TB SSD, I/O: 7.50 GB/s, Instance Type: dc2.8xlarge, ECU: 99)": [
             "7.0400000000"
         ],
-        "Africa (Cape Town)": [
+        "Africa (Cape Town) (Memory: 244 GiB, vCPU: 32, Storage: 2.56TB SSD, I/O: 7.50 GB/s, Instance Type: dc2.8xlarge, ECU: 99)": [
             "6.6640000000"
         ],
-        "AWS GovCloud (US-East)": [
+        "AWS GovCloud (US-East) (Memory: 244 GiB, vCPU: 32, Storage: 2.56TB SSD, I/O: 7.50 GB/s, Instance Type: dc2.8xlarge, ECU: 99)": [
             "5.7600000000"
         ],
-        "AWS GovCloud (US)": [
+        "AWS GovCloud (US) (Memory: 244 GiB, vCPU: 32, Storage: 2.56TB SSD, I/O: 7.50 GB/s, Instance Type: dc2.8xlarge, ECU: 99)": [
             "5.7600000000"
         ]
     },
     "Redshift Serverless compute charges per RPU-Hr": {
-        "Regionless": [
+        "Default": [
             "0.3600000000"
         ],
         "US West (Oregon)": [
@@ -1284,768 +1796,768 @@
         ]
     },
     "ra3 4xlarge Redshift Concurrency Scaling Current Generation RA3": {
-        "Regionless": [
+        "Default": [
             "0.0009000000"
         ],
-        "US West (Oregon)": [
+        "US West (Oregon) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.4xlarge, ECU: , Usage Family: RA3)": [
             "0.0009000000"
         ],
-        "US West (N. California)": [
+        "US West (N. California) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.4xlarge, ECU: , Usage Family: RA3)": [
             "0.0010000000"
         ],
-        "US East (Ohio)": [
+        "US East (Ohio) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.4xlarge, ECU: , Usage Family: RA3)": [
             "0.0009000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.4xlarge, ECU: , Usage Family: RA3)": [
             "0.0009000000"
         ],
-        "South America (Sao Paulo)": [
+        "South America (Sao Paulo) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.4xlarge, ECU: , Usage Family: RA3)": [
             "0.0014400000"
         ],
-        "Middle East (UAE)": [
+        "Middle East (UAE) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.4xlarge, ECU: , Usage Family: RA3)": [
             "0.0011000000"
         ],
-        "Mexico (Central)": [
+        "Mexico (Central) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.4xlarge, ECU: , Usage Family: RA3)": [
             "0.0009450000"
         ],
-        "Israel (Tel Aviv)": [
+        "Israel (Tel Aviv) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.4xlarge, ECU: , Usage Family: RA3)": [
             "0.0010500000"
         ],
-        "EU (Zurich)": [
+        "EU (Zurich) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.4xlarge, ECU: , Usage Family: RA3)": [
             "0.0011880000"
         ],
-        "EU (Stockholm)": [
+        "EU (Stockholm) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.4xlarge, ECU: , Usage Family: RA3)": [
             "0.0009400000"
         ],
-        "EU (Spain)": [
+        "EU (Spain) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.4xlarge, ECU: , Usage Family: RA3)": [
             "0.0010000000"
         ],
-        "EU (Paris)": [
+        "EU (Paris) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.4xlarge, ECU: , Usage Family: RA3)": [
             "0.0010500000"
         ],
-        "EU (London)": [
+        "EU (London) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.4xlarge, ECU: , Usage Family: RA3)": [
             "0.0010500000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.4xlarge, ECU: , Usage Family: RA3)": [
             "0.0010000000"
         ],
-        "EU (Frankfurt)": [
+        "EU (Frankfurt) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.4xlarge, ECU: , Usage Family: RA3)": [
             "0.0010800000"
         ],
-        "Canada West (Calgary)": [
+        "Canada West (Calgary) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.4xlarge, ECU: , Usage Family: RA3)": [
             "0.0010000000"
         ],
-        "Canada (Central)": [
+        "Canada (Central) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.4xlarge, ECU: , Usage Family: RA3)": [
             "0.0010000000"
         ],
-        "Asia Pacific (Tokyo)": [
+        "Asia Pacific (Tokyo) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.4xlarge, ECU: , Usage Family: RA3)": [
             "0.0010600000"
         ],
-        "Asia Pacific (Thailand)": [
+        "Asia Pacific (Thailand) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.4xlarge, ECU: , Usage Family: RA3)": [
             "0.0008100000"
         ],
-        "Asia Pacific (Sydney)": [
+        "Asia Pacific (Sydney) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.4xlarge, ECU: , Usage Family: RA3)": [
             "0.0010800000"
         ],
-        "Asia Pacific (Singapore)": [
+        "Asia Pacific (Singapore) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.4xlarge, ECU: , Usage Family: RA3)": [
             "0.0010800000"
         ],
-        "Asia Pacific (Seoul)": [
+        "Asia Pacific (Seoul) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.4xlarge, ECU: , Usage Family: RA3)": [
             "0.0010600000"
         ],
-        "Asia Pacific (Mumbai)": [
+        "Asia Pacific (Mumbai) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.4xlarge, ECU: , Usage Family: RA3)": [
             "0.0010200000"
         ],
-        "Asia Pacific (Malaysia)": [
+        "Asia Pacific (Malaysia) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.4xlarge, ECU: , Usage Family: RA3)": [
             "0.0008100000"
         ],
-        "AWS GovCloud (US-East)": [
+        "AWS GovCloud (US-East) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.4xlarge, ECU: , Usage Family: RA3)": [
             "0.0009100000"
         ],
-        "AWS GovCloud (US)": [
+        "AWS GovCloud (US) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.4xlarge, ECU: , Usage Family: RA3)": [
             "0.0009100000"
         ]
     },
     "ra3 xlplus Redshift Concurrency Scaling Current Generation RA3": {
-        "Regionless": [
+        "Default": [
             "0.0003000000"
         ],
-        "US West (Oregon)": [
+        "US West (Oregon) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.xlplus, ECU: , Usage Family: RA3)": [
             "0.0003000000"
         ],
-        "US West (N. California)": [
+        "US West (N. California) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.xlplus, ECU: , Usage Family: RA3)": [
             "0.0003300000"
         ],
-        "US East (Ohio)": [
+        "US East (Ohio) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.xlplus, ECU: , Usage Family: RA3)": [
             "0.0003000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.xlplus, ECU: , Usage Family: RA3)": [
             "0.0003000000"
         ],
-        "South America (Sao Paulo)": [
+        "South America (Sao Paulo) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.xlplus, ECU: , Usage Family: RA3)": [
             "0.0004800000"
         ],
-        "Middle East (UAE)": [
+        "Middle East (UAE) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.xlplus, ECU: , Usage Family: RA3)": [
             "0.0003700000"
         ],
-        "Mexico (Central)": [
+        "Mexico (Central) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.xlplus, ECU: , Usage Family: RA3)": [
             "0.0003150000"
         ],
-        "Israel (Tel Aviv)": [
+        "Israel (Tel Aviv) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.xlplus, ECU: , Usage Family: RA3)": [
             "0.0003465000"
         ],
-        "EU (Zurich)": [
+        "EU (Zurich) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.xlplus, ECU: , Usage Family: RA3)": [
             "0.0003960000"
         ],
-        "EU (Stockholm)": [
+        "EU (Stockholm) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.xlplus, ECU: , Usage Family: RA3)": [
             "0.0003100000"
         ],
-        "EU (Spain)": [
+        "EU (Spain) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.xlplus, ECU: , Usage Family: RA3)": [
             "0.0003300000"
         ],
-        "EU (Paris)": [
+        "EU (Paris) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.xlplus, ECU: , Usage Family: RA3)": [
             "0.0003500000"
         ],
-        "EU (London)": [
+        "EU (London) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.xlplus, ECU: , Usage Family: RA3)": [
             "0.0003500000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.xlplus, ECU: , Usage Family: RA3)": [
             "0.0003300000"
         ],
-        "EU (Frankfurt)": [
+        "EU (Frankfurt) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.xlplus, ECU: , Usage Family: RA3)": [
             "0.0003600000"
         ],
-        "Canada West (Calgary)": [
+        "Canada West (Calgary) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.xlplus, ECU: , Usage Family: RA3)": [
             "0.0003300000"
         ],
-        "Canada (Central)": [
+        "Canada (Central) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.xlplus, ECU: , Usage Family: RA3)": [
             "0.0003300000"
         ],
-        "Asia Pacific (Tokyo)": [
+        "Asia Pacific (Tokyo) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.xlplus, ECU: , Usage Family: RA3)": [
             "0.0003500000"
         ],
-        "Asia Pacific (Thailand)": [
+        "Asia Pacific (Thailand) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.xlplus, ECU: , Usage Family: RA3)": [
             "0.0002700000"
         ],
-        "Asia Pacific (Sydney)": [
+        "Asia Pacific (Sydney) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.xlplus, ECU: , Usage Family: RA3)": [
             "0.0003600000"
         ],
-        "Asia Pacific (Singapore)": [
+        "Asia Pacific (Singapore) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.xlplus, ECU: , Usage Family: RA3)": [
             "0.0003600000"
         ],
-        "Asia Pacific (Seoul)": [
+        "Asia Pacific (Seoul) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.xlplus, ECU: , Usage Family: RA3)": [
             "0.0003500000"
         ],
-        "Asia Pacific (Mumbai)": [
+        "Asia Pacific (Mumbai) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.xlplus, ECU: , Usage Family: RA3)": [
             "0.0003400000"
         ],
-        "Asia Pacific (Malaysia)": [
+        "Asia Pacific (Malaysia) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.xlplus, ECU: , Usage Family: RA3)": [
             "0.0002700000"
         ],
-        "AWS GovCloud (US-East)": [
+        "AWS GovCloud (US-East) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.xlplus, ECU: , Usage Family: RA3)": [
             "0.0003000000"
         ],
-        "AWS GovCloud (US)": [
+        "AWS GovCloud (US) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.xlplus, ECU: , Usage Family: RA3)": [
             "0.0003000000"
         ]
     },
     "Redshift Inter Region Data Transfer Charges In To": {
-        "Regionless": [
+        "Default": [
             "0.0200000000"
         ],
-        "US West (Oregon)": [
+        "US West (Oregon) (Location: US West (Oregon))": [
             "0.0200000000"
         ],
-        "US West (N. California)": [
+        "US West (N. California) (Location: US West (N. California))": [
             "0.0200000000"
         ],
-        "US East (Ohio)": [
+        "US East (Ohio) (Location: US East (Ohio))": [
             "0.0200000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (Location: US East (N. Virginia))": [
             "0.0200000000"
         ],
-        "South America (Sao Paulo)": [
+        "South America (Sao Paulo) (Location: South America (Sao Paulo))": [
             "0.1380000000"
         ],
-        "Middle East (Bahrain)": [
+        "Middle East (Bahrain) (Location: Middle East (Bahrain))": [
             "0.1100000000"
         ],
-        "Mexico (Central)": [
+        "Mexico (Central) (Location: Mexico (Central))": [
             "0.0210000000"
         ],
-        "EU (Stockholm)": [
+        "EU (Stockholm) (Location: EU (Stockholm))": [
             "0.0200000000"
         ],
-        "EU (Paris)": [
+        "EU (Paris) (Location: EU (Paris))": [
             "0.0200000000"
         ],
-        "EU (Milan)": [
+        "EU (Milan) (Location: EU (Milan))": [
             "0.0200000000"
         ],
-        "EU (London)": [
+        "EU (London) (Location: EU (London))": [
             "0.0200000000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (Location: EU (Ireland))": [
             "0.0200000000"
         ],
-        "EU (Frankfurt)": [
+        "EU (Frankfurt) (Location: EU (Frankfurt))": [
             "0.0200000000"
         ],
-        "Canada (Central)": [
+        "Canada (Central) (Location: Canada (Central))": [
             "0.0200000000"
         ],
-        "Asia Pacific (Thailand)": [
+        "Asia Pacific (Thailand) (Location: Asia Pacific (Thailand))": [
             "0.0180000000"
         ],
-        "Asia Pacific (Sydney)": [
+        "Asia Pacific (Sydney) (Location: Asia Pacific (Sydney))": [
             "0.0980000000"
         ],
-        "Asia Pacific (Singapore)": [
+        "Asia Pacific (Singapore) (Location: Asia Pacific (Singapore))": [
             "0.0900000000"
         ],
-        "Asia Pacific (Seoul)": [
+        "Asia Pacific (Seoul) (Location: Asia Pacific (Seoul))": [
             "0.0200000000"
         ],
-        "Asia Pacific (Osaka)": [
+        "Asia Pacific (Osaka) (Location: Asia Pacific (Osaka))": [
             "0.0200000000"
         ],
-        "Asia Pacific (Mumbai)": [
+        "Asia Pacific (Mumbai) (Location: Asia Pacific (Mumbai))": [
             "0.0860000000"
         ],
-        "Asia Pacific (Melbourne)": [
+        "Asia Pacific (Melbourne) (Location: Asia Pacific (Melbourne))": [
             "0.0980000000"
         ],
-        "Asia Pacific (Malaysia)": [
+        "Asia Pacific (Malaysia) (Location: Asia Pacific (Malaysia))": [
             "0.0180000000"
         ],
-        "Asia Pacific (Hong Kong)": [
+        "Asia Pacific (Hong Kong) (Location: Asia Pacific (Hong Kong))": [
             "0.0900000000"
         ],
-        "Africa (Cape Town)": [
+        "Africa (Cape Town) (Location: Africa (Cape Town))": [
             "0.0200000000"
         ],
-        "AWS GovCloud (US-East)": [
+        "AWS GovCloud (US-East) (Location: AWS GovCloud (US-East))": [
             "0.0300000000"
         ],
-        "AWS GovCloud (US)": [
+        "AWS GovCloud (US) (Location: AWS GovCloud (US))": [
             "0.0300000000"
         ]
     },
     "dc2 8xlarge Redshift Concurrency Scaling Current Generation Dense Compute": {
-        "Regionless": [
+        "Default": [
             "0.0013300000"
         ],
-        "US West (Oregon)": [
+        "US West (Oregon) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.8xlarge, ECU: , Usage Family: Dense Compute)": [
             "0.0013300000"
         ],
-        "US West (N. California)": [
+        "US West (N. California) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.8xlarge, ECU: , Usage Family: Dense Compute)": [
             "0.0017800000"
         ],
-        "US East (Ohio)": [
+        "US East (Ohio) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.8xlarge, ECU: , Usage Family: Dense Compute)": [
             "0.0013300000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.8xlarge, ECU: , Usage Family: Dense Compute)": [
             "0.0013300000"
         ],
-        "South America (Sao Paulo)": [
+        "South America (Sao Paulo) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.8xlarge, ECU: , Usage Family: Dense Compute)": [
             "0.0021300000"
         ],
-        "Middle East (UAE)": [
+        "Middle East (UAE) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.8xlarge, ECU: , Usage Family: Dense Compute)": [
             "0.0017200000"
         ],
-        "Middle East (Bahrain)": [
+        "Middle East (Bahrain) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.8xlarge, ECU: , Usage Family: Dense Compute)": [
             "0.0017200000"
         ],
-        "EU (Stockholm)": [
+        "EU (Stockholm) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.8xlarge, ECU: , Usage Family: Dense Storage)": [
             "0.0014800000"
         ],
-        "EU (Paris)": [
+        "EU (Paris) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.8xlarge, ECU: , Usage Family: Dense Compute)": [
             "0.0016300000"
         ],
-        "EU (London)": [
+        "EU (London) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.8xlarge, ECU: , Usage Family: Dense Storage)": [
             "0.0016300000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.8xlarge, ECU: , Usage Family: Dense Compute)": [
             "0.0015600000"
         ],
-        "EU (Frankfurt)": [
+        "EU (Frankfurt) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.8xlarge, ECU: , Usage Family: Dense Compute)": [
             "0.0016800000"
         ],
-        "Canada (Central)": [
+        "Canada (Central) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.8xlarge, ECU: , Usage Family: Dense Compute)": [
             "0.0014700000"
         ],
-        "Asia Pacific (Tokyo)": [
+        "Asia Pacific (Tokyo) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.8xlarge, ECU: , Usage Family: Dense Compute)": [
             "0.0016900000"
         ],
-        "Asia Pacific (Sydney)": [
+        "Asia Pacific (Sydney) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.8xlarge, ECU: , Usage Family: Dense Compute)": [
             "0.0017800000"
         ],
-        "Asia Pacific (Singapore)": [
+        "Asia Pacific (Singapore) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.8xlarge, ECU: , Usage Family: Dense Compute)": [
             "0.0017800000"
         ],
-        "Asia Pacific (Seoul)": [
+        "Asia Pacific (Seoul) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.8xlarge, ECU: , Usage Family: Dense Compute)": [
             "0.0016100000"
         ],
-        "Asia Pacific (Osaka)": [
+        "Asia Pacific (Osaka) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.8xlarge, ECU: , Usage Family: Dense Storage)": [
             "0.0016900000"
         ],
-        "Asia Pacific (Hong Kong)": [
+        "Asia Pacific (Hong Kong) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.8xlarge, ECU: , Usage Family: Dense Storage)": [
             "0.0019600000"
         ],
-        "AWS GovCloud (US)": [
+        "AWS GovCloud (US) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.8xlarge, ECU: , Usage Family: Dense Storage)": [
             "0.0016000000"
         ]
     },
     "ra3 xlplus OnDemand Compute Instance Current Generation": {
-        "Regionless": [
+        "Default": [
             "1.0860000000"
         ],
-        "US West (Oregon)": [
+        "US West (Oregon) (Memory: 32 GiB, vCPU: 4, Storage: 32TB RMS, I/O: 0.65 GB/s, Instance Type: ra3.xlplus, ECU: 12.375)": [
             "1.0860000000"
         ],
-        "US West (N. California)": [
+        "US West (N. California) (Memory: 32 GiB, vCPU: 4, Storage: 32TB RMS, I/O: 0.65 GB/s, Instance Type: ra3.xlplus, ECU: 12.375)": [
             "1.2020000000"
         ],
-        "US East (Ohio)": [
+        "US East (Ohio) (Memory: 32 GiB, vCPU: 4, Storage: 32TB RMS, I/O: 0.65 GB/s, Instance Type: ra3.xlplus, ECU: 12.375)": [
             "1.0860000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (Memory: 32 GiB, vCPU: 4, Storage: 32TB RMS, I/O: 0.65 GB/s, Instance Type: ra3.xlplus, ECU: 12.375)": [
             "1.0860000000"
         ],
-        "South America (Sao Paulo)": [
+        "South America (Sao Paulo) (Memory: 32 GiB, vCPU: 4, Storage: 32TB RMS, I/O: 0.65 GB/s, Instance Type: ra3.xlplus, ECU: 12.375)": [
             "1.7310000000"
         ],
-        "Middle East (UAE)": [
+        "Middle East (UAE) (Memory: 32 GiB, vCPU: 4, Storage: 32TB RMS, I/O: 0.65 GB/s, Instance Type: ra3.xlplus, ECU: 12.375)": [
             "1.3222000000"
         ],
-        "Middle East (Bahrain)": [
+        "Middle East (Bahrain) (Memory: 32 GiB, vCPU: 4, Storage: 32TB RMS, I/O: 0.65 GB/s, Instance Type: ra3.xlplus, ECU: 12.375)": [
             "1.3200000000"
         ],
-        "Mexico (Central)": [
+        "Mexico (Central) (Memory: 32 GiB, vCPU: 4, Storage: 32TB RMS, I/O: 0.65 GB/s, Instance Type: ra3.xlplus, ECU: 12.375)": [
             "1.1403000000"
         ],
-        "Israel (Tel Aviv)": [
+        "Israel (Tel Aviv) (Memory: 32 GiB, vCPU: 4, Storage: 32TB RMS, I/O: 0.65 GB/s, Instance Type: ra3.xlplus, ECU: 12.375)": [
             "1.2621000000"
         ],
-        "EU (Zurich)": [
+        "EU (Zurich) (Memory: 32 GiB, vCPU: 4, Storage: 32TB RMS, I/O: 0.65 GB/s, Instance Type: ra3.xlplus, ECU: 12.375)": [
             "1.4278000000"
         ],
-        "EU (Stockholm)": [
+        "EU (Stockholm) (Memory: 32 GiB, vCPU: 4, Storage: 32TB RMS, I/O: 0.65 GB/s, Instance Type: ra3.xlplus, ECU: 12.375)": [
             "1.1390000000"
         ],
-        "EU (Spain)": [
+        "EU (Spain) (Memory: 32 GiB, vCPU: 4, Storage: 32TB RMS, I/O: 0.65 GB/s, Instance Type: ra3.xlplus, ECU: 12.375)": [
             "1.2020000000"
         ],
-        "EU (Paris)": [
+        "EU (Paris) (Memory: 32 GiB, vCPU: 4, Storage: 32TB RMS, I/O: 0.65 GB/s, Instance Type: ra3.xlplus, ECU: 12.375)": [
             "1.2650000000"
         ],
-        "EU (Milan)": [
+        "EU (Milan) (Memory: 32 GiB, vCPU: 4, Storage: 32TB RMS, I/O: 0.65 GB/s, Instance Type: ra3.xlplus, ECU: 12.375)": [
             "1.2600000000"
         ],
-        "EU (London)": [
+        "EU (London) (Memory: 32 GiB, vCPU: 4, Storage: 32TB RMS, I/O: 0.65 GB/s, Instance Type: ra3.xlplus, ECU: 12.375)": [
             "1.2640000000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (Memory: 32 GiB, vCPU: 4, Storage: 32TB RMS, I/O: 0.65 GB/s, Instance Type: ra3.xlplus, ECU: 12.375)": [
             "1.2020000000"
         ],
-        "EU (Frankfurt)": [
+        "EU (Frankfurt) (Memory: 32 GiB, vCPU: 4, Storage: 32TB RMS, I/O: 0.65 GB/s, Instance Type: ra3.xlplus, ECU: 12.375)": [
             "1.2980000000"
         ],
-        "Canada West (Calgary)": [
+        "Canada West (Calgary) (Memory: 32 GiB, vCPU: 4, Storage: 32TB RMS, I/O: 0.65 GB/s, Instance Type: ra3.xlplus, ECU: 12.375)": [
             "1.2020000000"
         ],
-        "Canada (Central)": [
+        "Canada (Central) (Memory: 32 GiB, vCPU: 4, Storage: 32TB RMS, I/O: 0.65 GB/s, Instance Type: ra3.xlplus, ECU: 12.375)": [
             "1.2020000000"
         ],
-        "Asia Pacific (Tokyo)": [
+        "Asia Pacific (Tokyo) (Memory: 32 GiB, vCPU: 4, Storage: 32TB RMS, I/O: 0.65 GB/s, Instance Type: ra3.xlplus, ECU: 12.375)": [
             "1.2780000000"
         ],
-        "Asia Pacific (Thailand)": [
+        "Asia Pacific (Thailand) (Memory: 32 GiB, vCPU: 4, Storage: 32TB RMS, I/O: 0.65 GB/s, Instance Type: ra3.xlplus, ECU: 12.375)": [
             "1.1727000000"
         ],
-        "Asia Pacific (Sydney)": [
+        "Asia Pacific (Sydney) (Memory: 32 GiB, vCPU: 4, Storage: 32TB RMS, I/O: 0.65 GB/s, Instance Type: ra3.xlplus, ECU: 12.375)": [
             "1.3030000000"
         ],
-        "Asia Pacific (Singapore)": [
+        "Asia Pacific (Singapore) (Memory: 32 GiB, vCPU: 4, Storage: 32TB RMS, I/O: 0.65 GB/s, Instance Type: ra3.xlplus, ECU: 12.375)": [
             "1.3030000000"
         ],
-        "Asia Pacific (Seoul)": [
+        "Asia Pacific (Seoul) (Memory: 32 GiB, vCPU: 4, Storage: 32TB RMS, I/O: 0.65 GB/s, Instance Type: ra3.xlplus, ECU: 12.375)": [
             "1.2780000000"
         ],
-        "Asia Pacific (Osaka)": [
+        "Asia Pacific (Osaka) (Memory: 32 GiB, vCPU: 4, Storage: 32TB RMS, I/O: 0.65 GB/s, Instance Type: ra3.xlplus, ECU: 12.375)": [
             "1.2800000000"
         ],
-        "Asia Pacific (Mumbai)": [
+        "Asia Pacific (Mumbai) (Memory: 32 GiB, vCPU: 4, Storage: 32TB RMS, I/O: 0.65 GB/s, Instance Type: ra3.xlplus, ECU: 12.375)": [
             "1.2350000000"
         ],
-        "Asia Pacific (Melbourne)": [
+        "Asia Pacific (Melbourne) (Memory: 32 GiB, vCPU: 4, Storage: 32TB RMS, I/O: 0.65 GB/s, Instance Type: ra3.xlplus, ECU: 12.375)": [
             "1.3030000000"
         ],
-        "Asia Pacific (Malaysia)": [
+        "Asia Pacific (Malaysia) (Memory: 32 GiB, vCPU: 4, Storage: 32TB RMS, I/O: 0.65 GB/s, Instance Type: ra3.xlplus, ECU: 12.375)": [
             "1.1727000000"
         ],
-        "Asia Pacific (Jakarta)": [
+        "Asia Pacific (Jakarta) (Memory: 32 GiB, vCPU: 4, Storage: 32TB RMS, I/O: 0.65 GB/s, Instance Type: ra3.xlplus, ECU: 12.375)": [
             "1.3030000000"
         ],
-        "Asia Pacific (Hyderabad)": [
+        "Asia Pacific (Hyderabad) (Memory: 32 GiB, vCPU: 4, Storage: 32TB RMS, I/O: 0.65 GB/s, Instance Type: ra3.xlplus, ECU: 12.375)": [
             "1.2350000000"
         ],
-        "Asia Pacific (Hong Kong)": [
+        "Asia Pacific (Hong Kong) (Memory: 32 GiB, vCPU: 4, Storage: 32TB RMS, I/O: 0.65 GB/s, Instance Type: ra3.xlplus, ECU: 12.375)": [
             "1.0860000000"
         ],
-        "Africa (Cape Town)": [
+        "Africa (Cape Town) (Memory: 32 GiB, vCPU: 4, Storage: 32TB RMS, I/O: 0.65 GB/s, Instance Type: ra3.xlplus, ECU: 12.375)": [
             "1.4300000000"
         ],
-        "AWS GovCloud (US-East)": [
+        "AWS GovCloud (US-East) (Memory: 32 GiB, vCPU: 4, Storage: 32TB RMS, I/O: 0.65 GB/s, Instance Type: ra3.xlplus, ECU: 12.375)": [
             "1.0860000000"
         ],
-        "AWS GovCloud (US)": [
+        "AWS GovCloud (US) (Memory: 32 GiB, vCPU: 4, Storage: 32TB RMS, I/O: 0.65 GB/s, Instance Type: ra3.xlplus, ECU: 12.375)": [
             "1.0860000000"
         ]
     },
     "ra3 4xlarge OnDemand Compute Instance Current Generation": {
-        "Regionless": [
+        "Default": [
             "3.2600000000"
         ],
-        "US West (Oregon)": [
+        "US West (Oregon) (Memory: 96 GiB, vCPU: 12, Storage: 64TB RMS, I/O: 2.00 GB/s, Instance Type: ra3.4xlarge, ECU: 37.125)": [
             "3.2600000000"
         ],
-        "US West (N. California)": [
+        "US West (N. California) (Memory: 96 GiB, vCPU: 12, Storage: 64TB RMS, I/O: 2.00 GB/s, Instance Type: ra3.4xlarge, ECU: 37.125)": [
             "3.6060000000"
         ],
-        "US East (Ohio)": [
+        "US East (Ohio) (Memory: 96 GiB, vCPU: 12, Storage: 64TB RMS, I/O: 2.00 GB/s, Instance Type: ra3.4xlarge, ECU: 37.125)": [
             "3.2600000000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (Memory: 96 GiB, vCPU: 12, Storage: 64TB RMS, I/O: 2.00 GB/s, Instance Type: ra3.4xlarge, ECU: 37.125)": [
             "3.2600000000"
         ],
-        "South America (Sao Paulo)": [
+        "South America (Sao Paulo) (Memory: 96 GiB, vCPU: 12, Storage: 64TB RMS, I/O: 2.00 GB/s, Instance Type: ra3.4xlarge, ECU: 37.125)": [
             "5.1950000000"
         ],
-        "Middle East (UAE)": [
+        "Middle East (UAE) (Memory: 96 GiB, vCPU: 12, Storage: 64TB RMS, I/O: 2.00 GB/s, Instance Type: ra3.4xlarge, ECU: 37.125)": [
             "3.9666000000"
         ],
-        "Middle East (Bahrain)": [
+        "Middle East (Bahrain) (Memory: 96 GiB, vCPU: 12, Storage: 64TB RMS, I/O: 2.00 GB/s, Instance Type: ra3.4xlarge, ECU: 37.125)": [
             "3.9700000000"
         ],
-        "Mexico (Central)": [
+        "Mexico (Central) (Memory: 96 GiB, vCPU: 12, Storage: 64TB RMS, I/O: 2.00 GB/s, Instance Type: ra3.4xlarge, ECU: 37.125)": [
             "3.4230000000"
         ],
-        "Israel (Tel Aviv)": [
+        "Israel (Tel Aviv) (Memory: 96 GiB, vCPU: 12, Storage: 64TB RMS, I/O: 2.00 GB/s, Instance Type: ra3.4xlarge, ECU: 37.125)": [
             "3.7863000000"
         ],
-        "EU (Zurich)": [
+        "EU (Zurich) (Memory: 96 GiB, vCPU: 12, Storage: 64TB RMS, I/O: 2.00 GB/s, Instance Type: ra3.4xlarge, ECU: 37.125)": [
             "4.2834000000"
         ],
-        "EU (Stockholm)": [
+        "EU (Stockholm) (Memory: 96 GiB, vCPU: 12, Storage: 64TB RMS, I/O: 2.00 GB/s, Instance Type: ra3.4xlarge, ECU: 37.125)": [
             "3.4180000000"
         ],
-        "EU (Spain)": [
+        "EU (Spain) (Memory: 96 GiB, vCPU: 12, Storage: 64TB RMS, I/O: 2.00 GB/s, Instance Type: ra3.4xlarge, ECU: 37.125)": [
             "3.6060000000"
         ],
-        "EU (Paris)": [
+        "EU (Paris) (Memory: 96 GiB, vCPU: 12, Storage: 64TB RMS, I/O: 2.00 GB/s, Instance Type: ra3.4xlarge, ECU: 37.125)": [
             "3.7950000000"
         ],
-        "EU (Milan)": [
+        "EU (Milan) (Memory: 96 GiB, vCPU: 12, Storage: 64TB RMS, I/O: 2.00 GB/s, Instance Type: ra3.4xlarge, ECU: 37.125)": [
             "3.7900000000"
         ],
-        "EU (London)": [
+        "EU (London) (Memory: 96 GiB, vCPU: 12, Storage: 64TB RMS, I/O: 2.00 GB/s, Instance Type: ra3.4xlarge, ECU: 37.125)": [
             "3.7930000000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (Memory: 96 GiB, vCPU: 12, Storage: 64TB RMS, I/O: 2.00 GB/s, Instance Type: ra3.4xlarge, ECU: 37.125)": [
             "3.6060000000"
         ],
-        "EU (Frankfurt)": [
+        "EU (Frankfurt) (Memory: 96 GiB, vCPU: 12, Storage: 64TB RMS, I/O: 2.00 GB/s, Instance Type: ra3.4xlarge, ECU: 37.125)": [
             "3.8940000000"
         ],
-        "Canada West (Calgary)": [
+        "Canada West (Calgary) (Memory: 96 GiB, vCPU: 12, Storage: 64TB RMS, I/O: 2.00 GB/s, Instance Type: ra3.4xlarge, ECU: 37.125)": [
             "3.6070000000"
         ],
-        "Canada (Central)": [
+        "Canada (Central) (Memory: 96 GiB, vCPU: 12, Storage: 64TB RMS, I/O: 2.00 GB/s, Instance Type: ra3.4xlarge, ECU: 37.125)": [
             "3.6070000000"
         ],
-        "Asia Pacific (Tokyo)": [
+        "Asia Pacific (Tokyo) (Memory: 96 GiB, vCPU: 12, Storage: 64TB RMS, I/O: 2.00 GB/s, Instance Type: ra3.4xlarge, ECU: 37.125)": [
             "3.8360000000"
         ],
-        "Asia Pacific (Thailand)": [
+        "Asia Pacific (Thailand) (Memory: 96 GiB, vCPU: 12, Storage: 64TB RMS, I/O: 2.00 GB/s, Instance Type: ra3.4xlarge, ECU: 37.125)": [
             "3.5181000000"
         ],
-        "Asia Pacific (Sydney)": [
+        "Asia Pacific (Sydney) (Memory: 96 GiB, vCPU: 12, Storage: 64TB RMS, I/O: 2.00 GB/s, Instance Type: ra3.4xlarge, ECU: 37.125)": [
             "3.9090000000"
         ],
-        "Asia Pacific (Singapore)": [
+        "Asia Pacific (Singapore) (Memory: 96 GiB, vCPU: 12, Storage: 64TB RMS, I/O: 2.00 GB/s, Instance Type: ra3.4xlarge, ECU: 37.125)": [
             "3.9090000000"
         ],
-        "Asia Pacific (Seoul)": [
+        "Asia Pacific (Seoul) (Memory: 96 GiB, vCPU: 12, Storage: 64TB RMS, I/O: 2.00 GB/s, Instance Type: ra3.4xlarge, ECU: 37.125)": [
             "3.8360000000"
         ],
-        "Asia Pacific (Osaka)": [
+        "Asia Pacific (Osaka) (Memory: 96 GiB, vCPU: 12, Storage: 64TB RMS, I/O: 2.00 GB/s, Instance Type: ra3.4xlarge, ECU: 37.125)": [
             "3.8400000000"
         ],
-        "Asia Pacific (Mumbai)": [
+        "Asia Pacific (Mumbai) (Memory: 96 GiB, vCPU: 12, Storage: 64TB RMS, I/O: 2.00 GB/s, Instance Type: ra3.4xlarge, ECU: 37.125)": [
             "3.7060000000"
         ],
-        "Asia Pacific (Melbourne)": [
+        "Asia Pacific (Melbourne) (Memory: 96 GiB, vCPU: 12, Storage: 64TB RMS, I/O: 2.00 GB/s, Instance Type: ra3.4xlarge, ECU: 37.125)": [
             "3.9090000000"
         ],
-        "Asia Pacific (Malaysia)": [
+        "Asia Pacific (Malaysia) (Memory: 96 GiB, vCPU: 12, Storage: 64TB RMS, I/O: 2.00 GB/s, Instance Type: ra3.4xlarge, ECU: 37.125)": [
             "3.5181000000"
         ],
-        "Asia Pacific (Jakarta)": [
+        "Asia Pacific (Jakarta) (Memory: 96 GiB, vCPU: 12, Storage: 64TB RMS, I/O: 2.00 GB/s, Instance Type: ra3.4xlarge, ECU: 37.125)": [
             "3.9090000000"
         ],
-        "Asia Pacific (Hyderabad)": [
+        "Asia Pacific (Hyderabad) (Memory: 96 GiB, vCPU: 12, Storage: 64TB RMS, I/O: 2.00 GB/s, Instance Type: ra3.4xlarge, ECU: 37.125)": [
             "3.7060000000"
         ],
-        "Asia Pacific (Hong Kong)": [
+        "Asia Pacific (Hong Kong) (Memory: 96 GiB, vCPU: 12, Storage: 64TB RMS, I/O: 2.00 GB/s, Instance Type: ra3.4xlarge, ECU: 37.125)": [
             "3.2600000000"
         ],
-        "Africa (Cape Town)": [
+        "Africa (Cape Town) (Memory: 96 GiB, vCPU: 12, Storage: 64TB RMS, I/O: 2.00 GB/s, Instance Type: ra3.4xlarge, ECU: 37.125)": [
             "4.2900000000"
         ],
-        "AWS GovCloud (US-East)": [
+        "AWS GovCloud (US-East) (Memory: 96 GiB, vCPU: 12, Storage: 64TB RMS, I/O: 2.00 GB/s, Instance Type: ra3.4xlarge, ECU: 37.125)": [
             "3.2600000000"
         ],
-        "AWS GovCloud (US)": [
+        "AWS GovCloud (US) (Memory: 96 GiB, vCPU: 12, Storage: 64TB RMS, I/O: 2.00 GB/s, Instance Type: ra3.4xlarge, ECU: 37.125)": [
             "3.2600000000"
         ]
     },
     "dc2 large Redshift Concurrency Scaling Current Generation Dense Compute": {
-        "Regionless": [
+        "Default": [
             "0.0000700000"
         ],
-        "US West (Oregon)": [
+        "US West (Oregon) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.large, ECU: , Usage Family: Dense Compute)": [
             "0.0000700000"
         ],
-        "US West (N. California)": [
+        "US West (N. California) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.large, ECU: , Usage Family: Dense Compute)": [
             "0.0000900000"
         ],
-        "US East (Ohio)": [
+        "US East (Ohio) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.large, ECU: , Usage Family: Dense Compute)": [
             "0.0000700000"
         ],
-        "US East (N. Virginia)": [
+        "US East (N. Virginia) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.large, ECU: , Usage Family: Dense Compute)": [
             "0.0000700000"
         ],
-        "South America (Sao Paulo)": [
+        "South America (Sao Paulo) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.large, ECU: , Usage Family: Dense Compute)": [
             "0.0001100000"
         ],
-        "Middle East (UAE)": [
+        "Middle East (UAE) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.large, ECU: , Usage Family: Dense Compute)": [
             "0.0001100000"
         ],
-        "Middle East (Bahrain)": [
+        "Middle East (Bahrain) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.large, ECU: , Usage Family: Dense Compute)": [
             "0.0000900000"
         ],
-        "EU (Stockholm)": [
+        "EU (Stockholm) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.large, ECU: , Usage Family: Dense Storage)": [
             "0.0000800000"
         ],
-        "EU (Paris)": [
+        "EU (Paris) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.large, ECU: , Usage Family: Dense Compute)": [
             "0.0000900000"
         ],
-        "EU (London)": [
+        "EU (London) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.large, ECU: , Usage Family: Dense Storage)": [
             "0.0000900000"
         ],
-        "EU (Ireland)": [
+        "EU (Ireland) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.large, ECU: , Usage Family: Dense Compute)": [
             "0.0000800000"
         ],
-        "EU (Frankfurt)": [
+        "EU (Frankfurt) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.large, ECU: , Usage Family: Dense Compute)": [
             "0.0000900000"
         ],
-        "Canada (Central)": [
+        "Canada (Central) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.large, ECU: , Usage Family: Dense Compute)": [
             "0.0000800000"
         ],
-        "Asia Pacific (Tokyo)": [
+        "Asia Pacific (Tokyo) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.large, ECU: , Usage Family: Dense Compute)": [
             "0.0000900000"
         ],
-        "Asia Pacific (Sydney)": [
+        "Asia Pacific (Sydney) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.large, ECU: , Usage Family: Dense Compute)": [
             "0.0000900000"
         ],
-        "Asia Pacific (Singapore)": [
+        "Asia Pacific (Singapore) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.large, ECU: , Usage Family: Dense Compute)": [
             "0.0000900000"
         ],
-        "Asia Pacific (Seoul)": [
+        "Asia Pacific (Seoul) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.large, ECU: , Usage Family: Dense Compute)": [
             "0.0000800000"
         ],
-        "Asia Pacific (Osaka)": [
+        "Asia Pacific (Osaka) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.large, ECU: , Usage Family: Dense Storage)": [
             "0.0000900000"
         ],
-        "Asia Pacific (Mumbai)": [
+        "Asia Pacific (Mumbai) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.large, ECU: , Usage Family: Dense Compute)": [
             "0.0000900000"
         ],
-        "Asia Pacific (Hong Kong)": [
+        "Asia Pacific (Hong Kong) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.large, ECU: , Usage Family: Dense Storage)": [
             "0.0001000000"
         ],
-        "AWS GovCloud (US)": [
+        "AWS GovCloud (US) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.large, ECU: , Usage Family: Dense Storage)": [
             "0.0000800000"
         ]
     },
     "ra3 large Redshift Concurrency Scaling Current Generation RA3": {
-        "Regionless": [
+        "Default": [
             "0.0001575000"
         ],
-        "Mexico (Central)": [
+        "Mexico (Central) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.large, ECU: , Usage Family: RA3)": [
             "0.0001575000"
         ],
-        "Israel (Tel Aviv)": [
+        "Israel (Tel Aviv) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.large, ECU: , Usage Family: RA3)": [
             "0.0001800000"
         ],
-        "Canada West (Calgary)": [
+        "Canada West (Calgary) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.large, ECU: , Usage Family: RA3)": [
             "0.0001700000"
         ],
-        "Asia Pacific (Thailand)": [
+        "Asia Pacific (Thailand) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.large, ECU: , Usage Family: RA3)": [
             "0.0001350000"
         ],
-        "Asia Pacific (Malaysia)": [
+        "Asia Pacific (Malaysia) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.large, ECU: , Usage Family: RA3)": [
             "0.0001350000"
         ],
-        "AWS GovCloud (US-East)": [
+        "AWS GovCloud (US-East) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.large, ECU: , Usage Family: RA3)": [
             "0.0001500000"
         ],
-        "AWS GovCloud (US)": [
+        "AWS GovCloud (US) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ra3.large, ECU: , Usage Family: RA3)": [
             "0.0001500000"
         ]
     },
     "dc2 8xlarge Redshift Concurrency Scaling Current Generation RA3": {
-        "Regionless": [
+        "Default": [
             "0.0018480000"
         ],
-        "EU (Zurich)": [
+        "EU (Zurich) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.8xlarge, ECU: , Usage Family: RA3)": [
             "0.0018480000"
         ],
-        "EU (Stockholm)": [
+        "EU (Stockholm) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.8xlarge, ECU: , Usage Family: Dense Storage)": [
             "0.0014800000"
         ],
-        "EU (Spain)": [
+        "EU (Spain) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.8xlarge, ECU: , Usage Family: RA3)": [
             "0.0015600000"
         ],
-        "EU (London)": [
+        "EU (London) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.8xlarge, ECU: , Usage Family: Dense Storage)": [
             "0.0016300000"
         ],
-        "Asia Pacific (Osaka)": [
+        "Asia Pacific (Osaka) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.8xlarge, ECU: , Usage Family: Dense Storage)": [
             "0.0016900000"
         ],
-        "Asia Pacific (Hong Kong)": [
+        "Asia Pacific (Hong Kong) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.8xlarge, ECU: , Usage Family: Dense Storage)": [
             "0.0019600000"
         ],
-        "AWS GovCloud (US)": [
+        "AWS GovCloud (US) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.8xlarge, ECU: , Usage Family: Dense Storage)": [
             "0.0016000000"
         ]
     },
     "dc2 large Redshift Concurrency Scaling Current Generation RA3": {
-        "Regionless": [
+        "Default": [
             "0.0001155000"
         ],
-        "EU (Zurich)": [
+        "EU (Zurich) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.large, ECU: , Usage Family: RA3)": [
             "0.0001155000"
         ],
-        "EU (Stockholm)": [
+        "EU (Stockholm) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.large, ECU: , Usage Family: Dense Storage)": [
             "0.0000800000"
         ],
-        "EU (Spain)": [
+        "EU (Spain) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.large, ECU: , Usage Family: RA3)": [
             "0.0000800000"
         ],
-        "EU (London)": [
+        "EU (London) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.large, ECU: , Usage Family: Dense Storage)": [
             "0.0000900000"
         ],
-        "Asia Pacific (Osaka)": [
+        "Asia Pacific (Osaka) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.large, ECU: , Usage Family: Dense Storage)": [
             "0.0000900000"
         ],
-        "Asia Pacific (Hong Kong)": [
+        "Asia Pacific (Hong Kong) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.large, ECU: , Usage Family: Dense Storage)": [
             "0.0001000000"
         ],
-        "AWS GovCloud (US)": [
+        "AWS GovCloud (US) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.large, ECU: , Usage Family: Dense Storage)": [
             "0.0000800000"
         ]
     },
     "ds2 xlarge Redshift Concurrency Scaling Current Generation Dense Compute": {
-        "Regionless": [
+        "Default": [
             "0.0002500000"
         ],
-        "EU (Stockholm)": [
+        "EU (Stockholm) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ds2.xlarge, ECU: , Usage Family: Dense Compute)": [
             "0.0002500000"
         ],
-        "EU (London)": [
+        "EU (London) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ds2.xlarge, ECU: , Usage Family: Dense Compute)": [
             "0.0002800000"
         ],
-        "Asia Pacific (Osaka)": [
+        "Asia Pacific (Osaka) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ds2.xlarge, ECU: , Usage Family: Dense Compute)": [
             "0.0003300000"
         ],
-        "Asia Pacific (Hong Kong)": [
+        "Asia Pacific (Hong Kong) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ds2.xlarge, ECU: , Usage Family: Dense Compute)": [
             "0.0003800000"
         ],
-        "AWS GovCloud (US-East)": [
+        "AWS GovCloud (US-East) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ds2.xlarge, ECU: , Usage Family: Dense Compute)": [
             "0.0002400000"
         ],
-        "AWS GovCloud (US)": [
+        "AWS GovCloud (US) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ds2.xlarge, ECU: , Usage Family: Dense Compute)": [
             "0.0002800000"
         ]
     },
     "ds2 8xlarge Redshift Concurrency Scaling Current Generation Dense Compute": {
-        "Regionless": [
+        "Default": [
             "0.0020100000"
         ],
-        "EU (Stockholm)": [
+        "EU (Stockholm) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ds2.8xlarge, ECU: , Usage Family: Dense Compute)": [
             "0.0020100000"
         ],
-        "EU (London)": [
+        "EU (London) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ds2.8xlarge, ECU: , Usage Family: Dense Compute)": [
             "0.0022200000"
         ],
-        "Asia Pacific (Osaka)": [
+        "Asia Pacific (Osaka) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ds2.8xlarge, ECU: , Usage Family: Dense Compute)": [
             "0.0026400000"
         ],
-        "Asia Pacific (Hong Kong)": [
+        "Asia Pacific (Hong Kong) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ds2.8xlarge, ECU: , Usage Family: Dense Compute)": [
             "0.0030600000"
         ],
-        "AWS GovCloud (US-East)": [
+        "AWS GovCloud (US-East) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ds2.8xlarge, ECU: , Usage Family: Dense Compute)": [
             "0.0018900000"
         ],
-        "AWS GovCloud (US)": [
+        "AWS GovCloud (US) (Memory: , vCPU: , Storage: , I/O: , Instance Type: ds2.8xlarge, ECU: , Usage Family: Dense Compute)": [
             "0.0022700000"
         ]
     },
     "dc2 8xlarge Redshift Concurrency Scaling Current Generation Dense Storage": {
-        "Regionless": [
+        "Default": [
             "0.0014800000"
         ],
-        "EU (Stockholm)": [
+        "EU (Stockholm) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.8xlarge, ECU: , Usage Family: Dense Storage)": [
             "0.0014800000"
         ],
-        "EU (London)": [
+        "EU (London) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.8xlarge, ECU: , Usage Family: Dense Storage)": [
             "0.0016300000"
         ],
-        "Asia Pacific (Osaka)": [
+        "Asia Pacific (Osaka) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.8xlarge, ECU: , Usage Family: Dense Storage)": [
             "0.0016900000"
         ],
-        "Asia Pacific (Hong Kong)": [
+        "Asia Pacific (Hong Kong) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.8xlarge, ECU: , Usage Family: Dense Storage)": [
             "0.0019600000"
         ],
-        "AWS GovCloud (US-East)": [
+        "AWS GovCloud (US-East) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.8xlarge, ECU: , Usage Family: Dense Storage)": [
             "0.0013300000"
         ],
-        "AWS GovCloud (US)": [
+        "AWS GovCloud (US) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.8xlarge, ECU: , Usage Family: Dense Storage)": [
             "0.0016000000"
         ]
     },
     "dc2 large Redshift Concurrency Scaling Current Generation Dense Storage": {
-        "Regionless": [
+        "Default": [
             "0.0000800000"
         ],
-        "EU (Stockholm)": [
+        "EU (Stockholm) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.large, ECU: , Usage Family: Dense Storage)": [
             "0.0000800000"
         ],
-        "EU (London)": [
+        "EU (London) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.large, ECU: , Usage Family: Dense Storage)": [
             "0.0000900000"
         ],
-        "Asia Pacific (Osaka)": [
+        "Asia Pacific (Osaka) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.large, ECU: , Usage Family: Dense Storage)": [
             "0.0000900000"
         ],
-        "Asia Pacific (Hong Kong)": [
+        "Asia Pacific (Hong Kong) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.large, ECU: , Usage Family: Dense Storage)": [
             "0.0001000000"
         ],
-        "AWS GovCloud (US-East)": [
+        "AWS GovCloud (US-East) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.large, ECU: , Usage Family: Dense Storage)": [
             "0.0000700000"
         ],
-        "AWS GovCloud (US)": [
+        "AWS GovCloud (US) (Memory: , vCPU: , Storage: , I/O: , Instance Type: dc2.large, ECU: , Usage Family: Dense Storage)": [
             "0.0000800000"
         ]
     }

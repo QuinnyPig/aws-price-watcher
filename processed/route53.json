@@ -1,6 +1,6 @@
 {
     "Query Profiles Base Price over 1B": {
-        "Regionless": [
+        "Default": [
             "0.7500000000"
         ],
         "US West (Oregon)": [
@@ -107,7 +107,7 @@
         ]
     },
     "DNS Domain Names DNS Firewall per Mo": {
-        "Regionless": [
+        "Default": [
             "0.0005000000"
         ],
         "US West (Oregon)": [
@@ -214,7 +214,7 @@
         ]
     },
     "Query over 1B": {
-        "Regionless": [
+        "Default": [
             "0.0000002000"
         ],
         "US West (Oregon)": [
@@ -318,7 +318,7 @@
         ]
     },
     "DNS Query DNS Firewall per Queries": {
-        "Regionless": [
+        "Default": [
             "0.0000006000"
         ],
         "US West (Oregon)": [
@@ -425,7 +425,7 @@
         ]
     },
     "Query ENI": {
-        "Regionless": [
+        "Default": [
             "0.1250000000"
         ],
         "US West (Oregon)": [
@@ -532,7 +532,7 @@
         ]
     },
     "DNS Query DNS Firewall per Queries over 1B": {
-        "Regionless": [
+        "Default": [
             "0.0000004000"
         ],
         "US West (Oregon)": [
@@ -639,7 +639,7 @@
         ]
     },
     "Query first 1B": {
-        "Regionless": [
+        "Default": [
             "0.0000004000"
         ],
         "US West (Oregon)": [
@@ -743,7 +743,7 @@
         ]
     },
     "Query DNS Firewall Advanced over 1B": {
-        "Regionless": [
+        "Default": [
             "0.1600000000"
         ],
         "US West (Oregon)": [
@@ -850,7 +850,7 @@
         ]
     },
     "Query DoH ENI": {
-        "Regionless": [
+        "Default": [
             "0.1250000000"
         ],
         "US West (Oregon)": [
@@ -954,7 +954,7 @@
         ]
     },
     "Query Profiles over 1B": {
-        "Regionless": [
+        "Default": [
             "0.0014000000"
         ],
         "US West (Oregon)": [
@@ -1061,7 +1061,7 @@
         ]
     },
     "Query Resolver over 1B": {
-        "Regionless": [
+        "Default": [
             "0.0000002000"
         ],
         "Mexico (Central)": [
@@ -1075,7 +1075,7 @@
         ]
     },
     "Query Standard External over 1B": {
-        "Regionless": [
+        "Default": [
             "0.0000002000"
         ],
         "Mexico (Central)": [
@@ -1089,7 +1089,7 @@
         ]
     },
     "Query Resolver first 1B": {
-        "Regionless": [
+        "Default": [
             "0.0000004000"
         ],
         "Mexico (Central)": [
@@ -1103,7 +1103,7 @@
         ]
     },
     "Query Standard External first 1B": {
-        "Regionless": [
+        "Default": [
             "0.0000004000"
         ],
         "Mexico (Central)": [
@@ -1117,7 +1117,7 @@
         ]
     },
     "Cidr Blocks first 1K per Mo": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "Any": [
@@ -1125,7 +1125,7 @@
         ]
     },
     "Basic Traffic Flow Routing per Mo": {
-        "Regionless": [
+        "Default": [
             "50.0000000000"
         ],
         "Any": [
@@ -1133,7 +1133,7 @@
         ]
     },
     "DNS Zone first 25": {
-        "Regionless": [
+        "Default": [
             "0.5000000000"
         ],
         "Any": [
@@ -1141,7 +1141,7 @@
         ]
     },
     "Route53 RRSets per Mo": {
-        "Regionless": [
+        "Default": [
             "0.0015000000"
         ],
         "Any": [
@@ -1149,7 +1149,7 @@
         ]
     },
     "DNS Zone": {
-        "Regionless": [
+        "Default": [
             "0.1000000000"
         ],
         "Any": [
@@ -1157,7 +1157,7 @@
         ]
     },
     "Cidr Blocks per Mo": {
-        "Regionless": [
+        "Default": [
             "0.0015000000"
         ],
         "Any": [
@@ -1165,7 +1165,7 @@
         ]
     },
     "Query Latency Based Routing External first 1B": {
-        "Regionless": [
+        "Default": [
             "0.0000007200"
         ],
         "AWS GovCloud (US-East)": [
@@ -1179,7 +1179,7 @@
         ]
     },
     "Query Latency Based Routing External over 1B": {
-        "Regionless": [
+        "Default": [
             "0.0000003600"
         ],
         "AWS GovCloud (US-East)": [
@@ -1193,7 +1193,7 @@
         ]
     },
     "Free Queries to Geoproximity Alias records": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "AWS GovCloud (US-East)": [
@@ -1207,7 +1207,7 @@
         ]
     },
     "Query Geo DNS External first 1B": {
-        "Regionless": [
+        "Default": [
             "0.0000008400"
         ],
         "AWS GovCloud (US-East)": [
@@ -1221,7 +1221,7 @@
         ]
     },
     "Free Queries to Latency Based Routing Alias records": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "AWS GovCloud (US-East)": [
@@ -1235,7 +1235,7 @@
         ]
     },
     "Free Queries to Geo DNS Alias records": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "AWS GovCloud (US-East)": [
@@ -1249,7 +1249,7 @@
         ]
     },
     "Query Geo DNS External over 1B": {
-        "Regionless": [
+        "Default": [
             "0.0000004200"
         ],
         "AWS GovCloud (US-East)": [
@@ -1263,7 +1263,7 @@
         ]
     },
     "Query Geoproximity External first 1B": {
-        "Regionless": [
+        "Default": [
             "0.0000008400"
         ],
         "AWS GovCloud (US-East)": [
@@ -1277,7 +1277,7 @@
         ]
     },
     "Query Geoproximity External over 1B": {
-        "Regionless": [
+        "Default": [
             "0.0000004200"
         ],
         "AWS GovCloud (US-East)": [
@@ -1291,7 +1291,7 @@
         ]
     },
     "Optional Health Check Features External Non AWS per Mo": {
-        "Regionless": [
+        "Default": [
             "2.0000000000"
         ],
         "": [
@@ -1299,7 +1299,7 @@
         ]
     },
     "Basic Health checks External Non AWS per Mo": {
-        "Regionless": [
+        "Default": [
             "0.7500000000"
         ],
         "": [
@@ -1307,7 +1307,7 @@
         ]
     },
     "Free Queries to Standard Alias records": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "": [
@@ -1315,7 +1315,7 @@
         ]
     },
     "Query IP Based Routing External first 1B": {
-        "Regionless": [
+        "Default": [
             "0.0000008000"
         ],
         "": [
@@ -1323,7 +1323,7 @@
         ]
     },
     "Optional Health Check Features AWS per Mo": {
-        "Regionless": [
+        "Default": [
             "1.0000000000"
         ],
         "": [
@@ -1331,7 +1331,7 @@
         ]
     },
     "Query IP Based Routing External over 1B": {
-        "Regionless": [
+        "Default": [
             "0.0000004000"
         ],
         "": [
@@ -1339,7 +1339,7 @@
         ]
     },
     "Basic Health checks AWS per Mo": {
-        "Regionless": [
+        "Default": [
             "0.5000000000"
         ],
         "": [
@@ -1347,7 +1347,7 @@
         ]
     },
     "Free Queries to IP Based Routing Alias records": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "": [
@@ -1355,7 +1355,7 @@
         ]
     },
     "Basic Health checks up to 50 AWS per Mo": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "": [

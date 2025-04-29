@@ -1,6 +1,6 @@
 {
     "Machine Learning One time charge per GB": {
-        "Regionless": [
+        "Default": [
             "0.2000000000"
         ],
         "US East (N. Virginia)": [
@@ -14,7 +14,7 @@
         ]
     },
     "Machine Learning hourly cost for inferencing": {
-        "Regionless": [
+        "Default": [
             "0.2500000000"
         ],
         "US East (N. Virginia)": [
@@ -28,7 +28,7 @@
         ]
     },
     "Machine Learning Hourly cost for training": {
-        "Regionless": [
+        "Default": [
             "0.2400000000"
         ],
         "US East (N. Virginia)": [

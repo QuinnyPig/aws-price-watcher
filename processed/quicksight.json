@@ -1,6 +1,6 @@
 {
     "Enterprise Monthly Monthly per region fee with Q free trial per Month": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -29,7 +29,7 @@
         ]
     },
     "Enterprise Monthly Reader subscriptions free trial per User": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -100,7 +100,7 @@
         ]
     },
     "Enterprise Monthly Reader Pro subscriptions free trial per User": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -132,7 +132,7 @@
         ]
     },
     "Enterprise Monthly Monthly fee for Amazon Q in QuickSight free trial per Month": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -164,7 +164,7 @@
         ]
     },
     "Enterprise Monthly Monthly fee for Amazon Q in QuickSight per Month": {
-        "Regionless": [
+        "Default": [
             "250.0000000000"
         ],
         "US West (Oregon)": [
@@ -196,7 +196,7 @@
         ]
     },
     "Enterprise Monthly Reader Pro subscriptions that include an entitlement to Amazon Q per User": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -228,7 +228,7 @@
         ]
     },
     "Enterprise Monthly Author Pro subscriptions that include an entitlement to Amazon Q per User": {
-        "Regionless": [
+        "Default": [
             "30.0000000000"
         ],
         "US West (Oregon)": [
@@ -260,7 +260,7 @@
         ]
     },
     "Enterprise SPICE capacity provisioned per GB Mo": {
-        "Regionless": [
+        "Default": [
             "0.3800000000"
         ],
         "US West (Oregon)": [
@@ -331,7 +331,7 @@
         ]
     },
     "Enterprise Monthly Reader Pro subscriptions that include an entitlement to Amazon Q free trial per User": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -363,7 +363,7 @@
         ]
     },
     "Enterprise Monthly Author Pro subscriptions that include an entitlement to Amazon Q free trial per User": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -395,7 +395,7 @@
         ]
     },
     "Standard SPICE capacity provisioned per GB Mo": {
-        "Regionless": [
+        "Default": [
             "0.2500000000"
         ],
         "US West (Oregon)": [
@@ -466,7 +466,7 @@
         ]
     },
     "Enterprise Monthly Reader Pro subscriptions per User": {
-        "Regionless": [
+        "Default": [
             "20.0000000000"
         ],
         "US West (Oregon)": [
@@ -498,7 +498,7 @@
         ]
     },
     "Enterprise Monthly Author Pro subscriptions free trial per User": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -530,7 +530,7 @@
         ]
     },
     "Enterprise Monthly Reader subscriptions per User": {
-        "Regionless": [
+        "Default": [
             "3.0000000000"
         ],
         "US West (Oregon)": [
@@ -601,7 +601,7 @@
         ]
     },
     "Enterprise Monthly Monthly per region fee with Q per Month": {
-        "Regionless": [
+        "Default": [
             "250.0000000000"
         ],
         "US West (Oregon)": [
@@ -630,7 +630,7 @@
         ]
     },
     "Enterprise Monthly Author Pro subscriptions per User": {
-        "Regionless": [
+        "Default": [
             "50.0000000000"
         ],
         "US West (Oregon)": [
@@ -662,7 +662,7 @@
         ]
     },
     "Enterprise Alerts from 10000 to 100000 per kilometric": {
-        "Regionless": [
+        "Default": [
             "0.1000000000"
         ],
         "Any": [
@@ -670,7 +670,7 @@
         ]
     },
     "Enterprise Reader Annual Query Capacity 60K Actual Usage for Q per Queries": {
-        "Regionless": [
+        "Default": [
             "0.3000000000"
         ],
         "Any": [
@@ -678,7 +678,7 @@
         ]
     },
     "Enterprise cap reader sessions per Sessions": {
-        "Regionless": [
+        "Default": [
             "0.2000000000"
         ],
         "Any": [
@@ -686,7 +686,7 @@
         ]
     },
     "Enterprise Monthly Reader Monthly 500 Sessions Pack per Month": {
-        "Regionless": [
+        "Default": [
             "250.0000000000"
         ],
         "Any": [
@@ -694,7 +694,7 @@
         ]
     },
     "Enterprise bonus reader sessions per Sessions": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "Any": [
@@ -702,7 +702,7 @@
         ]
     },
     "Enterprise Reader Monthly Query Capacity 500 Overage Usage for Q per Queries": {
-        "Regionless": [
+        "Default": [
             "0.5000000000"
         ],
         "Any": [
@@ -710,7 +710,7 @@
         ]
     },
     "Enterprise Reader Annual Query Capacity 60K Overage Usage for Q per Queries": {
-        "Regionless": [
+        "Default": [
             "0.3000000000"
         ],
         "Any": [
@@ -718,7 +718,7 @@
         ]
     },
     "Enterprise Reader Monthly Query Capacity 500 Actual Usage for Q per Queries": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "Any": [
@@ -726,7 +726,7 @@
         ]
     },
     "Enterprise emails sent per sessions": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "Any": [
@@ -734,7 +734,7 @@
         ]
     },
     "Enterprise emails sent per Sessions": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "Any": [
@@ -742,7 +742,7 @@
         ]
     },
     "Enterprise Alerts from 500 to 1500 per kilometric": {
-        "Regionless": [
+        "Default": [
             "0.5000000000"
         ],
         "Any": [
@@ -750,7 +750,7 @@
         ]
     },
     "Enterprise Monthly user subscriptions with Q free trial per Users": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "Any": [
@@ -758,7 +758,7 @@
         ]
     },
     "Enterprise Alerts from 100500 to Inf per kilometric": {
-        "Regionless": [
+        "Default": [
             "0.0500000000"
         ],
         "Any": [
@@ -766,7 +766,7 @@
         ]
     },
     "Enterprise Annual Reader CapacityPricing 50K Sessions Overage per Sessions": {
-        "Regionless": [
+        "Default": [
             "0.4000000000"
         ],
         "Any": [
@@ -774,7 +774,7 @@
         ]
     },
     "Enterprise Alerts from 1500 to 10500 per kilometric": {
-        "Regionless": [
+        "Default": [
             "0.2500000000"
         ],
         "Any": [
@@ -782,7 +782,7 @@
         ]
     },
     "Enterprise bonus reader sessions with Q per Sessions": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "Any": [
@@ -790,7 +790,7 @@
         ]
     },
     "Enterprise Reader Annual Query Capacity 600K Overage Usage for Q per Queries": {
-        "Regionless": [
+        "Default": [
             "0.2000000000"
         ],
         "Any": [
@@ -798,7 +798,7 @@
         ]
     },
     "Enterprise cap reader sessions with Q per Sessions": {
-        "Regionless": [
+        "Default": [
             "0.1000000000"
         ],
         "Any": [
@@ -806,7 +806,7 @@
         ]
     },
     "Enterprise Alerts from 1000 to 10000 per kilometric": {
-        "Regionless": [
+        "Default": [
             "0.2500000000"
         ],
         "Any": [
@@ -814,7 +814,7 @@
         ]
     },
     "Free Reader CapacityPricing 200KSessions Overage per Sessions": {
-        "Regionless": [
+        "Default": [
             "0.2800000000"
         ],
         "Any": [
@@ -822,7 +822,7 @@
         ]
     },
     "Enterprise Alerts from 10500 to 100500 per kilometric": {
-        "Regionless": [
+        "Default": [
             "0.1000000000"
         ],
         "Any": [
@@ -830,7 +830,7 @@
         ]
     },
     "Enterprise Alerts from 0 to 500 per kilometric": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "Any": [
@@ -838,7 +838,7 @@
         ]
     },
     "Enterprise paid reader sessions per Sessions": {
-        "Regionless": [
+        "Default": [
             "0.3000000000"
         ],
         "Any": [
@@ -846,7 +846,7 @@
         ]
     },
     "Free Reader CapacityPricing 800KSessions Overage per Sessions": {
-        "Regionless": [
+        "Default": [
             "0.2000000000"
         ],
         "Any": [
@@ -854,7 +854,7 @@
         ]
     },
     "Free Reader CapacityPricing 800KSessions Usage per Sessions": {
-        "Regionless": [
+        "Default": [
             "0.2025000000"
         ],
         "Any": [
@@ -862,7 +862,7 @@
         ]
     },
     "Standard Monthly user subscriptions per User": {
-        "Regionless": [
+        "Default": [
             "12.0000000000"
         ],
         "Any": [
@@ -870,7 +870,7 @@
         ]
     },
     "Enterprise Annual Bonus session for report readers per Sessions": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "Any": [
@@ -878,7 +878,7 @@
         ]
     },
     "Free Reader CapacityPricing 1600KSessions Usage per Sessions": {
-        "Regionless": [
+        "Default": [
             "0.1612500000"
         ],
         "Any": [
@@ -886,7 +886,7 @@
         ]
     },
     "Enterprise Alerts from 100000 to Inf per kilometric": {
-        "Regionless": [
+        "Default": [
             "0.0500000000"
         ],
         "Any": [
@@ -894,7 +894,7 @@
         ]
     },
     "Enterprise Reader Annual Query Capacity 600K Actual Usage for Q per Queries": {
-        "Regionless": [
+        "Default": [
             "0.2000000000"
         ],
         "Any": [
@@ -902,7 +902,7 @@
         ]
     },
     "Enterprise Reader CapacityPricing 500 Session Usage per Sessions": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "Any": [
@@ -910,7 +910,7 @@
         ]
     },
     "Free Reader CapacityPricing 400KSessions Usage per Sessions": {
-        "Regionless": [
+        "Default": [
             "0.2400000000"
         ],
         "Any": [
@@ -918,7 +918,7 @@
         ]
     },
     "Free Reader CapacityPricing 400KSessions Overage per Sessions": {
-        "Regionless": [
+        "Default": [
             "0.2400000000"
         ],
         "Any": [
@@ -926,7 +926,7 @@
         ]
     },
     "Standard Annual user subscriptions per User": {
-        "Regionless": [
+        "Default": [
             "9.0000000000"
         ],
         "Any": [
@@ -934,7 +934,7 @@
         ]
     },
     "Enterprise Annual user subscriptions with Q per Users": {
-        "Regionless": [
+        "Default": [
             "10.0000000000"
         ],
         "Any": [
@@ -942,7 +942,7 @@
         ]
     },
     "Enterprise Monthly user subscriptions per User": {
-        "Regionless": [
+        "Default": [
             "24.0000000000"
         ],
         "Any": [
@@ -950,7 +950,7 @@
         ]
     },
     "Free Reader CapacityPricing 1600KSessions Overage per Sessions": {
-        "Regionless": [
+        "Default": [
             "0.1600000000"
         ],
         "Any": [
@@ -958,7 +958,7 @@
         ]
     },
     "Enterprise Alerts from 0 to 1000 per kilometric": {
-        "Regionless": [
+        "Default": [
             "0.5000000000"
         ],
         "Any": [
@@ -966,7 +966,7 @@
         ]
     },
     "Enterprise Annual Reader CapacityPricing 50K Sessions Usage per Sessions": {
-        "Regionless": [
+        "Default": [
             "0.4000000000"
         ],
         "Any": [
@@ -974,7 +974,7 @@
         ]
     },
     "Enterprise Annual user subscriptions per User": {
-        "Regionless": [
+        "Default": [
             "18.0000000000"
         ],
         "Any": [
@@ -982,7 +982,7 @@
         ]
     },
     "Enterprise paid reader sessions with Q per Sessions": {
-        "Regionless": [
+        "Default": [
             "0.3000000000"
         ],
         "Any": [
@@ -990,7 +990,7 @@
         ]
     },
     "Free Reader CapacityPricing 200KSessions Usage per Sessions": {
-        "Regionless": [
+        "Default": [
             "0.2880000000"
         ],
         "Any": [
@@ -998,7 +998,7 @@
         ]
     },
     "Enterprise Monthly user subscriptions with Q per Users": {
-        "Regionless": [
+        "Default": [
             "10.0000000000"
         ],
         "Any": [
@@ -1006,7 +1006,7 @@
         ]
     },
     "Enterprise Reader CapacityPricing 500 Sessions Overage per Sessions": {
-        "Regionless": [
+        "Default": [
             "0.5000000000"
         ],
         "Any": [
@@ -1014,7 +1014,7 @@
         ]
     },
     "Enterprise Monthly Reader Monthly 500 Query Pack for Q per Month": {
-        "Regionless": [
+        "Default": [
             "250.0000000000"
         ],
         "Any": [

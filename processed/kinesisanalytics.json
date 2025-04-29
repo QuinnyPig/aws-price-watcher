@@ -1,6 +1,6 @@
 {
     "Kinesis Processing Unit KPU for Kinesis Data Analytics Studio": {
-        "Regionless": [
+        "Default": [
             "0.1100000000"
         ],
         "US West (Oregon)": [
@@ -107,7 +107,7 @@
         ]
     },
     "Kinesis Processing Unit KPU": {
-        "Regionless": [
+        "Default": [
             "0.1100000000"
         ],
         "US West (Oregon)": [
@@ -181,7 +181,7 @@
         ]
     },
     "Per GB month of running application storage for Kinesis Data Analytics Studio": {
-        "Regionless": [
+        "Default": [
             "0.1000000000"
         ],
         "US West (Oregon)": [
@@ -288,7 +288,7 @@
         ]
     },
     "Per GB month of durable application backups": {
-        "Regionless": [
+        "Default": [
             "0.0230000000"
         ],
         "US West (Oregon)": [
@@ -395,7 +395,7 @@
         ]
     },
     "Per GB month of running application storage": {
-        "Regionless": [
+        "Default": [
             "0.1000000000"
         ],
         "US West (Oregon)": [
@@ -502,7 +502,7 @@
         ]
     },
     "Kinesis Processing Unit KPU for Java applications": {
-        "Regionless": [
+        "Default": [
             "0.1100000000"
         ],
         "US West (Oregon)": [

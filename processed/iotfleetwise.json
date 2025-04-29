@@ -1,6 +1,6 @@
 {
     "IoTFleetWise per Messages 0 to 1000000000": {
-        "Regionless": [
+        "Default": [
             "0.0000017500"
         ],
         "US East (N. Virginia)": [
@@ -11,7 +11,7 @@
         ]
     },
     "IoTFleetWise per Vehicles 0 to 10000": {
-        "Regionless": [
+        "Default": [
             "0.6000000000"
         ],
         "US East (N. Virginia)": [
@@ -22,7 +22,7 @@
         ]
     },
     "IoTFleetWise per Vehicles 1000000 to Inf": {
-        "Regionless": [
+        "Default": [
             "0.3500000000"
         ],
         "US East (N. Virginia)": [
@@ -33,7 +33,7 @@
         ]
     },
     "IoTFleetWise per Messages 500000000000 to Inf": {
-        "Regionless": [
+        "Default": [
             "0.0000014500"
         ],
         "US East (N. Virginia)": [
@@ -44,7 +44,7 @@
         ]
     },
     "IoTFleetWise per Messages 1000000000 to 500000000000": {
-        "Regionless": [
+        "Default": [
             "0.0000016000"
         ],
         "US East (N. Virginia)": [
@@ -55,7 +55,7 @@
         ]
     },
     "IoTFleetWise per Vehicles 10000 to 1000000": {
-        "Regionless": [
+        "Default": [
             "0.4500000000"
         ],
         "US East (N. Virginia)": [

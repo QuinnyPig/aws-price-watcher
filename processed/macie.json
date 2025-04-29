@@ -1,6 +1,6 @@
 {
     "Extended Storage of Classification Results AmazonS3 per GB": {
-        "Regionless": [
+        "Default": [
             "0.0500000000"
         ],
         "US West (Oregon)": [
@@ -11,7 +11,7 @@
         ]
     },
     "FREE Tier per GB": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -22,7 +22,7 @@
         ]
     },
     "Content Classification 0 1 per GB": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -33,7 +33,7 @@
         ]
     },
     "Content Classification per GB": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -44,7 +44,7 @@
         ]
     },
     "Security Services Amazon Macie Free Data Inventory Evaluation per buckets per month": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -115,7 +115,7 @@
         ]
     },
     "Security Services Amazon Macie Free Data Inventory Evaluation per Bucket-days": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -186,7 +186,7 @@
         ]
     },
     "Security Services Amazon Macie Paid Object Monitoring per Object-days": {
-        "Regionless": [
+        "Default": [
             "0.0000000033"
         ],
         "US West (Oregon)": [
@@ -257,7 +257,7 @@
         ]
     },
     "Security Services Amazon Macie Free Object Monitoring per Object-days": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -328,7 +328,7 @@
         ]
     },
     "Security Services Amazon Macie Paid Data Inventory Evaluation per buckets per month": {
-        "Regionless": [
+        "Default": [
             "0.0032880000"
         ],
         "US West (Oregon)": [
@@ -399,7 +399,7 @@
         ]
     },
     "Security Services Amazon Macie Paid Data Inventory Evaluation per Bucket-days": {
-        "Regionless": [
+        "Default": [
             "0.0032880000"
         ],
         "US West (Oregon)": [
@@ -470,7 +470,7 @@
         ]
     },
     "Security Services Amazon Macie Sensitive Data Discovery Next 450000 per GB": {
-        "Regionless": [
+        "Default": [
             "0.5000000000"
         ],
         "US West (Oregon)": [
@@ -541,7 +541,7 @@
         ]
     },
     "Security Services Amazon Macie Daily Usage per days": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -612,7 +612,7 @@
         ]
     },
     "Security Services Amazon Macie Free Automated Sensitive Data Discovery per GB": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -683,7 +683,7 @@
         ]
     },
     "Security Services Amazon Macie Sensitive Data Discovery Over 500000 per GB": {
-        "Regionless": [
+        "Default": [
             "0.2500000000"
         ],
         "US West (Oregon)": [
@@ -754,7 +754,7 @@
         ]
     },
     "Security Services Amazon Macie Sensitive Data Discovery Next 50000 per GB": {
-        "Regionless": [
+        "Default": [
             "1.0000000000"
         ],
         "US West (Oregon)": [
@@ -825,7 +825,7 @@
         ]
     },
     "FREE Tier Security Services Amazon Macie Sensitive Data Discovery per GB": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -896,7 +896,7 @@
         ]
     },
     "CloudTrail per Events": {
-        "Regionless": [
+        "Default": [
             "0.0000040000"
         ],
         "US West (Oregon)": [

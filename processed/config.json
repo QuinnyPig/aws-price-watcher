@@ -1,6 +1,6 @@
 {
     "Config Rules ProactiveConfigRuleEvaluation 500001 and more": {
-        "Regionless": [
+        "Default": [
             "0.0005000000"
         ],
         "US West (Oregon)": [
@@ -104,7 +104,7 @@
         ]
     },
     "Config Custom": {
-        "Regionless": [
+        "Default": [
             "0.0030000000"
         ],
         "US West (Oregon)": [
@@ -205,7 +205,7 @@
         ]
     },
     "Config configurationItemRecordedDaily": {
-        "Regionless": [
+        "Default": [
             "0.0120000000"
         ],
         "US West (Oregon)": [
@@ -312,7 +312,7 @@
         ]
     },
     "Config": {
-        "Regionless": [
+        "Default": [
             "0.0030000000"
         ],
         "US West (Oregon)": [
@@ -422,7 +422,7 @@
         ]
     },
     "Config Rules ProactiveConfigRuleEvaluation next 400000": {
-        "Regionless": [
+        "Default": [
             "0.0008000000"
         ],
         "US West (Oregon)": [
@@ -526,7 +526,7 @@
         ]
     },
     "Config Rules 500001 and more": {
-        "Regionless": [
+        "Default": [
             "0.0005000000"
         ],
         "US West (Oregon)": [
@@ -636,7 +636,7 @@
         ]
     },
     "Config Rules ProactiveConfigRuleEvaluationsDetectiveEnabled 0 Inf": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -734,7 +734,7 @@
         ]
     },
     "Config Rules next 400000": {
-        "Regionless": [
+        "Default": [
             "0.0008000000"
         ],
         "US West (Oregon)": [
@@ -844,7 +844,7 @@
         ]
     },
     "Config Conformance Packs next 400000": {
-        "Regionless": [
+        "Default": [
             "0.0008000000"
         ],
         "US West (Oregon)": [
@@ -951,7 +951,7 @@
         ]
     },
     "Config Conformance Packs first 100000": {
-        "Regionless": [
+        "Default": [
             "0.0010000000"
         ],
         "US West (Oregon)": [
@@ -1058,7 +1058,7 @@
         ]
     },
     "Config Conformance Packs 500001 and more": {
-        "Regionless": [
+        "Default": [
             "0.0005000000"
         ],
         "US West (Oregon)": [
@@ -1165,7 +1165,7 @@
         ]
     },
     "Config Rules first 100000": {
-        "Regionless": [
+        "Default": [
             "0.0010000000"
         ],
         "US West (Oregon)": [
@@ -1275,7 +1275,7 @@
         ]
     },
     "Config Rules ProactiveConfigRuleEvaluation first 100000": {
-        "Regionless": [
+        "Default": [
             "0.0010000000"
         ],
         "US West (Oregon)": [

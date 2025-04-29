@@ -1,6 +1,6 @@
 {
     "LF MetadataObjects": {
-        "Regionless": [
+        "Default": [
             "0.0000100000"
         ],
         "US West (Oregon)": [
@@ -80,7 +80,7 @@
         ]
     },
     "Filtering": {
-        "Regionless": [
+        "Default": [
             "0.0021972660"
         ],
         "US West (Oregon)": [
@@ -139,7 +139,7 @@
         ]
     },
     "LF Storage-Optimizer": {
-        "Regionless": [
+        "Default": [
             "0.0021972660"
         ],
         "US West (Oregon)": [
@@ -198,7 +198,7 @@
         ]
     },
     "LF API-Requests": {
-        "Regionless": [
+        "Default": [
             "0.0000010000"
         ],
         "US West (Oregon)": [

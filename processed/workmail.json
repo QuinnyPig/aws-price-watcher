@@ -1,23 +1,23 @@
 {
     "optional set name Enterprise Applications": {
-        "Regionless": [
+        "Default": [
             "4.0000000000"
         ],
         "US West (Oregon)": [
-            "4.0000000000",
-            "0.0000000000"
+            "0.0000000000",
+            "4.0000000000"
         ],
         "US East (N. Virginia)": [
-            "4.0000000000",
-            "0.0000000000"
+            "0.0000000000",
+            "4.0000000000"
         ],
         "EU (Ireland)": [
-            "4.0000000000",
-            "0.0000000000"
+            "0.0000000000",
+            "4.0000000000"
         ]
     },
     "Free Tier per User Mo": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "US West (Oregon)": [
@@ -31,7 +31,7 @@
         ]
     },
     "WorkMail per User Mo": {
-        "Regionless": [
+        "Default": [
             "4.0000000000"
         ],
         "US West (Oregon)": [

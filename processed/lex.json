@@ -38,7 +38,7 @@
         ]
     },
     "x-A5vvNY-7i_XETNUFDr3b4iRAp7sXInemrw7qw659Y V2": {
-        "Regionless": [
+        "Default": [
             "0.0040000000"
         ],
         "US West (Oregon)": [
@@ -187,7 +187,7 @@
         ]
     },
     "Speech to-Speech Supported Mode Speech and Text": {
-        "Regionless": [
+        "Default": [
             "0.0040000000"
         ],
         "US West (Oregon)": [
@@ -219,7 +219,7 @@
         ]
     },
     "DTMF to-Speech-Str-GR Supported Mode Speech Text and DTMF": {
-        "Regionless": [
+        "Default": [
             "0.0030000000"
         ],
         "US West (Oregon)": [
@@ -236,7 +236,7 @@
         ]
     },
     "Speech to-Speech-Req-GR Supported Mode Speech and Text": {
-        "Regionless": [
+        "Default": [
             "0.0060000000"
         ],
         "US West (Oregon)": [
@@ -253,7 +253,7 @@
         ]
     },
     "Text to-Text Supported Mode Text Only": {
-        "Regionless": [
+        "Default": [
             "0.0007500000"
         ],
         "US West (Oregon)": [
@@ -285,7 +285,7 @@
         ]
     },
     "Speech to-Text-Str-GR Supported Mode Speech Text and DTMF": {
-        "Regionless": [
+        "Default": [
             "0.0094000000"
         ],
         "US West (Oregon)": [
@@ -302,7 +302,7 @@
         ]
     },
     "Speech to-Speech-Str Supported Mode Speech Text and DTMF": {
-        "Regionless": [
+        "Default": [
             "0.0065000000"
         ],
         "US West (Oregon)": [
@@ -343,7 +343,7 @@
         ]
     },
     "Speech to-Text Supported Mode Speech and Text": {
-        "Regionless": [
+        "Default": [
             "0.0040000000"
         ],
         "US West (Oregon)": [
@@ -375,7 +375,7 @@
         ]
     },
     "Speech to-Text-Req-GR Supported Mode Speech and Text": {
-        "Regionless": [
+        "Default": [
             "0.0060000000"
         ],
         "US West (Oregon)": [
@@ -392,7 +392,7 @@
         ]
     },
     "Speech to-Text-Str Supported Mode Speech Text and DTMF": {
-        "Regionless": [
+        "Default": [
             "0.0065000000"
         ],
         "US West (Oregon)": [
@@ -433,7 +433,7 @@
         ]
     },
     "Text to-Text Supported Mode Speech and Text": {
-        "Regionless": [
+        "Default": [
             "0.0007500000"
         ],
         "US West (Oregon)": [
@@ -465,7 +465,7 @@
         ]
     },
     "Speech to-Speech-Str-GR Supported Mode Speech Text and DTMF": {
-        "Regionless": [
+        "Default": [
             "0.0094000000"
         ],
         "US West (Oregon)": [
@@ -482,7 +482,7 @@
         ]
     },
     "Speech to-Text-Req Supported Mode Speech and Text": {
-        "Regionless": [
+        "Default": [
             "0.0040000000"
         ],
         "US West (Oregon)": [
@@ -523,7 +523,7 @@
         ]
     },
     "Speech to-Speech-Req Supported Mode Speech and Text": {
-        "Regionless": [
+        "Default": [
             "0.0040000000"
         ],
         "US West (Oregon)": [
@@ -564,7 +564,7 @@
         ]
     },
     "Speech to Speech Supported Mode Speech and Text V1V2": {
-        "Regionless": [
+        "Default": [
             "0.0040000000"
         ],
         "US West (Oregon)": [
@@ -605,7 +605,7 @@
         ]
     },
     "DTMF to-Speech-Str Supported Mode Speech Text and DTMF": {
-        "Regionless": [
+        "Default": [
             "0.0020000000"
         ],
         "US West (Oregon)": [
@@ -646,7 +646,7 @@
         ]
     },
     "Text to-Speech Supported Mode Speech and Text": {
-        "Regionless": [
+        "Default": [
             "0.0007500000"
         ],
         "US West (Oregon)": [

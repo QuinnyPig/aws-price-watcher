@@ -1,6 +1,6 @@
 {
     "AWSCodeCommit StartingRange 5 Inf": {
-        "Regionless": [
+        "Default": [
             "1.0000000000"
         ],
         "Any": [
@@ -8,7 +8,7 @@
         ]
     },
     "AWSCodeCommit StartingRange 0 5": {
-        "Regionless": [
+        "Default": [
             "0.0000000000"
         ],
         "Any": [

@@ -69,18 +69,30 @@ if service_list:
                     if modified_code_name not in processed_contents:
                         processed_contents[modified_code_name] = {}
                         if "RegionlessRateCode" in contents_obj["regions"][region_name][code_name] and contents_obj["regions"][region_name][code_name]["RegionlessRateCode"] in contents_obj["regions"][region_name]:
-                            processed_contents[modified_code_name]["Regionless"] = [
+                            processed_contents[modified_code_name]["Default"] = [
                                 contents_obj["regions"][region_name][contents_obj["regions"][region_name][code_name]["RegionlessRateCode"]]["price"]
                             ]
                         else:
                             pass
                             #print("Outlier: ", service, region_name, code_name)
+                    
+                    modified_region_name = region_name
+                    code_contents = json.loads(json.dumps(contents_obj["regions"][region_name][code_name]))
+                    del code_contents["price"]
+                    del code_contents["rateCode"]
+                    if "RegionlessRateCode" in code_contents:
+                        del code_contents["RegionlessRateCode"]
+                    if len(code_contents.keys()) > 0:
+                        modifier_str = ""
+                        for k in code_contents.keys():
+                            modifier_str += k + ": " + code_contents[k] + ", "
+                        modified_region_name += " (" + modifier_str[:-2] + ")"
 
-                    if region_name not in processed_contents[modified_code_name]:
-                        processed_contents[modified_code_name][region_name] = []
+                    if modified_region_name not in processed_contents[modified_code_name]:
+                        processed_contents[modified_code_name][modified_region_name] = []
 
-                    processed_contents[modified_code_name][region_name].append(contents_obj["regions"][region_name][code_name]["price"])
-                    processed_contents[modified_code_name][region_name] = list(set(processed_contents[modified_code_name][region_name]))
+                    processed_contents[modified_code_name][modified_region_name].append(contents_obj["regions"][region_name][code_name]["price"])
+                    processed_contents[modified_code_name][modified_region_name] = list(set(processed_contents[modified_code_name][modified_region_name]))
 
 
             existing_processed_contents = load_file("processed/{}.json".format(sanitized_service_name))

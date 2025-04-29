@@ -1,6 +1,6 @@
 {
     "Data consumed from Kinesis Video Streams for HLS Fragment based per GB": {
-        "Regionless": [
+        "Default": [
             "0.0119000000"
         ],
         "US West (Oregon)": [
@@ -59,7 +59,7 @@
         ]
     },
     "Per million images generated getImages 1080p or lower resolution per Images Processed": {
-        "Regionless": [
+        "Default": [
             "0.0000100000"
         ],
         "US West (Oregon)": [
@@ -118,7 +118,7 @@
         ]
     },
     "Per minute of media stream recorded into Kinesis Video Streams via WebRTC per Minute": {
-        "Regionless": [
+        "Default": [
             "0.0034000000"
         ],
         "US West (Oregon)": [
@@ -171,7 +171,7 @@
         ]
     },
     "Per million images generated S3 Delivery 1080p or lower resolution per Images Processed": {
-        "Regionless": [
+        "Default": [
             "0.0000100000"
         ],
         "US West (Oregon)": [
@@ -230,7 +230,7 @@
         ]
     },
     "Per GB Month of Data stored in Kinesis Video Streams per GB-Month": {
-        "Regionless": [
+        "Default": [
             "0.0230000000"
         ],
         "US West (Oregon)": [
@@ -289,7 +289,7 @@
         ]
     },
     "Per million images generated S3 Delivery greater than 1080p resolution per Images Processed": {
-        "Regionless": [
+        "Default": [
             "0.0000180000"
         ],
         "US West (Oregon)": [
@@ -348,7 +348,7 @@
         ]
     },
     "Data consumed from Kinesis Video Streams Fragment based per GB": {
-        "Regionless": [
+        "Default": [
             "0.0085000000"
         ],
         "US West (Oregon)": [
@@ -407,7 +407,7 @@
         ]
     },
     "Per thousand TURN streaming minutes per minutes": {
-        "Regionless": [
+        "Default": [
             "0.0001200000"
         ],
         "US West (Oregon)": [
@@ -460,7 +460,7 @@
         ]
     },
     "Data ingested into Kinesis Video Streams per GB": {
-        "Regionless": [
+        "Default": [
             "0.0085000000"
         ],
         "US West (Oregon)": [
@@ -519,7 +519,7 @@
         ]
     },
     "Data consumed from Kinesis Video Streams for HLS per GB": {
-        "Regionless": [
+        "Default": [
             "0.0119000000"
         ],
         "US West (Oregon)": [
@@ -578,7 +578,7 @@
         ]
     },
     "Data consumed from Kinesis Video Streams per GB": {
-        "Regionless": [
+        "Default": [
             "0.0085000000"
         ],
         "US West (Oregon)": [
@@ -637,7 +637,7 @@
         ]
     },
     "Per million images generated getImages greater than 1080p resolution per Images Processed": {
-        "Regionless": [
+        "Default": [
             "0.0000180000"
         ],
         "US West (Oregon)": [
@@ -696,7 +696,7 @@
         ]
     },
     "Per month for an active signaling channel per Count": {
-        "Regionless": [
+        "Default": [
             "0.0300000000"
         ],
         "US West (Oregon)": [
@@ -749,7 +749,7 @@
         ]
     },
     "GetClip per GB": {
-        "Regionless": [
+        "Default": [
             "0.0119000000"
         ],
         "US West (Oregon)": [
@@ -808,7 +808,7 @@
         ]
     },
     "Per million signaling messages per Messages": {
-        "Regionless": [
+        "Default": [
             "0.0000022500"
         ],
         "US West (Oregon)": [

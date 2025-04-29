@@ -1,6 +1,6 @@
 {
     "Provisioned Read Units": {
-        "Regionless": [
+        "Default": [
             "0.0001300000"
         ],
         "US West (Oregon)": [
@@ -68,7 +68,7 @@
         ]
     },
     "AmazonMCS - Indexed DataStore per GB-Mo": {
-        "Regionless": [
+        "Default": [
             "0.2500000000"
         ],
         "US West (Oregon)": [
@@ -136,7 +136,7 @@
         ]
     },
     "Backup Restore Size per GB": {
-        "Regionless": [
+        "Default": [
             "0.1500000000"
         ],
         "US West (Oregon)": [
@@ -204,7 +204,7 @@
         ]
     },
     "MCS-ReadUnits": {
-        "Regionless": [
+        "Default": [
             "0.0000001250"
         ],
         "US West (Oregon)": [
@@ -272,7 +272,7 @@
         ]
     },
     "MCS-ReadUnits Over 30000000": {
-        "Regionless": [
+        "Default": [
             "0.0000001250"
         ],
         "US West (Oregon)": [
@@ -340,7 +340,7 @@
         ]
     },
     "Provisioned Write Units": {
-        "Regionless": [
+        "Default": [
             "0.0006500000"
         ],
         "US West (Oregon)": [
@@ -408,7 +408,7 @@
         ]
     },
     "MCS-WriteUnits": {
-        "Regionless": [
+        "Default": [
             "0.0000006250"
         ],
         "US West (Oregon)": [
@@ -476,7 +476,7 @@
         ]
     },
     "MCS-WriteUnits Over 30000000": {
-        "Regionless": [
+        "Default": [
             "0.0000006250"
         ],
         "US West (Oregon)": [
@@ -544,7 +544,7 @@
         ]
     },
     "Point-In-Time-Restore PITR Backup Storage per GB-Mo": {
-        "Regionless": [
+        "Default": [
             "0.2000000000"
         ],
         "US West (Oregon)": [
@@ -612,7 +612,7 @@
         ]
     },
     "Time to Live": {
-        "Regionless": [
+        "Default": [
             "0.0000002750"
         ],
         "US West (Oregon)": [

@@ -1,6 +1,6 @@
 {
     "MSK Record Processing Per GB of data ingested Next 3PB": {
-        "Regionless": [
+        "Default": [
             "0.0480000000"
         ],
         "US West (Oregon)": [
@@ -107,7 +107,7 @@
         ]
     },
     "Event by-Event Processing Per GB of data ingested or delivered to Apache Iceberg Tables from 0 to 256000": {
-        "Regionless": [
+        "Default": [
             "0.0750000000"
         ],
         "US West (Oregon)": [
@@ -205,7 +205,7 @@
         ]
     },
     "Per GB of data read from Kinesis Streams Next 1 5PB": {
-        "Regionless": [
+        "Default": [
             "0.0250000000"
         ],
         "US West (Oregon)": [
@@ -312,7 +312,7 @@
         ]
     },
     "Event by-Event Processing Per GB of data ingested or delivered to Apache Iceberg Tables from 1024000 to Inf": {
-        "Regionless": [
+        "Default": [
             "0.0530000000"
         ],
         "US West (Oregon)": [
@@ -410,7 +410,7 @@
         ]
     },
     "MSK Record Processing Per GB of data ingested Next 1 5PB": {
-        "Regionless": [
+        "Default": [
             "0.0570000000"
         ],
         "US West (Oregon)": [
@@ -517,7 +517,7 @@
         ]
     },
     "Event by-Event Processing Per GB of data ingested first 500TB Vended Logs": {
-        "Regionless": [
+        "Default": [
             "0.1600000000"
         ],
         "US West (Oregon)": [
@@ -624,7 +624,7 @@
         ]
     },
     "Per Hour per AZ for VPC delivery": {
-        "Regionless": [
+        "Default": [
             "0.0100000000"
         ],
         "US West (Oregon)": [
@@ -731,7 +731,7 @@
         ]
     },
     "Per GB of incremental data processed from 0 to 256000": {
-        "Regionless": [
+        "Default": [
             "0.0450000000"
         ],
         "US West (Oregon)": [
@@ -829,7 +829,7 @@
         ]
     },
     "Event by-Event Processing Per GB of data ingested Next 1 5PB Vended Logs": {
-        "Regionless": [
+        "Default": [
             "0.1300000000"
         ],
         "US West (Oregon)": [
@@ -936,7 +936,7 @@
         ]
     },
     "Per GB of data ingested Next 3PB Vended Logs": {
-        "Regionless": [
+        "Default": [
             "0.1100000000"
         ],
         "US West (Oregon)": [
@@ -1043,7 +1043,7 @@
         ]
     },
     "MSK Record Processing Per GB of data ingested or delivered from 1024000 to Inf": {
-        "Regionless": [
+        "Default": [
             "0.0320000000"
         ],
         "US West (Oregon)": [
@@ -1141,7 +1141,7 @@
         ]
     },
     "Per GB of data read from Kinesis Streams Next 3PB": {
-        "Regionless": [
+        "Default": [
             "0.0200000000"
         ],
         "US West (Oregon)": [
@@ -1248,7 +1248,7 @@
         ]
     },
     "Per GB of data delivered to VPC": {
-        "Regionless": [
+        "Default": [
             "0.0100000000"
         ],
         "US West (Oregon)": [
@@ -1355,7 +1355,7 @@
         ]
     },
     "Per GB of data decompressed": {
-        "Regionless": [
+        "Default": [
             "0.0032500000"
         ],
         "US West (Oregon)": [
@@ -1462,7 +1462,7 @@
         ]
     },
     "Per GB of data from 0 to Inf": {
-        "Regionless": [
+        "Default": [
             "0.0800000000"
         ],
         "US West (Oregon)": [
@@ -1524,7 +1524,7 @@
         ]
     },
     "MSK Record Processing Per GB of data ingested or delivered from 256000 to 1024000": {
-        "Regionless": [
+        "Default": [
             "0.0380000000"
         ],
         "US West (Oregon)": [
@@ -1622,7 +1622,7 @@
         ]
     },
     "Event by-Event Processing Per GB of data ingested Next 3PB Vended Logs": {
-        "Regionless": [
+        "Default": [
             "0.1100000000"
         ],
         "US West (Oregon)": [
@@ -1729,7 +1729,7 @@
         ]
     },
     "Per GB of data read from Kinesis Streams first 500TB": {
-        "Regionless": [
+        "Default": [
             "0.0290000000"
         ],
         "US West (Oregon)": [
@@ -1836,7 +1836,7 @@
         ]
     },
     "Per object dynamically partitioned": {
-        "Regionless": [
+        "Default": [
             "0.0000050000"
         ],
         "US West (Oregon)": [
@@ -1943,7 +1943,7 @@
         ]
     },
     "MSK Record Processing Per GB of data ingested first 500TB": {
-        "Regionless": [
+        "Default": [
             "0.0660000000"
         ],
         "US West (Oregon)": [
@@ -2050,7 +2050,7 @@
         ]
     },
     "Per GB of incremental data processed from 256000 to 1024000": {
-        "Regionless": [
+        "Default": [
             "0.0380000000"
         ],
         "US West (Oregon)": [
@@ -2148,7 +2148,7 @@
         ]
     },
     "Per GB of data format conversion": {
-        "Regionless": [
+        "Default": [
             "0.0180000000"
         ],
         "US West (Oregon)": [
@@ -2255,7 +2255,7 @@
         ]
     },
     "Per GB of data ingested or delivered from 0 to Inf": {
-        "Regionless": [
+        "Default": [
             "0.0740000000"
         ],
         "US West (Oregon)": [
@@ -2317,7 +2317,7 @@
         ]
     },
     "Per GB of data ingested or delivered to Apache Iceberg Tables from 0 to 256000": {
-        "Regionless": [
+        "Default": [
             "0.0450000000"
         ],
         "US West (Oregon)": [
@@ -2415,7 +2415,7 @@
         ]
     },
     "Per GB of incremental data processed from 1024000 to Inf": {
-        "Regionless": [
+        "Default": [
             "0.0320000000"
         ],
         "US West (Oregon)": [
@@ -2513,7 +2513,7 @@
         ]
     },
     "Event by-Event Processing Per GB of data ingested first 500TB": {
-        "Regionless": [
+        "Default": [
             "0.0290000000"
         ],
         "US West (Oregon)": [
@@ -2620,7 +2620,7 @@
         ]
     },
     "Per GB of data ingested Next 1 5PB": {
-        "Regionless": [
+        "Default": [
             "0.0250000000"
         ],
         "US West (Oregon)": [
@@ -2727,7 +2727,7 @@
         ]
     },
     "Per GB of dynamically partitioned data delivered": {
-        "Regionless": [
+        "Default": [
             "0.0200000000"
         ],
         "US West (Oregon)": [
@@ -2834,7 +2834,7 @@
         ]
     },
     "Per JQ processing hour": {
-        "Regionless": [
+        "Default": [
             "0.0700000000"
         ],
         "US West (Oregon)": [
@@ -2941,7 +2941,7 @@
         ]
     },
     "Per GB of data ingested or delivered to Apache Iceberg Tables from 1024000 to Inf": {
-        "Regionless": [
+        "Default": [
             "0.0320000000"
         ],
         "US West (Oregon)": [
@@ -3039,7 +3039,7 @@
         ]
     },
     "Event by-Event Processing Per GB of data ingested or delivered from 0 to Inf": {
-        "Regionless": [
+        "Default": [
             "0.0800000000"
         ],
         "US West (Oregon)": [
@@ -3101,7 +3101,7 @@
         ]
     },
     "Event by-Event Processing Per GB of data ingested or delivered to Apache Iceberg Tables from 256000 to 1024000": {
-        "Regionless": [
+        "Default": [
             "0.0640000000"
         ],
         "US West (Oregon)": [
@@ -3199,7 +3199,7 @@
         ]
     },
     "Per GB of data ingested Next 3PB": {
-        "Regionless": [
+        "Default": [
             "0.0200000000"
         ],
         "US West (Oregon)": [
@@ -3306,7 +3306,7 @@
         ]
     },
     "Per GB of data ingested or delivered to Apache Iceberg Tables from 256000 to 1024000": {
-        "Regionless": [
+        "Default": [
             "0.0380000000"
         ],
         "US West (Oregon)": [
@@ -3404,7 +3404,7 @@
         ]
     },
     "Per GB of data ingested first 500TB Vended Logs": {
-        "Regionless": [
+        "Default": [
             "0.1600000000"
         ],
         "US West (Oregon)": [
@@ -3511,7 +3511,7 @@
         ]
     },
     "Per GB of data ingested first 500TB": {
-        "Regionless": [
+        "Default": [
             "0.0290000000"
         ],
         "US West (Oregon)": [
@@ -3618,7 +3618,7 @@
         ]
     },
     "MSK Record Processing Per GB of data ingested or delivered from 0 to 256000": {
-        "Regionless": [
+        "Default": [
             "0.0450000000"
         ],
         "US West (Oregon)": [
@@ -3716,7 +3716,7 @@
         ]
     },
     "Event by-Event Processing Per GB of data ingested Next 1 5PB": {
-        "Regionless": [
+        "Default": [
             "0.0250000000"
         ],
         "US West (Oregon)": [
@@ -3823,7 +3823,7 @@
         ]
     },
     "Event by-Event Processing Per GB of data ingested Next 3PB": {
-        "Regionless": [
+        "Default": [
             "0.0200000000"
         ],
         "US West (Oregon)": [
@@ -3930,7 +3930,7 @@
         ]
     },
     "Per GB of data ingested Next 1 5PB Vended Logs": {
-        "Regionless": [
+        "Default": [
             "0.1300000000"
         ],
         "US West (Oregon)": [
