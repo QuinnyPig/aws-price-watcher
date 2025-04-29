@@ -38,8 +38,10 @@ def modify_region_name(region_name, code_contents_raw):
     if len(code_contents.keys()) > 0:
         modifier_str = ""
         for k in code_contents.keys():
-            modifier_str += k + ": " + code_contents[k] + ", "
-        modified_region_name += " (" + modifier_str[:-2] + ")"
+            if len(str(code_contents[k])) > 0:
+                modifier_str += k + ": " + code_contents[k] + ", "
+        if len(modifier_str) > 0:
+            modified_region_name += " (" + modifier_str[:-2] + ")"
 
     return modified_region_name
 

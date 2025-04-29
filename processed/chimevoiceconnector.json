@@ -476,592 +476,592 @@
         "US East (N. Virginia) (country: Viet Nam)": "0.1237500000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Andorra": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Andorra)": "0.3612000000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Andorra)": "0.3612000000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Andorra)": "0.3612000000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Andorra)": "0.3612000000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Argentina": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Argentina)": "0.4271100000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Argentina)": "0.4271100000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Argentina)": "0.4271100000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Argentina)": "0.4271100000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Armenia": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Armenia)": "0.4593000000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Armenia)": "0.4593000000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Armenia)": "0.4593000000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Armenia)": "0.4593000000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Aruba": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Aruba)": "0.4228500000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Aruba)": "0.4228500000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Aruba)": "0.4228500000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Aruba)": "0.4228500000"
     },
     "[ChimeVoiceConnector SMA Local] ChimeVoiceConnector SMA Local Australia": {
-        "US West (Oregon) (CallType: SMA Local, country: , ToCountry: Australia)": "0.0054460000",
-        "US East (N. Virginia) (CallType: SMA Local, country: , ToCountry: Australia)": "0.0054460000"
+        "US West (Oregon) (CallType: SMA Local, ToCountry: Australia)": "0.0054460000",
+        "US East (N. Virginia) (CallType: SMA Local, ToCountry: Australia)": "0.0054460000"
     },
     "[ChimeVoiceConnector SMA Toll Free] ChimeVoiceConnector SMA Toll Free Australia": {
-        "US West (Oregon) (CallType: SMA Toll-Free, country: , ToCountry: Australia)": "0.0514300000",
-        "US East (N. Virginia) (CallType: SMA Toll-Free, country: , ToCountry: Australia)": "0.0514300000"
+        "US West (Oregon) (CallType: SMA Toll-Free, ToCountry: Australia)": "0.0514300000",
+        "US East (N. Virginia) (CallType: SMA Toll-Free, ToCountry: Australia)": "0.0514300000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Australia": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Australia)": "0.0476800000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Australia)": "0.0476800000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Australia)": "0.0476800000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Australia)": "0.0476800000"
     },
     "[ChimeVoiceConnector SMA Local] ChimeVoiceConnector SMA Local Austria": {
-        "US West (Oregon) (CallType: SMA Local, country: , ToCountry: Austria)": "0.0032210000",
-        "US East (N. Virginia) (CallType: SMA Local, country: , ToCountry: Austria)": "0.0032210000"
+        "US West (Oregon) (CallType: SMA Local, ToCountry: Austria)": "0.0032210000",
+        "US East (N. Virginia) (CallType: SMA Local, ToCountry: Austria)": "0.0032210000"
     },
     "[ChimeVoiceConnector SMA Toll Free] ChimeVoiceConnector SMA Toll Free Austria": {
-        "US West (Oregon) (CallType: SMA Toll-Free, country: , ToCountry: Austria)": "0.3407080000",
-        "US East (N. Virginia) (CallType: SMA Toll-Free, country: , ToCountry: Austria)": "0.3407080000"
+        "US West (Oregon) (CallType: SMA Toll-Free, ToCountry: Austria)": "0.3407080000",
+        "US East (N. Virginia) (CallType: SMA Toll-Free, ToCountry: Austria)": "0.3407080000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Austria": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Austria)": "0.0380000000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Austria)": "0.0380000000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Austria)": "0.0380000000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Austria)": "0.0380000000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Bahamas": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Bahamas)": "0.3069000000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Bahamas)": "0.3069000000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Bahamas)": "0.3069000000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Bahamas)": "0.3069000000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Bahrain": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Bahrain)": "0.2668500000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Bahrain)": "0.2668500000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Bahrain)": "0.2668500000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Bahrain)": "0.2668500000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Bangladesh": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Bangladesh)": "0.0646500000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Bangladesh)": "0.0646500000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Bangladesh)": "0.0646500000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Bangladesh)": "0.0646500000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Belgium": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Belgium)": "0.1575000000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Belgium)": "0.1575000000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Belgium)": "0.1575000000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Belgium)": "0.1575000000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Belize": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Belize)": "0.4195500000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Belize)": "0.4195500000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Belize)": "0.4195500000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Belize)": "0.4195500000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Bermuda": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Bermuda)": "0.0862500000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Bermuda)": "0.0862500000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Bermuda)": "0.0862500000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Bermuda)": "0.0862500000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Bhutan": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Bhutan)": "0.1726500000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Bhutan)": "0.1726500000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Bhutan)": "0.1726500000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Bhutan)": "0.1726500000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Bolivia": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Bolivia)": "0.4209000000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Bolivia)": "0.4209000000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Bolivia)": "0.4209000000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Bolivia)": "0.4209000000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Brazil": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Brazil)": "0.0684100000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Brazil)": "0.0684100000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Brazil)": "0.0684100000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Brazil)": "0.0684100000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Brunei Darussalam": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Brunei Darussalam)": "0.1108500000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Brunei Darussalam)": "0.1108500000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Brunei Darussalam)": "0.1108500000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Brunei Darussalam)": "0.1108500000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Bulgaria": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Bulgaria)": "0.1392000000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Bulgaria)": "0.1392000000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Bulgaria)": "0.1392000000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Bulgaria)": "0.1392000000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Cambodia": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Cambodia)": "0.1272000000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Cambodia)": "0.1272000000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Cambodia)": "0.1272000000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Cambodia)": "0.1272000000"
     },
     "[ChimeVoiceConnector SMA Local] ChimeVoiceConnector SMA Local Canada": {
-        "US West (Oregon) (CallType: SMA Local, country: , ToCountry: Canada)": "0.0022160000",
-        "US East (N. Virginia) (CallType: SMA Local, country: , ToCountry: Canada)": "0.0022160000"
+        "US West (Oregon) (CallType: SMA Local, ToCountry: Canada)": "0.0022160000",
+        "US East (N. Virginia) (CallType: SMA Local, ToCountry: Canada)": "0.0022160000"
     },
     "[ChimeVoiceConnector SMA Toll Free] ChimeVoiceConnector SMA Toll Free Canada": {
-        "US West (Oregon) (CallType: SMA Toll-Free, country: , ToCountry: Canada)": "0.0119100000",
-        "US East (N. Virginia) (CallType: SMA Toll-Free, country: , ToCountry: Canada)": "0.0119100000"
+        "US West (Oregon) (CallType: SMA Toll-Free, ToCountry: Canada)": "0.0119100000",
+        "US East (N. Virginia) (CallType: SMA Toll-Free, ToCountry: Canada)": "0.0119100000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Canada": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Canada)": "0.0054000000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Canada)": "0.0054000000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Canada)": "0.0054000000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Canada)": "0.0054000000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Chile": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Chile)": "0.1803000000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Chile)": "0.1803000000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Chile)": "0.1803000000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Chile)": "0.1803000000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Colombia": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Colombia)": "0.0656000000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Colombia)": "0.0656000000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Colombia)": "0.0656000000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Colombia)": "0.0656000000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Costa Rica": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Costa Rica)": "0.1486500000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Costa Rica)": "0.1486500000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Costa Rica)": "0.1486500000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Costa Rica)": "0.1486500000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Cyprus": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Cyprus)": "0.2170700000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Cyprus)": "0.2170700000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Cyprus)": "0.2170700000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Cyprus)": "0.2170700000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Czech Republic": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Czech Republic)": "0.1433600000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Czech Republic)": "0.1433600000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Czech Republic)": "0.1433600000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Czech Republic)": "0.1433600000"
     },
     "[ChimeVoiceConnector SMA Local] ChimeVoiceConnector SMA Local Denmark": {
-        "US West (Oregon) (CallType: SMA Local, country: , ToCountry: Denmark)": "0.0024000000",
-        "US East (N. Virginia) (CallType: SMA Local, country: , ToCountry: Denmark)": "0.0024000000"
+        "US West (Oregon) (CallType: SMA Local, ToCountry: Denmark)": "0.0024000000",
+        "US East (N. Virginia) (CallType: SMA Local, ToCountry: Denmark)": "0.0024000000"
     },
     "[ChimeVoiceConnector SMA Toll Free] ChimeVoiceConnector SMA Toll Free Denmark": {
-        "US West (Oregon) (CallType: SMA Toll-Free, country: , ToCountry: Denmark)": "0.3225000000",
-        "US East (N. Virginia) (CallType: SMA Toll-Free, country: , ToCountry: Denmark)": "0.3225000000"
+        "US West (Oregon) (CallType: SMA Toll-Free, ToCountry: Denmark)": "0.3225000000",
+        "US East (N. Virginia) (CallType: SMA Toll-Free, ToCountry: Denmark)": "0.3225000000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Denmark": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Denmark)": "0.0257800000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Denmark)": "0.0257800000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Denmark)": "0.0257800000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Denmark)": "0.0257800000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Dominican Republic": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Dominican Republic)": "0.2767000000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Dominican Republic)": "0.2767000000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Dominican Republic)": "0.2767000000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Dominican Republic)": "0.2767000000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Ecuador": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Ecuador)": "0.4927500000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Ecuador)": "0.4927500000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Ecuador)": "0.4927500000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Ecuador)": "0.4927500000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Egypt": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Egypt)": "0.2917500000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Egypt)": "0.2917500000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Egypt)": "0.2917500000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Egypt)": "0.2917500000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard El Salvador": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: El Salvador)": "0.4131000000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: El Salvador)": "0.4131000000"
+        "US West (Oregon) (CallType: Standard, ToCountry: El Salvador)": "0.4131000000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: El Salvador)": "0.4131000000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Ethiopia": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Ethiopia)": "0.4789500000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Ethiopia)": "0.4789500000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Ethiopia)": "0.4789500000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Ethiopia)": "0.4789500000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Faroe Islands": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Faroe Islands)": "0.4429500000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Faroe Islands)": "0.4429500000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Faroe Islands)": "0.4429500000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Faroe Islands)": "0.4429500000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Fiji": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Fiji)": "0.5358000000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Fiji)": "0.5358000000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Fiji)": "0.5358000000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Fiji)": "0.5358000000"
     },
     "[ChimeVoiceConnector SMA Local] ChimeVoiceConnector SMA Local Finland": {
-        "US West (Oregon) (CallType: SMA Local, country: , ToCountry: Finland)": "0.0032210000",
-        "US East (N. Virginia) (CallType: SMA Local, country: , ToCountry: Finland)": "0.0032210000"
+        "US West (Oregon) (CallType: SMA Local, ToCountry: Finland)": "0.0032210000",
+        "US East (N. Virginia) (CallType: SMA Local, ToCountry: Finland)": "0.0032210000"
     },
     "[ChimeVoiceConnector SMA Toll Free] ChimeVoiceConnector SMA Toll Free Finland": {
-        "US West (Oregon) (CallType: SMA Toll-Free, country: , ToCountry: Finland)": "0.2376020000",
-        "US East (N. Virginia) (CallType: SMA Toll-Free, country: , ToCountry: Finland)": "0.2376020000"
+        "US West (Oregon) (CallType: SMA Toll-Free, ToCountry: Finland)": "0.2376020000",
+        "US East (N. Virginia) (CallType: SMA Toll-Free, ToCountry: Finland)": "0.2376020000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Finland": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Finland)": "0.0546800000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Finland)": "0.0546800000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Finland)": "0.0546800000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Finland)": "0.0546800000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard France": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: France)": "0.0692000000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: France)": "0.0692000000"
+        "US West (Oregon) (CallType: Standard, ToCountry: France)": "0.0692000000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: France)": "0.0692000000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard French Guiana": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: French Guiana)": "0.2220000000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: French Guiana)": "0.2220000000"
+        "US West (Oregon) (CallType: Standard, ToCountry: French Guiana)": "0.2220000000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: French Guiana)": "0.2220000000"
     },
     "[ChimeVoiceConnector SMA Local] ChimeVoiceConnector SMA Local Germany": {
-        "US West (Oregon) (CallType: SMA Local, country: , ToCountry: Germany)": "0.0032210000",
-        "US East (N. Virginia) (CallType: SMA Local, country: , ToCountry: Germany)": "0.0032210000"
+        "US West (Oregon) (CallType: SMA Local, ToCountry: Germany)": "0.0032210000",
+        "US East (N. Virginia) (CallType: SMA Local, ToCountry: Germany)": "0.0032210000"
     },
     "[ChimeVoiceConnector SMA Toll Free] ChimeVoiceConnector SMA Toll Free Germany": {
-        "US West (Oregon) (CallType: SMA Toll-Free, country: , ToCountry: Germany)": "0.1680000000",
-        "US East (N. Virginia) (CallType: SMA Toll-Free, country: , ToCountry: Germany)": "0.1680000000"
+        "US West (Oregon) (CallType: SMA Toll-Free, ToCountry: Germany)": "0.1680000000",
+        "US East (N. Virginia) (CallType: SMA Toll-Free, ToCountry: Germany)": "0.1680000000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Germany": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Germany)": "0.0389200000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Germany)": "0.0389200000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Germany)": "0.0389200000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Germany)": "0.0389200000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Gibraltar": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Gibraltar)": "0.3105000000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Gibraltar)": "0.3105000000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Gibraltar)": "0.3105000000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Gibraltar)": "0.3105000000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Greece": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Greece)": "0.2566900000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Greece)": "0.2566900000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Greece)": "0.2566900000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Greece)": "0.2566900000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Guadeloupe": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Guadeloupe)": "0.2053500000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Guadeloupe)": "0.2053500000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Guadeloupe)": "0.2053500000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Guadeloupe)": "0.2053500000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Guam": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Guam)": "0.0397500000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Guam)": "0.0397500000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Guam)": "0.0397500000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Guam)": "0.0397500000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Guatemala": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Guatemala)": "0.3417000000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Guatemala)": "0.3417000000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Guatemala)": "0.3417000000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Guatemala)": "0.3417000000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Guyana": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Guyana)": "0.6073500000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Guyana)": "0.6073500000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Guyana)": "0.6073500000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Guyana)": "0.6073500000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Hong Kong": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Hong Kong)": "0.0789600000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Hong Kong)": "0.0789600000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Hong Kong)": "0.0789600000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Hong Kong)": "0.0789600000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Hungary": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Hungary)": "0.0920000000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Hungary)": "0.0920000000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Hungary)": "0.0920000000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Hungary)": "0.0920000000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Iceland": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Iceland)": "0.0508500000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Iceland)": "0.0508500000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Iceland)": "0.0508500000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Iceland)": "0.0508500000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard India": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: India)": "0.0220500000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: India)": "0.0220500000"
+        "US West (Oregon) (CallType: Standard, ToCountry: India)": "0.0220500000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: India)": "0.0220500000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Indonesia": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Indonesia)": "0.1095000000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Indonesia)": "0.1095000000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Indonesia)": "0.1095000000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Indonesia)": "0.1095000000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Iraq": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Iraq)": "0.4228500000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Iraq)": "0.4228500000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Iraq)": "0.4228500000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Iraq)": "0.4228500000"
     },
     "[ChimeVoiceConnector SMA Local] ChimeVoiceConnector SMA Local Ireland": {
-        "US West (Oregon) (CallType: SMA Local, country: , ToCountry: Ireland)": "0.0032210000",
-        "US East (N. Virginia) (CallType: SMA Local, country: , ToCountry: Ireland)": "0.0032210000"
+        "US West (Oregon) (CallType: SMA Local, ToCountry: Ireland)": "0.0032210000",
+        "US East (N. Virginia) (CallType: SMA Local, ToCountry: Ireland)": "0.0032210000"
     },
     "[ChimeVoiceConnector SMA Toll Free] ChimeVoiceConnector SMA Toll Free Ireland": {
-        "US West (Oregon) (CallType: SMA Toll-Free, country: , ToCountry: Ireland)": "0.5747300000",
-        "US East (N. Virginia) (CallType: SMA Toll-Free, country: , ToCountry: Ireland)": "0.5747300000"
+        "US West (Oregon) (CallType: SMA Toll-Free, ToCountry: Ireland)": "0.5747300000",
+        "US East (N. Virginia) (CallType: SMA Toll-Free, ToCountry: Ireland)": "0.5747300000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Ireland": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Ireland)": "0.0289100000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Ireland)": "0.0289100000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Ireland)": "0.0289100000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Ireland)": "0.0289100000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Israel": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Israel)": "0.0386800000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Israel)": "0.0386800000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Israel)": "0.0386800000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Israel)": "0.0386800000"
     },
     "[ChimeVoiceConnector SMA Local] ChimeVoiceConnector SMA Local Italy": {
-        "US West (Oregon) (CallType: SMA Local, country: , ToCountry: Italy)": "0.0032210000",
-        "US East (N. Virginia) (CallType: SMA Local, country: , ToCountry: Italy)": "0.0032210000"
+        "US West (Oregon) (CallType: SMA Local, ToCountry: Italy)": "0.0032210000",
+        "US East (N. Virginia) (CallType: SMA Local, ToCountry: Italy)": "0.0032210000"
     },
     "[ChimeVoiceConnector SMA Toll Free] ChimeVoiceConnector SMA Toll Free Italy": {
-        "US West (Oregon) (CallType: SMA Toll-Free, country: , ToCountry: Italy)": "0.3594300000",
-        "US East (N. Virginia) (CallType: SMA Toll-Free, country: , ToCountry: Italy)": "0.3594300000"
+        "US West (Oregon) (CallType: SMA Toll-Free, ToCountry: Italy)": "0.3594300000",
+        "US East (N. Virginia) (CallType: SMA Toll-Free, ToCountry: Italy)": "0.3594300000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Italy": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Italy)": "0.0842000000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Italy)": "0.0842000000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Italy)": "0.0842000000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Italy)": "0.0842000000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Jamaica": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Jamaica)": "0.4905000000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Jamaica)": "0.4905000000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Jamaica)": "0.4905000000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Jamaica)": "0.4905000000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Japan": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Japan)": "0.0648000000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Japan)": "0.0648000000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Japan)": "0.0648000000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Japan)": "0.0648000000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Jordan": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Jordan)": "0.3409500000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Jordan)": "0.3409500000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Jordan)": "0.3409500000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Jordan)": "0.3409500000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Kazakhstan": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Kazakhstan)": "0.3724500000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Kazakhstan)": "0.3724500000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Kazakhstan)": "0.3724500000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Kazakhstan)": "0.3724500000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Kenya": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Kenya)": "0.5118000000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Kenya)": "0.5118000000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Kenya)": "0.5118000000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Kenya)": "0.5118000000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Kuwait": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Kuwait)": "0.1987500000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Kuwait)": "0.1987500000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Kuwait)": "0.1987500000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Kuwait)": "0.1987500000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Lao PDR": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Lao PDR)": "0.1767000000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Lao PDR)": "0.1767000000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Lao PDR)": "0.1767000000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Lao PDR)": "0.1767000000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Latvia": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Latvia)": "0.1834000000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Latvia)": "0.1834000000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Latvia)": "0.1834000000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Latvia)": "0.1834000000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Lebanon": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Lebanon)": "0.3949500000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Lebanon)": "0.3949500000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Lebanon)": "0.3949500000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Lebanon)": "0.3949500000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Liechtenstein": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Liechtenstein)": "0.4264500000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Liechtenstein)": "0.4264500000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Liechtenstein)": "0.4264500000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Liechtenstein)": "0.4264500000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Lithuania": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Lithuania)": "0.1214800000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Lithuania)": "0.1214800000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Lithuania)": "0.1214800000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Lithuania)": "0.1214800000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Luxembourg": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Luxembourg)": "0.0674600000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Luxembourg)": "0.0674600000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Luxembourg)": "0.0674600000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Luxembourg)": "0.0674600000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Macao": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Macao)": "0.2073000000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Macao)": "0.2073000000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Macao)": "0.2073000000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Macao)": "0.2073000000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Malaysia": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Malaysia)": "0.0898500000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Malaysia)": "0.0898500000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Malaysia)": "0.0898500000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Malaysia)": "0.0898500000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Malta": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Malta)": "0.0197700000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Malta)": "0.0197700000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Malta)": "0.0197700000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Malta)": "0.0197700000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Marshall Islands": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Marshall Islands)": "0.4882500000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Marshall Islands)": "0.4882500000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Marshall Islands)": "0.4882500000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Marshall Islands)": "0.4882500000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Martinique": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Martinique)": "0.2091000000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Martinique)": "0.2091000000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Martinique)": "0.2091000000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Martinique)": "0.2091000000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Mauritius": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Mauritius)": "0.3036000000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Mauritius)": "0.3036000000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Mauritius)": "0.3036000000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Mauritius)": "0.3036000000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Mexico": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Mexico)": "0.0162500000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Mexico)": "0.0162500000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Mexico)": "0.0162500000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Mexico)": "0.0162500000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Mongolia": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Mongolia)": "0.1057500000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Mongolia)": "0.1057500000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Mongolia)": "0.1057500000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Mongolia)": "0.1057500000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Namibia": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Namibia)": "0.1738500000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Namibia)": "0.1738500000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Namibia)": "0.1738500000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Namibia)": "0.1738500000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Nepal": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Nepal)": "0.3033000000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Nepal)": "0.3033000000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Nepal)": "0.3033000000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Nepal)": "0.3033000000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Netherlands": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Netherlands)": "0.1272600000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Netherlands)": "0.1272600000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Netherlands)": "0.1272600000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Netherlands)": "0.1272600000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Netherlands Antilles": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Netherlands Antilles)": "0.2298000000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Netherlands Antilles)": "0.2298000000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Netherlands Antilles)": "0.2298000000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Netherlands Antilles)": "0.2298000000"
     },
     "[ChimeVoiceConnector SMA Local] ChimeVoiceConnector SMA Local New Zealand": {
-        "US West (Oregon) (CallType: SMA Local, country: , ToCountry: New Zealand)": "0.0070360000",
-        "US East (N. Virginia) (CallType: SMA Local, country: , ToCountry: New Zealand)": "0.0070360000"
+        "US West (Oregon) (CallType: SMA Local, ToCountry: New Zealand)": "0.0070360000",
+        "US East (N. Virginia) (CallType: SMA Local, ToCountry: New Zealand)": "0.0070360000"
     },
     "[ChimeVoiceConnector SMA Toll Free] ChimeVoiceConnector SMA Toll Free New Zealand": {
-        "US West (Oregon) (CallType: SMA Toll-Free, country: , ToCountry: New Zealand)": "0.2315390000",
-        "US East (N. Virginia) (CallType: SMA Toll-Free, country: , ToCountry: New Zealand)": "0.2315390000"
+        "US West (Oregon) (CallType: SMA Toll-Free, ToCountry: New Zealand)": "0.2315390000",
+        "US East (N. Virginia) (CallType: SMA Toll-Free, ToCountry: New Zealand)": "0.2315390000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard New Zealand": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: New Zealand)": "0.0614100000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: New Zealand)": "0.0614100000"
+        "US West (Oregon) (CallType: Standard, ToCountry: New Zealand)": "0.0614100000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: New Zealand)": "0.0614100000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Nicaragua": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Nicaragua)": "0.5193000000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Nicaragua)": "0.5193000000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Nicaragua)": "0.5193000000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Nicaragua)": "0.5193000000"
     },
     "[ChimeVoiceConnector SMA Local] ChimeVoiceConnector SMA Local Nigeria": {
-        "US West (Oregon) (CallType: SMA Local, country: , ToCountry: Nigeria)": "0.0030000000",
-        "US East (N. Virginia) (CallType: SMA Local, country: , ToCountry: Nigeria)": "0.0030000000"
+        "US West (Oregon) (CallType: SMA Local, ToCountry: Nigeria)": "0.0030000000",
+        "US East (N. Virginia) (CallType: SMA Local, ToCountry: Nigeria)": "0.0030000000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Nigeria": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Nigeria)": "0.2623500000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Nigeria)": "0.2623500000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Nigeria)": "0.2623500000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Nigeria)": "0.2623500000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Norway": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Norway)": "0.0253200000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Norway)": "0.0253200000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Norway)": "0.0253200000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Norway)": "0.0253200000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Pakistan": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Pakistan)": "0.1888500000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Pakistan)": "0.1888500000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Pakistan)": "0.1888500000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Pakistan)": "0.1888500000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Panama": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Panama)": "0.3336800000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Panama)": "0.3336800000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Panama)": "0.3336800000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Panama)": "0.3336800000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Paraguay": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Paraguay)": "0.1999500000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Paraguay)": "0.1999500000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Paraguay)": "0.1999500000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Paraguay)": "0.1999500000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Peru": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Peru)": "0.0645500000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Peru)": "0.0645500000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Peru)": "0.0645500000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Peru)": "0.0645500000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Philippines": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Philippines)": "0.2616000000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Philippines)": "0.2616000000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Philippines)": "0.2616000000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Philippines)": "0.2616000000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Poland": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Poland)": "0.1189800000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Poland)": "0.1189800000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Poland)": "0.1189800000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Poland)": "0.1189800000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Portugal": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Portugal)": "0.0894800000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Portugal)": "0.0894800000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Portugal)": "0.0894800000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Portugal)": "0.0894800000"
     },
     "[ChimeVoiceConnector SMA Local] ChimeVoiceConnector SMA Local Puerto Rico": {
-        "US West (Oregon) (CallType: SMA Local, country: , ToCountry: Puerto Rico)": "0.0022160000",
-        "US East (N. Virginia) (CallType: SMA Local, country: , ToCountry: Puerto Rico)": "0.0022160000"
+        "US West (Oregon) (CallType: SMA Local, ToCountry: Puerto Rico)": "0.0022160000",
+        "US East (N. Virginia) (CallType: SMA Local, ToCountry: Puerto Rico)": "0.0022160000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Puerto Rico": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Puerto Rico)": "0.0060000000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Puerto Rico)": "0.0060000000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Puerto Rico)": "0.0060000000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Puerto Rico)": "0.0060000000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Qatar": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Qatar)": "0.3534000000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Qatar)": "0.3534000000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Qatar)": "0.3534000000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Qatar)": "0.3534000000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Romania": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Romania)": "0.0362700000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Romania)": "0.0362700000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Romania)": "0.0362700000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Romania)": "0.0362700000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Russian Federation": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Russian Federation)": "0.3724500000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Russian Federation)": "0.3724500000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Russian Federation)": "0.3724500000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Russian Federation)": "0.3724500000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Saint Barthelemy": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Saint Barthelemy)": "0.2091000000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Saint Barthelemy)": "0.2091000000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Saint Barthelemy)": "0.2091000000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Saint Barthelemy)": "0.2091000000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Saint Martin French part": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Saint-Martin (French part))": "0.2091000000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Saint-Martin (French part))": "0.2091000000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Saint-Martin (French part))": "0.2091000000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Saint-Martin (French part))": "0.2091000000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Saudi Arabia": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Saudi Arabia)": "0.2127000000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Saudi Arabia)": "0.2127000000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Saudi Arabia)": "0.2127000000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Saudi Arabia)": "0.2127000000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Singapore": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Singapore)": "0.0204000000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Singapore)": "0.0204000000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Singapore)": "0.0204000000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Singapore)": "0.0204000000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Slovakia": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Slovakia)": "0.2163000000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Slovakia)": "0.2163000000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Slovakia)": "0.2163000000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Slovakia)": "0.2163000000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard South Africa": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: South Africa)": "0.0273250000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: South Africa)": "0.0273250000"
+        "US West (Oregon) (CallType: Standard, ToCountry: South Africa)": "0.0273250000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: South Africa)": "0.0273250000"
     },
     "[ChimeVoiceConnector SMA Toll Free] ChimeVoiceConnector SMA Toll Free South Korea": {
-        "US West (Oregon) (CallType: SMA Toll-Free, country: , ToCountry: South Korea)": "0.0631950000",
-        "US East (N. Virginia) (CallType: SMA Toll-Free, country: , ToCountry: South Korea)": "0.0631950000"
+        "US West (Oregon) (CallType: SMA Toll-Free, ToCountry: South Korea)": "0.0631950000",
+        "US East (N. Virginia) (CallType: SMA Toll-Free, ToCountry: South Korea)": "0.0631950000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard South Korea": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: South Korea)": "0.0331500000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: South Korea)": "0.0331500000"
+        "US West (Oregon) (CallType: Standard, ToCountry: South Korea)": "0.0331500000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: South Korea)": "0.0331500000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Spain": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Spain)": "0.0712200000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Spain)": "0.0712200000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Spain)": "0.0712200000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Spain)": "0.0712200000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Sri Lanka": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Sri Lanka)": "0.3726000000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Sri Lanka)": "0.3726000000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Sri Lanka)": "0.3726000000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Sri Lanka)": "0.3726000000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard St Maarten": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: St. Maarten)": "0.2220000000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: St. Maarten)": "0.2220000000"
+        "US West (Oregon) (CallType: Standard, ToCountry: St. Maarten)": "0.2220000000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: St. Maarten)": "0.2220000000"
     },
     "[ChimeVoiceConnector SMA Local] ChimeVoiceConnector SMA Local Sweden": {
-        "US West (Oregon) (CallType: SMA Local, country: , ToCountry: Sweden)": "0.0032210000",
-        "US East (N. Virginia) (CallType: SMA Local, country: , ToCountry: Sweden)": "0.0032210000"
+        "US West (Oregon) (CallType: SMA Local, ToCountry: Sweden)": "0.0032210000",
+        "US East (N. Virginia) (CallType: SMA Local, ToCountry: Sweden)": "0.0032210000"
     },
     "[ChimeVoiceConnector SMA Toll Free] ChimeVoiceConnector SMA Toll Free Sweden": {
-        "US West (Oregon) (CallType: SMA Toll-Free, country: , ToCountry: Sweden)": "0.1668610000",
-        "US East (N. Virginia) (CallType: SMA Toll-Free, country: , ToCountry: Sweden)": "0.1668610000"
+        "US West (Oregon) (CallType: SMA Toll-Free, ToCountry: Sweden)": "0.1668610000",
+        "US East (N. Virginia) (CallType: SMA Toll-Free, ToCountry: Sweden)": "0.1668610000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Sweden": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Sweden)": "0.0253600000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Sweden)": "0.0253600000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Sweden)": "0.0253600000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Sweden)": "0.0253600000"
     },
     "[ChimeVoiceConnector SMA Local] ChimeVoiceConnector SMA Local Switzerland": {
-        "US West (Oregon) (CallType: SMA Local, country: , ToCountry: Switzerland)": "0.0032210000",
-        "US East (N. Virginia) (CallType: SMA Local, country: , ToCountry: Switzerland)": "0.0032210000"
+        "US West (Oregon) (CallType: SMA Local, ToCountry: Switzerland)": "0.0032210000",
+        "US East (N. Virginia) (CallType: SMA Local, ToCountry: Switzerland)": "0.0032210000"
     },
     "[ChimeVoiceConnector SMA Toll Free] ChimeVoiceConnector SMA Toll Free Switzerland": {
-        "US West (Oregon) (CallType: SMA Toll-Free, country: , ToCountry: Switzerland)": "0.6024300000",
-        "US East (N. Virginia) (CallType: SMA Toll-Free, country: , ToCountry: Switzerland)": "0.6024300000"
+        "US West (Oregon) (CallType: SMA Toll-Free, ToCountry: Switzerland)": "0.6024300000",
+        "US East (N. Virginia) (CallType: SMA Toll-Free, ToCountry: Switzerland)": "0.6024300000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Switzerland": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Switzerland)": "0.1926000000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Switzerland)": "0.1926000000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Switzerland)": "0.1926000000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Switzerland)": "0.1926000000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Taiwan": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Taiwan)": "0.1596000000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Taiwan)": "0.1596000000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Taiwan)": "0.1596000000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Taiwan)": "0.1596000000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Tajikistan": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Tajikistan)": "0.4794000000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Tajikistan)": "0.4794000000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Tajikistan)": "0.4794000000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Tajikistan)": "0.4794000000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Thailand": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Thailand)": "0.1185000000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Thailand)": "0.1185000000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Thailand)": "0.1185000000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Thailand)": "0.1185000000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Trinidad and Tobago": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Trinidad and Tobago)": "0.4518000000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Trinidad and Tobago)": "0.4518000000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Trinidad and Tobago)": "0.4518000000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Trinidad and Tobago)": "0.4518000000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Turkey": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Turkey)": "0.4301800000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Turkey)": "0.4301800000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Turkey)": "0.4301800000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Turkey)": "0.4301800000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Turkmenistan": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Turkmenistan)": "0.3069000000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Turkmenistan)": "0.3069000000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Turkmenistan)": "0.3069000000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Turkmenistan)": "0.3069000000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard US Virgin Islands": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: US Virgin Islands)": "0.0048000000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: US Virgin Islands)": "0.0048000000"
+        "US West (Oregon) (CallType: Standard, ToCountry: US Virgin Islands)": "0.0048000000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: US Virgin Islands)": "0.0048000000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Ukraine": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Ukraine)": "0.4195600000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Ukraine)": "0.4195600000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Ukraine)": "0.4195600000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Ukraine)": "0.4195600000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard United Arab Emirates": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: United Arab Emirates)": "0.3714000000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: United Arab Emirates)": "0.3714000000"
+        "US West (Oregon) (CallType: Standard, ToCountry: United Arab Emirates)": "0.3714000000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: United Arab Emirates)": "0.3714000000"
     },
     "[ChimeVoiceConnector SMA Local] ChimeVoiceConnector SMA Local United Kingdom": {
-        "US West (Oregon) (CallType: SMA Local, country: , ToCountry: United Kingdom)": "0.0032210000",
-        "US East (N. Virginia) (CallType: SMA Local, country: , ToCountry: United Kingdom)": "0.0032210000"
+        "US West (Oregon) (CallType: SMA Local, ToCountry: United Kingdom)": "0.0032210000",
+        "US East (N. Virginia) (CallType: SMA Local, ToCountry: United Kingdom)": "0.0032210000"
     },
     "[ChimeVoiceConnector SMA Toll Free] ChimeVoiceConnector SMA Toll Free United Kingdom": {
-        "US West (Oregon) (CallType: SMA Toll-Free, country: , ToCountry: United Kingdom)": "0.0911510000",
-        "US East (N. Virginia) (CallType: SMA Toll-Free, country: , ToCountry: United Kingdom)": "0.0911510000"
+        "US West (Oregon) (CallType: SMA Toll-Free, ToCountry: United Kingdom)": "0.0911510000",
+        "US East (N. Virginia) (CallType: SMA Toll-Free, ToCountry: United Kingdom)": "0.0911510000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard United Kingdom": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: United Kingdom)": "0.0190000000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: United Kingdom)": "0.0190000000"
+        "US West (Oregon) (CallType: Standard, ToCountry: United Kingdom)": "0.0190000000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: United Kingdom)": "0.0190000000"
     },
     "[ChimeVoiceConnector SMA Local] ChimeVoiceConnector SMA Local United States of America": {
-        "US West (Oregon) (CallType: SMA Local, country: , ToCountry: United States of America)": "0.0022160000",
-        "US East (N. Virginia) (CallType: SMA Local, country: , ToCountry: United States of America)": "0.0022160000"
+        "US West (Oregon) (CallType: SMA Local, ToCountry: United States of America)": "0.0022160000",
+        "US East (N. Virginia) (CallType: SMA Local, ToCountry: United States of America)": "0.0022160000"
     },
     "[ChimeVoiceConnector SMA Toll Free] ChimeVoiceConnector SMA Toll Free United States of America": {
-        "US West (Oregon) (CallType: SMA Toll-Free, country: , ToCountry: United States of America)": "0.0119100000",
-        "US East (N. Virginia) (CallType: SMA Toll-Free, country: , ToCountry: United States of America)": "0.0119100000"
+        "US West (Oregon) (CallType: SMA Toll-Free, ToCountry: United States of America)": "0.0119100000",
+        "US East (N. Virginia) (CallType: SMA Toll-Free, ToCountry: United States of America)": "0.0119100000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard United States of America": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: United States of America)": "0.0048000000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: United States of America)": "0.0048000000"
+        "US West (Oregon) (CallType: Standard, ToCountry: United States of America)": "0.0048000000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: United States of America)": "0.0048000000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Uruguay": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Uruguay)": "0.3402000000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Uruguay)": "0.3402000000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Uruguay)": "0.3402000000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Uruguay)": "0.3402000000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Uzbekistan": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Uzbekistan)": "0.1911000000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Uzbekistan)": "0.1911000000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Uzbekistan)": "0.1911000000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Uzbekistan)": "0.1911000000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Vatican": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Vatican)": "0.1711500000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Vatican)": "0.1711500000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Vatican)": "0.1711500000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Vatican)": "0.1711500000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Venezuela": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Venezuela)": "0.2839500000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Venezuela)": "0.2839500000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Venezuela)": "0.2839500000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Venezuela)": "0.2839500000"
     },
     "[ChimeVoiceConnector Standard] ChimeVoiceConnector Standard Viet Nam": {
-        "US West (Oregon) (CallType: Standard, country: , ToCountry: Viet Nam)": "0.1237500000",
-        "US East (N. Virginia) (CallType: Standard, country: , ToCountry: Viet Nam)": "0.1237500000"
+        "US West (Oregon) (CallType: Standard, ToCountry: Viet Nam)": "0.1237500000",
+        "US East (N. Virginia) (CallType: Standard, ToCountry: Viet Nam)": "0.1237500000"
     },
     "[ChimeVoiceConnector SMA Outbound] ChimeVoiceConnector SMA Outbound United States of America Ukraine": {
         "US West (Oregon) (CallType: SMA Outbound, country: United States of America, ToCountry: Ukraine)": "0.4195600000",
@@ -1988,90 +1988,90 @@
         "US East (N. Virginia)": "0.0022160000"
     },
     "[ChimeVoiceConnector DDI] ChimeVoiceConnector DDI Australia": {
-        "US East (N. Virginia) (operation: , CallType: , NumberType: DDI, country: Australia, ToCountry: )": "2.2500000000"
+        "US East (N. Virginia) (NumberType: DDI, country: Australia)": "2.2500000000"
     },
     "[ChimeVoiceConnector Toll Free] ChimeVoiceConnector Toll Free Australia": {
-        "US East (N. Virginia) (operation: , CallType: , NumberType: Toll Free, country: Australia, ToCountry: )": "7.5000000000"
+        "US East (N. Virginia) (NumberType: Toll Free, country: Australia)": "7.5000000000"
     },
     "[ChimeVoiceConnector DDI] ChimeVoiceConnector DDI Austria": {
-        "US East (N. Virginia) (operation: , CallType: , NumberType: DDI, country: Austria, ToCountry: )": "0.4950000000"
+        "US East (N. Virginia) (NumberType: DDI, country: Austria)": "0.4950000000"
     },
     "[ChimeVoiceConnector Toll Free] ChimeVoiceConnector Toll Free Austria": {
-        "US East (N. Virginia) (operation: , CallType: , NumberType: Toll Free, country: Austria, ToCountry: )": "4.4550000000"
+        "US East (N. Virginia) (NumberType: Toll Free, country: Austria)": "4.4550000000"
     },
     "[ChimeVoiceConnector DDI] ChimeVoiceConnector DDI Canada": {
-        "US East (N. Virginia) (operation: , CallType: , NumberType: DDI, country: Canada, ToCountry: )": "1.0000000000"
+        "US East (N. Virginia) (NumberType: DDI, country: Canada)": "1.0000000000"
     },
     "[ChimeVoiceConnector Toll Free] ChimeVoiceConnector Toll Free Canada": {
-        "US East (N. Virginia) (operation: , CallType: , NumberType: Toll Free, country: Canada, ToCountry: )": "1.0000000000"
+        "US East (N. Virginia) (NumberType: Toll Free, country: Canada)": "1.0000000000"
     },
     "[ChimeVoiceConnector DDI] ChimeVoiceConnector DDI Denmark": {
-        "US East (N. Virginia) (operation: , CallType: , NumberType: DDI, country: Denmark, ToCountry: )": "0.3750000000"
+        "US East (N. Virginia) (NumberType: DDI, country: Denmark)": "0.3750000000"
     },
     "[ChimeVoiceConnector Toll Free] ChimeVoiceConnector Toll Free Denmark": {
-        "US East (N. Virginia) (operation: , CallType: , NumberType: Toll Free, country: Denmark, ToCountry: )": "6.9750000000"
+        "US East (N. Virginia) (NumberType: Toll Free, country: Denmark)": "6.9750000000"
     },
     "[ChimeVoiceConnector DDI] ChimeVoiceConnector DDI Finland": {
-        "US East (N. Virginia) (operation: , CallType: , NumberType: DDI, country: Finland, ToCountry: )": "0.4500000000"
+        "US East (N. Virginia) (NumberType: DDI, country: Finland)": "0.4500000000"
     },
     "[ChimeVoiceConnector Toll Free] ChimeVoiceConnector Toll Free Finland": {
-        "US East (N. Virginia) (operation: , CallType: , NumberType: Toll Free, country: Finland, ToCountry: )": "13.6950000000"
+        "US East (N. Virginia) (NumberType: Toll Free, country: Finland)": "13.6950000000"
     },
     "[ChimeVoiceConnector DDI] ChimeVoiceConnector DDI Germany": {
-        "US East (N. Virginia) (operation: , CallType: , NumberType: DDI, country: Germany, ToCountry: )": "0.3300000000"
+        "US East (N. Virginia) (NumberType: DDI, country: Germany)": "0.3300000000"
     },
     "[ChimeVoiceConnector Toll Free] ChimeVoiceConnector Toll Free Germany": {
-        "US East (N. Virginia) (operation: , CallType: , NumberType: Toll Free, country: Germany, ToCountry: )": "13.6950000000"
+        "US East (N. Virginia) (NumberType: Toll Free, country: Germany)": "13.6950000000"
     },
     "[ChimeVoiceConnector DDI] ChimeVoiceConnector DDI Ireland": {
-        "US East (N. Virginia) (operation: , CallType: , NumberType: DDI, country: Ireland, ToCountry: )": "0.2500000000"
+        "US East (N. Virginia) (NumberType: DDI, country: Ireland)": "0.2500000000"
     },
     "[ChimeVoiceConnector Toll Free] ChimeVoiceConnector Toll Free Ireland": {
-        "US East (N. Virginia) (operation: , CallType: , NumberType: Toll Free, country: Ireland, ToCountry: )": "5.1500000000"
+        "US East (N. Virginia) (NumberType: Toll Free, country: Ireland)": "5.1500000000"
     },
     "[ChimeVoiceConnector DDI] ChimeVoiceConnector DDI Italy": {
-        "US East (N. Virginia) (operation: , CallType: , NumberType: DDI, country: Italy, ToCountry: )": "0.4000000000"
+        "US East (N. Virginia) (NumberType: DDI, country: Italy)": "0.4000000000"
     },
     "[ChimeVoiceConnector Toll Free] ChimeVoiceConnector Toll Free Italy": {
-        "US East (N. Virginia) (operation: , CallType: , NumberType: Toll Free, country: Italy, ToCountry: )": "5.1500000000"
+        "US East (N. Virginia) (NumberType: Toll Free, country: Italy)": "5.1500000000"
     },
     "[ChimeVoiceConnector DDI] ChimeVoiceConnector DDI New Zealand": {
-        "US East (N. Virginia) (operation: , CallType: , NumberType: DDI, country: New Zealand, ToCountry: )": "3.3000000000"
+        "US East (N. Virginia) (NumberType: DDI, country: New Zealand)": "3.3000000000"
     },
     "[ChimeVoiceConnector Toll Free] ChimeVoiceConnector Toll Free New Zealand": {
-        "US East (N. Virginia) (operation: , CallType: , NumberType: Toll Free, country: New Zealand, ToCountry: )": "10.5000000000"
+        "US East (N. Virginia) (NumberType: Toll Free, country: New Zealand)": "10.5000000000"
     },
     "[ChimeVoiceConnector DDI] ChimeVoiceConnector DDI Nigeria": {
-        "US East (N. Virginia) (operation: , CallType: , NumberType: DDI, country: Nigeria, ToCountry: )": "36.0000000000"
+        "US East (N. Virginia) (NumberType: DDI, country: Nigeria)": "36.0000000000"
     },
     "[ChimeVoiceConnector DDI] ChimeVoiceConnector DDI Puerto Rico": {
-        "US East (N. Virginia) (operation: , CallType: , NumberType: DDI, country: Puerto Rico, ToCountry: )": "1.0000000000"
+        "US East (N. Virginia) (NumberType: DDI, country: Puerto Rico)": "1.0000000000"
     },
     "[ChimeVoiceConnector Toll Free] ChimeVoiceConnector Toll Free South Korea": {
-        "US East (N. Virginia) (operation: , CallType: , NumberType: Toll Free, country: South Korea, ToCountry: )": "19.5000000000"
+        "US East (N. Virginia) (NumberType: Toll Free, country: South Korea)": "19.5000000000"
     },
     "[ChimeVoiceConnector DDI] ChimeVoiceConnector DDI Sweden": {
-        "US East (N. Virginia) (operation: , CallType: , NumberType: DDI, country: Sweden, ToCountry: )": "0.3000000000"
+        "US East (N. Virginia) (NumberType: DDI, country: Sweden)": "0.3000000000"
     },
     "[ChimeVoiceConnector Toll Free] ChimeVoiceConnector Toll Free Sweden": {
-        "US East (N. Virginia) (operation: , CallType: , NumberType: Toll Free, country: Sweden, ToCountry: )": "5.0000000000"
+        "US East (N. Virginia) (NumberType: Toll Free, country: Sweden)": "5.0000000000"
     },
     "[ChimeVoiceConnector DDI] ChimeVoiceConnector DDI Switzerland": {
-        "US East (N. Virginia) (operation: , CallType: , NumberType: DDI, country: Switzerland, ToCountry: )": "0.3750000000"
+        "US East (N. Virginia) (NumberType: DDI, country: Switzerland)": "0.3750000000"
     },
     "[ChimeVoiceConnector Toll Free] ChimeVoiceConnector Toll Free Switzerland": {
-        "US East (N. Virginia) (operation: , CallType: , NumberType: Toll Free, country: Switzerland, ToCountry: )": "9.0750000000"
+        "US East (N. Virginia) (NumberType: Toll Free, country: Switzerland)": "9.0750000000"
     },
     "[ChimeVoiceConnector DDI] ChimeVoiceConnector DDI United Kingdom": {
-        "US East (N. Virginia) (operation: , CallType: , NumberType: DDI, country: United Kingdom, ToCountry: )": "0.2250000000"
+        "US East (N. Virginia) (NumberType: DDI, country: United Kingdom)": "0.2250000000"
     },
     "[ChimeVoiceConnector Toll Free] ChimeVoiceConnector Toll Free United Kingdom": {
-        "US East (N. Virginia) (operation: , CallType: , NumberType: Toll Free, country: United Kingdom, ToCountry: )": "1.9350000000"
+        "US East (N. Virginia) (NumberType: Toll Free, country: United Kingdom)": "1.9350000000"
     },
     "[ChimeVoiceConnector DDI] ChimeVoiceConnector DDI United States of America": {
-        "US East (N. Virginia) (operation: , CallType: , NumberType: DDI, country: United States of America, ToCountry: )": "1.0000000000"
+        "US East (N. Virginia) (NumberType: DDI, country: United States of America)": "1.0000000000"
     },
     "[ChimeVoiceConnector Toll Free] ChimeVoiceConnector Toll Free United States of America": {
-        "US East (N. Virginia) (operation: , CallType: , NumberType: Toll Free, country: United States of America, ToCountry: )": "1.0000000000"
+        "US East (N. Virginia) (NumberType: Toll Free, country: United States of America)": "1.0000000000"
     }
 }
