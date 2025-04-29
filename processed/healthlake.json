@@ -1,0 +1,206 @@
+{
+    "FHIRDataStorage per GB-Mo from 10 to Inf": {
+        "Regionless": [
+            "0.2500000000"
+        ],
+        "US West (Oregon)": [
+            "0.2500000000"
+        ],
+        "US East (Ohio)": [
+            "0.2500000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.2500000000"
+        ],
+        "EU (London)": [
+            "0.2875000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.2675000000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.2500000000"
+        ]
+    },
+    "FHIRQueries per Queries from 0 to 2520000": {
+        "Regionless": [
+            "0.0000000000"
+        ],
+        "US West (Oregon)": [
+            "0.0000000000"
+        ],
+        "US East (Ohio)": [
+            "0.0000000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0000000000"
+        ],
+        "EU (London)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0000000000"
+        ]
+    },
+    "AdvancedDataStorage per GB-Mo from 10 to Inf": {
+        "Regionless": [
+            "0.3700000000"
+        ],
+        "US West (Oregon)": [
+            "0.3700000000"
+        ],
+        "US East (Ohio)": [
+            "0.3700000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.3700000000"
+        ],
+        "EU (London)": [
+            "0.4255000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.3959000000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.3700000000"
+        ]
+    },
+    "FHIRQueries per Queries from 2520000 to Inf": {
+        "Regionless": [
+            "0.0000015000"
+        ],
+        "US West (Oregon)": [
+            "0.0000015000"
+        ],
+        "US East (Ohio)": [
+            "0.0000015000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0000015000"
+        ],
+        "EU (London)": [
+            "0.0000017250"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0000016050"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0000015000"
+        ]
+    },
+    "FHIRDataExport per GB": {
+        "Regionless": [
+            "0.1900000000"
+        ],
+        "US West (Oregon)": [
+            "0.1900000000"
+        ],
+        "US East (Ohio)": [
+            "0.1900000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.1900000000"
+        ],
+        "EU (London)": [
+            "0.2185000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.2033000000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.1900000000"
+        ]
+    },
+    "FHIRDataStorage per GB-Mo from 0 to 10": {
+        "Regionless": [
+            "0.0000000000"
+        ],
+        "US West (Oregon)": [
+            "0.0000000000"
+        ],
+        "US East (Ohio)": [
+            "0.0000000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0000000000"
+        ],
+        "EU (London)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0000000000"
+        ]
+    },
+    "FHIRDataStore per hours": {
+        "Regionless": [
+            "0.2700000000"
+        ],
+        "US West (Oregon)": [
+            "0.2700000000"
+        ],
+        "US East (Ohio)": [
+            "0.2700000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.2700000000"
+        ],
+        "EU (London)": [
+            "0.3105000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.2889000000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.2700000000"
+        ]
+    },
+    "AdvancedDataStorage per GB-Mo from 0 to 10": {
+        "Regionless": [
+            "0.0000000000"
+        ],
+        "US West (Oregon)": [
+            "0.0000000000"
+        ],
+        "US East (Ohio)": [
+            "0.0000000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0000000000"
+        ],
+        "EU (London)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0000000000"
+        ]
+    },
+    "IntegratedMedicalNLP per Units": {
+        "Regionless": [
+            "0.0010000000"
+        ],
+        "US West (Oregon)": [
+            "0.0010000000"
+        ],
+        "US East (Ohio)": [
+            "0.0010000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0010000000"
+        ],
+        "EU (London)": [
+            "0.0011500000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0010700000"
+        ]
+    }
+}

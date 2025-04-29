@@ -1,0 +1,938 @@
+{
+    "Data Transfer AWS In Destination Asia Pacific": {
+        "Regionless": [
+            "0.0450000000"
+        ],
+        "ZA": [
+            "0.0450000000"
+        ],
+        "SA": [
+            "0.0410000000"
+        ],
+        "NA": [
+            "0.0350000000"
+        ],
+        "ME": [
+            "0.0290000000"
+        ],
+        "KR": [
+            "0.0430000000"
+        ],
+        "IN": [
+            "0.0230000000"
+        ],
+        "EU": [
+            "0.0330000000"
+        ],
+        "AU": [
+            "0.0740000000"
+        ],
+        "AP": [
+            "0.0100000000"
+        ]
+    },
+    "Data Transfer AWS In Destination Australia": {
+        "Regionless": [
+            "0.0910000000"
+        ],
+        "ZA": [
+            "0.0910000000"
+        ],
+        "SA": [
+            "0.0830000000"
+        ],
+        "NA": [
+            "0.1050000000"
+        ],
+        "ME": [
+            "0.0820000000"
+        ],
+        "KR": [
+            "0.0800000000"
+        ],
+        "IN": [
+            "0.0940000000"
+        ],
+        "EU": [
+            "0.1050000000"
+        ],
+        "AU": [
+            "0.0070000000"
+        ],
+        "AP": [
+            "0.0800000000"
+        ]
+    },
+    "Data Transfer AWS In Destination Europe": {
+        "Regionless": [
+            "0.0380000000"
+        ],
+        "ZA": [
+            "0.0380000000"
+        ],
+        "SA": [
+            "0.0350000000"
+        ],
+        "NA": [
+            "0.0150000000"
+        ],
+        "ME": [
+            "0.0290000000"
+        ],
+        "KR": [
+            "0.0200000000"
+        ],
+        "IN": [
+            "0.0230000000"
+        ],
+        "EU": [
+            "0.0150000000"
+        ],
+        "AU": [
+            "0.0700000000"
+        ],
+        "AP": [
+            "0.0430000000"
+        ]
+    },
+    "Data Transfer AWS In Destination India": {
+        "Regionless": [
+            "0.0580000000"
+        ],
+        "ZA": [
+            "0.0580000000"
+        ],
+        "SA": [
+            "0.0590000000"
+        ],
+        "NA": [
+            "0.0350000000"
+        ],
+        "ME": [
+            "0.0290000000"
+        ],
+        "KR": [
+            "0.0670000000"
+        ],
+        "IN": [
+            "0.0230000000"
+        ],
+        "EU": [
+            "0.0330000000"
+        ],
+        "AU": [
+            "0.1010000000"
+        ],
+        "AP": [
+            "0.0320000000"
+        ]
+    },
+    "Data Transfer AWS In Destination South Korea": {
+        "Regionless": [
+            "0.0570000000"
+        ],
+        "ZA": [
+            "0.0570000000"
+        ],
+        "SA": [
+            "0.0560000000"
+        ],
+        "NA": [
+            "0.0350000000"
+        ],
+        "ME": [
+            "0.0470000000"
+        ],
+        "KR": [
+            "0.0430000000"
+        ],
+        "IN": [
+            "0.0720000000"
+        ],
+        "EU": [
+            "0.0350000000"
+        ],
+        "AU": [
+            "0.0910000000"
+        ],
+        "AP": [
+            "0.0580000000"
+        ]
+    },
+    "Data Transfer AWS In Destination Middle East": {
+        "Regionless": [
+            "0.0670000000"
+        ],
+        "ZA": [
+            "0.0670000000"
+        ],
+        "SA": [
+            "0.0570000000"
+        ],
+        "NA": [
+            "0.0350000000"
+        ],
+        "ME": [
+            "0.0570000000"
+        ],
+        "KR": [
+            "0.0500000000"
+        ],
+        "IN": [
+            "0.0740000000"
+        ],
+        "EU": [
+            "0.0350000000"
+        ],
+        "AU": [
+            "0.0840000000"
+        ],
+        "AP": [
+            "0.0550000000"
+        ]
+    },
+    "Data Transfer AWS In Destination United States and Canada": {
+        "Regionless": [
+            "0.0430000000"
+        ],
+        "ZA": [
+            "0.0430000000"
+        ],
+        "SA": [
+            "0.0320000000"
+        ],
+        "NA": [
+            "0.0150000000"
+        ],
+        "ME": [
+            "0.0320000000"
+        ],
+        "KR": [
+            "0.0170000000"
+        ],
+        "IN": [
+            "0.0250000000"
+        ],
+        "EU": [
+            "0.0150000000"
+        ],
+        "AU": [
+            "0.0700000000"
+        ],
+        "AP": [
+            "0.0120000000"
+        ]
+    },
+    "Data Transfer AWS In Destination South America": {
+        "Regionless": [
+            "0.0710000000"
+        ],
+        "ZA": [
+            "0.0710000000"
+        ],
+        "SA": [
+            "0.0240000000"
+        ],
+        "NA": [
+            "0.0400000000"
+        ],
+        "ME": [
+            "0.0610000000"
+        ],
+        "KR": [
+            "0.0490000000"
+        ],
+        "IN": [
+            "0.0570000000"
+        ],
+        "EU": [
+            "0.0430000000"
+        ],
+        "AU": [
+            "0.0880000000"
+        ],
+        "AP": [
+            "0.0490000000"
+        ]
+    },
+    "Data Transfer AWS In Destination ZA": {
+        "Regionless": [
+            "0.0100000000"
+        ],
+        "ZA": [
+            "0.0100000000"
+        ],
+        "SA": [
+            "0.0670000000"
+        ],
+        "NA": [
+            "0.0790000000"
+        ],
+        "ME": [
+            "0.0670000000"
+        ],
+        "KR": [
+            "0.0600000000"
+        ],
+        "IN": [
+            "0.0580000000"
+        ],
+        "EU": [
+            "0.0670000000"
+        ],
+        "AU": [
+            "0.0930000000"
+        ],
+        "AP": [
+            "0.0650000000"
+        ]
+    },
+    "Client Location AWS Traffic Direction In Data Transfer from ZA to Europe": {
+        "Regionless": [
+            "0.0380000000"
+        ],
+        "ZA": [
+            "0.0380000000"
+        ]
+    },
+    "Client Location AWS Traffic Direction In Data Transfer from ZA to South America": {
+        "Regionless": [
+            "0.0710000000"
+        ],
+        "ZA": [
+            "0.0710000000"
+        ]
+    },
+    "Client Location AWS Traffic Direction In Data Transfer from ZA to United States and Canada": {
+        "Regionless": [
+            "0.0430000000"
+        ],
+        "ZA": [
+            "0.0430000000"
+        ]
+    },
+    "Client Location AWS Traffic Direction In Data Transfer from ZA to Middle East": {
+        "Regionless": [
+            "0.0670000000"
+        ],
+        "ZA": [
+            "0.0670000000"
+        ]
+    },
+    "Client Location AWS Traffic Direction In Data Transfer from ZA to ZA": {
+        "Regionless": [
+            "0.0100000000"
+        ],
+        "ZA": [
+            "0.0100000000"
+        ]
+    },
+    "Client Location AWS Traffic Direction In Data Transfer from ZA to Australia": {
+        "Regionless": [
+            "0.0910000000"
+        ],
+        "ZA": [
+            "0.0910000000"
+        ]
+    },
+    "Client Location AWS Traffic Direction In Data Transfer from ZA to Asia Pacific": {
+        "Regionless": [
+            "0.0450000000"
+        ],
+        "ZA": [
+            "0.0450000000"
+        ]
+    },
+    "Client Location AWS Traffic Direction In Data Transfer from ZA to India": {
+        "Regionless": [
+            "0.0580000000"
+        ],
+        "ZA": [
+            "0.0580000000"
+        ]
+    },
+    "Client Location AWS Traffic Direction In Data Transfer from ZA to South Korea": {
+        "Regionless": [
+            "0.0570000000"
+        ],
+        "ZA": [
+            "0.0570000000"
+        ]
+    },
+    "Client Location AWS Traffic Direction In Data Transfer from South America to Europe": {
+        "Regionless": [
+            "0.0350000000"
+        ],
+        "SA": [
+            "0.0350000000"
+        ]
+    },
+    "Client Location AWS Traffic Direction In Data Transfer from South America to South America": {
+        "Regionless": [
+            "0.0240000000"
+        ],
+        "SA": [
+            "0.0240000000"
+        ]
+    },
+    "Client Location AWS Traffic Direction In Data Transfer from South America to United States and Canada": {
+        "Regionless": [
+            "0.0320000000"
+        ],
+        "SA": [
+            "0.0320000000"
+        ]
+    },
+    "Client Location AWS Traffic Direction In Data Transfer from South America to Middle East": {
+        "Regionless": [
+            "0.0570000000"
+        ],
+        "SA": [
+            "0.0570000000"
+        ]
+    },
+    "Client Location AWS Traffic Direction In Data Transfer from South America to ZA": {
+        "Regionless": [
+            "0.0670000000"
+        ],
+        "SA": [
+            "0.0670000000"
+        ]
+    },
+    "Client Location AWS Traffic Direction In Data Transfer from South America to Australia": {
+        "Regionless": [
+            "0.0830000000"
+        ],
+        "SA": [
+            "0.0830000000"
+        ]
+    },
+    "Client Location AWS Traffic Direction In Data Transfer from South America to Asia Pacific": {
+        "Regionless": [
+            "0.0410000000"
+        ],
+        "SA": [
+            "0.0410000000"
+        ]
+    },
+    "Client Location AWS Traffic Direction In Data Transfer from South America to India": {
+        "Regionless": [
+            "0.0590000000"
+        ],
+        "SA": [
+            "0.0590000000"
+        ]
+    },
+    "Client Location AWS Traffic Direction In Data Transfer from South America to South Korea": {
+        "Regionless": [
+            "0.0560000000"
+        ],
+        "SA": [
+            "0.0560000000"
+        ]
+    },
+    "Client Location AWS Traffic Direction In Data Transfer from United States and Canada to Europe": {
+        "Regionless": [
+            "0.0150000000"
+        ],
+        "NA": [
+            "0.0150000000"
+        ]
+    },
+    "Client Location AWS Traffic Direction In Data Transfer from United States and Canada to South America": {
+        "Regionless": [
+            "0.0400000000"
+        ],
+        "NA": [
+            "0.0400000000"
+        ]
+    },
+    "Client Location AWS Traffic Direction In Data Transfer from United States and Canada to United States and Canada": {
+        "Regionless": [
+            "0.0150000000"
+        ],
+        "NA": [
+            "0.0150000000"
+        ]
+    },
+    "Client Location AWS Traffic Direction In Data Transfer from United States and Canada to Middle East": {
+        "Regionless": [
+            "0.0350000000"
+        ],
+        "NA": [
+            "0.0350000000"
+        ]
+    },
+    "Client Location AWS Traffic Direction In Data Transfer from United States and Canada to ZA": {
+        "Regionless": [
+            "0.0790000000"
+        ],
+        "NA": [
+            "0.0790000000"
+        ]
+    },
+    "Client Location AWS Traffic Direction In Data Transfer from United States and Canada to Australia": {
+        "Regionless": [
+            "0.1050000000"
+        ],
+        "NA": [
+            "0.1050000000"
+        ]
+    },
+    "Client Location AWS Traffic Direction In Data Transfer from United States and Canada to Asia Pacific": {
+        "Regionless": [
+            "0.0350000000"
+        ],
+        "NA": [
+            "0.0350000000"
+        ]
+    },
+    "Client Location AWS Traffic Direction In Data Transfer from United States and Canada to India": {
+        "Regionless": [
+            "0.0350000000"
+        ],
+        "NA": [
+            "0.0350000000"
+        ]
+    },
+    "Client Location AWS Traffic Direction In Data Transfer from United States and Canada to South Korea": {
+        "Regionless": [
+            "0.0350000000"
+        ],
+        "NA": [
+            "0.0350000000"
+        ]
+    },
+    "Client Location AWS Traffic Direction In Data Transfer from Middle East to Europe": {
+        "Regionless": [
+            "0.0290000000"
+        ],
+        "ME": [
+            "0.0290000000"
+        ]
+    },
+    "Client Location AWS Traffic Direction In Data Transfer from Middle East to South America": {
+        "Regionless": [
+            "0.0610000000"
+        ],
+        "ME": [
+            "0.0610000000"
+        ]
+    },
+    "Client Location AWS Traffic Direction In Data Transfer from Middle East to United States and Canada": {
+        "Regionless": [
+            "0.0320000000"
+        ],
+        "ME": [
+            "0.0320000000"
+        ]
+    },
+    "Client Location AWS Traffic Direction In Data Transfer from Middle East to Middle East": {
+        "Regionless": [
+            "0.0570000000"
+        ],
+        "ME": [
+            "0.0570000000"
+        ]
+    },
+    "Client Location AWS Traffic Direction In Data Transfer from Middle East to ZA": {
+        "Regionless": [
+            "0.0670000000"
+        ],
+        "ME": [
+            "0.0670000000"
+        ]
+    },
+    "Client Location AWS Traffic Direction In Data Transfer from Middle East to Australia": {
+        "Regionless": [
+            "0.0820000000"
+        ],
+        "ME": [
+            "0.0820000000"
+        ]
+    },
+    "Client Location AWS Traffic Direction In Data Transfer from Middle East to Asia Pacific": {
+        "Regionless": [
+            "0.0290000000"
+        ],
+        "ME": [
+            "0.0290000000"
+        ]
+    },
+    "Client Location AWS Traffic Direction In Data Transfer from Middle East to India": {
+        "Regionless": [
+            "0.0290000000"
+        ],
+        "ME": [
+            "0.0290000000"
+        ]
+    },
+    "Client Location AWS Traffic Direction In Data Transfer from Middle East to South Korea": {
+        "Regionless": [
+            "0.0470000000"
+        ],
+        "ME": [
+            "0.0470000000"
+        ]
+    },
+    "Client Location AWS Traffic Direction In Data Transfer from South Korea to Europe": {
+        "Regionless": [
+            "0.0200000000"
+        ],
+        "KR": [
+            "0.0200000000"
+        ]
+    },
+    "Client Location AWS Traffic Direction In Data Transfer from South Korea to South America": {
+        "Regionless": [
+            "0.0490000000"
+        ],
+        "KR": [
+            "0.0490000000"
+        ]
+    },
+    "Client Location AWS Traffic Direction In Data Transfer from South Korea to United States and Canada": {
+        "Regionless": [
+            "0.0170000000"
+        ],
+        "KR": [
+            "0.0170000000"
+        ]
+    },
+    "Client Location AWS Traffic Direction In Data Transfer from South Korea to Middle East": {
+        "Regionless": [
+            "0.0500000000"
+        ],
+        "KR": [
+            "0.0500000000"
+        ]
+    },
+    "Client Location AWS Traffic Direction In Data Transfer from South Korea to ZA": {
+        "Regionless": [
+            "0.0600000000"
+        ],
+        "KR": [
+            "0.0600000000"
+        ]
+    },
+    "Client Location AWS Traffic Direction In Data Transfer from South Korea to Australia": {
+        "Regionless": [
+            "0.0800000000"
+        ],
+        "KR": [
+            "0.0800000000"
+        ]
+    },
+    "Client Location AWS Traffic Direction In Data Transfer from South Korea to Asia Pacific": {
+        "Regionless": [
+            "0.0430000000"
+        ],
+        "KR": [
+            "0.0430000000"
+        ]
+    },
+    "Client Location AWS Traffic Direction In Data Transfer from South Korea to India": {
+        "Regionless": [
+            "0.0670000000"
+        ],
+        "KR": [
+            "0.0670000000"
+        ]
+    },
+    "Client Location AWS Traffic Direction In Data Transfer from South Korea to South Korea": {
+        "Regionless": [
+            "0.0430000000"
+        ],
+        "KR": [
+            "0.0430000000"
+        ]
+    },
+    "Client Location AWS Traffic Direction In Data Transfer from India to Europe": {
+        "Regionless": [
+            "0.0230000000"
+        ],
+        "IN": [
+            "0.0230000000"
+        ]
+    },
+    "Client Location AWS Traffic Direction In Data Transfer from India to South America": {
+        "Regionless": [
+            "0.0570000000"
+        ],
+        "IN": [
+            "0.0570000000"
+        ]
+    },
+    "Client Location AWS Traffic Direction In Data Transfer from India to United States and Canada": {
+        "Regionless": [
+            "0.0250000000"
+        ],
+        "IN": [
+            "0.0250000000"
+        ]
+    },
+    "Client Location AWS Traffic Direction In Data Transfer from India to Middle East": {
+        "Regionless": [
+            "0.0740000000"
+        ],
+        "IN": [
+            "0.0740000000"
+        ]
+    },
+    "Client Location AWS Traffic Direction In Data Transfer from India to ZA": {
+        "Regionless": [
+            "0.0580000000"
+        ],
+        "IN": [
+            "0.0580000000"
+        ]
+    },
+    "Client Location AWS Traffic Direction In Data Transfer from India to Australia": {
+        "Regionless": [
+            "0.0940000000"
+        ],
+        "IN": [
+            "0.0940000000"
+        ]
+    },
+    "Client Location AWS Traffic Direction In Data Transfer from India to Asia Pacific": {
+        "Regionless": [
+            "0.0230000000"
+        ],
+        "IN": [
+            "0.0230000000"
+        ]
+    },
+    "Client Location AWS Traffic Direction In Data Transfer from India to India": {
+        "Regionless": [
+            "0.0230000000"
+        ],
+        "IN": [
+            "0.0230000000"
+        ]
+    },
+    "Client Location AWS Traffic Direction In Data Transfer from India to South Korea": {
+        "Regionless": [
+            "0.0720000000"
+        ],
+        "IN": [
+            "0.0720000000"
+        ]
+    },
+    "Client Location AWS Traffic Direction In Data Transfer from Europe to Europe": {
+        "Regionless": [
+            "0.0150000000"
+        ],
+        "EU": [
+            "0.0150000000"
+        ]
+    },
+    "Client Location AWS Traffic Direction In Data Transfer from Europe to South America": {
+        "Regionless": [
+            "0.0430000000"
+        ],
+        "EU": [
+            "0.0430000000"
+        ]
+    },
+    "Client Location AWS Traffic Direction In Data Transfer from Europe to United States and Canada": {
+        "Regionless": [
+            "0.0150000000"
+        ],
+        "EU": [
+            "0.0150000000"
+        ]
+    },
+    "Client Location AWS Traffic Direction In Data Transfer from Europe to Middle East": {
+        "Regionless": [
+            "0.0350000000"
+        ],
+        "EU": [
+            "0.0350000000"
+        ]
+    },
+    "Client Location AWS Traffic Direction In Data Transfer from Europe to ZA": {
+        "Regionless": [
+            "0.0670000000"
+        ],
+        "EU": [
+            "0.0670000000"
+        ]
+    },
+    "Client Location AWS Traffic Direction In Data Transfer from Europe to Australia": {
+        "Regionless": [
+            "0.1050000000"
+        ],
+        "EU": [
+            "0.1050000000"
+        ]
+    },
+    "Client Location AWS Traffic Direction In Data Transfer from Europe to Asia Pacific": {
+        "Regionless": [
+            "0.0330000000"
+        ],
+        "EU": [
+            "0.0330000000"
+        ]
+    },
+    "Client Location AWS Traffic Direction In Data Transfer from Europe to India": {
+        "Regionless": [
+            "0.0330000000"
+        ],
+        "EU": [
+            "0.0330000000"
+        ]
+    },
+    "Client Location AWS Traffic Direction In Data Transfer from Europe to South Korea": {
+        "Regionless": [
+            "0.0350000000"
+        ],
+        "EU": [
+            "0.0350000000"
+        ]
+    },
+    "Client Location AWS Traffic Direction In Data Transfer from Australia to Europe": {
+        "Regionless": [
+            "0.0700000000"
+        ],
+        "AU": [
+            "0.0700000000"
+        ]
+    },
+    "Client Location AWS Traffic Direction In Data Transfer from Australia to South America": {
+        "Regionless": [
+            "0.0880000000"
+        ],
+        "AU": [
+            "0.0880000000"
+        ]
+    },
+    "Client Location AWS Traffic Direction In Data Transfer from Australia to United States and Canada": {
+        "Regionless": [
+            "0.0700000000"
+        ],
+        "AU": [
+            "0.0700000000"
+        ]
+    },
+    "Client Location AWS Traffic Direction In Data Transfer from Australia to Middle East": {
+        "Regionless": [
+            "0.0840000000"
+        ],
+        "AU": [
+            "0.0840000000"
+        ]
+    },
+    "Client Location AWS Traffic Direction In Data Transfer from Australia to ZA": {
+        "Regionless": [
+            "0.0930000000"
+        ],
+        "AU": [
+            "0.0930000000"
+        ]
+    },
+    "Client Location AWS Traffic Direction In Data Transfer from Australia to Australia": {
+        "Regionless": [
+            "0.0070000000"
+        ],
+        "AU": [
+            "0.0070000000"
+        ]
+    },
+    "Client Location AWS Traffic Direction In Data Transfer from Australia to Asia Pacific": {
+        "Regionless": [
+            "0.0740000000"
+        ],
+        "AU": [
+            "0.0740000000"
+        ]
+    },
+    "Client Location AWS Traffic Direction In Data Transfer from Australia to India": {
+        "Regionless": [
+            "0.1010000000"
+        ],
+        "AU": [
+            "0.1010000000"
+        ]
+    },
+    "Client Location AWS Traffic Direction In Data Transfer from Australia to South Korea": {
+        "Regionless": [
+            "0.0910000000"
+        ],
+        "AU": [
+            "0.0910000000"
+        ]
+    },
+    "Client Location AWS Traffic Direction In Data Transfer from Asia Pacific to Europe": {
+        "Regionless": [
+            "0.0430000000"
+        ],
+        "AP": [
+            "0.0430000000"
+        ]
+    },
+    "Client Location AWS Traffic Direction In Data Transfer from Asia Pacific to South America": {
+        "Regionless": [
+            "0.0490000000"
+        ],
+        "AP": [
+            "0.0490000000"
+        ]
+    },
+    "Client Location AWS Traffic Direction In Data Transfer from Asia Pacific to United States and Canada": {
+        "Regionless": [
+            "0.0120000000"
+        ],
+        "AP": [
+            "0.0120000000"
+        ]
+    },
+    "Client Location AWS Traffic Direction In Data Transfer from Asia Pacific to Middle East": {
+        "Regionless": [
+            "0.0550000000"
+        ],
+        "AP": [
+            "0.0550000000"
+        ]
+    },
+    "Client Location AWS Traffic Direction In Data Transfer from Asia Pacific to ZA": {
+        "Regionless": [
+            "0.0650000000"
+        ],
+        "AP": [
+            "0.0650000000"
+        ]
+    },
+    "Client Location AWS Traffic Direction In Data Transfer from Asia Pacific to Australia": {
+        "Regionless": [
+            "0.0800000000"
+        ],
+        "AP": [
+            "0.0800000000"
+        ]
+    },
+    "Client Location AWS Traffic Direction In Data Transfer from Asia Pacific to Asia Pacific": {
+        "Regionless": [
+            "0.0100000000"
+        ],
+        "AP": [
+            "0.0100000000"
+        ]
+    },
+    "Client Location AWS Traffic Direction In Data Transfer from Asia Pacific to India": {
+        "Regionless": [
+            "0.0320000000"
+        ],
+        "AP": [
+            "0.0320000000"
+        ]
+    },
+    "Client Location AWS Traffic Direction In Data Transfer from Asia Pacific to South Korea": {
+        "Regionless": [
+            "0.0580000000"
+        ],
+        "AP": [
+            "0.0580000000"
+        ]
+    }
+}

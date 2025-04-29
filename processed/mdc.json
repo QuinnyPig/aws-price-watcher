@@ -1,0 +1,218 @@
+{
+    "Compute 1 Year T1ContUse": {
+        "Regionless": [
+            "97676.0000000000"
+        ],
+        "US East (N. Virginia)": [
+            "97676.0000000000"
+        ],
+        "AWS GovCloud (US-East)": [
+            "97676.0000000000"
+        ],
+        "AWS GovCloud (US)": [
+            "97676.0000000000"
+        ]
+    },
+    "Compute 1 Year US": {
+        "Regionless": [
+            "125299.0000000000"
+        ],
+        "AWS GovCloud (US-East)": [
+            "125299.0000000000"
+        ],
+        "AWS GovCloud (US)": [
+            "125299.0000000000"
+        ]
+    },
+    "Compute 1 Year T1": {
+        "Regionless": [
+            "156283.0000000000"
+        ],
+        "AWS GovCloud (US-East)": [
+            "156283.0000000000"
+        ],
+        "AWS GovCloud (US)": [
+            "156283.0000000000"
+        ]
+    },
+    "Compute 1 Year T2": {
+        "Regionless": [
+            "222877.0000000000"
+        ],
+        "AWS GovCloud (US-East)": [
+            "222877.0000000000"
+        ],
+        "AWS GovCloud (US)": [
+            "222877.0000000000"
+        ]
+    },
+    "Compute 1 Year DeviceLoss": {
+        "Regionless": [
+            "182375.0000000000"
+        ],
+        "AWS GovCloud (US-East)": [
+            "182375.0000000000"
+        ],
+        "AWS GovCloud (US)": [
+            "182375.0000000000"
+        ]
+    },
+    "Compute 1 Year USContUse": {
+        "Regionless": [
+            "78313.0000000000"
+        ],
+        "AWS GovCloud (US-East)": [
+            "78313.0000000000"
+        ],
+        "AWS GovCloud (US)": [
+            "78313.0000000000"
+        ]
+    },
+    "Compute 1 Year T2ContUse": {
+        "Regionless": [
+            "139297.0000000000"
+        ],
+        "AWS GovCloud (US-East)": [
+            "139297.0000000000"
+        ],
+        "AWS GovCloud (US)": [
+            "139297.0000000000"
+        ]
+    },
+    "Compute 1 Year T0": {
+        "Regionless": [
+            "275000.0000000000"
+        ],
+        "AWS GovCloud (US)": [
+            "275000.0000000000"
+        ]
+    },
+    "Compute 1 Year 6": {
+        "Regionless": [
+            "1800000.0000000000"
+        ],
+        "AWS GovCloud (US)": [
+            "1800000.0000000000"
+        ]
+    },
+    "Compute 6-T0": {
+        "Regionless": [
+            "250000.0000000000"
+        ],
+        "AWS GovCloud (US)": [
+            "250000.0000000000"
+        ]
+    },
+    "Compute 6-T1": {
+        "Regionless": [
+            "300000.0000000000"
+        ],
+        "AWS GovCloud (US)": [
+            "300000.0000000000"
+        ]
+    },
+    "Compute T1": {
+        "Regionless": [
+            "350000.0000000000"
+        ],
+        "AWS GovCloud (US)": [
+            "350000.0000000000"
+        ]
+    },
+    "Compute T1-M": {
+        "Regionless": [
+            "29167.0000000000"
+        ],
+        "AWS GovCloud (US)": [
+            "29167.0000000000"
+        ]
+    },
+    "Compute T2": {
+        "Regionless": [
+            "575000.0000000000"
+        ],
+        "AWS GovCloud (US)": [
+            "575000.0000000000"
+        ]
+    },
+    "Compute 6-Tier0": {
+        "Regionless": [
+            "250000.0000000000"
+        ],
+        "AWS GovCloud (US)": [
+            "250000.0000000000"
+        ]
+    },
+    "Compute US": {
+        "Regionless": [
+            "120000.0000000000"
+        ],
+        "AWS GovCloud (US)": [
+            "120000.0000000000"
+        ]
+    },
+    "Compute DeviceLoss": {
+        "Regionless": [
+            "2000000.0000000000"
+        ],
+        "AWS GovCloud (US)": [
+            "2000000.0000000000"
+        ]
+    },
+    "Compute 1 Year 6UNC": {
+        "Regionless": [
+            "1200000.0000000000"
+        ],
+        "AWS GovCloud (US)": [
+            "1200000.0000000000"
+        ]
+    },
+    "Compute T2-M": {
+        "Regionless": [
+            "47917.0000000000"
+        ],
+        "AWS GovCloud (US)": [
+            "47917.0000000000"
+        ]
+    },
+    "Compute T0-M": {
+        "Regionless": [
+            "22917.0000000000"
+        ],
+        "AWS GovCloud (US)": [
+            "22917.0000000000"
+        ]
+    },
+    "Compute 6-Tier1": {
+        "Regionless": [
+            "300000.0000000000"
+        ],
+        "AWS GovCloud (US)": [
+            "300000.0000000000"
+        ]
+    },
+    "Compute 10": {
+        "Regionless": [
+            "125000.0000000000"
+        ],
+        "AWS GovCloud (US)": [
+            "125000.0000000000"
+        ]
+    },
+    "Compute 6-Tier2": {
+        "Regionless": [
+            "475000.0000000000"
+        ],
+        "AWS GovCloud (US)": [
+            "475000.0000000000"
+        ]
+    },
+    "Compute 6-T2": {
+        "Regionless": [
+            "475000.0000000000"
+        ],
+        "AWS GovCloud (US)": [
+            "475000.0000000000"
+        ]
+    }
+}

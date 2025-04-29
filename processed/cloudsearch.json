@@ -1,0 +1,946 @@
+{
+    "New Search Instance current generation": {
+        "Regionless": [
+            "0.7520000000"
+        ],
+        "US West (Oregon)": [
+            "0.0590000000",
+            "0.1880000000",
+            "0.3760000000",
+            "0.7520000000",
+            "0.0940000000"
+        ],
+        "US West (N. California)": [
+            "0.8320000000",
+            "0.2080000000",
+            "0.0630000000",
+            "0.1040000000",
+            "0.4160000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0590000000",
+            "0.1880000000",
+            "0.3760000000",
+            "0.7520000000",
+            "0.0940000000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0780000000",
+            "0.2560000000",
+            "0.5120000000",
+            "1.0240000000",
+            "0.1280000000"
+        ],
+        "EU (Ireland)": [
+            "0.8320000000",
+            "0.2080000000",
+            "0.0630000000",
+            "0.1040000000",
+            "0.4160000000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0680000000",
+            "0.4480000000",
+            "0.2240000000",
+            "0.1120000000",
+            "0.8960000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0820000000",
+            "0.2720000000",
+            "0.5440000000",
+            "1.0880000000",
+            "0.1360000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0780000000",
+            "0.2640000000",
+            "1.0560000000",
+            "0.1320000000",
+            "0.5280000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0780000000",
+            "0.2640000000",
+            "1.0560000000",
+            "0.1320000000",
+            "0.5280000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0760000000",
+            "1.0230000000",
+            "0.2550000000",
+            "0.1280000000",
+            "0.5110000000"
+        ]
+    },
+    "Search Instance current generation": {
+        "Regionless": [
+            "0.0590000000"
+        ],
+        "US West (Oregon)": [
+            "0.0590000000",
+            "0.1880000000",
+            "0.3760000000",
+            "0.7520000000",
+            "0.0940000000"
+        ],
+        "US West (N. California)": [
+            "0.8320000000",
+            "0.2080000000",
+            "0.0630000000",
+            "0.1040000000",
+            "0.4160000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0590000000",
+            "0.1880000000",
+            "0.3760000000",
+            "0.7520000000",
+            "0.0940000000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0780000000",
+            "0.2560000000",
+            "0.5120000000",
+            "1.0240000000",
+            "0.1280000000"
+        ],
+        "EU (Ireland)": [
+            "0.8320000000",
+            "0.2080000000",
+            "0.0630000000",
+            "0.1040000000",
+            "0.4160000000"
+        ],
+        "EU (Frankfurt)": [
+            "0.4480000000",
+            "0.2240000000",
+            "0.8960000000",
+            "0.1120000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0820000000",
+            "0.2720000000",
+            "0.5440000000",
+            "1.0880000000",
+            "0.1360000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0780000000",
+            "0.2640000000",
+            "1.0560000000",
+            "0.1320000000",
+            "0.5280000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0780000000",
+            "0.2640000000",
+            "1.0560000000",
+            "0.1320000000",
+            "0.5280000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.5110000000",
+            "1.0230000000",
+            "0.2550000000"
+        ]
+    },
+    "New Search Instance previous generation": {
+        "Regionless": [
+            "0.6130000000"
+        ],
+        "US West (Oregon)": [
+            "0.6130000000",
+            "0.0590000000",
+            "0.3060000000",
+            "0.2360000000"
+        ],
+        "US West (N. California)": [
+            "0.3440000000",
+            "0.6880000000",
+            "0.2570000000",
+            "0.0630000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.6130000000",
+            "0.0590000000",
+            "0.3060000000",
+            "0.2360000000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.3150000000",
+            "0.4040000000",
+            "0.0780000000",
+            "0.8060000000"
+        ],
+        "EU (Ireland)": [
+            "0.3440000000",
+            "0.6880000000",
+            "0.2570000000",
+            "0.0630000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0820000000",
+            "0.3590000000",
+            "0.3280000000",
+            "0.7190000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.7400000000",
+            "0.3150000000",
+            "0.0780000000",
+            "0.3700000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.7400000000",
+            "0.3150000000",
+            "0.0780000000",
+            "0.3700000000"
+        ]
+    },
+    "Search Instance previous generation": {
+        "Regionless": [
+            "0.2360000000"
+        ],
+        "US West (Oregon)": [
+            "0.6130000000",
+            "0.2360000000",
+            "0.3060000000"
+        ],
+        "US West (N. California)": [
+            "0.3440000000",
+            "0.6880000000",
+            "0.2570000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.6130000000",
+            "0.2360000000",
+            "0.3060000000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.3150000000",
+            "0.4040000000",
+            "0.8060000000"
+        ],
+        "EU (Ireland)": [
+            "0.3440000000",
+            "0.6880000000",
+            "0.2570000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.3590000000",
+            "0.3280000000",
+            "0.7190000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.3150000000",
+            "0.7400000000",
+            "0.3700000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.3150000000",
+            "0.7400000000",
+            "0.3700000000"
+        ]
+    },
+    "DocumentBatchUpload": {
+        "Regionless": [
+            "0.0001000000"
+        ],
+        "US West (Oregon)": [
+            "0.0001000000"
+        ],
+        "US West (N. California)": [
+            "0.0001000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0001000000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0001000000"
+        ],
+        "EU (Ireland)": [
+            "0.0001000000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0001000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0001000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0001000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0001000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0001000000"
+        ]
+    },
+    "IndexDocuments": {
+        "Regionless": [
+            "0.9800000000"
+        ],
+        "US West (Oregon)": [
+            "0.9800000000"
+        ],
+        "US West (N. California)": [
+            "0.9800000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.9800000000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.9800000000"
+        ],
+        "EU (Ireland)": [
+            "0.9800000000"
+        ],
+        "EU (Frankfurt)": [
+            "0.9800000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.9800000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.9800000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.9800000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.9800000000"
+        ]
+    },
+    "m3 large starting from 0 current generation": {
+        "Regionless": [
+            "0.1880000000"
+        ],
+        "US West (Oregon)": [
+            "0.1880000000"
+        ],
+        "US West (N. California)": [
+            "0.2080000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.1880000000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.2560000000"
+        ],
+        "EU (Ireland)": [
+            "0.2080000000"
+        ],
+        "EU (Frankfurt)": [
+            "0.2240000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.2720000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.2640000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.2640000000"
+        ]
+    },
+    "m3 medium starting from 0 current generation": {
+        "Regionless": [
+            "0.0940000000"
+        ],
+        "US West (Oregon)": [
+            "0.0940000000"
+        ],
+        "US West (N. California)": [
+            "0.1040000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0940000000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.1280000000"
+        ],
+        "EU (Ireland)": [
+            "0.1040000000"
+        ],
+        "EU (Frankfurt)": [
+            "0.1120000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.1360000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.1320000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.1320000000"
+        ]
+    },
+    "New search previousgeneration.large starting from 0 previous generation": {
+        "Regionless": [
+            "0.2360000000"
+        ],
+        "US West (Oregon)": [
+            "0.2360000000"
+        ],
+        "US West (N. California)": [
+            "0.2570000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.2360000000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.3150000000"
+        ],
+        "EU (Ireland)": [
+            "0.2570000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.3280000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.3150000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.3150000000"
+        ]
+    },
+    "m2 xlarge starting from 0 previous generation": {
+        "Regionless": [
+            "0.3060000000"
+        ],
+        "US West (Oregon)": [
+            "0.3060000000"
+        ],
+        "US West (N. California)": [
+            "0.3440000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.3060000000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.4040000000"
+        ],
+        "EU (Ireland)": [
+            "0.3440000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.3590000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.3700000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.3700000000"
+        ]
+    },
+    "m3 2xlarge starting from 0 current generation": {
+        "Regionless": [
+            "0.7520000000"
+        ],
+        "US West (Oregon)": [
+            "0.7520000000"
+        ],
+        "US West (N. California)": [
+            "0.8320000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.7520000000"
+        ],
+        "South America (Sao Paulo)": [
+            "1.0240000000"
+        ],
+        "EU (Ireland)": [
+            "0.8320000000"
+        ],
+        "EU (Frankfurt)": [
+            "0.8960000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "1.0880000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "1.0560000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "1.0560000000"
+        ]
+    },
+    "New search previousgeneration.xlarge starting from 0 previous generation": {
+        "Regionless": [
+            "0.3060000000"
+        ],
+        "US West (Oregon)": [
+            "0.3060000000"
+        ],
+        "US West (N. California)": [
+            "0.3440000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.3060000000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.4040000000"
+        ],
+        "EU (Ireland)": [
+            "0.3440000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.3590000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.3700000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.3700000000"
+        ]
+    },
+    "New search medium starting from 0 current generation": {
+        "Regionless": [
+            "0.0940000000"
+        ],
+        "US West (Oregon)": [
+            "0.0940000000"
+        ],
+        "US West (N. California)": [
+            "0.1040000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0940000000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.1280000000"
+        ],
+        "EU (Ireland)": [
+            "0.1040000000"
+        ],
+        "EU (Frankfurt)": [
+            "0.1120000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.1360000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.1320000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.1320000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.1280000000"
+        ]
+    },
+    "IndexDocuments starting from 0 GB": {
+        "Regionless": [
+            "0.9800000000"
+        ],
+        "US West (Oregon)": [
+            "0.9800000000"
+        ],
+        "US West (N. California)": [
+            "0.9800000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.9800000000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.9800000000"
+        ],
+        "EU (Ireland)": [
+            "0.9800000000"
+        ],
+        "EU (Frankfurt)": [
+            "0.9800000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.9800000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.9800000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.9800000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.9800000000"
+        ]
+    },
+    "New search previousgeneration.small starting from 0 previous generation": {
+        "Regionless": [
+            "0.0590000000"
+        ],
+        "US West (Oregon)": [
+            "0.0590000000"
+        ],
+        "US West (N. California)": [
+            "0.0630000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0590000000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0780000000"
+        ],
+        "EU (Ireland)": [
+            "0.0630000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0820000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0780000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0780000000"
+        ]
+    },
+    "New search xlarge starting from 0 current generation": {
+        "Regionless": [
+            "0.3760000000"
+        ],
+        "US West (Oregon)": [
+            "0.3760000000"
+        ],
+        "US West (N. California)": [
+            "0.4160000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.3760000000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.5120000000"
+        ],
+        "EU (Ireland)": [
+            "0.4160000000"
+        ],
+        "EU (Frankfurt)": [
+            "0.4480000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.5440000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.5280000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.5280000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.5110000000"
+        ]
+    },
+    "DocumentBatchUpload starting from 0 Requests": {
+        "Regionless": [
+            "0.0001000000"
+        ],
+        "US West (Oregon)": [
+            "0.0001000000"
+        ],
+        "US West (N. California)": [
+            "0.0001000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0001000000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0001000000"
+        ],
+        "EU (Ireland)": [
+            "0.0001000000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0001000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0001000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0001000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0001000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0001000000"
+        ]
+    },
+    "New search large starting from 0 current generation": {
+        "Regionless": [
+            "0.1880000000"
+        ],
+        "US West (Oregon)": [
+            "0.1880000000"
+        ],
+        "US West (N. California)": [
+            "0.2080000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.1880000000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.2560000000"
+        ],
+        "EU (Ireland)": [
+            "0.2080000000"
+        ],
+        "EU (Frankfurt)": [
+            "0.2240000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.2720000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.2640000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.2640000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.2550000000"
+        ]
+    },
+    "New search small starting from 0 current generation": {
+        "Regionless": [
+            "0.0590000000"
+        ],
+        "US West (Oregon)": [
+            "0.0590000000"
+        ],
+        "US West (N. California)": [
+            "0.0630000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0590000000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0780000000"
+        ],
+        "EU (Ireland)": [
+            "0.0630000000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0680000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0820000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0780000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0780000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0760000000"
+        ]
+    },
+    "New search 2xlarge starting from 0 current generation": {
+        "Regionless": [
+            "0.7520000000"
+        ],
+        "US West (Oregon)": [
+            "0.7520000000"
+        ],
+        "US West (N. California)": [
+            "0.8320000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.7520000000"
+        ],
+        "South America (Sao Paulo)": [
+            "1.0240000000"
+        ],
+        "EU (Ireland)": [
+            "0.8320000000"
+        ],
+        "EU (Frankfurt)": [
+            "0.8960000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "1.0880000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "1.0560000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "1.0560000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "1.0230000000"
+        ]
+    },
+    "m3 xlarge starting from 0 current generation": {
+        "Regionless": [
+            "0.3760000000"
+        ],
+        "US West (Oregon)": [
+            "0.3760000000"
+        ],
+        "US West (N. California)": [
+            "0.4160000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.3760000000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.5120000000"
+        ],
+        "EU (Ireland)": [
+            "0.4160000000"
+        ],
+        "EU (Frankfurt)": [
+            "0.4480000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.5440000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.5280000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.5280000000"
+        ]
+    },
+    "m1 small starting from 0 current generation": {
+        "Regionless": [
+            "0.0590000000"
+        ],
+        "US West (Oregon)": [
+            "0.0590000000"
+        ],
+        "US West (N. California)": [
+            "0.0630000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0590000000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0780000000"
+        ],
+        "EU (Ireland)": [
+            "0.0630000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0820000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0780000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0780000000"
+        ]
+    },
+    "New search previousgeneration.2xlarge starting from 0 previous generation": {
+        "Regionless": [
+            "0.6130000000"
+        ],
+        "US West (Oregon)": [
+            "0.6130000000"
+        ],
+        "US West (N. California)": [
+            "0.6880000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.6130000000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.8060000000"
+        ],
+        "EU (Ireland)": [
+            "0.6880000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.7190000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.7400000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.7400000000"
+        ]
+    },
+    "m2 2xlarge starting from 0 previous generation": {
+        "Regionless": [
+            "0.6130000000"
+        ],
+        "US West (Oregon)": [
+            "0.6130000000"
+        ],
+        "US West (N. California)": [
+            "0.6880000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.6130000000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.8060000000"
+        ],
+        "EU (Ireland)": [
+            "0.6880000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.7190000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.7400000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.7400000000"
+        ]
+    },
+    "m1 large starting from 0 previous generation": {
+        "Regionless": [
+            "0.2360000000"
+        ],
+        "US West (Oregon)": [
+            "0.2360000000"
+        ],
+        "US West (N. California)": [
+            "0.2570000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.2360000000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.3150000000"
+        ],
+        "EU (Ireland)": [
+            "0.2570000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.3280000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.3150000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.3150000000"
+        ]
+    },
+    "m4 2xlarge starting from 0 current generation": {
+        "Regionless": [
+            "1.0230000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "1.0230000000"
+        ]
+    },
+    "m4 xlarge starting from 0 current generation": {
+        "Regionless": [
+            "0.5110000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.5110000000"
+        ]
+    },
+    "m4 large starting from 0 current generation": {
+        "Regionless": [
+            "0.2550000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.2550000000"
+        ]
+    }
+}

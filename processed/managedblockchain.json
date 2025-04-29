@@ -1,0 +1,1200 @@
+{
+    "Ethereum Public": {
+        "Regionless": [
+            "0.5440000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.1340000000",
+            "0.2720000000",
+            "1.2290000000",
+            "0.2670000000",
+            "0.5440000000",
+            "0.3070000000",
+            "1.0880000000",
+            "0.6170000000",
+            "0.1540000000"
+        ],
+        "EU (London)": [
+            "0.1510000000",
+            "0.6460000000",
+            "0.3020000000",
+            "0.3550000000",
+            "0.3230000000",
+            "1.4210000000",
+            "0.1780000000",
+            "1.2930000000",
+            "0.7100000000"
+        ],
+        "EU (Ireland)": [
+            "1.3700000000",
+            "0.2920000000",
+            "0.3070000000",
+            "0.3420000000",
+            "0.1460000000",
+            "0.1710000000",
+            "0.6140000000",
+            "1.2290000000",
+            "0.6850000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "1.3700000000",
+            "0.3970000000",
+            "0.3420000000",
+            "0.3480000000",
+            "0.7940000000",
+            "1.5870000000",
+            "0.1980000000",
+            "0.6850000000",
+            "0.1740000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.3380000000",
+            "0.6270000000",
+            "1.5360000000",
+            "0.7680000000",
+            "0.3840000000",
+            "0.1920000000",
+            "0.3140000000",
+            "0.1690000000",
+            "1.2540000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.3780000000",
+            "0.1660000000",
+            "1.5100000000",
+            "0.1890000000",
+            "0.3070000000",
+            "0.3330000000",
+            "0.7550000000",
+            "0.6140000000",
+            "1.2290000000"
+        ]
+    },
+    "Standard": {
+        "Regionless": [
+            "0.5440000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.1340000000",
+            "0.2720000000",
+            "1.2290000000",
+            "0.0670000000",
+            "0.0340000000",
+            "0.2670000000",
+            "0.5440000000",
+            "0.3070000000",
+            "1.0880000000",
+            "0.6170000000",
+            "0.1360000000",
+            "0.1540000000"
+        ],
+        "EU (London)": [
+            "0.1510000000",
+            "0.6460000000",
+            "0.3020000000",
+            "0.0760000000",
+            "0.1620000000",
+            "0.3550000000",
+            "0.3230000000",
+            "1.4210000000",
+            "0.1780000000",
+            "0.0380000000",
+            "1.2930000000",
+            "0.7100000000"
+        ],
+        "EU (Ireland)": [
+            "0.1540000000",
+            "1.3700000000",
+            "0.0360000000",
+            "0.2920000000",
+            "0.3070000000",
+            "0.3420000000",
+            "0.1460000000",
+            "0.1710000000",
+            "0.0730000000",
+            "0.6140000000",
+            "1.2290000000",
+            "0.6850000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "1.3700000000",
+            "0.3970000000",
+            "0.3420000000",
+            "0.6850000000",
+            "0.3480000000",
+            "0.7940000000",
+            "0.1710000000",
+            "0.0870000000",
+            "1.5870000000",
+            "0.1980000000",
+            "0.0440000000",
+            "0.1740000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.3380000000",
+            "0.1570000000",
+            "0.6270000000",
+            "1.5360000000",
+            "0.7680000000",
+            "0.3840000000",
+            "0.1920000000",
+            "0.3140000000",
+            "0.0840000000",
+            "0.1690000000",
+            "0.0420000000",
+            "1.2540000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.3780000000",
+            "0.1660000000",
+            "1.2290000000",
+            "1.5100000000",
+            "0.1890000000",
+            "0.3070000000",
+            "0.0830000000",
+            "0.3330000000",
+            "0.7550000000",
+            "0.0420000000",
+            "0.6140000000",
+            "0.1540000000"
+        ],
+        "AWS GovCloud (US)": [
+            "0.1562000000",
+            "0.3123000000",
+            "1.5488000000",
+            "0.7744000000",
+            "0.0390000000",
+            "0.0781000000",
+            "0.3872000000",
+            "0.3264000000",
+            "0.6528000000",
+            "0.1632000000",
+            "1.3056000000",
+            "0.1936000000"
+        ]
+    },
+    "Starter": {
+        "Regionless": [
+            "0.0670000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0670000000",
+            "0.0340000000"
+        ],
+        "EU (London)": [
+            "0.0380000000",
+            "0.0760000000"
+        ],
+        "EU (Ireland)": [
+            "0.0360000000",
+            "0.0730000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0870000000",
+            "0.0440000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0840000000",
+            "0.0420000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0420000000",
+            "0.0830000000"
+        ],
+        "AWS GovCloud (US)": [
+            "0.0390000000",
+            "0.0781000000"
+        ]
+    },
+    "Standard Data Written": {
+        "Regionless": [
+            "0.1000000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.1000000000"
+        ],
+        "EU (London)": [
+            "0.1200000000"
+        ],
+        "EU (Ireland)": [
+            "0.1100000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.1100000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.1100000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.1100000000"
+        ],
+        "AWS GovCloud (US)": [
+            "0.1230000000"
+        ]
+    },
+    "Standard Instance bc c5.4xlarge": {
+        "Regionless": [
+            "1.0880000000"
+        ],
+        "US East (N. Virginia)": [
+            "1.0880000000"
+        ],
+        "EU (London)": [
+            "1.2930000000"
+        ],
+        "EU (Ireland)": [
+            "1.2290000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "1.3700000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "1.2540000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "1.2290000000"
+        ],
+        "AWS GovCloud (US)": [
+            "1.3056000000"
+        ]
+    },
+    "Standard Instance bc t3.large": {
+        "Regionless": [
+            "0.1340000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.1340000000"
+        ],
+        "EU (London)": [
+            "0.1510000000"
+        ],
+        "EU (Ireland)": [
+            "0.1460000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.1740000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.1690000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.1660000000"
+        ],
+        "AWS GovCloud (US)": [
+            "0.1562000000"
+        ]
+    },
+    "Starter Instance bc t3.small": {
+        "Regionless": [
+            "0.0340000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0340000000"
+        ],
+        "EU (London)": [
+            "0.0380000000"
+        ],
+        "EU (Ireland)": [
+            "0.0360000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0440000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0420000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0420000000"
+        ],
+        "AWS GovCloud (US)": [
+            "0.0390000000"
+        ]
+    },
+    "Standard Instance bc c5.2xlarge": {
+        "Regionless": [
+            "0.5440000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.5440000000"
+        ],
+        "EU (London)": [
+            "0.6460000000"
+        ],
+        "EU (Ireland)": [
+            "0.6140000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.6850000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.6270000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.6140000000"
+        ],
+        "AWS GovCloud (US)": [
+            "0.6528000000"
+        ]
+    },
+    "Standard Member": {
+        "Regionless": [
+            "0.5500000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.5500000000"
+        ],
+        "EU (London)": [
+            "0.6500000000"
+        ],
+        "EU (Ireland)": [
+            "0.6200000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.6300000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.6300000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.6000000000"
+        ],
+        "AWS GovCloud (US)": [
+            "0.6765000000"
+        ]
+    },
+    "Bitcoin Testnet-Access L Request": {
+        "Regionless": [
+            "0.0000160000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0000160000"
+        ],
+        "EU (London)": [
+            "0.0000250000"
+        ],
+        "EU (Ireland)": [
+            "0.0000180000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0000250000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0000220000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0000180000"
+        ]
+    },
+    "Standard Instance bc t3.small": {
+        "Regionless": [
+            "0.0340000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0340000000"
+        ],
+        "EU (London)": [
+            "0.0380000000"
+        ],
+        "EU (Ireland)": [
+            "0.0360000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0440000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0420000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0420000000"
+        ],
+        "AWS GovCloud (US)": [
+            "0.0390000000"
+        ]
+    },
+    "Ethereum Public Instance bc m5.xlarge": {
+        "Regionless": [
+            "0.3070000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.3070000000"
+        ],
+        "EU (London)": [
+            "0.3550000000"
+        ],
+        "EU (Ireland)": [
+            "0.3420000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.3970000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.3840000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.3780000000"
+        ]
+    },
+    "Bitcoin Testnet-Query M Request": {
+        "Regionless": [
+            "0.0000090000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0000090000"
+        ]
+    },
+    "Standard Instance bc t3.xlarge": {
+        "Regionless": [
+            "0.2670000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.2670000000"
+        ],
+        "EU (London)": [
+            "0.3020000000"
+        ],
+        "EU (Ireland)": [
+            "0.2920000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.3480000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.3380000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.3330000000"
+        ],
+        "AWS GovCloud (US)": [
+            "0.3123000000"
+        ]
+    },
+    "Bitcoin Testnet-Query XL Request": {
+        "Regionless": [
+            "0.0000250000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0000250000"
+        ]
+    },
+    "Standard Instance bc t3.medium": {
+        "Regionless": [
+            "0.0670000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0670000000"
+        ],
+        "EU (London)": [
+            "0.0760000000"
+        ],
+        "EU (Ireland)": [
+            "0.0730000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0870000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0840000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0830000000"
+        ],
+        "AWS GovCloud (US)": [
+            "0.0781000000"
+        ]
+    },
+    "Ethereum Public Instance bc m5.2xlarge": {
+        "Regionless": [
+            "0.6170000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.6170000000"
+        ],
+        "EU (London)": [
+            "0.7100000000"
+        ],
+        "EU (Ireland)": [
+            "0.6850000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.7940000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.7680000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.7550000000"
+        ]
+    },
+    "Ethereum Public Instance bc c5.xlarge": {
+        "Regionless": [
+            "0.2720000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.2720000000"
+        ],
+        "EU (London)": [
+            "0.3230000000"
+        ],
+        "EU (Ireland)": [
+            "0.3070000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.3420000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.3140000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.3070000000"
+        ]
+    },
+    "Ethereum Public Instance bc m5.large": {
+        "Regionless": [
+            "0.1540000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.1540000000"
+        ],
+        "EU (London)": [
+            "0.1780000000"
+        ],
+        "EU (Ireland)": [
+            "0.1710000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.1980000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.1920000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.1890000000"
+        ]
+    },
+    "Standard Instance bc m5.4xlarge": {
+        "Regionless": [
+            "1.2290000000"
+        ],
+        "US East (N. Virginia)": [
+            "1.2290000000"
+        ],
+        "EU (London)": [
+            "1.4210000000"
+        ],
+        "EU (Ireland)": [
+            "1.3700000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "1.5870000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "1.5360000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "1.5100000000"
+        ],
+        "AWS GovCloud (US)": [
+            "1.5488000000"
+        ]
+    },
+    "Ethereum Mainnet-Query M Request": {
+        "Regionless": [
+            "0.0000090000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0000090000"
+        ]
+    },
+    "Bitcoin Mainnet-Query M Request": {
+        "Regionless": [
+            "0.0000090000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0000090000"
+        ]
+    },
+    "Standard Instance bc c5.large": {
+        "Regionless": [
+            "0.1360000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.1360000000"
+        ],
+        "EU (London)": [
+            "0.1620000000"
+        ],
+        "EU (Ireland)": [
+            "0.1540000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.1710000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.1570000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.1540000000"
+        ],
+        "AWS GovCloud (US)": [
+            "0.1632000000"
+        ]
+    },
+    "Bitcoin Mainnet-Access XL Request": {
+        "Regionless": [
+            "0.0000250000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0000250000"
+        ],
+        "EU (London)": [
+            "0.0000360000"
+        ],
+        "EU (Ireland)": [
+            "0.0000275000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0000360000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0000320000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0000275000"
+        ]
+    },
+    "Bitcoin Testnet-Access XS Request": {
+        "Regionless": [
+            "0.0000050000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0000050000"
+        ],
+        "EU (London)": [
+            "0.0000080000"
+        ],
+        "EU (Ireland)": [
+            "0.0000060000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0000080000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0000070000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0000060000"
+        ]
+    },
+    "Ethereum Public Node Storage": {
+        "Regionless": [
+            "0.1000000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.1000000000"
+        ],
+        "EU (London)": [
+            "0.1200000000"
+        ],
+        "EU (Ireland)": [
+            "0.1100000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.1200000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.1200000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.1100000000"
+        ]
+    },
+    "Ethereum Public Instance bc c5.2xlarge": {
+        "Regionless": [
+            "0.5440000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.5440000000"
+        ],
+        "EU (London)": [
+            "0.6460000000"
+        ],
+        "EU (Ireland)": [
+            "0.6140000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.6850000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.6270000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.6140000000"
+        ]
+    },
+    "Ethereum Mainnet-Query S Request": {
+        "Regionless": [
+            "0.0000070000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0000070000"
+        ]
+    },
+    "Starter Node Storage": {
+        "Regionless": [
+            "0.1000000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.1000000000"
+        ],
+        "EU (London)": [
+            "0.1200000000"
+        ],
+        "EU (Ireland)": [
+            "0.1100000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.1200000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.1200000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.1100000000"
+        ],
+        "AWS GovCloud (US)": [
+            "0.1230000000"
+        ]
+    },
+    "Ethereum Public Request": {
+        "Regionless": [
+            "0.0000030000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0000030000"
+        ],
+        "EU (London)": [
+            "0.0000044600"
+        ],
+        "EU (Ireland)": [
+            "0.0000034100"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0000048800"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0000048100"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0000044500"
+        ]
+    },
+    "Standard Instance bc m5.large": {
+        "Regionless": [
+            "0.1540000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.1540000000"
+        ],
+        "EU (London)": [
+            "0.1780000000"
+        ],
+        "EU (Ireland)": [
+            "0.1710000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.1980000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.1920000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.1890000000"
+        ],
+        "AWS GovCloud (US)": [
+            "0.1936000000"
+        ]
+    },
+    "Ethereum Public Instance bc t3.xlarge": {
+        "Regionless": [
+            "0.2670000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.2670000000"
+        ],
+        "EU (London)": [
+            "0.3020000000"
+        ],
+        "EU (Ireland)": [
+            "0.2920000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.3480000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.3380000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.3330000000"
+        ]
+    },
+    "Starter Instance bc t3.medium": {
+        "Regionless": [
+            "0.0670000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0670000000"
+        ],
+        "EU (London)": [
+            "0.0760000000"
+        ],
+        "EU (Ireland)": [
+            "0.0730000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0870000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0840000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0830000000"
+        ],
+        "AWS GovCloud (US)": [
+            "0.0781000000"
+        ]
+    },
+    "Ethereum Public Instance bc t3.large": {
+        "Regionless": [
+            "0.1340000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.1340000000"
+        ],
+        "EU (London)": [
+            "0.1510000000"
+        ],
+        "EU (Ireland)": [
+            "0.1460000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.1740000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.1690000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.1660000000"
+        ]
+    },
+    "Standard Instance bc m5.xlarge": {
+        "Regionless": [
+            "0.3070000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.3070000000"
+        ],
+        "EU (London)": [
+            "0.3550000000"
+        ],
+        "EU (Ireland)": [
+            "0.3420000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.3970000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.3840000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.3780000000"
+        ],
+        "AWS GovCloud (US)": [
+            "0.3872000000"
+        ]
+    },
+    "Ethereum Public Instance bc m5.4xlarge": {
+        "Regionless": [
+            "1.2290000000"
+        ],
+        "US East (N. Virginia)": [
+            "1.2290000000"
+        ],
+        "EU (London)": [
+            "1.4210000000"
+        ],
+        "EU (Ireland)": [
+            "1.3700000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "1.5870000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "1.5360000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "1.5100000000"
+        ]
+    },
+    "Standard Instance bc m5.2xlarge": {
+        "Regionless": [
+            "0.6170000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.6170000000"
+        ],
+        "EU (London)": [
+            "0.7100000000"
+        ],
+        "EU (Ireland)": [
+            "0.6850000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.7940000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.7680000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.7550000000"
+        ],
+        "AWS GovCloud (US)": [
+            "0.7744000000"
+        ]
+    },
+    "Starter Member": {
+        "Regionless": [
+            "0.3000000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.3000000000"
+        ],
+        "EU (London)": [
+            "0.3600000000"
+        ],
+        "EU (Ireland)": [
+            "0.3400000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.3400000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.3400000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.3300000000"
+        ],
+        "AWS GovCloud (US)": [
+            "0.3690000000"
+        ]
+    },
+    "Ethereum Sepolia-Testnet-Query M Request": {
+        "Regionless": [
+            "0.0000090000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0000090000"
+        ]
+    },
+    "Ethereum Public Instance bc c5.4xlarge": {
+        "Regionless": [
+            "1.0880000000"
+        ],
+        "US East (N. Virginia)": [
+            "1.0880000000"
+        ],
+        "EU (London)": [
+            "1.2930000000"
+        ],
+        "EU (Ireland)": [
+            "1.2290000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "1.3700000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "1.2540000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "1.2290000000"
+        ]
+    },
+    "Bitcoin Testnet-Access XL Request": {
+        "Regionless": [
+            "0.0000250000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0000250000"
+        ],
+        "EU (London)": [
+            "0.0000360000"
+        ],
+        "EU (Ireland)": [
+            "0.0000275000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0000360000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0000320000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0000275000"
+        ]
+    },
+    "Starter Data Written": {
+        "Regionless": [
+            "0.1000000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.1000000000"
+        ],
+        "EU (London)": [
+            "0.1200000000"
+        ],
+        "EU (Ireland)": [
+            "0.1100000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.1100000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.1100000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.1100000000"
+        ],
+        "AWS GovCloud (US)": [
+            "0.1230000000"
+        ]
+    },
+    "Bitcoin Mainnet-Access L Request": {
+        "Regionless": [
+            "0.0000160000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0000160000"
+        ],
+        "EU (London)": [
+            "0.0000250000"
+        ],
+        "EU (Ireland)": [
+            "0.0000180000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0000250000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0000220000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0000180000"
+        ]
+    },
+    "Bitcoin Testnet-Query S Request": {
+        "Regionless": [
+            "0.0000070000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0000070000"
+        ]
+    },
+    "Bitcoin Mainnet-Query XL Request": {
+        "Regionless": [
+            "0.0000250000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0000250000"
+        ]
+    },
+    "Ethereum Sepolia-Testnet-Query S Request": {
+        "Regionless": [
+            "0.0000070000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0000070000"
+        ]
+    },
+    "Standard Instance bc c5.xlarge": {
+        "Regionless": [
+            "0.2720000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.2720000000"
+        ],
+        "EU (London)": [
+            "0.3230000000"
+        ],
+        "EU (Ireland)": [
+            "0.3070000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.3420000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.3140000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.3070000000"
+        ],
+        "AWS GovCloud (US)": [
+            "0.3264000000"
+        ]
+    },
+    "Bitcoin Mainnet-Access XS Request": {
+        "Regionless": [
+            "0.0000050000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0000050000"
+        ],
+        "EU (London)": [
+            "0.0000080000"
+        ],
+        "EU (Ireland)": [
+            "0.0000060000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0000080000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0000070000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0000060000"
+        ]
+    },
+    "Standard Node Storage": {
+        "Regionless": [
+            "0.1000000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.1000000000"
+        ],
+        "EU (London)": [
+            "0.1200000000"
+        ],
+        "EU (Ireland)": [
+            "0.1100000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.1200000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.1200000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.1100000000"
+        ],
+        "AWS GovCloud (US)": [
+            "0.1230000000"
+        ]
+    },
+    "Bitcoin Mainnet-Query S Request": {
+        "Regionless": [
+            "0.0000070000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0000070000"
+        ]
+    }
+}

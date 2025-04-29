@@ -1,0 +1,18 @@
+{
+    "Storage per UsageRecord month": {
+        "Regionless": [
+            "0.0000100000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0000100000"
+        ]
+    },
+    "API Request": {
+        "Regionless": [
+            "0.0100000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0100000000"
+        ]
+    }
+}

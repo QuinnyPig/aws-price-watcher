@@ -1,0 +1,1397 @@
+{
+    "FREE 15 Days unlimited free trial Code Scanning Hourly": {
+        "Regionless": [
+            "0.0000000000"
+        ],
+        "US West (Oregon)": [
+            "0.0000000000"
+        ],
+        "US East (Ohio)": [
+            "0.0000000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0000000000"
+        ],
+        "EU (Stockholm)": [
+            "0.0000000000"
+        ],
+        "EU (London)": [
+            "0.0000000000"
+        ],
+        "EU (Ireland)": [
+            "0.0000000000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0000000000"
+        ]
+    },
+    "Agentless vulnerability scans Instance hrs": {
+        "Regionless": [
+            "0.0024300000"
+        ],
+        "US West (Oregon)": [
+            "0.0024300000"
+        ],
+        "US West (N. California)": [
+            "0.0028900000"
+        ],
+        "US East (Ohio)": [
+            "0.0024300000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0024300000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0028900000"
+        ],
+        "Middle East (Bahrain)": [
+            "0.0028900000"
+        ],
+        "EU (Zurich)": [
+            "0.0028900000"
+        ],
+        "EU (Stockholm)": [
+            "0.0028900000"
+        ],
+        "EU (Paris)": [
+            "0.0028900000"
+        ],
+        "EU (Milan)": [
+            "0.0028900000"
+        ],
+        "EU (London)": [
+            "0.0028900000"
+        ],
+        "EU (Ireland)": [
+            "0.0024300000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0028900000"
+        ],
+        "Canada (Central)": [
+            "0.0028900000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0028900000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0024300000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0024300000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0028900000"
+        ],
+        "Asia Pacific (Osaka)": [
+            "0.0028900000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0028900000"
+        ],
+        "Asia Pacific (Jakarta)": [
+            "0.0028900000"
+        ],
+        "Asia Pacific (Hong Kong)": [
+            "0.0028900000"
+        ],
+        "Africa (Cape Town)": [
+            "0.0024300000"
+        ],
+        "AWS GovCloud (US-East)": [
+            "0.0024300000"
+        ],
+        "AWS GovCloud (US)": [
+            "0.0024300000"
+        ]
+    },
+    "FREE 15 Days unlimited free trial Continuous EC2 scans Instance-hrs": {
+        "Regionless": [
+            "0.0000000000"
+        ],
+        "US West (Oregon)": [
+            "0.0000000000"
+        ],
+        "US West (N. California)": [
+            "0.0000000000"
+        ],
+        "US East (Ohio)": [
+            "0.0000000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0000000000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0000000000"
+        ],
+        "Middle East (Bahrain)": [
+            "0.0000000000"
+        ],
+        "EU (Zurich)": [
+            "0.0000000000"
+        ],
+        "EU (Stockholm)": [
+            "0.0000000000"
+        ],
+        "EU (Paris)": [
+            "0.0000000000"
+        ],
+        "EU (Milan)": [
+            "0.0000000000"
+        ],
+        "EU (London)": [
+            "0.0000000000"
+        ],
+        "EU (Ireland)": [
+            "0.0000000000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0000000000"
+        ],
+        "Canada (Central)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Osaka)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Jakarta)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Hong Kong)": [
+            "0.0000000000"
+        ],
+        "Africa (Cape Town)": [
+            "0.0000000000"
+        ],
+        "AWS GovCloud (US-East)": [
+            "0.0000000000"
+        ],
+        "AWS GovCloud (US)": [
+            "0.0000000000"
+        ]
+    },
+    "FREE 15 Days unlimited free trial Initial Scan on-push to ECR Resource-assessment": {
+        "Regionless": [
+            "0.0000000000"
+        ],
+        "US West (Oregon)": [
+            "0.0000000000"
+        ],
+        "US West (N. California)": [
+            "0.0000000000"
+        ],
+        "US East (Ohio)": [
+            "0.0000000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0000000000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0000000000"
+        ],
+        "Middle East (Bahrain)": [
+            "0.0000000000"
+        ],
+        "EU (Zurich)": [
+            "0.0000000000"
+        ],
+        "EU (Stockholm)": [
+            "0.0000000000"
+        ],
+        "EU (Paris)": [
+            "0.0000000000"
+        ],
+        "EU (Milan)": [
+            "0.0000000000"
+        ],
+        "EU (London)": [
+            "0.0000000000"
+        ],
+        "EU (Ireland)": [
+            "0.0000000000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0000000000"
+        ],
+        "Canada (Central)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Osaka)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Jakarta)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Hong Kong)": [
+            "0.0000000000"
+        ],
+        "Africa (Cape Town)": [
+            "0.0000000000"
+        ],
+        "AWS GovCloud (US-East)": [
+            "0.0000000000"
+        ],
+        "AWS GovCloud (US)": [
+            "0.0000000000"
+        ]
+    },
+    "FREE Free metering free-metering Resource-assessment": {
+        "Regionless": [
+            "0.0000000000"
+        ],
+        "US West (Oregon)": [
+            "0.0000000000"
+        ],
+        "US West (N. California)": [
+            "0.0000000000"
+        ],
+        "US East (Ohio)": [
+            "0.0000000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0000000000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0000000000"
+        ],
+        "Middle East (Bahrain)": [
+            "0.0000000000"
+        ],
+        "EU (Stockholm)": [
+            "0.0000000000"
+        ],
+        "EU (Paris)": [
+            "0.0000000000"
+        ],
+        "EU (Milan)": [
+            "0.0000000000"
+        ],
+        "EU (London)": [
+            "0.0000000000"
+        ],
+        "EU (Ireland)": [
+            "0.0000000000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0000000000"
+        ],
+        "Canada (Central)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Osaka)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Hong Kong)": [
+            "0.0000000000"
+        ],
+        "Africa (Cape Town)": [
+            "0.0000000000"
+        ],
+        "AWS GovCloud (US-East)": [
+            "0.0000000000"
+        ],
+        "AWS GovCloud (US)": [
+            "0.0000000000"
+        ]
+    },
+    "Code Scanning Hourly": {
+        "Regionless": [
+            "0.0008400000"
+        ],
+        "US West (Oregon)": [
+            "0.0008400000"
+        ],
+        "US East (Ohio)": [
+            "0.0008400000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0008400000"
+        ],
+        "EU (Stockholm)": [
+            "0.0009000000"
+        ],
+        "EU (London)": [
+            "0.0009000000"
+        ],
+        "EU (Ireland)": [
+            "0.0008400000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0009000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0009000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0008400000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0008400000"
+        ]
+    },
+    "FREE 15 Days unlimited free trial Automated re-scan Resource-assessment": {
+        "Regionless": [
+            "0.0000000000"
+        ],
+        "US West (Oregon)": [
+            "0.0000000000"
+        ],
+        "US West (N. California)": [
+            "0.0000000000"
+        ],
+        "US East (Ohio)": [
+            "0.0000000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0000000000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0000000000"
+        ],
+        "Middle East (Bahrain)": [
+            "0.0000000000"
+        ],
+        "EU (Zurich)": [
+            "0.0000000000"
+        ],
+        "EU (Stockholm)": [
+            "0.0000000000"
+        ],
+        "EU (Paris)": [
+            "0.0000000000"
+        ],
+        "EU (Milan)": [
+            "0.0000000000"
+        ],
+        "EU (London)": [
+            "0.0000000000"
+        ],
+        "EU (Ireland)": [
+            "0.0000000000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0000000000"
+        ],
+        "Canada (Central)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Osaka)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Jakarta)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Hong Kong)": [
+            "0.0000000000"
+        ],
+        "Africa (Cape Town)": [
+            "0.0000000000"
+        ],
+        "AWS GovCloud (US-East)": [
+            "0.0000000000"
+        ],
+        "AWS GovCloud (US)": [
+            "0.0000000000"
+        ]
+    },
+    "FREE Free metering Code Scanning Hourly": {
+        "Regionless": [
+            "0.0000000000"
+        ],
+        "US West (Oregon)": [
+            "0.0000000000"
+        ],
+        "US East (Ohio)": [
+            "0.0000000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0000000000"
+        ],
+        "EU (Stockholm)": [
+            "0.0000000000"
+        ],
+        "EU (London)": [
+            "0.0000000000"
+        ],
+        "EU (Ireland)": [
+            "0.0000000000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0000000000"
+        ]
+    },
+    "CI CD scan resource assessment": {
+        "Regionless": [
+            "0.0300000000"
+        ],
+        "US West (Oregon)": [
+            "0.0300000000"
+        ],
+        "US West (N. California)": [
+            "0.0300000000"
+        ],
+        "US East (Ohio)": [
+            "0.0300000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0300000000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0300000000"
+        ],
+        "Middle East (Bahrain)": [
+            "0.0300000000"
+        ],
+        "EU (Zurich)": [
+            "0.0300000000"
+        ],
+        "EU (Stockholm)": [
+            "0.0300000000"
+        ],
+        "EU (Paris)": [
+            "0.0300000000"
+        ],
+        "EU (Milan)": [
+            "0.0300000000"
+        ],
+        "EU (London)": [
+            "0.0300000000"
+        ],
+        "EU (Ireland)": [
+            "0.0300000000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0300000000"
+        ],
+        "Canada (Central)": [
+            "0.0300000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0300000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0300000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0300000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0300000000"
+        ],
+        "Asia Pacific (Osaka)": [
+            "0.0300000000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0300000000"
+        ],
+        "Asia Pacific (Jakarta)": [
+            "0.0300000000"
+        ],
+        "Asia Pacific (Hong Kong)": [
+            "0.0300000000"
+        ],
+        "Africa (Cape Town)": [
+            "0.0300000000"
+        ],
+        "AWS GovCloud (US-East)": [
+            "0.0300000000"
+        ],
+        "AWS GovCloud (US)": [
+            "0.0300000000"
+        ]
+    },
+    "Continuous EC2 scans Instance hrs": {
+        "Regionless": [
+            "0.0017400000"
+        ],
+        "US West (Oregon)": [
+            "0.0017400000"
+        ],
+        "US West (N. California)": [
+            "0.0021000000"
+        ],
+        "US East (Ohio)": [
+            "0.0017400000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0017400000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0021000000"
+        ],
+        "Middle East (Bahrain)": [
+            "0.0021000000"
+        ],
+        "EU (Zurich)": [
+            "0.0021000000"
+        ],
+        "EU (Stockholm)": [
+            "0.0021000000"
+        ],
+        "EU (Paris)": [
+            "0.0021000000"
+        ],
+        "EU (Milan)": [
+            "0.0021000000"
+        ],
+        "EU (London)": [
+            "0.0021000000"
+        ],
+        "EU (Ireland)": [
+            "0.0017400000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0021000000"
+        ],
+        "Canada (Central)": [
+            "0.0021000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0021000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0017400000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0017400000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0021000000"
+        ],
+        "Asia Pacific (Osaka)": [
+            "0.0021000000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0021000000"
+        ],
+        "Asia Pacific (Jakarta)": [
+            "0.0021000000"
+        ],
+        "Asia Pacific (Hong Kong)": [
+            "0.0021000000"
+        ],
+        "Africa (Cape Town)": [
+            "0.0017400000"
+        ],
+        "AWS GovCloud (US-East)": [
+            "0.0017400000"
+        ],
+        "AWS GovCloud (US)": [
+            "0.0017400000"
+        ]
+    },
+    "Initial Scan on push to ECR Resource-assessment": {
+        "Regionless": [
+            "0.0900000000"
+        ],
+        "US West (Oregon)": [
+            "0.0900000000"
+        ],
+        "US West (N. California)": [
+            "0.1100000000"
+        ],
+        "US East (Ohio)": [
+            "0.0900000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0900000000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.1100000000"
+        ],
+        "Middle East (Bahrain)": [
+            "0.1100000000"
+        ],
+        "EU (Zurich)": [
+            "0.1100000000"
+        ],
+        "EU (Stockholm)": [
+            "0.1100000000"
+        ],
+        "EU (Paris)": [
+            "0.1100000000"
+        ],
+        "EU (Milan)": [
+            "0.1100000000"
+        ],
+        "EU (London)": [
+            "0.1100000000"
+        ],
+        "EU (Ireland)": [
+            "0.0900000000"
+        ],
+        "EU (Frankfurt)": [
+            "0.1100000000"
+        ],
+        "Canada (Central)": [
+            "0.1100000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.1100000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0900000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0900000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.1100000000"
+        ],
+        "Asia Pacific (Osaka)": [
+            "0.1100000000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.1100000000"
+        ],
+        "Asia Pacific (Jakarta)": [
+            "0.1100000000"
+        ],
+        "Asia Pacific (Hong Kong)": [
+            "0.1100000000"
+        ],
+        "Africa (Cape Town)": [
+            "0.0900000000"
+        ],
+        "AWS GovCloud (US-East)": [
+            "0.0900000000"
+        ],
+        "AWS GovCloud (US)": [
+            "0.0900000000"
+        ]
+    },
+    "FREE Free CI CD scan resource assessment": {
+        "Regionless": [
+            "0.0000000000"
+        ],
+        "US West (Oregon)": [
+            "0.0000000000"
+        ],
+        "US West (N. California)": [
+            "0.0000000000"
+        ],
+        "US East (Ohio)": [
+            "0.0000000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0000000000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0000000000"
+        ],
+        "Middle East (Bahrain)": [
+            "0.0000000000"
+        ],
+        "EU (Zurich)": [
+            "0.0000000000"
+        ],
+        "EU (Stockholm)": [
+            "0.0000000000"
+        ],
+        "EU (Paris)": [
+            "0.0000000000"
+        ],
+        "EU (Milan)": [
+            "0.0000000000"
+        ],
+        "EU (London)": [
+            "0.0000000000"
+        ],
+        "EU (Ireland)": [
+            "0.0000000000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0000000000"
+        ],
+        "Canada (Central)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Osaka)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Jakarta)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Hong Kong)": [
+            "0.0000000000"
+        ],
+        "Africa (Cape Town)": [
+            "0.0000000000"
+        ],
+        "AWS GovCloud (US-East)": [
+            "0.0000000000"
+        ],
+        "AWS GovCloud (US)": [
+            "0.0000000000"
+        ]
+    },
+    "FREE 15 Days unlimited free trial Agentless vulnerability scans Instance-hrs": {
+        "Regionless": [
+            "0.0000000000"
+        ],
+        "US West (Oregon)": [
+            "0.0000000000"
+        ],
+        "US West (N. California)": [
+            "0.0000000000"
+        ],
+        "US East (Ohio)": [
+            "0.0000000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0000000000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0000000000"
+        ],
+        "Middle East (Bahrain)": [
+            "0.0000000000"
+        ],
+        "EU (Zurich)": [
+            "0.0000000000"
+        ],
+        "EU (Stockholm)": [
+            "0.0000000000"
+        ],
+        "EU (Paris)": [
+            "0.0000000000"
+        ],
+        "EU (Milan)": [
+            "0.0000000000"
+        ],
+        "EU (London)": [
+            "0.0000000000"
+        ],
+        "EU (Ireland)": [
+            "0.0000000000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0000000000"
+        ],
+        "Canada (Central)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Osaka)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Jakarta)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Hong Kong)": [
+            "0.0000000000"
+        ],
+        "Africa (Cape Town)": [
+            "0.0000000000"
+        ],
+        "AWS GovCloud (US-East)": [
+            "0.0000000000"
+        ],
+        "AWS GovCloud (US)": [
+            "0.0000000000"
+        ]
+    },
+    "FREE 15 Days unlimited free trial Standard Scanning Hourly": {
+        "Regionless": [
+            "0.0000000000"
+        ],
+        "US West (Oregon)": [
+            "0.0000000000"
+        ],
+        "US West (N. California)": [
+            "0.0000000000"
+        ],
+        "US East (Ohio)": [
+            "0.0000000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0000000000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0000000000"
+        ],
+        "Middle East (Bahrain)": [
+            "0.0000000000"
+        ],
+        "EU (Zurich)": [
+            "0.0000000000"
+        ],
+        "EU (Stockholm)": [
+            "0.0000000000"
+        ],
+        "EU (Paris)": [
+            "0.0000000000"
+        ],
+        "EU (Milan)": [
+            "0.0000000000"
+        ],
+        "EU (London)": [
+            "0.0000000000"
+        ],
+        "EU (Ireland)": [
+            "0.0000000000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0000000000"
+        ],
+        "Canada (Central)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Osaka)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Jakarta)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Hong Kong)": [
+            "0.0000000000"
+        ],
+        "Africa (Cape Town)": [
+            "0.0000000000"
+        ],
+        "AWS GovCloud (US-East)": [
+            "0.0000000000"
+        ],
+        "AWS GovCloud (US)": [
+            "0.0000000000"
+        ]
+    },
+    "Standard Scanning Hourly": {
+        "Regionless": [
+            "0.0004170000"
+        ],
+        "US West (Oregon)": [
+            "0.0004170000"
+        ],
+        "US West (N. California)": [
+            "0.0005000000"
+        ],
+        "US East (Ohio)": [
+            "0.0004170000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0004170000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0005000000"
+        ],
+        "Middle East (Bahrain)": [
+            "0.0005000000"
+        ],
+        "EU (Zurich)": [
+            "0.0005000000"
+        ],
+        "EU (Stockholm)": [
+            "0.0005000000"
+        ],
+        "EU (Paris)": [
+            "0.0005000000"
+        ],
+        "EU (Milan)": [
+            "0.0005000000"
+        ],
+        "EU (London)": [
+            "0.0005000000"
+        ],
+        "EU (Ireland)": [
+            "0.0004170000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0005000000"
+        ],
+        "Canada (Central)": [
+            "0.0005000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0005000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0004170000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0004170000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0005000000"
+        ],
+        "Asia Pacific (Osaka)": [
+            "0.0005000000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0005000000"
+        ],
+        "Asia Pacific (Jakarta)": [
+            "0.0005000000"
+        ],
+        "Asia Pacific (Hong Kong)": [
+            "0.0005000000"
+        ],
+        "Africa (Cape Town)": [
+            "0.0004170000"
+        ],
+        "AWS GovCloud (US-East)": [
+            "0.0005000000"
+        ],
+        "AWS GovCloud (US)": [
+            "0.0005000000"
+        ]
+    },
+    "FREE Free metering Continuous EC2 scans Instance-hrs": {
+        "Regionless": [
+            "0.0000000000"
+        ],
+        "US West (Oregon)": [
+            "0.0000000000"
+        ],
+        "US West (N. California)": [
+            "0.0000000000"
+        ],
+        "US East (Ohio)": [
+            "0.0000000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0000000000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0000000000"
+        ],
+        "Middle East (Bahrain)": [
+            "0.0000000000"
+        ],
+        "EU (Zurich)": [
+            "0.0000000000"
+        ],
+        "EU (Stockholm)": [
+            "0.0000000000"
+        ],
+        "EU (Paris)": [
+            "0.0000000000"
+        ],
+        "EU (Milan)": [
+            "0.0000000000"
+        ],
+        "EU (London)": [
+            "0.0000000000"
+        ],
+        "EU (Ireland)": [
+            "0.0000000000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0000000000"
+        ],
+        "Canada (Central)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Osaka)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Jakarta)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Hong Kong)": [
+            "0.0000000000"
+        ],
+        "Africa (Cape Town)": [
+            "0.0000000000"
+        ],
+        "AWS GovCloud (US-East)": [
+            "0.0000000000"
+        ],
+        "AWS GovCloud (US)": [
+            "0.0000000000"
+        ]
+    },
+    "CIS checks Resource assessment": {
+        "Regionless": [
+            "0.0300000000"
+        ],
+        "US West (Oregon)": [
+            "0.0300000000"
+        ],
+        "US West (N. California)": [
+            "0.0300000000"
+        ],
+        "US East (Ohio)": [
+            "0.0300000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0300000000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0300000000"
+        ],
+        "Middle East (Bahrain)": [
+            "0.0300000000"
+        ],
+        "EU (Zurich)": [
+            "0.0300000000"
+        ],
+        "EU (Stockholm)": [
+            "0.0300000000"
+        ],
+        "EU (Paris)": [
+            "0.0300000000"
+        ],
+        "EU (Milan)": [
+            "0.0300000000"
+        ],
+        "EU (London)": [
+            "0.0300000000"
+        ],
+        "EU (Ireland)": [
+            "0.0300000000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0300000000"
+        ],
+        "Canada (Central)": [
+            "0.0300000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0300000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0300000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0300000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0300000000"
+        ],
+        "Asia Pacific (Osaka)": [
+            "0.0300000000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0300000000"
+        ],
+        "Asia Pacific (Jakarta)": [
+            "0.0300000000"
+        ],
+        "Asia Pacific (Hong Kong)": [
+            "0.0300000000"
+        ],
+        "Africa (Cape Town)": [
+            "0.0300000000"
+        ],
+        "AWS GovCloud (US-East)": [
+            "0.0300000000"
+        ],
+        "AWS GovCloud (US)": [
+            "0.0300000000"
+        ]
+    },
+    "FREE Free metering Standard Scanning Hourly": {
+        "Regionless": [
+            "0.0000000000"
+        ],
+        "US West (Oregon)": [
+            "0.0000000000"
+        ]
+    },
+    "Automated re scan Resource-assessment": {
+        "Regionless": [
+            "0.0100000000"
+        ],
+        "US West (Oregon)": [
+            "0.0100000000"
+        ],
+        "US West (N. California)": [
+            "0.0100000000"
+        ],
+        "US East (Ohio)": [
+            "0.0100000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0100000000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0100000000"
+        ],
+        "Middle East (Bahrain)": [
+            "0.0100000000"
+        ],
+        "EU (Zurich)": [
+            "0.0100000000"
+        ],
+        "EU (Stockholm)": [
+            "0.0100000000"
+        ],
+        "EU (Paris)": [
+            "0.0100000000"
+        ],
+        "EU (Milan)": [
+            "0.0100000000"
+        ],
+        "EU (London)": [
+            "0.0100000000"
+        ],
+        "EU (Ireland)": [
+            "0.0100000000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0100000000"
+        ],
+        "Canada (Central)": [
+            "0.0100000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0100000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0100000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0100000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0100000000"
+        ],
+        "Asia Pacific (Osaka)": [
+            "0.0100000000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0100000000"
+        ],
+        "Asia Pacific (Jakarta)": [
+            "0.0100000000"
+        ],
+        "Asia Pacific (Hong Kong)": [
+            "0.0100000000"
+        ],
+        "Africa (Cape Town)": [
+            "0.0100000000"
+        ],
+        "AWS GovCloud (US-East)": [
+            "0.0100000000"
+        ],
+        "AWS GovCloud (US)": [
+            "0.0100000000"
+        ]
+    },
+    "FREE Free metering free-metering Hourly": {
+        "Regionless": [
+            "0.0000000000"
+        ],
+        "US West (N. California)": [
+            "0.0000000000"
+        ],
+        "US East (Ohio)": [
+            "0.0000000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0000000000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0000000000"
+        ],
+        "Middle East (Bahrain)": [
+            "0.0000000000"
+        ],
+        "EU (Zurich)": [
+            "0.0000000000"
+        ],
+        "EU (Stockholm)": [
+            "0.0000000000"
+        ],
+        "EU (Paris)": [
+            "0.0000000000"
+        ],
+        "EU (Milan)": [
+            "0.0000000000"
+        ],
+        "EU (London)": [
+            "0.0000000000"
+        ],
+        "EU (Ireland)": [
+            "0.0000000000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0000000000"
+        ],
+        "Canada (Central)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Osaka)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Jakarta)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Hong Kong)": [
+            "0.0000000000"
+        ],
+        "Africa (Cape Town)": [
+            "0.0000000000"
+        ],
+        "AWS GovCloud (US-East)": [
+            "0.0000000000"
+        ],
+        "AWS GovCloud (US)": [
+            "0.0000000000"
+        ]
+    },
+    "FREE Free metering Initial Scan on-push to ECR Resource-assessment": {
+        "Regionless": [
+            "0.0000000000"
+        ],
+        "EU (Zurich)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Jakarta)": [
+            "0.0000000000"
+        ]
+    }
+}

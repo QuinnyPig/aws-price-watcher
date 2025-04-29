@@ -1,0 +1,984 @@
+{
+    "Linux Streaming Instance": {
+        "Regionless": [
+            "1.4040000000"
+        ],
+        "US West (Oregon)": [
+            "1.4930000000",
+            "3.0160000000",
+            "4.8740000000",
+            "0.8990000000",
+            "1.4040000000",
+            "0.8420000000",
+            "1.3480000000",
+            "1.2390000000",
+            "2.4370000000",
+            "5.0460000000",
+            "2.0010000000",
+            "0.5890000000",
+            "4.3810000000"
+        ],
+        "US West (Los Angeles)": [
+            "4.8740000000",
+            "1.3480000000",
+            "0.8420000000",
+            "2.4370000000",
+            "0.5890000000",
+            "4.3810000000"
+        ],
+        "US East (N. Virginia)": [
+            "1.4930000000",
+            "3.0160000000",
+            "4.8740000000",
+            "0.8990000000",
+            "1.4040000000",
+            "0.8420000000",
+            "1.3480000000",
+            "1.2390000000",
+            "2.4370000000",
+            "5.0460000000",
+            "2.0010000000",
+            "0.5890000000",
+            "4.3810000000"
+        ],
+        "EU (London)": [
+            "1.5730000000",
+            "5.1260000000",
+            "1.1290000000",
+            "5.7030000000",
+            "0.6890000000",
+            "0.9860000000",
+            "2.8520000000",
+            "1.5780000000",
+            "2.5400000000",
+            "6.4060000000",
+            "1.8950000000",
+            "1.7610000000",
+            "3.8280000000"
+        ],
+        "Canada (Central)": [
+            "5.4120000000",
+            "2.2220000000",
+            "1.3760000000",
+            "1.7450000000",
+            "0.9350000000",
+            "5.6030000000",
+            "3.3490000000",
+            "4.8640000000",
+            "1.4970000000",
+            "0.6540000000",
+            "2.7060000000",
+            "1.6580000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "7.3190000000",
+            "0.5947000000",
+            "1.2580000000",
+            "0.8501000000",
+            "4.9190000000",
+            "2.9020000000",
+            "4.4218000000",
+            "1.9470000000",
+            "1.3608000000",
+            "4.3740000000",
+            "1.7970000000",
+            "2.1660000000",
+            "2.4595000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "1.3850000000",
+            "2.1610000000",
+            "1.0950000000",
+            "0.7660000000",
+            "6.3380000000",
+            "5.6970000000",
+            "3.1700000000",
+            "1.7540000000"
+        ]
+    },
+    "Windows Streaming Instance": {
+        "Regionless": [
+            "2.2290000000"
+        ],
+        "US West (Oregon)": [
+            "1.9050000000",
+            "1.2540000000",
+            "0.7950000000",
+            "1.4450000000",
+            "2.2290000000",
+            "4.0860000000",
+            "4.6650000000",
+            "2.8250000000",
+            "8.1720000000",
+            "6.8540000000",
+            "2.1730000000",
+            "8.3440000000",
+            "1.1050000000"
+        ],
+        "US West (Los Angeles)": [
+            "0.7950000000",
+            "4.0860000000",
+            "8.1720000000",
+            "6.8540000000",
+            "2.1730000000",
+            "1.2540000000"
+        ],
+        "US East (N. Virginia)": [
+            "1.9050000000",
+            "1.2540000000",
+            "0.7950000000",
+            "1.4450000000",
+            "2.2290000000",
+            "4.0860000000",
+            "4.6650000000",
+            "2.8250000000",
+            "8.1720000000",
+            "6.8540000000",
+            "2.1730000000",
+            "8.3440000000",
+            "1.1050000000"
+        ],
+        "EU (London)": [
+            "1.3980000000",
+            "2.3080000000",
+            "5.4770000000",
+            "4.5000000000",
+            "9.7030000000",
+            "7.5990000000",
+            "2.4020000000",
+            "9.0000000000",
+            "2.5850000000",
+            "1.3350000000",
+            "3.3640000000",
+            "0.8950000000",
+            "1.7790000000"
+        ],
+        "Canada (Central)": [
+            "7.3370000000",
+            "4.3550000000",
+            "8.7090000000",
+            "3.0460000000",
+            "1.5820000000",
+            "2.5690000000",
+            "4.9970000000",
+            "1.3470000000",
+            "0.8600000000",
+            "2.0700000000",
+            "8.9000000000",
+            "2.3220000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "4.1082000000",
+            "3.7260000000",
+            "2.1851000000",
+            "0.8008000000",
+            "10.6160000000",
+            "2.5780000000",
+            "6.0230000000",
+            "2.0040000000",
+            "6.8947000000",
+            "1.2622000000",
+            "8.2163000000",
+            "1.4640000000",
+            "2.7710000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "4.8180000000",
+            "0.9720000000",
+            "2.9850000000",
+            "8.1700000000",
+            "2.5780000000",
+            "1.5080000000",
+            "9.6350000000",
+            "1.5920000000"
+        ]
+    },
+    "Windows Streaming Instance g4dn 16xlarge AWS Region": {
+        "Regionless": [
+            "8.1720000000"
+        ],
+        "US West (Oregon)": [
+            "8.1720000000"
+        ],
+        "US East (N. Virginia)": [
+            "8.1720000000"
+        ],
+        "EU (London)": [
+            "9.0000000000"
+        ],
+        "Canada (Central)": [
+            "8.7090000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "8.2163000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "9.6350000000"
+        ]
+    },
+    "Windows Streaming Instance g3 4xlarge AWS Region": {
+        "Regionless": [
+            "2.2290000000"
+        ],
+        "US West (Oregon)": [
+            "2.2290000000"
+        ],
+        "US East (N. Virginia)": [
+            "2.2290000000"
+        ],
+        "EU (London)": [
+            "2.5850000000"
+        ],
+        "Canada (Central)": [
+            "2.5690000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "2.7710000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "2.9850000000"
+        ]
+    },
+    "Linux Streaming Instance g5 xlarge AWS Region": {
+        "Regionless": [
+            "1.2390000000"
+        ],
+        "US West (Oregon)": [
+            "1.2390000000"
+        ],
+        "US East (N. Virginia)": [
+            "1.2390000000"
+        ],
+        "EU (London)": [
+            "1.5730000000"
+        ],
+        "Canada (Central)": [
+            "1.3760000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "1.7970000000"
+        ]
+    },
+    "Linux Streaming Instance g5 16xlarge AWS Region": {
+        "Regionless": [
+            "5.0460000000"
+        ],
+        "US West (Oregon)": [
+            "5.0460000000"
+        ],
+        "US East (N. Virginia)": [
+            "5.0460000000"
+        ],
+        "EU (London)": [
+            "6.4060000000"
+        ],
+        "Canada (Central)": [
+            "5.6030000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "7.3190000000"
+        ]
+    },
+    "Windows Streaming Instance g4dn 8xlarge AWS Region": {
+        "Regionless": [
+            "4.0860000000"
+        ],
+        "US West (Oregon)": [
+            "4.0860000000"
+        ],
+        "US East (N. Virginia)": [
+            "4.0860000000"
+        ],
+        "EU (London)": [
+            "4.5000000000"
+        ],
+        "Canada (Central)": [
+            "4.3550000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "4.1082000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "4.8180000000"
+        ]
+    },
+    "Windows Streaming Instance g4dn xlarge AWS Region": {
+        "Regionless": [
+            "0.7950000000"
+        ],
+        "US West (Oregon)": [
+            "0.7950000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.7950000000"
+        ],
+        "EU (London)": [
+            "0.8950000000"
+        ],
+        "Canada (Central)": [
+            "0.8600000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.8008000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.9720000000"
+        ]
+    },
+    "System Operation per IOPS-Mo": {
+        "Regionless": [
+            "0.0063000000"
+        ],
+        "US West (Oregon)": [
+            "0.0063000000"
+        ],
+        "US West (Los Angeles)": [
+            "0.0075000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0063000000"
+        ],
+        "EU (London)": [
+            "0.0063000000"
+        ],
+        "Canada (Central)": [
+            "0.0069000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0075000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0075000000"
+        ]
+    },
+    "Windows Streaming Instance g5 16xlarge AWS Region": {
+        "Regionless": [
+            "8.3440000000"
+        ],
+        "US West (Oregon)": [
+            "8.3440000000"
+        ],
+        "US East (N. Virginia)": [
+            "8.3440000000"
+        ],
+        "EU (London)": [
+            "9.7030000000"
+        ],
+        "Canada (Central)": [
+            "8.9000000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "10.6160000000"
+        ]
+    },
+    "Windows Streaming Instance g4dn 12xlarge AWS Region": {
+        "Regionless": [
+            "6.8540000000"
+        ],
+        "US West (Oregon)": [
+            "6.8540000000"
+        ],
+        "US East (N. Virginia)": [
+            "6.8540000000"
+        ],
+        "EU (London)": [
+            "7.5990000000"
+        ],
+        "Canada (Central)": [
+            "7.3370000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "6.8947000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "8.1700000000"
+        ]
+    },
+    "Linux Streaming Instance g4dn 8xlarge AWS Region": {
+        "Regionless": [
+            "2.4370000000"
+        ],
+        "US West (Oregon)": [
+            "2.4370000000"
+        ],
+        "US East (N. Virginia)": [
+            "2.4370000000"
+        ],
+        "EU (London)": [
+            "2.8520000000"
+        ],
+        "Canada (Central)": [
+            "2.7060000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "2.4595000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "3.1700000000"
+        ]
+    },
+    "Linux Streaming Instance g4dn xlarge AWS Region": {
+        "Regionless": [
+            "0.5890000000"
+        ],
+        "US West (Oregon)": [
+            "0.5890000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.5890000000"
+        ],
+        "EU (London)": [
+            "0.6890000000"
+        ],
+        "Canada (Central)": [
+            "0.6540000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.5947000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.7660000000"
+        ]
+    },
+    "User Fees per user": {
+        "Regionless": [
+            "4.1900000000"
+        ],
+        "US West (Oregon)": [
+            "4.1900000000"
+        ],
+        "US West (Los Angeles)": [
+            "4.1900000000"
+        ],
+        "US East (N. Virginia)": [
+            "4.1900000000"
+        ],
+        "EU (London)": [
+            "4.1900000000"
+        ],
+        "Canada (Central)": [
+            "4.1900000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "4.1900000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "4.1900000000"
+        ]
+    },
+    "Windows Streaming Instance g5 xlarge AWS Region": {
+        "Regionless": [
+            "1.4450000000"
+        ],
+        "US West (Oregon)": [
+            "1.4450000000"
+        ],
+        "US East (N. Virginia)": [
+            "1.4450000000"
+        ],
+        "EU (London)": [
+            "1.7790000000"
+        ],
+        "Canada (Central)": [
+            "1.5820000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "2.0040000000"
+        ]
+    },
+    "Windows Streaming Instance g4dn 2xlarge AWS Region": {
+        "Regionless": [
+            "1.2540000000"
+        ],
+        "US West (Oregon)": [
+            "1.2540000000"
+        ],
+        "US East (N. Virginia)": [
+            "1.2540000000"
+        ],
+        "EU (London)": [
+            "1.3980000000"
+        ],
+        "Canada (Central)": [
+            "1.3470000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "1.2622000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "1.5080000000"
+        ]
+    },
+    "Linux Streaming Instance g4dn 2xlarge AWS Region": {
+        "Regionless": [
+            "0.8420000000"
+        ],
+        "US West (Oregon)": [
+            "0.8420000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.8420000000"
+        ],
+        "EU (London)": [
+            "0.9860000000"
+        ],
+        "Canada (Central)": [
+            "0.9350000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.8501000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "1.0950000000"
+        ]
+    },
+    "Provisioned Throughput per GiBps-mo": {
+        "Regionless": [
+            "0.0500000000"
+        ],
+        "US West (Oregon)": [
+            "0.0500000000"
+        ],
+        "US West (Los Angeles)": [
+            "0.0600000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0500000000"
+        ],
+        "EU (London)": [
+            "0.0500000000"
+        ],
+        "Canada (Central)": [
+            "0.0550000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0600000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0600000000"
+        ]
+    },
+    "Linux Streaming Instance g5 4xlarge AWS Region": {
+        "Regionless": [
+            "2.0010000000"
+        ],
+        "US West (Oregon)": [
+            "2.0010000000"
+        ],
+        "US East (N. Virginia)": [
+            "2.0010000000"
+        ],
+        "EU (London)": [
+            "2.5400000000"
+        ],
+        "Canada (Central)": [
+            "2.2220000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "2.9020000000"
+        ]
+    },
+    "Windows Streaming Instance g5 2xlarge AWS Region": {
+        "Regionless": [
+            "1.9050000000"
+        ],
+        "US West (Oregon)": [
+            "1.9050000000"
+        ],
+        "US East (N. Virginia)": [
+            "1.9050000000"
+        ],
+        "EU (London)": [
+            "2.3080000000"
+        ],
+        "Canada (Central)": [
+            "2.0700000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "2.5780000000"
+        ]
+    },
+    "Storage per GB-Mo": {
+        "Regionless": [
+            "0.1000000000"
+        ],
+        "US West (Oregon)": [
+            "0.1000000000"
+        ],
+        "US West (Los Angeles)": [
+            "0.1200000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.1000000000"
+        ],
+        "EU (London)": [
+            "0.1160000000"
+        ],
+        "Canada (Central)": [
+            "0.1100000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.1200000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.1200000000"
+        ]
+    },
+    "Windows Streaming Instance g5 8xlarge AWS Region": {
+        "Regionless": [
+            "4.6650000000"
+        ],
+        "US West (Oregon)": [
+            "4.6650000000"
+        ],
+        "US East (N. Virginia)": [
+            "4.6650000000"
+        ],
+        "EU (London)": [
+            "5.4770000000"
+        ],
+        "Canada (Central)": [
+            "4.9970000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "6.0230000000"
+        ]
+    },
+    "Linux Streaming Instance g3 4xlarge AWS Region": {
+        "Regionless": [
+            "1.4040000000"
+        ],
+        "US West (Oregon)": [
+            "1.4040000000"
+        ],
+        "US East (N. Virginia)": [
+            "1.4040000000"
+        ],
+        "EU (London)": [
+            "1.7610000000"
+        ],
+        "Canada (Central)": [
+            "1.7450000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "1.9470000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "2.1610000000"
+        ]
+    },
+    "Windows Streaming Instance g5 4xlarge AWS Region": {
+        "Regionless": [
+            "2.8250000000"
+        ],
+        "US West (Oregon)": [
+            "2.8250000000"
+        ],
+        "US East (N. Virginia)": [
+            "2.8250000000"
+        ],
+        "EU (London)": [
+            "3.3640000000"
+        ],
+        "Canada (Central)": [
+            "3.0460000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "3.7260000000"
+        ]
+    },
+    "Linux Streaming Instance g4dn 16xlarge AWS Region": {
+        "Regionless": [
+            "4.8740000000"
+        ],
+        "US West (Oregon)": [
+            "4.8740000000"
+        ],
+        "US East (N. Virginia)": [
+            "4.8740000000"
+        ],
+        "EU (London)": [
+            "5.7030000000"
+        ],
+        "Canada (Central)": [
+            "5.4120000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "4.9190000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "6.3380000000"
+        ]
+    },
+    "Windows Streaming Instance g4dn 4xlarge AWS Region": {
+        "Regionless": [
+            "2.1730000000"
+        ],
+        "US West (Oregon)": [
+            "2.1730000000"
+        ],
+        "US East (N. Virginia)": [
+            "2.1730000000"
+        ],
+        "EU (London)": [
+            "2.4020000000"
+        ],
+        "Canada (Central)": [
+            "2.3220000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "2.1851000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "2.5780000000"
+        ]
+    },
+    "Windows Streaming Instance g3s xlarge AWS Region": {
+        "Regionless": [
+            "1.1050000000"
+        ],
+        "US West (Oregon)": [
+            "1.1050000000"
+        ],
+        "US East (N. Virginia)": [
+            "1.1050000000"
+        ],
+        "EU (London)": [
+            "1.3350000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "1.4640000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "1.5920000000"
+        ]
+    },
+    "Linux Streaming Instance g3s xlarge AWS Region": {
+        "Regionless": [
+            "0.8990000000"
+        ],
+        "US West (Oregon)": [
+            "0.8990000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.8990000000"
+        ],
+        "EU (London)": [
+            "1.1290000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "1.2580000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "1.3850000000"
+        ]
+    },
+    "Linux Streaming Instance g5 8xlarge AWS Region": {
+        "Regionless": [
+            "3.0160000000"
+        ],
+        "US West (Oregon)": [
+            "3.0160000000"
+        ],
+        "US East (N. Virginia)": [
+            "3.0160000000"
+        ],
+        "EU (London)": [
+            "3.8280000000"
+        ],
+        "Canada (Central)": [
+            "3.3490000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "4.3740000000"
+        ]
+    },
+    "Storage Snapshot per GB-Mo": {
+        "Regionless": [
+            "0.0625000000"
+        ],
+        "US West (Oregon)": [
+            "0.0625000000"
+        ],
+        "US West (Los Angeles)": [
+            "0.0625000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0625000000"
+        ],
+        "EU (London)": [
+            "0.0663000000"
+        ],
+        "Canada (Central)": [
+            "0.0688000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0625000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0688000000"
+        ]
+    },
+    "Linux Streaming Instance g4dn 12xlarge AWS Region": {
+        "Regionless": [
+            "4.3810000000"
+        ],
+        "US West (Oregon)": [
+            "4.3810000000"
+        ],
+        "US East (N. Virginia)": [
+            "4.3810000000"
+        ],
+        "EU (London)": [
+            "5.1260000000"
+        ],
+        "Canada (Central)": [
+            "4.8640000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "4.4218000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "5.6970000000"
+        ]
+    },
+    "Linux Streaming Instance g5 2xlarge AWS Region": {
+        "Regionless": [
+            "1.4930000000"
+        ],
+        "US West (Oregon)": [
+            "1.4930000000"
+        ],
+        "US East (N. Virginia)": [
+            "1.4930000000"
+        ],
+        "EU (London)": [
+            "1.8950000000"
+        ],
+        "Canada (Central)": [
+            "1.6580000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "2.1660000000"
+        ]
+    },
+    "Linux Streaming Instance g4dn 4xlarge AWS Region": {
+        "Regionless": [
+            "1.3480000000"
+        ],
+        "US West (Oregon)": [
+            "1.3480000000"
+        ],
+        "US East (N. Virginia)": [
+            "1.3480000000"
+        ],
+        "EU (London)": [
+            "1.5780000000"
+        ],
+        "Canada (Central)": [
+            "1.4970000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "1.3608000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "1.7540000000"
+        ]
+    },
+    "Windows Streaming Instance g4dn 16xlarge AWS Local Zone": {
+        "Regionless": [
+            "8.1720000000"
+        ],
+        "US West (Los Angeles)": [
+            "8.1720000000"
+        ]
+    },
+    "Windows Streaming Instance g4dn 8xlarge AWS Local Zone": {
+        "Regionless": [
+            "4.0860000000"
+        ],
+        "US West (Los Angeles)": [
+            "4.0860000000"
+        ]
+    },
+    "Windows Streaming Instance g4dn xlarge AWS Local Zone": {
+        "Regionless": [
+            "0.7950000000"
+        ],
+        "US West (Los Angeles)": [
+            "0.7950000000"
+        ]
+    },
+    "Windows Streaming Instance g4dn 12xlarge AWS Local Zone": {
+        "Regionless": [
+            "6.8540000000"
+        ],
+        "US West (Los Angeles)": [
+            "6.8540000000"
+        ]
+    },
+    "Linux Streaming Instance g4dn 8xlarge AWS Local Zone": {
+        "Regionless": [
+            "2.4370000000"
+        ],
+        "US West (Los Angeles)": [
+            "2.4370000000"
+        ]
+    },
+    "Linux Streaming Instance g4dn xlarge AWS Local Zone": {
+        "Regionless": [
+            "0.5890000000"
+        ],
+        "US West (Los Angeles)": [
+            "0.5890000000"
+        ]
+    },
+    "Windows Streaming Instance g4dn 2xlarge AWS Local Zone": {
+        "Regionless": [
+            "1.2540000000"
+        ],
+        "US West (Los Angeles)": [
+            "1.2540000000"
+        ]
+    },
+    "Linux Streaming Instance g4dn 2xlarge AWS Local Zone": {
+        "Regionless": [
+            "0.8420000000"
+        ],
+        "US West (Los Angeles)": [
+            "0.8420000000"
+        ]
+    },
+    "Linux Streaming Instance g4dn 16xlarge AWS Local Zone": {
+        "Regionless": [
+            "4.8740000000"
+        ],
+        "US West (Los Angeles)": [
+            "4.8740000000"
+        ]
+    },
+    "Windows Streaming Instance g4dn 4xlarge AWS Local Zone": {
+        "Regionless": [
+            "2.1730000000"
+        ],
+        "US West (Los Angeles)": [
+            "2.1730000000"
+        ]
+    },
+    "Linux Streaming Instance g4dn 12xlarge AWS Local Zone": {
+        "Regionless": [
+            "4.3810000000"
+        ],
+        "US West (Los Angeles)": [
+            "4.3810000000"
+        ]
+    },
+    "Linux Streaming Instance g4dn 4xlarge AWS Local Zone": {
+        "Regionless": [
+            "1.3480000000"
+        ],
+        "US West (Los Angeles)": [
+            "1.3480000000"
+        ]
+    }
+}

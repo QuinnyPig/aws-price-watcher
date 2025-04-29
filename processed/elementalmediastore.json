@@ -1,0 +1,263 @@
+{
+    "DELETE Request": {
+        "Asia Pacific (Seoul)": [
+            "0.0000045000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0000055000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0000047000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0000054000"
+        ],
+        "EU (Ireland)": [
+            "0.0000050000"
+        ],
+        "EU (London)": [
+            "0.0000054000"
+        ],
+        "EU (Stockholm)": [
+            "0.0000050000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0000050000"
+        ],
+        "US West (Oregon)": [
+            "0.0000050000"
+        ]
+    },
+    "GET Request": {
+        "Asia Pacific (Seoul)": [
+            "0.0000003500"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0000004400"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0000003700"
+        ],
+        "EU (Frankfurt)": [
+            "0.0000004300"
+        ],
+        "EU (Ireland)": [
+            "0.0000004000"
+        ],
+        "EU (London)": [
+            "0.0000004300"
+        ],
+        "EU (Stockholm)": [
+            "0.0000004000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0000004000"
+        ],
+        "US West (Oregon)": [
+            "0.0000004000"
+        ]
+    },
+    "Ingest Optimization": {
+        "Asia Pacific (Seoul)": [
+            "0.0350000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0250000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0350000000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0300000000"
+        ],
+        "EU (Ireland)": [
+            "0.0200000000"
+        ],
+        "EU (London)": [
+            "0.0300000000"
+        ],
+        "EU (Stockholm)": [
+            "0.0200000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0200000000"
+        ],
+        "US West (Oregon)": [
+            "0.0200000000"
+        ]
+    },
+    "PUT Request": {
+        "Asia Pacific (Seoul)": [
+            "0.0000045000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0000055000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0000047000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0000054000"
+        ],
+        "EU (Ireland)": [
+            "0.0000050000"
+        ],
+        "EU (London)": [
+            "0.0000054000"
+        ],
+        "EU (Stockholm)": [
+            "0.0000050000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0000050000"
+        ],
+        "US West (Oregon)": [
+            "0.0000050000"
+        ]
+    },
+    "Storage": {
+        "Asia Pacific (Seoul)": [
+            "0.0250000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0250000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0250000000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0245000000"
+        ],
+        "EU (Ireland)": [
+            "0.0230000000"
+        ],
+        "EU (London)": [
+            "0.0245000000"
+        ],
+        "EU (Stockholm)": [
+            "0.0230000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0230000000"
+        ],
+        "US West (Oregon)": [
+            "0.0230000000"
+        ]
+    },
+    "GET IA Request per Requests": {
+        "Asia Pacific (Seoul)": [
+            "0.0000010000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0000010000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0000010000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0000010000"
+        ],
+        "EU (Ireland)": [
+            "0.0000010000"
+        ],
+        "EU (London)": [
+            "0.0000010000"
+        ],
+        "EU (Stockholm)": [
+            "0.0000010000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0000010000"
+        ],
+        "US West (Oregon)": [
+            "0.0000010000"
+        ]
+    },
+    "Lifecycle Transition per Requests": {
+        "Asia Pacific (Seoul)": [
+            "0.0000100000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0000100000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0000100000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0000100000"
+        ],
+        "EU (Ireland)": [
+            "0.0000100000"
+        ],
+        "EU (London)": [
+            "0.0000100000"
+        ],
+        "EU (Stockholm)": [
+            "0.0000100000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0000100000"
+        ],
+        "US West (Oregon)": [
+            "0.0000100000"
+        ]
+    },
+    "Storage Infrequent Access per GB-months": {
+        "Asia Pacific (Seoul)": [
+            "0.0180000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0190000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0190000000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0135000000"
+        ],
+        "EU (Ireland)": [
+            "0.0125000000"
+        ],
+        "EU (London)": [
+            "0.0135000000"
+        ],
+        "EU (Stockholm)": [
+            "0.0125000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0125000000"
+        ],
+        "US West (Oregon)": [
+            "0.0125000000"
+        ]
+    },
+    "Data Retrieval IA per GB": {
+        "Asia Pacific (Seoul)": [
+            "0.0100000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0100000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0100000000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0100000000"
+        ],
+        "EU (Ireland)": [
+            "0.0100000000"
+        ],
+        "EU (London)": [
+            "0.0100000000"
+        ],
+        "EU (Stockholm)": [
+            "0.0100000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0100000000"
+        ],
+        "US West (Oregon)": [
+            "0.0100000000"
+        ]
+    }
+}

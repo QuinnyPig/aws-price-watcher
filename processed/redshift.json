@@ -1,0 +1,2052 @@
+{
+    "OnDemand Compute Instance Current Generation": {
+        "Regionless": [
+            "4.8000000000"
+        ],
+        "US West (Oregon)": [
+            "13.0400000000",
+            "0.2500000000",
+            "4.8000000000",
+            "0.5430000000",
+            "3.2600000000",
+            "1.0860000000"
+        ],
+        "US West (N. California)": [
+            "1.2020000000",
+            "0.6010000000",
+            "6.4000000000",
+            "14.4240000000",
+            "0.3300000000",
+            "3.6060000000"
+        ],
+        "US East (Ohio)": [
+            "13.0400000000",
+            "0.2500000000",
+            "4.8000000000",
+            "0.5430000000",
+            "3.2600000000",
+            "1.0860000000"
+        ],
+        "US East (N. Virginia)": [
+            "13.0400000000",
+            "0.2500000000",
+            "4.8000000000",
+            "0.5430000000",
+            "3.2600000000",
+            "1.0860000000"
+        ],
+        "South America (Sao Paulo)": [
+            "7.6800000000",
+            "0.4000000000",
+            "5.1950000000",
+            "0.8660000000",
+            "20.7800000000",
+            "1.7310000000"
+        ],
+        "Middle East (UAE)": [
+            "15.8664000000",
+            "0.3300000000",
+            "0.6610000000",
+            "3.9666000000",
+            "6.1600000000",
+            "1.3222000000"
+        ],
+        "Middle East (Bahrain)": [
+            "3.9700000000",
+            "1.3200000000",
+            "0.3300000000",
+            "15.8700000000",
+            "6.1600000000",
+            "0.6600000000"
+        ],
+        "Mexico (Central)": [
+            "0.5701500000",
+            "1.1403000000",
+            "3.4230000000",
+            "13.6920000000"
+        ],
+        "Israel (Tel Aviv)": [
+            "3.7863000000",
+            "0.6310000000",
+            "1.2621000000",
+            "15.1452000000"
+        ],
+        "EU (Zurich)": [
+            "6.0480000000",
+            "4.2834000000",
+            "1.4278000000",
+            "17.1358000000",
+            "0.3240000000",
+            "0.7140000000"
+        ],
+        "EU (Stockholm)": [
+            "1.1390000000",
+            "5.3200000000",
+            "0.2850000000",
+            "3.4180000000",
+            "0.5700000000",
+            "13.6750000000"
+        ],
+        "EU (Spain)": [
+            "1.2020000000",
+            "0.6010000000",
+            "0.3000000000",
+            "14.4240000000",
+            "5.6000000000",
+            "3.6060000000"
+        ],
+        "EU (Paris)": [
+            "1.2650000000",
+            "3.7950000000",
+            "5.8800000000",
+            "0.6330000000",
+            "15.1800000000",
+            "0.3200000000"
+        ],
+        "EU (Milan)": [
+            "0.3150000000",
+            "0.6300000000",
+            "1.2600000000",
+            "5.8800000000",
+            "15.1500000000",
+            "3.7900000000"
+        ],
+        "EU (London)": [
+            "1.2640000000",
+            "3.7930000000",
+            "5.8800000000",
+            "0.6320000000",
+            "0.3200000000",
+            "15.1740000000"
+        ],
+        "EU (Ireland)": [
+            "1.2020000000",
+            "0.6010000000",
+            "0.3000000000",
+            "14.4240000000",
+            "5.6000000000",
+            "3.6060000000"
+        ],
+        "EU (Frankfurt)": [
+            "6.0480000000",
+            "15.5780000000",
+            "1.2980000000",
+            "3.8940000000",
+            "0.3240000000",
+            "0.6490000000"
+        ],
+        "Canada West (Calgary)": [
+            "3.6070000000",
+            "14.4300000000",
+            "1.2020000000",
+            "0.6010000000"
+        ],
+        "Canada (Central)": [
+            "14.4300000000",
+            "1.2020000000",
+            "0.6010000000",
+            "3.6070000000",
+            "0.2750000000",
+            "5.2800000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "6.0950000000",
+            "1.2780000000",
+            "15.3470000000",
+            "0.6390000000",
+            "0.3140000000",
+            "3.8360000000"
+        ],
+        "Asia Pacific (Thailand)": [
+            "3.5181000000",
+            "0.5863500000",
+            "1.1727000000",
+            "14.0724000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "6.4000000000",
+            "0.6520000000",
+            "3.9090000000",
+            "0.3300000000",
+            "15.6360000000",
+            "1.3030000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "6.4000000000",
+            "0.6520000000",
+            "3.9090000000",
+            "0.3300000000",
+            "15.6360000000",
+            "1.3030000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.3000000000",
+            "15.3470000000",
+            "0.6390000000",
+            "5.8000000000",
+            "1.2780000000",
+            "3.8360000000"
+        ],
+        "Asia Pacific (Osaka)": [
+            "6.0950000000",
+            "0.6400000000",
+            "1.2800000000",
+            "3.8400000000",
+            "0.3140000000",
+            "15.3500000000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.3150000000",
+            "14.8270000000",
+            "0.6180000000",
+            "1.2350000000",
+            "3.7060000000",
+            "6.1000000000"
+        ],
+        "Asia Pacific (Melbourne)": [
+            "6.4000000000",
+            "0.6520000000",
+            "3.9090000000",
+            "0.3300000000",
+            "15.6360000000",
+            "1.3030000000"
+        ],
+        "Asia Pacific (Malaysia)": [
+            "3.5181000000",
+            "0.5863500000",
+            "1.1727000000",
+            "14.0724000000"
+        ],
+        "Asia Pacific (Jakarta)": [
+            "15.3630000000",
+            "6.4000000000",
+            "0.6520000000",
+            "3.9090000000",
+            "0.3300000000",
+            "1.3030000000"
+        ],
+        "Asia Pacific (Hyderabad)": [
+            "0.3150000000",
+            "14.8270000000",
+            "0.6180000000",
+            "1.2350000000",
+            "3.7060000000",
+            "6.1000000000"
+        ],
+        "Asia Pacific (Hong Kong)": [
+            "0.3630000000",
+            "13.0400000000",
+            "0.5430000000",
+            "3.2600000000",
+            "1.0860000000",
+            "7.0400000000"
+        ],
+        "Africa (Cape Town)": [
+            "0.7150000000",
+            "0.3570000000",
+            "1.4300000000",
+            "6.6640000000",
+            "17.1600000000",
+            "4.2900000000"
+        ],
+        "AWS GovCloud (US-East)": [
+            "13.0400000000",
+            "0.3000000000",
+            "5.7600000000",
+            "0.5430000000",
+            "3.2600000000",
+            "1.0860000000"
+        ],
+        "AWS GovCloud (US)": [
+            "13.0400000000",
+            "0.3000000000",
+            "5.7600000000",
+            "0.5430000000",
+            "3.2600000000",
+            "1.0860000000"
+        ]
+    },
+    "Redshift Concurrency Scaling Current Generation Dense Compute": {
+        "Regionless": [
+            "0.0013300000"
+        ],
+        "US West (Oregon)": [
+            "0.0013300000",
+            "0.0000700000"
+        ],
+        "US West (N. California)": [
+            "0.0000900000",
+            "0.0017800000"
+        ],
+        "US East (Ohio)": [
+            "0.0013300000",
+            "0.0000700000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0013300000",
+            "0.0000700000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0021300000",
+            "0.0001100000"
+        ],
+        "Middle East (UAE)": [
+            "0.0017200000",
+            "0.0001100000"
+        ],
+        "Middle East (Bahrain)": [
+            "0.0000900000",
+            "0.0017200000"
+        ],
+        "EU (Stockholm)": [
+            "0.0002500000",
+            "0.0020100000"
+        ],
+        "EU (Paris)": [
+            "0.0000900000",
+            "0.0016300000"
+        ],
+        "EU (London)": [
+            "0.0002800000",
+            "0.0022200000"
+        ],
+        "EU (Ireland)": [
+            "0.0000800000",
+            "0.0015600000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0016800000",
+            "0.0000900000"
+        ],
+        "Canada (Central)": [
+            "0.0000800000",
+            "0.0014700000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0000900000",
+            "0.0016900000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0000900000",
+            "0.0017800000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0000900000",
+            "0.0017800000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0016100000",
+            "0.0000800000"
+        ],
+        "Asia Pacific (Osaka)": [
+            "0.0026400000",
+            "0.0003300000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0000900000"
+        ],
+        "Asia Pacific (Hong Kong)": [
+            "0.0030600000",
+            "0.0003800000"
+        ],
+        "AWS GovCloud (US-East)": [
+            "0.0018900000",
+            "0.0002400000"
+        ],
+        "AWS GovCloud (US)": [
+            "0.0002800000",
+            "0.0022700000"
+        ]
+    },
+    "Redshift Concurrency Scaling Current Generation Dense Storage": {
+        "Regionless": [
+            "0.0018900000"
+        ],
+        "US West (Oregon)": [
+            "0.0018900000",
+            "0.0002400000"
+        ],
+        "US East (Ohio)": [
+            "0.0018900000",
+            "0.0002400000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0018900000",
+            "0.0002400000"
+        ],
+        "Middle East (Bahrain)": [
+            "0.0023200000",
+            "0.0002900000"
+        ],
+        "EU (Stockholm)": [
+            "0.0014800000",
+            "0.0000800000"
+        ],
+        "EU (London)": [
+            "0.0000900000",
+            "0.0016300000"
+        ],
+        "EU (Ireland)": [
+            "0.0021100000",
+            "0.0002600000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0026400000",
+            "0.0003300000"
+        ],
+        "Asia Pacific (Osaka)": [
+            "0.0000900000",
+            "0.0016900000"
+        ],
+        "Asia Pacific (Hong Kong)": [
+            "0.0001000000",
+            "0.0019600000"
+        ],
+        "AWS GovCloud (US-East)": [
+            "0.0013300000",
+            "0.0000700000"
+        ],
+        "AWS GovCloud (US)": [
+            "0.0000800000",
+            "0.0016000000"
+        ]
+    },
+    "Redshift Concurrency Scaling Current Generation RA3": {
+        "Regionless": [
+            "0.0036200000"
+        ],
+        "US West (Oregon)": [
+            "0.0003000000",
+            "0.0036200000",
+            "0.0009000000"
+        ],
+        "US West (N. California)": [
+            "0.0040000000",
+            "0.0010000000",
+            "0.0003300000"
+        ],
+        "US East (Ohio)": [
+            "0.0003000000",
+            "0.0036200000",
+            "0.0009000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0003000000",
+            "0.0036200000",
+            "0.0009000000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0014400000",
+            "0.0004800000",
+            "0.0057600000"
+        ],
+        "Middle East (UAE)": [
+            "0.0044000000",
+            "0.0011000000",
+            "0.0003700000"
+        ],
+        "Mexico (Central)": [
+            "0.0001575000",
+            "0.0009450000",
+            "0.0038010000",
+            "0.0003150000"
+        ],
+        "Israel (Tel Aviv)": [
+            "0.0003465000",
+            "0.0010500000",
+            "0.0042000000",
+            "0.0001800000"
+        ],
+        "EU (Zurich)": [
+            "0.0011880000",
+            "0.0003960000",
+            "0.0001155000",
+            "0.0047520000",
+            "0.0018480000"
+        ],
+        "EU (Stockholm)": [
+            "0.0037900000",
+            "0.0009400000",
+            "0.0003100000"
+        ],
+        "EU (Spain)": [
+            "0.0040000000",
+            "0.0000800000",
+            "0.0010000000",
+            "0.0015600000",
+            "0.0003300000"
+        ],
+        "EU (Paris)": [
+            "0.0010500000",
+            "0.0042000000",
+            "0.0003500000"
+        ],
+        "EU (London)": [
+            "0.0010500000",
+            "0.0042100000",
+            "0.0003500000"
+        ],
+        "EU (Ireland)": [
+            "0.0040000000",
+            "0.0010000000",
+            "0.0003300000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0043200000",
+            "0.0010800000",
+            "0.0003600000"
+        ],
+        "Canada West (Calgary)": [
+            "0.0040000000",
+            "0.0001700000",
+            "0.0010000000",
+            "0.0003300000"
+        ],
+        "Canada (Central)": [
+            "0.0040000000",
+            "0.0010000000",
+            "0.0003300000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0042600000",
+            "0.0010600000",
+            "0.0003500000"
+        ],
+        "Asia Pacific (Thailand)": [
+            "0.0032580000",
+            "0.0002700000",
+            "0.0001350000",
+            "0.0008100000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0010800000",
+            "0.0003600000",
+            "0.0043400000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0010800000",
+            "0.0003600000",
+            "0.0043400000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0042600000",
+            "0.0010600000",
+            "0.0003500000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0010200000",
+            "0.0041100000",
+            "0.0003400000"
+        ],
+        "Asia Pacific (Malaysia)": [
+            "0.0032580000",
+            "0.0002700000",
+            "0.0001350000",
+            "0.0008100000"
+        ],
+        "AWS GovCloud (US-East)": [
+            "0.0003000000",
+            "0.0036200000",
+            "0.0001500000",
+            "0.0009100000"
+        ],
+        "AWS GovCloud (US)": [
+            "0.0003000000",
+            "0.0036200000",
+            "0.0001500000",
+            "0.0009100000"
+        ]
+    },
+    "Redshift Inter Region Data Transfer Charges": {
+        "Regionless": [
+            "0.0200000000"
+        ],
+        "US West (Oregon)": [
+            "0.0200000000"
+        ],
+        "US West (N. California)": [
+            "0.0200000000"
+        ],
+        "US East (Ohio)": [
+            "0.0200000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0200000000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.1380000000"
+        ],
+        "Middle East (Bahrain)": [
+            "0.1100000000"
+        ],
+        "Mexico (Central)": [
+            "0.0210000000"
+        ],
+        "EU (Stockholm)": [
+            "0.0200000000"
+        ],
+        "EU (Paris)": [
+            "0.0200000000"
+        ],
+        "EU (Milan)": [
+            "0.0200000000"
+        ],
+        "EU (London)": [
+            "0.0200000000"
+        ],
+        "EU (Ireland)": [
+            "0.0200000000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0200000000"
+        ],
+        "Canada (Central)": [
+            "0.0200000000"
+        ],
+        "Asia Pacific (Thailand)": [
+            "0.0180000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0980000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0900000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0200000000"
+        ],
+        "Asia Pacific (Osaka)": [
+            "0.0200000000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0860000000"
+        ],
+        "Asia Pacific (Melbourne)": [
+            "0.0980000000"
+        ],
+        "Asia Pacific (Malaysia)": [
+            "0.0180000000"
+        ],
+        "Asia Pacific (Hong Kong)": [
+            "0.0900000000"
+        ],
+        "Africa (Cape Town)": [
+            "0.0200000000"
+        ],
+        "AWS GovCloud (US-East)": [
+            "0.0300000000"
+        ],
+        "AWS GovCloud (US)": [
+            "0.0300000000"
+        ]
+    },
+    "ds2 xlarge Redshift Concurrency Scaling Current Generation Dense Storage": {
+        "Regionless": [
+            "0.0002400000"
+        ],
+        "US West (Oregon)": [
+            "0.0002400000"
+        ],
+        "US East (Ohio)": [
+            "0.0002400000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0002400000"
+        ],
+        "Middle East (Bahrain)": [
+            "0.0002900000"
+        ],
+        "EU (Stockholm)": [
+            "0.0002500000"
+        ],
+        "EU (London)": [
+            "0.0002800000"
+        ],
+        "EU (Ireland)": [
+            "0.0002600000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0003300000"
+        ],
+        "Asia Pacific (Osaka)": [
+            "0.0003300000"
+        ],
+        "Asia Pacific (Hong Kong)": [
+            "0.0003800000"
+        ],
+        "AWS GovCloud (US)": [
+            "0.0002800000"
+        ]
+    },
+    "dc2 large OnDemand Compute Instance Current Generation": {
+        "Regionless": [
+            "0.2500000000"
+        ],
+        "US West (Oregon)": [
+            "0.2500000000"
+        ],
+        "US West (N. California)": [
+            "0.3300000000"
+        ],
+        "US East (Ohio)": [
+            "0.2500000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.2500000000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.4000000000"
+        ],
+        "Middle East (UAE)": [
+            "0.3300000000"
+        ],
+        "Middle East (Bahrain)": [
+            "0.3300000000"
+        ],
+        "EU (Zurich)": [
+            "0.3240000000"
+        ],
+        "EU (Stockholm)": [
+            "0.2850000000"
+        ],
+        "EU (Spain)": [
+            "0.3000000000"
+        ],
+        "EU (Paris)": [
+            "0.3200000000"
+        ],
+        "EU (Milan)": [
+            "0.3150000000"
+        ],
+        "EU (London)": [
+            "0.3200000000"
+        ],
+        "EU (Ireland)": [
+            "0.3000000000"
+        ],
+        "EU (Frankfurt)": [
+            "0.3240000000"
+        ],
+        "Canada (Central)": [
+            "0.2750000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.3140000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.3300000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.3300000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.3000000000"
+        ],
+        "Asia Pacific (Osaka)": [
+            "0.3140000000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.3150000000"
+        ],
+        "Asia Pacific (Melbourne)": [
+            "0.3300000000"
+        ],
+        "Asia Pacific (Jakarta)": [
+            "0.3300000000"
+        ],
+        "Asia Pacific (Hyderabad)": [
+            "0.3150000000"
+        ],
+        "Asia Pacific (Hong Kong)": [
+            "0.3630000000"
+        ],
+        "Africa (Cape Town)": [
+            "0.3570000000"
+        ],
+        "AWS GovCloud (US-East)": [
+            "0.3000000000"
+        ],
+        "AWS GovCloud (US)": [
+            "0.3000000000"
+        ]
+    },
+    "ra3 large OnDemand Compute Instance Current Generation": {
+        "Regionless": [
+            "0.5430000000"
+        ],
+        "US West (Oregon)": [
+            "0.5430000000"
+        ],
+        "US West (N. California)": [
+            "0.6010000000"
+        ],
+        "US East (Ohio)": [
+            "0.5430000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.5430000000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.8660000000"
+        ],
+        "Middle East (UAE)": [
+            "0.6610000000"
+        ],
+        "Middle East (Bahrain)": [
+            "0.6600000000"
+        ],
+        "Mexico (Central)": [
+            "0.5701500000"
+        ],
+        "Israel (Tel Aviv)": [
+            "0.6310000000"
+        ],
+        "EU (Zurich)": [
+            "0.7140000000"
+        ],
+        "EU (Stockholm)": [
+            "0.5700000000"
+        ],
+        "EU (Spain)": [
+            "0.6010000000"
+        ],
+        "EU (Paris)": [
+            "0.6330000000"
+        ],
+        "EU (Milan)": [
+            "0.6300000000"
+        ],
+        "EU (London)": [
+            "0.6320000000"
+        ],
+        "EU (Ireland)": [
+            "0.6010000000"
+        ],
+        "EU (Frankfurt)": [
+            "0.6490000000"
+        ],
+        "Canada West (Calgary)": [
+            "0.6010000000"
+        ],
+        "Canada (Central)": [
+            "0.6010000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.6390000000"
+        ],
+        "Asia Pacific (Thailand)": [
+            "0.5863500000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.6520000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.6520000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.6390000000"
+        ],
+        "Asia Pacific (Osaka)": [
+            "0.6400000000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.6180000000"
+        ],
+        "Asia Pacific (Melbourne)": [
+            "0.6520000000"
+        ],
+        "Asia Pacific (Malaysia)": [
+            "0.5863500000"
+        ],
+        "Asia Pacific (Jakarta)": [
+            "0.6520000000"
+        ],
+        "Asia Pacific (Hyderabad)": [
+            "0.6180000000"
+        ],
+        "Asia Pacific (Hong Kong)": [
+            "0.5430000000"
+        ],
+        "Africa (Cape Town)": [
+            "0.7150000000"
+        ],
+        "AWS GovCloud (US-East)": [
+            "0.5430000000"
+        ],
+        "AWS GovCloud (US)": [
+            "0.5430000000"
+        ]
+    },
+    "ra3 16xlarge Redshift Concurrency Scaling Current Generation RA3": {
+        "Regionless": [
+            "0.0036200000"
+        ],
+        "US West (Oregon)": [
+            "0.0036200000"
+        ],
+        "US West (N. California)": [
+            "0.0040000000"
+        ],
+        "US East (Ohio)": [
+            "0.0036200000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0036200000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0057600000"
+        ],
+        "Middle East (UAE)": [
+            "0.0044000000"
+        ],
+        "Mexico (Central)": [
+            "0.0038010000"
+        ],
+        "Israel (Tel Aviv)": [
+            "0.0042000000"
+        ],
+        "EU (Zurich)": [
+            "0.0047520000"
+        ],
+        "EU (Stockholm)": [
+            "0.0037900000"
+        ],
+        "EU (Spain)": [
+            "0.0040000000"
+        ],
+        "EU (Paris)": [
+            "0.0042000000"
+        ],
+        "EU (London)": [
+            "0.0042100000"
+        ],
+        "EU (Ireland)": [
+            "0.0040000000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0043200000"
+        ],
+        "Canada West (Calgary)": [
+            "0.0040000000"
+        ],
+        "Canada (Central)": [
+            "0.0040000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0042600000"
+        ],
+        "Asia Pacific (Thailand)": [
+            "0.0032580000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0043400000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0043400000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0042600000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0041100000"
+        ],
+        "Asia Pacific (Malaysia)": [
+            "0.0032580000"
+        ],
+        "AWS GovCloud (US-East)": [
+            "0.0036200000"
+        ],
+        "AWS GovCloud (US)": [
+            "0.0036200000"
+        ]
+    },
+    "ra3 16xlarge OnDemand Compute Instance Current Generation": {
+        "Regionless": [
+            "13.0400000000"
+        ],
+        "US West (Oregon)": [
+            "13.0400000000"
+        ],
+        "US West (N. California)": [
+            "14.4240000000"
+        ],
+        "US East (Ohio)": [
+            "13.0400000000"
+        ],
+        "US East (N. Virginia)": [
+            "13.0400000000"
+        ],
+        "South America (Sao Paulo)": [
+            "20.7800000000"
+        ],
+        "Middle East (UAE)": [
+            "15.8664000000"
+        ],
+        "Middle East (Bahrain)": [
+            "15.8700000000"
+        ],
+        "Mexico (Central)": [
+            "13.6920000000"
+        ],
+        "Israel (Tel Aviv)": [
+            "15.1452000000"
+        ],
+        "EU (Zurich)": [
+            "17.1358000000"
+        ],
+        "EU (Stockholm)": [
+            "13.6750000000"
+        ],
+        "EU (Spain)": [
+            "14.4240000000"
+        ],
+        "EU (Paris)": [
+            "15.1800000000"
+        ],
+        "EU (Milan)": [
+            "15.1500000000"
+        ],
+        "EU (London)": [
+            "15.1740000000"
+        ],
+        "EU (Ireland)": [
+            "14.4240000000"
+        ],
+        "EU (Frankfurt)": [
+            "15.5780000000"
+        ],
+        "Canada West (Calgary)": [
+            "14.4300000000"
+        ],
+        "Canada (Central)": [
+            "14.4300000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "15.3470000000"
+        ],
+        "Asia Pacific (Thailand)": [
+            "14.0724000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "15.6360000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "15.6360000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "15.3470000000"
+        ],
+        "Asia Pacific (Osaka)": [
+            "15.3500000000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "14.8270000000"
+        ],
+        "Asia Pacific (Melbourne)": [
+            "15.6360000000"
+        ],
+        "Asia Pacific (Malaysia)": [
+            "14.0724000000"
+        ],
+        "Asia Pacific (Jakarta)": [
+            "15.3630000000"
+        ],
+        "Asia Pacific (Hyderabad)": [
+            "14.8270000000"
+        ],
+        "Asia Pacific (Hong Kong)": [
+            "13.0400000000"
+        ],
+        "Africa (Cape Town)": [
+            "17.1600000000"
+        ],
+        "AWS GovCloud (US-East)": [
+            "13.0400000000"
+        ],
+        "AWS GovCloud (US)": [
+            "13.0400000000"
+        ]
+    },
+    "ds2 8xlarge Redshift Concurrency Scaling Current Generation Dense Storage": {
+        "Regionless": [
+            "0.0018900000"
+        ],
+        "US West (Oregon)": [
+            "0.0018900000"
+        ],
+        "US East (Ohio)": [
+            "0.0018900000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0018900000"
+        ],
+        "Middle East (Bahrain)": [
+            "0.0023200000"
+        ],
+        "EU (Stockholm)": [
+            "0.0020100000"
+        ],
+        "EU (London)": [
+            "0.0022200000"
+        ],
+        "EU (Ireland)": [
+            "0.0021100000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0026400000"
+        ],
+        "Asia Pacific (Osaka)": [
+            "0.0026400000"
+        ],
+        "Asia Pacific (Hong Kong)": [
+            "0.0030600000"
+        ],
+        "AWS GovCloud (US)": [
+            "0.0022700000"
+        ]
+    },
+    "dc2 8xlarge OnDemand Compute Instance Current Generation": {
+        "Regionless": [
+            "4.8000000000"
+        ],
+        "US West (Oregon)": [
+            "4.8000000000"
+        ],
+        "US West (N. California)": [
+            "6.4000000000"
+        ],
+        "US East (Ohio)": [
+            "4.8000000000"
+        ],
+        "US East (N. Virginia)": [
+            "4.8000000000"
+        ],
+        "South America (Sao Paulo)": [
+            "7.6800000000"
+        ],
+        "Middle East (UAE)": [
+            "6.1600000000"
+        ],
+        "Middle East (Bahrain)": [
+            "6.1600000000"
+        ],
+        "EU (Zurich)": [
+            "6.0480000000"
+        ],
+        "EU (Stockholm)": [
+            "5.3200000000"
+        ],
+        "EU (Spain)": [
+            "5.6000000000"
+        ],
+        "EU (Paris)": [
+            "5.8800000000"
+        ],
+        "EU (Milan)": [
+            "5.8800000000"
+        ],
+        "EU (London)": [
+            "5.8800000000"
+        ],
+        "EU (Ireland)": [
+            "5.6000000000"
+        ],
+        "EU (Frankfurt)": [
+            "6.0480000000"
+        ],
+        "Canada (Central)": [
+            "5.2800000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "6.0950000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "6.4000000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "6.4000000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "5.8000000000"
+        ],
+        "Asia Pacific (Osaka)": [
+            "6.0950000000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "6.1000000000"
+        ],
+        "Asia Pacific (Melbourne)": [
+            "6.4000000000"
+        ],
+        "Asia Pacific (Jakarta)": [
+            "6.4000000000"
+        ],
+        "Asia Pacific (Hyderabad)": [
+            "6.1000000000"
+        ],
+        "Asia Pacific (Hong Kong)": [
+            "7.0400000000"
+        ],
+        "Africa (Cape Town)": [
+            "6.6640000000"
+        ],
+        "AWS GovCloud (US-East)": [
+            "5.7600000000"
+        ],
+        "AWS GovCloud (US)": [
+            "5.7600000000"
+        ]
+    },
+    "Redshift Serverless compute charges per RPU-Hr": {
+        "Regionless": [
+            "0.3600000000"
+        ],
+        "US West (Oregon)": [
+            "0.3600000000"
+        ],
+        "US West (N. California)": [
+            "0.4690000000"
+        ],
+        "US East (Ohio)": [
+            "0.3600000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.3750000000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.5976000000"
+        ],
+        "Middle East (UAE)": [
+            "0.4158000000"
+        ],
+        "Mexico (Central)": [
+            "0.3937500000"
+        ],
+        "Israel (Tel Aviv)": [
+            "0.4060000000"
+        ],
+        "EU (Zurich)": [
+            "0.4961000000"
+        ],
+        "EU (Stockholm)": [
+            "0.3740000000"
+        ],
+        "EU (Spain)": [
+            "0.3870000000"
+        ],
+        "EU (Paris)": [
+            "0.4060000000"
+        ],
+        "EU (London)": [
+            "0.4670000000"
+        ],
+        "EU (Ireland)": [
+            "0.3870000000"
+        ],
+        "EU (Frankfurt)": [
+            "0.4510000000"
+        ],
+        "Canada (Central)": [
+            "0.4125000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.4940000000"
+        ],
+        "Asia Pacific (Thailand)": [
+            "0.4050000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.4190000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.4500000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.4380000000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.4275000000"
+        ],
+        "Asia Pacific (Jakarta)": [
+            "0.4500000000"
+        ],
+        "Asia Pacific (Hyderabad)": [
+            "0.4275000000"
+        ],
+        "Asia Pacific (Hong Kong)": [
+            "0.4950000000"
+        ],
+        "AWS GovCloud (US-East)": [
+            "0.3750000000"
+        ],
+        "AWS GovCloud (US)": [
+            "0.3750000000"
+        ]
+    },
+    "ra3 4xlarge Redshift Concurrency Scaling Current Generation RA3": {
+        "Regionless": [
+            "0.0009000000"
+        ],
+        "US West (Oregon)": [
+            "0.0009000000"
+        ],
+        "US West (N. California)": [
+            "0.0010000000"
+        ],
+        "US East (Ohio)": [
+            "0.0009000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0009000000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0014400000"
+        ],
+        "Middle East (UAE)": [
+            "0.0011000000"
+        ],
+        "Mexico (Central)": [
+            "0.0009450000"
+        ],
+        "Israel (Tel Aviv)": [
+            "0.0010500000"
+        ],
+        "EU (Zurich)": [
+            "0.0011880000"
+        ],
+        "EU (Stockholm)": [
+            "0.0009400000"
+        ],
+        "EU (Spain)": [
+            "0.0010000000"
+        ],
+        "EU (Paris)": [
+            "0.0010500000"
+        ],
+        "EU (London)": [
+            "0.0010500000"
+        ],
+        "EU (Ireland)": [
+            "0.0010000000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0010800000"
+        ],
+        "Canada West (Calgary)": [
+            "0.0010000000"
+        ],
+        "Canada (Central)": [
+            "0.0010000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0010600000"
+        ],
+        "Asia Pacific (Thailand)": [
+            "0.0008100000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0010800000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0010800000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0010600000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0010200000"
+        ],
+        "Asia Pacific (Malaysia)": [
+            "0.0008100000"
+        ],
+        "AWS GovCloud (US-East)": [
+            "0.0009100000"
+        ],
+        "AWS GovCloud (US)": [
+            "0.0009100000"
+        ]
+    },
+    "ra3 xlplus Redshift Concurrency Scaling Current Generation RA3": {
+        "Regionless": [
+            "0.0003000000"
+        ],
+        "US West (Oregon)": [
+            "0.0003000000"
+        ],
+        "US West (N. California)": [
+            "0.0003300000"
+        ],
+        "US East (Ohio)": [
+            "0.0003000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0003000000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0004800000"
+        ],
+        "Middle East (UAE)": [
+            "0.0003700000"
+        ],
+        "Mexico (Central)": [
+            "0.0003150000"
+        ],
+        "Israel (Tel Aviv)": [
+            "0.0003465000"
+        ],
+        "EU (Zurich)": [
+            "0.0003960000"
+        ],
+        "EU (Stockholm)": [
+            "0.0003100000"
+        ],
+        "EU (Spain)": [
+            "0.0003300000"
+        ],
+        "EU (Paris)": [
+            "0.0003500000"
+        ],
+        "EU (London)": [
+            "0.0003500000"
+        ],
+        "EU (Ireland)": [
+            "0.0003300000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0003600000"
+        ],
+        "Canada West (Calgary)": [
+            "0.0003300000"
+        ],
+        "Canada (Central)": [
+            "0.0003300000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0003500000"
+        ],
+        "Asia Pacific (Thailand)": [
+            "0.0002700000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0003600000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0003600000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0003500000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0003400000"
+        ],
+        "Asia Pacific (Malaysia)": [
+            "0.0002700000"
+        ],
+        "AWS GovCloud (US-East)": [
+            "0.0003000000"
+        ],
+        "AWS GovCloud (US)": [
+            "0.0003000000"
+        ]
+    },
+    "Redshift Inter Region Data Transfer Charges In To": {
+        "Regionless": [
+            "0.0200000000"
+        ],
+        "US West (Oregon)": [
+            "0.0200000000"
+        ],
+        "US West (N. California)": [
+            "0.0200000000"
+        ],
+        "US East (Ohio)": [
+            "0.0200000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0200000000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.1380000000"
+        ],
+        "Middle East (Bahrain)": [
+            "0.1100000000"
+        ],
+        "Mexico (Central)": [
+            "0.0210000000"
+        ],
+        "EU (Stockholm)": [
+            "0.0200000000"
+        ],
+        "EU (Paris)": [
+            "0.0200000000"
+        ],
+        "EU (Milan)": [
+            "0.0200000000"
+        ],
+        "EU (London)": [
+            "0.0200000000"
+        ],
+        "EU (Ireland)": [
+            "0.0200000000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0200000000"
+        ],
+        "Canada (Central)": [
+            "0.0200000000"
+        ],
+        "Asia Pacific (Thailand)": [
+            "0.0180000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0980000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0900000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0200000000"
+        ],
+        "Asia Pacific (Osaka)": [
+            "0.0200000000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0860000000"
+        ],
+        "Asia Pacific (Melbourne)": [
+            "0.0980000000"
+        ],
+        "Asia Pacific (Malaysia)": [
+            "0.0180000000"
+        ],
+        "Asia Pacific (Hong Kong)": [
+            "0.0900000000"
+        ],
+        "Africa (Cape Town)": [
+            "0.0200000000"
+        ],
+        "AWS GovCloud (US-East)": [
+            "0.0300000000"
+        ],
+        "AWS GovCloud (US)": [
+            "0.0300000000"
+        ]
+    },
+    "dc2 8xlarge Redshift Concurrency Scaling Current Generation Dense Compute": {
+        "Regionless": [
+            "0.0013300000"
+        ],
+        "US West (Oregon)": [
+            "0.0013300000"
+        ],
+        "US West (N. California)": [
+            "0.0017800000"
+        ],
+        "US East (Ohio)": [
+            "0.0013300000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0013300000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0021300000"
+        ],
+        "Middle East (UAE)": [
+            "0.0017200000"
+        ],
+        "Middle East (Bahrain)": [
+            "0.0017200000"
+        ],
+        "EU (Stockholm)": [
+            "0.0014800000"
+        ],
+        "EU (Paris)": [
+            "0.0016300000"
+        ],
+        "EU (London)": [
+            "0.0016300000"
+        ],
+        "EU (Ireland)": [
+            "0.0015600000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0016800000"
+        ],
+        "Canada (Central)": [
+            "0.0014700000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0016900000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0017800000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0017800000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0016100000"
+        ],
+        "Asia Pacific (Osaka)": [
+            "0.0016900000"
+        ],
+        "Asia Pacific (Hong Kong)": [
+            "0.0019600000"
+        ],
+        "AWS GovCloud (US)": [
+            "0.0016000000"
+        ]
+    },
+    "ra3 xlplus OnDemand Compute Instance Current Generation": {
+        "Regionless": [
+            "1.0860000000"
+        ],
+        "US West (Oregon)": [
+            "1.0860000000"
+        ],
+        "US West (N. California)": [
+            "1.2020000000"
+        ],
+        "US East (Ohio)": [
+            "1.0860000000"
+        ],
+        "US East (N. Virginia)": [
+            "1.0860000000"
+        ],
+        "South America (Sao Paulo)": [
+            "1.7310000000"
+        ],
+        "Middle East (UAE)": [
+            "1.3222000000"
+        ],
+        "Middle East (Bahrain)": [
+            "1.3200000000"
+        ],
+        "Mexico (Central)": [
+            "1.1403000000"
+        ],
+        "Israel (Tel Aviv)": [
+            "1.2621000000"
+        ],
+        "EU (Zurich)": [
+            "1.4278000000"
+        ],
+        "EU (Stockholm)": [
+            "1.1390000000"
+        ],
+        "EU (Spain)": [
+            "1.2020000000"
+        ],
+        "EU (Paris)": [
+            "1.2650000000"
+        ],
+        "EU (Milan)": [
+            "1.2600000000"
+        ],
+        "EU (London)": [
+            "1.2640000000"
+        ],
+        "EU (Ireland)": [
+            "1.2020000000"
+        ],
+        "EU (Frankfurt)": [
+            "1.2980000000"
+        ],
+        "Canada West (Calgary)": [
+            "1.2020000000"
+        ],
+        "Canada (Central)": [
+            "1.2020000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "1.2780000000"
+        ],
+        "Asia Pacific (Thailand)": [
+            "1.1727000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "1.3030000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "1.3030000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "1.2780000000"
+        ],
+        "Asia Pacific (Osaka)": [
+            "1.2800000000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "1.2350000000"
+        ],
+        "Asia Pacific (Melbourne)": [
+            "1.3030000000"
+        ],
+        "Asia Pacific (Malaysia)": [
+            "1.1727000000"
+        ],
+        "Asia Pacific (Jakarta)": [
+            "1.3030000000"
+        ],
+        "Asia Pacific (Hyderabad)": [
+            "1.2350000000"
+        ],
+        "Asia Pacific (Hong Kong)": [
+            "1.0860000000"
+        ],
+        "Africa (Cape Town)": [
+            "1.4300000000"
+        ],
+        "AWS GovCloud (US-East)": [
+            "1.0860000000"
+        ],
+        "AWS GovCloud (US)": [
+            "1.0860000000"
+        ]
+    },
+    "ra3 4xlarge OnDemand Compute Instance Current Generation": {
+        "Regionless": [
+            "3.2600000000"
+        ],
+        "US West (Oregon)": [
+            "3.2600000000"
+        ],
+        "US West (N. California)": [
+            "3.6060000000"
+        ],
+        "US East (Ohio)": [
+            "3.2600000000"
+        ],
+        "US East (N. Virginia)": [
+            "3.2600000000"
+        ],
+        "South America (Sao Paulo)": [
+            "5.1950000000"
+        ],
+        "Middle East (UAE)": [
+            "3.9666000000"
+        ],
+        "Middle East (Bahrain)": [
+            "3.9700000000"
+        ],
+        "Mexico (Central)": [
+            "3.4230000000"
+        ],
+        "Israel (Tel Aviv)": [
+            "3.7863000000"
+        ],
+        "EU (Zurich)": [
+            "4.2834000000"
+        ],
+        "EU (Stockholm)": [
+            "3.4180000000"
+        ],
+        "EU (Spain)": [
+            "3.6060000000"
+        ],
+        "EU (Paris)": [
+            "3.7950000000"
+        ],
+        "EU (Milan)": [
+            "3.7900000000"
+        ],
+        "EU (London)": [
+            "3.7930000000"
+        ],
+        "EU (Ireland)": [
+            "3.6060000000"
+        ],
+        "EU (Frankfurt)": [
+            "3.8940000000"
+        ],
+        "Canada West (Calgary)": [
+            "3.6070000000"
+        ],
+        "Canada (Central)": [
+            "3.6070000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "3.8360000000"
+        ],
+        "Asia Pacific (Thailand)": [
+            "3.5181000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "3.9090000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "3.9090000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "3.8360000000"
+        ],
+        "Asia Pacific (Osaka)": [
+            "3.8400000000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "3.7060000000"
+        ],
+        "Asia Pacific (Melbourne)": [
+            "3.9090000000"
+        ],
+        "Asia Pacific (Malaysia)": [
+            "3.5181000000"
+        ],
+        "Asia Pacific (Jakarta)": [
+            "3.9090000000"
+        ],
+        "Asia Pacific (Hyderabad)": [
+            "3.7060000000"
+        ],
+        "Asia Pacific (Hong Kong)": [
+            "3.2600000000"
+        ],
+        "Africa (Cape Town)": [
+            "4.2900000000"
+        ],
+        "AWS GovCloud (US-East)": [
+            "3.2600000000"
+        ],
+        "AWS GovCloud (US)": [
+            "3.2600000000"
+        ]
+    },
+    "dc2 large Redshift Concurrency Scaling Current Generation Dense Compute": {
+        "Regionless": [
+            "0.0000700000"
+        ],
+        "US West (Oregon)": [
+            "0.0000700000"
+        ],
+        "US West (N. California)": [
+            "0.0000900000"
+        ],
+        "US East (Ohio)": [
+            "0.0000700000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0000700000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0001100000"
+        ],
+        "Middle East (UAE)": [
+            "0.0001100000"
+        ],
+        "Middle East (Bahrain)": [
+            "0.0000900000"
+        ],
+        "EU (Stockholm)": [
+            "0.0000800000"
+        ],
+        "EU (Paris)": [
+            "0.0000900000"
+        ],
+        "EU (London)": [
+            "0.0000900000"
+        ],
+        "EU (Ireland)": [
+            "0.0000800000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0000900000"
+        ],
+        "Canada (Central)": [
+            "0.0000800000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0000900000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0000900000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0000900000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0000800000"
+        ],
+        "Asia Pacific (Osaka)": [
+            "0.0000900000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0000900000"
+        ],
+        "Asia Pacific (Hong Kong)": [
+            "0.0001000000"
+        ],
+        "AWS GovCloud (US)": [
+            "0.0000800000"
+        ]
+    },
+    "ra3 large Redshift Concurrency Scaling Current Generation RA3": {
+        "Regionless": [
+            "0.0001575000"
+        ],
+        "Mexico (Central)": [
+            "0.0001575000"
+        ],
+        "Israel (Tel Aviv)": [
+            "0.0001800000"
+        ],
+        "Canada West (Calgary)": [
+            "0.0001700000"
+        ],
+        "Asia Pacific (Thailand)": [
+            "0.0001350000"
+        ],
+        "Asia Pacific (Malaysia)": [
+            "0.0001350000"
+        ],
+        "AWS GovCloud (US-East)": [
+            "0.0001500000"
+        ],
+        "AWS GovCloud (US)": [
+            "0.0001500000"
+        ]
+    },
+    "dc2 8xlarge Redshift Concurrency Scaling Current Generation RA3": {
+        "Regionless": [
+            "0.0018480000"
+        ],
+        "EU (Zurich)": [
+            "0.0018480000"
+        ],
+        "EU (Stockholm)": [
+            "0.0014800000"
+        ],
+        "EU (Spain)": [
+            "0.0015600000"
+        ],
+        "EU (London)": [
+            "0.0016300000"
+        ],
+        "Asia Pacific (Osaka)": [
+            "0.0016900000"
+        ],
+        "Asia Pacific (Hong Kong)": [
+            "0.0019600000"
+        ],
+        "AWS GovCloud (US)": [
+            "0.0016000000"
+        ]
+    },
+    "dc2 large Redshift Concurrency Scaling Current Generation RA3": {
+        "Regionless": [
+            "0.0001155000"
+        ],
+        "EU (Zurich)": [
+            "0.0001155000"
+        ],
+        "EU (Stockholm)": [
+            "0.0000800000"
+        ],
+        "EU (Spain)": [
+            "0.0000800000"
+        ],
+        "EU (London)": [
+            "0.0000900000"
+        ],
+        "Asia Pacific (Osaka)": [
+            "0.0000900000"
+        ],
+        "Asia Pacific (Hong Kong)": [
+            "0.0001000000"
+        ],
+        "AWS GovCloud (US)": [
+            "0.0000800000"
+        ]
+    },
+    "ds2 xlarge Redshift Concurrency Scaling Current Generation Dense Compute": {
+        "Regionless": [
+            "0.0002500000"
+        ],
+        "EU (Stockholm)": [
+            "0.0002500000"
+        ],
+        "EU (London)": [
+            "0.0002800000"
+        ],
+        "Asia Pacific (Osaka)": [
+            "0.0003300000"
+        ],
+        "Asia Pacific (Hong Kong)": [
+            "0.0003800000"
+        ],
+        "AWS GovCloud (US-East)": [
+            "0.0002400000"
+        ],
+        "AWS GovCloud (US)": [
+            "0.0002800000"
+        ]
+    },
+    "ds2 8xlarge Redshift Concurrency Scaling Current Generation Dense Compute": {
+        "Regionless": [
+            "0.0020100000"
+        ],
+        "EU (Stockholm)": [
+            "0.0020100000"
+        ],
+        "EU (London)": [
+            "0.0022200000"
+        ],
+        "Asia Pacific (Osaka)": [
+            "0.0026400000"
+        ],
+        "Asia Pacific (Hong Kong)": [
+            "0.0030600000"
+        ],
+        "AWS GovCloud (US-East)": [
+            "0.0018900000"
+        ],
+        "AWS GovCloud (US)": [
+            "0.0022700000"
+        ]
+    },
+    "dc2 8xlarge Redshift Concurrency Scaling Current Generation Dense Storage": {
+        "Regionless": [
+            "0.0014800000"
+        ],
+        "EU (Stockholm)": [
+            "0.0014800000"
+        ],
+        "EU (London)": [
+            "0.0016300000"
+        ],
+        "Asia Pacific (Osaka)": [
+            "0.0016900000"
+        ],
+        "Asia Pacific (Hong Kong)": [
+            "0.0019600000"
+        ],
+        "AWS GovCloud (US-East)": [
+            "0.0013300000"
+        ],
+        "AWS GovCloud (US)": [
+            "0.0016000000"
+        ]
+    },
+    "dc2 large Redshift Concurrency Scaling Current Generation Dense Storage": {
+        "Regionless": [
+            "0.0000800000"
+        ],
+        "EU (Stockholm)": [
+            "0.0000800000"
+        ],
+        "EU (London)": [
+            "0.0000900000"
+        ],
+        "Asia Pacific (Osaka)": [
+            "0.0000900000"
+        ],
+        "Asia Pacific (Hong Kong)": [
+            "0.0001000000"
+        ],
+        "AWS GovCloud (US-East)": [
+            "0.0000700000"
+        ],
+        "AWS GovCloud (US)": [
+            "0.0000800000"
+        ]
+    }
+}

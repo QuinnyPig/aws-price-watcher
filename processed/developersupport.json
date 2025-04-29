@@ -1,0 +1,18 @@
+{
+    "DeveloperSupport 3 percent of monthly AWS usage": {
+        "Regionless": [
+            "0.0300000000"
+        ],
+        "Any": [
+            "0.0300000000"
+        ]
+    },
+    "DeveloperSupport Recurring Fee": {
+        "Regionless": [
+            "29"
+        ],
+        "Any": [
+            "29"
+        ]
+    }
+}

@@ -1,0 +1,890 @@
+{
+    "Position 0 to 1000000": {
+        "Regionless": [
+            "0.0010000000"
+        ],
+        "US West (Oregon)": [
+            "0.0010000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0010000000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0010000000"
+        ],
+        "EU (Ireland)": [
+            "0.0010000000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0010000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0010000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0010000000"
+        ]
+    },
+    "Tasks 250000 to Inf": {
+        "Regionless": [
+            "0.0030000000"
+        ],
+        "US West (Oregon)": [
+            "0.0030000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0030000000"
+        ],
+        "EU (Ireland)": [
+            "0.0030000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0030000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0030000000"
+        ]
+    },
+    "LoRaWAN bytes 0 to 52400000": {
+        "Regionless": [
+            "0.0000001380"
+        ],
+        "US West (Oregon)": [
+            "0.0000001380"
+        ],
+        "US East (N. Virginia)": [
+            "0.0000001380"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0000001380"
+        ],
+        "EU (Ireland)": [
+            "0.0000001380"
+        ],
+        "EU (Frankfurt)": [
+            "0.0000001380"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0000001380"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0000001380"
+        ]
+    },
+    "LoRaWAN Messages Next 4B": {
+        "Regionless": [
+            "0.0000015000"
+        ],
+        "US West (Oregon)": [
+            "0.0000015000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0000015000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0000022500"
+        ],
+        "EU (Ireland)": [
+            "0.0000015000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0000018000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0000018000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0000018000"
+        ]
+    },
+    "RulesTriggered": {
+        "Regionless": [
+            "0.0000001500"
+        ],
+        "US West (Oregon)": [
+            "0.0000001500"
+        ],
+        "US West (N. California)": [
+            "0.0000001500"
+        ],
+        "US East (Ohio)": [
+            "0.0000001500"
+        ],
+        "US East (N. Virginia)": [
+            "0.0000001500"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0000002250"
+        ],
+        "Middle East (UAE)": [
+            "0.0000001650"
+        ],
+        "Middle East (Bahrain)": [
+            "0.0000001650"
+        ],
+        "EU (Stockholm)": [
+            "0.0000001800"
+        ],
+        "EU (Paris)": [
+            "0.0000001800"
+        ],
+        "EU (London)": [
+            "0.0000001800"
+        ],
+        "EU (Ireland)": [
+            "0.0000001500"
+        ],
+        "EU (Frankfurt)": [
+            "0.0000001800"
+        ],
+        "Canada (Central)": [
+            "0.0000001500"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0000001800"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0000001800"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0000001800"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0000001800"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0000001580"
+        ],
+        "Asia Pacific (Hong Kong)": [
+            "0.0000001800"
+        ],
+        "AWS GovCloud (US-East)": [
+            "0.0000001800"
+        ],
+        "AWS GovCloud (US)": [
+            "0.0000001800"
+        ]
+    },
+    "LoRaWAN Messages Over 5B": {
+        "Regionless": [
+            "0.0000012000"
+        ],
+        "US West (Oregon)": [
+            "0.0000012000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0000012000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0000018000"
+        ],
+        "EU (Ireland)": [
+            "0.0000012000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0000014400"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0000014400"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0000014400"
+        ]
+    },
+    "LoRaWAN Subscriptions": {
+        "Regionless": [
+            "0.5000000000"
+        ],
+        "US West (Oregon)": [
+            "0.5000000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.5000000000"
+        ],
+        "EU (Ireland)": [
+            "0.5000000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.5000000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.5000000000"
+        ]
+    },
+    "Position 1000000 to 5000000": {
+        "Regionless": [
+            "0.0008000000"
+        ],
+        "US West (Oregon)": [
+            "0.0008000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0008000000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0008000000"
+        ],
+        "EU (Ireland)": [
+            "0.0008000000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0008000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0008000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0008000000"
+        ]
+    },
+    "Tasks 0 to 250000": {
+        "Regionless": [
+            "0.0060000000"
+        ],
+        "US West (Oregon)": [
+            "0.0060000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0060000000"
+        ],
+        "EU (Ireland)": [
+            "0.0060000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0060000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0060000000"
+        ]
+    },
+    "Messages Next 4B": {
+        "Regionless": [
+            "0.0000008000"
+        ],
+        "US West (Oregon)": [
+            "0.0000008000"
+        ],
+        "US West (N. California)": [
+            "0.0000008000"
+        ],
+        "US East (Ohio)": [
+            "0.0000008000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0000008000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0000012000"
+        ],
+        "Middle East (UAE)": [
+            "0.0000008800"
+        ],
+        "Middle East (Bahrain)": [
+            "0.0000008800"
+        ],
+        "EU (Stockholm)": [
+            "0.0000009600"
+        ],
+        "EU (Paris)": [
+            "0.0000009600"
+        ],
+        "EU (London)": [
+            "0.0000009600"
+        ],
+        "EU (Ireland)": [
+            "0.0000008000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0000009600"
+        ],
+        "Canada (Central)": [
+            "0.0000008000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0000009600"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0000009600"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0000009600"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0000009600"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0000008400"
+        ],
+        "Asia Pacific (Hong Kong)": [
+            "0.0000009600"
+        ],
+        "AWS GovCloud (US-East)": [
+            "0.0000009600"
+        ],
+        "AWS GovCloud (US)": [
+            "0.0000009600"
+        ]
+    },
+    "Connectivity Minutes": {
+        "Regionless": [
+            "0.0000000800"
+        ],
+        "US West (Oregon)": [
+            "0.0000000800"
+        ],
+        "US West (N. California)": [
+            "0.0000000800"
+        ],
+        "US East (Ohio)": [
+            "0.0000000800"
+        ],
+        "US East (N. Virginia)": [
+            "0.0000000800"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0000001200"
+        ],
+        "Middle East (UAE)": [
+            "0.0000000880"
+        ],
+        "Middle East (Bahrain)": [
+            "0.0000000880"
+        ],
+        "EU (Stockholm)": [
+            "0.0000000960"
+        ],
+        "EU (Paris)": [
+            "0.0000000960"
+        ],
+        "EU (London)": [
+            "0.0000000960"
+        ],
+        "EU (Ireland)": [
+            "0.0000000800"
+        ],
+        "EU (Frankfurt)": [
+            "0.0000000960"
+        ],
+        "Canada (Central)": [
+            "0.0000000800"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0000000960"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0000000960"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0000000960"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0000000960"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0000000920"
+        ],
+        "Asia Pacific (Hong Kong)": [
+            "0.0000000960"
+        ],
+        "AWS GovCloud (US-East)": [
+            "0.0000001000"
+        ],
+        "AWS GovCloud (US)": [
+            "0.0000001000"
+        ]
+    },
+    "LoRaWAN bytes 52400000 to Inf": {
+        "Regionless": [
+            "0.0000001110"
+        ],
+        "US West (Oregon)": [
+            "0.0000001110"
+        ],
+        "US East (N. Virginia)": [
+            "0.0000001110"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0000001110"
+        ],
+        "EU (Ireland)": [
+            "0.0000001110"
+        ],
+        "EU (Frankfurt)": [
+            "0.0000001110"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0000001110"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0000001110"
+        ]
+    },
+    "LoRaWAN Messages": {
+        "Regionless": [
+            "0.0000650000"
+        ],
+        "US West (Oregon)": [
+            "0.0000650000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0000650000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0000650000"
+        ],
+        "EU (Ireland)": [
+            "0.0000650000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0000650000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0000650000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0000650000"
+        ]
+    },
+    "ActionsExecuted": {
+        "Regionless": [
+            "0.0000001500"
+        ],
+        "US West (Oregon)": [
+            "0.0000001500"
+        ],
+        "US West (N. California)": [
+            "0.0000001500"
+        ],
+        "US East (Ohio)": [
+            "0.0000001500"
+        ],
+        "US East (N. Virginia)": [
+            "0.0000001500"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0000002250"
+        ],
+        "Middle East (UAE)": [
+            "0.0000001650"
+        ],
+        "Middle East (Bahrain)": [
+            "0.0000001650"
+        ],
+        "EU (Stockholm)": [
+            "0.0000001800"
+        ],
+        "EU (Paris)": [
+            "0.0000001800"
+        ],
+        "EU (London)": [
+            "0.0000001800"
+        ],
+        "EU (Ireland)": [
+            "0.0000001500"
+        ],
+        "EU (Frankfurt)": [
+            "0.0000001800"
+        ],
+        "Canada (Central)": [
+            "0.0000001500"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0000001800"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0000001800"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0000001800"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0000001800"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0000001580"
+        ],
+        "Asia Pacific (Hong Kong)": [
+            "0.0000001800"
+        ],
+        "AWS GovCloud (US-East)": [
+            "0.0000001800"
+        ],
+        "AWS GovCloud (US)": [
+            "0.0000001800"
+        ]
+    },
+    "LoRaWAN API Calls": {
+        "Regionless": [
+            "0.0000020000"
+        ],
+        "US West (Oregon)": [
+            "0.0000020000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0000020000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0000020000"
+        ],
+        "EU (Ireland)": [
+            "0.0000020000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0000020000"
+        ]
+    },
+    "Messages Up to 1B": {
+        "Regionless": [
+            "0.0000010000"
+        ],
+        "US West (Oregon)": [
+            "0.0000010000"
+        ],
+        "US West (N. California)": [
+            "0.0000010000"
+        ],
+        "US East (Ohio)": [
+            "0.0000010000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0000010000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0000015000"
+        ],
+        "Middle East (UAE)": [
+            "0.0000011000"
+        ],
+        "Middle East (Bahrain)": [
+            "0.0000011000"
+        ],
+        "EU (Stockholm)": [
+            "0.0000012000"
+        ],
+        "EU (Paris)": [
+            "0.0000012000"
+        ],
+        "EU (London)": [
+            "0.0000012000"
+        ],
+        "EU (Ireland)": [
+            "0.0000010000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0000012000"
+        ],
+        "Canada (Central)": [
+            "0.0000010000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0000012000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0000012000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0000012000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0000012000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0000010500"
+        ],
+        "Asia Pacific (Hong Kong)": [
+            "0.0000012000"
+        ],
+        "AWS GovCloud (US-East)": [
+            "0.0000012000"
+        ],
+        "AWS GovCloud (US)": [
+            "0.0000012000"
+        ]
+    },
+    "Position 5000000 to Inf": {
+        "Regionless": [
+            "0.0007000000"
+        ],
+        "US West (Oregon)": [
+            "0.0007000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0007000000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0007000000"
+        ],
+        "EU (Ireland)": [
+            "0.0007000000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0007000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0007000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0007000000"
+        ]
+    },
+    "LoRaWAN Records": {
+        "Regionless": [
+            "0.0000020000"
+        ],
+        "US West (Oregon)": [
+            "0.0000020000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0000020000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0000020000"
+        ],
+        "EU (Ireland)": [
+            "0.0000020000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0000020000"
+        ]
+    },
+    "LoRaWAN Messages Up to 1B": {
+        "Regionless": [
+            "0.0000023000"
+        ],
+        "US West (Oregon)": [
+            "0.0000023000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0000023000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0000034500"
+        ],
+        "EU (Ireland)": [
+            "0.0000023000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0000027600"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0000027600"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0000027600"
+        ]
+    },
+    "Device Shadow and Registry": {
+        "Regionless": [
+            "0.0000012500"
+        ],
+        "US West (Oregon)": [
+            "0.0000012500"
+        ],
+        "US West (N. California)": [
+            "0.0000012500"
+        ],
+        "US East (Ohio)": [
+            "0.0000012500"
+        ],
+        "US East (N. Virginia)": [
+            "0.0000012500"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0000018750"
+        ],
+        "Middle East (UAE)": [
+            "0.0000013750"
+        ],
+        "Middle East (Bahrain)": [
+            "0.0000013750"
+        ],
+        "EU (Stockholm)": [
+            "0.0000015000"
+        ],
+        "EU (Paris)": [
+            "0.0000015000"
+        ],
+        "EU (London)": [
+            "0.0000015000"
+        ],
+        "EU (Ireland)": [
+            "0.0000012500"
+        ],
+        "EU (Frankfurt)": [
+            "0.0000015000"
+        ],
+        "Canada (Central)": [
+            "0.0000012500"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0000015000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0000015000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0000015000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0000015000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0000013100"
+        ],
+        "Asia Pacific (Hong Kong)": [
+            "0.0000015000"
+        ],
+        "AWS GovCloud (US-East)": [
+            "0.0000015000"
+        ],
+        "AWS GovCloud (US)": [
+            "0.0000015000"
+        ]
+    },
+    "Messages Over 5B": {
+        "Regionless": [
+            "0.0000007000"
+        ],
+        "US West (Oregon)": [
+            "0.0000007000"
+        ],
+        "US West (N. California)": [
+            "0.0000007000"
+        ],
+        "US East (Ohio)": [
+            "0.0000007000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0000007000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0000010500"
+        ],
+        "Middle East (UAE)": [
+            "0.0000007700"
+        ],
+        "Middle East (Bahrain)": [
+            "0.0000007700"
+        ],
+        "EU (Stockholm)": [
+            "0.0000008400"
+        ],
+        "EU (Paris)": [
+            "0.0000008400"
+        ],
+        "EU (London)": [
+            "0.0000008400"
+        ],
+        "EU (Ireland)": [
+            "0.0000007000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0000008400"
+        ],
+        "Canada (Central)": [
+            "0.0000007000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0000008400"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0000008400"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0000008400"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0000008400"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0000007400"
+        ],
+        "Asia Pacific (Hong Kong)": [
+            "0.0000008400"
+        ],
+        "AWS GovCloud (US-East)": [
+            "0.0000008400"
+        ],
+        "AWS GovCloud (US)": [
+            "0.0000008400"
+        ]
+    },
+    "Sidewalk Messages Next 4B": {
+        "Regionless": [
+            "0.0000015000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0000015000"
+        ],
+        "EU (Ireland)": [
+            "0.0000015000"
+        ]
+    },
+    "Sidewalk Messages Over 5B": {
+        "Regionless": [
+            "0.0000012000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0000012000"
+        ],
+        "EU (Ireland)": [
+            "0.0000012000"
+        ]
+    },
+    "Sidewalk Messages Up to 1B": {
+        "Regionless": [
+            "0.0000023000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0000023000"
+        ],
+        "EU (Ireland)": [
+            "0.0000023000"
+        ]
+    },
+    "LoRaWAN Tasks 250000 to Inf": {
+        "Regionless": [
+            "0.0050000000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0050000000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0040000000"
+        ]
+    },
+    "Subscriptions": {
+        "Regionless": [
+            "0.5000000000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.5000000000"
+        ],
+        "EU (Frankfurt)": [
+            "0.5000000000"
+        ]
+    },
+    "LoRaWAN Tasks 0 to 250000": {
+        "Regionless": [
+            "0.0090000000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0090000000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0070000000"
+        ]
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "Connect per Count": {
+        "AWS GovCloud (US)": [
+            "0.0180000000"
+        ]
+    },
+    "Connect per Messages": {
+        "AWS GovCloud (US)": [
+            "0.0040000000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0040000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0040000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0040000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0040000000"
+        ],
+        "Canada (Central)": [
+            "0.0040000000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0040000000"
+        ],
+        "EU (London)": [
+            "0.0040000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0040000000"
+        ],
+        "US West (Oregon)": [
+            "0.0040000000"
+        ]
+    },
+    "Connect per Tasks": {
+        "AWS GovCloud (US)": [
+            "0.0400000000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0400000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0400000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0400000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0400000000"
+        ],
+        "Canada (Central)": [
+            "0.0400000000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0400000000"
+        ],
+        "EU (London)": [
+            "0.0400000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0400000000"
+        ],
+        "US West (Oregon)": [
+            "0.0400000000"
+        ]
+    },
+    "Connect per Minute": {
+        "Asia Pacific (Mumbai)": [
+            "0.0180000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0180000000"
+        ],
+        "Canada (Central)": [
+            "0.0180000000"
+        ],
+        "EU (London)": [
+            "0.0180000000"
+        ]
+    },
+    "Connect per Minutes": {
+        "Asia Pacific (Sydney)": [
+            "0.0180000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0180000000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0180000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0180000000"
+        ],
+        "US West (Oregon)": [
+            "0.0180000000"
+        ]
+    }
+}

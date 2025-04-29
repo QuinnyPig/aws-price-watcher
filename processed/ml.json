@@ -1,0 +1,68 @@
+{
+    "Capacity reservation for real time predictions": {
+        "Regionless": [
+            "0.0001000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0001000000"
+        ],
+        "EU (Ireland)": [
+            "0.0001000000"
+        ]
+    },
+    "Create data statistics": {
+        "Regionless": [
+            "0.4200000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.4200000000"
+        ],
+        "EU (Ireland)": [
+            "0.4200000000"
+        ]
+    },
+    "Real time predictions": {
+        "Regionless": [
+            "0.0001000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0001000000"
+        ],
+        "EU (Ireland)": [
+            "0.0001000000"
+        ]
+    },
+    "Train ML models": {
+        "Regionless": [
+            "0.4200000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.4200000000"
+        ],
+        "EU (Ireland)": [
+            "0.4200000000"
+        ]
+    },
+    "Batch predictions": {
+        "Regionless": [
+            "0.1000000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.1000000000"
+        ],
+        "EU (Ireland)": [
+            "0.1000000000"
+        ]
+    },
+    "Evaluate ML models": {
+        "Regionless": [
+            "0.4200000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.4200000000"
+        ],
+        "EU (Ireland)": [
+            "0.4200000000"
+        ]
+    }
+}

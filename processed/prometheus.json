@@ -1,0 +1,997 @@
+{
+    "optional set name API Request": {
+        "Regionless": [
+            "0.0000000001"
+        ],
+        "US West (Oregon)": [
+            "0.0000000001"
+        ],
+        "US East (Ohio)": [
+            "0.0000000001"
+        ],
+        "US East (N. Virginia)": [
+            "0.0000000001"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0000000001"
+        ],
+        "Middle East (UAE)": [
+            "0.0000000001"
+        ],
+        "EU (Zurich)": [
+            "0.0000000001"
+        ],
+        "EU (Stockholm)": [
+            "0.0000000001"
+        ],
+        "EU (Paris)": [
+            "0.0000000001"
+        ],
+        "EU (Milan)": [
+            "0.0000000001"
+        ],
+        "EU (London)": [
+            "0.0000000001"
+        ],
+        "EU (Ireland)": [
+            "0.0000000001"
+        ],
+        "EU (Frankfurt)": [
+            "0.0000000001"
+        ],
+        "Canada (Central)": [
+            "0.0000000001"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0000000001"
+        ],
+        "Asia Pacific (Thailand)": [
+            "0.0000000001"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0000000001"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0000000001"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0000000001"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0000000001"
+        ],
+        "Asia Pacific (Malaysia)": [
+            "0.0000000001"
+        ],
+        "Asia Pacific (Hong Kong)": [
+            "0.0000000001"
+        ],
+        "Any": [
+            "0.0000000000"
+        ],
+        "Africa (Cape Town)": [
+            "0.0000000001"
+        ]
+    },
+    "optional set name Metric": {
+        "Regionless": [
+            "0.0000000000"
+        ],
+        "US West (Oregon)": [
+            "0.0000000160",
+            "0.0000000030",
+            "0.0400000000",
+            "0.0000000350",
+            "0.0000000000",
+            "0.0000000900"
+        ],
+        "US East (Ohio)": [
+            "0.0000000160",
+            "0.0000000030",
+            "0.0400000000",
+            "0.0000000350",
+            "0.0000000000",
+            "0.0000000900"
+        ],
+        "US East (N. Virginia)": [
+            "0.0000000160",
+            "0.0000000030",
+            "0.0400000000",
+            "0.0000000350",
+            "0.0000000000",
+            "0.0000000900"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0000000160",
+            "0.0000000030",
+            "0.0400000000",
+            "0.0000000350",
+            "0.0000000000",
+            "0.0000000900"
+        ],
+        "Middle East (UAE)": [
+            "0.0000000947",
+            "0.0000000368",
+            "0.0000000000",
+            "0.0000000168",
+            "0.0421200000",
+            "0.0000000031"
+        ],
+        "EU (Zurich)": [
+            "0.0500800000",
+            "0.0000000200",
+            "0.0000000037",
+            "0.0000000000",
+            "0.0000000438",
+            "0.0000001126"
+        ],
+        "EU (Stockholm)": [
+            "0.0000000160",
+            "0.0000000030",
+            "0.0400000000",
+            "0.0000000350",
+            "0.0000000000",
+            "0.0000000900"
+        ],
+        "EU (Paris)": [
+            "0.0000000160",
+            "0.0000000030",
+            "0.0400000000",
+            "0.0000000350",
+            "0.0000000000",
+            "0.0000000900"
+        ],
+        "EU (Milan)": [
+            "0.0574400000",
+            "0.0000000043",
+            "0.0000001292",
+            "0.0000000000",
+            "0.0000000229",
+            "0.0000000502"
+        ],
+        "EU (London)": [
+            "0.0000000160",
+            "0.0000000030",
+            "0.0400000000",
+            "0.0000000350",
+            "0.0000000000",
+            "0.0000000900"
+        ],
+        "EU (Ireland)": [
+            "0.0000000160",
+            "0.0000000030",
+            "0.0400000000",
+            "0.0000000350",
+            "0.0000000000",
+            "0.0000000900"
+        ],
+        "EU (Frankfurt)": [
+            "0.0000000160",
+            "0.0000000030",
+            "0.0400000000",
+            "0.0000000350",
+            "0.0000000000",
+            "0.0000000900"
+        ],
+        "Canada (Central)": [
+            "0.0000000381",
+            "0.0000000981",
+            "0.0436000000",
+            "0.0000000174",
+            "0.0000000000",
+            "0.0000000032"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0000000160",
+            "0.0000000030",
+            "0.0400000000",
+            "0.0000000350",
+            "0.0000000000",
+            "0.0000000900"
+        ],
+        "Asia Pacific (Thailand)": [
+            "0.0000000165",
+            "0.0000000362",
+            "0.0000000933",
+            "0.0000000000",
+            "0.0414800000",
+            "0.0000000031"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0000000160",
+            "0.0000000030",
+            "0.0400000000",
+            "0.0000000350",
+            "0.0000000000",
+            "0.0000000900"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0000000160",
+            "0.0000000030",
+            "0.0400000000",
+            "0.0000000350",
+            "0.0000000000",
+            "0.0000000900"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0000000160",
+            "0.0000000030",
+            "0.0400000000",
+            "0.0000000350",
+            "0.0000000000",
+            "0.0000000900"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0000000160",
+            "0.0000000030",
+            "0.0400000000",
+            "0.0000000350",
+            "0.0000000000",
+            "0.0000000900"
+        ],
+        "Asia Pacific (Malaysia)": [
+            "0.0000000165",
+            "0.0000000362",
+            "0.0000000933",
+            "0.0000000000",
+            "0.0414800000",
+            "0.0000000031"
+        ],
+        "Asia Pacific (Hong Kong)": [
+            "0.0000000513",
+            "0.0000000234",
+            "0.0000001321",
+            "0.0000000000",
+            "0.0587200000",
+            "0.0000000044"
+        ],
+        "Africa (Cape Town)": [
+            "0.0443600000",
+            "0.0000000177",
+            "0.0000000033",
+            "0.0000000000",
+            "0.0000000388",
+            "0.0000000998"
+        ]
+    },
+    "optional set name Storage": {
+        "Regionless": [
+            "0.0000000000"
+        ],
+        "US West (Oregon)": [
+            "0.0000000000",
+            "0.0300000000"
+        ],
+        "US East (Ohio)": [
+            "0.0000000000",
+            "0.0300000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0000000000",
+            "0.0300000000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0000000000",
+            "0.0300000000"
+        ],
+        "Middle East (UAE)": [
+            "0.0315900000",
+            "0.0000000000"
+        ],
+        "EU (Zurich)": [
+            "0.0375600000",
+            "0.0000000000"
+        ],
+        "EU (Stockholm)": [
+            "0.0000000000",
+            "0.0300000000"
+        ],
+        "EU (Paris)": [
+            "0.0000000000",
+            "0.0300000000"
+        ],
+        "EU (Milan)": [
+            "0.0430800000",
+            "0.0000000000"
+        ],
+        "EU (London)": [
+            "0.0000000000",
+            "0.0300000000"
+        ],
+        "EU (Ireland)": [
+            "0.0000000000",
+            "0.0300000000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0000000000",
+            "0.0300000000"
+        ],
+        "Canada (Central)": [
+            "0.0327000000",
+            "0.0000000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0000000000",
+            "0.0300000000"
+        ],
+        "Asia Pacific (Thailand)": [
+            "0.0311100000",
+            "0.0000000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0000000000",
+            "0.0300000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0000000000",
+            "0.0300000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0000000000",
+            "0.0300000000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0000000000",
+            "0.0300000000"
+        ],
+        "Asia Pacific (Malaysia)": [
+            "0.0311100000",
+            "0.0000000000"
+        ],
+        "Asia Pacific (Hong Kong)": [
+            "0.0440400000",
+            "0.0000000000"
+        ],
+        "Africa (Cape Town)": [
+            "0.0332700000",
+            "0.0000000000"
+        ]
+    },
+    "Metric from 2000000000 to 252000000000 per Metric Datapoints": {
+        "Regionless": [
+            "0.0000000350"
+        ],
+        "US West (Oregon)": [
+            "0.0000000350"
+        ],
+        "US East (Ohio)": [
+            "0.0000000350"
+        ],
+        "US East (N. Virginia)": [
+            "0.0000000350"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0000000350"
+        ],
+        "Middle East (UAE)": [
+            "0.0000000368"
+        ],
+        "EU (Zurich)": [
+            "0.0000000438"
+        ],
+        "EU (Stockholm)": [
+            "0.0000000350"
+        ],
+        "EU (Paris)": [
+            "0.0000000350"
+        ],
+        "EU (Milan)": [
+            "0.0000000502"
+        ],
+        "EU (London)": [
+            "0.0000000350"
+        ],
+        "EU (Ireland)": [
+            "0.0000000350"
+        ],
+        "EU (Frankfurt)": [
+            "0.0000000350"
+        ],
+        "Canada (Central)": [
+            "0.0000000381"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0000000350"
+        ],
+        "Asia Pacific (Thailand)": [
+            "0.0000000362"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0000000350"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0000000350"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0000000350"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0000000350"
+        ],
+        "Asia Pacific (Malaysia)": [
+            "0.0000000362"
+        ],
+        "Asia Pacific (Hong Kong)": [
+            "0.0000000513"
+        ],
+        "Africa (Cape Town)": [
+            "0.0000000388"
+        ]
+    },
+    "Metric from 0 to Inf per Metric Datapoints": {
+        "Regionless": [
+            "0.0000000030"
+        ],
+        "US West (Oregon)": [
+            "0.0000000030"
+        ],
+        "US East (Ohio)": [
+            "0.0000000030"
+        ],
+        "US East (N. Virginia)": [
+            "0.0000000030"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0000000030"
+        ],
+        "Middle East (UAE)": [
+            "0.0000000031"
+        ],
+        "EU (Zurich)": [
+            "0.0000000037"
+        ],
+        "EU (Stockholm)": [
+            "0.0000000030"
+        ],
+        "EU (Paris)": [
+            "0.0000000030"
+        ],
+        "EU (Milan)": [
+            "0.0000000043"
+        ],
+        "EU (London)": [
+            "0.0000000030"
+        ],
+        "EU (Ireland)": [
+            "0.0000000030"
+        ],
+        "EU (Frankfurt)": [
+            "0.0000000030"
+        ],
+        "Canada (Central)": [
+            "0.0000000032"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0000000030"
+        ],
+        "Asia Pacific (Thailand)": [
+            "0.0000000031"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0000000030"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0000000030"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0000000030"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0000000030"
+        ],
+        "Asia Pacific (Malaysia)": [
+            "0.0000000031"
+        ],
+        "Asia Pacific (Hong Kong)": [
+            "0.0000000044"
+        ],
+        "Africa (Cape Town)": [
+            "0.0000000033"
+        ]
+    },
+    "Metric from 0 to Inf per Collector Hours": {
+        "Regionless": [
+            "0.0400000000"
+        ],
+        "US West (Oregon)": [
+            "0.0400000000"
+        ],
+        "US East (Ohio)": [
+            "0.0400000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0400000000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0400000000"
+        ],
+        "Middle East (UAE)": [
+            "0.0421200000"
+        ],
+        "EU (Zurich)": [
+            "0.0500800000"
+        ],
+        "EU (Stockholm)": [
+            "0.0400000000"
+        ],
+        "EU (Paris)": [
+            "0.0400000000"
+        ],
+        "EU (Milan)": [
+            "0.0574400000"
+        ],
+        "EU (London)": [
+            "0.0400000000"
+        ],
+        "EU (Ireland)": [
+            "0.0400000000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0400000000"
+        ],
+        "Canada (Central)": [
+            "0.0436000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0400000000"
+        ],
+        "Asia Pacific (Thailand)": [
+            "0.0414800000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0400000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0400000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0400000000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0400000000"
+        ],
+        "Asia Pacific (Malaysia)": [
+            "0.0414800000"
+        ],
+        "Asia Pacific (Hong Kong)": [
+            "0.0587200000"
+        ],
+        "Africa (Cape Town)": [
+            "0.0443600000"
+        ]
+    },
+    "Storage from 10 to Inf per GB-Mo": {
+        "Regionless": [
+            "0.0300000000"
+        ],
+        "US West (Oregon)": [
+            "0.0300000000"
+        ],
+        "US East (Ohio)": [
+            "0.0300000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0300000000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0300000000"
+        ],
+        "Middle East (UAE)": [
+            "0.0315900000"
+        ],
+        "EU (Zurich)": [
+            "0.0375600000"
+        ],
+        "EU (Stockholm)": [
+            "0.0300000000"
+        ],
+        "EU (Paris)": [
+            "0.0300000000"
+        ],
+        "EU (Milan)": [
+            "0.0430800000"
+        ],
+        "EU (London)": [
+            "0.0300000000"
+        ],
+        "EU (Ireland)": [
+            "0.0300000000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0300000000"
+        ],
+        "Canada (Central)": [
+            "0.0327000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0300000000"
+        ],
+        "Asia Pacific (Thailand)": [
+            "0.0311100000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0300000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0300000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0300000000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0300000000"
+        ],
+        "Asia Pacific (Malaysia)": [
+            "0.0311100000"
+        ],
+        "Asia Pacific (Hong Kong)": [
+            "0.0440400000"
+        ],
+        "Africa (Cape Town)": [
+            "0.0332700000"
+        ]
+    },
+    "Metric from 252000000000 to Inf per Metric Datapoints": {
+        "Regionless": [
+            "0.0000000160"
+        ],
+        "US West (Oregon)": [
+            "0.0000000160"
+        ],
+        "US East (Ohio)": [
+            "0.0000000160"
+        ],
+        "US East (N. Virginia)": [
+            "0.0000000160"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0000000160"
+        ],
+        "Middle East (UAE)": [
+            "0.0000000168"
+        ],
+        "EU (Zurich)": [
+            "0.0000000200"
+        ],
+        "EU (Stockholm)": [
+            "0.0000000160"
+        ],
+        "EU (Paris)": [
+            "0.0000000160"
+        ],
+        "EU (Milan)": [
+            "0.0000000229"
+        ],
+        "EU (London)": [
+            "0.0000000160"
+        ],
+        "EU (Ireland)": [
+            "0.0000000160"
+        ],
+        "EU (Frankfurt)": [
+            "0.0000000160"
+        ],
+        "Canada (Central)": [
+            "0.0000000174"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0000000160"
+        ],
+        "Asia Pacific (Thailand)": [
+            "0.0000000165"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0000000160"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0000000160"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0000000160"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0000000160"
+        ],
+        "Asia Pacific (Malaysia)": [
+            "0.0000000165"
+        ],
+        "Asia Pacific (Hong Kong)": [
+            "0.0000000234"
+        ],
+        "Africa (Cape Town)": [
+            "0.0000000177"
+        ]
+    },
+    "Metric from 40000000 to 2000000000 per Metric Datapoints": {
+        "Regionless": [
+            "0.0000000900"
+        ],
+        "US West (Oregon)": [
+            "0.0000000900"
+        ],
+        "US East (Ohio)": [
+            "0.0000000900"
+        ],
+        "US East (N. Virginia)": [
+            "0.0000000900"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0000000900"
+        ],
+        "Middle East (UAE)": [
+            "0.0000000947"
+        ],
+        "EU (Zurich)": [
+            "0.0000001126"
+        ],
+        "EU (Stockholm)": [
+            "0.0000000900"
+        ],
+        "EU (Paris)": [
+            "0.0000000900"
+        ],
+        "EU (Milan)": [
+            "0.0000001292"
+        ],
+        "EU (London)": [
+            "0.0000000900"
+        ],
+        "EU (Ireland)": [
+            "0.0000000900"
+        ],
+        "EU (Frankfurt)": [
+            "0.0000000900"
+        ],
+        "Canada (Central)": [
+            "0.0000000981"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0000000900"
+        ],
+        "Asia Pacific (Thailand)": [
+            "0.0000000933"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0000000900"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0000000900"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0000000900"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0000000900"
+        ],
+        "Asia Pacific (Malaysia)": [
+            "0.0000000933"
+        ],
+        "Asia Pacific (Hong Kong)": [
+            "0.0000001321"
+        ],
+        "Africa (Cape Town)": [
+            "0.0000000998"
+        ]
+    },
+    "Metric from 0 to 40000000 per Metric Datapoints": {
+        "Regionless": [
+            "0.0000000000"
+        ],
+        "US West (Oregon)": [
+            "0.0000000000"
+        ],
+        "US East (Ohio)": [
+            "0.0000000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0000000000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0000000000"
+        ],
+        "Middle East (UAE)": [
+            "0.0000000000"
+        ],
+        "EU (Zurich)": [
+            "0.0000000000"
+        ],
+        "EU (Stockholm)": [
+            "0.0000000000"
+        ],
+        "EU (Paris)": [
+            "0.0000000000"
+        ],
+        "EU (Milan)": [
+            "0.0000000000"
+        ],
+        "EU (London)": [
+            "0.0000000000"
+        ],
+        "EU (Ireland)": [
+            "0.0000000000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0000000000"
+        ],
+        "Canada (Central)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Thailand)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Malaysia)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Hong Kong)": [
+            "0.0000000000"
+        ],
+        "Africa (Cape Town)": [
+            "0.0000000000"
+        ]
+    },
+    "Storage from 0 to 10 per GB-Mo": {
+        "Regionless": [
+            "0.0000000000"
+        ],
+        "US West (Oregon)": [
+            "0.0000000000"
+        ],
+        "US East (Ohio)": [
+            "0.0000000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0000000000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0000000000"
+        ],
+        "Middle East (UAE)": [
+            "0.0000000000"
+        ],
+        "EU (Zurich)": [
+            "0.0000000000"
+        ],
+        "EU (Stockholm)": [
+            "0.0000000000"
+        ],
+        "EU (Paris)": [
+            "0.0000000000"
+        ],
+        "EU (Milan)": [
+            "0.0000000000"
+        ],
+        "EU (London)": [
+            "0.0000000000"
+        ],
+        "EU (Ireland)": [
+            "0.0000000000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0000000000"
+        ],
+        "Canada (Central)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Thailand)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Malaysia)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Hong Kong)": [
+            "0.0000000000"
+        ],
+        "Africa (Cape Town)": [
+            "0.0000000000"
+        ]
+    },
+    "API Request from 0 to Inf per Metric Datapoints": {
+        "Regionless": [
+            "0.0000000001"
+        ],
+        "US West (Oregon)": [
+            "0.0000000001"
+        ],
+        "US East (Ohio)": [
+            "0.0000000001"
+        ],
+        "US East (N. Virginia)": [
+            "0.0000000001"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0000000001"
+        ],
+        "Middle East (UAE)": [
+            "0.0000000001"
+        ],
+        "EU (Zurich)": [
+            "0.0000000001"
+        ],
+        "EU (Stockholm)": [
+            "0.0000000001"
+        ],
+        "EU (Paris)": [
+            "0.0000000001"
+        ],
+        "EU (Milan)": [
+            "0.0000000001"
+        ],
+        "EU (London)": [
+            "0.0000000001"
+        ],
+        "EU (Ireland)": [
+            "0.0000000001"
+        ],
+        "EU (Frankfurt)": [
+            "0.0000000001"
+        ],
+        "Canada (Central)": [
+            "0.0000000001"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0000000001"
+        ],
+        "Asia Pacific (Thailand)": [
+            "0.0000000001"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0000000001"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0000000001"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0000000001"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0000000001"
+        ],
+        "Asia Pacific (Malaysia)": [
+            "0.0000000001"
+        ],
+        "Asia Pacific (Hong Kong)": [
+            "0.0000000001"
+        ],
+        "Africa (Cape Town)": [
+            "0.0000000001"
+        ]
+    },
+    "API Request from 0 to 200000000000 per Metric Datapoints": {
+        "Regionless": [
+            "0.0000000000"
+        ],
+        "Any": [
+            "0.0000000000"
+        ]
+    }
+}

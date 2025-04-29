@@ -1,0 +1,3840 @@
+{
+    "Hourly charge for IPv4 address in a contiguous block of IPv4 address per Hrs": {
+        "Regionless": [
+            "0.0080000000"
+        ],
+        "US West (Seattle)": [
+            "0.0080000000"
+        ],
+        "US West (Portland)": [
+            "0.0080000000"
+        ],
+        "US West (Phoenix)": [
+            "0.0080000000"
+        ],
+        "US West (Oregon)": [
+            "0.0080000000"
+        ],
+        "US West (N. California)": [
+            "0.0080000000"
+        ],
+        "US West (Los Angeles)": [
+            "0.0080000000"
+        ],
+        "US West (Las Vegas)": [
+            "0.0080000000"
+        ],
+        "US West (Denver)": [
+            "0.0080000000"
+        ],
+        "US East (Philadelphia)": [
+            "0.0080000000"
+        ],
+        "US East (Ohio)": [
+            "0.0080000000"
+        ],
+        "US East (New York City)": [
+            "0.0080000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0080000000"
+        ],
+        "US East (Minneapolis)": [
+            "0.0080000000"
+        ],
+        "US East (Miami)": [
+            "0.0080000000"
+        ],
+        "US East (Kansas City 2)": [
+            "0.0080000000"
+        ],
+        "US East (Houston)": [
+            "0.0080000000"
+        ],
+        "US East (Dallas)": [
+            "0.0080000000"
+        ],
+        "US East (Chicago)": [
+            "0.0080000000"
+        ],
+        "US East (Boston)": [
+            "0.0080000000"
+        ],
+        "US East (Atlanta)": [
+            "0.0080000000"
+        ],
+        "Thailand (Bangkok)": [
+            "0.0080000000"
+        ],
+        "Taiwan (Taipei)": [
+            "0.0080000000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0080000000"
+        ],
+        "Poland (Warsaw)": [
+            "0.0080000000"
+        ],
+        "Philippines (Manila)": [
+            "0.0080000000"
+        ],
+        "Peru (Lima)": [
+            "0.0080000000"
+        ],
+        "Oman (Muscat)": [
+            "0.0080000000"
+        ],
+        "Nigeria (Lagos)": [
+            "0.0080000000"
+        ],
+        "New Zealand (Auckland)": [
+            "0.0080000000"
+        ],
+        "Middle East (UAE)": [
+            "0.0080000000"
+        ],
+        "Middle East (Bahrain)": [
+            "0.0080000000"
+        ],
+        "Mexico (Queretaro)": [
+            "0.0080000000"
+        ],
+        "Mexico (Central)": [
+            "0.0080000000"
+        ],
+        "Israel (Tel Aviv)": [
+            "0.0080000000"
+        ],
+        "India (Kolkata)": [
+            "0.0080000000"
+        ],
+        "India (Delhi)": [
+            "0.0080000000"
+        ],
+        "Germany (Hamburg)": [
+            "0.0080000000"
+        ],
+        "Finland (Helsinki)": [
+            "0.0080000000"
+        ],
+        "EU (Zurich)": [
+            "0.0080000000"
+        ],
+        "EU (Stockholm)": [
+            "0.0080000000"
+        ],
+        "EU (Spain)": [
+            "0.0080000000"
+        ],
+        "EU (Paris)": [
+            "0.0080000000"
+        ],
+        "EU (Milan)": [
+            "0.0080000000"
+        ],
+        "EU (London)": [
+            "0.0080000000"
+        ],
+        "EU (Ireland)": [
+            "0.0080000000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0080000000"
+        ],
+        "Denmark (Copenhagen)": [
+            "0.0080000000"
+        ],
+        "Chile (Santiago)": [
+            "0.0080000000"
+        ],
+        "Canada West (Calgary)": [
+            "0.0080000000"
+        ],
+        "Canada (Central)": [
+            "0.0080000000"
+        ],
+        "Australia (Perth)": [
+            "0.0080000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0080000000"
+        ],
+        "Asia Pacific (Thailand)": [
+            "0.0080000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0080000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0080000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0080000000"
+        ],
+        "Asia Pacific (Osaka)": [
+            "0.0080000000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0080000000"
+        ],
+        "Asia Pacific (Melbourne)": [
+            "0.0080000000"
+        ],
+        "Asia Pacific (Malaysia)": [
+            "0.0080000000"
+        ],
+        "Asia Pacific (Jakarta)": [
+            "0.0080000000"
+        ],
+        "Asia Pacific (Hyderabad)": [
+            "0.0080000000"
+        ],
+        "Asia Pacific (Hong Kong)": [
+            "0.0080000000"
+        ],
+        "Argentina (Buenos Aires)": [
+            "0.0080000000"
+        ],
+        "Africa (Cape Town)": [
+            "0.0080000000"
+        ],
+        "AWS GovCloud (US-East)": [
+            "0.0080000000"
+        ],
+        "AWS GovCloud (US)": [
+            "0.0080000000"
+        ]
+    },
+    "Hourly charge for Idle Public IPv4 Addresses per Hrs": {
+        "Regionless": [
+            "0.0050000000"
+        ],
+        "US West (Seattle)": [
+            "0.0050000000"
+        ],
+        "US West (Portland)": [
+            "0.0050000000"
+        ],
+        "US West (Phoenix)": [
+            "0.0050000000"
+        ],
+        "US West (Oregon)": [
+            "0.0050000000"
+        ],
+        "US West (N. California)": [
+            "0.0050000000"
+        ],
+        "US West (Los Angeles)": [
+            "0.0050000000"
+        ],
+        "US West (Las Vegas)": [
+            "0.0050000000"
+        ],
+        "US West (Denver)": [
+            "0.0050000000"
+        ],
+        "US East (Philadelphia)": [
+            "0.0050000000"
+        ],
+        "US East (Ohio)": [
+            "0.0050000000"
+        ],
+        "US East (New York City)": [
+            "0.0050000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0050000000"
+        ],
+        "US East (Minneapolis)": [
+            "0.0050000000"
+        ],
+        "US East (Miami)": [
+            "0.0050000000"
+        ],
+        "US East (Kansas City 2)": [
+            "0.0050000000"
+        ],
+        "US East (Houston)": [
+            "0.0050000000"
+        ],
+        "US East (Dallas)": [
+            "0.0050000000"
+        ],
+        "US East (Chicago)": [
+            "0.0050000000"
+        ],
+        "US East (Boston)": [
+            "0.0050000000"
+        ],
+        "US East (Atlanta)": [
+            "0.0050000000"
+        ],
+        "Thailand (Bangkok)": [
+            "0.0050000000"
+        ],
+        "Taiwan (Taipei)": [
+            "0.0050000000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0050000000"
+        ],
+        "Poland (Warsaw)": [
+            "0.0050000000"
+        ],
+        "Philippines (Manila)": [
+            "0.0050000000"
+        ],
+        "Peru (Lima)": [
+            "0.0050000000"
+        ],
+        "Oman (Muscat)": [
+            "0.0050000000"
+        ],
+        "Nigeria (Lagos)": [
+            "0.0050000000"
+        ],
+        "New Zealand (Auckland)": [
+            "0.0050000000"
+        ],
+        "Middle East (UAE)": [
+            "0.0050000000"
+        ],
+        "Middle East (Bahrain)": [
+            "0.0050000000"
+        ],
+        "Mexico (Queretaro)": [
+            "0.0050000000"
+        ],
+        "Mexico (Central)": [
+            "0.0050000000"
+        ],
+        "Israel (Tel Aviv)": [
+            "0.0050000000"
+        ],
+        "India (Kolkata)": [
+            "0.0050000000"
+        ],
+        "India (Delhi)": [
+            "0.0050000000"
+        ],
+        "Germany (Hamburg)": [
+            "0.0050000000"
+        ],
+        "Finland (Helsinki)": [
+            "0.0050000000"
+        ],
+        "EU (Zurich)": [
+            "0.0050000000"
+        ],
+        "EU (Stockholm)": [
+            "0.0050000000"
+        ],
+        "EU (Spain)": [
+            "0.0050000000"
+        ],
+        "EU (Paris)": [
+            "0.0050000000"
+        ],
+        "EU (Milan)": [
+            "0.0050000000"
+        ],
+        "EU (London)": [
+            "0.0050000000"
+        ],
+        "EU (Ireland)": [
+            "0.0050000000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0050000000"
+        ],
+        "Denmark (Copenhagen)": [
+            "0.0050000000"
+        ],
+        "Chile (Santiago)": [
+            "0.0050000000"
+        ],
+        "Canada West (Calgary)": [
+            "0.0050000000"
+        ],
+        "Canada (Central)": [
+            "0.0050000000"
+        ],
+        "Australia (Perth)": [
+            "0.0050000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0050000000"
+        ],
+        "Asia Pacific (Thailand)": [
+            "0.0050000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0050000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0050000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0050000000"
+        ],
+        "Asia Pacific (Osaka)": [
+            "0.0050000000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0050000000"
+        ],
+        "Asia Pacific (Melbourne)": [
+            "0.0050000000"
+        ],
+        "Asia Pacific (Malaysia)": [
+            "0.0050000000"
+        ],
+        "Asia Pacific (Jakarta)": [
+            "0.0050000000"
+        ],
+        "Asia Pacific (Hyderabad)": [
+            "0.0050000000"
+        ],
+        "Asia Pacific (Hong Kong)": [
+            "0.0050000000"
+        ],
+        "Argentina (Buenos Aires)": [
+            "0.0050000000"
+        ],
+        "Africa (Cape Town)": [
+            "0.0050000000"
+        ],
+        "AWS GovCloud (US-East)": [
+            "0.0050000000"
+        ],
+        "AWS GovCloud (US)": [
+            "0.0050000000"
+        ]
+    },
+    "Hourly charge for In use Public IPv4 Addresses per Hrs": {
+        "Regionless": [
+            "0.0050000000"
+        ],
+        "US West (Seattle)": [
+            "0.0050000000"
+        ],
+        "US West (Portland)": [
+            "0.0050000000"
+        ],
+        "US West (Phoenix)": [
+            "0.0050000000"
+        ],
+        "US West (Oregon)": [
+            "0.0050000000"
+        ],
+        "US West (N. California)": [
+            "0.0050000000"
+        ],
+        "US West (Los Angeles)": [
+            "0.0050000000"
+        ],
+        "US West (Las Vegas)": [
+            "0.0050000000"
+        ],
+        "US West (Denver)": [
+            "0.0050000000"
+        ],
+        "US East (Philadelphia)": [
+            "0.0050000000"
+        ],
+        "US East (Ohio)": [
+            "0.0050000000"
+        ],
+        "US East (New York City)": [
+            "0.0050000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0050000000"
+        ],
+        "US East (Minneapolis)": [
+            "0.0050000000"
+        ],
+        "US East (Miami)": [
+            "0.0050000000"
+        ],
+        "US East (Kansas City 2)": [
+            "0.0050000000"
+        ],
+        "US East (Houston)": [
+            "0.0050000000"
+        ],
+        "US East (Dallas)": [
+            "0.0050000000"
+        ],
+        "US East (Chicago)": [
+            "0.0050000000"
+        ],
+        "US East (Boston)": [
+            "0.0050000000"
+        ],
+        "US East (Atlanta)": [
+            "0.0050000000"
+        ],
+        "Thailand (Bangkok)": [
+            "0.0050000000"
+        ],
+        "Taiwan (Taipei)": [
+            "0.0050000000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0050000000"
+        ],
+        "Poland (Warsaw)": [
+            "0.0050000000"
+        ],
+        "Philippines (Manila)": [
+            "0.0050000000"
+        ],
+        "Peru (Lima)": [
+            "0.0050000000"
+        ],
+        "Oman (Muscat)": [
+            "0.0050000000"
+        ],
+        "Nigeria (Lagos)": [
+            "0.0050000000"
+        ],
+        "New Zealand (Auckland)": [
+            "0.0050000000"
+        ],
+        "Middle East (UAE)": [
+            "0.0050000000"
+        ],
+        "Middle East (Bahrain)": [
+            "0.0050000000"
+        ],
+        "Mexico (Queretaro)": [
+            "0.0050000000"
+        ],
+        "Mexico (Central)": [
+            "0.0050000000"
+        ],
+        "Israel (Tel Aviv)": [
+            "0.0050000000"
+        ],
+        "India (Kolkata)": [
+            "0.0050000000"
+        ],
+        "India (Delhi)": [
+            "0.0050000000"
+        ],
+        "Germany (Hamburg)": [
+            "0.0050000000"
+        ],
+        "Finland (Helsinki)": [
+            "0.0050000000"
+        ],
+        "EU (Zurich)": [
+            "0.0050000000"
+        ],
+        "EU (Stockholm)": [
+            "0.0050000000"
+        ],
+        "EU (Spain)": [
+            "0.0050000000"
+        ],
+        "EU (Paris)": [
+            "0.0050000000"
+        ],
+        "EU (Milan)": [
+            "0.0050000000"
+        ],
+        "EU (London)": [
+            "0.0050000000"
+        ],
+        "EU (Ireland)": [
+            "0.0050000000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0050000000"
+        ],
+        "Denmark (Copenhagen)": [
+            "0.0050000000"
+        ],
+        "Chile (Santiago)": [
+            "0.0050000000"
+        ],
+        "Canada West (Calgary)": [
+            "0.0050000000"
+        ],
+        "Canada (Central)": [
+            "0.0050000000"
+        ],
+        "Australia (Perth)": [
+            "0.0050000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0050000000"
+        ],
+        "Asia Pacific (Thailand)": [
+            "0.0050000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0050000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0050000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0050000000"
+        ],
+        "Asia Pacific (Osaka)": [
+            "0.0050000000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0050000000"
+        ],
+        "Asia Pacific (Melbourne)": [
+            "0.0050000000"
+        ],
+        "Asia Pacific (Malaysia)": [
+            "0.0050000000"
+        ],
+        "Asia Pacific (Jakarta)": [
+            "0.0050000000"
+        ],
+        "Asia Pacific (Hyderabad)": [
+            "0.0050000000"
+        ],
+        "Asia Pacific (Hong Kong)": [
+            "0.0050000000"
+        ],
+        "Argentina (Buenos Aires)": [
+            "0.0050000000"
+        ],
+        "Africa (Cape Town)": [
+            "0.0050000000"
+        ],
+        "AWS GovCloud (US-East)": [
+            "0.0050000000"
+        ],
+        "AWS GovCloud (US)": [
+            "0.0050000000"
+        ]
+    },
+    "Hourly charge for Verified Access Applications per hours Tier2": {
+        "Regionless": [
+            "0.2000000000"
+        ],
+        "US West (Oregon)": [
+            "0.2000000000"
+        ],
+        "US West (N. California)": [
+            "0.2000000000"
+        ],
+        "US East (Ohio)": [
+            "0.2000000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.2000000000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.3000000000"
+        ],
+        "Israel (Tel Aviv)": [
+            "0.2300000000"
+        ],
+        "EU (Stockholm)": [
+            "0.2300000000"
+        ],
+        "EU (Milan)": [
+            "0.2300000000"
+        ],
+        "EU (London)": [
+            "0.2300000000"
+        ],
+        "EU (Ireland)": [
+            "0.2300000000"
+        ],
+        "EU (Frankfurt)": [
+            "0.2300000000"
+        ],
+        "Canada (Central)": [
+            "0.2000000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.2600000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.2600000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.2600000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.2600000000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.2600000000"
+        ],
+        "Asia Pacific (Jakarta)": [
+            "0.2600000000"
+        ],
+        "AWS GovCloud (US-East)": [
+            "0.2600000000"
+        ],
+        "AWS GovCloud (US)": [
+            "0.2600000000"
+        ]
+    },
+    "Charge per ENI processed by VPC Access Analyzer per NetworkInterface Assessment": {
+        "Regionless": [
+            "0.0020000000"
+        ],
+        "US West (Oregon)": [
+            "0.0020000000"
+        ],
+        "US West (N. California)": [
+            "0.0020000000"
+        ],
+        "US East (Ohio)": [
+            "0.0020000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0020000000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0020000000"
+        ],
+        "Middle East (Bahrain)": [
+            "0.0020000000"
+        ],
+        "EU (Stockholm)": [
+            "0.0020000000"
+        ],
+        "EU (Spain)": [
+            "0.0020000000"
+        ],
+        "EU (Paris)": [
+            "0.0020000000"
+        ],
+        "EU (Milan)": [
+            "0.0020000000"
+        ],
+        "EU (London)": [
+            "0.0020000000"
+        ],
+        "EU (Ireland)": [
+            "0.0020000000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0020000000"
+        ],
+        "Canada (Central)": [
+            "0.0020000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0020000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0020000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0020000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0020000000"
+        ],
+        "Asia Pacific (Osaka)": [
+            "0.0020000000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0020000000"
+        ],
+        "Asia Pacific (Hong Kong)": [
+            "0.0020000000"
+        ],
+        "Africa (Cape Town)": [
+            "0.0020000000"
+        ]
+    },
+    "Hourly charge for Client VPN connections per Hourly": {
+        "Regionless": [
+            "0.0500000000"
+        ],
+        "US West (Oregon)": [
+            "0.0500000000"
+        ],
+        "US West (N. California)": [
+            "0.0500000000"
+        ],
+        "US East (Ohio)": [
+            "0.0500000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0500000000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0500000000"
+        ],
+        "Middle East (UAE)": [
+            "0.0500000000"
+        ],
+        "Middle East (Bahrain)": [
+            "0.0500000000"
+        ],
+        "Israel (Tel Aviv)": [
+            "0.0500000000"
+        ],
+        "EU (Zurich)": [
+            "0.0500000000"
+        ],
+        "EU (Stockholm)": [
+            "0.0500000000"
+        ],
+        "EU (Spain)": [
+            "0.0500000000"
+        ],
+        "EU (Paris)": [
+            "0.0500000000"
+        ],
+        "EU (Milan)": [
+            "0.0500000000"
+        ],
+        "EU (London)": [
+            "0.0500000000"
+        ],
+        "EU (Ireland)": [
+            "0.0500000000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0500000000"
+        ],
+        "Canada (Central)": [
+            "0.0500000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0500000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0500000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0500000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0500000000"
+        ],
+        "Asia Pacific (Osaka)": [
+            "0.0500000000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0500000000"
+        ],
+        "Asia Pacific (Melbourne)": [
+            "0.0500000000"
+        ],
+        "Asia Pacific (Jakarta)": [
+            "0.0500000000"
+        ],
+        "Asia Pacific (Hyderabad)": [
+            "0.0500000000"
+        ],
+        "Asia Pacific (Hong Kong)": [
+            "0.0500000000"
+        ],
+        "Africa (Cape Town)": [
+            "0.0500000000"
+        ],
+        "AWS GovCloud (US-East)": [
+            "0.0500000000"
+        ],
+        "AWS GovCloud (US)": [
+            "0.0500000000"
+        ]
+    },
+    "Hourly charge for Traffic Mirroring Source per hour": {
+        "Regionless": [
+            "0.0150000000"
+        ],
+        "US West (Oregon)": [
+            "0.0150000000"
+        ],
+        "US West (N. California)": [
+            "0.0150000000"
+        ],
+        "US East (Ohio)": [
+            "0.0150000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0150000000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0308000000"
+        ],
+        "Middle East (UAE)": [
+            "0.0180000000"
+        ],
+        "Middle East (Bahrain)": [
+            "0.0180000000"
+        ],
+        "Mexico (Central)": [
+            "0.0157500000"
+        ],
+        "Israel (Tel Aviv)": [
+            "0.0180000000"
+        ],
+        "EU (Zurich)": [
+            "0.0180000000"
+        ],
+        "EU (Stockholm)": [
+            "0.0180000000"
+        ],
+        "EU (Spain)": [
+            "0.0180000000"
+        ],
+        "EU (Paris)": [
+            "0.0180000000"
+        ],
+        "EU (Milan)": [
+            "0.0180000000"
+        ],
+        "EU (London)": [
+            "0.0180000000"
+        ],
+        "EU (Ireland)": [
+            "0.0180000000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0180000000"
+        ],
+        "Canada West (Calgary)": [
+            "0.0150000000"
+        ],
+        "Canada (Central)": [
+            "0.0150000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0180000000"
+        ],
+        "Asia Pacific (Thailand)": [
+            "0.0180000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0180000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0180000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0180000000"
+        ],
+        "Asia Pacific (Osaka)": [
+            "0.0180000000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0180000000"
+        ],
+        "Asia Pacific (Melbourne)": [
+            "0.0180000000"
+        ],
+        "Asia Pacific (Malaysia)": [
+            "0.0180000000"
+        ],
+        "Asia Pacific (Jakarta)": [
+            "0.0180000000"
+        ],
+        "Asia Pacific (Hyderabad)": [
+            "0.0180000000"
+        ],
+        "Asia Pacific (Hong Kong)": [
+            "0.0198000000"
+        ],
+        "Africa (Cape Town)": [
+            "0.0180000000"
+        ],
+        "AWS GovCloud (US-East)": [
+            "0.0180000000"
+        ],
+        "AWS GovCloud (US)": [
+            "0.0180000000"
+        ]
+    },
+    "Charge per GB Data Processed by VPC Lattice Service per GB": {
+        "Regionless": [
+            "0.0250000000"
+        ],
+        "US West (Oregon)": [
+            "0.0250000000"
+        ],
+        "US West (N. California)": [
+            "0.0300000000"
+        ],
+        "US East (Ohio)": [
+            "0.0250000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0250000000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0400000000"
+        ],
+        "Middle East (UAE)": [
+            "0.0300000000"
+        ],
+        "Middle East (Bahrain)": [
+            "0.0275000000"
+        ],
+        "EU (Zurich)": [
+            "0.0325000000"
+        ],
+        "EU (Stockholm)": [
+            "0.0325000000"
+        ],
+        "EU (Spain)": [
+            "0.0325000000"
+        ],
+        "EU (Paris)": [
+            "0.0325000000"
+        ],
+        "EU (Milan)": [
+            "0.0325000000"
+        ],
+        "EU (London)": [
+            "0.0325000000"
+        ],
+        "EU (Ireland)": [
+            "0.0275000000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0325000000"
+        ],
+        "Canada West (Calgary)": [
+            "0.0300000000"
+        ],
+        "Canada (Central)": [
+            "0.0300000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0325000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0325000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0325000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0325000000"
+        ],
+        "Asia Pacific (Osaka)": [
+            "0.0325000000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0325000000"
+        ],
+        "Asia Pacific (Melbourne)": [
+            "0.0325000000"
+        ],
+        "Asia Pacific (Jakarta)": [
+            "0.0325000000"
+        ],
+        "Asia Pacific (Hyderabad)": [
+            "0.0325000000"
+        ],
+        "Asia Pacific (Hong Kong)": [
+            "0.0375000000"
+        ],
+        "Africa (Cape Town)": [
+            "0.0275000000"
+        ]
+    },
+    "Charge for per GB data processed by AWS Transit Gateway for Multicast receivers per GigaBytes": {
+        "Regionless": [
+            "0.0200000000"
+        ],
+        "US West (Oregon)": [
+            "0.0200000000"
+        ],
+        "US West (N. California)": [
+            "0.0200000000"
+        ],
+        "US East (Ohio)": [
+            "0.0200000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0200000000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0200000000"
+        ],
+        "Middle East (UAE)": [
+            "0.0200000000"
+        ],
+        "Middle East (Bahrain)": [
+            "0.0200000000"
+        ],
+        "Mexico (Central)": [
+            "0.0200000000"
+        ],
+        "Israel (Tel Aviv)": [
+            "0.0200000000"
+        ],
+        "EU (Zurich)": [
+            "0.0200000000"
+        ],
+        "EU (Stockholm)": [
+            "0.0200000000"
+        ],
+        "EU (Spain)": [
+            "0.0200000000"
+        ],
+        "EU (Paris)": [
+            "0.0200000000"
+        ],
+        "EU (Milan)": [
+            "0.0200000000"
+        ],
+        "EU (London)": [
+            "0.0200000000"
+        ],
+        "EU (Ireland)": [
+            "0.0200000000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0200000000"
+        ],
+        "Canada West (Calgary)": [
+            "0.0200000000"
+        ],
+        "Canada (Central)": [
+            "0.0200000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0200000000"
+        ],
+        "Asia Pacific (Thailand)": [
+            "0.0200000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0200000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0200000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0200000000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0200000000"
+        ],
+        "Asia Pacific (Melbourne)": [
+            "0.0200000000"
+        ],
+        "Asia Pacific (Malaysia)": [
+            "0.0200000000"
+        ],
+        "Asia Pacific (Jakarta)": [
+            "0.0200000000"
+        ],
+        "Asia Pacific (Hyderabad)": [
+            "0.0200000000"
+        ],
+        "Asia Pacific (Hong Kong)": [
+            "0.0200000000"
+        ],
+        "Africa (Cape Town)": [
+            "0.0200000000"
+        ],
+        "AWS GovCloud (US-East)": [
+            "0.0200000000"
+        ],
+        "AWS GovCloud (US)": [
+            "0.0200000000"
+        ]
+    },
+    "Charge for per GB data processed by AWS Transit Gateway for Multicast receivers per GB": {
+        "Regionless": [
+            "0.0200000000"
+        ],
+        "US West (Oregon)": [
+            "0.0200000000"
+        ],
+        "US West (N. California)": [
+            "0.0200000000"
+        ],
+        "US East (Ohio)": [
+            "0.0200000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0200000000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0200000000"
+        ],
+        "Middle East (UAE)": [
+            "0.0200000000"
+        ],
+        "Middle East (Bahrain)": [
+            "0.0200000000"
+        ],
+        "Mexico (Central)": [
+            "0.0200000000"
+        ],
+        "Israel (Tel Aviv)": [
+            "0.0200000000"
+        ],
+        "EU (Zurich)": [
+            "0.0200000000"
+        ],
+        "EU (Stockholm)": [
+            "0.0200000000"
+        ],
+        "EU (Spain)": [
+            "0.0200000000"
+        ],
+        "EU (Paris)": [
+            "0.0200000000"
+        ],
+        "EU (Milan)": [
+            "0.0200000000"
+        ],
+        "EU (London)": [
+            "0.0200000000"
+        ],
+        "EU (Ireland)": [
+            "0.0200000000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0200000000"
+        ],
+        "Canada West (Calgary)": [
+            "0.0200000000"
+        ],
+        "Canada (Central)": [
+            "0.0200000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0200000000"
+        ],
+        "Asia Pacific (Thailand)": [
+            "0.0200000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0200000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0200000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0200000000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0200000000"
+        ],
+        "Asia Pacific (Melbourne)": [
+            "0.0200000000"
+        ],
+        "Asia Pacific (Malaysia)": [
+            "0.0200000000"
+        ],
+        "Asia Pacific (Jakarta)": [
+            "0.0200000000"
+        ],
+        "Asia Pacific (Hyderabad)": [
+            "0.0200000000"
+        ],
+        "Asia Pacific (Hong Kong)": [
+            "0.0200000000"
+        ],
+        "Africa (Cape Town)": [
+            "0.0200000000"
+        ],
+        "AWS GovCloud (US-East)": [
+            "0.0200000000"
+        ],
+        "AWS GovCloud (US)": [
+            "0.0200000000"
+        ]
+    },
+    "Charge per Request per hour processed by VPC Lattice Service per Requests": {
+        "Regionless": [
+            "0.0000001000"
+        ],
+        "US West (Oregon)": [
+            "0.0000001000"
+        ],
+        "US West (N. California)": [
+            "0.0000001200"
+        ],
+        "US East (Ohio)": [
+            "0.0000001000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0000001000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0000001600"
+        ],
+        "Middle East (UAE)": [
+            "0.0000001200"
+        ],
+        "Middle East (Bahrain)": [
+            "0.0000001100"
+        ],
+        "EU (Zurich)": [
+            "0.0000001300"
+        ],
+        "EU (Stockholm)": [
+            "0.0000001300"
+        ],
+        "EU (Spain)": [
+            "0.0000001300"
+        ],
+        "EU (Paris)": [
+            "0.0000001300"
+        ],
+        "EU (Milan)": [
+            "0.0000001300"
+        ],
+        "EU (London)": [
+            "0.0000001300"
+        ],
+        "EU (Ireland)": [
+            "0.0000001100"
+        ],
+        "EU (Frankfurt)": [
+            "0.0000001300"
+        ],
+        "Canada West (Calgary)": [
+            "0.0000001200"
+        ],
+        "Canada (Central)": [
+            "0.0000001200"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0000001300"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0000001300"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0000001300"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0000001300"
+        ],
+        "Asia Pacific (Osaka)": [
+            "0.0000001300"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0000001300"
+        ],
+        "Asia Pacific (Melbourne)": [
+            "0.0000001300"
+        ],
+        "Asia Pacific (Jakarta)": [
+            "0.0000001300"
+        ],
+        "Asia Pacific (Hyderabad)": [
+            "0.0000001300"
+        ],
+        "Asia Pacific (Hong Kong)": [
+            "0.0000001500"
+        ],
+        "Africa (Cape Town)": [
+            "0.0000001100"
+        ]
+    },
+    "Hourly charge for AWS Gateway Load Balancer VPC Endpoint per Hrs": {
+        "Regionless": [
+            "0.0100000000"
+        ],
+        "US West (Oregon)": [
+            "0.0100000000"
+        ],
+        "US West (N. California)": [
+            "0.0110000000"
+        ],
+        "US East (Ohio)": [
+            "0.0100000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0100000000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0151000000"
+        ],
+        "Middle East (UAE)": [
+            "0.0123200000"
+        ],
+        "Middle East (Bahrain)": [
+            "0.0121000000"
+        ],
+        "Mexico (Central)": [
+            "0.0105000000"
+        ],
+        "Israel (Tel Aviv)": [
+            "0.0117600000"
+        ],
+        "EU (Zurich)": [
+            "0.0132000000"
+        ],
+        "EU (Stockholm)": [
+            "0.0105000000"
+        ],
+        "EU (Spain)": [
+            "0.0112000000"
+        ],
+        "EU (Paris)": [
+            "0.0110000000"
+        ],
+        "EU (Milan)": [
+            "0.0115500000"
+        ],
+        "EU (London)": [
+            "0.0110000000"
+        ],
+        "EU (Ireland)": [
+            "0.0112000000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0120000000"
+        ],
+        "Canada West (Calgary)": [
+            "0.0110000000"
+        ],
+        "Canada (Central)": [
+            "0.0110000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0140000000"
+        ],
+        "Asia Pacific (Thailand)": [
+            "0.0117000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0112000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0130000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0130000000"
+        ],
+        "Asia Pacific (Osaka)": [
+            "0.0140000000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0130000000"
+        ],
+        "Asia Pacific (Melbourne)": [
+            "0.0112000000"
+        ],
+        "Asia Pacific (Malaysia)": [
+            "0.0117000000"
+        ],
+        "Asia Pacific (Jakarta)": [
+            "0.0130000000"
+        ],
+        "Asia Pacific (Hyderabad)": [
+            "0.0130000000"
+        ],
+        "Asia Pacific (Hong Kong)": [
+            "0.0143000000"
+        ],
+        "Africa (Cape Town)": [
+            "0.0130900000"
+        ],
+        "AWS GovCloud (US-East)": [
+            "0.0142000000"
+        ],
+        "AWS GovCloud (US)": [
+            "0.0142000000"
+        ]
+    },
+    "Hourly charge for Client VPN Endpoints per Hourly": {
+        "Regionless": [
+            "0.1000000000"
+        ],
+        "US West (Oregon)": [
+            "0.1000000000"
+        ],
+        "US West (N. California)": [
+            "0.1500000000"
+        ],
+        "US East (Ohio)": [
+            "0.1000000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.1000000000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.1500000000"
+        ],
+        "Middle East (UAE)": [
+            "0.1500000000"
+        ],
+        "Middle East (Bahrain)": [
+            "0.1500000000"
+        ],
+        "Israel (Tel Aviv)": [
+            "0.1500000000"
+        ],
+        "EU (Zurich)": [
+            "0.1500000000"
+        ],
+        "EU (Stockholm)": [
+            "0.1500000000"
+        ],
+        "EU (Spain)": [
+            "0.1500000000"
+        ],
+        "EU (Paris)": [
+            "0.1000000000"
+        ],
+        "EU (Milan)": [
+            "0.1500000000"
+        ],
+        "EU (London)": [
+            "0.1000000000"
+        ],
+        "EU (Ireland)": [
+            "0.1000000000"
+        ],
+        "EU (Frankfurt)": [
+            "0.1000000000"
+        ],
+        "Canada (Central)": [
+            "0.1000000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.1500000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.1500000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.1500000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.1000000000"
+        ],
+        "Asia Pacific (Osaka)": [
+            "0.1500000000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.1500000000"
+        ],
+        "Asia Pacific (Melbourne)": [
+            "0.1500000000"
+        ],
+        "Asia Pacific (Jakarta)": [
+            "0.1500000000"
+        ],
+        "Asia Pacific (Hyderabad)": [
+            "0.1500000000"
+        ],
+        "Asia Pacific (Hong Kong)": [
+            "0.1500000000"
+        ],
+        "Africa (Cape Town)": [
+            "0.1000000000"
+        ],
+        "AWS GovCloud (US-East)": [
+            "0.1000000000"
+        ],
+        "AWS GovCloud (US)": [
+            "0.1000000000"
+        ]
+    },
+    "Free for the first 300 000 Requests per hour processed by VPC Lattice Service per Requests": {
+        "Regionless": [
+            "0.0000000000"
+        ],
+        "US West (Oregon)": [
+            "0.0000000000"
+        ],
+        "US West (N. California)": [
+            "0.0000000000"
+        ],
+        "US East (Ohio)": [
+            "0.0000000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0000000000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0000000000"
+        ],
+        "Middle East (UAE)": [
+            "0.0000000000"
+        ],
+        "Middle East (Bahrain)": [
+            "0.0000000000"
+        ],
+        "EU (Zurich)": [
+            "0.0000000000"
+        ],
+        "EU (Stockholm)": [
+            "0.0000000000"
+        ],
+        "EU (Spain)": [
+            "0.0000000000"
+        ],
+        "EU (Paris)": [
+            "0.0000000000"
+        ],
+        "EU (Milan)": [
+            "0.0000000000"
+        ],
+        "EU (London)": [
+            "0.0000000000"
+        ],
+        "EU (Ireland)": [
+            "0.0000000000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0000000000"
+        ],
+        "Canada West (Calgary)": [
+            "0.0000000000"
+        ],
+        "Canada (Central)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Osaka)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Melbourne)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Jakarta)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Hyderabad)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Hong Kong)": [
+            "0.0000000000"
+        ],
+        "Africa (Cape Town)": [
+            "0.0000000000"
+        ]
+    },
+    "Hourly charge for Active IP Addresses per hours": {
+        "Regionless": [
+            "0.0002700000"
+        ],
+        "US West (Oregon)": [
+            "0.0002700000"
+        ],
+        "US West (N. California)": [
+            "0.0002700000"
+        ],
+        "US East (Ohio)": [
+            "0.0002700000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0002700000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0002700000"
+        ],
+        "Middle East (UAE)": [
+            "0.0002700000"
+        ],
+        "Middle East (Bahrain)": [
+            "0.0002700000"
+        ],
+        "Mexico (Central)": [
+            "0.0002700000"
+        ],
+        "Israel (Tel Aviv)": [
+            "0.0002700000"
+        ],
+        "EU (Zurich)": [
+            "0.0002700000"
+        ],
+        "EU (Stockholm)": [
+            "0.0002700000"
+        ],
+        "EU (Spain)": [
+            "0.0002700000"
+        ],
+        "EU (Paris)": [
+            "0.0002700000"
+        ],
+        "EU (Milan)": [
+            "0.0002700000"
+        ],
+        "EU (London)": [
+            "0.0002700000"
+        ],
+        "EU (Ireland)": [
+            "0.0002700000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0002700000"
+        ],
+        "Canada West (Calgary)": [
+            "0.0002700000"
+        ],
+        "Canada (Central)": [
+            "0.0002700000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0002700000"
+        ],
+        "Asia Pacific (Thailand)": [
+            "0.0002700000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0002700000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0002700000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0002700000"
+        ],
+        "Asia Pacific (Osaka)": [
+            "0.0002700000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0002700000"
+        ],
+        "Asia Pacific (Melbourne)": [
+            "0.0002700000"
+        ],
+        "Asia Pacific (Malaysia)": [
+            "0.0002700000"
+        ],
+        "Asia Pacific (Jakarta)": [
+            "0.0002700000"
+        ],
+        "Asia Pacific (Hyderabad)": [
+            "0.0002700000"
+        ],
+        "Asia Pacific (Hong Kong)": [
+            "0.0002700000"
+        ],
+        "Africa (Cape Town)": [
+            "0.0002700000"
+        ],
+        "AWS GovCloud (US-East)": [
+            "0.0002700000"
+        ],
+        "AWS GovCloud (US)": [
+            "0.0002700000"
+        ]
+    },
+    "Hourly charge for Transit Gateway Connect attachments per hour": {
+        "Regionless": [
+            "0.0500000000"
+        ],
+        "US West (Oregon)": [
+            "0.0500000000"
+        ],
+        "US West (N. California)": [
+            "0.0600000000"
+        ],
+        "US East (Ohio)": [
+            "0.0500000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0500000000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0900000000"
+        ],
+        "Middle East (UAE)": [
+            "0.0550000000"
+        ],
+        "Middle East (Bahrain)": [
+            "0.0550000000"
+        ],
+        "Mexico (Central)": [
+            "0.0550000000"
+        ],
+        "Israel (Tel Aviv)": [
+            "0.0550000000"
+        ],
+        "EU (Zurich)": [
+            "0.0600000000"
+        ],
+        "EU (Stockholm)": [
+            "0.0600000000"
+        ],
+        "EU (Spain)": [
+            "0.0600000000"
+        ],
+        "EU (Paris)": [
+            "0.0600000000"
+        ],
+        "EU (Milan)": [
+            "0.0600000000"
+        ],
+        "EU (London)": [
+            "0.0600000000"
+        ],
+        "EU (Ireland)": [
+            "0.0500000000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0600000000"
+        ],
+        "Canada West (Calgary)": [
+            "0.0600000000"
+        ],
+        "Canada (Central)": [
+            "0.0600000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0700000000"
+        ],
+        "Asia Pacific (Thailand)": [
+            "0.0700000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0700000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0700000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0700000000"
+        ],
+        "Asia Pacific (Osaka)": [
+            "0.0700000000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0700000000"
+        ],
+        "Asia Pacific (Melbourne)": [
+            "0.0700000000"
+        ],
+        "Asia Pacific (Malaysia)": [
+            "0.0600000000"
+        ],
+        "Asia Pacific (Jakarta)": [
+            "0.0700000000"
+        ],
+        "Asia Pacific (Hyderabad)": [
+            "0.0700000000"
+        ],
+        "Asia Pacific (Hong Kong)": [
+            "0.0700000000"
+        ],
+        "Africa (Cape Town)": [
+            "0.0600000000"
+        ],
+        "AWS GovCloud (US-East)": [
+            "0.0600000000"
+        ],
+        "AWS GovCloud (US)": [
+            "0.0600000000"
+        ]
+    },
+    "Hourly charge for VPC Endpoints per Hrs": {
+        "Regionless": [
+            "0.0100000000"
+        ],
+        "US West (Oregon)": [
+            "0.0100000000"
+        ],
+        "US West (N. California)": [
+            "0.0110000000"
+        ],
+        "US East (Ohio)": [
+            "0.0100000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0100000000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0210000000"
+        ],
+        "Middle East (UAE)": [
+            "0.0121000000"
+        ],
+        "Middle East (Bahrain)": [
+            "0.0121000000"
+        ],
+        "Mexico (Central)": [
+            "0.0105000000"
+        ],
+        "Israel (Tel Aviv)": [
+            "0.0115500000"
+        ],
+        "EU (Zurich)": [
+            "0.0132000000"
+        ],
+        "EU (Stockholm)": [
+            "0.0105000000"
+        ],
+        "EU (Spain)": [
+            "0.0110000000"
+        ],
+        "EU (Paris)": [
+            "0.0110000000"
+        ],
+        "EU (Milan)": [
+            "0.0115500000"
+        ],
+        "EU (London)": [
+            "0.0110000000"
+        ],
+        "EU (Ireland)": [
+            "0.0110000000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0120000000"
+        ],
+        "Canada West (Calgary)": [
+            "0.0110000000"
+        ],
+        "Canada (Central)": [
+            "0.0110000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0140000000"
+        ],
+        "Asia Pacific (Thailand)": [
+            "0.0117000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0130000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0130000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0130000000"
+        ],
+        "Asia Pacific (Osaka)": [
+            "0.0140000000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0130000000"
+        ],
+        "Asia Pacific (Melbourne)": [
+            "0.0130000000"
+        ],
+        "Asia Pacific (Malaysia)": [
+            "0.0117000000"
+        ],
+        "Asia Pacific (Jakarta)": [
+            "0.0130000000"
+        ],
+        "Asia Pacific (Hyderabad)": [
+            "0.0130000000"
+        ],
+        "Asia Pacific (Hong Kong)": [
+            "0.0143000000"
+        ],
+        "Africa (Cape Town)": [
+            "0.0130900000"
+        ],
+        "AWS GovCloud (US-East)": [
+            "0.0125000000"
+        ],
+        "AWS GovCloud (US)": [
+            "0.0125000000"
+        ]
+    },
+    "Hourly charge for Verified Access Applications per hours Tier1": {
+        "Regionless": [
+            "0.2700000000"
+        ],
+        "US West (Oregon)": [
+            "0.2700000000"
+        ],
+        "US West (N. California)": [
+            "0.2700000000"
+        ],
+        "US East (Ohio)": [
+            "0.2700000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.2700000000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.4000000000"
+        ],
+        "Israel (Tel Aviv)": [
+            "0.3100000000"
+        ],
+        "EU (Stockholm)": [
+            "0.3100000000"
+        ],
+        "EU (Milan)": [
+            "0.3100000000"
+        ],
+        "EU (London)": [
+            "0.3100000000"
+        ],
+        "EU (Ireland)": [
+            "0.3100000000"
+        ],
+        "EU (Frankfurt)": [
+            "0.3100000000"
+        ],
+        "Canada (Central)": [
+            "0.2700000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.3500000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.3500000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.3500000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.3500000000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.3500000000"
+        ],
+        "Asia Pacific (Jakarta)": [
+            "0.3500000000"
+        ],
+        "AWS GovCloud (US-East)": [
+            "0.3500000000"
+        ],
+        "AWS GovCloud (US)": [
+            "0.3500000000"
+        ]
+    },
+    "Hourly charge for Transit Gateway Peering Attachments per hour": {
+        "Regionless": [
+            "0.0500000000"
+        ],
+        "US West (Oregon)": [
+            "0.0500000000"
+        ],
+        "US West (N. California)": [
+            "0.0600000000"
+        ],
+        "US East (Ohio)": [
+            "0.0500000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0500000000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0900000000"
+        ],
+        "Middle East (UAE)": [
+            "0.0550000000"
+        ],
+        "Middle East (Bahrain)": [
+            "0.0550000000"
+        ],
+        "Mexico (Central)": [
+            "0.0550000000"
+        ],
+        "Israel (Tel Aviv)": [
+            "0.0550000000"
+        ],
+        "EU (Zurich)": [
+            "0.0600000000"
+        ],
+        "EU (Stockholm)": [
+            "0.0600000000"
+        ],
+        "EU (Spain)": [
+            "0.0600000000"
+        ],
+        "EU (Paris)": [
+            "0.0600000000"
+        ],
+        "EU (Milan)": [
+            "0.0600000000"
+        ],
+        "EU (London)": [
+            "0.0600000000"
+        ],
+        "EU (Ireland)": [
+            "0.0500000000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0600000000"
+        ],
+        "Canada West (Calgary)": [
+            "0.0600000000"
+        ],
+        "Canada (Central)": [
+            "0.0600000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0700000000"
+        ],
+        "Asia Pacific (Thailand)": [
+            "0.0700000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0700000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0700000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0700000000"
+        ],
+        "Asia Pacific (Osaka)": [
+            "0.0700000000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0700000000"
+        ],
+        "Asia Pacific (Melbourne)": [
+            "0.0700000000"
+        ],
+        "Asia Pacific (Malaysia)": [
+            "0.0600000000"
+        ],
+        "Asia Pacific (Jakarta)": [
+            "0.0700000000"
+        ],
+        "Asia Pacific (Hyderabad)": [
+            "0.0700000000"
+        ],
+        "Asia Pacific (Hong Kong)": [
+            "0.0700000000"
+        ],
+        "Africa (Cape Town)": [
+            "0.0600000000"
+        ],
+        "AWS GovCloud (US-East)": [
+            "0.0600000000"
+        ],
+        "AWS GovCloud (US)": [
+            "0.0600000000"
+        ]
+    },
+    "Charge for per GB data processed by VPC Endpoints per GB from 1048576 to 5242880": {
+        "Regionless": [
+            "0.0060000000"
+        ],
+        "US West (Oregon)": [
+            "0.0060000000"
+        ],
+        "US West (N. California)": [
+            "0.0060000000"
+        ],
+        "US East (Ohio)": [
+            "0.0060000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0060000000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0060000000"
+        ],
+        "Middle East (UAE)": [
+            "0.0060000000"
+        ],
+        "Middle East (Bahrain)": [
+            "0.0060000000"
+        ],
+        "Mexico (Central)": [
+            "0.0060000000"
+        ],
+        "Israel (Tel Aviv)": [
+            "0.0060000000"
+        ],
+        "EU (Zurich)": [
+            "0.0060000000"
+        ],
+        "EU (Stockholm)": [
+            "0.0060000000"
+        ],
+        "EU (Spain)": [
+            "0.0060000000"
+        ],
+        "EU (Paris)": [
+            "0.0060000000"
+        ],
+        "EU (Milan)": [
+            "0.0060000000"
+        ],
+        "EU (London)": [
+            "0.0060000000"
+        ],
+        "EU (Ireland)": [
+            "0.0060000000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0060000000"
+        ],
+        "Canada West (Calgary)": [
+            "0.0060000000"
+        ],
+        "Canada (Central)": [
+            "0.0060000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0060000000"
+        ],
+        "Asia Pacific (Thailand)": [
+            "0.0060000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0060000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0060000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0060000000"
+        ],
+        "Asia Pacific (Osaka)": [
+            "0.0060000000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0060000000"
+        ],
+        "Asia Pacific (Melbourne)": [
+            "0.0060000000"
+        ],
+        "Asia Pacific (Malaysia)": [
+            "0.0060000000"
+        ],
+        "Asia Pacific (Jakarta)": [
+            "0.0060000000"
+        ],
+        "Asia Pacific (Hyderabad)": [
+            "0.0060000000"
+        ],
+        "Asia Pacific (Hong Kong)": [
+            "0.0060000000"
+        ],
+        "Africa (Cape Town)": [
+            "0.0060000000"
+        ],
+        "AWS GovCloud (US-East)": [
+            "0.0060000000"
+        ],
+        "AWS GovCloud (US)": [
+            "0.0060000000"
+        ]
+    },
+    "Charge per analysis processed by VPC Reachability Analyzer per ReachabilityAnalyses": {
+        "Regionless": [
+            "0.1000000000"
+        ],
+        "US West (Oregon)": [
+            "0.1000000000"
+        ],
+        "US West (N. California)": [
+            "0.1000000000"
+        ],
+        "US East (Ohio)": [
+            "0.1000000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.1000000000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.1000000000"
+        ],
+        "Middle East (Bahrain)": [
+            "0.1000000000"
+        ],
+        "EU (Stockholm)": [
+            "0.1000000000"
+        ],
+        "EU (Spain)": [
+            "0.1000000000"
+        ],
+        "EU (Paris)": [
+            "0.1000000000"
+        ],
+        "EU (Milan)": [
+            "0.1000000000"
+        ],
+        "EU (London)": [
+            "0.1000000000"
+        ],
+        "EU (Ireland)": [
+            "0.1000000000"
+        ],
+        "EU (Frankfurt)": [
+            "0.1000000000"
+        ],
+        "Canada (Central)": [
+            "0.1000000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.1000000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.1000000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.1000000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.1000000000"
+        ],
+        "Asia Pacific (Osaka)": [
+            "0.1000000000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.1000000000"
+        ],
+        "Asia Pacific (Hong Kong)": [
+            "0.1000000000"
+        ],
+        "Africa (Cape Town)": [
+            "0.1000000000"
+        ]
+    },
+    "Charge for per GB data processed by AWS Transit Gateways for Site to-Site VPN attachments per GigaBytes": {
+        "Regionless": [
+            "0.0200000000"
+        ],
+        "US West (Oregon)": [
+            "0.0200000000"
+        ],
+        "US West (N. California)": [
+            "0.0200000000"
+        ],
+        "US East (Ohio)": [
+            "0.0200000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0200000000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0200000000"
+        ],
+        "Middle East (UAE)": [
+            "0.0200000000"
+        ],
+        "Middle East (Bahrain)": [
+            "0.0200000000"
+        ],
+        "Mexico (Central)": [
+            "0.0200000000"
+        ],
+        "Israel (Tel Aviv)": [
+            "0.0200000000"
+        ],
+        "EU (Zurich)": [
+            "0.0200000000"
+        ],
+        "EU (Stockholm)": [
+            "0.0200000000"
+        ],
+        "EU (Spain)": [
+            "0.0200000000"
+        ],
+        "EU (Paris)": [
+            "0.0200000000"
+        ],
+        "EU (Milan)": [
+            "0.0200000000"
+        ],
+        "EU (London)": [
+            "0.0200000000"
+        ],
+        "EU (Ireland)": [
+            "0.0200000000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0200000000"
+        ],
+        "Canada West (Calgary)": [
+            "0.0200000000"
+        ],
+        "Canada (Central)": [
+            "0.0200000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0200000000"
+        ],
+        "Asia Pacific (Thailand)": [
+            "0.0200000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0200000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0200000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0200000000"
+        ],
+        "Asia Pacific (Osaka)": [
+            "0.0200000000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0200000000"
+        ],
+        "Asia Pacific (Melbourne)": [
+            "0.0200000000"
+        ],
+        "Asia Pacific (Malaysia)": [
+            "0.0200000000"
+        ],
+        "Asia Pacific (Jakarta)": [
+            "0.0200000000"
+        ],
+        "Asia Pacific (Hyderabad)": [
+            "0.0200000000"
+        ],
+        "Asia Pacific (Hong Kong)": [
+            "0.0200000000"
+        ],
+        "Africa (Cape Town)": [
+            "0.0200000000"
+        ],
+        "AWS GovCloud (US-East)": [
+            "0.0200000000"
+        ],
+        "AWS GovCloud (US)": [
+            "0.0200000000"
+        ]
+    },
+    "CreateVpnConnection per Hrs": {
+        "Regionless": [
+            "0.0500000000"
+        ],
+        "US West (Oregon)": [
+            "0.0500000000"
+        ],
+        "US West (N. California)": [
+            "0.0500000000"
+        ],
+        "US East (Ohio)": [
+            "0.0500000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0500000000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0500000000"
+        ],
+        "Middle East (UAE)": [
+            "0.0500000000"
+        ],
+        "Middle East (Bahrain)": [
+            "0.0500000000"
+        ],
+        "Mexico (Central)": [
+            "0.0500000000"
+        ],
+        "Israel (Tel Aviv)": [
+            "0.0500000000"
+        ],
+        "EU (Zurich)": [
+            "0.0500000000"
+        ],
+        "EU (Stockholm)": [
+            "0.0500000000"
+        ],
+        "EU (Spain)": [
+            "0.0500000000"
+        ],
+        "EU (Paris)": [
+            "0.0500000000"
+        ],
+        "EU (Milan)": [
+            "0.0500000000"
+        ],
+        "EU (London)": [
+            "0.0500000000"
+        ],
+        "EU (Ireland)": [
+            "0.0500000000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0500000000"
+        ],
+        "Canada West (Calgary)": [
+            "0.0500000000"
+        ],
+        "Canada (Central)": [
+            "0.0500000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0480000000"
+        ],
+        "Asia Pacific (Thailand)": [
+            "0.0500000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0500000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0500000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0500000000"
+        ],
+        "Asia Pacific (Osaka)": [
+            "0.0480000000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0500000000"
+        ],
+        "Asia Pacific (Melbourne)": [
+            "0.0500000000"
+        ],
+        "Asia Pacific (Malaysia)": [
+            "0.0500000000"
+        ],
+        "Asia Pacific (Jakarta)": [
+            "0.0500000000"
+        ],
+        "Asia Pacific (Hyderabad)": [
+            "0.0500000000"
+        ],
+        "Asia Pacific (Hong Kong)": [
+            "0.0500000000"
+        ],
+        "Africa (Cape Town)": [
+            "0.0500000000"
+        ],
+        "AWS GovCloud (US-East)": [
+            "0.0650000000"
+        ],
+        "AWS GovCloud (US)": [
+            "0.0650000000"
+        ]
+    },
+    "CreateVpnConnection per hours": {
+        "Regionless": [
+            "0.0500000000"
+        ],
+        "US West (Oregon)": [
+            "0.0500000000"
+        ],
+        "US West (N. California)": [
+            "0.0500000000"
+        ],
+        "US East (Ohio)": [
+            "0.0500000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0500000000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0500000000"
+        ],
+        "Middle East (UAE)": [
+            "0.0500000000"
+        ],
+        "Middle East (Bahrain)": [
+            "0.0500000000"
+        ],
+        "Mexico (Central)": [
+            "0.0500000000"
+        ],
+        "Israel (Tel Aviv)": [
+            "0.0500000000"
+        ],
+        "EU (Zurich)": [
+            "0.0500000000"
+        ],
+        "EU (Stockholm)": [
+            "0.0500000000"
+        ],
+        "EU (Spain)": [
+            "0.0500000000"
+        ],
+        "EU (Paris)": [
+            "0.0500000000"
+        ],
+        "EU (Milan)": [
+            "0.0500000000"
+        ],
+        "EU (London)": [
+            "0.0500000000"
+        ],
+        "EU (Ireland)": [
+            "0.0500000000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0500000000"
+        ],
+        "Canada West (Calgary)": [
+            "0.0500000000"
+        ],
+        "Canada (Central)": [
+            "0.0500000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0480000000"
+        ],
+        "Asia Pacific (Thailand)": [
+            "0.0500000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0500000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0500000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0500000000"
+        ],
+        "Asia Pacific (Osaka)": [
+            "0.0480000000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0500000000"
+        ],
+        "Asia Pacific (Melbourne)": [
+            "0.0500000000"
+        ],
+        "Asia Pacific (Malaysia)": [
+            "0.0500000000"
+        ],
+        "Asia Pacific (Jakarta)": [
+            "0.0500000000"
+        ],
+        "Asia Pacific (Hyderabad)": [
+            "0.0500000000"
+        ],
+        "Asia Pacific (Hong Kong)": [
+            "0.0500000000"
+        ],
+        "Africa (Cape Town)": [
+            "0.0500000000"
+        ],
+        "AWS GovCloud (US-East)": [
+            "0.0650000000"
+        ],
+        "AWS GovCloud (US)": [
+            "0.0650000000"
+        ]
+    },
+    "Charge per Connection per hour processed by VPC Lattice Service per Connections": {
+        "Regionless": [
+            "0.0000001000"
+        ],
+        "US West (Oregon)": [
+            "0.0000001000"
+        ],
+        "US West (N. California)": [
+            "0.0000001200"
+        ],
+        "US East (Ohio)": [
+            "0.0000001000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0000001000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0000001600"
+        ],
+        "Middle East (UAE)": [
+            "0.0000001200"
+        ],
+        "Middle East (Bahrain)": [
+            "0.0000001100"
+        ],
+        "EU (Zurich)": [
+            "0.0000001300"
+        ],
+        "EU (Stockholm)": [
+            "0.0000001300"
+        ],
+        "EU (Spain)": [
+            "0.0000001300"
+        ],
+        "EU (Paris)": [
+            "0.0000001300"
+        ],
+        "EU (Milan)": [
+            "0.0000001300"
+        ],
+        "EU (London)": [
+            "0.0000001300"
+        ],
+        "EU (Ireland)": [
+            "0.0000001100"
+        ],
+        "EU (Frankfurt)": [
+            "0.0000001300"
+        ],
+        "Canada West (Calgary)": [
+            "0.0000001200"
+        ],
+        "Canada (Central)": [
+            "0.0000001200"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0000001300"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0000001300"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0000001300"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0000001300"
+        ],
+        "Asia Pacific (Osaka)": [
+            "0.0000001300"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0000001300"
+        ],
+        "Asia Pacific (Melbourne)": [
+            "0.0000001300"
+        ],
+        "Asia Pacific (Jakarta)": [
+            "0.0000001300"
+        ],
+        "Asia Pacific (Hyderabad)": [
+            "0.0000001300"
+        ],
+        "Asia Pacific (Hong Kong)": [
+            "0.0000001500"
+        ],
+        "Africa (Cape Town)": [
+            "0.0000001100"
+        ]
+    },
+    "Charge for per GB data processed by VPC Endpoints per GB from 5242880 to Inf": {
+        "Regionless": [
+            "0.0040000000"
+        ],
+        "US West (Oregon)": [
+            "0.0040000000"
+        ],
+        "US West (N. California)": [
+            "0.0040000000"
+        ],
+        "US East (Ohio)": [
+            "0.0040000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0040000000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0040000000"
+        ],
+        "Middle East (UAE)": [
+            "0.0040000000"
+        ],
+        "Middle East (Bahrain)": [
+            "0.0040000000"
+        ],
+        "Mexico (Central)": [
+            "0.0040000000"
+        ],
+        "Israel (Tel Aviv)": [
+            "0.0040000000"
+        ],
+        "EU (Zurich)": [
+            "0.0040000000"
+        ],
+        "EU (Stockholm)": [
+            "0.0040000000"
+        ],
+        "EU (Spain)": [
+            "0.0040000000"
+        ],
+        "EU (Paris)": [
+            "0.0040000000"
+        ],
+        "EU (Milan)": [
+            "0.0040000000"
+        ],
+        "EU (London)": [
+            "0.0040000000"
+        ],
+        "EU (Ireland)": [
+            "0.0040000000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0040000000"
+        ],
+        "Canada West (Calgary)": [
+            "0.0040000000"
+        ],
+        "Canada (Central)": [
+            "0.0040000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0040000000"
+        ],
+        "Asia Pacific (Thailand)": [
+            "0.0040000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0040000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0040000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0040000000"
+        ],
+        "Asia Pacific (Osaka)": [
+            "0.0040000000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0040000000"
+        ],
+        "Asia Pacific (Melbourne)": [
+            "0.0040000000"
+        ],
+        "Asia Pacific (Malaysia)": [
+            "0.0040000000"
+        ],
+        "Asia Pacific (Jakarta)": [
+            "0.0040000000"
+        ],
+        "Asia Pacific (Hyderabad)": [
+            "0.0040000000"
+        ],
+        "Asia Pacific (Hong Kong)": [
+            "0.0040000000"
+        ],
+        "Africa (Cape Town)": [
+            "0.0040000000"
+        ],
+        "AWS GovCloud (US-East)": [
+            "0.0040000000"
+        ],
+        "AWS GovCloud (US)": [
+            "0.0040000000"
+        ]
+    },
+    "Hourly charge for Transit Gateway AWS Direct Connect Gateway attachments per hour": {
+        "Regionless": [
+            "0.0500000000"
+        ],
+        "US West (Oregon)": [
+            "0.0500000000"
+        ],
+        "US West (N. California)": [
+            "0.0600000000"
+        ],
+        "US East (Ohio)": [
+            "0.0500000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0500000000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0900000000"
+        ],
+        "Middle East (UAE)": [
+            "0.0550000000"
+        ],
+        "Middle East (Bahrain)": [
+            "0.0550000000"
+        ],
+        "Mexico (Central)": [
+            "0.0550000000"
+        ],
+        "Israel (Tel Aviv)": [
+            "0.0550000000"
+        ],
+        "EU (Zurich)": [
+            "0.0600000000"
+        ],
+        "EU (Stockholm)": [
+            "0.0600000000"
+        ],
+        "EU (Spain)": [
+            "0.0600000000"
+        ],
+        "EU (Paris)": [
+            "0.0600000000"
+        ],
+        "EU (Milan)": [
+            "0.0600000000"
+        ],
+        "EU (London)": [
+            "0.0600000000"
+        ],
+        "EU (Ireland)": [
+            "0.0500000000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0600000000"
+        ],
+        "Canada West (Calgary)": [
+            "0.0600000000"
+        ],
+        "Canada (Central)": [
+            "0.0600000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0700000000"
+        ],
+        "Asia Pacific (Thailand)": [
+            "0.0700000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0700000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0700000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0700000000"
+        ],
+        "Asia Pacific (Osaka)": [
+            "0.0700000000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0700000000"
+        ],
+        "Asia Pacific (Melbourne)": [
+            "0.0700000000"
+        ],
+        "Asia Pacific (Malaysia)": [
+            "0.0600000000"
+        ],
+        "Asia Pacific (Jakarta)": [
+            "0.0700000000"
+        ],
+        "Asia Pacific (Hyderabad)": [
+            "0.0700000000"
+        ],
+        "Asia Pacific (Hong Kong)": [
+            "0.0700000000"
+        ],
+        "Africa (Cape Town)": [
+            "0.0600000000"
+        ],
+        "AWS GovCloud (US-East)": [
+            "0.0600000000"
+        ],
+        "AWS GovCloud (US)": [
+            "0.0600000000"
+        ]
+    },
+    "Charge per Hour per VPC Lattice Service per Hrs": {
+        "Regionless": [
+            "0.0250000000"
+        ],
+        "US West (Oregon)": [
+            "0.0250000000"
+        ],
+        "US West (N. California)": [
+            "0.0300000000"
+        ],
+        "US East (Ohio)": [
+            "0.0250000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0250000000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0400000000"
+        ],
+        "Middle East (UAE)": [
+            "0.0300000000"
+        ],
+        "Middle East (Bahrain)": [
+            "0.0275000000"
+        ],
+        "EU (Zurich)": [
+            "0.0325000000"
+        ],
+        "EU (Stockholm)": [
+            "0.0325000000"
+        ],
+        "EU (Spain)": [
+            "0.0325000000"
+        ],
+        "EU (Paris)": [
+            "0.0325000000"
+        ],
+        "EU (Milan)": [
+            "0.0325000000"
+        ],
+        "EU (London)": [
+            "0.0325000000"
+        ],
+        "EU (Ireland)": [
+            "0.0275000000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0325000000"
+        ],
+        "Canada West (Calgary)": [
+            "0.0300000000"
+        ],
+        "Canada (Central)": [
+            "0.0300000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0325000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0325000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0325000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0325000000"
+        ],
+        "Asia Pacific (Osaka)": [
+            "0.0325000000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0325000000"
+        ],
+        "Asia Pacific (Melbourne)": [
+            "0.0325000000"
+        ],
+        "Asia Pacific (Jakarta)": [
+            "0.0325000000"
+        ],
+        "Asia Pacific (Hyderabad)": [
+            "0.0325000000"
+        ],
+        "Asia Pacific (Hong Kong)": [
+            "0.0375000000"
+        ],
+        "Africa (Cape Town)": [
+            "0.0275000000"
+        ]
+    },
+    "Hourly charge for Transit Gateway VPC Attachments per hour": {
+        "Regionless": [
+            "0.0500000000"
+        ],
+        "US West (Oregon)": [
+            "0.0500000000"
+        ],
+        "US West (N. California)": [
+            "0.0600000000"
+        ],
+        "US East (Ohio)": [
+            "0.0500000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0500000000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0900000000"
+        ],
+        "Middle East (UAE)": [
+            "0.0550000000"
+        ],
+        "Middle East (Bahrain)": [
+            "0.0550000000"
+        ],
+        "Mexico (Central)": [
+            "0.0550000000"
+        ],
+        "Israel (Tel Aviv)": [
+            "0.0550000000"
+        ],
+        "EU (Zurich)": [
+            "0.0600000000"
+        ],
+        "EU (Stockholm)": [
+            "0.0600000000"
+        ],
+        "EU (Spain)": [
+            "0.0600000000"
+        ],
+        "EU (Paris)": [
+            "0.0600000000"
+        ],
+        "EU (Milan)": [
+            "0.0600000000"
+        ],
+        "EU (London)": [
+            "0.0600000000"
+        ],
+        "EU (Ireland)": [
+            "0.0500000000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0600000000"
+        ],
+        "Canada West (Calgary)": [
+            "0.0600000000"
+        ],
+        "Canada (Central)": [
+            "0.0600000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0700000000"
+        ],
+        "Asia Pacific (Thailand)": [
+            "0.0700000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0700000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0700000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0700000000"
+        ],
+        "Asia Pacific (Osaka)": [
+            "0.0700000000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0700000000"
+        ],
+        "Asia Pacific (Melbourne)": [
+            "0.0700000000"
+        ],
+        "Asia Pacific (Malaysia)": [
+            "0.0600000000"
+        ],
+        "Asia Pacific (Jakarta)": [
+            "0.0700000000"
+        ],
+        "Asia Pacific (Hyderabad)": [
+            "0.0700000000"
+        ],
+        "Asia Pacific (Hong Kong)": [
+            "0.0700000000"
+        ],
+        "Africa (Cape Town)": [
+            "0.0600000000"
+        ],
+        "AWS GovCloud (US-East)": [
+            "0.0600000000"
+        ],
+        "AWS GovCloud (US)": [
+            "0.0600000000"
+        ]
+    },
+    "Data processed by AWS Verified Access per GB": {
+        "Regionless": [
+            "0.0200000000"
+        ],
+        "US West (Oregon)": [
+            "0.0200000000"
+        ],
+        "US West (N. California)": [
+            "0.0200000000"
+        ],
+        "US East (Ohio)": [
+            "0.0200000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0200000000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0200000000"
+        ],
+        "Israel (Tel Aviv)": [
+            "0.0200000000"
+        ],
+        "EU (Stockholm)": [
+            "0.0200000000"
+        ],
+        "EU (Milan)": [
+            "0.0200000000"
+        ],
+        "EU (London)": [
+            "0.0200000000"
+        ],
+        "EU (Ireland)": [
+            "0.0200000000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0200000000"
+        ],
+        "Canada (Central)": [
+            "0.0200000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0200000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0200000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0200000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0200000000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0200000000"
+        ],
+        "Asia Pacific (Jakarta)": [
+            "0.0200000000"
+        ],
+        "AWS GovCloud (US-East)": [
+            "0.0200000000"
+        ],
+        "AWS GovCloud (US)": [
+            "0.0200000000"
+        ]
+    },
+    "Charge for per GB data processed by VPC Endpoints per GB from 0 to 1048576": {
+        "Regionless": [
+            "0.0100000000"
+        ],
+        "US West (Oregon)": [
+            "0.0100000000"
+        ],
+        "US West (N. California)": [
+            "0.0100000000"
+        ],
+        "US East (Ohio)": [
+            "0.0100000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0100000000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0100000000"
+        ],
+        "Middle East (UAE)": [
+            "0.0100000000"
+        ],
+        "Middle East (Bahrain)": [
+            "0.0100000000"
+        ],
+        "Mexico (Central)": [
+            "0.0100000000"
+        ],
+        "Israel (Tel Aviv)": [
+            "0.0100000000"
+        ],
+        "EU (Zurich)": [
+            "0.0100000000"
+        ],
+        "EU (Stockholm)": [
+            "0.0100000000"
+        ],
+        "EU (Spain)": [
+            "0.0100000000"
+        ],
+        "EU (Paris)": [
+            "0.0100000000"
+        ],
+        "EU (Milan)": [
+            "0.0100000000"
+        ],
+        "EU (London)": [
+            "0.0100000000"
+        ],
+        "EU (Ireland)": [
+            "0.0100000000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0100000000"
+        ],
+        "Canada West (Calgary)": [
+            "0.0100000000"
+        ],
+        "Canada (Central)": [
+            "0.0100000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0100000000"
+        ],
+        "Asia Pacific (Thailand)": [
+            "0.0100000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0100000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0100000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0100000000"
+        ],
+        "Asia Pacific (Osaka)": [
+            "0.0100000000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0100000000"
+        ],
+        "Asia Pacific (Melbourne)": [
+            "0.0100000000"
+        ],
+        "Asia Pacific (Malaysia)": [
+            "0.0100000000"
+        ],
+        "Asia Pacific (Jakarta)": [
+            "0.0100000000"
+        ],
+        "Asia Pacific (Hyderabad)": [
+            "0.0100000000"
+        ],
+        "Asia Pacific (Hong Kong)": [
+            "0.0100000000"
+        ],
+        "Africa (Cape Town)": [
+            "0.0100000000"
+        ],
+        "AWS GovCloud (US-East)": [
+            "0.0100000000"
+        ],
+        "AWS GovCloud (US)": [
+            "0.0100000000"
+        ]
+    },
+    "Hourly charge for Transit Gateway Site to-Site VPN attachments per hour": {
+        "Regionless": [
+            "0.0500000000"
+        ],
+        "US West (Oregon)": [
+            "0.0500000000"
+        ],
+        "US West (N. California)": [
+            "0.0600000000"
+        ],
+        "US East (Ohio)": [
+            "0.0500000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0500000000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0900000000"
+        ],
+        "Middle East (UAE)": [
+            "0.0550000000"
+        ],
+        "Middle East (Bahrain)": [
+            "0.0550000000"
+        ],
+        "Mexico (Central)": [
+            "0.0550000000"
+        ],
+        "Israel (Tel Aviv)": [
+            "0.0550000000"
+        ],
+        "EU (Zurich)": [
+            "0.0600000000"
+        ],
+        "EU (Stockholm)": [
+            "0.0600000000"
+        ],
+        "EU (Spain)": [
+            "0.0600000000"
+        ],
+        "EU (Paris)": [
+            "0.0600000000"
+        ],
+        "EU (Milan)": [
+            "0.0600000000"
+        ],
+        "EU (London)": [
+            "0.0600000000"
+        ],
+        "EU (Ireland)": [
+            "0.0500000000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0600000000"
+        ],
+        "Canada West (Calgary)": [
+            "0.0600000000"
+        ],
+        "Canada (Central)": [
+            "0.0600000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0700000000"
+        ],
+        "Asia Pacific (Thailand)": [
+            "0.0700000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0700000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0700000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0700000000"
+        ],
+        "Asia Pacific (Osaka)": [
+            "0.0700000000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0700000000"
+        ],
+        "Asia Pacific (Melbourne)": [
+            "0.0700000000"
+        ],
+        "Asia Pacific (Malaysia)": [
+            "0.0600000000"
+        ],
+        "Asia Pacific (Jakarta)": [
+            "0.0700000000"
+        ],
+        "Asia Pacific (Hyderabad)": [
+            "0.0700000000"
+        ],
+        "Asia Pacific (Hong Kong)": [
+            "0.0700000000"
+        ],
+        "Africa (Cape Town)": [
+            "0.0600000000"
+        ],
+        "AWS GovCloud (US-East)": [
+            "0.0600000000"
+        ],
+        "AWS GovCloud (US)": [
+            "0.0600000000"
+        ]
+    },
+    "Free for the first 300 000 Connections per hour processed by VPC Lattice Service per Connections": {
+        "Regionless": [
+            "0.0000000000"
+        ],
+        "US West (Oregon)": [
+            "0.0000000000"
+        ],
+        "US West (N. California)": [
+            "0.0000000000"
+        ],
+        "US East (Ohio)": [
+            "0.0000000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0000000000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0000000000"
+        ],
+        "Middle East (UAE)": [
+            "0.0000000000"
+        ],
+        "Middle East (Bahrain)": [
+            "0.0000000000"
+        ],
+        "EU (Zurich)": [
+            "0.0000000000"
+        ],
+        "EU (Stockholm)": [
+            "0.0000000000"
+        ],
+        "EU (Spain)": [
+            "0.0000000000"
+        ],
+        "EU (Paris)": [
+            "0.0000000000"
+        ],
+        "EU (Milan)": [
+            "0.0000000000"
+        ],
+        "EU (London)": [
+            "0.0000000000"
+        ],
+        "EU (Ireland)": [
+            "0.0000000000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0000000000"
+        ],
+        "Canada West (Calgary)": [
+            "0.0000000000"
+        ],
+        "Canada (Central)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Osaka)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Melbourne)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Jakarta)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Hyderabad)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Hong Kong)": [
+            "0.0000000000"
+        ],
+        "Africa (Cape Town)": [
+            "0.0000000000"
+        ]
+    },
+    "Charge for per GB data processed by AWS Transit Gateways for VPC attachments per GigaBytes": {
+        "Regionless": [
+            "0.0200000000"
+        ],
+        "US West (Oregon)": [
+            "0.0200000000"
+        ],
+        "US West (N. California)": [
+            "0.0200000000"
+        ],
+        "US East (Ohio)": [
+            "0.0200000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0200000000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0200000000"
+        ],
+        "Middle East (UAE)": [
+            "0.0200000000"
+        ],
+        "Middle East (Bahrain)": [
+            "0.0200000000"
+        ],
+        "Mexico (Central)": [
+            "0.0200000000"
+        ],
+        "Israel (Tel Aviv)": [
+            "0.0200000000"
+        ],
+        "EU (Zurich)": [
+            "0.0200000000"
+        ],
+        "EU (Stockholm)": [
+            "0.0200000000"
+        ],
+        "EU (Spain)": [
+            "0.0200000000"
+        ],
+        "EU (Paris)": [
+            "0.0200000000"
+        ],
+        "EU (Milan)": [
+            "0.0200000000"
+        ],
+        "EU (London)": [
+            "0.0200000000"
+        ],
+        "EU (Ireland)": [
+            "0.0200000000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0200000000"
+        ],
+        "Canada West (Calgary)": [
+            "0.0200000000"
+        ],
+        "Canada (Central)": [
+            "0.0200000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0200000000"
+        ],
+        "Asia Pacific (Thailand)": [
+            "0.0200000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0200000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0200000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0200000000"
+        ],
+        "Asia Pacific (Osaka)": [
+            "0.0200000000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0200000000"
+        ],
+        "Asia Pacific (Melbourne)": [
+            "0.0200000000"
+        ],
+        "Asia Pacific (Malaysia)": [
+            "0.0200000000"
+        ],
+        "Asia Pacific (Jakarta)": [
+            "0.0200000000"
+        ],
+        "Asia Pacific (Hyderabad)": [
+            "0.0200000000"
+        ],
+        "Asia Pacific (Hong Kong)": [
+            "0.0200000000"
+        ],
+        "Africa (Cape Town)": [
+            "0.0200000000"
+        ],
+        "AWS GovCloud (US-East)": [
+            "0.0200000000"
+        ],
+        "AWS GovCloud (US)": [
+            "0.0200000000"
+        ]
+    },
+    "Charge for per GB data processed by AWS Gateway Load Balancer VPC Endpoint per GB": {
+        "Regionless": [
+            "0.0035000000"
+        ],
+        "US West (Oregon)": [
+            "0.0035000000"
+        ],
+        "US West (N. California)": [
+            "0.0035000000"
+        ],
+        "US East (Ohio)": [
+            "0.0035000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0035000000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0035000000"
+        ],
+        "Middle East (UAE)": [
+            "0.0035000000"
+        ],
+        "Middle East (Bahrain)": [
+            "0.0035000000"
+        ],
+        "Mexico (Central)": [
+            "0.0035000000"
+        ],
+        "Israel (Tel Aviv)": [
+            "0.0035000000"
+        ],
+        "EU (Zurich)": [
+            "0.0035000000"
+        ],
+        "EU (Stockholm)": [
+            "0.0035000000"
+        ],
+        "EU (Spain)": [
+            "0.0035000000"
+        ],
+        "EU (Paris)": [
+            "0.0035000000"
+        ],
+        "EU (Milan)": [
+            "0.0035000000"
+        ],
+        "EU (London)": [
+            "0.0035000000"
+        ],
+        "EU (Ireland)": [
+            "0.0035000000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0035000000"
+        ],
+        "Canada West (Calgary)": [
+            "0.0035000000"
+        ],
+        "Canada (Central)": [
+            "0.0035000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0035000000"
+        ],
+        "Asia Pacific (Thailand)": [
+            "0.0035000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0035000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0035000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0035000000"
+        ],
+        "Asia Pacific (Osaka)": [
+            "0.0035000000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0035000000"
+        ],
+        "Asia Pacific (Melbourne)": [
+            "0.0035000000"
+        ],
+        "Asia Pacific (Malaysia)": [
+            "0.0035000000"
+        ],
+        "Asia Pacific (Jakarta)": [
+            "0.0035000000"
+        ],
+        "Asia Pacific (Hyderabad)": [
+            "0.0035000000"
+        ],
+        "Asia Pacific (Hong Kong)": [
+            "0.0035000000"
+        ],
+        "Africa (Cape Town)": [
+            "0.0035000000"
+        ],
+        "AWS GovCloud (US-East)": [
+            "0.0044000000"
+        ],
+        "AWS GovCloud (US)": [
+            "0.0044000000"
+        ]
+    },
+    "Charge for per GB data processed by AWS Transit Gateways for AWS Direct Connect Gateway attachments per GigaBytes": {
+        "Regionless": [
+            "0.0200000000"
+        ],
+        "US West (Oregon)": [
+            "0.0200000000"
+        ],
+        "US West (N. California)": [
+            "0.0200000000"
+        ],
+        "US East (Ohio)": [
+            "0.0200000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0200000000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0200000000"
+        ],
+        "Middle East (UAE)": [
+            "0.0200000000"
+        ],
+        "Middle East (Bahrain)": [
+            "0.0200000000"
+        ],
+        "Mexico (Central)": [
+            "0.0200000000"
+        ],
+        "Israel (Tel Aviv)": [
+            "0.0200000000"
+        ],
+        "EU (Zurich)": [
+            "0.0200000000"
+        ],
+        "EU (Stockholm)": [
+            "0.0200000000"
+        ],
+        "EU (Spain)": [
+            "0.0200000000"
+        ],
+        "EU (Paris)": [
+            "0.0200000000"
+        ],
+        "EU (Milan)": [
+            "0.0200000000"
+        ],
+        "EU (London)": [
+            "0.0200000000"
+        ],
+        "EU (Ireland)": [
+            "0.0200000000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0200000000"
+        ],
+        "Canada West (Calgary)": [
+            "0.0200000000"
+        ],
+        "Canada (Central)": [
+            "0.0200000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0200000000"
+        ],
+        "Asia Pacific (Thailand)": [
+            "0.0200000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0200000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0200000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0200000000"
+        ],
+        "Asia Pacific (Osaka)": [
+            "0.0200000000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0200000000"
+        ],
+        "Asia Pacific (Melbourne)": [
+            "0.0200000000"
+        ],
+        "Asia Pacific (Malaysia)": [
+            "0.0200000000"
+        ],
+        "Asia Pacific (Jakarta)": [
+            "0.0200000000"
+        ],
+        "Asia Pacific (Hyderabad)": [
+            "0.0200000000"
+        ],
+        "Asia Pacific (Hong Kong)": [
+            "0.0200000000"
+        ],
+        "Africa (Cape Town)": [
+            "0.0200000000"
+        ],
+        "AWS GovCloud (US-East)": [
+            "0.0200000000"
+        ],
+        "AWS GovCloud (US)": [
+            "0.0200000000"
+        ]
+    },
+    "Charge per GB data processed by AWS Transit Gateway for Multicast receivers per GigaBytes": {
+        "Regionless": [
+            "0.0200000000"
+        ],
+        "Mexico (Central)": [
+            "0.0200000000"
+        ],
+        "Asia Pacific (Thailand)": [
+            "0.0200000000"
+        ],
+        "Asia Pacific (Osaka)": [
+            "0.0200000000"
+        ]
+    },
+    "CreateVpnConnection GovCloud Only FIPS140 2 per Hrs": {
+        "Regionless": [
+            "0.0650000000"
+        ],
+        "AWS GovCloud (US-East)": [
+            "0.0650000000"
+        ],
+        "AWS GovCloud (US)": [
+            "0.0650000000"
+        ]
+    }
+}

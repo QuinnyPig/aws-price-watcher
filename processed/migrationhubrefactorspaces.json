@@ -1,0 +1,1402 @@
+{
+    "ListTagsForResource API Request": {
+        "Regionless": [
+            "0.0000020000"
+        ],
+        "US West (Oregon)": [
+            "0.0000020000"
+        ],
+        "US West (N. California)": [
+            "0.0000020000"
+        ],
+        "US East (Ohio)": [
+            "0.0000020000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0000020000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0000020000"
+        ],
+        "EU (Stockholm)": [
+            "0.0000020000"
+        ],
+        "EU (Paris)": [
+            "0.0000020000"
+        ],
+        "EU (London)": [
+            "0.0000020000"
+        ],
+        "EU (Ireland)": [
+            "0.0000020000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0000020000"
+        ],
+        "Canada (Central)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Osaka)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0000020000"
+        ]
+    },
+    "DeleteResourcePolicy API Request": {
+        "Regionless": [
+            "0.0000020000"
+        ],
+        "US West (Oregon)": [
+            "0.0000020000"
+        ],
+        "US West (N. California)": [
+            "0.0000020000"
+        ],
+        "US East (Ohio)": [
+            "0.0000020000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0000020000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0000020000"
+        ],
+        "EU (Stockholm)": [
+            "0.0000020000"
+        ],
+        "EU (Paris)": [
+            "0.0000020000"
+        ],
+        "EU (London)": [
+            "0.0000020000"
+        ],
+        "EU (Ireland)": [
+            "0.0000020000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0000020000"
+        ],
+        "Canada (Central)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Osaka)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0000020000"
+        ]
+    },
+    "RunEnvironment hour": {
+        "Regionless": [
+            "0.0280000000"
+        ],
+        "US West (Oregon)": [
+            "0.0280000000"
+        ],
+        "US West (N. California)": [
+            "0.0280000000"
+        ],
+        "US East (Ohio)": [
+            "0.0280000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0280000000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0280000000"
+        ],
+        "EU (Stockholm)": [
+            "0.0280000000"
+        ],
+        "EU (Paris)": [
+            "0.0280000000"
+        ],
+        "EU (London)": [
+            "0.0280000000"
+        ],
+        "EU (Ireland)": [
+            "0.0280000000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0280000000"
+        ],
+        "Canada (Central)": [
+            "0.0280000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0280000000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0280000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0280000000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0280000000"
+        ],
+        "Asia Pacific (Osaka)": [
+            "0.0280000000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0280000000"
+        ]
+    },
+    "ListEnvironments API Request": {
+        "Regionless": [
+            "0.0000020000"
+        ],
+        "US West (Oregon)": [
+            "0.0000020000"
+        ],
+        "US West (N. California)": [
+            "0.0000020000"
+        ],
+        "US East (Ohio)": [
+            "0.0000020000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0000020000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0000020000"
+        ],
+        "EU (Stockholm)": [
+            "0.0000020000"
+        ],
+        "EU (Paris)": [
+            "0.0000020000"
+        ],
+        "EU (London)": [
+            "0.0000020000"
+        ],
+        "EU (Ireland)": [
+            "0.0000020000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0000020000"
+        ],
+        "Canada (Central)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Osaka)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0000020000"
+        ]
+    },
+    "GetRoute API Request": {
+        "Regionless": [
+            "0.0000020000"
+        ],
+        "US West (Oregon)": [
+            "0.0000020000"
+        ],
+        "US West (N. California)": [
+            "0.0000020000"
+        ],
+        "US East (Ohio)": [
+            "0.0000020000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0000020000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0000020000"
+        ],
+        "EU (Stockholm)": [
+            "0.0000020000"
+        ],
+        "EU (Paris)": [
+            "0.0000020000"
+        ],
+        "EU (London)": [
+            "0.0000020000"
+        ],
+        "EU (Ireland)": [
+            "0.0000020000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0000020000"
+        ],
+        "Canada (Central)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Osaka)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0000020000"
+        ]
+    },
+    "CreateEnvironment API Request": {
+        "Regionless": [
+            "0.0000020000"
+        ],
+        "US West (Oregon)": [
+            "0.0000020000"
+        ],
+        "US West (N. California)": [
+            "0.0000020000"
+        ],
+        "US East (Ohio)": [
+            "0.0000020000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0000020000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0000020000"
+        ],
+        "EU (Stockholm)": [
+            "0.0000020000"
+        ],
+        "EU (Paris)": [
+            "0.0000020000"
+        ],
+        "EU (London)": [
+            "0.0000020000"
+        ],
+        "EU (Ireland)": [
+            "0.0000020000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0000020000"
+        ],
+        "Canada (Central)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Osaka)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0000020000"
+        ]
+    },
+    "GetService API Request": {
+        "Regionless": [
+            "0.0000020000"
+        ],
+        "US West (Oregon)": [
+            "0.0000020000"
+        ],
+        "US West (N. California)": [
+            "0.0000020000"
+        ],
+        "US East (Ohio)": [
+            "0.0000020000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0000020000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0000020000"
+        ],
+        "EU (Stockholm)": [
+            "0.0000020000"
+        ],
+        "EU (Paris)": [
+            "0.0000020000"
+        ],
+        "EU (London)": [
+            "0.0000020000"
+        ],
+        "EU (Ireland)": [
+            "0.0000020000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0000020000"
+        ],
+        "Canada (Central)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Osaka)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0000020000"
+        ]
+    },
+    "CreateRoute API Request": {
+        "Regionless": [
+            "0.0000020000"
+        ],
+        "US West (Oregon)": [
+            "0.0000020000"
+        ],
+        "US West (N. California)": [
+            "0.0000020000"
+        ],
+        "US East (Ohio)": [
+            "0.0000020000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0000020000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0000020000"
+        ],
+        "EU (Stockholm)": [
+            "0.0000020000"
+        ],
+        "EU (Paris)": [
+            "0.0000020000"
+        ],
+        "EU (London)": [
+            "0.0000020000"
+        ],
+        "EU (Ireland)": [
+            "0.0000020000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0000020000"
+        ],
+        "Canada (Central)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Osaka)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0000020000"
+        ]
+    },
+    "UpdateRoute API Request": {
+        "Regionless": [
+            "0.0000020000"
+        ],
+        "US West (Oregon)": [
+            "0.0000020000"
+        ],
+        "US West (N. California)": [
+            "0.0000020000"
+        ],
+        "US East (Ohio)": [
+            "0.0000020000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0000020000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0000020000"
+        ],
+        "EU (Stockholm)": [
+            "0.0000020000"
+        ],
+        "EU (Paris)": [
+            "0.0000020000"
+        ],
+        "EU (London)": [
+            "0.0000020000"
+        ],
+        "EU (Ireland)": [
+            "0.0000020000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0000020000"
+        ],
+        "Canada (Central)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Osaka)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0000020000"
+        ]
+    },
+    "UntagResource API Request": {
+        "Regionless": [
+            "0.0000020000"
+        ],
+        "US West (Oregon)": [
+            "0.0000020000"
+        ],
+        "US West (N. California)": [
+            "0.0000020000"
+        ],
+        "US East (Ohio)": [
+            "0.0000020000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0000020000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0000020000"
+        ],
+        "EU (Stockholm)": [
+            "0.0000020000"
+        ],
+        "EU (Paris)": [
+            "0.0000020000"
+        ],
+        "EU (London)": [
+            "0.0000020000"
+        ],
+        "EU (Ireland)": [
+            "0.0000020000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0000020000"
+        ],
+        "Canada (Central)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Osaka)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0000020000"
+        ]
+    },
+    "ListRoutes API Request": {
+        "Regionless": [
+            "0.0000020000"
+        ],
+        "US West (Oregon)": [
+            "0.0000020000"
+        ],
+        "US West (N. California)": [
+            "0.0000020000"
+        ],
+        "US East (Ohio)": [
+            "0.0000020000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0000020000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0000020000"
+        ],
+        "EU (Stockholm)": [
+            "0.0000020000"
+        ],
+        "EU (Paris)": [
+            "0.0000020000"
+        ],
+        "EU (London)": [
+            "0.0000020000"
+        ],
+        "EU (Ireland)": [
+            "0.0000020000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0000020000"
+        ],
+        "Canada (Central)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Osaka)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0000020000"
+        ]
+    },
+    "DeleteApplication API Request": {
+        "Regionless": [
+            "0.0000020000"
+        ],
+        "US West (Oregon)": [
+            "0.0000020000"
+        ],
+        "US West (N. California)": [
+            "0.0000020000"
+        ],
+        "US East (Ohio)": [
+            "0.0000020000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0000020000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0000020000"
+        ],
+        "EU (Stockholm)": [
+            "0.0000020000"
+        ],
+        "EU (Paris)": [
+            "0.0000020000"
+        ],
+        "EU (London)": [
+            "0.0000020000"
+        ],
+        "EU (Ireland)": [
+            "0.0000020000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0000020000"
+        ],
+        "Canada (Central)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Osaka)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0000020000"
+        ]
+    },
+    "ListApplications API Request": {
+        "Regionless": [
+            "0.0000020000"
+        ],
+        "US West (Oregon)": [
+            "0.0000020000"
+        ],
+        "US West (N. California)": [
+            "0.0000020000"
+        ],
+        "US East (Ohio)": [
+            "0.0000020000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0000020000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0000020000"
+        ],
+        "EU (Stockholm)": [
+            "0.0000020000"
+        ],
+        "EU (Paris)": [
+            "0.0000020000"
+        ],
+        "EU (London)": [
+            "0.0000020000"
+        ],
+        "EU (Ireland)": [
+            "0.0000020000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0000020000"
+        ],
+        "Canada (Central)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Osaka)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0000020000"
+        ]
+    },
+    "PutResourcePolicy API Request": {
+        "Regionless": [
+            "0.0000020000"
+        ],
+        "US West (Oregon)": [
+            "0.0000020000"
+        ],
+        "US West (N. California)": [
+            "0.0000020000"
+        ],
+        "US East (Ohio)": [
+            "0.0000020000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0000020000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0000020000"
+        ],
+        "EU (Stockholm)": [
+            "0.0000020000"
+        ],
+        "EU (Paris)": [
+            "0.0000020000"
+        ],
+        "EU (London)": [
+            "0.0000020000"
+        ],
+        "EU (Ireland)": [
+            "0.0000020000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0000020000"
+        ],
+        "Canada (Central)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Osaka)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0000020000"
+        ]
+    },
+    "ListEnvironmentVpcs API Request": {
+        "Regionless": [
+            "0.0000020000"
+        ],
+        "US West (Oregon)": [
+            "0.0000020000"
+        ],
+        "US West (N. California)": [
+            "0.0000020000"
+        ],
+        "US East (Ohio)": [
+            "0.0000020000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0000020000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0000020000"
+        ],
+        "EU (Stockholm)": [
+            "0.0000020000"
+        ],
+        "EU (Paris)": [
+            "0.0000020000"
+        ],
+        "EU (London)": [
+            "0.0000020000"
+        ],
+        "EU (Ireland)": [
+            "0.0000020000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0000020000"
+        ],
+        "Canada (Central)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Osaka)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0000020000"
+        ]
+    },
+    "GetApplication API Request": {
+        "Regionless": [
+            "0.0000020000"
+        ],
+        "US West (Oregon)": [
+            "0.0000020000"
+        ],
+        "US West (N. California)": [
+            "0.0000020000"
+        ],
+        "US East (Ohio)": [
+            "0.0000020000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0000020000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0000020000"
+        ],
+        "EU (Stockholm)": [
+            "0.0000020000"
+        ],
+        "EU (Paris)": [
+            "0.0000020000"
+        ],
+        "EU (London)": [
+            "0.0000020000"
+        ],
+        "EU (Ireland)": [
+            "0.0000020000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0000020000"
+        ],
+        "Canada (Central)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Osaka)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0000020000"
+        ]
+    },
+    "DeleteEnvironment API Request": {
+        "Regionless": [
+            "0.0000020000"
+        ],
+        "US West (Oregon)": [
+            "0.0000020000"
+        ],
+        "US West (N. California)": [
+            "0.0000020000"
+        ],
+        "US East (Ohio)": [
+            "0.0000020000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0000020000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0000020000"
+        ],
+        "EU (Stockholm)": [
+            "0.0000020000"
+        ],
+        "EU (Paris)": [
+            "0.0000020000"
+        ],
+        "EU (London)": [
+            "0.0000020000"
+        ],
+        "EU (Ireland)": [
+            "0.0000020000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0000020000"
+        ],
+        "Canada (Central)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Osaka)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0000020000"
+        ]
+    },
+    "DeleteRoute API Request": {
+        "Regionless": [
+            "0.0000020000"
+        ],
+        "US West (Oregon)": [
+            "0.0000020000"
+        ],
+        "US West (N. California)": [
+            "0.0000020000"
+        ],
+        "US East (Ohio)": [
+            "0.0000020000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0000020000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0000020000"
+        ],
+        "EU (Stockholm)": [
+            "0.0000020000"
+        ],
+        "EU (Paris)": [
+            "0.0000020000"
+        ],
+        "EU (London)": [
+            "0.0000020000"
+        ],
+        "EU (Ireland)": [
+            "0.0000020000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0000020000"
+        ],
+        "Canada (Central)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Osaka)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0000020000"
+        ]
+    },
+    "ListServices API Request": {
+        "Regionless": [
+            "0.0000020000"
+        ],
+        "US West (Oregon)": [
+            "0.0000020000"
+        ],
+        "US West (N. California)": [
+            "0.0000020000"
+        ],
+        "US East (Ohio)": [
+            "0.0000020000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0000020000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0000020000"
+        ],
+        "EU (Stockholm)": [
+            "0.0000020000"
+        ],
+        "EU (Paris)": [
+            "0.0000020000"
+        ],
+        "EU (London)": [
+            "0.0000020000"
+        ],
+        "EU (Ireland)": [
+            "0.0000020000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0000020000"
+        ],
+        "Canada (Central)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Osaka)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0000020000"
+        ]
+    },
+    "GetResourcePolicy API Request": {
+        "Regionless": [
+            "0.0000020000"
+        ],
+        "US West (Oregon)": [
+            "0.0000020000"
+        ],
+        "US West (N. California)": [
+            "0.0000020000"
+        ],
+        "US East (Ohio)": [
+            "0.0000020000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0000020000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0000020000"
+        ],
+        "EU (Stockholm)": [
+            "0.0000020000"
+        ],
+        "EU (Paris)": [
+            "0.0000020000"
+        ],
+        "EU (London)": [
+            "0.0000020000"
+        ],
+        "EU (Ireland)": [
+            "0.0000020000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0000020000"
+        ],
+        "Canada (Central)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Osaka)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0000020000"
+        ]
+    },
+    "CreateApplication API Request": {
+        "Regionless": [
+            "0.0000020000"
+        ],
+        "US West (Oregon)": [
+            "0.0000020000"
+        ],
+        "US West (N. California)": [
+            "0.0000020000"
+        ],
+        "US East (Ohio)": [
+            "0.0000020000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0000020000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0000020000"
+        ],
+        "EU (Stockholm)": [
+            "0.0000020000"
+        ],
+        "EU (Paris)": [
+            "0.0000020000"
+        ],
+        "EU (London)": [
+            "0.0000020000"
+        ],
+        "EU (Ireland)": [
+            "0.0000020000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0000020000"
+        ],
+        "Canada (Central)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Osaka)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0000020000"
+        ]
+    },
+    "CreateService API Request": {
+        "Regionless": [
+            "0.0000020000"
+        ],
+        "US West (Oregon)": [
+            "0.0000020000"
+        ],
+        "US West (N. California)": [
+            "0.0000020000"
+        ],
+        "US East (Ohio)": [
+            "0.0000020000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0000020000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0000020000"
+        ],
+        "EU (Stockholm)": [
+            "0.0000020000"
+        ],
+        "EU (Paris)": [
+            "0.0000020000"
+        ],
+        "EU (London)": [
+            "0.0000020000"
+        ],
+        "EU (Ireland)": [
+            "0.0000020000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0000020000"
+        ],
+        "Canada (Central)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Osaka)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0000020000"
+        ]
+    },
+    "DeleteService API Request": {
+        "Regionless": [
+            "0.0000020000"
+        ],
+        "US West (Oregon)": [
+            "0.0000020000"
+        ],
+        "US West (N. California)": [
+            "0.0000020000"
+        ],
+        "US East (Ohio)": [
+            "0.0000020000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0000020000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0000020000"
+        ],
+        "EU (Stockholm)": [
+            "0.0000020000"
+        ],
+        "EU (Paris)": [
+            "0.0000020000"
+        ],
+        "EU (London)": [
+            "0.0000020000"
+        ],
+        "EU (Ireland)": [
+            "0.0000020000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0000020000"
+        ],
+        "Canada (Central)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Osaka)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0000020000"
+        ]
+    },
+    "GetEnvironment API Request": {
+        "Regionless": [
+            "0.0000020000"
+        ],
+        "US West (Oregon)": [
+            "0.0000020000"
+        ],
+        "US West (N. California)": [
+            "0.0000020000"
+        ],
+        "US East (Ohio)": [
+            "0.0000020000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0000020000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0000020000"
+        ],
+        "EU (Stockholm)": [
+            "0.0000020000"
+        ],
+        "EU (Paris)": [
+            "0.0000020000"
+        ],
+        "EU (London)": [
+            "0.0000020000"
+        ],
+        "EU (Ireland)": [
+            "0.0000020000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0000020000"
+        ],
+        "Canada (Central)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Osaka)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0000020000"
+        ]
+    },
+    "TagResource API Request": {
+        "Regionless": [
+            "0.0000020000"
+        ],
+        "US West (Oregon)": [
+            "0.0000020000"
+        ],
+        "US West (N. California)": [
+            "0.0000020000"
+        ],
+        "US East (Ohio)": [
+            "0.0000020000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0000020000"
+        ],
+        "South America (Sao Paulo)": [
+            "0.0000020000"
+        ],
+        "EU (Stockholm)": [
+            "0.0000020000"
+        ],
+        "EU (Paris)": [
+            "0.0000020000"
+        ],
+        "EU (London)": [
+            "0.0000020000"
+        ],
+        "EU (Ireland)": [
+            "0.0000020000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0000020000"
+        ],
+        "Canada (Central)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Sydney)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Seoul)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Osaka)": [
+            "0.0000020000"
+        ],
+        "Asia Pacific (Mumbai)": [
+            "0.0000020000"
+        ]
+    }
+}

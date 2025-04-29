@@ -1,59 +1,42 @@
-## 2025-04-28 12:09
+## 2025-04-29 14:38
 
 **Modified services:**
 
-- [prometheus](raw/prometheus.json)
-
-## 2025-04-27 12:08
-
-**Modified services:**
-
-- [bedrock](raw/bedrock.json)
-
-## 2025-04-26 12:08
-
-**Modified services:**
-
-- [guardduty](raw/guardduty.json)
-- [workspaces](raw/workspaces.json)
-- [codebuild](raw/codebuild.json)
-- [cloudfront](raw/cloudfront.json)
-- [redshift](raw/redshift.json)
-- [ec2](raw/ec2.json)
-
-## 2025-04-25 12:09
-
-**Modified services:**
-
-- [securityhub](raw/securityhub.json)
-- [codebuild](raw/codebuild.json)
-- [redshift](raw/redshift.json)
-- [deadline](raw/deadline.json)
-- [appstream](raw/appstream.json)
-- [ec2](raw/ec2.json)
-- [bedrock](raw/bedrock.json)
-- [vpc](raw/vpc.json)
-
-## 2025-04-24 12:09
-
-**Modified services:**
-
-- [eks](raw/eks.json)
-- [elasticmapreduce](raw/elasticmapreduce.json)
-- [codebuild](raw/codebuild.json)
-- [dax](raw/dax.json)
-- [ec2](raw/ec2.json)
-- [bedrock](raw/bedrock.json)
-
-## 2025-04-23 12:09
-
-**Modified services:**
-
-- [codebuild](raw/codebuild.json)
-- [pcs](raw/pcs.json)
-- [ec2](raw/ec2.json)
-- [backup](raw/backup.json)
-- [bedrock](raw/bedrock.json)
+- [databasemigrationsvc](processed/databasemigrationsvc.json)
+- [managedblockchain](processed/managedblockchain.json)
+- [elasticmapreduce](processed/elasticmapreduce.json)
+- [gamelift](processed/gamelift.json)
+- [chimedialin](processed/chimedialin.json)
+- [directconnect](processed/directconnect.json)
+- [neptune](processed/neptune.json)
+- [omics](processed/omics.json)
+- [chimecallme](processed/chimecallme.json)
+- [securitylake](processed/securitylake.json)
+- [workspaces](processed/workspaces.json)
+- [codebuild](processed/codebuild.json)
+- [chimevoiceconnector](processed/chimevoiceconnector.json)
+- [cloudfront](processed/cloudfront.json)
+- [prometheus](processed/prometheus.json)
+- [redshift](processed/redshift.json)
+- [gameliftstreams](processed/gameliftstreams.json)
+- [deadline](processed/deadline.json)
+- [timestream](processed/timestream.json)
+- [dax](processed/dax.json)
+- [msk](processed/msk.json)
+- [appstream](processed/appstream.json)
+- [backup](processed/backup.json)
+- [elasticache](processed/elasticache.json)
+- [braket](processed/braket.json)
+- [cloudsearch](processed/cloudsearch.json)
+- [iotevents](processed/iotevents.json)
+- [amplify](processed/amplify.json)
+- [nimble](processed/nimble.json)
+- [lightsail](processed/lightsail.json)
+- [verifiedpermissions](processed/verifiedpermissions.json)
+- [contactcentertelecomm](processed/contactcentertelecomm.json)
+- [finspace](processed/finspace.json)
+- [datatransfer](processed/datatransfer.json)
+- [docdb](processed/docdb.json)
 
 ## Not found services
 

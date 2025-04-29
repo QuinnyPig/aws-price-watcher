@@ -1,0 +1,106 @@
+{
+    "API Request 220000000 to Inf": {
+        "Regionless": [
+            "0.0000500000"
+        ],
+        "US West (Oregon)": [
+            "0.0000500000"
+        ],
+        "US East (Ohio)": [
+            "0.0000500000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0000500000"
+        ],
+        "EU (Ireland)": [
+            "0.0000570000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0000580000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0000630000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0000600000"
+        ]
+    },
+    "API Request 20000000 to 220000000": {
+        "Regionless": [
+            "0.0000750000"
+        ],
+        "US West (Oregon)": [
+            "0.0000750000"
+        ],
+        "US East (Ohio)": [
+            "0.0000750000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0000750000"
+        ],
+        "EU (Ireland)": [
+            "0.0000720000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0000730000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0000800000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0000770000"
+        ]
+    },
+    "Encryption Key": {
+        "Regionless": [
+            "1.0000000000"
+        ],
+        "US West (Oregon)": [
+            "1.0000000000"
+        ],
+        "US East (Ohio)": [
+            "1.0000000000"
+        ],
+        "US East (N. Virginia)": [
+            "1.0000000000"
+        ],
+        "EU (Ireland)": [
+            "1.0000000000"
+        ],
+        "EU (Frankfurt)": [
+            "1.0000000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "1.0000000000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "1.0000000000"
+        ]
+    },
+    "API Request 0 to 20000000": {
+        "Regionless": [
+            "0.0002000000"
+        ],
+        "US West (Oregon)": [
+            "0.0002000000"
+        ],
+        "US East (Ohio)": [
+            "0.0002000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0002000000"
+        ],
+        "EU (Ireland)": [
+            "0.0002260000"
+        ],
+        "EU (Frankfurt)": [
+            "0.0002300000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0002500000"
+        ],
+        "Asia Pacific (Singapore)": [
+            "0.0002400000"
+        ]
+    }
+}

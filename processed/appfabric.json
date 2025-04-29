@@ -1,0 +1,44 @@
+{
+    "Additional App per User UserApp-Mo": {
+        "Regionless": [
+            "0.0500000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0500000000"
+        ],
+        "EU (Ireland)": [
+            "0.0500000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0500000000"
+        ]
+    },
+    "Standard User User-Mo": {
+        "Regionless": [
+            "3.0000000000"
+        ],
+        "US East (N. Virginia)": [
+            "3.0000000000"
+        ],
+        "EU (Ireland)": [
+            "3.0000000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "3.0000000000"
+        ]
+    },
+    "Free Trial User-Mo": {
+        "Regionless": [
+            "0.0000000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0000000000"
+        ],
+        "EU (Ireland)": [
+            "0.0000000000"
+        ],
+        "Asia Pacific (Tokyo)": [
+            "0.0000000000"
+        ]
+    }
+}

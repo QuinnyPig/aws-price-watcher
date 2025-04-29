@@ -1,0 +1,34 @@
+{
+    "Budget Actions Free Tier per day": {
+        "Regionless": [
+            "0.0000000000"
+        ],
+        "Any": [
+            "0.0000000000"
+        ]
+    },
+    "Budgets Reports Distribution Inf per Message": {
+        "Regionless": [
+            "0.0100000000"
+        ],
+        "Any": [
+            "0.0100000000"
+        ]
+    },
+    "Budget Notifications Inf per day": {
+        "Regionless": [
+            "0.0000000000"
+        ],
+        "Any": [
+            "0.0000000000"
+        ]
+    },
+    "Budget Actions Inf per day": {
+        "Regionless": [
+            "0.1000000000"
+        ],
+        "Any": [
+            "0.1000000000"
+        ]
+    }
+}

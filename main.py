@@ -21,7 +21,7 @@ def save_file(filename, contents):
 def load_file(filename):
     existing_contents = None
     try:
-        existing_file = open("raw/{}.json".format(sanitized_service_name), "r")
+        existing_file = open(filename, "r")
         existing_contents = existing_file.read()
         existing_file.close()
     except FileNotFoundError:
@@ -51,30 +51,62 @@ if service_list:
         contents = get_url_contents("https://b0.p.awsstatic.com/pricing/2.0/meteredUnitMaps/{}/USD/current/{}.json".format(sanitized_service_name, sanitized_service_name))
         if contents:
             contents_obj = json.loads(contents)
-            existing_contents = load_file(sanitized_service_name)
-            if existing_contents:
-                existing_contents_obj = json.loads(existing_contents)
+
+            save_file("raw/{}.json".format(sanitized_service_name), json.dumps(contents_obj, indent=4))
+
+            processed_contents = {}
+            for region_name in contents_obj["regions"].keys():
+                for code_name in contents_obj["regions"][region_name].keys():
+                    #print(service, region_name, code_name)
+                    if "RegionlessRateCode" in contents_obj["regions"][region_name][code_name] and contents_obj["regions"][region_name][code_name]["RegionlessRateCode"] == code_name:
+                        continue
+
+                    modified_code_name = code_name
+                    for set_name in contents_obj["sets"].keys():
+                        if code_name in contents_obj["sets"][set_name]:
+                            modified_code_name = set_name
+
+                    if modified_code_name not in processed_contents:
+                        processed_contents[modified_code_name] = {}
+                        if "RegionlessRateCode" in contents_obj["regions"][region_name][code_name] and contents_obj["regions"][region_name][code_name]["RegionlessRateCode"] in contents_obj["regions"][region_name]:
+                            processed_contents[modified_code_name]["Regionless"] = [
+                                contents_obj["regions"][region_name][contents_obj["regions"][region_name][code_name]["RegionlessRateCode"]]["price"]
+                            ]
+                        else:
+                            pass
+                            #print("Outlier: ", service, region_name, code_name)
+
+                    if region_name not in processed_contents[modified_code_name]:
+                        processed_contents[modified_code_name][region_name] = []
+
+                    processed_contents[modified_code_name][region_name].append(contents_obj["regions"][region_name][code_name]["price"])
+                    processed_contents[modified_code_name][region_name] = list(set(processed_contents[modified_code_name][region_name]))
+
+
+            existing_processed_contents = load_file("processed/{}.json".format(sanitized_service_name))
+            if existing_processed_contents:
+                existing_contents_obj = json.loads(existing_processed_contents)
 
                 # compare the two objects
-                if existing_contents_obj != contents_obj:
+                if existing_contents_obj != processed_contents:
                     modified_services.append(sanitized_service_name)
             else:
                 new_services.append(sanitized_service_name)
 
-            save_file("raw/{}.json".format(sanitized_service_name), json.dumps(contents_obj, indent=4))
+            save_file("processed/{}.json".format(sanitized_service_name), json.dumps(processed_contents, indent=4))
         else:
             not_found.append(sanitized_service_name)
 
-    if (len(modified_services) + len(new_services)) > 0:
+    if len(modified_services) + len(new_services) > 0:
         out += "## {}\n\n".format(datetime.datetime.now().strftime("%Y-%m-%d %H:%M"))
         if len(new_services) > 0:
             out += "**New services:**\n"
             for service in new_services:
-                out += "\n- [{}](raw/{}.json)".format(service, service)
+                out += "\n- [{}](processed/{}.json)".format(service, service)
         if len(modified_services) > 0:
             out += "**Modified services:**\n"
             for service in modified_services:
-                out += "\n- [{}](raw/{}.json)".format(service, service)
+                out += "\n- [{}](processed/{}.json)".format(service, service)
         out += "\n\n"
 
     # read readme file

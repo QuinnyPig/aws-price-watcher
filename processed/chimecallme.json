@@ -1,0 +1,369 @@
+{
+    "ChimeCallMe": {
+        "Regionless": [
+            "0.4271100000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0476800000",
+            "0.0648000000",
+            "0.2170700000",
+            "0.0289100000",
+            "0.0789600000",
+            "0.1834000000",
+            "0.1926000000",
+            "0.1272600000",
+            "0.0197700000",
+            "0.0386800000",
+            "0.3336800000",
+            "0.2566900000",
+            "0.0190000000",
+            "0.0060000000",
+            "0.0253200000",
+            "0.0712200000",
+            "0.1214800000",
+            "0.0048000000",
+            "0.0692000000",
+            "0.0162500000",
+            "0.1189800000",
+            "0.0253600000",
+            "0.0257800000",
+            "0.0645500000",
+            "0.1575000000",
+            "0.0920000000",
+            "0.0054000000",
+            "0.0362700000",
+            "0.0674600000",
+            "0.0614100000",
+            "0.0894800000",
+            "0.0273250000",
+            "0.0546800000",
+            "0.0842000000",
+            "0.1433600000",
+            "0.4271100000",
+            "0.0656000000",
+            "0.0684100000",
+            "0.0389200000",
+            "0.4301800000"
+        ]
+    },
+    "ChimeCallMe to Puerto Rico": {
+        "Regionless": [
+            "0.0060000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0060000000"
+        ]
+    },
+    "ChimeCallMe to Poland": {
+        "Regionless": [
+            "0.1189800000"
+        ],
+        "US East (N. Virginia)": [
+            "0.1189800000"
+        ]
+    },
+    "ChimeCallMe to Argentina": {
+        "Regionless": [
+            "0.4271100000"
+        ],
+        "US East (N. Virginia)": [
+            "0.4271100000"
+        ]
+    },
+    "ChimeCallMe to South Africa": {
+        "Regionless": [
+            "0.0273250000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0273250000"
+        ]
+    },
+    "ChimeCallMe to Netherlands": {
+        "Regionless": [
+            "0.1272600000"
+        ],
+        "US East (N. Virginia)": [
+            "0.1272600000"
+        ]
+    },
+    "ChimeCallMe to Cyprus": {
+        "Regionless": [
+            "0.2170700000"
+        ],
+        "US East (N. Virginia)": [
+            "0.2170700000"
+        ]
+    },
+    "ChimeCallMe to Greece": {
+        "Regionless": [
+            "0.2566900000"
+        ],
+        "US East (N. Virginia)": [
+            "0.2566900000"
+        ]
+    },
+    "ChimeCallMe to Romania": {
+        "Regionless": [
+            "0.0362700000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0362700000"
+        ]
+    },
+    "ChimeCallMe to Australia": {
+        "Regionless": [
+            "0.0476800000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0476800000"
+        ]
+    },
+    "ChimeCallMe to Malta": {
+        "Regionless": [
+            "0.0197700000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0197700000"
+        ]
+    },
+    "ChimeCallMe to Spain": {
+        "Regionless": [
+            "0.0712200000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0712200000"
+        ]
+    },
+    "ChimeCallMe to United Kingdom": {
+        "Regionless": [
+            "0.0190000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0190000000"
+        ]
+    },
+    "ChimeCallMe to Lithuania": {
+        "Regionless": [
+            "0.1214800000"
+        ],
+        "US East (N. Virginia)": [
+            "0.1214800000"
+        ]
+    },
+    "ChimeCallMe to Portugal": {
+        "Regionless": [
+            "0.0894800000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0894800000"
+        ]
+    },
+    "ChimeCallMe to Latvia": {
+        "Regionless": [
+            "0.1834000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.1834000000"
+        ]
+    },
+    "ChimeCallMe to Brazil": {
+        "Regionless": [
+            "0.0684100000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0684100000"
+        ]
+    },
+    "ChimeCallMe to Czech Republic": {
+        "Regionless": [
+            "0.1433600000"
+        ],
+        "US East (N. Virginia)": [
+            "0.1433600000"
+        ]
+    },
+    "ChimeCallMe to Peru": {
+        "Regionless": [
+            "0.0645500000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0645500000"
+        ]
+    },
+    "ChimeCallMe to Colombia": {
+        "Regionless": [
+            "0.0656000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0656000000"
+        ]
+    },
+    "ChimeCallMe to Canada": {
+        "Regionless": [
+            "0.0054000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0054000000"
+        ]
+    },
+    "ChimeCallMe to Hong Kong": {
+        "Regionless": [
+            "0.0789600000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0789600000"
+        ]
+    },
+    "ChimeCallMe to Italy": {
+        "Regionless": [
+            "0.0842000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0842000000"
+        ]
+    },
+    "ChimeCallMe to Luxembourg": {
+        "Regionless": [
+            "0.0674600000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0674600000"
+        ]
+    },
+    "ChimeCallMe to Hungary": {
+        "Regionless": [
+            "0.0920000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0920000000"
+        ]
+    },
+    "ChimeCallMe to Sweden": {
+        "Regionless": [
+            "0.0253600000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0253600000"
+        ]
+    },
+    "ChimeCallMe to France": {
+        "Regionless": [
+            "0.0692000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0692000000"
+        ]
+    },
+    "ChimeCallMe to Israel": {
+        "Regionless": [
+            "0.0386800000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0386800000"
+        ]
+    },
+    "ChimeCallMe to Turkey": {
+        "Regionless": [
+            "0.4301800000"
+        ],
+        "US East (N. Virginia)": [
+            "0.4301800000"
+        ]
+    },
+    "ChimeCallMe to Norway": {
+        "Regionless": [
+            "0.0253200000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0253200000"
+        ]
+    },
+    "ChimeCallMe to Ireland": {
+        "Regionless": [
+            "0.0289100000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0289100000"
+        ]
+    },
+    "ChimeCallMe to Mexico": {
+        "Regionless": [
+            "0.0162500000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0162500000"
+        ]
+    },
+    "ChimeCallMe to United States of America": {
+        "Regionless": [
+            "0.0048000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0048000000"
+        ]
+    },
+    "ChimeCallMe to Switzerland": {
+        "Regionless": [
+            "0.1926000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.1926000000"
+        ]
+    },
+    "ChimeCallMe to Germany": {
+        "Regionless": [
+            "0.0389200000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0389200000"
+        ]
+    },
+    "ChimeCallMe to Belgium": {
+        "Regionless": [
+            "0.1575000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.1575000000"
+        ]
+    },
+    "ChimeCallMe to Panama": {
+        "Regionless": [
+            "0.3336800000"
+        ],
+        "US East (N. Virginia)": [
+            "0.3336800000"
+        ]
+    },
+    "ChimeCallMe to Japan": {
+        "Regionless": [
+            "0.0648000000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0648000000"
+        ]
+    },
+    "ChimeCallMe to Denmark": {
+        "Regionless": [
+            "0.0257800000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0257800000"
+        ]
+    },
+    "ChimeCallMe to New Zealand": {
+        "Regionless": [
+            "0.0614100000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0614100000"
+        ]
+    },
+    "ChimeCallMe to Finland": {
+        "Regionless": [
+            "0.0546800000"
+        ],
+        "US East (N. Virginia)": [
+            "0.0546800000"
+        ]
+    }
+}
