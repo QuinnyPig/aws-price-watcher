@@ -1,10 +1,10 @@
 {
-    "[optional set name Enterprise Applications] WorkMail per User Mo": {
+    "WorkMail per User Mo": {
         "US West (Oregon)": "4.0000000000",
         "US East (N. Virginia)": "4.0000000000",
         "EU (Ireland)": "4.0000000000"
     },
-    "[optional set name Enterprise Applications] Free Tier per User Mo": {
+    "Free Tier per User Mo": {
         "US West (Oregon)": "0.0000000000",
         "US East (N. Virginia)": "0.0000000000",
         "EU (Ireland)": "0.0000000000"

@@ -141,6 +141,12 @@ if service_list:
             else:
                 new_services.append(sanitized_service_name)
 
+            # remove optional set names
+            for k in list(processed_contents.keys()):
+                if k.startswith("[optional set name"):
+                    processed_contents[k[k.index("]")+2:]] = processed_contents[k]
+                    del processed_contents[k]
+
             save_file("processed/{}.json".format(sanitized_service_name), json.dumps(processed_contents, indent=4))
         else:
             not_found.append(sanitized_service_name)
