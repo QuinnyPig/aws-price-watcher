@@ -6,6 +6,10 @@ STATIC_PRICING = [
     {
         "service": "contactlensamazonconnect",
         "url": "https://aws.amazon.com/connect/pricing/"
+    },
+    {
+        "service": "simspaceweaver",
+        "pricing_url": "https://b0.p.awsstatic.com/pricing/2.0/meteredUnitMaps/simspaceweaver/USD/current/simspaceweaver-instances.json"
     }
 ]
 
@@ -73,6 +77,7 @@ if service_list:
     for service in service_list_obj["offers"].keys():
         sanitized_service_name = service.lower().removeprefix("amazon").removeprefix("aws")
         contents = get_url_contents("https://b0.p.awsstatic.com/pricing/2.0/meteredUnitMaps/{}/USD/current/{}.json".format(sanitized_service_name, sanitized_service_name))
+        # https://b0.p.awsstatic.cn/pricing/2.0/meteredUnitMaps/ec2/CNY/current/ec2.json
         if contents:
             contents_obj = json.loads(contents)
 
