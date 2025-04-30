@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "dax",
         "accessType": "publish",
-        "esIndex": "plc-dax-usd-20250429181325",
-        "hawkFilePublicationDate": "2025-04-29T18:13:25Z",
-        "ETLIngestionTriggerDate": "2025-04-29T18:13:25Z",
+        "esIndex": "plc-dax-usd-20250430174354",
+        "hawkFilePublicationDate": "2025-04-30T17:43:54Z",
+        "ETLIngestionTriggerDate": "2025-04-30T17:43:54Z",
         "currencyCode": "USD",
         "source": "dax",
         "isMapped": "true"
@@ -2768,7 +2768,7 @@
             },
             "PP8HVD566ZS4YE85.JRTCKXETXF.6YS6EN2CT7 0": {
                 "rateCode": "PP8HVD566ZS4YE85.JRTCKXETXF.6YS6EN2CT7",
-                "price": "4.0690000000",
+                "price": "6.1170000000",
                 "RegionlessRateCode": "9JdI1E8NF72Rn22maLTHp4_xhPF7p_hpCrn4ZRNNPm0",
                 "Memory": "384",
                 "vCPU": "48",
@@ -2777,7 +2777,7 @@
             },
             "T837AUGQ2VU5PAWU.JRTCKXETXF.6YS6EN2CT7 0": {
                 "rateCode": "T837AUGQ2VU5PAWU.JRTCKXETXF.6YS6EN2CT7",
-                "price": "6.1170000000",
+                "price": "8.1370000000",
                 "RegionlessRateCode": "xzYd0Lvu7AQ1MGan7n93losIfWhrH3zqyB4LEfUG1Fk",
                 "Memory": "512",
                 "vCPU": "64",
@@ -2795,7 +2795,7 @@
             },
             "FANF7NCV3JKW8TCU.JRTCKXETXF.6YS6EN2CT7 0": {
                 "rateCode": "FANF7NCV3JKW8TCU.JRTCKXETXF.6YS6EN2CT7",
-                "price": "8.1370000000",
+                "price": "1.0170000000",
                 "RegionlessRateCode": "-HjupmzPmbcH4U5Biy0Y5WpySHf7BuzMXVoJgcmPGQc",
                 "Memory": "64",
                 "vCPU": "6",
@@ -2804,7 +2804,7 @@
             },
             "GVABYCZVQXRE2QQX.JRTCKXETXF.6YS6EN2CT7 0": {
                 "rateCode": "GVABYCZVQXRE2QQX.JRTCKXETXF.6YS6EN2CT7",
-                "price": "0.2550000000",
+                "price": "2.0340000000",
                 "RegionlessRateCode": "V2f64zXhnw-zgFQgN4vBkCLBrTes2Aru4r3S2gYl2No",
                 "Memory": "128",
                 "vCPU": "16",
@@ -2813,7 +2813,7 @@
             },
             "KX5QSM2VB74TZ7U7.JRTCKXETXF.6YS6EN2CT7 0": {
                 "rateCode": "KX5QSM2VB74TZ7U7.JRTCKXETXF.6YS6EN2CT7",
-                "price": "1.0170000000",
+                "price": "4.0690000000",
                 "RegionlessRateCode": "niAqUSa63nNTgZN6UQ-97yrOEV132b9wEhByud32vOk",
                 "Memory": "256",
                 "vCPU": "32",
@@ -2822,7 +2822,7 @@
             },
             "D26EP3TKBUSPKTNC.JRTCKXETXF.6YS6EN2CT7 0": {
                 "rateCode": "D26EP3TKBUSPKTNC.JRTCKXETXF.6YS6EN2CT7",
-                "price": "0.5090000000",
+                "price": "0.2550000000",
                 "RegionlessRateCode": "3ZGW48J_p9vwdGbqlVHPDqep1oP20uYbhWFvHS1kqeU",
                 "Memory": "16",
                 "vCPU": "2",
@@ -2831,7 +2831,7 @@
             },
             "XBQV6FJBWYT652MP.JRTCKXETXF.6YS6EN2CT7 0": {
                 "rateCode": "XBQV6FJBWYT652MP.JRTCKXETXF.6YS6EN2CT7",
-                "price": "2.0340000000",
+                "price": "0.5090000000",
                 "RegionlessRateCode": "LyFwimBytz3q-Xi3OaFrKSxaozkvfKBUoKHzEejA2qs",
                 "Memory": "32",
                 "vCPU": "4",
@@ -2876,7 +2876,7 @@
             },
             "-HjupmzPmbcH4U5Biy0Y5WpySHf7BuzMXVoJgcmPGQc": {
                 "rateCode": "FANF7NCV3JKW8TCU.JRTCKXETXF.6YS6EN2CT7",
-                "price": "8.1370000000",
+                "price": "1.0170000000",
                 "RegionlessRateCode": "-HjupmzPmbcH4U5Biy0Y5WpySHf7BuzMXVoJgcmPGQc",
                 "Memory": "64",
                 "vCPU": "6",
@@ -2903,7 +2903,7 @@
             },
             "3ZGW48J_p9vwdGbqlVHPDqep1oP20uYbhWFvHS1kqeU": {
                 "rateCode": "D26EP3TKBUSPKTNC.JRTCKXETXF.6YS6EN2CT7",
-                "price": "0.5090000000",
+                "price": "0.2550000000",
                 "RegionlessRateCode": "3ZGW48J_p9vwdGbqlVHPDqep1oP20uYbhWFvHS1kqeU",
                 "Memory": "16",
                 "vCPU": "2",
@@ -2939,7 +2939,7 @@
             },
             "9JdI1E8NF72Rn22maLTHp4_xhPF7p_hpCrn4ZRNNPm0": {
                 "rateCode": "PP8HVD566ZS4YE85.JRTCKXETXF.6YS6EN2CT7",
-                "price": "4.0690000000",
+                "price": "6.1170000000",
                 "RegionlessRateCode": "9JdI1E8NF72Rn22maLTHp4_xhPF7p_hpCrn4ZRNNPm0",
                 "Memory": "384",
                 "vCPU": "48",
@@ -2984,7 +2984,7 @@
             },
             "LyFwimBytz3q-Xi3OaFrKSxaozkvfKBUoKHzEejA2qs": {
                 "rateCode": "XBQV6FJBWYT652MP.JRTCKXETXF.6YS6EN2CT7",
-                "price": "2.0340000000",
+                "price": "0.5090000000",
                 "RegionlessRateCode": "LyFwimBytz3q-Xi3OaFrKSxaozkvfKBUoKHzEejA2qs",
                 "Memory": "32",
                 "vCPU": "4",
@@ -3020,7 +3020,7 @@
             },
             "V2f64zXhnw-zgFQgN4vBkCLBrTes2Aru4r3S2gYl2No": {
                 "rateCode": "GVABYCZVQXRE2QQX.JRTCKXETXF.6YS6EN2CT7",
-                "price": "0.2550000000",
+                "price": "2.0340000000",
                 "RegionlessRateCode": "V2f64zXhnw-zgFQgN4vBkCLBrTes2Aru4r3S2gYl2No",
                 "Memory": "128",
                 "vCPU": "16",
@@ -3074,7 +3074,7 @@
             },
             "niAqUSa63nNTgZN6UQ-97yrOEV132b9wEhByud32vOk": {
                 "rateCode": "KX5QSM2VB74TZ7U7.JRTCKXETXF.6YS6EN2CT7",
-                "price": "1.0170000000",
+                "price": "4.0690000000",
                 "RegionlessRateCode": "niAqUSa63nNTgZN6UQ-97yrOEV132b9wEhByud32vOk",
                 "Memory": "256",
                 "vCPU": "32",
@@ -3146,7 +3146,7 @@
             },
             "xzYd0Lvu7AQ1MGan7n93losIfWhrH3zqyB4LEfUG1Fk": {
                 "rateCode": "T837AUGQ2VU5PAWU.JRTCKXETXF.6YS6EN2CT7",
-                "price": "6.1170000000",
+                "price": "8.1370000000",
                 "RegionlessRateCode": "xzYd0Lvu7AQ1MGan7n93losIfWhrH3zqyB4LEfUG1Fk",
                 "Memory": "512",
                 "vCPU": "64",
