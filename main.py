@@ -176,9 +176,9 @@ if service_list:
                                             old_price = float(existing_contents_obj[metric_name][region_name])
                                             new_price = float(processed_contents[metric_name][region_name])
                                             if old_price < new_price:
-                                                modified_service_detail[sanitized_service_name] += "\n  - Price increased: {} {} 🤑".format(metric_name, region_name)
+                                                modified_service_detail[sanitized_service_name] += "\n  - Price increased: {} {}  **${}** → **${}** 🤑".format(metric_name, region_name, old_price, new_price)
                                             elif old_price > new_price:
-                                                modified_service_detail[sanitized_service_name] += "\n  - Price decreased: {} {} 💸".format(metric_name, region_name)
+                                                modified_service_detail[sanitized_service_name] += "\n  - Price decreased: {} {}  **${}** → **${}** 💸".format(metric_name, region_name, old_price, new_price)
                                         except:
                                             modified_service_detail[sanitized_service_name] += "\n  - Price changed: {} {} 💰".format(metric_name, region_name)
             else:
