@@ -3,6 +3,8 @@
 **Modified services:**
 
 - [dax](processed/dax.json)
+  - Billing metric added: [instanceType-unit] 💡
+
 
 ## Not found services
 

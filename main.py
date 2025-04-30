@@ -49,6 +49,7 @@ def modify_region_name(region_name, code_contents_raw):
 services = []
 not_found = []
 modified_services = []
+modified_service_detail = {}
 new_services = []
 
 service_list_obj = {}
@@ -131,18 +132,44 @@ if service_list:
                         processed_contents[modified_code_name][modified_region_name] += ";" + contents_obj["regions"][region_name][code_name]["price"]
 
             # remove optional set names
-            for k in list(processed_contents.keys()):
-                if k.startswith("[optional set name"):
-                    processed_contents[k[k.index("]")+2:]] = processed_contents[k]
-                    del processed_contents[k]
+            for metric_name in list(processed_contents.keys()):
+                if metric_name.startswith("[optional set name"):
+                    processed_contents[metric_name[metric_name.index("]")+2:]] = processed_contents[metric_name]
+                    del processed_contents[metric_name]
 
             existing_processed_contents = load_file("processed/{}.json".format(sanitized_service_name))
             if existing_processed_contents:
                 existing_contents_obj = json.loads(existing_processed_contents)
 
                 # compare the two objects
-                if existing_contents_obj != processed_contents:
+                if json.dumps(existing_contents_obj) != json.dumps(processed_contents):
                     modified_services.append(sanitized_service_name)
+                    modified_service_detail[sanitized_service_name] = ""
+                    for metric_name in existing_contents_obj.keys():
+                        if metric_name not in processed_contents:
+                            modified_service_detail[sanitized_service_name] += "\n  - Billing metric removed: {} 💥".format(metric_name)
+                    for metric_name in processed_contents.keys():
+                        if metric_name not in existing_contents_obj:
+                            modified_service_detail[sanitized_service_name] += "\n  - Billing metric added: {} 💡".format(metric_name)
+                        else:
+                            for region_name in processed_contents[metric_name].keys():
+                                if region_name not in existing_contents_obj[metric_name]:
+                                    modified_service_detail[sanitized_service_name] += "\n  - Region removed for metric {}: {} 💥".format(metric_name, region_name)
+                            for region_name in existing_contents_obj[metric_name].keys():
+                                if region_name not in processed_contents[metric_name]:
+                                    modified_service_detail[sanitized_service_name] += "\n  - Region added for metric {}: {} 🌎".format(metric_name, region_name)
+                                else:
+                                    if existing_contents_obj[metric_name][region_name] != processed_contents[metric_name][region_name]:
+                                        # parse prices
+                                        try:
+                                            old_price = float(existing_contents_obj[metric_name][region_name])
+                                            new_price = float(processed_contents[metric_name][region_name])
+                                            if old_price < new_price:
+                                                modified_service_detail[sanitized_service_name] += "\n  - Price increased: {} {} 🤑".format(metric_name, region_name)
+                                            elif old_price > new_price:
+                                                modified_service_detail[sanitized_service_name] += "\n  - Price decreased: {} {} 💸".format(metric_name, region_name)
+                                        except:
+                                            modified_service_detail[sanitized_service_name] += "\n  - Price changed: {} {} 💰".format(metric_name, region_name)
             else:
                 new_services.append(sanitized_service_name)
 
@@ -155,11 +182,12 @@ if service_list:
         if len(new_services) > 0:
             out += "**New services:**\n"
             for service in new_services:
-                out += "\n- [{}](processed/{}.json)".format(service, service)
+                out += "\n- [{}](processed/{}.json) 🚀".format(service, service)
         if len(modified_services) > 0:
             out += "**Modified services:**\n"
             for service in modified_services:
                 out += "\n- [{}](processed/{}.json)".format(service, service)
+                out += "{}\n".format(modified_service_detail[service])
         out += "\n\n"
 
     # read readme file
