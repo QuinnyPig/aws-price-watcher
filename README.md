@@ -6,7 +6,7 @@
   - Billing metric added: [instanceType-unit] 💡
 
 
-## Not found services
+## Not included services
 
 - contactlensamazonconnect
 - vmwarecloudonaws
