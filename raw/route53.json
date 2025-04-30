@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "route53",
         "accessType": "publish",
-        "esIndex": "plc-route53-usd-20250428192813",
-        "hawkFilePublicationDate": "2025-04-28T19:28:13Z",
-        "ETLIngestionTriggerDate": "2025-04-28T19:28:13Z",
+        "esIndex": "plc-route53-usd-20250430151129",
+        "hawkFilePublicationDate": "2025-04-30T15:11:29Z",
+        "ETLIngestionTriggerDate": "2025-04-30T15:11:29Z",
         "currencyCode": "USD",
         "source": "route53",
         "isMapped": "true"
