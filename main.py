@@ -2,6 +2,12 @@ import requests
 import json
 import datetime
 
+STATIC_PRICING = [
+    {
+        "service": "contactlensamazonconnect",
+        "url": "https://aws.amazon.com/connect/pricing/"
+    }
+]
 
 def get_url_contents(url):
     try:
@@ -192,8 +198,8 @@ if service_list:
 
     # read readme file
     with open("README.md", "r") as readme_file:
-        out += readme_file.read().split("## Not found services")[0]
+        out += readme_file.read().split("## Not included services")[0]
 
-    out += "## Not found services\n\n- {}".format('\n- '.join(not_found))
+    out += "## Not included services\n\n- {}".format('\n- '.join(not_found))
 
     save_file("README.md", out)
