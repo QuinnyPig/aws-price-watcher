@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "cloudwan",
         "accessType": "publish",
-        "esIndex": "plc-cloudwan-usd-20250320175107",
-        "hawkFilePublicationDate": "2025-03-20T17:51:07Z",
-        "ETLIngestionTriggerDate": "2025-03-20T17:51:07Z",
+        "esIndex": "plc-cloudwan-usd-20250429194456",
+        "hawkFilePublicationDate": "2025-04-29T19:44:56Z",
+        "ETLIngestionTriggerDate": "2025-04-29T19:44:56Z",
         "currencyCode": "USD",
         "source": "cloudwan",
         "isMapped": "true"
