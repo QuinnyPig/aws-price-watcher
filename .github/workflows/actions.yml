@@ -37,9 +37,9 @@ jobs:
           git add .
           README_CHANGES=$(git diff -- README.md | wc -l | xargs)
           git commit -m "Update data" -a || exit 0
-          if [[ "$README_CHANGES" == "0" ]]; then exit 0; fi
           remote_repo="https://iann0036-bot:${BOT_GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
           git push "${remote_repo}" HEAD:main
+          if [[ "$README_CHANGES" == "0" ]]; then exit 0; fi
           INPUT_TAG="release-$(date +%Y%m%d%H%M%S)"
           awk '/^## / {section++} section == 1' README.md > /tmp/notes.md
           gh release create $INPUT_TAG -t "${INPUT_TAG}" -F /tmp/notes.md
