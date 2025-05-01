@@ -1,0 +1,44 @@
+{
+    "manifest": {
+        "serviceId": "kinesis",
+        "accessType": "publish",
+        "esIndex": "plc-kinesis-cny-20201027235007",
+        "hawkFilePublicationDate": "2020-10-27T23:50:07Z",
+        "ETLIngestionTriggerDate": "2020-10-27T23:50:07Z",
+        "currencyCode": "CNY",
+        "source": "kinesis"
+    },
+    "sets": {},
+    "regions": {
+        "China (Beijing)": {
+            "Addon shard hour per ShardHour": {
+                "rateCode": "655TFMDBCMJJN7VP.99YE2YK9UR.Q7UJUT2CE6",
+                "price": "0.1615000000"
+            },
+            "Enhanced fan out GB of data retrieved per GB": {
+                "rateCode": "9UQTFTBAK4YMS4K8.99YE2YK9UR.Q7UJUT2CE6",
+                "price": "0.1050000000"
+            },
+            "Enhanced fan out per ConsumerShardHour": {
+                "rateCode": "3PPZPXZF95QHVGDM.99YE2YK9UR.Q7UJUT2CE6",
+                "price": "0.1211000000"
+            },
+            "Long term Data Retention GB-month per GB-month": {
+                "rateCode": "9M8V6HPZJDH5SDKG.99YE2YK9UR.Q7UJUT2CE6",
+                "price": "0.1950000000"
+            },
+            "Long term Data Retrieval GB per GB": {
+                "rateCode": "CJNN5FKZUN87E3RC.99YE2YK9UR.Q7UJUT2CE6",
+                "price": "0.1696000000"
+            },
+            "Payload Units per CNN1 PutRequestPayloadUnits": {
+                "rateCode": "ZMQR6X993JEHQFJT.99YE2YK9UR.Q7UJUT2CE6",
+                "price": "0.0000001130"
+            },
+            "Provisioned shard hour per CNN1 Storage-ShardHour": {
+                "rateCode": "PA8HP9Y6XY6J5YNM.99YE2YK9UR.Q7UJUT2CE6",
+                "price": "0.1211000000"
+            }
+        }
+    }
+}
