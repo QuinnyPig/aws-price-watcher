@@ -165,10 +165,10 @@ if service_list:
                         else:
                             for region_name in processed_contents[metric_name].keys():
                                 if region_name not in existing_contents_obj[metric_name]:
-                                    modified_service_detail[sanitized_service_name] += "\n  - Region removed for metric {}: {} 💥".format(metric_name, region_name)
+                                    modified_service_detail[sanitized_service_name] += "\n  - Region added for metric {}: {} 🌎".format(metric_name, region_name)
                             for region_name in existing_contents_obj[metric_name].keys():
                                 if region_name not in processed_contents[metric_name]:
-                                    modified_service_detail[sanitized_service_name] += "\n  - Region added for metric {}: {} 🌎".format(metric_name, region_name)
+                                    modified_service_detail[sanitized_service_name] += "\n  - Region removed for metric {}: {} 💥".format(metric_name, region_name)
                                 else:
                                     if existing_contents_obj[metric_name][region_name] != processed_contents[metric_name][region_name]:
                                         # parse prices
