@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "vpc",
         "accessType": "publish",
-        "esIndex": "plc-vpc-usd-20250428163957",
-        "hawkFilePublicationDate": "2025-04-28T16:39:57Z",
-        "ETLIngestionTriggerDate": "2025-04-28T16:39:57Z",
+        "esIndex": "plc-vpc-usd-20250502190754",
+        "hawkFilePublicationDate": "2025-05-02T19:07:54Z",
+        "ETLIngestionTriggerDate": "2025-05-02T19:07:54Z",
         "currencyCode": "USD",
         "source": "vpc",
         "isMapped": "true"
@@ -741,6 +741,11 @@
                 "rateCode": "PWE3X2KSS99R9EPE.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0600000000",
                 "RegionlessRateCode": "RipZZZKSBRALlPjKpWVh8xJgEl1yzhwwWJDhhEaqlx0"
+            },
+            "Tp1vEAoqMY31GgPH14zuxLp6yh9iyW42zYbWfdTLkhc": {
+                "rateCode": "9SZ9ZREENN8MUBHZ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.8000000000",
+                "RegionlessRateCode": "Tp1vEAoqMY31GgPH14zuxLp6yh9iyW42zYbWfdTLkhc"
             },
             "Tqbq4NsTPpNjQAuKdJcumFAvifu-A3UlvVb7v_27IHY": {
                 "rateCode": "5JK2TK9Q2FBCWSWC.JRTCKXETXF.RBMR72YW69",
