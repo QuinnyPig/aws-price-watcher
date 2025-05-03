@@ -80,10 +80,8 @@
 
 - contactlensamazonconnect
 - vmwarecloudonaws
-- memorydb
 - endusermessaging3pfees
 - ingestionservicesnowball
-- simspaceweaver
 - rds
 - chimedialinamcs
 - outposts
