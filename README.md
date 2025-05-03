@@ -92,7 +92,6 @@
 - m2
 - computeoptimizer
 - r53apprecoverycontroller
-- honeycode
 - repostspace
 - bedrockservice
 - wisdom

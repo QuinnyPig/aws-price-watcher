@@ -101,6 +101,10 @@ STATIC_PRICING = [
                 "regex": "^\\$?([0-9.]+)"
             }
         ]
+    },
+    {
+        "service": "honeycode",
+        "skip": True
     }
 ]
 
@@ -168,10 +172,16 @@ if service_list:
     for service in service_list_obj["offers"].keys():
         sanitized_service_name = service.lower().removeprefix("amazon").removeprefix("aws")
         pricing_url = "https://b0.p.awsstatic.com/pricing/2.0/meteredUnitMaps/{}/USD/current/{}.json".format(sanitized_service_name, sanitized_service_name)
+        skip_service = False
         for static_service in STATIC_PRICING:
             if static_service["service"] == sanitized_service_name and "pricing_url" in static_service:
                 pricing_url = static_service["pricing_url"]
                 break
+            if static_service["service"] == sanitized_service_name and "skip" in static_service:
+                skip_service = True
+                break
+        if skip_service:
+            continue
         contents = get_url_contents(pricing_url)
         # https://b0.p.awsstatic.cn/pricing/2.0/meteredUnitMaps/ec2/CNY/current/ec2.json
         if contents:
