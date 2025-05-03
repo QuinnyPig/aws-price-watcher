@@ -96,7 +96,6 @@
 - bedrockservice
 - wisdom
 - sagemaker
-- ecrpublic
 - connectcases
 - bcmpricingcalculator
 - codecatalyst
