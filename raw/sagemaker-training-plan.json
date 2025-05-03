@@ -1,0 +1,113 @@
+{
+    "manifest": {
+        "serviceId": "sagemaker",
+        "accessType": "publish",
+        "esIndex": "plc-sagemaker-usd-20250430193440",
+        "hawkFilePublicationDate": "2025-04-30T19:34:40Z",
+        "ETLIngestionTriggerDate": "2025-04-30T19:34:40Z",
+        "currencyCode": "USD",
+        "source": "sagemaker-training-plan"
+    },
+    "sets": {
+        "TrainingPlan": [
+            "1ocddvXSqf6HhuqvUJ0fGM83hihPA3F2Wqq9aYjSxro",
+            "4j74H7rv2mJnnoFp48gsgG0rvUK14E3U-r3CVPC5-Wk",
+            "D24pvjPIdmj_vDl2WbqzyOPp38GBP_UPjWPLUspqm9o",
+            "OC5Xj-H0GJULdCn1J91LiMbxJ89C0S7EiOM9c7qPJ6o",
+            "Pflf-2L93-D8c9rUPYTpWKvSEa5KuzPe34G5NGpS8y0",
+            "ghQvFMPrBWdugjdm6B2fGkTmhQugEondlio8TQUkeDY"
+        ]
+    },
+    "regions": {
+        "US West (Oregon)": {
+            "4j74H7rv2mJnnoFp48gsgG0rvUK14E3U-r3CVPC5-Wk": {
+                "rateCode": "CNYYWHTP3BC6QKXV.JRTCKXETXF.6YS6EN2CT7",
+                "price": "36.1836000000",
+                "RegionlessRateCode": "4j74H7rv2mJnnoFp48gsgG0rvUK14E3U-r3CVPC5-Wk",
+                "Memory": "2 TiB",
+                "VCPU": "192",
+                "Instance": "ml.p5.48xlarge"
+            },
+            "OC5Xj-H0GJULdCn1J91LiMbxJ89C0S7EiOM9c7qPJ6o": {
+                "rateCode": "WFQHAD8JUBH8G4KD.JRTCKXETXF.6YS6EN2CT7",
+                "price": "13.5700000000",
+                "RegionlessRateCode": "OC5Xj-H0GJULdCn1J91LiMbxJ89C0S7EiOM9c7qPJ6o",
+                "Memory": "1152 GiB",
+                "VCPU": "96",
+                "Instance": "ml.p4d.24xlarge"
+            }
+        },
+        "US East (Ohio)": {
+            "4j74H7rv2mJnnoFp48gsgG0rvUK14E3U-r3CVPC5-Wk": {
+                "rateCode": "V3V3VA7X3NRP76V9.JRTCKXETXF.6YS6EN2CT7",
+                "price": "36.1836000000",
+                "RegionlessRateCode": "4j74H7rv2mJnnoFp48gsgG0rvUK14E3U-r3CVPC5-Wk",
+                "Memory": "2 TiB",
+                "VCPU": "192",
+                "Instance": "ml.p5.48xlarge"
+            },
+            "D24pvjPIdmj_vDl2WbqzyOPp38GBP_UPjWPLUspqm9o": {
+                "rateCode": "F48U3EE8N8QHQNT6.JRTCKXETXF.6YS6EN2CT7",
+                "price": "41.1249200000",
+                "RegionlessRateCode": "D24pvjPIdmj_vDl2WbqzyOPp38GBP_UPjWPLUspqm9o",
+                "Memory": "2048 GiB",
+                "VCPU": "192",
+                "Instance": "ml.trn2.48xlarge"
+            },
+            "OC5Xj-H0GJULdCn1J91LiMbxJ89C0S7EiOM9c7qPJ6o": {
+                "rateCode": "4HHZZAQVVAVE3C6P.JRTCKXETXF.6YS6EN2CT7",
+                "price": "13.5700000000",
+                "RegionlessRateCode": "OC5Xj-H0GJULdCn1J91LiMbxJ89C0S7EiOM9c7qPJ6o",
+                "Memory": "1152 GiB",
+                "VCPU": "96",
+                "Instance": "ml.p4d.24xlarge"
+            },
+            "Pflf-2L93-D8c9rUPYTpWKvSEa5KuzPe34G5NGpS8y0": {
+                "rateCode": "SGB3PDYE6KFJVNEG.JRTCKXETXF.6YS6EN2CT7",
+                "price": "41.6116000000",
+                "RegionlessRateCode": "Pflf-2L93-D8c9rUPYTpWKvSEa5KuzPe34G5NGpS8y0",
+                "Memory": "2048 GiB",
+                "VCPU": "192",
+                "Instance": "ml.p5en.48xlarge"
+            },
+            "ghQvFMPrBWdugjdm6B2fGkTmhQugEondlio8TQUkeDY": {
+                "rateCode": "PDDYNCWBAAVX59E5.JRTCKXETXF.6YS6EN2CT7",
+                "price": "39.7992000000",
+                "RegionlessRateCode": "ghQvFMPrBWdugjdm6B2fGkTmhQugEondlio8TQUkeDY",
+                "Memory": "2 TiB",
+                "VCPU": "192",
+                "Instance": "ml.p5e.48xlarge"
+            }
+        },
+        "US East (N. Virginia)": {
+            "4j74H7rv2mJnnoFp48gsgG0rvUK14E3U-r3CVPC5-Wk": {
+                "rateCode": "GQV3TW6SUJCPKWWW.JRTCKXETXF.6YS6EN2CT7",
+                "price": "36.1836000000",
+                "RegionlessRateCode": "4j74H7rv2mJnnoFp48gsgG0rvUK14E3U-r3CVPC5-Wk",
+                "Memory": "2 TiB",
+                "VCPU": "192",
+                "Instance": "ml.p5.48xlarge"
+            }
+        },
+        "Asia Pacific (Tokyo)": {
+            "4j74H7rv2mJnnoFp48gsgG0rvUK14E3U-r3CVPC5-Wk": {
+                "rateCode": "39K6Z2H65SVKAPQF.JRTCKXETXF.6YS6EN2CT7",
+                "price": "45.3376000000",
+                "RegionlessRateCode": "4j74H7rv2mJnnoFp48gsgG0rvUK14E3U-r3CVPC5-Wk",
+                "Memory": "2 TiB",
+                "VCPU": "192",
+                "Instance": "ml.p5.48xlarge"
+            }
+        },
+        "Asia Pacific (Melbourne)": {
+            "1ocddvXSqf6HhuqvUJ0fGM83hihPA3F2Wqq9aYjSxro": {
+                "rateCode": "3KYCZCYQ69JSDD4E.JRTCKXETXF.6YS6EN2CT7",
+                "price": "14.2508000000",
+                "RegionlessRateCode": "1ocddvXSqf6HhuqvUJ0fGM83hihPA3F2Wqq9aYjSxro",
+                "Memory": "512 GiB",
+                "VCPU": "",
+                "Instance": "ml.trn1.32xlarge"
+            }
+        }
+    }
+}

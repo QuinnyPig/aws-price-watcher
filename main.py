@@ -153,6 +153,14 @@ STATIC_PRICING = [
     {
         "service": "rds-proxy",
         "pricing_url": "https://b0.p.awsstatic.com/pricing/2.0/meteredUnitMaps/rds/USD/current/rds-proxy.json"
+    },
+    {
+        "service": "sagemaker-training-plan",
+        "pricing_url": "https://b0.p.awsstatic.com/pricing/2.0/meteredUnitMaps/sagemaker/USD/current/sagemaker-training-plan.json"
+    },
+    {
+        "service": "sagemaker-instances-studionotebook",
+        "pricing_url": "https://b0.p.awsstatic.com/pricing/2.0/meteredUnitMaps/sagemaker/USD/current/sagemaker-instances-studionotebook.json"
     }
 ]
 
@@ -234,6 +242,8 @@ if service_list:
     sanitized_service_names.append("rds-sqlserver-ondemand")
     sanitized_service_names.append("rds-flex-ondemand")
     sanitized_service_names.append("rds-proxy")
+    sanitized_service_names.append("sagemaker-training-plan")
+    sanitized_service_names.append("sagemaker-instances-studionotebook")
     
     for sanitized_service_name in sanitized_service_names:
         pricing_url = "https://b0.p.awsstatic.com/pricing/2.0/meteredUnitMaps/{}/USD/current/{}.json".format(sanitized_service_name, sanitized_service_name)
