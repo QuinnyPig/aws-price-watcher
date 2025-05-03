@@ -109,6 +109,50 @@ STATIC_PRICING = [
     {
         "service": "ecrpublic",
         "skip": True
+    },
+    {
+        "service": "rds-storage",
+        "pricing_url": "https://b0.p.awsstatic.com/pricing/2.0/meteredUnitMaps/rds/USD/current/rds-storage.json"
+    },
+    {
+        "service": "rds-aurora-storage",
+        "pricing_url": "https://b0.p.awsstatic.com/pricing/2.0/meteredUnitMaps/rds/USD/current/rds-aurora-storage.json"
+    },
+    {
+        "service": "rds-aurora-ondemand",
+        "pricing_url": "https://b0.p.awsstatic.com/pricing/2.0/meteredUnitMaps/rds/USD/current/rds-aurora-ondemand.json"
+    },
+    {
+        "service": "rds-db2-ondemand",
+        "pricing_url": "https://b0.p.awsstatic.com/pricing/2.0/meteredUnitMaps/rds/USD/current/rds-db2-ondemand.json"
+    },
+    {
+        "service": "rds-mysql-ondemand",
+        "pricing_url": "https://b0.p.awsstatic.com/pricing/2.0/meteredUnitMaps/rds/USD/current/rds-mysql-ondemand.json"
+    },
+    {
+        "service": "rds-postgresql-ondemand",
+        "pricing_url": "https://b0.p.awsstatic.com/pricing/2.0/meteredUnitMaps/rds/USD/current/rds-postgresql-ondemand.json"
+    },
+    {
+        "service": "rds-oracle-ondemand",
+        "pricing_url": "https://b0.p.awsstatic.com/pricing/2.0/meteredUnitMaps/rds/USD/current/rds-oracle-ondemand.json"
+    },
+    {
+        "service": "rds-mariadb-ondemand",
+        "pricing_url": "https://b0.p.awsstatic.com/pricing/2.0/meteredUnitMaps/rds/USD/current/rds-mariadb-ondemand.json"
+    },
+    {
+        "service": "rds-sqlserver-ondemand",
+        "pricing_url": "https://b0.p.awsstatic.com/pricing/2.0/meteredUnitMaps/rds/USD/current/rds-sqlserver-ondemand.json"
+    },
+    {
+        "service": "rds-flex-ondemand",
+        "pricing_url": "https://b0.p.awsstatic.com/pricing/2.0/meteredUnitMaps/rds/USD/current/rds-flex-ondemand.json"
+    },
+    {
+        "service": "rds-proxy",
+        "pricing_url": "https://b0.p.awsstatic.com/pricing/2.0/meteredUnitMaps/rds/USD/current/rds-proxy.json"
     }
 ]
 
@@ -173,8 +217,25 @@ if service_list:
     except json.JSONDecodeError as e:
         print("Error decoding JSON: {}".format(e))
 
+    sanitized_service_names = []
     for service in service_list_obj["offers"].keys():
         sanitized_service_name = service.lower().removeprefix("amazon").removeprefix("aws")
+        sanitized_service_names.append(sanitized_service_name)
+
+    sanitized_service_names.remove("rds")
+    sanitized_service_names.append("rds-storage")
+    sanitized_service_names.append("rds-aurora-storage")
+    sanitized_service_names.append("rds-aurora-ondemand")
+    sanitized_service_names.append("rds-db2-ondemand")
+    sanitized_service_names.append("rds-mysql-ondemand")
+    sanitized_service_names.append("rds-postgresql-ondemand")
+    sanitized_service_names.append("rds-oracle-ondemand")
+    sanitized_service_names.append("rds-mariadb-ondemand")
+    sanitized_service_names.append("rds-sqlserver-ondemand")
+    sanitized_service_names.append("rds-flex-ondemand")
+    sanitized_service_names.append("rds-proxy")
+    
+    for sanitized_service_name in sanitized_service_names:
         pricing_url = "https://b0.p.awsstatic.com/pricing/2.0/meteredUnitMaps/{}/USD/current/{}.json".format(sanitized_service_name, sanitized_service_name)
         skip_service = False
         for static_service in STATIC_PRICING:
@@ -193,7 +254,7 @@ if service_list:
 
             save_file("raw/{}.json".format(sanitized_service_name), json.dumps(contents_obj, indent=4))
 
-            if service == "AWSDirectConnect":
+            if sanitized_service_name == "directconnect":
                 contents_obj["sets"] = {} # special case: poor sets allocation
 
             processed_contents = {}
@@ -202,7 +263,7 @@ if service_list:
                     if code_name not in contents_obj["regions"][region_name]: # already captured
                         continue
 
-                    #print(service, region_name, code_name)
+                    #print(sanitized_service_name, region_name, code_name)
                     if "RegionlessRateCode" in contents_obj["regions"][region_name][code_name] and contents_obj["regions"][region_name][code_name]["RegionlessRateCode"] == code_name:
                         continue
 
@@ -242,14 +303,14 @@ if service_list:
                             #]
                         else:
                             pass
-                            #print("Outlier: ", service, region_name, code_name)
+                            #print("Outlier: ", sanitized_service_name, region_name, code_name)
                     
                     modified_region_name = modify_region_name(region_name, contents_obj["regions"][region_name][code_name])
 
                     if modified_region_name not in processed_contents[modified_code_name]:
                         processed_contents[modified_code_name][modified_region_name] = contents_obj["regions"][region_name][code_name]["price"]
                     elif processed_contents[modified_code_name][modified_region_name] != contents_obj["regions"][region_name][code_name]["price"]:
-                        print("WARNING: Found existing and conflicting price for {} {} {}".format(service, modified_code_name, modified_region_name))
+                        print("WARNING: Found existing and conflicting price for {} {} {}".format(sanitized_service_name, modified_code_name, modified_region_name))
                         processed_contents[modified_code_name][modified_region_name] += ";" + contents_obj["regions"][region_name][code_name]["price"]
 
             # remove optional set names

@@ -82,7 +82,6 @@
 - vmwarecloudonaws
 - endusermessaging3pfees
 - ingestionservicesnowball
-- rds
 - chimedialinamcs
 - outposts
 - appstudio
