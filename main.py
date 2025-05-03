@@ -105,6 +105,10 @@ STATIC_PRICING = [
     {
         "service": "honeycode",
         "skip": True
+    },
+    {
+        "service": "ecrpublic",
+        "skip": True
     }
 ]
 
