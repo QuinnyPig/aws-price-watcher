@@ -3,13 +3,104 @@ import json
 import datetime
 
 STATIC_PRICING = [
+    # {
+    #     "service": "contactlensamazonconnect",
+    #     "url": "https://aws.amazon.com/connect/pricing/",
+    #     "dimensions": [
+    #         {
+    #             "selector": "#Amazon_Connect_with_unlimited_AI ~ div.lb-tbl > table > tbody > tr:nth-child(n+2) > td:nth-child(2)",
+    #             "type": "metric",
+    #             "title_prefix_selector": "#Amazon_Connect_with_unlimited_AI",
+    #             "name_selector": "#Amazon_Connect_with_unlimited_AI ~ div.lb-tbl > table > tbody > tr:nth-child(n+2) > td:nth-child(1)",
+    #             "regex": "^\\$?([0-9.]+)"
+    #         },
+    #         {
+    #             "selector": "",
+    #             "type": "metric",
+    #             "title_prefix_selector": "#Amazon_Connect_with_individual_features + div > div > div > p > b",
+    #             "name_selector": "#Amazon_Connect_with_unlimited_AI ~ div.lb-tbl > table > tbody > tr:nth-child(n+2) > td:nth-child(1)",
+    #             "regex": "^\\$?([0-9.]+)"
+    #         }
+    #     ]
+    # },
     {
-        "service": "contactlensamazonconnect",
-        "url": "https://aws.amazon.com/connect/pricing/"
+        "service": "m2",
+        "url": "https://aws.amazon.com/mainframe-modernization/pricing/",
+        "dimensions": [
+            {
+                "master_selector": "#On-demand_pricing ~ div.lb-tbl",
+                "selector": "table > tbody > tr:nth-child(n+1) > td:nth-child(2) > p",
+                "unit_selector": "table > tbody > tr:nth-child(n+1) > td:nth-child(2) > p",
+                "type": "metric",
+                "title_prefix_selector": "#On-demand_pricing ~ div.lb-rtxt > p > b",
+                "name_selector": "table > tbody > tr:nth-child(n+1) > td:nth-child(1) > p",
+                "regex": "^\\$?([0-9.]+)",
+                "unit_regex": "[pP]er (.+)"
+            }
+        ]
     },
     {
         "service": "simspaceweaver",
         "pricing_url": "https://b0.p.awsstatic.com/pricing/2.0/meteredUnitMaps/simspaceweaver/USD/current/simspaceweaver-instances.json"
+    },
+    {
+        "service": "memorydb",
+        "pricing_url": "https://b0.p.awsstatic.com/pricing/2.0/meteredUnitMaps/memorydb/USD/current/memorydb-instance.json"
+    },
+    {
+        "service": "private5g",
+        "url": "https://aws.amazon.com/private5g/pricing/",
+        "prereqs": [
+            {
+                "selector": "#Pricing + div > table > tbody > tr:nth-child(1) > td:nth-child(1) > b",
+                "expected_value": "Name"
+            },
+            {
+                "selector": "#Pricing + div > table > tbody > tr:nth-child(1) > td:nth-child(2) > b",
+                "expected_value": "60-day commitment and post commitment"
+            },
+            {
+                "selector": "#Pricing + div > table > tbody > tr:nth-child(1) > td:nth-child(3) > b",
+                "expected_value": "1-year commitment"
+            },
+            {
+                "selector": "#Pricing + div > table > tbody > tr:nth-child(1) > td:nth-child(4) > b",
+                "expected_value": "3-year commitment"
+            },
+            {
+                "selector": "#Pricing + div > table > tbody > tr:nth-child(1) > td:nth-child(4) > b",
+                "expected_value": "Regions"
+            }
+        ],
+        "dimensions": [
+            {
+                "selector": "#Pricing + div > table > tbody > tr:nth-child(2) > td:nth-child(2) > b",
+                "type": "metric",
+                "name": "60-day commitment and post commitment",
+                "name_prefix_selector": "#Pricing + div > table > tbody > tr:nth-child(2) > td:nth-child(1) > b",
+                "region_list_selector": "#Pricing + div > table > tbody > tr:nth-child(2) > td:nth-child(5) > b",
+                "unit": "hour",
+                "regex": "^\\$?([0-9.]+)"
+            },
+            {
+                "selector": "#Pricing + div > table > tbody > tr:nth-child(2) > td:nth-child(3) > b",
+                "type": "metric",
+                "name": "1-year commitment",
+                "name_prefix_selector": "#Pricing + div > table > tbody > tr:nth-child(2) > td:nth-child(1) > b",
+                "region_list_selector": "#Pricing + div > table > tbody > tr:nth-child(2) > td:nth-child(5) > b",
+                "unit": "hour",
+                "regex": "^\\$?([0-9.]+)"
+            },
+            {
+                "selector": "#Pricing + div > table > tbody > tr:nth-child(2) > td:nth-child(4) > b",
+                "type": "metric",
+                "name": "3-year commitment",
+                "name_prefix_selector": "#Pricing + div > table > tbody > tr:nth-child(2) > td:nth-child(1) > b",
+                "region_list_selector": "#Pricing + div > table > tbody > tr:nth-child(2) > td:nth-child(5) > b",
+                "unit": "hour",
+                "regex": "^\\$?([0-9.]+)"
+            }
+        ]
     }
 ]
 
