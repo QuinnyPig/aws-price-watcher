@@ -1,6 +1,7 @@
 import requests
 import json
 import datetime
+import time
 
 STATIC_PRICING = [
     # {
@@ -161,6 +162,10 @@ STATIC_PRICING = [
     {
         "service": "sagemaker-instances-studionotebook",
         "pricing_url": "https://b0.p.awsstatic.com/pricing/2.0/meteredUnitMaps/sagemaker/USD/current/sagemaker-instances-studionotebook.json"
+    },
+    {
+        "service": "carrierip",
+        "pricing_url": "https://b0.p.awsstatic.com/pricing/2.0/meteredUnitMaps/ec2/USD/current/carrierip.json"
     }
 ]
 
@@ -244,9 +249,10 @@ if service_list:
     sanitized_service_names.append("rds-proxy")
     sanitized_service_names.append("sagemaker-training-plan")
     sanitized_service_names.append("sagemaker-instances-studionotebook")
+    sanitized_service_names.append("carrierip")
     
     for sanitized_service_name in sanitized_service_names:
-        pricing_url = "https://b0.p.awsstatic.com/pricing/2.0/meteredUnitMaps/{}/USD/current/{}.json".format(sanitized_service_name, sanitized_service_name)
+        pricing_url = "https://b0.p.awsstatic.com/pricing/2.0/meteredUnitMaps/{}/USD/current/{}.json?timestamp={}".format(sanitized_service_name, sanitized_service_name, str(int(time.time())))
         skip_service = False
         for static_service in STATIC_PRICING:
             if static_service["service"] == sanitized_service_name and "pricing_url" in static_service:
