@@ -1,3 +1,15 @@
+## 2025-05-05 17:25
+
+**Modified services:**
+
+- [elasticmapreduce](processed/elasticmapreduce.json)
+  - Region added for metric Instance-instancetype-i4g.16xlarge: South America (Sao Paulo) 🌎
+  - Region added for metric Instance-instancetype-i4g.xlarge: South America (Sao Paulo) 🌎
+  - Region added for metric Instance-instancetype-i4g.2xlarge: South America (Sao Paulo) 🌎
+  - Region added for metric Instance-instancetype-i4g.4xlarge: South America (Sao Paulo) 🌎
+  - Region added for metric Instance-instancetype-i4g.8xlarge: South America (Sao Paulo) 🌎
+
+
 ## 2025-05-01 23:46
 
 **Modified services:**
