@@ -1,3 +1,411 @@
+## 2025-05-05 18:28
+
+**Modified services:**
+
+- [datatransfer](processed/datatransfer.json)
+  - Region added for metric DataTransfer External Inbound: US East (Lenexa) 🌎
+  - Region added for metric DataTransfer External Outbound Next 10 TB: US East (Lenexa) (StartingRange: 0, EndingRange: 10240) 🌎
+  - Region added for metric DataTransfer External Outbound Next 40 TB: US East (Lenexa) (StartingRange: 10240, EndingRange: 51200) 🌎
+  - Region added for metric DataTransfer External Outbound Greater than 150 TB: US East (Lenexa) (StartingRange: 153600, EndingRange: Inf) 🌎
+  - Region added for metric DataTransfer External Outbound Next 100 TB: US East (Lenexa) (StartingRange: 51200, EndingRange: 153600) 🌎
+  - Region added for metric DataTransfer External Carrier Outbound Next 10 TB: US East (Lenexa) (StartingRange: 0, EndingRange: 10240) 🌎
+  - Region added for metric DataTransfer External Carrier Outbound Next 40 TB: US East (Lenexa) (StartingRange: 10240, EndingRange: 51200) 🌎
+  - Region added for metric DataTransfer External Carrier Outbound Greater than 150 TB: US East (Lenexa) (StartingRange: 153600, EndingRange: Inf) 🌎
+  - Region added for metric DataTransfer External Carrier Outbound Next 100 TB: US East (Lenexa) (StartingRange: 51200, EndingRange: 153600) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to AWS GovCloud US: US East (Lenexa) (To Location: AWS GovCloud (US)) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to AWS GovCloud US-East: US East (Lenexa) (To Location: AWS GovCloud (US-East)) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to Africa Cape Town: US East (Lenexa) (To Location: Africa (Cape Town)) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to Asia Pacific Hong Kong: US East (Lenexa) (To Location: Asia Pacific (Hong Kong)) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to Asia Pacific Hyderabad: US East (Lenexa) (To Location: Asia Pacific (Hyderabad)) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to Asia Pacific Jakarta: US East (Lenexa) (To Location: Asia Pacific (Jakarta)) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to Asia Pacific Malaysia: US East (Lenexa) (To Location: Asia Pacific (Malaysia)) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to Asia Pacific Melbourne: US East (Lenexa) (To Location: Asia Pacific (Melbourne)) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to Asia Pacific Mumbai: US East (Lenexa) (To Location: Asia Pacific (Mumbai)) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to Asia Pacific Osaka: US East (Lenexa) (To Location: Asia Pacific (Osaka)) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to Asia Pacific Seoul: US East (Lenexa) (To Location: Asia Pacific (Seoul)) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to Asia Pacific Singapore: US East (Lenexa) (To Location: Asia Pacific (Singapore)) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to Asia Pacific Sydney: US East (Lenexa) (To Location: Asia Pacific (Sydney)) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to Asia Pacific Thailand: US East (Lenexa) (To Location: Asia Pacific (Thailand)) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to Asia Pacific Tokyo: US East (Lenexa) (To Location: Asia Pacific (Tokyo)) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to Canada Central: US East (Lenexa) (To Location: Canada (Central)) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to Canada West Calgary: US East (Lenexa) (To Location: Canada West (Calgary)) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to EU Frankfurt: US East (Lenexa) (To Location: EU (Frankfurt)) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to EU Ireland: US East (Lenexa) (To Location: EU (Ireland)) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to EU London: US East (Lenexa) (To Location: EU (London)) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to EU Milan: US East (Lenexa) (To Location: EU (Milan)) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to EU Paris: US East (Lenexa) (To Location: EU (Paris)) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to EU Spain: US East (Lenexa) (To Location: EU (Spain)) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to EU Stockholm: US East (Lenexa) (To Location: EU (Stockholm)) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to EU Zurich: US East (Lenexa) (To Location: EU (Zurich)) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to Israel Tel Aviv: US East (Lenexa) (To Location: Israel (Tel Aviv)) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to Mexico Central: US East (Lenexa) (To Location: Mexico (Central)) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to Middle East Bahrain: US East (Lenexa) (To Location: Middle East (Bahrain)) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to Middle East UAE: US East (Lenexa) (To Location: Middle East (UAE)) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to Senegal Dakar: US East (Lenexa) (To Location: Senegal (Dakar)) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to South America Sao Paulo: US East (Lenexa) (To Location: South America (Sao Paulo)) 🌎
+  - Billing metric added: DataTransfer InterRegion Outbound to US East Lenexa 💡
+  - Region added for metric DataTransfer InterRegion Outbound to US East N Virginia: US East (Lenexa) (To Location: US East (N. Virginia)) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to US East Ohio: US East (Lenexa) (To Location: US East (Ohio)) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to US East Verizon - Atlanta: US East (Lenexa) (To Location: US East (Verizon) - Atlanta) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to US East Verizon - Nashville: US East (Lenexa) (To Location: US East (Verizon) - Nashville) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to US West N California: US East (Lenexa) (To Location: US West (N. California)) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to Asia Pacific KDDI - Osaka: US East (Lenexa) (To Location: Asia Pacific (KDDI) - Osaka) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to Asia Pacific KDDI - Tokyo: US East (Lenexa) (To Location: Asia Pacific (KDDI) - Tokyo) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to Asia Pacific SKT - Daejeon: US East (Lenexa) (To Location: Asia Pacific (SKT) - Daejeon) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to Asia Pacific SKT - Seoul: US East (Lenexa) (To Location: Asia Pacific (SKT) - Seoul) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to Canada BELL - Toronto: US East (Lenexa) (To Location: Canada (BELL) - Toronto) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to EU British Telecom - Manchester: US East (Lenexa) (To Location: EU (British Telecom) - Manchester) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to EU Vodafone - London: US East (Lenexa) (To Location: EU (Vodafone) - London) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to EU Vodafone - Manchester: US East (Lenexa) (To Location: EU (Vodafone) - Manchester) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to US East Verizon - Charlotte: US East (Lenexa) (To Location: US East (Verizon) - Charlotte) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to US West Verizon - Los Angeles: US East (Lenexa) (To Location: US West (Verizon) - Los Angeles) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to AWS GovCloud US;Cloudfrontless DataTransfer InterRegion Outbound to AWS GovCloud US;Cloudfrontless DataTransfer InterRegion Outbound to AWS GovCloud US No Wavelength;Backup DataTransfer InterRegion Outbound to AWS GovCloud US;RDS DataTransfer InterRegion Outbound to AWS GovCloud US: US East (Lenexa) (To Location: AWS GovCloud (US)) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to AWS GovCloud US-East;Cloudfrontless DataTransfer InterRegion Outbound to AWS GovCloud US-East;Cloudfrontless DataTransfer InterRegion Outbound to AWS GovCloud US-East No Wavelength;Backup DataTransfer InterRegion Outbound to AWS GovCloud US-East;RDS DataTransfer InterRegion Outbound to AWS GovCloud US-East: US East (Lenexa) (To Location: AWS GovCloud (US-East)) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Africa Cape Town;Cloudfrontless DataTransfer InterRegion Outbound to Africa Cape Town;Cloudfrontless DataTransfer InterRegion Outbound to Africa Cape Town No Wavelength;Backup DataTransfer InterRegion Outbound to Africa Cape Town;RDS DataTransfer InterRegion Outbound to Africa Cape Town: US East (Lenexa) (To Location: Africa (Cape Town)) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Asia Pacific Hong Kong;Cloudfrontless DataTransfer InterRegion Outbound to Asia Pacific Hong Kong;Cloudfrontless DataTransfer InterRegion Outbound to Asia Pacific Hong Kong No Wavelength;Backup DataTransfer InterRegion Outbound to Asia Pacific Hong Kong;RDS DataTransfer InterRegion Outbound to Asia Pacific Hong Kong: US East (Lenexa) (To Location: Asia Pacific (Hong Kong)) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Asia Pacific Hyderabad;Cloudfrontless DataTransfer InterRegion Outbound to Asia Pacific Hyderabad;Cloudfrontless DataTransfer InterRegion Outbound to Asia Pacific Hyderabad No Wavelength;Backup DataTransfer InterRegion Outbound to Asia Pacific Hyderabad;RDS DataTransfer InterRegion Outbound to Asia Pacific Hyderabad: US East (Lenexa) (To Location: Asia Pacific (Hyderabad)) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Asia Pacific Jakarta;Cloudfrontless DataTransfer InterRegion Outbound to Asia Pacific Jakarta;Cloudfrontless DataTransfer InterRegion Outbound to Asia Pacific Jakarta No Wavelength;Backup DataTransfer InterRegion Outbound to Asia Pacific Jakarta;RDS DataTransfer InterRegion Outbound to Asia Pacific Jakarta: US East (Lenexa) (To Location: Asia Pacific (Jakarta)) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Asia Pacific Malaysia;Cloudfrontless DataTransfer InterRegion Outbound to Asia Pacific Malaysia;Cloudfrontless DataTransfer InterRegion Outbound to Asia Pacific Malaysia No Wavelength;Backup DataTransfer InterRegion Outbound to Asia Pacific Malaysia;RDS DataTransfer InterRegion Outbound to Asia Pacific Malaysia: US East (Lenexa) (To Location: Asia Pacific (Malaysia)) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Asia Pacific Melbourne;Cloudfrontless DataTransfer InterRegion Outbound to Asia Pacific Melbourne;Cloudfrontless DataTransfer InterRegion Outbound to Asia Pacific Melbourne No Wavelength;Backup DataTransfer InterRegion Outbound to Asia Pacific Melbourne;RDS DataTransfer InterRegion Outbound to Asia Pacific Melbourne: US East (Lenexa) (To Location: Asia Pacific (Melbourne)) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Asia Pacific Mumbai;Cloudfrontless DataTransfer InterRegion Outbound to Asia Pacific Mumbai;Cloudfrontless DataTransfer InterRegion Outbound to Asia Pacific Mumbai No Wavelength;Backup DataTransfer InterRegion Outbound to Asia Pacific Mumbai;RDS DataTransfer InterRegion Outbound to Asia Pacific Mumbai: US East (Lenexa) (To Location: Asia Pacific (Mumbai)) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Asia Pacific Osaka;Cloudfrontless DataTransfer InterRegion Outbound to Asia Pacific Osaka;Cloudfrontless DataTransfer InterRegion Outbound to Asia Pacific Osaka No Wavelength;Backup DataTransfer InterRegion Outbound to Asia Pacific Osaka;RDS DataTransfer InterRegion Outbound to Asia Pacific Osaka: US East (Lenexa) (To Location: Asia Pacific (Osaka)) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Asia Pacific Seoul;Cloudfrontless DataTransfer InterRegion Outbound to Asia Pacific Seoul;Cloudfrontless DataTransfer InterRegion Outbound to Asia Pacific Seoul No Wavelength;Backup DataTransfer InterRegion Outbound to Asia Pacific Seoul;RDS DataTransfer InterRegion Outbound to Asia Pacific Seoul: US East (Lenexa) (To Location: Asia Pacific (Seoul)) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Asia Pacific Singapore;Cloudfrontless DataTransfer InterRegion Outbound to Asia Pacific Singapore;Cloudfrontless DataTransfer InterRegion Outbound to Asia Pacific Singapore No Wavelength;Backup DataTransfer InterRegion Outbound to Asia Pacific Singapore;RDS DataTransfer InterRegion Outbound to Asia Pacific Singapore: US East (Lenexa) (To Location: Asia Pacific (Singapore)) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Asia Pacific Sydney;Cloudfrontless DataTransfer InterRegion Outbound to Asia Pacific Sydney;Cloudfrontless DataTransfer InterRegion Outbound to Asia Pacific Sydney No Wavelength;Backup DataTransfer InterRegion Outbound to Asia Pacific Sydney;RDS DataTransfer InterRegion Outbound to Asia Pacific Sydney: US East (Lenexa) (To Location: Asia Pacific (Sydney)) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Asia Pacific Thailand;Cloudfrontless DataTransfer InterRegion Outbound to Asia Pacific Thailand;Cloudfrontless DataTransfer InterRegion Outbound to Asia Pacific Thailand No Wavelength;Backup DataTransfer InterRegion Outbound to Asia Pacific Thailand;RDS DataTransfer InterRegion Outbound to Asia Pacific Thailand: US East (Lenexa) (To Location: Asia Pacific (Thailand)) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Asia Pacific Tokyo;Cloudfrontless DataTransfer InterRegion Outbound to Asia Pacific Tokyo;Cloudfrontless DataTransfer InterRegion Outbound to Asia Pacific Tokyo No Wavelength;Backup DataTransfer InterRegion Outbound to Asia Pacific Tokyo;RDS DataTransfer InterRegion Outbound to Asia Pacific Tokyo: US East (Lenexa) (To Location: Asia Pacific (Tokyo)) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Canada Central;Cloudfrontless DataTransfer InterRegion Outbound to Canada Central;Cloudfrontless DataTransfer InterRegion Outbound to Canada Central No Wavelength;Backup DataTransfer InterRegion Outbound to Canada Central;RDS DataTransfer InterRegion Outbound to Canada Central: US East (Lenexa) (To Location: Canada (Central)) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Canada West Calgary;Cloudfrontless DataTransfer InterRegion Outbound to Canada West Calgary;Cloudfrontless DataTransfer InterRegion Outbound to Canada West Calgary No Wavelength;Backup DataTransfer InterRegion Outbound to Canada West Calgary;RDS DataTransfer InterRegion Outbound to Canada West Calgary: US East (Lenexa) (To Location: Canada West (Calgary)) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to EU Frankfurt;Cloudfrontless DataTransfer InterRegion Outbound to EU Frankfurt;Cloudfrontless DataTransfer InterRegion Outbound to EU Frankfurt No Wavelength;Backup DataTransfer InterRegion Outbound to EU Frankfurt;RDS DataTransfer InterRegion Outbound to EU Frankfurt: US East (Lenexa) (To Location: EU (Frankfurt)) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to EU Ireland;Cloudfrontless DataTransfer InterRegion Outbound to EU Ireland;Cloudfrontless DataTransfer InterRegion Outbound to EU Ireland No Wavelength;Backup DataTransfer InterRegion Outbound to EU Ireland;RDS DataTransfer InterRegion Outbound to EU Ireland: US East (Lenexa) (To Location: EU (Ireland)) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to EU London;Cloudfrontless DataTransfer InterRegion Outbound to EU London;Cloudfrontless DataTransfer InterRegion Outbound to EU London No Wavelength;Backup DataTransfer InterRegion Outbound to EU London;RDS DataTransfer InterRegion Outbound to EU London: US East (Lenexa) (To Location: EU (London)) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to EU Milan;Cloudfrontless DataTransfer InterRegion Outbound to EU Milan;Cloudfrontless DataTransfer InterRegion Outbound to EU Milan No Wavelength;Backup DataTransfer InterRegion Outbound to EU Milan;RDS DataTransfer InterRegion Outbound to EU Milan: US East (Lenexa) (To Location: EU (Milan)) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to EU Paris;Cloudfrontless DataTransfer InterRegion Outbound to EU Paris;Cloudfrontless DataTransfer InterRegion Outbound to EU Paris No Wavelength;Backup DataTransfer InterRegion Outbound to EU Paris;RDS DataTransfer InterRegion Outbound to EU Paris: US East (Lenexa) (To Location: EU (Paris)) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to EU Spain;Cloudfrontless DataTransfer InterRegion Outbound to EU Spain;Cloudfrontless DataTransfer InterRegion Outbound to EU Spain No Wavelength;RDS DataTransfer InterRegion Outbound to EU Spain: US East (Lenexa) (To Location: EU (Spain)) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to EU Stockholm;Cloudfrontless DataTransfer InterRegion Outbound to EU Stockholm;Cloudfrontless DataTransfer InterRegion Outbound to EU Stockholm No Wavelength;Backup DataTransfer InterRegion Outbound to EU Stockholm;RDS DataTransfer InterRegion Outbound to EU Stockholm: US East (Lenexa) (To Location: EU (Stockholm)) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to EU Zurich;Cloudfrontless DataTransfer InterRegion Outbound to EU Zurich;Cloudfrontless DataTransfer InterRegion Outbound to EU Zurich No Wavelength;RDS DataTransfer InterRegion Outbound to EU Zurich: US East (Lenexa) (To Location: EU (Zurich)) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Israel Tel Aviv;Cloudfrontless DataTransfer InterRegion Outbound to Israel Tel Aviv;Cloudfrontless DataTransfer InterRegion Outbound to Israel Tel Aviv No Wavelength;Backup DataTransfer InterRegion Outbound to Israel Tel Aviv;RDS DataTransfer InterRegion Outbound to Israel Tel Aviv: US East (Lenexa) (To Location: Israel (Tel Aviv)) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Mexico Central;Cloudfrontless DataTransfer InterRegion Outbound to Mexico Central;Cloudfrontless DataTransfer InterRegion Outbound to Mexico Central No Wavelength;Backup DataTransfer InterRegion Outbound to Mexico Central;RDS DataTransfer InterRegion Outbound to Mexico Central: US East (Lenexa) (To Location: Mexico (Central)) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Middle East Bahrain;Cloudfrontless DataTransfer InterRegion Outbound to Middle East Bahrain;Cloudfrontless DataTransfer InterRegion Outbound to Middle East Bahrain No Wavelength;Backup DataTransfer InterRegion Outbound to Middle East Bahrain;RDS DataTransfer InterRegion Outbound to Middle East Bahrain: US East (Lenexa) (To Location: Middle East (Bahrain)) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Middle East UAE;Cloudfrontless DataTransfer InterRegion Outbound to Middle East UAE;Cloudfrontless DataTransfer InterRegion Outbound to Middle East UAE No Wavelength;RDS DataTransfer InterRegion Outbound to Middle East UAE: US East (Lenexa) (To Location: Middle East (UAE)) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to South America Sao Paulo;Cloudfrontless DataTransfer InterRegion Outbound to South America Sao Paulo;Cloudfrontless DataTransfer InterRegion Outbound to South America Sao Paulo No Wavelength;Backup DataTransfer InterRegion Outbound to South America Sao Paulo;RDS DataTransfer InterRegion Outbound to South America Sao Paulo: US East (Lenexa) (To Location: South America (Sao Paulo)) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to US East N Virginia;Cloudfrontless DataTransfer InterRegion Outbound to US East N Virginia;Cloudfrontless DataTransfer InterRegion Outbound to US East N Virginia No Wavelength;Backup DataTransfer InterRegion Outbound to US East N Virginia;RDS DataTransfer InterRegion Outbound to US East N Virginia: US East (Lenexa) (To Location: US East (N. Virginia)) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to US East Ohio;Cloudfrontless DataTransfer InterRegion Outbound to US East Ohio;Cloudfrontless DataTransfer InterRegion Outbound to US East Ohio No Wavelength;Backup DataTransfer InterRegion Outbound to US East Ohio;RDS DataTransfer InterRegion Outbound to US East Ohio: US East (Lenexa) (To Location: US East (Ohio)) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to US West N California;Cloudfrontless DataTransfer InterRegion Outbound to US West N California;Cloudfrontless DataTransfer InterRegion Outbound to US West N California No Wavelength;Backup DataTransfer InterRegion Outbound to US West N California;RDS DataTransfer InterRegion Outbound to US West N California: US East (Lenexa) (To Location: US West (N. California)) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Asia Pacific KDDI - Osaka;Cloudfrontless DataTransfer InterRegion Outbound to Asia Pacific KDDI - Osaka: US East (Lenexa) (To Location: Asia Pacific (KDDI) - Osaka) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Asia Pacific KDDI - Tokyo;Cloudfrontless DataTransfer InterRegion Outbound to Asia Pacific KDDI - Tokyo: US East (Lenexa) (To Location: Asia Pacific (KDDI) - Tokyo) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Asia Pacific SKT - Daejeon;Cloudfrontless DataTransfer InterRegion Outbound to Asia Pacific SKT - Daejeon: US East (Lenexa) (To Location: Asia Pacific (SKT) - Daejeon) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Asia Pacific SKT - Seoul;Cloudfrontless DataTransfer InterRegion Outbound to Asia Pacific SKT - Seoul: US East (Lenexa) (To Location: Asia Pacific (SKT) - Seoul) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Canada BELL - Toronto;Cloudfrontless DataTransfer InterRegion Outbound to Canada BELL - Toronto: US East (Lenexa) (To Location: Canada (BELL) - Toronto) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to EU British Telecom - Manchester;Cloudfrontless DataTransfer InterRegion Outbound to EU British Telecom - Manchester: US East (Lenexa) (To Location: EU (British Telecom) - Manchester) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to EU Vodafone - London;Cloudfrontless DataTransfer InterRegion Outbound to EU Vodafone - London: US East (Lenexa) (To Location: EU (Vodafone) - London) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to EU Vodafone - Manchester;Cloudfrontless DataTransfer InterRegion Outbound to EU Vodafone - Manchester: US East (Lenexa) (To Location: EU (Vodafone) - Manchester) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Senegal Dakar;Cloudfrontless DataTransfer InterRegion Outbound to Senegal Dakar: US East (Lenexa) (To Location: Senegal (Dakar)) 🌎
+  - Billing metric added: [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to US East Lenexa;Cloudfrontless DataTransfer InterRegion Outbound to US East Lenexa 💡
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to US East Verizon - Atlanta;Cloudfrontless DataTransfer InterRegion Outbound to US East Verizon - Atlanta: US East (Lenexa) (To Location: US East (Verizon) - Atlanta) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to US East Verizon - Charlotte;Cloudfrontless DataTransfer InterRegion Outbound to US East Verizon - Charlotte: US East (Lenexa) (To Location: US East (Verizon) - Charlotte) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to US East Verizon - Nashville;Cloudfrontless DataTransfer InterRegion Outbound to US East Verizon - Nashville: US East (Lenexa) (To Location: US East (Verizon) - Nashville) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to US West Verizon - Los Angeles;Cloudfrontless DataTransfer InterRegion Outbound to US West Verizon - Los Angeles: US East (Lenexa) (To Location: US West (Verizon) - Los Angeles) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US West (Verizon) - Seattle (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US West (Verizon) - San Francisco Bay Area (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US West (Verizon) - Phoenix (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US West (Verizon) - Los Angeles (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US West (Verizon) - Las Vegas (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US West (Verizon) - Denver (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US West (Seattle) (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US West (Portland) (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US West (Phoenix) (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US West (Oregon) (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US West (N. California) (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US West (Los Angeles) (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US West (Las Vegas) (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US West (Honolulu) (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US West (Denver) (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Verizon) - Washington DC (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Verizon) - Tampa (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Verizon) - New York (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Verizon) - Nashville (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Verizon) - Minneapolis (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Verizon) - Miami (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Verizon) - Houston (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Verizon) - Detroit (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Verizon) - Dallas (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Verizon) - Chicago (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Verizon) - Charlotte (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Verizon) - Boston (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Verizon) - Atlanta (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Philadelphia) (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Ohio) (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (New York City) (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (N. Virginia) (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Minneapolis) (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Miami) (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: AWS GovCloud (US)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: AWS GovCloud (US-East)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: Africa (Cape Town)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: Asia Pacific (Hong Kong)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: Asia Pacific (Hyderabad)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: Asia Pacific (Jakarta)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: Asia Pacific (Malaysia)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: Asia Pacific (Melbourne)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: Asia Pacific (Mumbai)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: Asia Pacific (Osaka)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: Asia Pacific (Seoul)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: Asia Pacific (Singapore)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: Asia Pacific (Sydney)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: Asia Pacific (Thailand)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: Asia Pacific (Tokyo)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: Canada (Central)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: Canada West (Calgary)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: EU (Frankfurt)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: EU (Ireland)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: EU (London)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: EU (Milan)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: EU (Paris)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: EU (Spain)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: EU (Stockholm)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: EU (Zurich)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: Israel (Tel Aviv)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: Mexico (Central)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: Middle East (Bahrain)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: Middle East (UAE)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: South America (Sao Paulo)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: US East (N. Virginia)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: US East (Ohio)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: US East (Verizon) - Tampa) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: US West (Los Angeles)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: US West (N. California)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: US West (Oregon)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: Asia Pacific (KDDI) - Osaka) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: Asia Pacific (KDDI) - Tokyo) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: Asia Pacific (SKT) - Daejeon) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: Asia Pacific (SKT) - Seoul) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: Canada (BELL) - Toronto) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: EU (British Telecom) - Manchester) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: EU (Vodafone) - Berlin) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: EU (Vodafone) - Dortmund) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: EU (Vodafone) - London) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: EU (Vodafone) - Manchester) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: EU (Vodafone) - Munich) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: Morocco (Casablanca)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: Senegal (Dakar)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: US East (Verizon) - Atlanta) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: US East (Verizon) - Charlotte) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: US East (Verizon) - Nashville) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: US West (Verizon) - Denver) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: US West (Verizon) - Las Vegas) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: US West (Verizon) - Los Angeles) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: US West (Verizon) - Phoenix) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: US West (Verizon) - San Francisco Bay Area) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: US West (Verizon) - Seattle) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Kansas City 2) (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Houston) (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Dallas) (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Chicago) (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Boston) (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Atlanta) (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Thailand (Bangkok) (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Taiwan (Taipei) (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: South America (Sao Paulo) (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Senegal (Dakar) (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Poland (Warsaw) (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Philippines (Manila) (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Peru (Lima) (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Oman (Muscat) (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Nigeria (Lagos) (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: New Zealand (Auckland) (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Morocco (Casablanca) (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Middle East (UAE) (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Middle East (Bahrain) (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Mexico (Queretaro) (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Mexico (Central) (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Israel (Tel Aviv) (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: India (Kolkata) (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: India (Delhi) (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Germany (Hamburg) (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Finland (Helsinki) (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: EU (Zurich) (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: EU (Vodafone) - Munich (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: EU (Vodafone) - Manchester (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: EU (Vodafone) - London (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: EU (Vodafone) - Dortmund (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: EU (Vodafone) - Berlin (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: EU (Stockholm) (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: EU (Spain) (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: EU (Paris) (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: EU (Milan) (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: EU (London) (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: EU (Ireland) (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: EU (Frankfurt) (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: EU (British Telecom) - Manchester (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Denmark (Copenhagen) (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Chile (Santiago) (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Canada West (Calgary) (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Canada (Central) (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Canada (BELL) - Toronto (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Australia (Perth) (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Asia Pacific (Tokyo) (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Asia Pacific (Thailand) (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Asia Pacific (Sydney) (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Asia Pacific (Singapore) (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Asia Pacific (Seoul) (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Asia Pacific (SKT) - Seoul (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Asia Pacific (SKT) - Daejeon (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Asia Pacific (Osaka) (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Asia Pacific (Mumbai) (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Asia Pacific (Melbourne) (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Asia Pacific (Malaysia) (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Asia Pacific (KDDI) - Tokyo (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Asia Pacific (KDDI) - Osaka (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Asia Pacific (Jakarta) (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Asia Pacific (Hyderabad) (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Asia Pacific (Hong Kong) (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Argentina (Buenos Aires) (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Africa (Cape Town) (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: AWS GovCloud (US-East) (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: AWS GovCloud (US) (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: US East (Verizon) - Nashville (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: US East (Verizon) - Atlanta (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: US East (Lenexa) (To Location: AWS GovCloud (US)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: US East (Lenexa) (To Location: AWS GovCloud (US-East)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: US East (Lenexa) (To Location: Africa (Cape Town)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: US East (Lenexa) (To Location: Asia Pacific (Hong Kong)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: US East (Lenexa) (To Location: Asia Pacific (Hyderabad)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: US East (Lenexa) (To Location: Asia Pacific (Jakarta)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: US East (Lenexa) (To Location: Asia Pacific (Malaysia)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: US East (Lenexa) (To Location: Asia Pacific (Melbourne)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: US East (Lenexa) (To Location: Asia Pacific (Mumbai)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: US East (Lenexa) (To Location: Asia Pacific (Osaka)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: US East (Lenexa) (To Location: Asia Pacific (Seoul)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: US East (Lenexa) (To Location: Asia Pacific (Singapore)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: US East (Lenexa) (To Location: Asia Pacific (Sydney)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: US East (Lenexa) (To Location: Asia Pacific (Thailand)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: US East (Lenexa) (To Location: Asia Pacific (Tokyo)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: US East (Lenexa) (To Location: Canada (Central)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: US East (Lenexa) (To Location: Canada West (Calgary)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: US East (Lenexa) (To Location: EU (Frankfurt)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: US East (Lenexa) (To Location: EU (Ireland)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: US East (Lenexa) (To Location: EU (London)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: US East (Lenexa) (To Location: EU (Milan)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: US East (Lenexa) (To Location: EU (Paris)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: US East (Lenexa) (To Location: EU (Spain)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: US East (Lenexa) (To Location: EU (Stockholm)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: US East (Lenexa) (To Location: EU (Zurich)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: US East (Lenexa) (To Location: Israel (Tel Aviv)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: US East (Lenexa) (To Location: Mexico (Central)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: US East (Lenexa) (To Location: Middle East (Bahrain)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: US East (Lenexa) (To Location: Middle East (UAE)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: US East (Lenexa) (To Location: South America (Sao Paulo)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: US East (Lenexa) (To Location: US East (N. Virginia)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: US East (Lenexa) (To Location: US East (Ohio)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: US East (Lenexa) (To Location: US East (Verizon) - Tampa) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: US East (Lenexa) (To Location: US West (Los Angeles)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: US East (Lenexa) (To Location: US West (N. California)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: US East (Lenexa) (To Location: US West (Oregon)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: Asia Pacific (SKT) - Seoul (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: US East (Verizon) - Nashville (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: US East (Verizon) - Atlanta (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: AWS GovCloud (US)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: AWS GovCloud (US-East)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: Africa (Cape Town)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: Asia Pacific (Hong Kong)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: Asia Pacific (Hyderabad)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: Asia Pacific (Jakarta)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: Asia Pacific (Malaysia)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: Asia Pacific (Melbourne)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: Asia Pacific (Mumbai)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: Asia Pacific (Osaka)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: Asia Pacific (Seoul)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: Asia Pacific (Singapore)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: Asia Pacific (Sydney)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: Asia Pacific (Thailand)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: Asia Pacific (Tokyo)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: Canada (Central)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: Canada West (Calgary)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: EU (Frankfurt)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: EU (Ireland)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: EU (London)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: EU (Milan)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: EU (Paris)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: EU (Stockholm)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: Israel (Tel Aviv)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: Mexico (Central)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: Middle East (Bahrain)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: South America (Sao Paulo)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: US East (N. Virginia)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: US East (Ohio)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: US East (Verizon) - Tampa) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: US West (N. California)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: US West (Oregon)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: Asia Pacific (SKT) - Seoul (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: US East (Verizon) - Nashville (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: US East (Verizon) - Atlanta (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: Amazon CloudFront) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: AWS GovCloud (US)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: AWS GovCloud (US-East)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: Africa (Cape Town)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: Asia Pacific (Hong Kong)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: Asia Pacific (Hyderabad)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: Asia Pacific (Jakarta)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: Asia Pacific (Malaysia)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: Asia Pacific (Melbourne)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: Asia Pacific (Mumbai)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: Asia Pacific (Osaka)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: Asia Pacific (Seoul)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: Asia Pacific (Singapore)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: Asia Pacific (Sydney)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: Asia Pacific (Thailand)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: Asia Pacific (Tokyo)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: Canada (Central)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: Canada West (Calgary)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: EU (Frankfurt)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: EU (Ireland)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: EU (London)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: EU (Milan)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: EU (Paris)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: EU (Spain)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: EU (Stockholm)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: EU (Zurich)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: Israel (Tel Aviv)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: Mexico (Central)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: Middle East (Bahrain)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: Middle East (UAE)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: South America (Sao Paulo)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: US East (N. Virginia)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: US East (Ohio)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: US East (Verizon) - Tampa) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: US West (Los Angeles)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: US West (N. California)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: US West (Oregon)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: Asia Pacific (SKT) - Seoul (To Location: US East (Lenexa)) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to Morocco Casablanca: US East (Lenexa) (To Location: Morocco (Casablanca)) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to US West Los Angeles: US East (Lenexa) (To Location: US West (Los Angeles)) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to EU Vodafone - Berlin: US East (Lenexa) (To Location: EU (Vodafone) - Berlin) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to EU Vodafone - Dortmund: US East (Lenexa) (To Location: EU (Vodafone) - Dortmund) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to EU Vodafone - Munich: US East (Lenexa) (To Location: EU (Vodafone) - Munich) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to US West Verizon - Seattle: US East (Lenexa) (To Location: US West (Verizon) - Seattle) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to US West Los Angeles;Cloudfrontless DataTransfer InterRegion Outbound to US West Los Angeles;Cloudfrontless DataTransfer InterRegion Outbound to US West Los Angeles No Wavelength;RDS DataTransfer InterRegion Outbound to US West Los Angeles: US East (Lenexa) (To Location: US West (Los Angeles)) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to EU Vodafone - Berlin;Cloudfrontless DataTransfer InterRegion Outbound to EU Vodafone - Berlin: US East (Lenexa) (To Location: EU (Vodafone) - Berlin) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to EU Vodafone - Dortmund;Cloudfrontless DataTransfer InterRegion Outbound to EU Vodafone - Dortmund: US East (Lenexa) (To Location: EU (Vodafone) - Dortmund) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to EU Vodafone - Munich;Cloudfrontless DataTransfer InterRegion Outbound to EU Vodafone - Munich: US East (Lenexa) (To Location: EU (Vodafone) - Munich) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Morocco Casablanca;Cloudfrontless DataTransfer InterRegion Outbound to Morocco Casablanca: US East (Lenexa) (To Location: Morocco (Casablanca)) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to US West Verizon - Seattle;Cloudfrontless DataTransfer InterRegion Outbound to US West Verizon - Seattle: US East (Lenexa) (To Location: US West (Verizon) - Seattle) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to Amazon CloudFront: US East (Lenexa) (To Location: Amazon CloudFront) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to US West Oregon: US East (Lenexa) (To Location: US West (Oregon)) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to US West Verizon - Denver: US East (Lenexa) (To Location: US West (Verizon) - Denver) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to US West Verizon - Las Vegas: US East (Lenexa) (To Location: US West (Verizon) - Las Vegas) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to US West Verizon - Phoenix: US East (Lenexa) (To Location: US West (Verizon) - Phoenix) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to US West Verizon - San Francisco Bay Area: US East (Lenexa) (To Location: US West (Verizon) - San Francisco Bay Area) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Amazon CloudFront;RDS DataTransfer InterRegion Outbound to Amazon CloudFront: US East (Lenexa) (To Location: Amazon CloudFront) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to US West Oregon;Cloudfrontless DataTransfer InterRegion Outbound to US West Oregon;Cloudfrontless DataTransfer InterRegion Outbound to US West Oregon No Wavelength;Backup DataTransfer InterRegion Outbound to US West Oregon;RDS DataTransfer InterRegion Outbound to US West Oregon: US East (Lenexa) (To Location: US West (Oregon)) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to US West Verizon - Denver;Cloudfrontless DataTransfer InterRegion Outbound to US West Verizon - Denver: US East (Lenexa) (To Location: US West (Verizon) - Denver) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to US West Verizon - Las Vegas;Cloudfrontless DataTransfer InterRegion Outbound to US West Verizon - Las Vegas: US East (Lenexa) (To Location: US West (Verizon) - Las Vegas) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to US West Verizon - Phoenix;Cloudfrontless DataTransfer InterRegion Outbound to US West Verizon - Phoenix: US East (Lenexa) (To Location: US West (Verizon) - Phoenix) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to US West Verizon - San Francisco Bay Area;Cloudfrontless DataTransfer InterRegion Outbound to US West Verizon - San Francisco Bay Area: US East (Lenexa) (To Location: US West (Verizon) - San Francisco Bay Area) 🌎
+  - Billing metric added: [DataTransfer InterRegion Outbound] Cloudfrontless DataTransfer InterRegion Outbound to US East Lenexa No Wavelength;Backup DataTransfer InterRegion Outbound to US East Lenexa;RDS DataTransfer InterRegion Outbound to US East Lenexa 💡
+  - Region added for metric [DataTransfer InterRegion Outbound] Cloudfrontless DataTransfer InterRegion Outbound to US East Verizon - Tampa No Wavelength;Backup DataTransfer InterRegion Outbound to US East Verizon - Tampa;RDS DataTransfer InterRegion Outbound to US East Verizon - Tampa: US East (Lenexa) (To Location: US East (Verizon) - Tampa) 🌎
+
+
 ## 2025-05-05 17:25
 
 **Modified services:**
