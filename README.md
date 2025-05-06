@@ -1,3 +1,73 @@
+## 2025-05-06 18:28
+
+**Modified services:**
+
+- [ec2](processed/ec2.json)
+  - Region added for metric OnDemand Linux-instancetype-r7g.16xlarge: Middle East (UAE) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7g.16xlarge: Israel (Tel Aviv) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7g.16xlarge: EU (Zurich) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7g.16xlarge: EU (Paris) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7g.16xlarge: Canada West (Calgary) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7g.16xlarge: Asia Pacific (Osaka) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7g.16xlarge: AWS GovCloud (US-East) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7g.8xlarge: Middle East (UAE) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7g.8xlarge: Israel (Tel Aviv) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7g.8xlarge: EU (Zurich) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7g.8xlarge: EU (Paris) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7g.8xlarge: Canada West (Calgary) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7g.8xlarge: Asia Pacific (Osaka) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7g.8xlarge: AWS GovCloud (US-East) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7g.metal: Middle East (UAE) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7g.metal: Israel (Tel Aviv) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7g.metal: EU (Zurich) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7g.metal: EU (Paris) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7g.metal: Canada West (Calgary) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7g.metal: Asia Pacific (Osaka) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7g.metal: AWS GovCloud (US-East) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7g.medium: Middle East (UAE) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7g.medium: Israel (Tel Aviv) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7g.medium: EU (Zurich) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7g.medium: EU (Paris) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7g.medium: Canada West (Calgary) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7g.medium: Asia Pacific (Osaka) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7g.medium: AWS GovCloud (US-East) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7g.xlarge: Middle East (UAE) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7g.xlarge: Israel (Tel Aviv) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7g.xlarge: EU (Zurich) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7g.xlarge: EU (Paris) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7g.xlarge: Canada West (Calgary) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7g.xlarge: Asia Pacific (Osaka) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7g.xlarge: AWS GovCloud (US-East) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7g.large: Middle East (UAE) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7g.large: Israel (Tel Aviv) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7g.large: EU (Zurich) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7g.large: EU (Paris) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7g.large: Canada West (Calgary) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7g.large: Asia Pacific (Osaka) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7g.large: AWS GovCloud (US-East) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7g.4xlarge: Middle East (UAE) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7g.4xlarge: Israel (Tel Aviv) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7g.4xlarge: EU (Zurich) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7g.4xlarge: EU (Paris) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7g.4xlarge: Canada West (Calgary) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7g.4xlarge: Asia Pacific (Osaka) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7g.4xlarge: AWS GovCloud (US-East) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7g.12xlarge: Middle East (UAE) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7g.12xlarge: Israel (Tel Aviv) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7g.12xlarge: EU (Zurich) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7g.12xlarge: EU (Paris) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7g.12xlarge: Canada West (Calgary) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7g.12xlarge: Asia Pacific (Osaka) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7g.12xlarge: AWS GovCloud (US-East) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7g.2xlarge: Middle East (UAE) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7g.2xlarge: Israel (Tel Aviv) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7g.2xlarge: EU (Zurich) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7g.2xlarge: EU (Paris) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7g.2xlarge: Canada West (Calgary) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7g.2xlarge: Asia Pacific (Osaka) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7g.2xlarge: AWS GovCloud (US-East) 🌎
+
+
 ## 2025-05-06 00:40
 
 **Modified services:**
