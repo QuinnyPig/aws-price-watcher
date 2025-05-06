@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "elb",
         "accessType": "publish",
-        "esIndex": "plc-elb-usd-20250428235101",
-        "hawkFilePublicationDate": "2025-04-28T23:51:01Z",
-        "ETLIngestionTriggerDate": "2025-04-28T23:51:01Z",
+        "esIndex": "plc-elb-usd-20250506193116",
+        "hawkFilePublicationDate": "2025-05-06T19:31:16Z",
+        "ETLIngestionTriggerDate": "2025-05-06T19:31:16Z",
         "currencyCode": "USD",
         "source": "elb",
         "isMapped": "true"
@@ -1402,6 +1402,38 @@
             "Application Load Balancer Hours": {
                 "rateCode": "ZSPXQRX977RGQFR8.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0281250000",
+                "RegionlessRateCode": "ttVdKPX8IhXh8zj3SUoOCopsXWgtanwsfPHGpa2faag"
+            }
+        },
+        "US East (Lenexa)": {
+            "eJXPG14URemSbDt29OPrGojztqv6EQfEQN_DlQz97eU": {
+                "rateCode": "ZWB77MZJJY3HFR6B.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0108000000",
+                "RegionlessRateCode": "eJXPG14URemSbDt29OPrGojztqv6EQfEQN_DlQz97eU"
+            },
+            "rIcBgQpnsCi3Jy4NrXSbCH1_QQ21tuX7JE41K4hhXs4": {
+                "rateCode": "W9FG4F8EKHHEK5JJ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0108000000",
+                "RegionlessRateCode": "rIcBgQpnsCi3Jy4NrXSbCH1_QQ21tuX7JE41K4hhXs4"
+            },
+            "ttVdKPX8IhXh8zj3SUoOCopsXWgtanwsfPHGpa2faag": {
+                "rateCode": "9B2UQEBTC7GAN79N.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0303750000",
+                "RegionlessRateCode": "ttVdKPX8IhXh8zj3SUoOCopsXWgtanwsfPHGpa2faag"
+            },
+            "Application Load Balancer Idle Hours": {
+                "rateCode": "ZWB77MZJJY3HFR6B.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0108000000",
+                "RegionlessRateCode": "eJXPG14URemSbDt29OPrGojztqv6EQfEQN_DlQz97eU"
+            },
+            "Application Load Balancer LCU Hours": {
+                "rateCode": "W9FG4F8EKHHEK5JJ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0108000000",
+                "RegionlessRateCode": "rIcBgQpnsCi3Jy4NrXSbCH1_QQ21tuX7JE41K4hhXs4"
+            },
+            "Application Load Balancer Hours": {
+                "rateCode": "9B2UQEBTC7GAN79N.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0303750000",
                 "RegionlessRateCode": "ttVdKPX8IhXh8zj3SUoOCopsXWgtanwsfPHGpa2faag"
             }
         },
