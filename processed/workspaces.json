@@ -15705,6 +15705,9 @@
         "EU (Paris)": "0.1200000000",
         "Africa (Cape Town)": "0.1100000000"
     },
+    "Free Tier Ubuntu Linux Performance Billed by the hour": {
+        "Any": "0.0000000000"
+    },
     "[Plus Bundles Windows PowerPro AlwaysOn Billed by the month Included] Plus Bundles Windows PowerPro Plus 0 8vCPU 32 GB Memory Root and User Volume80 GB 10 GB AlwaysOn Billed by the month License Included;Plus Bundles Windows PowerPro Plus 0 Power 8vCPU 32 GB Memory Root and User Volume80 GB 10 GB AlwaysOn Billed by the month License Included": {
         "Africa (Cape Town) (RootVolume: 80 GB, vCPU: 8, Memory: 32 GB, Bundle: PowerPro Plus-0, Bundle Group: Power, Bundle Description: PowerPro (8 vCPU, 32GB RAM), UserVolume: 10 GB, Operating System: Windows, Storage: Root:80 GB,User:10 GB)": "127.0000000000"
     },
