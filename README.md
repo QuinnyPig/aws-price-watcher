@@ -1,3 +1,25 @@
+## 2025-05-06 00:40
+
+**Modified services:**
+
+- [ec2](processed/ec2.json)
+  - Region added for metric OnDemand Linux-instancetype-c5d.2xlarge: US East (Lenexa) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r5d.2xlarge: US East (Lenexa) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c5d.12xlarge: US East (Lenexa) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c5d.4xlarge: US East (Lenexa) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r5d.4xlarge: US East (Lenexa) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m5.8xlarge: US East (Lenexa) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c5d.xlarge: US East (Lenexa) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r5d.8xlarge: US East (Lenexa) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m5.xlarge: US East (Lenexa) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r5d.xlarge: US East (Lenexa) 🌎
+  - Region added for metric OnDemand Linux-instancetype-x2idn.24xlarge: Israel (Tel Aviv) 🌎
+  - Region added for metric OnDemand Linux-instancetype-x2idn.32xlarge: Israel (Tel Aviv) 🌎
+  - Region added for metric OnDemand Linux-instancetype-x2idn.metal: Israel (Tel Aviv) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c5d.large: US East (Lenexa) 🌎
+  - Region added for metric OnDemand Linux-instancetype-x2idn.16xlarge: Israel (Tel Aviv) 🌎
+
+
 ## 2025-05-05 22:26
 
 **Modified services:**
