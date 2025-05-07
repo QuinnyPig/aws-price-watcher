@@ -32,10 +32,10 @@ jobs:
           GH_TOKEN: ${{ secrets.BOT_GITHUB_TOKEN }}
         run: |
           set -eux
+          README_CHANGES=$(git diff -- README.md | wc -l | xargs)
           git config --local user.email "githubbot@ian.mn"
           git config --local user.name "Ian Mckay [bot]"
           git add .
-          README_CHANGES=$(git diff -- README.md | wc -l | xargs)
           git commit -m "Update data" -a || exit 0
           remote_repo="https://iann0036-bot:${BOT_GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
           git push "${remote_repo}" HEAD:main
