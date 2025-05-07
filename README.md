@@ -1,3 +1,13 @@
+## 2025-05-07 18:28
+
+**Modified services:**
+
+- [ec2](processed/ec2.json)
+  - Region added for metric OnDemand Linux-instancetype-m5.4xlarge: US East (Miami) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m5.8xlarge: US East (Miami) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m5.2xlarge: US East (Dallas) 🌎
+
+
 ## 2025-05-07 00:40
 
 **Modified services:**
