@@ -1,3 +1,11 @@
+## 2025-05-07 22:26
+
+**Modified services:**
+
+- [ec2](processed/ec2.json)
+  - Region added for metric OnDemand Linux-instancetype-inf2.xlarge: Asia Pacific (Seoul) 🌎
+
+
 ## 2025-05-07 18:28
 
 **Modified services:**
