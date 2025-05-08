@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "shield",
         "accessType": "publish",
-        "esIndex": "plc-shield-usd-20241119004551",
-        "hawkFilePublicationDate": "2024-11-19T00:45:51Z",
-        "ETLIngestionTriggerDate": "2024-11-19T00:45:51Z",
+        "esIndex": "plc-shield-usd-20250508181231",
+        "hawkFilePublicationDate": "2025-05-08T18:12:31Z",
+        "ETLIngestionTriggerDate": "2025-05-08T18:12:31Z",
         "currencyCode": "USD",
         "source": "shield",
         "isMapped": "true"
@@ -739,6 +739,128 @@
             },
             "DataTransfer out LoadBalancing 512000 upto Inf": {
                 "rateCode": "XBJ6K2PSKSZYX4VJ.JRTCKXETXF.PXJDJ3YRG3",
+                "price": "0.0300000000",
+                "RegionlessRateCode": "ldOVKz5QtVryni3pzvW7GtXOUGJK6pKX7UkDOj5J6V8"
+            }
+        },
+        "Mexico (Central)": {
+            "28ik3WPmt35sH1XLmTMR3mXEW1Bhq8N6jJWN9d2w0XA": {
+                "rateCode": "FFWTJC9XZ6948U9F.JRTCKXETXF.GY4PVJM369",
+                "price": "0.0500000000",
+                "RegionlessRateCode": "28ik3WPmt35sH1XLmTMR3mXEW1Bhq8N6jJWN9d2w0XA"
+            },
+            "82H828PoMg1w489SUj0z65PE6jttE8v29_qyJ7KQ9gY": {
+                "rateCode": "FFWTJC9XZ6948U9F.JRTCKXETXF.PXJDJ3YRG3",
+                "price": "0.0300000000",
+                "RegionlessRateCode": "82H828PoMg1w489SUj0z65PE6jttE8v29_qyJ7KQ9gY"
+            },
+            "FhHN1JVS1VWXq94hbLWkCEDrPnVR0BcNdByQoktLSUw": {
+                "rateCode": "PRHRM5AN3MN332BJ.JRTCKXETXF.NCC8ZPFJJ4",
+                "price": "0.0400000000",
+                "RegionlessRateCode": "FhHN1JVS1VWXq94hbLWkCEDrPnVR0BcNdByQoktLSUw"
+            },
+            "Z6O1C3tWtq1sW3NVHV4WbEJTPxsgKAG0yLX9v8c09Qw": {
+                "rateCode": "PRHRM5AN3MN332BJ.JRTCKXETXF.GY4PVJM369",
+                "price": "0.0500000000",
+                "RegionlessRateCode": "Z6O1C3tWtq1sW3NVHV4WbEJTPxsgKAG0yLX9v8c09Qw"
+            },
+            "efVtaVhDNB8HCLBGqNdFVuvrtiUCSQoPzGIJ0P3O_PI": {
+                "rateCode": "FFWTJC9XZ6948U9F.JRTCKXETXF.NCC8ZPFJJ4",
+                "price": "0.0400000000",
+                "RegionlessRateCode": "efVtaVhDNB8HCLBGqNdFVuvrtiUCSQoPzGIJ0P3O_PI"
+            },
+            "ldOVKz5QtVryni3pzvW7GtXOUGJK6pKX7UkDOj5J6V8": {
+                "rateCode": "PRHRM5AN3MN332BJ.JRTCKXETXF.PXJDJ3YRG3",
+                "price": "0.0300000000",
+                "RegionlessRateCode": "ldOVKz5QtVryni3pzvW7GtXOUGJK6pKX7UkDOj5J6V8"
+            },
+            "28ik3WPmt35sH1XLmTMR3mXEW1Bhq8N6jJWN9d2w0XA V1": {
+                "rateCode": "FFWTJC9XZ6948U9F.JRTCKXETXF.GY4PVJM369",
+                "price": "0.0500000000",
+                "RegionlessRateCode": "28ik3WPmt35sH1XLmTMR3mXEW1Bhq8N6jJWN9d2w0XA"
+            },
+            "82H828PoMg1w489SUj0z65PE6jttE8v29_qyJ7KQ9gY V1": {
+                "rateCode": "FFWTJC9XZ6948U9F.JRTCKXETXF.PXJDJ3YRG3",
+                "price": "0.0300000000",
+                "RegionlessRateCode": "82H828PoMg1w489SUj0z65PE6jttE8v29_qyJ7KQ9gY"
+            },
+            "FhHN1JVS1VWXq94hbLWkCEDrPnVR0BcNdByQoktLSUw V1": {
+                "rateCode": "PRHRM5AN3MN332BJ.JRTCKXETXF.NCC8ZPFJJ4",
+                "price": "0.0400000000",
+                "RegionlessRateCode": "FhHN1JVS1VWXq94hbLWkCEDrPnVR0BcNdByQoktLSUw"
+            },
+            "Z6O1C3tWtq1sW3NVHV4WbEJTPxsgKAG0yLX9v8c09Qw V1": {
+                "rateCode": "PRHRM5AN3MN332BJ.JRTCKXETXF.GY4PVJM369",
+                "price": "0.0500000000",
+                "RegionlessRateCode": "Z6O1C3tWtq1sW3NVHV4WbEJTPxsgKAG0yLX9v8c09Qw"
+            },
+            "efVtaVhDNB8HCLBGqNdFVuvrtiUCSQoPzGIJ0P3O_PI V1": {
+                "rateCode": "FFWTJC9XZ6948U9F.JRTCKXETXF.NCC8ZPFJJ4",
+                "price": "0.0400000000",
+                "RegionlessRateCode": "efVtaVhDNB8HCLBGqNdFVuvrtiUCSQoPzGIJ0P3O_PI"
+            },
+            "ldOVKz5QtVryni3pzvW7GtXOUGJK6pKX7UkDOj5J6V8 V1": {
+                "rateCode": "PRHRM5AN3MN332BJ.JRTCKXETXF.PXJDJ3YRG3",
+                "price": "0.0300000000",
+                "RegionlessRateCode": "ldOVKz5QtVryni3pzvW7GtXOUGJK6pKX7UkDOj5J6V8"
+            },
+            "DataTransfer out of EIP First 100TB": {
+                "rateCode": "FFWTJC9XZ6948U9F.JRTCKXETXF.GY4PVJM369",
+                "price": "0.0500000000",
+                "RegionlessRateCode": "28ik3WPmt35sH1XLmTMR3mXEW1Bhq8N6jJWN9d2w0XA"
+            },
+            "DataTransfer out ShieldProtectionEIP First 100TB": {
+                "rateCode": "FFWTJC9XZ6948U9F.JRTCKXETXF.GY4PVJM369",
+                "price": "0.0500000000",
+                "RegionlessRateCode": "28ik3WPmt35sH1XLmTMR3mXEW1Bhq8N6jJWN9d2w0XA"
+            },
+            "DataTransfer out of EIP Above 500TB": {
+                "rateCode": "FFWTJC9XZ6948U9F.JRTCKXETXF.PXJDJ3YRG3",
+                "price": "0.0300000000",
+                "RegionlessRateCode": "82H828PoMg1w489SUj0z65PE6jttE8v29_qyJ7KQ9gY"
+            },
+            "DataTransfer out ShieldProtectionEIP 512000 upto Inf": {
+                "rateCode": "FFWTJC9XZ6948U9F.JRTCKXETXF.PXJDJ3YRG3",
+                "price": "0.0300000000",
+                "RegionlessRateCode": "82H828PoMg1w489SUj0z65PE6jttE8v29_qyJ7KQ9gY"
+            },
+            "DataTransfer out of LoadBalancing Next 400TB": {
+                "rateCode": "PRHRM5AN3MN332BJ.JRTCKXETXF.NCC8ZPFJJ4",
+                "price": "0.0400000000",
+                "RegionlessRateCode": "FhHN1JVS1VWXq94hbLWkCEDrPnVR0BcNdByQoktLSUw"
+            },
+            "DataTransfer out LoadBalancing Next 400TB": {
+                "rateCode": "PRHRM5AN3MN332BJ.JRTCKXETXF.NCC8ZPFJJ4",
+                "price": "0.0400000000",
+                "RegionlessRateCode": "FhHN1JVS1VWXq94hbLWkCEDrPnVR0BcNdByQoktLSUw"
+            },
+            "DataTransfer out of LoadBalancing First 100TB": {
+                "rateCode": "PRHRM5AN3MN332BJ.JRTCKXETXF.GY4PVJM369",
+                "price": "0.0500000000",
+                "RegionlessRateCode": "Z6O1C3tWtq1sW3NVHV4WbEJTPxsgKAG0yLX9v8c09Qw"
+            },
+            "DataTransfer out LoadBalancing First 100TB": {
+                "rateCode": "PRHRM5AN3MN332BJ.JRTCKXETXF.GY4PVJM369",
+                "price": "0.0500000000",
+                "RegionlessRateCode": "Z6O1C3tWtq1sW3NVHV4WbEJTPxsgKAG0yLX9v8c09Qw"
+            },
+            "DataTransfer out of EIP Next 400TB": {
+                "rateCode": "FFWTJC9XZ6948U9F.JRTCKXETXF.NCC8ZPFJJ4",
+                "price": "0.0400000000",
+                "RegionlessRateCode": "efVtaVhDNB8HCLBGqNdFVuvrtiUCSQoPzGIJ0P3O_PI"
+            },
+            "DataTransfer out ShieldProtectionEIP Next 400TB": {
+                "rateCode": "FFWTJC9XZ6948U9F.JRTCKXETXF.NCC8ZPFJJ4",
+                "price": "0.0400000000",
+                "RegionlessRateCode": "efVtaVhDNB8HCLBGqNdFVuvrtiUCSQoPzGIJ0P3O_PI"
+            },
+            "DataTransfer out of LoadBalancing Above 500TB": {
+                "rateCode": "PRHRM5AN3MN332BJ.JRTCKXETXF.PXJDJ3YRG3",
+                "price": "0.0300000000",
+                "RegionlessRateCode": "ldOVKz5QtVryni3pzvW7GtXOUGJK6pKX7UkDOj5J6V8"
+            },
+            "DataTransfer out LoadBalancing 512000 upto Inf": {
+                "rateCode": "PRHRM5AN3MN332BJ.JRTCKXETXF.PXJDJ3YRG3",
                 "price": "0.0300000000",
                 "RegionlessRateCode": "ldOVKz5QtVryni3pzvW7GtXOUGJK6pKX7UkDOj5J6V8"
             }
@@ -2347,6 +2469,128 @@
             },
             "DataTransfer out LoadBalancing 512000 upto Inf": {
                 "rateCode": "PJBDQXP73EXCNPQX.JRTCKXETXF.PXJDJ3YRG3",
+                "price": "0.0300000000",
+                "RegionlessRateCode": "ldOVKz5QtVryni3pzvW7GtXOUGJK6pKX7UkDOj5J6V8"
+            }
+        },
+        "Asia Pacific (Thailand)": {
+            "28ik3WPmt35sH1XLmTMR3mXEW1Bhq8N6jJWN9d2w0XA": {
+                "rateCode": "JRYWBTY5MD84XH2R.JRTCKXETXF.GY4PVJM369",
+                "price": "0.0500000000",
+                "RegionlessRateCode": "28ik3WPmt35sH1XLmTMR3mXEW1Bhq8N6jJWN9d2w0XA"
+            },
+            "82H828PoMg1w489SUj0z65PE6jttE8v29_qyJ7KQ9gY": {
+                "rateCode": "JRYWBTY5MD84XH2R.JRTCKXETXF.PXJDJ3YRG3",
+                "price": "0.0300000000",
+                "RegionlessRateCode": "82H828PoMg1w489SUj0z65PE6jttE8v29_qyJ7KQ9gY"
+            },
+            "FhHN1JVS1VWXq94hbLWkCEDrPnVR0BcNdByQoktLSUw": {
+                "rateCode": "85CJ35JJDBD8Z6YM.JRTCKXETXF.NCC8ZPFJJ4",
+                "price": "0.0400000000",
+                "RegionlessRateCode": "FhHN1JVS1VWXq94hbLWkCEDrPnVR0BcNdByQoktLSUw"
+            },
+            "Z6O1C3tWtq1sW3NVHV4WbEJTPxsgKAG0yLX9v8c09Qw": {
+                "rateCode": "85CJ35JJDBD8Z6YM.JRTCKXETXF.GY4PVJM369",
+                "price": "0.0500000000",
+                "RegionlessRateCode": "Z6O1C3tWtq1sW3NVHV4WbEJTPxsgKAG0yLX9v8c09Qw"
+            },
+            "efVtaVhDNB8HCLBGqNdFVuvrtiUCSQoPzGIJ0P3O_PI": {
+                "rateCode": "JRYWBTY5MD84XH2R.JRTCKXETXF.NCC8ZPFJJ4",
+                "price": "0.0400000000",
+                "RegionlessRateCode": "efVtaVhDNB8HCLBGqNdFVuvrtiUCSQoPzGIJ0P3O_PI"
+            },
+            "ldOVKz5QtVryni3pzvW7GtXOUGJK6pKX7UkDOj5J6V8": {
+                "rateCode": "85CJ35JJDBD8Z6YM.JRTCKXETXF.PXJDJ3YRG3",
+                "price": "0.0300000000",
+                "RegionlessRateCode": "ldOVKz5QtVryni3pzvW7GtXOUGJK6pKX7UkDOj5J6V8"
+            },
+            "28ik3WPmt35sH1XLmTMR3mXEW1Bhq8N6jJWN9d2w0XA V1": {
+                "rateCode": "JRYWBTY5MD84XH2R.JRTCKXETXF.GY4PVJM369",
+                "price": "0.0500000000",
+                "RegionlessRateCode": "28ik3WPmt35sH1XLmTMR3mXEW1Bhq8N6jJWN9d2w0XA"
+            },
+            "82H828PoMg1w489SUj0z65PE6jttE8v29_qyJ7KQ9gY V1": {
+                "rateCode": "JRYWBTY5MD84XH2R.JRTCKXETXF.PXJDJ3YRG3",
+                "price": "0.0300000000",
+                "RegionlessRateCode": "82H828PoMg1w489SUj0z65PE6jttE8v29_qyJ7KQ9gY"
+            },
+            "FhHN1JVS1VWXq94hbLWkCEDrPnVR0BcNdByQoktLSUw V1": {
+                "rateCode": "85CJ35JJDBD8Z6YM.JRTCKXETXF.NCC8ZPFJJ4",
+                "price": "0.0400000000",
+                "RegionlessRateCode": "FhHN1JVS1VWXq94hbLWkCEDrPnVR0BcNdByQoktLSUw"
+            },
+            "Z6O1C3tWtq1sW3NVHV4WbEJTPxsgKAG0yLX9v8c09Qw V1": {
+                "rateCode": "85CJ35JJDBD8Z6YM.JRTCKXETXF.GY4PVJM369",
+                "price": "0.0500000000",
+                "RegionlessRateCode": "Z6O1C3tWtq1sW3NVHV4WbEJTPxsgKAG0yLX9v8c09Qw"
+            },
+            "efVtaVhDNB8HCLBGqNdFVuvrtiUCSQoPzGIJ0P3O_PI V1": {
+                "rateCode": "JRYWBTY5MD84XH2R.JRTCKXETXF.NCC8ZPFJJ4",
+                "price": "0.0400000000",
+                "RegionlessRateCode": "efVtaVhDNB8HCLBGqNdFVuvrtiUCSQoPzGIJ0P3O_PI"
+            },
+            "ldOVKz5QtVryni3pzvW7GtXOUGJK6pKX7UkDOj5J6V8 V1": {
+                "rateCode": "85CJ35JJDBD8Z6YM.JRTCKXETXF.PXJDJ3YRG3",
+                "price": "0.0300000000",
+                "RegionlessRateCode": "ldOVKz5QtVryni3pzvW7GtXOUGJK6pKX7UkDOj5J6V8"
+            },
+            "DataTransfer out of EIP First 100TB": {
+                "rateCode": "JRYWBTY5MD84XH2R.JRTCKXETXF.GY4PVJM369",
+                "price": "0.0500000000",
+                "RegionlessRateCode": "28ik3WPmt35sH1XLmTMR3mXEW1Bhq8N6jJWN9d2w0XA"
+            },
+            "DataTransfer out ShieldProtectionEIP First 100TB": {
+                "rateCode": "JRYWBTY5MD84XH2R.JRTCKXETXF.GY4PVJM369",
+                "price": "0.0500000000",
+                "RegionlessRateCode": "28ik3WPmt35sH1XLmTMR3mXEW1Bhq8N6jJWN9d2w0XA"
+            },
+            "DataTransfer out of EIP Above 500TB": {
+                "rateCode": "JRYWBTY5MD84XH2R.JRTCKXETXF.PXJDJ3YRG3",
+                "price": "0.0300000000",
+                "RegionlessRateCode": "82H828PoMg1w489SUj0z65PE6jttE8v29_qyJ7KQ9gY"
+            },
+            "DataTransfer out ShieldProtectionEIP 512000 upto Inf": {
+                "rateCode": "JRYWBTY5MD84XH2R.JRTCKXETXF.PXJDJ3YRG3",
+                "price": "0.0300000000",
+                "RegionlessRateCode": "82H828PoMg1w489SUj0z65PE6jttE8v29_qyJ7KQ9gY"
+            },
+            "DataTransfer out of LoadBalancing Next 400TB": {
+                "rateCode": "85CJ35JJDBD8Z6YM.JRTCKXETXF.NCC8ZPFJJ4",
+                "price": "0.0400000000",
+                "RegionlessRateCode": "FhHN1JVS1VWXq94hbLWkCEDrPnVR0BcNdByQoktLSUw"
+            },
+            "DataTransfer out LoadBalancing Next 400TB": {
+                "rateCode": "85CJ35JJDBD8Z6YM.JRTCKXETXF.NCC8ZPFJJ4",
+                "price": "0.0400000000",
+                "RegionlessRateCode": "FhHN1JVS1VWXq94hbLWkCEDrPnVR0BcNdByQoktLSUw"
+            },
+            "DataTransfer out of LoadBalancing First 100TB": {
+                "rateCode": "85CJ35JJDBD8Z6YM.JRTCKXETXF.GY4PVJM369",
+                "price": "0.0500000000",
+                "RegionlessRateCode": "Z6O1C3tWtq1sW3NVHV4WbEJTPxsgKAG0yLX9v8c09Qw"
+            },
+            "DataTransfer out LoadBalancing First 100TB": {
+                "rateCode": "85CJ35JJDBD8Z6YM.JRTCKXETXF.GY4PVJM369",
+                "price": "0.0500000000",
+                "RegionlessRateCode": "Z6O1C3tWtq1sW3NVHV4WbEJTPxsgKAG0yLX9v8c09Qw"
+            },
+            "DataTransfer out of EIP Next 400TB": {
+                "rateCode": "JRYWBTY5MD84XH2R.JRTCKXETXF.NCC8ZPFJJ4",
+                "price": "0.0400000000",
+                "RegionlessRateCode": "efVtaVhDNB8HCLBGqNdFVuvrtiUCSQoPzGIJ0P3O_PI"
+            },
+            "DataTransfer out ShieldProtectionEIP Next 400TB": {
+                "rateCode": "JRYWBTY5MD84XH2R.JRTCKXETXF.NCC8ZPFJJ4",
+                "price": "0.0400000000",
+                "RegionlessRateCode": "efVtaVhDNB8HCLBGqNdFVuvrtiUCSQoPzGIJ0P3O_PI"
+            },
+            "DataTransfer out of LoadBalancing Above 500TB": {
+                "rateCode": "85CJ35JJDBD8Z6YM.JRTCKXETXF.PXJDJ3YRG3",
+                "price": "0.0300000000",
+                "RegionlessRateCode": "ldOVKz5QtVryni3pzvW7GtXOUGJK6pKX7UkDOj5J6V8"
+            },
+            "DataTransfer out LoadBalancing 512000 upto Inf": {
+                "rateCode": "85CJ35JJDBD8Z6YM.JRTCKXETXF.PXJDJ3YRG3",
                 "price": "0.0300000000",
                 "RegionlessRateCode": "ldOVKz5QtVryni3pzvW7GtXOUGJK6pKX7UkDOj5J6V8"
             }

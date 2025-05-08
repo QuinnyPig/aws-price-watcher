@@ -1,3 +1,46 @@
+## 2025-05-08 18:28
+
+**Modified services:**
+
+- [shield](processed/shield.json)
+  - Region added for metric 28ik3WPmt35sH1XLmTMR3mXEW1Bhq8N6jJWN9d2w0XA V1: Mexico (Central) 🌎
+  - Region added for metric 28ik3WPmt35sH1XLmTMR3mXEW1Bhq8N6jJWN9d2w0XA V1: Asia Pacific (Thailand) 🌎
+  - Region added for metric 82H828PoMg1w489SUj0z65PE6jttE8v29_qyJ7KQ9gY V1: Mexico (Central) 🌎
+  - Region added for metric 82H828PoMg1w489SUj0z65PE6jttE8v29_qyJ7KQ9gY V1: Asia Pacific (Thailand) 🌎
+  - Region added for metric FhHN1JVS1VWXq94hbLWkCEDrPnVR0BcNdByQoktLSUw V1: Mexico (Central) 🌎
+  - Region added for metric FhHN1JVS1VWXq94hbLWkCEDrPnVR0BcNdByQoktLSUw V1: Asia Pacific (Thailand) 🌎
+  - Region added for metric Z6O1C3tWtq1sW3NVHV4WbEJTPxsgKAG0yLX9v8c09Qw V1: Mexico (Central) 🌎
+  - Region added for metric Z6O1C3tWtq1sW3NVHV4WbEJTPxsgKAG0yLX9v8c09Qw V1: Asia Pacific (Thailand) 🌎
+  - Region added for metric efVtaVhDNB8HCLBGqNdFVuvrtiUCSQoPzGIJ0P3O_PI V1: Mexico (Central) 🌎
+  - Region added for metric efVtaVhDNB8HCLBGqNdFVuvrtiUCSQoPzGIJ0P3O_PI V1: Asia Pacific (Thailand) 🌎
+  - Region added for metric ldOVKz5QtVryni3pzvW7GtXOUGJK6pKX7UkDOj5J6V8 V1: Mexico (Central) 🌎
+  - Region added for metric ldOVKz5QtVryni3pzvW7GtXOUGJK6pKX7UkDOj5J6V8 V1: Asia Pacific (Thailand) 🌎
+  - Region added for metric DataTransfer out of EIP First 100TB: Mexico (Central) 🌎
+  - Region added for metric DataTransfer out of EIP First 100TB: Asia Pacific (Thailand) 🌎
+  - Region added for metric DataTransfer out ShieldProtectionEIP First 100TB: Mexico (Central) 🌎
+  - Region added for metric DataTransfer out ShieldProtectionEIP First 100TB: Asia Pacific (Thailand) 🌎
+  - Region added for metric DataTransfer out of EIP Above 500TB: Mexico (Central) 🌎
+  - Region added for metric DataTransfer out of EIP Above 500TB: Asia Pacific (Thailand) 🌎
+  - Region added for metric DataTransfer out ShieldProtectionEIP 512000 upto Inf: Mexico (Central) 🌎
+  - Region added for metric DataTransfer out ShieldProtectionEIP 512000 upto Inf: Asia Pacific (Thailand) 🌎
+  - Region added for metric DataTransfer out of LoadBalancing Next 400TB: Mexico (Central) 🌎
+  - Region added for metric DataTransfer out of LoadBalancing Next 400TB: Asia Pacific (Thailand) 🌎
+  - Region added for metric DataTransfer out LoadBalancing Next 400TB: Mexico (Central) 🌎
+  - Region added for metric DataTransfer out LoadBalancing Next 400TB: Asia Pacific (Thailand) 🌎
+  - Region added for metric DataTransfer out of LoadBalancing First 100TB: Mexico (Central) 🌎
+  - Region added for metric DataTransfer out of LoadBalancing First 100TB: Asia Pacific (Thailand) 🌎
+  - Region added for metric DataTransfer out LoadBalancing First 100TB: Mexico (Central) 🌎
+  - Region added for metric DataTransfer out LoadBalancing First 100TB: Asia Pacific (Thailand) 🌎
+  - Region added for metric DataTransfer out of EIP Next 400TB: Mexico (Central) 🌎
+  - Region added for metric DataTransfer out of EIP Next 400TB: Asia Pacific (Thailand) 🌎
+  - Region added for metric DataTransfer out ShieldProtectionEIP Next 400TB: Mexico (Central) 🌎
+  - Region added for metric DataTransfer out ShieldProtectionEIP Next 400TB: Asia Pacific (Thailand) 🌎
+  - Region added for metric DataTransfer out of LoadBalancing Above 500TB: Mexico (Central) 🌎
+  - Region added for metric DataTransfer out of LoadBalancing Above 500TB: Asia Pacific (Thailand) 🌎
+  - Region added for metric DataTransfer out LoadBalancing 512000 upto Inf: Mexico (Central) 🌎
+  - Region added for metric DataTransfer out LoadBalancing 512000 upto Inf: Asia Pacific (Thailand) 🌎
+
+
 ## 2025-05-08 17:25
 
 **Modified services:**
