@@ -1,3 +1,65 @@
+## 2025-05-08 17:25
+
+**Modified services:**
+
+- [waf](processed/waf.json)
+  - Region removed for metric Request Processed Tier1 per Request: Thailand (Bangkok) 💥
+  - Region removed for metric Web Requests received per Request: Thailand (Bangkok) 💥
+
+- [docdb](processed/docdb.json)
+  - Region added for metric [Memory optimized OnDemand] OnDemand-instancetype-db.r5.12xlarge: EU (Stockholm) (Memory: 384 GiB, CPU: 48, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.r5.12xlarge) 🌎
+  - Region added for metric [Memory optimized OnDemand] OnDemand-instancetype-db.r5.16xlarge: EU (Stockholm) (Memory: 512 GiB, CPU: 64, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.r5.16xlarge) 🌎
+  - Region added for metric [Memory optimized OnDemand] OnDemand-instancetype-db.r5.24xlarge: EU (Stockholm) (Memory: 768 GiB, CPU: 96, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.r5.24xlarge) 🌎
+  - Region added for metric [Memory optimized OnDemand] OnDemand-instancetype-db.r5.2xlarge: EU (Stockholm) (Memory: 64 GiB, CPU: 8, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.r5.2xlarge) 🌎
+  - Region added for metric [Memory optimized OnDemand] OnDemand-instancetype-db.r5.4xlarge: EU (Stockholm) (Memory: 128 GiB, CPU: 16, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.r5.4xlarge) 🌎
+  - Region added for metric [Memory optimized OnDemand] OnDemand-instancetype-db.r5.8xlarge: EU (Stockholm) (Memory: 256 GiB, CPU: 32, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.r5.8xlarge) 🌎
+  - Region added for metric [Memory optimized OnDemand] OnDemand-instancetype-db.r5.large: EU (Stockholm) (Memory: 16 GiB, CPU: 2, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.r5.large) 🌎
+  - Region added for metric [Memory optimized OnDemand] OnDemand-instancetype-db.r5.xlarge: EU (Stockholm) (Memory: 32 GiB, CPU: 4, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.r5.xlarge) 🌎
+  - Region added for metric [Memory optimized OnDemand] OnDemand-instancetype-db.r6g.12xlarge: EU (Stockholm) (Memory: 384 GiB, CPU: 48, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.r6g.12xlarge) 🌎
+  - Region added for metric [Memory optimized OnDemand] OnDemand-instancetype-db.r6g.16xlarge: EU (Stockholm) (Memory: 512 GiB, CPU: 64, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.r6g.16xlarge) 🌎
+  - Region added for metric [Memory optimized OnDemand] OnDemand-instancetype-db.r6g.2xlarge: EU (Stockholm) (Memory: 64 GiB, CPU: 8, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.r6g.2xlarge) 🌎
+  - Region added for metric [Memory optimized OnDemand] OnDemand-instancetype-db.r6g.4xlarge: EU (Stockholm) (Memory: 128 GiB, CPU: 16, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.r6g.4xlarge) 🌎
+  - Region added for metric [Memory optimized OnDemand] OnDemand-instancetype-db.r6g.8xlarge: EU (Stockholm) (Memory: 256 GiB, CPU: 32, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.r6g.8xlarge) 🌎
+  - Region added for metric [Memory optimized OnDemand] OnDemand-instancetype-db.r6g.large: EU (Stockholm) (Memory: 16 GiB, CPU: 2, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.r6g.large) 🌎
+  - Region added for metric [Memory optimized OnDemand] OnDemand-instancetype-db.r6g.xlarge: EU (Stockholm) (Memory: 32 GiB, CPU: 4, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.r6g.xlarge) 🌎
+  - Region added for metric [General purpose OnDemand] OnDemand-instancetype-db.t3.medium: EU (Stockholm) (Memory: 4 GiB, CPU: 2, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.t3.medium) 🌎
+  - Region added for metric [General purpose OnDemand] OnDemand-instancetype-db.t4g.medium: EU (Stockholm) (Memory: 4 GiB, CPU: 2, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.t4g.medium) 🌎
+  - Region added for metric [Memory optimized OnDemand IO-Optimized-DocDB] OnDemand-instancetype-db.r5.12xlarge IO-Optimized-DocDB: EU (Stockholm) (Memory: 384 GiB, CPU: 48, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.r5.12xlarge) 🌎
+  - Region added for metric [Memory optimized OnDemand IO-Optimized-DocDB] OnDemand-instancetype-db.r5.16xlarge IO-Optimized-DocDB: EU (Stockholm) (Memory: 512 GiB, CPU: 64, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.r5.16xlarge) 🌎
+  - Region added for metric [Memory optimized OnDemand IO-Optimized-DocDB] OnDemand-instancetype-db.r5.24xlarge IO-Optimized-DocDB: EU (Stockholm) (Memory: 768 GiB, CPU: 96, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.r5.24xlarge) 🌎
+  - Region added for metric [Memory optimized OnDemand IO-Optimized-DocDB] OnDemand-instancetype-db.r5.2xlarge IO-Optimized-DocDB: EU (Stockholm) (Memory: 64 GiB, CPU: 8, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.r5.2xlarge) 🌎
+  - Region added for metric [Memory optimized OnDemand IO-Optimized-DocDB] OnDemand-instancetype-db.r5.4xlarge IO-Optimized-DocDB: EU (Stockholm) (Memory: 128 GiB, CPU: 16, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.r5.4xlarge) 🌎
+  - Region added for metric [Memory optimized OnDemand IO-Optimized-DocDB] OnDemand-instancetype-db.r5.8xlarge IO-Optimized-DocDB: EU (Stockholm) (Memory: 256 GiB, CPU: 32, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.r5.8xlarge) 🌎
+  - Region added for metric [Memory optimized OnDemand IO-Optimized-DocDB] OnDemand-instancetype-db.r5.large IO-Optimized-DocDB: EU (Stockholm) (Memory: 16 GiB, CPU: 2, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.r5.large) 🌎
+  - Region added for metric [Memory optimized OnDemand IO-Optimized-DocDB] OnDemand-instancetype-db.r5.xlarge IO-Optimized-DocDB: EU (Stockholm) (Memory: 32 GiB, CPU: 4, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.r5.xlarge) 🌎
+  - Region added for metric [Memory optimized OnDemand IO-Optimized-DocDB] OnDemand-instancetype-db.r6g.12xlarge IO-Optimized-DocDB: EU (Stockholm) (Memory: 384 GiB, CPU: 48, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.r6g.12xlarge) 🌎
+  - Region added for metric [Memory optimized OnDemand IO-Optimized-DocDB] OnDemand-instancetype-db.r6g.16xlarge IO-Optimized-DocDB: EU (Stockholm) (Memory: 512 GiB, CPU: 64, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.r6g.16xlarge) 🌎
+  - Region added for metric [Memory optimized OnDemand IO-Optimized-DocDB] OnDemand-instancetype-db.r6g.2xlarge IO-Optimized-DocDB: EU (Stockholm) (Memory: 64 GiB, CPU: 8, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.r6g.2xlarge) 🌎
+  - Region added for metric [Memory optimized OnDemand IO-Optimized-DocDB] OnDemand-instancetype-db.r6g.4xlarge IO-Optimized-DocDB: EU (Stockholm) (Memory: 128 GiB, CPU: 16, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.r6g.4xlarge) 🌎
+  - Region added for metric [Memory optimized OnDemand IO-Optimized-DocDB] OnDemand-instancetype-db.r6g.8xlarge IO-Optimized-DocDB: EU (Stockholm) (Memory: 256 GiB, CPU: 32, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.r6g.8xlarge) 🌎
+  - Region added for metric [Memory optimized OnDemand IO-Optimized-DocDB] OnDemand-instancetype-db.r6g.large IO-Optimized-DocDB: EU (Stockholm) (Memory: 16 GiB, CPU: 2, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.r6g.large) 🌎
+  - Region added for metric [Memory optimized OnDemand IO-Optimized-DocDB] OnDemand-instancetype-db.r6g.xlarge IO-Optimized-DocDB: EU (Stockholm) (Memory: 32 GiB, CPU: 4, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.r6g.xlarge) 🌎
+  - Region added for metric [General purpose OnDemand IO-Optimized-DocDB] OnDemand-instancetype-db.t3.medium IO-Optimized-DocDB: EU (Stockholm) (Memory: 4 GiB, CPU: 2, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.t3.medium) 🌎
+  - Region added for metric [General purpose OnDemand IO-Optimized-DocDB] OnDemand-instancetype-db.t4g.medium IO-Optimized-DocDB: EU (Stockholm) (Memory: 4 GiB, CPU: 2, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.t4g.medium) 🌎
+  - Region added for metric [Memory optimized OnDemand NVMe SSD] OnDemand-instancetype-db.r6gd.12xlarge NVMe SSD: EU (Stockholm) (Memory: 384 GiB, CPU: 48, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.r6gd.12xlarge, Instance Storage: 2 x 1425 NVMe SSD) 🌎
+  - Region added for metric [Memory optimized OnDemand NVMe SSD] OnDemand-instancetype-db.r6gd.16xlarge NVMe SSD: EU (Stockholm) (Memory: 512 GiB, CPU: 64, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.r6gd.16xlarge, Instance Storage: 2 x 1900 NVMe SSD) 🌎
+  - Region added for metric [Memory optimized OnDemand NVMe SSD] OnDemand-instancetype-db.r6gd.2xlarge NVMe SSD: EU (Stockholm) (Memory: 64 GiB, CPU: 8, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.r6gd.2xlarge, Instance Storage: 1 x 474 NVMe SSD) 🌎
+  - Region added for metric [Memory optimized OnDemand NVMe SSD] OnDemand-instancetype-db.r6gd.4xlarge NVMe SSD: EU (Stockholm) (Memory: 128 GiB, CPU: 16, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.r6gd.4xlarge, Instance Storage: 1 x 950 NVMe SSD) 🌎
+  - Region added for metric [Memory optimized OnDemand NVMe SSD] OnDemand-instancetype-db.r6gd.8xlarge NVMe SSD: EU (Stockholm) (Memory: 256 GiB, CPU: 32, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.r6gd.8xlarge, Instance Storage: 1 x 1900 NVMe SSD) 🌎
+  - Region added for metric [Memory optimized OnDemand NVMe SSD] OnDemand-instancetype-db.r6gd.xlarge NVMe SSD: EU (Stockholm) (Memory: 32 GiB, CPU: 4, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.r6gd.xlarge, Instance Storage: 1 x 237 NVMe SSD) 🌎
+  - Region added for metric [Memory optimized OnDemand NVMe SSD IO-Optimized] OnDemand-instancetype-db.r6gd.12xlarge NVMe SSD IO-Optimized: EU (Stockholm) (Memory: 384 GiB, CPU: 48, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.r6gd.12xlarge, Instance Storage: 2 x 1425 NVMe SSD) 🌎
+  - Region added for metric [Memory optimized OnDemand NVMe SSD IO-Optimized] OnDemand-instancetype-db.r6gd.16xlarge NVMe SSD IO-Optimized: EU (Stockholm) (Memory: 512 GiB, CPU: 64, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.r6gd.16xlarge, Instance Storage: 2 x 1900 NVMe SSD) 🌎
+  - Region added for metric [Memory optimized OnDemand NVMe SSD IO-Optimized] OnDemand-instancetype-db.r6gd.2xlarge NVMe SSD IO-Optimized: EU (Stockholm) (Memory: 64 GiB, CPU: 8, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.r6gd.2xlarge, Instance Storage: 1 x 474 NVMe SSD) 🌎
+  - Region added for metric [Memory optimized OnDemand NVMe SSD IO-Optimized] OnDemand-instancetype-db.r6gd.4xlarge NVMe SSD IO-Optimized: EU (Stockholm) (Memory: 128 GiB, CPU: 16, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.r6gd.4xlarge, Instance Storage: 1 x 950 NVMe SSD) 🌎
+  - Region added for metric [Memory optimized OnDemand NVMe SSD IO-Optimized] OnDemand-instancetype-db.r6gd.8xlarge NVMe SSD IO-Optimized: EU (Stockholm) (Memory: 256 GiB, CPU: 32, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.r6gd.8xlarge, Instance Storage: 1 x 1900 NVMe SSD) 🌎
+  - Region added for metric [Memory optimized OnDemand NVMe SSD IO-Optimized] OnDemand-instancetype-db.r6gd.xlarge NVMe SSD IO-Optimized: EU (Stockholm) (Memory: 32 GiB, CPU: 4, Term: OnDemand, Unit: Hrs, Term Type: OnDemand, Instance Type: db.r6gd.xlarge, Instance Storage: 1 x 237 NVMe SSD) 🌎
+  - Region added for metric 1 million IO requests: EU (Stockholm) 🌎
+  - Region added for metric Database Storage: EU (Stockholm) 🌎
+  - Region added for metric Global Cluster Replicated IO per IOs: EU (Stockholm) 🌎
+  - Region added for metric Database Storage IO-Optimized-DocDB: EU (Stockholm) 🌎
+  - Region added for metric Storage Snapshot: EU (Stockholm) 🌎
+
+
 ## 2025-05-07 22:26
 
 **Modified services:**

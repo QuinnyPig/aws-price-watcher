@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "eks",
         "accessType": "publish",
-        "esIndex": "plc-eks-usd-20250508014807",
-        "hawkFilePublicationDate": "2025-05-05T22:04:49Z",
-        "ETLIngestionTriggerDate": "2025-05-08T01:48:07Z",
+        "esIndex": "plc-eks-usd-20250508171423",
+        "hawkFilePublicationDate": "2025-05-08T17:14:23Z",
+        "ETLIngestionTriggerDate": "2025-05-08T17:14:23Z",
         "currencyCode": "USD",
         "source": "eks",
         "isMapped": "true"
