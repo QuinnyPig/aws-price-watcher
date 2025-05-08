@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "docdb",
         "accessType": "publish",
-        "esIndex": "plc-docdb-usd-20250507231441",
-        "hawkFilePublicationDate": "2025-05-07T23:14:41Z",
-        "ETLIngestionTriggerDate": "2025-05-07T23:14:41Z",
+        "esIndex": "plc-docdb-usd-20250508001527",
+        "hawkFilePublicationDate": "2025-05-08T00:15:27Z",
+        "ETLIngestionTriggerDate": "2025-05-08T00:15:27Z",
         "currencyCode": "USD",
         "source": "docdb",
         "isMapped": "true"
