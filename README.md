@@ -1,3 +1,16 @@
+## 2025-05-08 21:26
+
+**Modified services:**
+
+- [entityresolution](processed/entityresolution.json)
+  - Region added for metric DataMatchingFee per DataMatchingFee: Canada (Central) 🌎
+  - Region added for metric DataMatching per RecordsMatched: Canada (Central) 🌎
+  - Region added for metric DataMatchingForCollab per RecordsMatched: Canada (Central) 🌎
+  - Region added for metric EntityResolution per Records: Canada (Central) 🌎
+  - Region added for metric DataMatchingFeeForCollab per DataMatchingFee: Canada (Central) 🌎
+  - Region added for metric DataPreparationForCollab per Records: Canada (Central) 🌎
+
+
 ## 2025-05-08 18:28
 
 **Modified services:**
