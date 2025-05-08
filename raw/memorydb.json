@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "memorydb",
         "accessType": "publish",
-        "esIndex": "plc-memorydb-usd-20250327151200",
+        "esIndex": "plc-memorydb-usd-20250508015159",
         "hawkFilePublicationDate": "2025-03-26T23:34:33Z",
-        "ETLIngestionTriggerDate": "2025-03-27T15:12:00Z",
+        "ETLIngestionTriggerDate": "2025-05-08T01:51:59Z",
         "currencyCode": "USD",
         "source": "memorydb-instance",
         "isMapped": "true"
