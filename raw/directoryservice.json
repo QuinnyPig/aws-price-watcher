@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "directoryservice",
         "accessType": "publish",
-        "esIndex": "plc-directoryservice-usd-20241021150640",
-        "hawkFilePublicationDate": "2024-10-21T15:06:40Z",
-        "ETLIngestionTriggerDate": "2024-10-21T15:06:40Z",
+        "esIndex": "plc-directoryservice-usd-20250508135851",
+        "hawkFilePublicationDate": "2025-05-08T13:58:51Z",
+        "ETLIngestionTriggerDate": "2025-05-08T13:58:51Z",
         "currencyCode": "USD",
         "source": "directoryservice",
         "isMapped": "true"
