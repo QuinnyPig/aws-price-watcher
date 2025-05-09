@@ -1,3 +1,91 @@
+## 2025-05-09 21:25
+
+**Modified services:**
+
+- [guardduty](processed/guardduty.json)
+  - Region removed for metric Free RDS ACU Monitored CreateDBInstance 0019 per ACU-Months: Mexico (Central) 💥
+  - Region removed for metric RDS ACU Monitored CreateDBInstance 0020 per ACU-Months: Mexico (Central) 💥
+  - Region removed for metric Free RDS vCPU Monitored CreateDBInstance 0015 per vCPU-Months: Mexico (Central) 💥
+  - Region removed for metric Free RDS vCPU Monitored CreateDBInstance 0006 per vCPU-Months: Mexico (Central) 💥
+  - Region removed for metric Free RDS vCPU Monitored CreateDBInstance 0009 per vCPU-Months: Mexico (Central) 💥
+  - Region removed for metric RDS vCPU Monitored CreateDBInstance 0020 per vCPU-Months: Mexico (Central) 💥
+  - Region removed for metric RDS vCPU Monitored CreateDBInstance 0008 per vCPU-Months: Mexico (Central) 💥
+  - Region removed for metric RDS vCPU Monitored CreateDBInstance 0003 per vCPU-Months: Mexico (Central) 💥
+  - Region removed for metric RDS vCPU Monitored CreateDBInstance 0002 per vCPU-Months: Mexico (Central) 💥
+  - Region removed for metric Free RDS ACU Monitored CreateDBInstance 0011 per ACU-Months: Mexico (Central) 💥
+  - Region removed for metric RDS ACU Monitored CreateDBInstance 0003 per ACU-Months: Mexico (Central) 💥
+  - Region removed for metric Free RDS ACU Monitored CreateDBInstance 0008 per ACU-Months: Mexico (Central) 💥
+  - Region removed for metric Free RDS vCPU Monitored CreateDBInstance 0002 per vCPU-Months: Mexico (Central) 💥
+  - Region removed for metric RDS vCPU Monitored CreateDBInstance 0015 per vCPU-Months: Mexico (Central) 💥
+  - Region removed for metric Free RDS ACU Monitored CreateDBInstance 0002 per ACU-Months: Mexico (Central) 💥
+  - Region removed for metric RDS vCPU Monitored CreateDBInstance 0021 per vCPU-Months: Mexico (Central) 💥
+  - Region removed for metric Free RDS vCPU Monitored CreateDBInstance 0018 per vCPU-Months: Mexico (Central) 💥
+  - Region removed for metric RDS ACU Monitored CreateDBInstance 0004 per ACU-Months: Mexico (Central) 💥
+  - Region removed for metric Free RDS ACU Monitored CreateDBInstance per ACU-Months: Mexico (Central) 💥
+  - Region removed for metric RDS ACU Monitored CreateDBInstance 0009 per ACU-Months: Mexico (Central) 💥
+  - Region removed for metric RDS ACU Limitless Monitored CreateDBInstance 0016 per ACU-Months: Mexico (Central) 💥
+  - Region removed for metric Free RDS vCPU Monitored CreateDBInstance 0021 per vCPU-Months: Mexico (Central) 💥
+  - Region removed for metric Free RDS ACU Monitored CreateDBInstance 0020 per ACU-Months: Mexico (Central) 💥
+  - Region removed for metric RDS ACU Monitored CreateDBInstance 0008 per ACU-Months: Mexico (Central) 💥
+  - Region removed for metric Free RDS ACU Monitored CreateDBInstance 0014 per ACU-Months: Mexico (Central) 💥
+  - Region removed for metric RDS vCPU Monitored CreateDBInstance 0019 per vCPU-Months: Mexico (Central) 💥
+  - Region removed for metric Free RDS vCPU Monitored CreateDBInstance 0014 per vCPU-Months: Mexico (Central) 💥
+  - Region removed for metric RDS ACU Monitored CreateDBInstance 0014 per ACU-Months: Mexico (Central) 💥
+  - Region removed for metric RDS vCPU Monitored CreateDBInstance 0016 per vCPU-Months: Mexico (Central) 💥
+  - Region removed for metric RDS vCPU Monitored CreateDBInstance 0014 per vCPU-Months: Mexico (Central) 💥
+  - Region removed for metric RDS ACU Monitored CreateDBInstance 0011 per ACU-Months: Mexico (Central) 💥
+  - Region removed for metric Free RDS ACU Monitored CreateDBInstance 0006 per ACU-Months: Mexico (Central) 💥
+  - Region removed for metric RDS ACU Monitored CreateDBInstance 0015 per ACU-Months: Mexico (Central) 💥
+  - Region removed for metric RDS vCPU Monitored CreateDBInstance 0006 per vCPU-Months: Mexico (Central) 💥
+  - Region removed for metric Free RDS vCPU Monitored CreateDBInstance 0004 per vCPU-Months: Mexico (Central) 💥
+  - Region removed for metric RDS ACU Monitored CreateDBInstance per ACU-Months: Mexico (Central) 💥
+  - Region removed for metric Free RDS vCPU Monitored CreateDBInstance 0019 per vCPU-Months: Mexico (Central) 💥
+  - Region removed for metric Free RDS ACU Monitored CreateDBInstance 0021 per ACU-Months: Mexico (Central) 💥
+  - Region removed for metric RDS vCPU Monitored CreateDBInstance 0018 per vCPU-Months: Mexico (Central) 💥
+  - Region removed for metric RDS ACU Monitored CreateDBInstance 0018 per ACU-Months: Mexico (Central) 💥
+  - Region removed for metric Free RDS ACU Monitored CreateDBInstance 0015 per ACU-Months: Mexico (Central) 💥
+  - Region removed for metric Free RDS ACU Monitored CreateDBInstance 0016 per ACU-Months: Mexico (Central) 💥
+  - Region removed for metric RDS ACU Monitored CreateDBInstance 0019 per ACU-Months: Mexico (Central) 💥
+  - Region removed for metric Free RDS vCPU Monitored CreateDBInstance 0008 per vCPU-Months: Mexico (Central) 💥
+  - Region removed for metric Free RDS ACU Monitored CreateDBInstance 0010 per ACU-Months: Mexico (Central) 💥
+  - Region removed for metric RDS vCPU Monitored CreateDBInstance 0011 per vCPU-Months: Mexico (Central) 💥
+  - Region removed for metric RDS ACU Monitored CreateDBInstance 0010 per ACU-Months: Mexico (Central) 💥
+  - Region removed for metric Free RDS ACU Monitored CreateDBInstance 0009 per ACU-Months: Mexico (Central) 💥
+  - Region removed for metric Free RDS vCPU Monitored CreateDBInstance 0016 per vCPU-Months: Mexico (Central) 💥
+  - Region removed for metric RDS ACU Monitored CreateDBInstance 0006 per ACU-Months: Mexico (Central) 💥
+  - Region removed for metric Free RDS vCPU Monitored CreateDBInstance 0011 per vCPU-Months: Mexico (Central) 💥
+  - Region removed for metric Free RDS vCPU Monitored CreateDBInstance 0003 per vCPU-Months: Mexico (Central) 💥
+  - Region added for metric On Demand Malware Protection EBS Volume Data Scanned per GB: AWS GovCloud (US-East) 🌎
+  - Region added for metric On Demand Malware Protection EBS Volume Data Scanned per GB: AWS GovCloud (US) 🌎
+  - Region removed for metric RDS ACU Monitored CreateDBInstance 0021 per ACU-Months: Mexico (Central) 💥
+  - Region removed for metric RDS vCPU Monitored CreateDBInstance 0012 per vCPU-Months: Mexico (Central) 💥
+  - Region removed for metric Free RDS vCPU Monitored CreateDBInstance 0012 per vCPU-Months: Mexico (Central) 💥
+  - Region removed for metric RDS vCPU Monitored CreateDBInstance 0009 per vCPU-Months: Mexico (Central) 💥
+  - Region removed for metric RDS ACU Monitored CreateDBInstance 0002 per ACU-Months: Mexico (Central) 💥
+  - Region removed for metric Free RDS ACU Monitored CreateDBInstance 0003 per ACU-Months: Mexico (Central) 💥
+  - Region removed for metric RDS ACU Monitored CreateDBInstance 0016 per ACU-Months: Mexico (Central) 💥
+  - Region removed for metric RDS vCPU Monitored CreateDBInstance 0004 per vCPU-Months: Mexico (Central) 💥
+  - Region removed for metric RDS vCPU Monitored CreateDBInstance 0010 per vCPU-Months: Mexico (Central) 💥
+  - Region added for metric Free Malware Protection EBS Data Scanned per GB: AWS GovCloud (US-East) 🌎
+  - Region added for metric Free Malware Protection EBS Data Scanned per GB: AWS GovCloud (US) 🌎
+  - Region removed for metric Free RDS ACU Monitored CreateDBInstance 0012 per ACU-Months: Mexico (Central) 💥
+  - Region removed for metric Free RDS vCPU Monitored CreateDBInstance 0010 per vCPU-Months: Mexico (Central) 💥
+  - Region removed for metric Free RDS vCPU Monitored CreateDBInstance 0005 per vCPU-Months: Mexico (Central) 💥
+  - Region removed for metric RDS vCPU Monitored CreateDBInstance 0005 per vCPU-Months: Mexico (Central) 💥
+  - Region removed for metric RDS ACU Monitored CreateDBInstance 0012 per ACU-Months: Mexico (Central) 💥
+  - Region removed for metric Free RDS ACU Monitored CreateDBInstance 0005 per ACU-Months: Mexico (Central) 💥
+  - Region removed for metric Free RDS vCPU Monitored CreateDBInstance 0020 per vCPU-Months: Mexico (Central) 💥
+  - Region removed for metric RDS ACU Limitless Monitored CreateDBInstance 0021 per ACU-Months: Mexico (Central) 💥
+  - Region removed for metric Free RDS ACU Monitored CreateDBInstance 0018 per ACU-Months: Mexico (Central) 💥
+  - Region removed for metric Free RDS ACU Monitored CreateDBInstance 0004 per ACU-Months: Mexico (Central) 💥
+  - Region added for metric Malware Protection EBS Data Scanned per GB: AWS GovCloud (US-East) 🌎
+  - Region added for metric Malware Protection EBS Data Scanned per GB: AWS GovCloud (US) 🌎
+  - Region removed for metric RDS ACU Limitless Monitored CreateDBInstance per ACU-Months: Mexico (Central) 💥
+  - Region removed for metric RDS ACU Monitored CreateDBInstance 0005 per ACU-Months: Mexico (Central) 💥
+  - Region removed for metric Free RDS vCPU Monitored CreateDBInstance per vCPU-Months: Mexico (Central) 💥
+  - Region removed for metric RDS vCPU Monitored CreateDBInstance per vCPU-Months: Mexico (Central) 💥
+
+
 ## 2025-05-09 00:40
 
 **Modified services:**
