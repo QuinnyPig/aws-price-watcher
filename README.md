@@ -1,3 +1,22 @@
+## 2025-05-09 00:40
+
+**Modified services:**
+
+- [ec2](processed/ec2.json)
+  - Region added for metric OnDemand Linux-instancetype-x2idn.24xlarge: Asia Pacific (Melbourne) 🌎
+  - Region added for metric OnDemand Linux-instancetype-x2idn.32xlarge: Asia Pacific (Melbourne) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m7g.16xlarge: US East (Dallas) 🌎
+  - Region added for metric OnDemand Linux-instancetype-x2idn.metal: Asia Pacific (Melbourne) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m7a.48xlarge: US East (Dallas) 🌎
+  - Region added for metric OnDemand Linux-instancetype-x2idn.16xlarge: Asia Pacific (Melbourne) 🌎
+
+- [fsx](processed/fsx.json)
+  - Region added for metric zgFPJ0cUYXdd2jLTiOuDcSYRtdFhYRqCjCbYd49h1Y8 SSD new: Mexico (Central) 🌎
+  - Region added for metric zgFPJ0cUYXdd2jLTiOuDcSYRtdFhYRqCjCbYd49h1Y8 SSD new: Asia Pacific (Thailand) 🌎
+  - Region added for metric yMXUnsAV3uitn3E4G7Z25YOoTEwD6fTeQCq0JdEjw-0 SSD new: Mexico (Central) 🌎
+  - Region added for metric yMXUnsAV3uitn3E4G7Z25YOoTEwD6fTeQCq0JdEjw-0 SSD new: Asia Pacific (Thailand) 🌎
+
+
 ## 2025-05-08 21:26
 
 **Modified services:**
