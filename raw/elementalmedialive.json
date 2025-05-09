@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "elementalmedialive",
         "accessType": "publish",
-        "esIndex": "plc-elementalmedialive-usd-20250328202145",
-        "hawkFilePublicationDate": "2025-03-28T17:43:00Z",
-        "ETLIngestionTriggerDate": "2025-03-28T20:21:45Z",
+        "esIndex": "plc-elementalmedialive-usd-20250509224505",
+        "hawkFilePublicationDate": "2025-05-09T22:45:05Z",
+        "ETLIngestionTriggerDate": "2025-05-09T22:45:05Z",
         "currencyCode": "USD",
         "source": "elementalmedialive",
         "isMapped": "true"
@@ -37529,11 +37529,6 @@
                 "price": "5.6000000000",
                 "RegionlessRateCode": "iMI8qxcKByelG1DddfonV7gagYDDs9pfHjYz7YXbi14"
             },
-            "ibbd52n_4-_MDg6u_6fjrlgSZS_gByUxmYFNeEbMhZ4": {
-                "rateCode": "DNC4KPDRV4ESDMYD.JRTCKXETXF.6YS6EN2CT7",
-                "price": "0.1138000000",
-                "RegionlessRateCode": "ibbd52n_4-_MDg6u_6fjrlgSZS_gByUxmYFNeEbMhZ4"
-            },
             "imf4woLdS73srQd8efbFjViXo-xNy4bFowq9E3FhfwY": {
                 "rateCode": "SFJJSD5Z3JEV24N3.JRTCKXETXF.6YS6EN2CT7",
                 "price": "1.6444000000",
@@ -39218,11 +39213,6 @@
                 "rateCode": "6FTJBSFDVS2ZDG3K.JRTCKXETXF.6YS6EN2CT7",
                 "price": "5.6000000000",
                 "RegionlessRateCode": "iMI8qxcKByelG1DddfonV7gagYDDs9pfHjYz7YXbi14"
-            },
-            "Single Audio Only": {
-                "rateCode": "DNC4KPDRV4ESDMYD.JRTCKXETXF.6YS6EN2CT7",
-                "price": "0.1138000000",
-                "RegionlessRateCode": "ibbd52n_4-_MDg6u_6fjrlgSZS_gByUxmYFNeEbMhZ4"
             },
             "Single UHD HEVC Output Frame less than 30fps Reserved 12 Months": {
                 "rateCode": "SFJJSD5Z3JEV24N3.JRTCKXETXF.6YS6EN2CT7",

@@ -1,3 +1,11 @@
+## 2025-05-09 23:25
+
+**Modified services:**
+
+- [elementalmedialive](processed/elementalmedialive.json)
+  - Region removed for metric Single Audio Only: Canada (Central) 💥
+
+
 ## 2025-05-09 21:25
 
 **Modified services:**
