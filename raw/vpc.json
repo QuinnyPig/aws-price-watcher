@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "vpc",
         "accessType": "publish",
-        "esIndex": "plc-vpc-usd-20250502190754",
-        "hawkFilePublicationDate": "2025-05-02T19:07:54Z",
-        "ETLIngestionTriggerDate": "2025-05-02T19:07:54Z",
+        "esIndex": "plc-vpc-usd-20250510162341",
+        "hawkFilePublicationDate": "2025-05-10T16:23:41Z",
+        "ETLIngestionTriggerDate": "2025-05-10T16:23:41Z",
         "currencyCode": "USD",
         "source": "vpc",
         "isMapped": "true"
@@ -2317,6 +2317,18 @@
                 "rateCode": "JAYJVT7HM434P57B.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0050000000",
                 "RegionlessRateCode": "raRs1O4ORCruh2ORL1aNMcTmbmUZ3VQSwRnpIb5TVaE"
+            }
+        },
+        "US East (Lenexa)": {
+            "KwQQENobJz5M2MxvmGphiFr6OTLII_8uGwTghmiHsYs": {
+                "rateCode": "F68G9TTNW7ZS63N3.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0100000000",
+                "RegionlessRateCode": "KwQQENobJz5M2MxvmGphiFr6OTLII_8uGwTghmiHsYs"
+            },
+            "r70CIOt-qknOMghhSBApqHsd1jOCiv663UiD05myiUs": {
+                "rateCode": "6SJZM79HEPRPM9QW.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0100000000",
+                "RegionlessRateCode": "r70CIOt-qknOMghhSBApqHsd1jOCiv663UiD05myiUs"
             }
         },
         "US East (Kansas City 2)": {
