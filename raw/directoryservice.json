@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "directoryservice",
         "accessType": "publish",
-        "esIndex": "plc-directoryservice-usd-20250508135851",
-        "hawkFilePublicationDate": "2025-05-08T13:58:51Z",
-        "ETLIngestionTriggerDate": "2025-05-08T13:58:51Z",
+        "esIndex": "plc-directoryservice-usd-20250512044836",
+        "hawkFilePublicationDate": "2025-05-12T04:48:36Z",
+        "ETLIngestionTriggerDate": "2025-05-12T04:48:36Z",
         "currencyCode": "USD",
         "source": "directoryservice",
         "isMapped": "true"
@@ -462,6 +462,73 @@
             "Large AD Connector": {
                 "rateCode": "72QPAXYXXTFWM9YS.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.1844000000",
+                "RegionlessRateCode": "pj383qZiJPqOTwOJ56-WJ1QtXm0AEWnLX5fnUOYa8Ss"
+            }
+        },
+        "Mexico (Central)": {
+            "H3W-LkJUB5uEKcpBcc5DO9RYt-F9_W3DnJMACgAmCYg": {
+                "rateCode": "EWQ7VWMDWQJZ7UDC.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2100000000",
+                "RegionlessRateCode": "H3W-LkJUB5uEKcpBcc5DO9RYt-F9_W3DnJMACgAmCYg"
+            },
+            "OHykFVyJUaqUtjHzBZf0FtZ2P4VVg2IwV_3Djg4KBOk": {
+                "rateCode": "PGEP2VW5VK3PSZ65.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0630000000",
+                "RegionlessRateCode": "OHykFVyJUaqUtjHzBZf0FtZ2P4VVg2IwV_3Djg4KBOk"
+            },
+            "RE58ucImwkkRKN4YYMUWJxwBLGXr9ooRR69g-_I8ARI": {
+                "rateCode": "YCY45AJCYA6GUDM4.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0630000000",
+                "RegionlessRateCode": "RE58ucImwkkRKN4YYMUWJxwBLGXr9ooRR69g-_I8ARI"
+            },
+            "fmGnmKiuFVDqBw_WV0kNd2sy8XwOlQAAxOzjLEdcUpk": {
+                "rateCode": "8YK528KDXD3YDZZ4.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0525000000",
+                "RegionlessRateCode": "fmGnmKiuFVDqBw_WV0kNd2sy8XwOlQAAxOzjLEdcUpk"
+            },
+            "kS5uo9FK_QQYZ7ae0fyTMeS1djku8FIvWh7VwaXfuMY": {
+                "rateCode": "266KXNAEYCECP8Y5.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0189000000",
+                "RegionlessRateCode": "kS5uo9FK_QQYZ7ae0fyTMeS1djku8FIvWh7VwaXfuMY"
+            },
+            "pj383qZiJPqOTwOJ56-WJ1QtXm0AEWnLX5fnUOYa8Ss": {
+                "rateCode": "FQG9WVBA57F2V44N.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1575000000",
+                "RegionlessRateCode": "pj383qZiJPqOTwOJ56-WJ1QtXm0AEWnLX5fnUOYa8Ss"
+            },
+            "Enterprise Domain Controller for Microsoft Active Directory": {
+                "rateCode": "EWQ7VWMDWQJZ7UDC.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2100000000",
+                "RegionlessRateCode": "H3W-LkJUB5uEKcpBcc5DO9RYt-F9_W3DnJMACgAmCYg"
+            },
+            "Enterprise Shared Account for Microsoft Active Directory": {
+                "rateCode": "PGEP2VW5VK3PSZ65.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0630000000",
+                "RegionlessRateCode": "OHykFVyJUaqUtjHzBZf0FtZ2P4VVg2IwV_3Djg4KBOk"
+            },
+            "Standard Domain Controller for Microsoft Active Directory": {
+                "rateCode": "YCY45AJCYA6GUDM4.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0630000000",
+                "RegionlessRateCode": "RE58ucImwkkRKN4YYMUWJxwBLGXr9ooRR69g-_I8ARI"
+            },
+            "Small Simple AD or AD Connector": {
+                "rateCode": "8YK528KDXD3YDZZ4.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0525000000",
+                "RegionlessRateCode": "fmGnmKiuFVDqBw_WV0kNd2sy8XwOlQAAxOzjLEdcUpk"
+            },
+            "Small AD Connector": {
+                "rateCode": "8YK528KDXD3YDZZ4.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0525000000",
+                "RegionlessRateCode": "fmGnmKiuFVDqBw_WV0kNd2sy8XwOlQAAxOzjLEdcUpk"
+            },
+            "Standard Shared Account for Microsoft Active Directory": {
+                "rateCode": "266KXNAEYCECP8Y5.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0189000000",
+                "RegionlessRateCode": "kS5uo9FK_QQYZ7ae0fyTMeS1djku8FIvWh7VwaXfuMY"
+            },
+            "Large AD Connector": {
+                "rateCode": "FQG9WVBA57F2V44N.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1575000000",
                 "RegionlessRateCode": "pj383qZiJPqOTwOJ56-WJ1QtXm0AEWnLX5fnUOYa8Ss"
             }
         },
@@ -1226,6 +1293,73 @@
             "Large AD Connector": {
                 "rateCode": "CCTPQS7WSJU8HKGD.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.2400000000",
+                "RegionlessRateCode": "pj383qZiJPqOTwOJ56-WJ1QtXm0AEWnLX5fnUOYa8Ss"
+            }
+        },
+        "Asia Pacific (Thailand)": {
+            "H3W-LkJUB5uEKcpBcc5DO9RYt-F9_W3DnJMACgAmCYg": {
+                "rateCode": "WPEXCWDFR37P8NB4.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2060000000",
+                "RegionlessRateCode": "H3W-LkJUB5uEKcpBcc5DO9RYt-F9_W3DnJMACgAmCYg"
+            },
+            "OHykFVyJUaqUtjHzBZf0FtZ2P4VVg2IwV_3Djg4KBOk": {
+                "rateCode": "KU49VY99T3VE5D6S.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0618000000",
+                "RegionlessRateCode": "OHykFVyJUaqUtjHzBZf0FtZ2P4VVg2IwV_3Djg4KBOk"
+            },
+            "RE58ucImwkkRKN4YYMUWJxwBLGXr9ooRR69g-_I8ARI": {
+                "rateCode": "EWZGZAUH9MGYW22Q.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0660000000",
+                "RegionlessRateCode": "RE58ucImwkkRKN4YYMUWJxwBLGXr9ooRR69g-_I8ARI"
+            },
+            "fmGnmKiuFVDqBw_WV0kNd2sy8XwOlQAAxOzjLEdcUpk": {
+                "rateCode": "GQMUM5UCKKAH49DT.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0572000000",
+                "RegionlessRateCode": "fmGnmKiuFVDqBw_WV0kNd2sy8XwOlQAAxOzjLEdcUpk"
+            },
+            "kS5uo9FK_QQYZ7ae0fyTMeS1djku8FIvWh7VwaXfuMY": {
+                "rateCode": "V9U4XSS5UUTSTGJT.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0198000000",
+                "RegionlessRateCode": "kS5uo9FK_QQYZ7ae0fyTMeS1djku8FIvWh7VwaXfuMY"
+            },
+            "pj383qZiJPqOTwOJ56-WJ1QtXm0AEWnLX5fnUOYa8Ss": {
+                "rateCode": "C5U5TSGDBQXXGHXN.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1594000000",
+                "RegionlessRateCode": "pj383qZiJPqOTwOJ56-WJ1QtXm0AEWnLX5fnUOYa8Ss"
+            },
+            "Enterprise Domain Controller for Microsoft Active Directory": {
+                "rateCode": "WPEXCWDFR37P8NB4.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2060000000",
+                "RegionlessRateCode": "H3W-LkJUB5uEKcpBcc5DO9RYt-F9_W3DnJMACgAmCYg"
+            },
+            "Enterprise Shared Account for Microsoft Active Directory": {
+                "rateCode": "KU49VY99T3VE5D6S.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0618000000",
+                "RegionlessRateCode": "OHykFVyJUaqUtjHzBZf0FtZ2P4VVg2IwV_3Djg4KBOk"
+            },
+            "Standard Domain Controller for Microsoft Active Directory": {
+                "rateCode": "EWZGZAUH9MGYW22Q.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0660000000",
+                "RegionlessRateCode": "RE58ucImwkkRKN4YYMUWJxwBLGXr9ooRR69g-_I8ARI"
+            },
+            "Small Simple AD or AD Connector": {
+                "rateCode": "GQMUM5UCKKAH49DT.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0572000000",
+                "RegionlessRateCode": "fmGnmKiuFVDqBw_WV0kNd2sy8XwOlQAAxOzjLEdcUpk"
+            },
+            "Small AD Connector": {
+                "rateCode": "GQMUM5UCKKAH49DT.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0572000000",
+                "RegionlessRateCode": "fmGnmKiuFVDqBw_WV0kNd2sy8XwOlQAAxOzjLEdcUpk"
+            },
+            "Standard Shared Account for Microsoft Active Directory": {
+                "rateCode": "V9U4XSS5UUTSTGJT.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0198000000",
+                "RegionlessRateCode": "kS5uo9FK_QQYZ7ae0fyTMeS1djku8FIvWh7VwaXfuMY"
+            },
+            "Large AD Connector": {
+                "rateCode": "C5U5TSGDBQXXGHXN.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1594000000",
                 "RegionlessRateCode": "pj383qZiJPqOTwOJ56-WJ1QtXm0AEWnLX5fnUOYa8Ss"
             }
         },

@@ -1,3 +1,24 @@
+## 2025-05-12 05:26
+
+**Modified services:**
+
+- [directoryservice](processed/directoryservice.json)
+  - Region added for metric Enterprise Domain Controller for Microsoft Active Directory: Mexico (Central) 🌎
+  - Region added for metric Enterprise Domain Controller for Microsoft Active Directory: Asia Pacific (Thailand) 🌎
+  - Region added for metric Enterprise Shared Account for Microsoft Active Directory: Mexico (Central) 🌎
+  - Region added for metric Enterprise Shared Account for Microsoft Active Directory: Asia Pacific (Thailand) 🌎
+  - Region added for metric Standard Domain Controller for Microsoft Active Directory: Mexico (Central) 🌎
+  - Region added for metric Standard Domain Controller for Microsoft Active Directory: Asia Pacific (Thailand) 🌎
+  - Region added for metric Small Simple AD or AD Connector: Mexico (Central) 🌎
+  - Region added for metric Small Simple AD or AD Connector: Asia Pacific (Thailand) 🌎
+  - Region added for metric Standard Shared Account for Microsoft Active Directory: Mexico (Central) 🌎
+  - Region added for metric Standard Shared Account for Microsoft Active Directory: Asia Pacific (Thailand) 🌎
+  - Region added for metric Large AD Connector: Mexico (Central) 🌎
+  - Region added for metric Large AD Connector: Asia Pacific (Thailand) 🌎
+  - Region added for metric Small AD Connector: Mexico (Central) 🌎
+  - Region added for metric Small AD Connector: Asia Pacific (Thailand) 🌎
+
+
 ## 2025-05-09 23:25
 
 **Modified services:**
