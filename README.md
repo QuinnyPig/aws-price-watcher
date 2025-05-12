@@ -1,3 +1,17 @@
+## 2025-05-12 23:26
+
+**Modified services:**
+
+- [guardduty](processed/guardduty.json)
+  - Price decreased: Malware Protection S3 Data Scanned per 1 upto Inf GB Asia Pacific (Thailand)  **$0.765** → **$0.11475** 💸
+  - Region removed for metric On Demand Malware Protection EBS Volume Data Scanned per GB: AWS GovCloud (US-East) 💥
+  - Region removed for metric On Demand Malware Protection EBS Volume Data Scanned per GB: AWS GovCloud (US) 💥
+  - Region removed for metric Free Malware Protection EBS Data Scanned per GB: AWS GovCloud (US-East) 💥
+  - Region removed for metric Free Malware Protection EBS Data Scanned per GB: AWS GovCloud (US) 💥
+  - Region removed for metric Malware Protection EBS Data Scanned per GB: AWS GovCloud (US-East) 💥
+  - Region removed for metric Malware Protection EBS Data Scanned per GB: AWS GovCloud (US) 💥
+
+
 ## 2025-05-12 05:26
 
 **Modified services:**

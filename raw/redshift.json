@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "redshift",
         "accessType": "publish",
-        "esIndex": "plc-redshift-usd-20250508015212",
-        "hawkFilePublicationDate": "2025-04-25T19:07:20Z",
-        "ETLIngestionTriggerDate": "2025-05-08T01:52:12Z",
+        "esIndex": "plc-redshift-usd-20250512222906",
+        "hawkFilePublicationDate": "2025-05-12T22:29:06Z",
+        "ETLIngestionTriggerDate": "2025-05-12T22:29:06Z",
         "currencyCode": "USD",
         "source": "redshift",
         "isMapped": "true"
@@ -35823,6 +35823,19 @@
                 "Usage Family": "RA3",
                 "Location": "Asia Pacific (Hyderabad)"
             },
+            "HpNdD8GOIrLx4VGmtPZJfjd_9Qs5ulag8Jd63nJ1WvE": {
+                "rateCode": "H6UJHJYQH7ZYU43F.6QCMYABX3D.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "HpNdD8GOIrLx4VGmtPZJfjd_9Qs5ulag8Jd63nJ1WvE",
+                "Memory": "",
+                "vCPU": "",
+                "Storage": "",
+                "I/O": "",
+                "Instance Type": "",
+                "ECU": "",
+                "Usage Family": "",
+                "Location": "Asia Pacific (Hyderabad)"
+            },
             "HxPNciq1zlCaBVT_pTBIRtBaIKR7U_bzU7KPXdLIZGo": {
                 "rateCode": "C6M9KA84B5FSAHE6.4NA7Y494T4.6YS6EN2CT7",
                 "price": "10.3800000000",
@@ -35873,6 +35886,19 @@
                 "Instance Type": "ra3.large",
                 "ECU": "6.1875",
                 "Usage Family": "RA3",
+                "Location": "Asia Pacific (Hyderabad)"
+            },
+            "LfkWIkFQ9uxxWgBKlshh2U9DS4mWov1Q5wuNz3IGMvE": {
+                "rateCode": "H6UJHJYQH7ZYU43F.4NA7Y494T4.6YS6EN2CT7",
+                "price": "0.3420000000",
+                "RegionlessRateCode": "LfkWIkFQ9uxxWgBKlshh2U9DS4mWov1Q5wuNz3IGMvE",
+                "Memory": "",
+                "vCPU": "",
+                "Storage": "",
+                "I/O": "",
+                "Instance Type": "",
+                "ECU": "",
+                "Usage Family": "",
                 "Location": "Asia Pacific (Hyderabad)"
             },
             "LmO538XJ5dQUFxV2OnI3EYYtBw1lqYgU4NPPPKpzAc4": {
@@ -36451,6 +36477,19 @@
                 "rateCode": "2P68K4VWSZGX9P4Z.JRTCKXETXF.PGHJ3S3EYE",
                 "price": "0.0250000000",
                 "RegionlessRateCode": "wWhlqFZ_-mDYOeU5W4Ph_AuS1wFAlzl_VwFx6hcIz8o",
+                "Memory": "",
+                "vCPU": "",
+                "Storage": "",
+                "I/O": "",
+                "Instance Type": "",
+                "ECU": "",
+                "Usage Family": "",
+                "Location": "Asia Pacific (Hyderabad)"
+            },
+            "weNc3DHVVAHNf99TZctyBHyvHuBYYtTXYnLqrXn4Lb8": {
+                "rateCode": "H6UJHJYQH7ZYU43F.6QCMYABX3D.2TG2D8R56U",
+                "price": "2847",
+                "RegionlessRateCode": "weNc3DHVVAHNf99TZctyBHyvHuBYYtTXYnLqrXn4Lb8",
                 "Memory": "",
                 "vCPU": "",
                 "Storage": "",
