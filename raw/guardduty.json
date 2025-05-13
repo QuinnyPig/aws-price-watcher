@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "guardduty",
         "accessType": "publish",
-        "esIndex": "plc-guardduty-usd-20250512225026",
-        "hawkFilePublicationDate": "2025-05-12T22:50:26Z",
-        "ETLIngestionTriggerDate": "2025-05-12T22:50:26Z",
+        "esIndex": "plc-guardduty-usd-20250513231918",
+        "hawkFilePublicationDate": "2025-05-13T23:19:18Z",
+        "ETLIngestionTriggerDate": "2025-05-13T23:19:18Z",
         "currencyCode": "USD",
         "source": "guardduty",
         "isMapped": "true"
@@ -34331,6 +34331,11 @@
                 "price": "0.0000000000",
                 "RegionlessRateCode": "ZUJwZnFfU_2IMfoq6Wdhn74NHE4F3giyjL_XDybFGTs"
             },
+            "fOsmfy1zqLfduSI9eBqpT2mVCXOilg1WzvGn-rBwee0": {
+                "rateCode": "T48J797VFRZEKPAH.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0321000000",
+                "RegionlessRateCode": "fOsmfy1zqLfduSI9eBqpT2mVCXOilg1WzvGn-rBwee0"
+            },
             "h6f8P_b89ogBaw3SXGRnwGUIPY80wkmA27haFYXte6c": {
                 "rateCode": "6NXYX5WGHRVH8SG5.JRTCKXETXF.MUBTP6UPGZ",
                 "price": "0.0002150000",
@@ -34361,6 +34366,11 @@
                 "price": "0.2650000000",
                 "RegionlessRateCode": "m78W2KYdAkbbLf8HPDrhUBYEKfEJX0A_O6SkDJQefG8"
             },
+            "nPU8nFWcYHG49uLMeyuIfo6KesxqGnSSIGQtSstYgL4": {
+                "rateCode": "QT7V8BX4T4H92KUE.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "nPU8nFWcYHG49uLMeyuIfo6KesxqGnSSIGQtSstYgL4"
+            },
             "qx9djV19gZaJ6H6k7iq2H5BKXwGrL0uVcAUVejEvlrw": {
                 "rateCode": "W3CYS5HK7GYKWDZR.JRTCKXETXF.C2QCTD4VXQ",
                 "price": "1.0600000000",
@@ -34375,6 +34385,11 @@
                 "rateCode": "9EZABAHU793TC22P.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0000000000",
                 "RegionlessRateCode": "uY2JzjMiZmCEMoV6c-7573nhSXTEm7XopmElyoyi3t0"
+            },
+            "vduOYyxKF3pXKVwe4d3vNmfGKpVwrFtjbPOVb236kjk": {
+                "rateCode": "2EZB94F9ACCDHTAG.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0321000000",
+                "RegionlessRateCode": "vduOYyxKF3pXKVwe4d3vNmfGKpVwrFtjbPOVb236kjk"
             },
             "w_DWsGVkoIUL5ZtDSECk1Hhm1wKskOmTQt6YrLmFFAw": {
                 "rateCode": "RHTP62WXCYK3NZAG.JRTCKXETXF.6YS6EN2CT7",
@@ -34466,6 +34481,11 @@
                 "price": "0.0000000000",
                 "RegionlessRateCode": "ZUJwZnFfU_2IMfoq6Wdhn74NHE4F3giyjL_XDybFGTs"
             },
+            "On Demand Malware Protection EBS Volume Data Scanned per GB": {
+                "rateCode": "T48J797VFRZEKPAH.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0321000000",
+                "RegionlessRateCode": "fOsmfy1zqLfduSI9eBqpT2mVCXOilg1WzvGn-rBwee0"
+            },
             "Malware Protection S3 Request Monitored per 1000 upto Inf Events": {
                 "rateCode": "6NXYX5WGHRVH8SG5.JRTCKXETXF.MUBTP6UPGZ",
                 "price": "0.0002150000",
@@ -34496,6 +34516,11 @@
                 "price": "0.2650000000",
                 "RegionlessRateCode": "m78W2KYdAkbbLf8HPDrhUBYEKfEJX0A_O6SkDJQefG8"
             },
+            "Free Malware Protection EBS Data Scanned per GB": {
+                "rateCode": "QT7V8BX4T4H92KUE.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "nPU8nFWcYHG49uLMeyuIfo6KesxqGnSSIGQtSstYgL4"
+            },
             "Lambda VPC Flow Log and DNS Processed per First 500 GB": {
                 "rateCode": "W3CYS5HK7GYKWDZR.JRTCKXETXF.C2QCTD4VXQ",
                 "price": "1.0600000000",
@@ -34510,6 +34535,11 @@
                 "rateCode": "9EZABAHU793TC22P.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0000000000",
                 "RegionlessRateCode": "uY2JzjMiZmCEMoV6c-7573nhSXTEm7XopmElyoyi3t0"
+            },
+            "Malware Protection EBS Data Scanned per GB": {
+                "rateCode": "2EZB94F9ACCDHTAG.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0321000000",
+                "RegionlessRateCode": "vduOYyxKF3pXKVwe4d3vNmfGKpVwrFtjbPOVb236kjk"
             },
             "RDS ACU Limitless Monitored CreateDBInstance per ACU-Months": {
                 "rateCode": "RHTP62WXCYK3NZAG.JRTCKXETXF.6YS6EN2CT7",
@@ -34603,6 +34633,11 @@
                 "price": "0.0000000000",
                 "RegionlessRateCode": "ZUJwZnFfU_2IMfoq6Wdhn74NHE4F3giyjL_XDybFGTs"
             },
+            "fOsmfy1zqLfduSI9eBqpT2mVCXOilg1WzvGn-rBwee0": {
+                "rateCode": "2GMGAUR94Z96PD43.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0321000000",
+                "RegionlessRateCode": "fOsmfy1zqLfduSI9eBqpT2mVCXOilg1WzvGn-rBwee0"
+            },
             "h6f8P_b89ogBaw3SXGRnwGUIPY80wkmA27haFYXte6c": {
                 "rateCode": "7GZHRAZKGCRRGQ37.JRTCKXETXF.MUBTP6UPGZ",
                 "price": "0.0002170000",
@@ -34633,6 +34668,11 @@
                 "price": "0.3000000000",
                 "RegionlessRateCode": "m78W2KYdAkbbLf8HPDrhUBYEKfEJX0A_O6SkDJQefG8"
             },
+            "nPU8nFWcYHG49uLMeyuIfo6KesxqGnSSIGQtSstYgL4": {
+                "rateCode": "U25YENFNFBJ53W8J.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "nPU8nFWcYHG49uLMeyuIfo6KesxqGnSSIGQtSstYgL4"
+            },
             "qx9djV19gZaJ6H6k7iq2H5BKXwGrL0uVcAUVejEvlrw": {
                 "rateCode": "A4WFYU3RHUQZFN52.JRTCKXETXF.C2QCTD4VXQ",
                 "price": "1.2000000000",
@@ -34647,6 +34687,11 @@
                 "rateCode": "CYDWG4GJ53QYN33N.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0000000000",
                 "RegionlessRateCode": "uY2JzjMiZmCEMoV6c-7573nhSXTEm7XopmElyoyi3t0"
+            },
+            "vduOYyxKF3pXKVwe4d3vNmfGKpVwrFtjbPOVb236kjk": {
+                "rateCode": "AMTSP3ECVKJM2MPD.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0321000000",
+                "RegionlessRateCode": "vduOYyxKF3pXKVwe4d3vNmfGKpVwrFtjbPOVb236kjk"
             },
             "w_DWsGVkoIUL5ZtDSECk1Hhm1wKskOmTQt6YrLmFFAw": {
                 "rateCode": "R3KMQQ3E4RT63NTM.JRTCKXETXF.6YS6EN2CT7",
@@ -34738,6 +34783,11 @@
                 "price": "0.0000000000",
                 "RegionlessRateCode": "ZUJwZnFfU_2IMfoq6Wdhn74NHE4F3giyjL_XDybFGTs"
             },
+            "On Demand Malware Protection EBS Volume Data Scanned per GB": {
+                "rateCode": "2GMGAUR94Z96PD43.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0321000000",
+                "RegionlessRateCode": "fOsmfy1zqLfduSI9eBqpT2mVCXOilg1WzvGn-rBwee0"
+            },
             "Malware Protection S3 Request Monitored per 1000 upto Inf Events": {
                 "rateCode": "7GZHRAZKGCRRGQ37.JRTCKXETXF.MUBTP6UPGZ",
                 "price": "0.0002170000",
@@ -34768,6 +34818,11 @@
                 "price": "0.3000000000",
                 "RegionlessRateCode": "m78W2KYdAkbbLf8HPDrhUBYEKfEJX0A_O6SkDJQefG8"
             },
+            "Free Malware Protection EBS Data Scanned per GB": {
+                "rateCode": "U25YENFNFBJ53W8J.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "nPU8nFWcYHG49uLMeyuIfo6KesxqGnSSIGQtSstYgL4"
+            },
             "Lambda VPC Flow Log and DNS Processed per First 500 GB": {
                 "rateCode": "A4WFYU3RHUQZFN52.JRTCKXETXF.C2QCTD4VXQ",
                 "price": "1.2000000000",
@@ -34782,6 +34837,11 @@
                 "rateCode": "CYDWG4GJ53QYN33N.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0000000000",
                 "RegionlessRateCode": "uY2JzjMiZmCEMoV6c-7573nhSXTEm7XopmElyoyi3t0"
+            },
+            "Malware Protection EBS Data Scanned per GB": {
+                "rateCode": "AMTSP3ECVKJM2MPD.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0321000000",
+                "RegionlessRateCode": "vduOYyxKF3pXKVwe4d3vNmfGKpVwrFtjbPOVb236kjk"
             },
             "RDS ACU Limitless Monitored CreateDBInstance per ACU-Months": {
                 "rateCode": "R3KMQQ3E4RT63NTM.JRTCKXETXF.6YS6EN2CT7",

@@ -1,3 +1,16 @@
+## 2025-05-13 23:26
+
+**Modified services:**
+
+- [guardduty](processed/guardduty.json)
+  - Region added for metric On Demand Malware Protection EBS Volume Data Scanned per GB: AWS GovCloud (US-East) 🌎
+  - Region added for metric On Demand Malware Protection EBS Volume Data Scanned per GB: AWS GovCloud (US) 🌎
+  - Region added for metric Free Malware Protection EBS Data Scanned per GB: AWS GovCloud (US-East) 🌎
+  - Region added for metric Free Malware Protection EBS Data Scanned per GB: AWS GovCloud (US) 🌎
+  - Region added for metric Malware Protection EBS Data Scanned per GB: AWS GovCloud (US-East) 🌎
+  - Region added for metric Malware Protection EBS Data Scanned per GB: AWS GovCloud (US) 🌎
+
+
 ## 2025-05-13 21:25
 
 **Modified services:**
