@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "entityresolution",
         "accessType": "publish",
-        "esIndex": "plc-entityresolution-usd-20250508205039",
-        "hawkFilePublicationDate": "2025-05-08T20:50:39Z",
-        "ETLIngestionTriggerDate": "2025-05-08T20:50:39Z",
+        "esIndex": "plc-entityresolution-usd-20250513205946",
+        "hawkFilePublicationDate": "2025-05-13T20:59:46Z",
+        "ETLIngestionTriggerDate": "2025-05-13T20:59:46Z",
         "currencyCode": "USD",
         "source": "entityresolution",
         "isMapped": "true"
@@ -779,6 +779,68 @@
             },
             "DataPreparationForCollab per Records": {
                 "rateCode": "PR8D5XHBDWQXFKKJ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0001000000",
+                "RegionlessRateCode": "rPi3UtMP6SDcj7ohPY6kX7wV4nk-uAsxU3o9NduTafA"
+            }
+        },
+        "Africa (Cape Town)": {
+            "0Q7FM7dBjzSGD4Qsp9cPTAHJ_N8cp0Ck90WALRvxL1Y": {
+                "rateCode": "DTCYQURZ6UJ994BB.JRTCKXETXF.6YS6EN2CT7",
+                "price": "100.0000000000",
+                "RegionlessRateCode": "0Q7FM7dBjzSGD4Qsp9cPTAHJ_N8cp0Ck90WALRvxL1Y"
+            },
+            "2eAfmbqGuDSA7exWIYAvmDhIFiwSdOVBlGrj5I_VhTo": {
+                "rateCode": "6MVGD68QY22G8NBH.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0005000000",
+                "RegionlessRateCode": "2eAfmbqGuDSA7exWIYAvmDhIFiwSdOVBlGrj5I_VhTo"
+            },
+            "H0SgTtm8XKkX0PIS5601IC1FzqbKE4QZpYQBuAbHaVU": {
+                "rateCode": "8SQ8BDPXTZQHKPE2.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0005000000",
+                "RegionlessRateCode": "H0SgTtm8XKkX0PIS5601IC1FzqbKE4QZpYQBuAbHaVU"
+            },
+            "K-AB_IavE58bNdcACxjuhoZQzFYdiiphNN_Ubl0ub3w": {
+                "rateCode": "2E7PPHH46GJKCV7E.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0002500000",
+                "RegionlessRateCode": "K-AB_IavE58bNdcACxjuhoZQzFYdiiphNN_Ubl0ub3w"
+            },
+            "Mik4eqIJqBILlVxKxnj310JEq72W2sp-GEYlYuEV3jQ": {
+                "rateCode": "V6GN5W4SQCJUD698.JRTCKXETXF.6YS6EN2CT7",
+                "price": "100.0000000000",
+                "RegionlessRateCode": "Mik4eqIJqBILlVxKxnj310JEq72W2sp-GEYlYuEV3jQ"
+            },
+            "rPi3UtMP6SDcj7ohPY6kX7wV4nk-uAsxU3o9NduTafA": {
+                "rateCode": "4NRAH9YHX4JVKKTJ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0001000000",
+                "RegionlessRateCode": "rPi3UtMP6SDcj7ohPY6kX7wV4nk-uAsxU3o9NduTafA"
+            },
+            "DataMatchingFee per DataMatchingFee": {
+                "rateCode": "DTCYQURZ6UJ994BB.JRTCKXETXF.6YS6EN2CT7",
+                "price": "100.0000000000",
+                "RegionlessRateCode": "0Q7FM7dBjzSGD4Qsp9cPTAHJ_N8cp0Ck90WALRvxL1Y"
+            },
+            "DataMatching per RecordsMatched": {
+                "rateCode": "6MVGD68QY22G8NBH.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0005000000",
+                "RegionlessRateCode": "2eAfmbqGuDSA7exWIYAvmDhIFiwSdOVBlGrj5I_VhTo"
+            },
+            "DataMatchingForCollab per RecordsMatched": {
+                "rateCode": "8SQ8BDPXTZQHKPE2.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0005000000",
+                "RegionlessRateCode": "H0SgTtm8XKkX0PIS5601IC1FzqbKE4QZpYQBuAbHaVU"
+            },
+            "EntityResolution per Records": {
+                "rateCode": "2E7PPHH46GJKCV7E.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0002500000",
+                "RegionlessRateCode": "K-AB_IavE58bNdcACxjuhoZQzFYdiiphNN_Ubl0ub3w"
+            },
+            "DataMatchingFeeForCollab per DataMatchingFee": {
+                "rateCode": "V6GN5W4SQCJUD698.JRTCKXETXF.6YS6EN2CT7",
+                "price": "100.0000000000",
+                "RegionlessRateCode": "Mik4eqIJqBILlVxKxnj310JEq72W2sp-GEYlYuEV3jQ"
+            },
+            "DataPreparationForCollab per Records": {
+                "rateCode": "4NRAH9YHX4JVKKTJ.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0001000000",
                 "RegionlessRateCode": "rPi3UtMP6SDcj7ohPY6kX7wV4nk-uAsxU3o9NduTafA"
             }

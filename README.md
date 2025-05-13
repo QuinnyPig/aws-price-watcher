@@ -1,3 +1,16 @@
+## 2025-05-13 21:25
+
+**Modified services:**
+
+- [entityresolution](processed/entityresolution.json)
+  - Region added for metric DataMatchingFee per DataMatchingFee: Africa (Cape Town) 🌎
+  - Region added for metric DataMatching per RecordsMatched: Africa (Cape Town) 🌎
+  - Region added for metric DataMatchingForCollab per RecordsMatched: Africa (Cape Town) 🌎
+  - Region added for metric EntityResolution per Records: Africa (Cape Town) 🌎
+  - Region added for metric DataMatchingFeeForCollab per DataMatchingFee: Africa (Cape Town) 🌎
+  - Region added for metric DataPreparationForCollab per Records: Africa (Cape Town) 🌎
+
+
 ## 2025-05-13 15:27
 
 **Modified services:**
