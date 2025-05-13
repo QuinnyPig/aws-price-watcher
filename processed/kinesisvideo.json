@@ -235,24 +235,6 @@
         "AWS GovCloud (US-East)": "0.0000254540",
         "AWS GovCloud (US)": "0.0000254540"
     },
-    "Per month for an active signaling channel per Count": {
-        "US West (Oregon)": "0.0300000000",
-        "US East (Ohio)": "0.0300000000",
-        "US East (N. Virginia)": "0.0300000000",
-        "South America (Sao Paulo)": "0.0810000000",
-        "EU (Paris)": "0.0470000000",
-        "EU (London)": "0.0410000000",
-        "EU (Ireland)": "0.0333000000",
-        "EU (Frankfurt)": "0.0381000000",
-        "Canada (Central)": "0.0360000000",
-        "Asia Pacific (Tokyo)": "0.0450000000",
-        "Asia Pacific (Sydney)": "0.0473000000",
-        "Asia Pacific (Singapore)": "0.0400000000",
-        "Asia Pacific (Seoul)": "0.0400000000",
-        "Asia Pacific (Mumbai)": "0.0400000000",
-        "Asia Pacific (Hong Kong)": "0.0400000000",
-        "Africa (Cape Town)": "0.0300000000"
-    },
     "GetClip per GB": {
         "US West (Oregon)": "0.0119000000",
         "US East (Ohio)": "0.0119000000",
@@ -272,6 +254,24 @@
         "Africa (Cape Town)": "0.0133000000",
         "AWS GovCloud (US-East)": "0.0163000000",
         "AWS GovCloud (US)": "0.0163000000"
+    },
+    "Per month for an active signaling channel per Count": {
+        "US West (Oregon)": "0.0300000000",
+        "US East (Ohio)": "0.0300000000",
+        "US East (N. Virginia)": "0.0300000000",
+        "South America (Sao Paulo)": "0.0810000000",
+        "EU (Paris)": "0.0470000000",
+        "EU (London)": "0.0410000000",
+        "EU (Ireland)": "0.0333000000",
+        "EU (Frankfurt)": "0.0381000000",
+        "Canada (Central)": "0.0360000000",
+        "Asia Pacific (Tokyo)": "0.0450000000",
+        "Asia Pacific (Sydney)": "0.0473000000",
+        "Asia Pacific (Singapore)": "0.0400000000",
+        "Asia Pacific (Seoul)": "0.0400000000",
+        "Asia Pacific (Mumbai)": "0.0400000000",
+        "Asia Pacific (Hong Kong)": "0.0400000000",
+        "Africa (Cape Town)": "0.0300000000"
     },
     "Per million signaling messages per Messages": {
         "US West (Oregon)": "0.0000022500",

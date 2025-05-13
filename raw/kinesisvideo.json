@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "kinesisvideo",
         "accessType": "publish",
-        "esIndex": "plc-kinesisvideo-usd-20241003005229",
-        "hawkFilePublicationDate": "2024-08-26T17:31:05Z",
-        "ETLIngestionTriggerDate": "2024-10-03T00:52:29Z",
+        "esIndex": "plc-kinesisvideo-usd-20250513142529",
+        "hawkFilePublicationDate": "2025-05-13T14:25:29Z",
+        "ETLIngestionTriggerDate": "2025-05-13T14:25:29Z",
         "currencyCode": "USD",
         "source": "kinesisvideo",
         "isMapped": "true"
@@ -72,15 +72,15 @@
                 "price": "0.0000180000",
                 "RegionlessRateCode": "km3f9B51Pvs_8BoIZedDbk6c6fgPWZ85hytvANYBrzY"
             },
-            "lX3AENkLZDKioQFF3qTHvWmYdwtOgDe7y6galZM93eI": {
-                "rateCode": "YVHPRW4BBUUZ8962.JRTCKXETXF.6YS6EN2CT7",
-                "price": "0.0300000000",
-                "RegionlessRateCode": "lX3AENkLZDKioQFF3qTHvWmYdwtOgDe7y6galZM93eI"
-            },
             "vnx9YexT-UOBZ2wakH8bmiOHhYaCHZQvZdZztxgDPWU": {
                 "rateCode": "484GUF8JNRPRS938.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0119000000",
                 "RegionlessRateCode": "vnx9YexT-UOBZ2wakH8bmiOHhYaCHZQvZdZztxgDPWU"
+            },
+            "xvXJ_-lrANdr4Vw6siK_z7oL5UIV1glbGlKsaKz2lYk": {
+                "rateCode": "YVHPRW4BBUUZ8962.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0300000000",
+                "RegionlessRateCode": "xvXJ_-lrANdr4Vw6siK_z7oL5UIV1glbGlKsaKz2lYk"
             },
             "zOZ1y5EhZpKsf-Aa2NZ_otTKN6Y7sG6YJ_qIlTa1X_g": {
                 "rateCode": "BTFFG5K82AXMEFWT.JRTCKXETXF.6YS6EN2CT7",
@@ -147,15 +147,15 @@
                 "price": "0.0000180000",
                 "RegionlessRateCode": "km3f9B51Pvs_8BoIZedDbk6c6fgPWZ85hytvANYBrzY"
             },
-            "Per month for an active signaling channel per Count": {
-                "rateCode": "YVHPRW4BBUUZ8962.JRTCKXETXF.6YS6EN2CT7",
-                "price": "0.0300000000",
-                "RegionlessRateCode": "lX3AENkLZDKioQFF3qTHvWmYdwtOgDe7y6galZM93eI"
-            },
             "GetClip per GB": {
                 "rateCode": "484GUF8JNRPRS938.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0119000000",
                 "RegionlessRateCode": "vnx9YexT-UOBZ2wakH8bmiOHhYaCHZQvZdZztxgDPWU"
+            },
+            "Per month for an active signaling channel per Count": {
+                "rateCode": "YVHPRW4BBUUZ8962.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0300000000",
+                "RegionlessRateCode": "xvXJ_-lrANdr4Vw6siK_z7oL5UIV1glbGlKsaKz2lYk"
             },
             "Per million signaling messages per Messages": {
                 "rateCode": "BTFFG5K82AXMEFWT.JRTCKXETXF.6YS6EN2CT7",
@@ -376,15 +376,15 @@
                 "price": "0.0000180000",
                 "RegionlessRateCode": "km3f9B51Pvs_8BoIZedDbk6c6fgPWZ85hytvANYBrzY"
             },
-            "lX3AENkLZDKioQFF3qTHvWmYdwtOgDe7y6galZM93eI": {
-                "rateCode": "2D6XRW82K66GU286.JRTCKXETXF.6YS6EN2CT7",
-                "price": "0.0300000000",
-                "RegionlessRateCode": "lX3AENkLZDKioQFF3qTHvWmYdwtOgDe7y6galZM93eI"
-            },
             "vnx9YexT-UOBZ2wakH8bmiOHhYaCHZQvZdZztxgDPWU": {
                 "rateCode": "JAY5MU5U5Y9CYYAR.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0119000000",
                 "RegionlessRateCode": "vnx9YexT-UOBZ2wakH8bmiOHhYaCHZQvZdZztxgDPWU"
+            },
+            "xvXJ_-lrANdr4Vw6siK_z7oL5UIV1glbGlKsaKz2lYk": {
+                "rateCode": "2D6XRW82K66GU286.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0300000000",
+                "RegionlessRateCode": "xvXJ_-lrANdr4Vw6siK_z7oL5UIV1glbGlKsaKz2lYk"
             },
             "zOZ1y5EhZpKsf-Aa2NZ_otTKN6Y7sG6YJ_qIlTa1X_g": {
                 "rateCode": "CWKVC4GTX2UFWM8J.JRTCKXETXF.6YS6EN2CT7",
@@ -451,15 +451,15 @@
                 "price": "0.0000180000",
                 "RegionlessRateCode": "km3f9B51Pvs_8BoIZedDbk6c6fgPWZ85hytvANYBrzY"
             },
-            "Per month for an active signaling channel per Count": {
-                "rateCode": "2D6XRW82K66GU286.JRTCKXETXF.6YS6EN2CT7",
-                "price": "0.0300000000",
-                "RegionlessRateCode": "lX3AENkLZDKioQFF3qTHvWmYdwtOgDe7y6galZM93eI"
-            },
             "GetClip per GB": {
                 "rateCode": "JAY5MU5U5Y9CYYAR.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0119000000",
                 "RegionlessRateCode": "vnx9YexT-UOBZ2wakH8bmiOHhYaCHZQvZdZztxgDPWU"
+            },
+            "Per month for an active signaling channel per Count": {
+                "rateCode": "2D6XRW82K66GU286.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0300000000",
+                "RegionlessRateCode": "xvXJ_-lrANdr4Vw6siK_z7oL5UIV1glbGlKsaKz2lYk"
             },
             "Per million signaling messages per Messages": {
                 "rateCode": "CWKVC4GTX2UFWM8J.JRTCKXETXF.6YS6EN2CT7",
@@ -984,15 +984,15 @@
                 "price": "0.0000180000",
                 "RegionlessRateCode": "km3f9B51Pvs_8BoIZedDbk6c6fgPWZ85hytvANYBrzY"
             },
-            "lX3AENkLZDKioQFF3qTHvWmYdwtOgDe7y6galZM93eI": {
-                "rateCode": "GJ748EU2MU29BEMQ.JRTCKXETXF.6YS6EN2CT7",
-                "price": "0.0333000000",
-                "RegionlessRateCode": "lX3AENkLZDKioQFF3qTHvWmYdwtOgDe7y6galZM93eI"
-            },
             "vnx9YexT-UOBZ2wakH8bmiOHhYaCHZQvZdZztxgDPWU": {
                 "rateCode": "XP45YXQ2F9TJ7FUE.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0132200000",
                 "RegionlessRateCode": "vnx9YexT-UOBZ2wakH8bmiOHhYaCHZQvZdZztxgDPWU"
+            },
+            "xvXJ_-lrANdr4Vw6siK_z7oL5UIV1glbGlKsaKz2lYk": {
+                "rateCode": "GJ748EU2MU29BEMQ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0333000000",
+                "RegionlessRateCode": "xvXJ_-lrANdr4Vw6siK_z7oL5UIV1glbGlKsaKz2lYk"
             },
             "zOZ1y5EhZpKsf-Aa2NZ_otTKN6Y7sG6YJ_qIlTa1X_g": {
                 "rateCode": "SSZ2Z2J92A54DK5S.JRTCKXETXF.6YS6EN2CT7",
@@ -1059,15 +1059,15 @@
                 "price": "0.0000180000",
                 "RegionlessRateCode": "km3f9B51Pvs_8BoIZedDbk6c6fgPWZ85hytvANYBrzY"
             },
-            "Per month for an active signaling channel per Count": {
-                "rateCode": "GJ748EU2MU29BEMQ.JRTCKXETXF.6YS6EN2CT7",
-                "price": "0.0333000000",
-                "RegionlessRateCode": "lX3AENkLZDKioQFF3qTHvWmYdwtOgDe7y6galZM93eI"
-            },
             "GetClip per GB": {
                 "rateCode": "XP45YXQ2F9TJ7FUE.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0132200000",
                 "RegionlessRateCode": "vnx9YexT-UOBZ2wakH8bmiOHhYaCHZQvZdZztxgDPWU"
+            },
+            "Per month for an active signaling channel per Count": {
+                "rateCode": "GJ748EU2MU29BEMQ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0333000000",
+                "RegionlessRateCode": "xvXJ_-lrANdr4Vw6siK_z7oL5UIV1glbGlKsaKz2lYk"
             },
             "Per million signaling messages per Messages": {
                 "rateCode": "SSZ2Z2J92A54DK5S.JRTCKXETXF.6YS6EN2CT7",
@@ -1136,15 +1136,15 @@
                 "price": "0.0000180000",
                 "RegionlessRateCode": "km3f9B51Pvs_8BoIZedDbk6c6fgPWZ85hytvANYBrzY"
             },
-            "lX3AENkLZDKioQFF3qTHvWmYdwtOgDe7y6galZM93eI": {
-                "rateCode": "F432AQ2Z38Q43S4A.JRTCKXETXF.6YS6EN2CT7",
-                "price": "0.0381000000",
-                "RegionlessRateCode": "lX3AENkLZDKioQFF3qTHvWmYdwtOgDe7y6galZM93eI"
-            },
             "vnx9YexT-UOBZ2wakH8bmiOHhYaCHZQvZdZztxgDPWU": {
                 "rateCode": "75787NGMKMTXCD7P.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0142800000",
                 "RegionlessRateCode": "vnx9YexT-UOBZ2wakH8bmiOHhYaCHZQvZdZztxgDPWU"
+            },
+            "xvXJ_-lrANdr4Vw6siK_z7oL5UIV1glbGlKsaKz2lYk": {
+                "rateCode": "F432AQ2Z38Q43S4A.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0381000000",
+                "RegionlessRateCode": "xvXJ_-lrANdr4Vw6siK_z7oL5UIV1glbGlKsaKz2lYk"
             },
             "zOZ1y5EhZpKsf-Aa2NZ_otTKN6Y7sG6YJ_qIlTa1X_g": {
                 "rateCode": "666UQVNH4TUSFWJZ.JRTCKXETXF.6YS6EN2CT7",
@@ -1211,15 +1211,15 @@
                 "price": "0.0000180000",
                 "RegionlessRateCode": "km3f9B51Pvs_8BoIZedDbk6c6fgPWZ85hytvANYBrzY"
             },
-            "Per month for an active signaling channel per Count": {
-                "rateCode": "F432AQ2Z38Q43S4A.JRTCKXETXF.6YS6EN2CT7",
-                "price": "0.0381000000",
-                "RegionlessRateCode": "lX3AENkLZDKioQFF3qTHvWmYdwtOgDe7y6galZM93eI"
-            },
             "GetClip per GB": {
                 "rateCode": "75787NGMKMTXCD7P.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0142800000",
                 "RegionlessRateCode": "vnx9YexT-UOBZ2wakH8bmiOHhYaCHZQvZdZztxgDPWU"
+            },
+            "Per month for an active signaling channel per Count": {
+                "rateCode": "F432AQ2Z38Q43S4A.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0381000000",
+                "RegionlessRateCode": "xvXJ_-lrANdr4Vw6siK_z7oL5UIV1glbGlKsaKz2lYk"
             },
             "Per million signaling messages per Messages": {
                 "rateCode": "666UQVNH4TUSFWJZ.JRTCKXETXF.6YS6EN2CT7",
@@ -1440,15 +1440,15 @@
                 "price": "0.0000180000",
                 "RegionlessRateCode": "km3f9B51Pvs_8BoIZedDbk6c6fgPWZ85hytvANYBrzY"
             },
-            "lX3AENkLZDKioQFF3qTHvWmYdwtOgDe7y6galZM93eI": {
-                "rateCode": "YJNDCKF3NSS9MZQ6.JRTCKXETXF.6YS6EN2CT7",
-                "price": "0.0450000000",
-                "RegionlessRateCode": "lX3AENkLZDKioQFF3qTHvWmYdwtOgDe7y6galZM93eI"
-            },
             "vnx9YexT-UOBZ2wakH8bmiOHhYaCHZQvZdZztxgDPWU": {
                 "rateCode": "36P9G7CX6SPGQ49S.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0153600000",
                 "RegionlessRateCode": "vnx9YexT-UOBZ2wakH8bmiOHhYaCHZQvZdZztxgDPWU"
+            },
+            "xvXJ_-lrANdr4Vw6siK_z7oL5UIV1glbGlKsaKz2lYk": {
+                "rateCode": "YJNDCKF3NSS9MZQ6.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0450000000",
+                "RegionlessRateCode": "xvXJ_-lrANdr4Vw6siK_z7oL5UIV1glbGlKsaKz2lYk"
             },
             "zOZ1y5EhZpKsf-Aa2NZ_otTKN6Y7sG6YJ_qIlTa1X_g": {
                 "rateCode": "PNBMYUWEB8PY3KTB.JRTCKXETXF.6YS6EN2CT7",
@@ -1515,15 +1515,15 @@
                 "price": "0.0000180000",
                 "RegionlessRateCode": "km3f9B51Pvs_8BoIZedDbk6c6fgPWZ85hytvANYBrzY"
             },
-            "Per month for an active signaling channel per Count": {
-                "rateCode": "YJNDCKF3NSS9MZQ6.JRTCKXETXF.6YS6EN2CT7",
-                "price": "0.0450000000",
-                "RegionlessRateCode": "lX3AENkLZDKioQFF3qTHvWmYdwtOgDe7y6galZM93eI"
-            },
             "GetClip per GB": {
                 "rateCode": "36P9G7CX6SPGQ49S.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0153600000",
                 "RegionlessRateCode": "vnx9YexT-UOBZ2wakH8bmiOHhYaCHZQvZdZztxgDPWU"
+            },
+            "Per month for an active signaling channel per Count": {
+                "rateCode": "YJNDCKF3NSS9MZQ6.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0450000000",
+                "RegionlessRateCode": "xvXJ_-lrANdr4Vw6siK_z7oL5UIV1glbGlKsaKz2lYk"
             },
             "Per million signaling messages per Messages": {
                 "rateCode": "PNBMYUWEB8PY3KTB.JRTCKXETXF.6YS6EN2CT7",
@@ -1592,15 +1592,15 @@
                 "price": "0.0000180000",
                 "RegionlessRateCode": "km3f9B51Pvs_8BoIZedDbk6c6fgPWZ85hytvANYBrzY"
             },
-            "lX3AENkLZDKioQFF3qTHvWmYdwtOgDe7y6galZM93eI": {
-                "rateCode": "47KP6NTAY7CXGM8F.JRTCKXETXF.6YS6EN2CT7",
-                "price": "0.0473000000",
-                "RegionlessRateCode": "lX3AENkLZDKioQFF3qTHvWmYdwtOgDe7y6galZM93eI"
-            },
             "vnx9YexT-UOBZ2wakH8bmiOHhYaCHZQvZdZztxgDPWU": {
                 "rateCode": "H7GAVUACVQGHP6D6.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0188000000",
                 "RegionlessRateCode": "vnx9YexT-UOBZ2wakH8bmiOHhYaCHZQvZdZztxgDPWU"
+            },
+            "xvXJ_-lrANdr4Vw6siK_z7oL5UIV1glbGlKsaKz2lYk": {
+                "rateCode": "47KP6NTAY7CXGM8F.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0473000000",
+                "RegionlessRateCode": "xvXJ_-lrANdr4Vw6siK_z7oL5UIV1glbGlKsaKz2lYk"
             },
             "zOZ1y5EhZpKsf-Aa2NZ_otTKN6Y7sG6YJ_qIlTa1X_g": {
                 "rateCode": "4EHN6WRQ6497JUAK.JRTCKXETXF.6YS6EN2CT7",
@@ -1667,15 +1667,15 @@
                 "price": "0.0000180000",
                 "RegionlessRateCode": "km3f9B51Pvs_8BoIZedDbk6c6fgPWZ85hytvANYBrzY"
             },
-            "Per month for an active signaling channel per Count": {
-                "rateCode": "47KP6NTAY7CXGM8F.JRTCKXETXF.6YS6EN2CT7",
-                "price": "0.0473000000",
-                "RegionlessRateCode": "lX3AENkLZDKioQFF3qTHvWmYdwtOgDe7y6galZM93eI"
-            },
             "GetClip per GB": {
                 "rateCode": "H7GAVUACVQGHP6D6.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0188000000",
                 "RegionlessRateCode": "vnx9YexT-UOBZ2wakH8bmiOHhYaCHZQvZdZztxgDPWU"
+            },
+            "Per month for an active signaling channel per Count": {
+                "rateCode": "47KP6NTAY7CXGM8F.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0473000000",
+                "RegionlessRateCode": "xvXJ_-lrANdr4Vw6siK_z7oL5UIV1glbGlKsaKz2lYk"
             },
             "Per million signaling messages per Messages": {
                 "rateCode": "4EHN6WRQ6497JUAK.JRTCKXETXF.6YS6EN2CT7",
