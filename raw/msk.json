@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "msk",
         "accessType": "publish",
-        "esIndex": "plc-msk-usd-20250404190532",
-        "hawkFilePublicationDate": "2025-04-04T19:05:32Z",
-        "ETLIngestionTriggerDate": "2025-04-04T19:05:32Z",
+        "esIndex": "plc-msk-usd-20250513202458",
+        "hawkFilePublicationDate": "2025-05-13T20:24:58Z",
+        "ETLIngestionTriggerDate": "2025-05-13T20:24:58Z",
         "currencyCode": "USD",
         "source": "msk",
         "isMapped": "true"
