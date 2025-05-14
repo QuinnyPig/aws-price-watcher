@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "msk",
         "accessType": "publish",
-        "esIndex": "plc-msk-usd-20250513203058",
-        "hawkFilePublicationDate": "2025-05-13T20:30:58Z",
-        "ETLIngestionTriggerDate": "2025-05-13T20:30:58Z",
+        "esIndex": "plc-msk-usd-20250514172137",
+        "hawkFilePublicationDate": "2025-05-14T17:21:37Z",
+        "ETLIngestionTriggerDate": "2025-05-14T17:21:37Z",
         "currencyCode": "USD",
         "source": "msk",
         "isMapped": "true"
@@ -264,6 +264,7 @@
             "4FY7Q3Z232XJ6GZJ.JRTCKXETXF.6YS6EN2CT7 0",
             "4VCBUQFUCQ73DSMB.JRTCKXETXF.6YS6EN2CT7 0",
             "6VFKYV9ZE9JKTYAK.JRTCKXETXF.6YS6EN2CT7 0",
+            "7KQAD5ARWGDH6E5R.JRTCKXETXF.6YS6EN2CT7 0",
             "8D3M9JD6FEFJR472.JRTCKXETXF.6YS6EN2CT7 0",
             "BQN22EB5MSBXY2R8.JRTCKXETXF.6YS6EN2CT7 0",
             "GQNZAVCHQ2E2JCVB.JRTCKXETXF.6YS6EN2CT7 0",
@@ -278,6 +279,7 @@
             "VFEUGQQV92UAW2BV.JRTCKXETXF.6YS6EN2CT7 0",
             "XEZSAPGUF4MH4HPF.JRTCKXETXF.6YS6EN2CT7 0",
             "XRCVKG776G7T7WCW.JRTCKXETXF.6YS6EN2CT7 0",
+            "Y627NGE9CNUSH6P5.JRTCKXETXF.6YS6EN2CT7 0",
             "ZETQWAH7YVJ8UC3S.JRTCKXETXF.6YS6EN2CT7 0",
             "ZXGKK6GVYH8HN8A3.JRTCKXETXF.6YS6EN2CT7 0",
             "28X45XZESM4GQH6H.JRTCKXETXF.6YS6EN2CT7 0",
@@ -286,6 +288,7 @@
             "7NQP7G38UX7AFKRR.JRTCKXETXF.6YS6EN2CT7 0",
             "86ZAQKR6TS9AUW3B.JRTCKXETXF.6YS6EN2CT7 0",
             "9YSJSXHDHGJQN6QX.JRTCKXETXF.6YS6EN2CT7 0",
+            "A8X2MQPXJN2QY272.JRTCKXETXF.6YS6EN2CT7 0",
             "AST7DS3B4E2UMME7.JRTCKXETXF.6YS6EN2CT7 0",
             "BZXFDDTCQE5PPDVU.JRTCKXETXF.6YS6EN2CT7 0",
             "KBQ5MSPUN4WSD22J.JRTCKXETXF.6YS6EN2CT7 0",
@@ -300,6 +303,7 @@
             "VPY896AJBEU9BE8T.JRTCKXETXF.6YS6EN2CT7 0",
             "VR7PWSAHCDWTMPS7.JRTCKXETXF.6YS6EN2CT7 0",
             "X4W43V36Q4EKZ4VB.JRTCKXETXF.6YS6EN2CT7 0",
+            "XYYP3T5BS9CKG3DV.JRTCKXETXF.6YS6EN2CT7 0",
             "YT3X6NZNSFS7V66V.JRTCKXETXF.6YS6EN2CT7 0",
             "2GK8VBQF2REPUSET.JRTCKXETXF.6YS6EN2CT7 0",
             "3VVGKT6CZAJ52TM5.JRTCKXETXF.6YS6EN2CT7 0",
@@ -309,8 +313,10 @@
             "CWUC3CU9CFHAY5PW.JRTCKXETXF.6YS6EN2CT7 0",
             "EASWD28SPRMUDRJ3.JRTCKXETXF.6YS6EN2CT7 0",
             "EBCSKZW8JANZ24HU.JRTCKXETXF.6YS6EN2CT7 0",
+            "G4DAWUHNGU9KHFGP.JRTCKXETXF.6YS6EN2CT7 0",
             "GVBRSCMFBKBCU585.JRTCKXETXF.6YS6EN2CT7 0",
             "HGVSSXRURQR9AJ96.JRTCKXETXF.6YS6EN2CT7 0",
+            "JJKZQBTHKZVJJSP5.JRTCKXETXF.6YS6EN2CT7 0",
             "M54SSQDNU8TKSGKH.JRTCKXETXF.6YS6EN2CT7 0",
             "NRVHBKMW422K7ZEH.JRTCKXETXF.6YS6EN2CT7 0",
             "P2CVGA3W86DPXB63.JRTCKXETXF.6YS6EN2CT7 0",
@@ -325,6 +331,7 @@
             "27TW7SSB7DB3U2RQ.JRTCKXETXF.6YS6EN2CT7 0",
             "2SX93ZSQS6EPWMGR.JRTCKXETXF.6YS6EN2CT7 0",
             "36TKEZ2U9A2CDZHJ.JRTCKXETXF.6YS6EN2CT7 0",
+            "39VSEJHB5MYJUHYP.JRTCKXETXF.6YS6EN2CT7 0",
             "5PVMHM2TRQ7SGRXN.JRTCKXETXF.6YS6EN2CT7 0",
             "6V36ZVRP29TFTG3B.JRTCKXETXF.6YS6EN2CT7 0",
             "7BXVABJBFQUQ4ZC6.JRTCKXETXF.6YS6EN2CT7 0",
@@ -333,6 +340,7 @@
             "EDCX9QXDE2RBFNZQ.JRTCKXETXF.6YS6EN2CT7 0",
             "KQFKAUUB4TXE2QRS.JRTCKXETXF.6YS6EN2CT7 0",
             "KZMVE4VAUDK5RCCR.JRTCKXETXF.6YS6EN2CT7 0",
+            "MECVBYDZNBVJMZAA.JRTCKXETXF.6YS6EN2CT7 0",
             "N3AYRSXCFVFX7KUE.JRTCKXETXF.6YS6EN2CT7 0",
             "QKAAE9TE98NFQBDC.JRTCKXETXF.6YS6EN2CT7 0",
             "R8Q7R7QMXJUNFFA5.JRTCKXETXF.6YS6EN2CT7 0",
@@ -350,8 +358,10 @@
             "86JRD8JMZ6AV2HFU.JRTCKXETXF.6YS6EN2CT7 0",
             "8Z9YMBUG59VDUXXE.JRTCKXETXF.6YS6EN2CT7 0",
             "98S2B5NNHWW3757M.JRTCKXETXF.6YS6EN2CT7 0",
+            "CCYB2ZT5RM6KH4YQ.JRTCKXETXF.6YS6EN2CT7 0",
             "DMJ89BEYDQKA8H45.JRTCKXETXF.6YS6EN2CT7 0",
             "EVEB3KDK252JGUB2.JRTCKXETXF.6YS6EN2CT7 0",
+            "H6ECKUCGNJS2HBRS.JRTCKXETXF.6YS6EN2CT7 0",
             "JN7RRCUGQRQAD7QH.JRTCKXETXF.6YS6EN2CT7 0",
             "JW6VSRXVAP3TQBWD.JRTCKXETXF.6YS6EN2CT7 0",
             "KU83GQ6FU6R9QFUD.JRTCKXETXF.6YS6EN2CT7 0",
@@ -373,6 +383,7 @@
             "EDKC3KGB79FY4CJ3.JRTCKXETXF.6YS6EN2CT7 0",
             "EF2RRUP3QJ6CNSAV.JRTCKXETXF.6YS6EN2CT7 0",
             "ETZSHT3TA7SGPGPQ.JRTCKXETXF.6YS6EN2CT7 0",
+            "GS27ZWH533Q66A33.JRTCKXETXF.6YS6EN2CT7 0",
             "HAGH34ECVXNNHTCF.JRTCKXETXF.6YS6EN2CT7 0",
             "HVATVMB3KPKC2U6V.JRTCKXETXF.6YS6EN2CT7 0",
             "NR4E2TGDUNJZTB8H.JRTCKXETXF.6YS6EN2CT7 0",
@@ -385,6 +396,7 @@
             "VAG32A47ZED5S727.JRTCKXETXF.6YS6EN2CT7 0",
             "VFWB9677DR65TESP.JRTCKXETXF.6YS6EN2CT7 0",
             "YP6RYGN3J2G4CGG7.JRTCKXETXF.6YS6EN2CT7 0",
+            "ZU636XFM2GSZ77XB.JRTCKXETXF.6YS6EN2CT7 0",
             "2JBW4Q6HH85RPBXS.JRTCKXETXF.6YS6EN2CT7 0",
             "4CNKQBKVHK5TGAY6.JRTCKXETXF.6YS6EN2CT7 0",
             "5VA2MN9T9QW45C87.JRTCKXETXF.6YS6EN2CT7 0",
@@ -393,6 +405,7 @@
             "BGQVYV74MDANC2T5.JRTCKXETXF.6YS6EN2CT7 0",
             "BY8QFZN7M8W7X3ZF.JRTCKXETXF.6YS6EN2CT7 0",
             "D2A9ZBQ8M9HD4ZSY.JRTCKXETXF.6YS6EN2CT7 0",
+            "DPNMX6ZERPBRCVX4.JRTCKXETXF.6YS6EN2CT7 0",
             "GB43B3AS4KYJFCWT.JRTCKXETXF.6YS6EN2CT7 0",
             "GRFCCMHQG5CGFHU6.JRTCKXETXF.6YS6EN2CT7 0",
             "J3KFQMFJBRREB2YC.JRTCKXETXF.6YS6EN2CT7 0",
@@ -400,6 +413,7 @@
             "MRYFVUMUFD64Y7NQ.JRTCKXETXF.6YS6EN2CT7 0",
             "N2DQ28DFJM9PCN4U.JRTCKXETXF.6YS6EN2CT7 0",
             "QZTY48VQ9EF8KFFB.JRTCKXETXF.6YS6EN2CT7 0",
+            "SQAWXB3CEBFAPJNW.JRTCKXETXF.6YS6EN2CT7 0",
             "UQMY7NTYFAK9VZGZ.JRTCKXETXF.6YS6EN2CT7 0",
             "W84WEZZMW6VEG9YA.JRTCKXETXF.6YS6EN2CT7 0",
             "X3KKZWYU2VAHB3B2.JRTCKXETXF.6YS6EN2CT7 0",
@@ -427,6 +441,8 @@
             "FGK22SM5MJRP93QM.JRTCKXETXF.6YS6EN2CT7 0",
             "FNQNN5PC5TNDG9MG.JRTCKXETXF.6YS6EN2CT7 0",
             "HDT5V6REK924ZC65.JRTCKXETXF.6YS6EN2CT7 0",
+            "HGG6H3XBRWFCM25K.JRTCKXETXF.6YS6EN2CT7 0",
+            "J2VJN3A7PRVHQQT7.JRTCKXETXF.6YS6EN2CT7 0",
             "J9PKRSS8YXN9T8R7.JRTCKXETXF.6YS6EN2CT7 0",
             "JB7Y4N4MMMM8KUH8.JRTCKXETXF.6YS6EN2CT7 0",
             "JYKVYMK9XXKS3T2C.JRTCKXETXF.6YS6EN2CT7 0",
@@ -6664,6 +6680,383 @@
             "RunVolume General": {
                 "rateCode": "7BB62FCAHWW59VQA.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0968000000",
+                "RegionlessRateCode": "xqyk4U-a4bffMCBnylkMrAqaUBstkau6GHiWJ6UmRiM"
+            }
+        },
+        "Mexico (Central)": {
+            "7KQAD5ARWGDH6E5R.JRTCKXETXF.6YS6EN2CT7 0": {
+                "rateCode": "7KQAD5ARWGDH6E5R.JRTCKXETXF.6YS6EN2CT7",
+                "price": "5.1420000000",
+                "RegionlessRateCode": "wb4oHGDeRIqHUJ2W4qhHmhwmfqu_yxban8hKJ3_vOro",
+                "Compute Family": "m7g.12xlarge",
+                "usageType": "MXC1-Kafka.m7g.12xlarge",
+                "vCPU": "48",
+                "Memory (GiB)": "192",
+                "operation": "RunBroker"
+            },
+            "A8X2MQPXJN2QY272.JRTCKXETXF.6YS6EN2CT7 0": {
+                "rateCode": "A8X2MQPXJN2QY272.JRTCKXETXF.6YS6EN2CT7",
+                "price": "6.8560000000",
+                "RegionlessRateCode": "ECCEjKIMbg_1iQz7BAkPadW7Af5FmZfEzFUF-BHuE_4",
+                "Compute Family": "m7g.16xlarge",
+                "usageType": "MXC1-Kafka.m7g.16xlarge",
+                "vCPU": "64",
+                "Memory (GiB)": "256",
+                "operation": "RunBroker"
+            },
+            "JJKZQBTHKZVJJSP5.JRTCKXETXF.6YS6EN2CT7 0": {
+                "rateCode": "JJKZQBTHKZVJJSP5.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.8570000000",
+                "RegionlessRateCode": "j8OjivGYcNO_aga6BBSiKfnul_yyikgLpio116zENw8",
+                "Compute Family": "m7g.2xlarge",
+                "usageType": "MXC1-Kafka.m7g.2xlarge",
+                "vCPU": "8",
+                "Memory (GiB)": "32",
+                "operation": "RunBroker"
+            },
+            "39VSEJHB5MYJUHYP.JRTCKXETXF.6YS6EN2CT7 0": {
+                "rateCode": "39VSEJHB5MYJUHYP.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.7140000000",
+                "RegionlessRateCode": "OZDEEDv71xwohWJFwf303p_wi1CyMRer-I-MJe3XlC8",
+                "Compute Family": "m7g.4xlarge",
+                "usageType": "MXC1-Kafka.m7g.4xlarge",
+                "vCPU": "16",
+                "Memory (GiB)": "64",
+                "operation": "RunBroker"
+            },
+            "H6ECKUCGNJS2HBRS.JRTCKXETXF.6YS6EN2CT7 0": {
+                "rateCode": "H6ECKUCGNJS2HBRS.JRTCKXETXF.6YS6EN2CT7",
+                "price": "3.4280000000",
+                "RegionlessRateCode": "tSXQqHlvjqTG2GKmzcXCslh3Uh5acLfdIZPx7Vjs9vo",
+                "Compute Family": "m7g.8xlarge",
+                "usageType": "MXC1-Kafka.m7g.8xlarge",
+                "vCPU": "32",
+                "Memory (GiB)": "128",
+                "operation": "RunBroker"
+            },
+            "ZU636XFM2GSZ77XB.JRTCKXETXF.6YS6EN2CT7 0": {
+                "rateCode": "ZU636XFM2GSZ77XB.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2142500000",
+                "RegionlessRateCode": "TV0klsMQlUw8VYqkbaPzd0roGv2wZaYnAa7isDC84T0",
+                "Compute Family": "m7g.large",
+                "usageType": "MXC1-Kafka.m7g.large",
+                "vCPU": "2",
+                "Memory (GiB)": "8",
+                "operation": "RunBroker"
+            },
+            "DPNMX6ZERPBRCVX4.JRTCKXETXF.6YS6EN2CT7 0": {
+                "rateCode": "DPNMX6ZERPBRCVX4.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.4285000000",
+                "RegionlessRateCode": "YK5GVNF_5U9hgmcosNoUlYCNQ34ya3Hp6lz4hUEjEc4",
+                "Compute Family": "m7g.xlarge",
+                "usageType": "MXC1-Kafka.m7g.xlarge",
+                "vCPU": "4",
+                "Memory (GiB)": "16",
+                "operation": "RunBroker"
+            },
+            "J2VJN3A7PRVHQQT7.JRTCKXETXF.6YS6EN2CT7 0": {
+                "rateCode": "J2VJN3A7PRVHQQT7.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0477923080",
+                "RegionlessRateCode": "lWJEANrUcrL2Lnurj26Qpad-rmRVUZHoB-_lse_dD6g",
+                "Compute Family": "t3.small",
+                "usageType": "MXC1-Kafka.t3.small",
+                "vCPU": "2",
+                "Memory (GiB)": "2",
+                "operation": "RunBroker"
+            },
+            "CIdz_Ql1ujlp9BTcjM_ocOK-IxgN4vZXNxnqFt5tV5g": {
+                "rateCode": "U5PJN9KWF85UU5HB.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1050000000",
+                "RegionlessRateCode": "CIdz_Ql1ujlp9BTcjM_ocOK-IxgN4vZXNxnqFt5tV5g",
+                "Compute Family": "",
+                "usageType": "MXC1-Kafka.Storage.GP2",
+                "vCPU": "",
+                "Memory (GiB)": "",
+                "operation": "RunVolume"
+            },
+            "ECCEjKIMbg_1iQz7BAkPadW7Af5FmZfEzFUF-BHuE_4": {
+                "rateCode": "A8X2MQPXJN2QY272.JRTCKXETXF.6YS6EN2CT7",
+                "price": "6.8560000000",
+                "RegionlessRateCode": "ECCEjKIMbg_1iQz7BAkPadW7Af5FmZfEzFUF-BHuE_4",
+                "Compute Family": "m7g.16xlarge",
+                "usageType": "MXC1-Kafka.m7g.16xlarge",
+                "vCPU": "64",
+                "Memory (GiB)": "256",
+                "operation": "RunBroker"
+            },
+            "OZDEEDv71xwohWJFwf303p_wi1CyMRer-I-MJe3XlC8": {
+                "rateCode": "39VSEJHB5MYJUHYP.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.7140000000",
+                "RegionlessRateCode": "OZDEEDv71xwohWJFwf303p_wi1CyMRer-I-MJe3XlC8",
+                "Compute Family": "m7g.4xlarge",
+                "usageType": "MXC1-Kafka.m7g.4xlarge",
+                "vCPU": "16",
+                "Memory (GiB)": "64",
+                "operation": "RunBroker"
+            },
+            "TV0klsMQlUw8VYqkbaPzd0roGv2wZaYnAa7isDC84T0": {
+                "rateCode": "ZU636XFM2GSZ77XB.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2142500000",
+                "RegionlessRateCode": "TV0klsMQlUw8VYqkbaPzd0roGv2wZaYnAa7isDC84T0",
+                "Compute Family": "m7g.large",
+                "usageType": "MXC1-Kafka.m7g.large",
+                "vCPU": "2",
+                "Memory (GiB)": "8",
+                "operation": "RunBroker"
+            },
+            "YK5GVNF_5U9hgmcosNoUlYCNQ34ya3Hp6lz4hUEjEc4": {
+                "rateCode": "DPNMX6ZERPBRCVX4.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.4285000000",
+                "RegionlessRateCode": "YK5GVNF_5U9hgmcosNoUlYCNQ34ya3Hp6lz4hUEjEc4",
+                "Compute Family": "m7g.xlarge",
+                "usageType": "MXC1-Kafka.m7g.xlarge",
+                "vCPU": "4",
+                "Memory (GiB)": "16",
+                "operation": "RunBroker"
+            },
+            "cFQdObKYBO4wfO7t6sykNQmDP8EWp9ujD8ZaWvtyz-k": {
+                "rateCode": "2M6RNHNKGMSK49PZ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0236250000",
+                "RegionlessRateCode": "cFQdObKYBO4wfO7t6sykNQmDP8EWp9ujD8ZaWvtyz-k",
+                "Compute Family": "",
+                "usageType": "MXC1-Kafka.PrivateConnectivityHours",
+                "vCPU": "",
+                "Memory (GiB)": "",
+                "operation": "PrivateConnectivity"
+            },
+            "cUK3iM2a8D_hsApDBwgkhgVvCS72puj2SPaG06iGRk8": {
+                "rateCode": "RT6G2F43JJPK2ACN.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0015000000",
+                "RegionlessRateCode": "cUK3iM2a8D_hsApDBwgkhgVvCS72puj2SPaG06iGRk8",
+                "Compute Family": "",
+                "usageType": "MXC1-Kafka.DataRetrieval.Tiered",
+                "vCPU": "",
+                "Memory (GiB)": "",
+                "operation": "TieredStorage"
+            },
+            "cz66KhW4xjZxq45mfEWxP4OWRowcm11uWHgdgqRfjhY": {
+                "rateCode": "2M22FVGN546CRCA3.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0060000000",
+                "RegionlessRateCode": "cz66KhW4xjZxq45mfEWxP4OWRowcm11uWHgdgqRfjhY",
+                "Compute Family": "",
+                "usageType": "MXC1-Kafka.PrivateConnectivity.BytesProcessed",
+                "vCPU": "",
+                "Memory (GiB)": "",
+                "operation": "PrivateConnectivity"
+            },
+            "el8LdSZreNOrRRPRu6uxEFWkVsgLw3GNwt_5aYY1k0w": {
+                "rateCode": "VSHG38ZZ4ZMP8BNS.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0630000000",
+                "RegionlessRateCode": "el8LdSZreNOrRRPRu6uxEFWkVsgLw3GNwt_5aYY1k0w",
+                "Compute Family": "",
+                "usageType": "MXC1-Kafka.Storage.Tiered",
+                "vCPU": "",
+                "Memory (GiB)": "",
+                "operation": "TieredStorage"
+            },
+            "j8OjivGYcNO_aga6BBSiKfnul_yyikgLpio116zENw8": {
+                "rateCode": "JJKZQBTHKZVJJSP5.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.8570000000",
+                "RegionlessRateCode": "j8OjivGYcNO_aga6BBSiKfnul_yyikgLpio116zENw8",
+                "Compute Family": "m7g.2xlarge",
+                "usageType": "MXC1-Kafka.m7g.2xlarge",
+                "vCPU": "8",
+                "Memory (GiB)": "32",
+                "operation": "RunBroker"
+            },
+            "lWJEANrUcrL2Lnurj26Qpad-rmRVUZHoB-_lse_dD6g": {
+                "rateCode": "J2VJN3A7PRVHQQT7.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0477923080",
+                "RegionlessRateCode": "lWJEANrUcrL2Lnurj26Qpad-rmRVUZHoB-_lse_dD6g",
+                "Compute Family": "t3.small",
+                "usageType": "MXC1-Kafka.t3.small",
+                "vCPU": "2",
+                "Memory (GiB)": "2",
+                "operation": "RunBroker"
+            },
+            "tSXQqHlvjqTG2GKmzcXCslh3Uh5acLfdIZPx7Vjs9vo": {
+                "rateCode": "H6ECKUCGNJS2HBRS.JRTCKXETXF.6YS6EN2CT7",
+                "price": "3.4280000000",
+                "RegionlessRateCode": "tSXQqHlvjqTG2GKmzcXCslh3Uh5acLfdIZPx7Vjs9vo",
+                "Compute Family": "m7g.8xlarge",
+                "usageType": "MXC1-Kafka.m7g.8xlarge",
+                "vCPU": "32",
+                "Memory (GiB)": "128",
+                "operation": "RunBroker"
+            },
+            "wb4oHGDeRIqHUJ2W4qhHmhwmfqu_yxban8hKJ3_vOro": {
+                "rateCode": "7KQAD5ARWGDH6E5R.JRTCKXETXF.6YS6EN2CT7",
+                "price": "5.1420000000",
+                "RegionlessRateCode": "wb4oHGDeRIqHUJ2W4qhHmhwmfqu_yxban8hKJ3_vOro",
+                "Compute Family": "m7g.12xlarge",
+                "usageType": "MXC1-Kafka.m7g.12xlarge",
+                "vCPU": "48",
+                "Memory (GiB)": "192",
+                "operation": "RunBroker"
+            },
+            "xqyk4U-a4bffMCBnylkMrAqaUBstkau6GHiWJ6UmRiM": {
+                "rateCode": "U9ZP9GQTA34PYB4B.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0840000000",
+                "RegionlessRateCode": "xqyk4U-a4bffMCBnylkMrAqaUBstkau6GHiWJ6UmRiM",
+                "Compute Family": "",
+                "usageType": "MXC1-Kafka.Throughput",
+                "vCPU": "",
+                "Memory (GiB)": "",
+                "operation": "RunVolume"
+            },
+            "RunVolume": {
+                "rateCode": "U5PJN9KWF85UU5HB.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1050000000",
+                "RegionlessRateCode": "CIdz_Ql1ujlp9BTcjM_ocOK-IxgN4vZXNxnqFt5tV5g"
+            },
+            "RunVolume GP2": {
+                "rateCode": "U5PJN9KWF85UU5HB.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1050000000",
+                "RegionlessRateCode": "CIdz_Ql1ujlp9BTcjM_ocOK-IxgN4vZXNxnqFt5tV5g"
+            },
+            "RunBroker-computefamily-m7g.16xlarge": {
+                "rateCode": "A8X2MQPXJN2QY272.JRTCKXETXF.6YS6EN2CT7",
+                "price": "6.8560000000",
+                "RegionlessRateCode": "ECCEjKIMbg_1iQz7BAkPadW7Af5FmZfEzFUF-BHuE_4"
+            },
+            "RunBroker m7g.16xlarge": {
+                "rateCode": "A8X2MQPXJN2QY272.JRTCKXETXF.6YS6EN2CT7",
+                "price": "6.8560000000",
+                "RegionlessRateCode": "ECCEjKIMbg_1iQz7BAkPadW7Af5FmZfEzFUF-BHuE_4",
+                "Compute Family": "m7g.16xlarge",
+                "usageType": "MXC1-Kafka.m7g.16xlarge",
+                "vCPU": "64",
+                "Memory (GiB)": "256",
+                "operation": "RunBroker"
+            },
+            "RunBroker-computefamily-m7g.4xlarge": {
+                "rateCode": "39VSEJHB5MYJUHYP.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.7140000000",
+                "RegionlessRateCode": "OZDEEDv71xwohWJFwf303p_wi1CyMRer-I-MJe3XlC8"
+            },
+            "RunBroker m7g.4xlarge": {
+                "rateCode": "39VSEJHB5MYJUHYP.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.7140000000",
+                "RegionlessRateCode": "OZDEEDv71xwohWJFwf303p_wi1CyMRer-I-MJe3XlC8",
+                "Compute Family": "m7g.4xlarge",
+                "usageType": "MXC1-Kafka.m7g.4xlarge",
+                "vCPU": "16",
+                "Memory (GiB)": "64",
+                "operation": "RunBroker"
+            },
+            "RunBroker-computefamily-m7g.large": {
+                "rateCode": "ZU636XFM2GSZ77XB.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2142500000",
+                "RegionlessRateCode": "TV0klsMQlUw8VYqkbaPzd0roGv2wZaYnAa7isDC84T0"
+            },
+            "RunBroker m7g.large": {
+                "rateCode": "ZU636XFM2GSZ77XB.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2142500000",
+                "RegionlessRateCode": "TV0klsMQlUw8VYqkbaPzd0roGv2wZaYnAa7isDC84T0",
+                "Compute Family": "m7g.large",
+                "usageType": "MXC1-Kafka.m7g.large",
+                "vCPU": "2",
+                "Memory (GiB)": "8",
+                "operation": "RunBroker"
+            },
+            "RunBroker-computefamily-m7g.xlarge": {
+                "rateCode": "DPNMX6ZERPBRCVX4.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.4285000000",
+                "RegionlessRateCode": "YK5GVNF_5U9hgmcosNoUlYCNQ34ya3Hp6lz4hUEjEc4"
+            },
+            "RunBroker m7g.xlarge": {
+                "rateCode": "DPNMX6ZERPBRCVX4.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.4285000000",
+                "RegionlessRateCode": "YK5GVNF_5U9hgmcosNoUlYCNQ34ya3Hp6lz4hUEjEc4",
+                "Compute Family": "m7g.xlarge",
+                "usageType": "MXC1-Kafka.m7g.xlarge",
+                "vCPU": "4",
+                "Memory (GiB)": "16",
+                "operation": "RunBroker"
+            },
+            "PrivateConnectivity hours per authentication scheme": {
+                "rateCode": "2M6RNHNKGMSK49PZ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0236250000",
+                "RegionlessRateCode": "cFQdObKYBO4wfO7t6sykNQmDP8EWp9ujD8ZaWvtyz-k"
+            },
+            "TieredStorage Tiered storage-DataRetrieval": {
+                "rateCode": "RT6G2F43JJPK2ACN.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0015000000",
+                "RegionlessRateCode": "cUK3iM2a8D_hsApDBwgkhgVvCS72puj2SPaG06iGRk8"
+            },
+            "PrivateConnectivity Bytes Processed": {
+                "rateCode": "2M22FVGN546CRCA3.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0060000000",
+                "RegionlessRateCode": "cz66KhW4xjZxq45mfEWxP4OWRowcm11uWHgdgqRfjhY"
+            },
+            "TieredStorage Tiered storage": {
+                "rateCode": "VSHG38ZZ4ZMP8BNS.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0630000000",
+                "RegionlessRateCode": "el8LdSZreNOrRRPRu6uxEFWkVsgLw3GNwt_5aYY1k0w"
+            },
+            "RunBroker-computefamily-m7g.2xlarge": {
+                "rateCode": "JJKZQBTHKZVJJSP5.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.8570000000",
+                "RegionlessRateCode": "j8OjivGYcNO_aga6BBSiKfnul_yyikgLpio116zENw8"
+            },
+            "RunBroker m7g.2xlarge": {
+                "rateCode": "JJKZQBTHKZVJJSP5.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.8570000000",
+                "RegionlessRateCode": "j8OjivGYcNO_aga6BBSiKfnul_yyikgLpio116zENw8",
+                "Compute Family": "m7g.2xlarge",
+                "usageType": "MXC1-Kafka.m7g.2xlarge",
+                "vCPU": "8",
+                "Memory (GiB)": "32",
+                "operation": "RunBroker"
+            },
+            "RunBroker-computefamily-t3.small": {
+                "rateCode": "J2VJN3A7PRVHQQT7.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0477923080",
+                "RegionlessRateCode": "lWJEANrUcrL2Lnurj26Qpad-rmRVUZHoB-_lse_dD6g"
+            },
+            "RunBroker t3.small": {
+                "rateCode": "J2VJN3A7PRVHQQT7.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0477923080",
+                "RegionlessRateCode": "lWJEANrUcrL2Lnurj26Qpad-rmRVUZHoB-_lse_dD6g",
+                "Compute Family": "t3.small",
+                "usageType": "MXC1-Kafka.t3.small",
+                "vCPU": "2",
+                "Memory (GiB)": "2",
+                "operation": "RunBroker"
+            },
+            "RunBroker-computefamily-m7g.8xlarge": {
+                "rateCode": "H6ECKUCGNJS2HBRS.JRTCKXETXF.6YS6EN2CT7",
+                "price": "3.4280000000",
+                "RegionlessRateCode": "tSXQqHlvjqTG2GKmzcXCslh3Uh5acLfdIZPx7Vjs9vo"
+            },
+            "RunBroker m7g.8xlarge": {
+                "rateCode": "H6ECKUCGNJS2HBRS.JRTCKXETXF.6YS6EN2CT7",
+                "price": "3.4280000000",
+                "RegionlessRateCode": "tSXQqHlvjqTG2GKmzcXCslh3Uh5acLfdIZPx7Vjs9vo",
+                "Compute Family": "m7g.8xlarge",
+                "usageType": "MXC1-Kafka.m7g.8xlarge",
+                "vCPU": "32",
+                "Memory (GiB)": "128",
+                "operation": "RunBroker"
+            },
+            "RunBroker-computefamily-m7g.12xlarge": {
+                "rateCode": "7KQAD5ARWGDH6E5R.JRTCKXETXF.6YS6EN2CT7",
+                "price": "5.1420000000",
+                "RegionlessRateCode": "wb4oHGDeRIqHUJ2W4qhHmhwmfqu_yxban8hKJ3_vOro"
+            },
+            "RunBroker m7g.12xlarge": {
+                "rateCode": "7KQAD5ARWGDH6E5R.JRTCKXETXF.6YS6EN2CT7",
+                "price": "5.1420000000",
+                "RegionlessRateCode": "wb4oHGDeRIqHUJ2W4qhHmhwmfqu_yxban8hKJ3_vOro",
+                "Compute Family": "m7g.12xlarge",
+                "usageType": "MXC1-Kafka.m7g.12xlarge",
+                "vCPU": "48",
+                "Memory (GiB)": "192",
+                "operation": "RunBroker"
+            },
+            "RunVolume General": {
+                "rateCode": "U9ZP9GQTA34PYB4B.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0840000000",
                 "RegionlessRateCode": "xqyk4U-a4bffMCBnylkMrAqaUBstkau6GHiWJ6UmRiM"
             }
         },
@@ -15793,6 +16186,383 @@
             "RunVolume General": {
                 "rateCode": "3SZ7MBAXWHQRH9PV.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0960000000",
+                "RegionlessRateCode": "xqyk4U-a4bffMCBnylkMrAqaUBstkau6GHiWJ6UmRiM"
+            }
+        },
+        "Asia Pacific (Thailand)": {
+            "Y627NGE9CNUSH6P5.JRTCKXETXF.6YS6EN2CT7 0": {
+                "rateCode": "Y627NGE9CNUSH6P5.JRTCKXETXF.6YS6EN2CT7",
+                "price": "5.2020000000",
+                "RegionlessRateCode": "wb4oHGDeRIqHUJ2W4qhHmhwmfqu_yxban8hKJ3_vOro",
+                "Compute Family": "m7g.12xlarge",
+                "usageType": "APS9-Kafka.m7g.12xlarge",
+                "vCPU": "48",
+                "Memory (GiB)": "192",
+                "operation": "RunBroker"
+            },
+            "XYYP3T5BS9CKG3DV.JRTCKXETXF.6YS6EN2CT7 0": {
+                "rateCode": "XYYP3T5BS9CKG3DV.JRTCKXETXF.6YS6EN2CT7",
+                "price": "6.9360000000",
+                "RegionlessRateCode": "ECCEjKIMbg_1iQz7BAkPadW7Af5FmZfEzFUF-BHuE_4",
+                "Compute Family": "m7g.16xlarge",
+                "usageType": "APS9-Kafka.m7g.16xlarge",
+                "vCPU": "64",
+                "Memory (GiB)": "256",
+                "operation": "RunBroker"
+            },
+            "G4DAWUHNGU9KHFGP.JRTCKXETXF.6YS6EN2CT7 0": {
+                "rateCode": "G4DAWUHNGU9KHFGP.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.8670000000",
+                "RegionlessRateCode": "j8OjivGYcNO_aga6BBSiKfnul_yyikgLpio116zENw8",
+                "Compute Family": "m7g.2xlarge",
+                "usageType": "APS9-Kafka.m7g.2xlarge",
+                "vCPU": "8",
+                "Memory (GiB)": "32",
+                "operation": "RunBroker"
+            },
+            "MECVBYDZNBVJMZAA.JRTCKXETXF.6YS6EN2CT7 0": {
+                "rateCode": "MECVBYDZNBVJMZAA.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.7340000000",
+                "RegionlessRateCode": "OZDEEDv71xwohWJFwf303p_wi1CyMRer-I-MJe3XlC8",
+                "Compute Family": "m7g.4xlarge",
+                "usageType": "APS9-Kafka.m7g.4xlarge",
+                "vCPU": "16",
+                "Memory (GiB)": "64",
+                "operation": "RunBroker"
+            },
+            "CCYB2ZT5RM6KH4YQ.JRTCKXETXF.6YS6EN2CT7 0": {
+                "rateCode": "CCYB2ZT5RM6KH4YQ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "3.4680000000",
+                "RegionlessRateCode": "tSXQqHlvjqTG2GKmzcXCslh3Uh5acLfdIZPx7Vjs9vo",
+                "Compute Family": "m7g.8xlarge",
+                "usageType": "APS9-Kafka.m7g.8xlarge",
+                "vCPU": "32",
+                "Memory (GiB)": "128",
+                "operation": "RunBroker"
+            },
+            "GS27ZWH533Q66A33.JRTCKXETXF.6YS6EN2CT7 0": {
+                "rateCode": "GS27ZWH533Q66A33.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2167500000",
+                "RegionlessRateCode": "TV0klsMQlUw8VYqkbaPzd0roGv2wZaYnAa7isDC84T0",
+                "Compute Family": "m7g.large",
+                "usageType": "APS9-Kafka.m7g.large",
+                "vCPU": "2",
+                "Memory (GiB)": "8",
+                "operation": "RunBroker"
+            },
+            "SQAWXB3CEBFAPJNW.JRTCKXETXF.6YS6EN2CT7 0": {
+                "rateCode": "SQAWXB3CEBFAPJNW.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.4335000000",
+                "RegionlessRateCode": "YK5GVNF_5U9hgmcosNoUlYCNQ34ya3Hp6lz4hUEjEc4",
+                "Compute Family": "m7g.xlarge",
+                "usageType": "APS9-Kafka.m7g.xlarge",
+                "vCPU": "4",
+                "Memory (GiB)": "16",
+                "operation": "RunBroker"
+            },
+            "HGG6H3XBRWFCM25K.JRTCKXETXF.6YS6EN2CT7 0": {
+                "rateCode": "HGG6H3XBRWFCM25K.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0521769230",
+                "RegionlessRateCode": "lWJEANrUcrL2Lnurj26Qpad-rmRVUZHoB-_lse_dD6g",
+                "Compute Family": "t3.small",
+                "usageType": "APS9-Kafka.t3.small",
+                "vCPU": "2",
+                "Memory (GiB)": "2",
+                "operation": "RunBroker"
+            },
+            "CIdz_Ql1ujlp9BTcjM_ocOK-IxgN4vZXNxnqFt5tV5g": {
+                "rateCode": "XHNHQJS5PZQ8BVXW.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1080000000",
+                "RegionlessRateCode": "CIdz_Ql1ujlp9BTcjM_ocOK-IxgN4vZXNxnqFt5tV5g",
+                "Compute Family": "",
+                "usageType": "APS9-Kafka.Storage.GP2",
+                "vCPU": "",
+                "Memory (GiB)": "",
+                "operation": "RunVolume"
+            },
+            "ECCEjKIMbg_1iQz7BAkPadW7Af5FmZfEzFUF-BHuE_4": {
+                "rateCode": "XYYP3T5BS9CKG3DV.JRTCKXETXF.6YS6EN2CT7",
+                "price": "6.9360000000",
+                "RegionlessRateCode": "ECCEjKIMbg_1iQz7BAkPadW7Af5FmZfEzFUF-BHuE_4",
+                "Compute Family": "m7g.16xlarge",
+                "usageType": "APS9-Kafka.m7g.16xlarge",
+                "vCPU": "64",
+                "Memory (GiB)": "256",
+                "operation": "RunBroker"
+            },
+            "OZDEEDv71xwohWJFwf303p_wi1CyMRer-I-MJe3XlC8": {
+                "rateCode": "MECVBYDZNBVJMZAA.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.7340000000",
+                "RegionlessRateCode": "OZDEEDv71xwohWJFwf303p_wi1CyMRer-I-MJe3XlC8",
+                "Compute Family": "m7g.4xlarge",
+                "usageType": "APS9-Kafka.m7g.4xlarge",
+                "vCPU": "16",
+                "Memory (GiB)": "64",
+                "operation": "RunBroker"
+            },
+            "TV0klsMQlUw8VYqkbaPzd0roGv2wZaYnAa7isDC84T0": {
+                "rateCode": "GS27ZWH533Q66A33.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2167500000",
+                "RegionlessRateCode": "TV0klsMQlUw8VYqkbaPzd0roGv2wZaYnAa7isDC84T0",
+                "Compute Family": "m7g.large",
+                "usageType": "APS9-Kafka.m7g.large",
+                "vCPU": "2",
+                "Memory (GiB)": "8",
+                "operation": "RunBroker"
+            },
+            "YK5GVNF_5U9hgmcosNoUlYCNQ34ya3Hp6lz4hUEjEc4": {
+                "rateCode": "SQAWXB3CEBFAPJNW.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.4335000000",
+                "RegionlessRateCode": "YK5GVNF_5U9hgmcosNoUlYCNQ34ya3Hp6lz4hUEjEc4",
+                "Compute Family": "m7g.xlarge",
+                "usageType": "APS9-Kafka.m7g.xlarge",
+                "vCPU": "4",
+                "Memory (GiB)": "16",
+                "operation": "RunBroker"
+            },
+            "cFQdObKYBO4wfO7t6sykNQmDP8EWp9ujD8ZaWvtyz-k": {
+                "rateCode": "WGWA6WNGCYCF8D3T.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0382500000",
+                "RegionlessRateCode": "cFQdObKYBO4wfO7t6sykNQmDP8EWp9ujD8ZaWvtyz-k",
+                "Compute Family": "",
+                "usageType": "APS9-Kafka.PrivateConnectivityHours",
+                "vCPU": "",
+                "Memory (GiB)": "",
+                "operation": "PrivateConnectivity"
+            },
+            "cUK3iM2a8D_hsApDBwgkhgVvCS72puj2SPaG06iGRk8": {
+                "rateCode": "PAGVFU5AZW3W9V5M.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0017000000",
+                "RegionlessRateCode": "cUK3iM2a8D_hsApDBwgkhgVvCS72puj2SPaG06iGRk8",
+                "Compute Family": "",
+                "usageType": "APS9-Kafka.DataRetrieval.Tiered",
+                "vCPU": "",
+                "Memory (GiB)": "",
+                "operation": "TieredStorage"
+            },
+            "cz66KhW4xjZxq45mfEWxP4OWRowcm11uWHgdgqRfjhY": {
+                "rateCode": "X9EMG4XACTS3K3D4.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0060000000",
+                "RegionlessRateCode": "cz66KhW4xjZxq45mfEWxP4OWRowcm11uWHgdgqRfjhY",
+                "Compute Family": "",
+                "usageType": "APS9-Kafka.PrivateConnectivity.BytesProcessed",
+                "vCPU": "",
+                "Memory (GiB)": "",
+                "operation": "PrivateConnectivity"
+            },
+            "el8LdSZreNOrRRPRu6uxEFWkVsgLw3GNwt_5aYY1k0w": {
+                "rateCode": "SZ93VKEMWRK8D5BD.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0620000000",
+                "RegionlessRateCode": "el8LdSZreNOrRRPRu6uxEFWkVsgLw3GNwt_5aYY1k0w",
+                "Compute Family": "",
+                "usageType": "APS9-Kafka.Storage.Tiered",
+                "vCPU": "",
+                "Memory (GiB)": "",
+                "operation": "TieredStorage"
+            },
+            "j8OjivGYcNO_aga6BBSiKfnul_yyikgLpio116zENw8": {
+                "rateCode": "G4DAWUHNGU9KHFGP.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.8670000000",
+                "RegionlessRateCode": "j8OjivGYcNO_aga6BBSiKfnul_yyikgLpio116zENw8",
+                "Compute Family": "m7g.2xlarge",
+                "usageType": "APS9-Kafka.m7g.2xlarge",
+                "vCPU": "8",
+                "Memory (GiB)": "32",
+                "operation": "RunBroker"
+            },
+            "lWJEANrUcrL2Lnurj26Qpad-rmRVUZHoB-_lse_dD6g": {
+                "rateCode": "HGG6H3XBRWFCM25K.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0521769230",
+                "RegionlessRateCode": "lWJEANrUcrL2Lnurj26Qpad-rmRVUZHoB-_lse_dD6g",
+                "Compute Family": "t3.small",
+                "usageType": "APS9-Kafka.t3.small",
+                "vCPU": "2",
+                "Memory (GiB)": "2",
+                "operation": "RunBroker"
+            },
+            "tSXQqHlvjqTG2GKmzcXCslh3Uh5acLfdIZPx7Vjs9vo": {
+                "rateCode": "CCYB2ZT5RM6KH4YQ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "3.4680000000",
+                "RegionlessRateCode": "tSXQqHlvjqTG2GKmzcXCslh3Uh5acLfdIZPx7Vjs9vo",
+                "Compute Family": "m7g.8xlarge",
+                "usageType": "APS9-Kafka.m7g.8xlarge",
+                "vCPU": "32",
+                "Memory (GiB)": "128",
+                "operation": "RunBroker"
+            },
+            "wb4oHGDeRIqHUJ2W4qhHmhwmfqu_yxban8hKJ3_vOro": {
+                "rateCode": "Y627NGE9CNUSH6P5.JRTCKXETXF.6YS6EN2CT7",
+                "price": "5.2020000000",
+                "RegionlessRateCode": "wb4oHGDeRIqHUJ2W4qhHmhwmfqu_yxban8hKJ3_vOro",
+                "Compute Family": "m7g.12xlarge",
+                "usageType": "APS9-Kafka.m7g.12xlarge",
+                "vCPU": "48",
+                "Memory (GiB)": "192",
+                "operation": "RunBroker"
+            },
+            "xqyk4U-a4bffMCBnylkMrAqaUBstkau6GHiWJ6UmRiM": {
+                "rateCode": "3HAXWR9658T3NNPA.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0860000000",
+                "RegionlessRateCode": "xqyk4U-a4bffMCBnylkMrAqaUBstkau6GHiWJ6UmRiM",
+                "Compute Family": "",
+                "usageType": "APS9-Kafka.Throughput",
+                "vCPU": "",
+                "Memory (GiB)": "",
+                "operation": "RunVolume"
+            },
+            "RunVolume": {
+                "rateCode": "XHNHQJS5PZQ8BVXW.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1080000000",
+                "RegionlessRateCode": "CIdz_Ql1ujlp9BTcjM_ocOK-IxgN4vZXNxnqFt5tV5g"
+            },
+            "RunVolume GP2": {
+                "rateCode": "XHNHQJS5PZQ8BVXW.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1080000000",
+                "RegionlessRateCode": "CIdz_Ql1ujlp9BTcjM_ocOK-IxgN4vZXNxnqFt5tV5g"
+            },
+            "RunBroker-computefamily-m7g.16xlarge": {
+                "rateCode": "XYYP3T5BS9CKG3DV.JRTCKXETXF.6YS6EN2CT7",
+                "price": "6.9360000000",
+                "RegionlessRateCode": "ECCEjKIMbg_1iQz7BAkPadW7Af5FmZfEzFUF-BHuE_4"
+            },
+            "RunBroker m7g.16xlarge": {
+                "rateCode": "XYYP3T5BS9CKG3DV.JRTCKXETXF.6YS6EN2CT7",
+                "price": "6.9360000000",
+                "RegionlessRateCode": "ECCEjKIMbg_1iQz7BAkPadW7Af5FmZfEzFUF-BHuE_4",
+                "Compute Family": "m7g.16xlarge",
+                "usageType": "APS9-Kafka.m7g.16xlarge",
+                "vCPU": "64",
+                "Memory (GiB)": "256",
+                "operation": "RunBroker"
+            },
+            "RunBroker-computefamily-m7g.4xlarge": {
+                "rateCode": "MECVBYDZNBVJMZAA.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.7340000000",
+                "RegionlessRateCode": "OZDEEDv71xwohWJFwf303p_wi1CyMRer-I-MJe3XlC8"
+            },
+            "RunBroker m7g.4xlarge": {
+                "rateCode": "MECVBYDZNBVJMZAA.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.7340000000",
+                "RegionlessRateCode": "OZDEEDv71xwohWJFwf303p_wi1CyMRer-I-MJe3XlC8",
+                "Compute Family": "m7g.4xlarge",
+                "usageType": "APS9-Kafka.m7g.4xlarge",
+                "vCPU": "16",
+                "Memory (GiB)": "64",
+                "operation": "RunBroker"
+            },
+            "RunBroker-computefamily-m7g.large": {
+                "rateCode": "GS27ZWH533Q66A33.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2167500000",
+                "RegionlessRateCode": "TV0klsMQlUw8VYqkbaPzd0roGv2wZaYnAa7isDC84T0"
+            },
+            "RunBroker m7g.large": {
+                "rateCode": "GS27ZWH533Q66A33.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2167500000",
+                "RegionlessRateCode": "TV0klsMQlUw8VYqkbaPzd0roGv2wZaYnAa7isDC84T0",
+                "Compute Family": "m7g.large",
+                "usageType": "APS9-Kafka.m7g.large",
+                "vCPU": "2",
+                "Memory (GiB)": "8",
+                "operation": "RunBroker"
+            },
+            "RunBroker-computefamily-m7g.xlarge": {
+                "rateCode": "SQAWXB3CEBFAPJNW.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.4335000000",
+                "RegionlessRateCode": "YK5GVNF_5U9hgmcosNoUlYCNQ34ya3Hp6lz4hUEjEc4"
+            },
+            "RunBroker m7g.xlarge": {
+                "rateCode": "SQAWXB3CEBFAPJNW.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.4335000000",
+                "RegionlessRateCode": "YK5GVNF_5U9hgmcosNoUlYCNQ34ya3Hp6lz4hUEjEc4",
+                "Compute Family": "m7g.xlarge",
+                "usageType": "APS9-Kafka.m7g.xlarge",
+                "vCPU": "4",
+                "Memory (GiB)": "16",
+                "operation": "RunBroker"
+            },
+            "PrivateConnectivity hours per authentication scheme": {
+                "rateCode": "WGWA6WNGCYCF8D3T.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0382500000",
+                "RegionlessRateCode": "cFQdObKYBO4wfO7t6sykNQmDP8EWp9ujD8ZaWvtyz-k"
+            },
+            "TieredStorage Tiered storage-DataRetrieval": {
+                "rateCode": "PAGVFU5AZW3W9V5M.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0017000000",
+                "RegionlessRateCode": "cUK3iM2a8D_hsApDBwgkhgVvCS72puj2SPaG06iGRk8"
+            },
+            "PrivateConnectivity Bytes Processed": {
+                "rateCode": "X9EMG4XACTS3K3D4.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0060000000",
+                "RegionlessRateCode": "cz66KhW4xjZxq45mfEWxP4OWRowcm11uWHgdgqRfjhY"
+            },
+            "TieredStorage Tiered storage": {
+                "rateCode": "SZ93VKEMWRK8D5BD.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0620000000",
+                "RegionlessRateCode": "el8LdSZreNOrRRPRu6uxEFWkVsgLw3GNwt_5aYY1k0w"
+            },
+            "RunBroker-computefamily-m7g.2xlarge": {
+                "rateCode": "G4DAWUHNGU9KHFGP.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.8670000000",
+                "RegionlessRateCode": "j8OjivGYcNO_aga6BBSiKfnul_yyikgLpio116zENw8"
+            },
+            "RunBroker m7g.2xlarge": {
+                "rateCode": "G4DAWUHNGU9KHFGP.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.8670000000",
+                "RegionlessRateCode": "j8OjivGYcNO_aga6BBSiKfnul_yyikgLpio116zENw8",
+                "Compute Family": "m7g.2xlarge",
+                "usageType": "APS9-Kafka.m7g.2xlarge",
+                "vCPU": "8",
+                "Memory (GiB)": "32",
+                "operation": "RunBroker"
+            },
+            "RunBroker-computefamily-t3.small": {
+                "rateCode": "HGG6H3XBRWFCM25K.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0521769230",
+                "RegionlessRateCode": "lWJEANrUcrL2Lnurj26Qpad-rmRVUZHoB-_lse_dD6g"
+            },
+            "RunBroker t3.small": {
+                "rateCode": "HGG6H3XBRWFCM25K.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0521769230",
+                "RegionlessRateCode": "lWJEANrUcrL2Lnurj26Qpad-rmRVUZHoB-_lse_dD6g",
+                "Compute Family": "t3.small",
+                "usageType": "APS9-Kafka.t3.small",
+                "vCPU": "2",
+                "Memory (GiB)": "2",
+                "operation": "RunBroker"
+            },
+            "RunBroker-computefamily-m7g.8xlarge": {
+                "rateCode": "CCYB2ZT5RM6KH4YQ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "3.4680000000",
+                "RegionlessRateCode": "tSXQqHlvjqTG2GKmzcXCslh3Uh5acLfdIZPx7Vjs9vo"
+            },
+            "RunBroker m7g.8xlarge": {
+                "rateCode": "CCYB2ZT5RM6KH4YQ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "3.4680000000",
+                "RegionlessRateCode": "tSXQqHlvjqTG2GKmzcXCslh3Uh5acLfdIZPx7Vjs9vo",
+                "Compute Family": "m7g.8xlarge",
+                "usageType": "APS9-Kafka.m7g.8xlarge",
+                "vCPU": "32",
+                "Memory (GiB)": "128",
+                "operation": "RunBroker"
+            },
+            "RunBroker-computefamily-m7g.12xlarge": {
+                "rateCode": "Y627NGE9CNUSH6P5.JRTCKXETXF.6YS6EN2CT7",
+                "price": "5.2020000000",
+                "RegionlessRateCode": "wb4oHGDeRIqHUJ2W4qhHmhwmfqu_yxban8hKJ3_vOro"
+            },
+            "RunBroker m7g.12xlarge": {
+                "rateCode": "Y627NGE9CNUSH6P5.JRTCKXETXF.6YS6EN2CT7",
+                "price": "5.2020000000",
+                "RegionlessRateCode": "wb4oHGDeRIqHUJ2W4qhHmhwmfqu_yxban8hKJ3_vOro",
+                "Compute Family": "m7g.12xlarge",
+                "usageType": "APS9-Kafka.m7g.12xlarge",
+                "vCPU": "48",
+                "Memory (GiB)": "192",
+                "operation": "RunBroker"
+            },
+            "RunVolume General": {
+                "rateCode": "3HAXWR9658T3NNPA.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0860000000",
                 "RegionlessRateCode": "xqyk4U-a4bffMCBnylkMrAqaUBstkau6GHiWJ6UmRiM"
             }
         },
