@@ -1,3 +1,11 @@
+## 2025-05-14 00:40
+
+**Modified services:**
+
+- [cloudwan](processed/cloudwan.json)
+  - Region added for metric VPC VPC attachments GigaBytes: Asia Pacific (Seoul) 🌎
+
+
 ## 2025-05-13 23:26
 
 **Modified services:**

@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "cloudwan",
         "accessType": "publish",
-        "esIndex": "plc-cloudwan-usd-20250429194456",
-        "hawkFilePublicationDate": "2025-04-29T19:44:56Z",
-        "ETLIngestionTriggerDate": "2025-04-29T19:44:56Z",
+        "esIndex": "plc-cloudwan-usd-20250513232629",
+        "hawkFilePublicationDate": "2025-05-13T23:26:29Z",
+        "ETLIngestionTriggerDate": "2025-05-13T23:26:29Z",
         "currencyCode": "USD",
         "source": "cloudwan",
         "isMapped": "true"
@@ -1462,6 +1462,11 @@
                 "price": "0.5000000000",
                 "RegionlessRateCode": "ByWlXRCH4g3SFtX6yNxpyQnHPle_ei7CtR-4KtcfSHE"
             },
+            "OGivrFl-3-pJPfDouTHobvvLpPdkKhWEH99xSNtQyQg": {
+                "rateCode": "4VZ4DVXEAKRFWJHB.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0200000000",
+                "RegionlessRateCode": "OGivrFl-3-pJPfDouTHobvvLpPdkKhWEH99xSNtQyQg"
+            },
             "X5VdKJIep2IXN037JlNsuuckbeiEFhpJea3eGck72mE": {
                 "rateCode": "U63CM7UCQ6K27RKW.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0900000000",
@@ -1491,6 +1496,11 @@
                 "rateCode": "62FM4HR7852D7PV3.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.5000000000",
                 "RegionlessRateCode": "ByWlXRCH4g3SFtX6yNxpyQnHPle_ei7CtR-4KtcfSHE"
+            },
+            "VPC VPC attachments GigaBytes": {
+                "rateCode": "4VZ4DVXEAKRFWJHB.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0200000000",
+                "RegionlessRateCode": "OGivrFl-3-pJPfDouTHobvvLpPdkKhWEH99xSNtQyQg"
             },
             "Transit Gateway Core Network Edge TGW Peering hour": {
                 "rateCode": "U63CM7UCQ6K27RKW.JRTCKXETXF.6YS6EN2CT7",
