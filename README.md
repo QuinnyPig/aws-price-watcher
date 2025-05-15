@@ -1,3 +1,28 @@
+## 2025-05-15 17:26
+
+**Modified services:**
+
+- [rds-aurora-ondemand](processed/rds-aurora-ondemand.json)
+  - Price decreased: [Database Instance Aurora MySQL No license required Memory optimized Single-AZ Current Generation] Asia Pacific (Thailand) (Instance Type: db.r7i.2xlarge)  **$1.544** → **$1.188** 💸
+  - Price decreased: [Database Instance Aurora MySQL No license required Memory optimized Single-AZ Current Generation] Asia Pacific (Thailand) (Instance Type: db.r7i.xlarge)  **$0.772** → **$0.594** 💸
+  - Price decreased: [Database Instance Aurora MySQL No license required Memory optimized Single-AZ Current Generation] Asia Pacific (Thailand) (Instance Type: db.r7i.4xlarge)  **$3.088** → **$2.376** 💸
+  - Price decreased: [Database Instance Aurora MySQL No license required Memory optimized Single-AZ Current Generation] Asia Pacific (Thailand) (Instance Type: db.r7i.8xlarge)  **$6.176** → **$4.752** 💸
+  - Price decreased: [Database Instance Aurora MySQL No license required Memory optimized Single-AZ Current Generation] Asia Pacific (Thailand) (Instance Type: db.r7i.large)  **$0.386** → **$0.297** 💸
+  - Price decreased: [Database Instance Aurora MySQL No license required Memory optimized Single-AZ Current Generation] Asia Pacific (Thailand) (Instance Type: db.r7i.24xlarge)  **$18.528** → **$14.256** 💸
+  - Price decreased: [Database Instance Aurora MySQL No license required Memory optimized Single-AZ Current Generation] Asia Pacific (Thailand) (Instance Type: db.r7i.12xlarge)  **$9.264** → **$7.128** 💸
+  - Price decreased: [Database Instance Aurora MySQL No license required Memory optimized Single-AZ Current Generation] Asia Pacific (Thailand) (Instance Type: db.r7i.16xlarge)  **$12.352** → **$9.504** 💸
+  - Price decreased: [Database Instance Aurora MySQL No license required Memory optimized Single-AZ Current Generation] Asia Pacific (Thailand) (Instance Type: db.r7i.48xlarge)  **$37.056** → **$28.512** 💸
+  - Price decreased: [Database Instance Aurora MySQL No license required Aurora IO Optimization Mode Memory optimized Single-AZ Current Generation] Asia Pacific (Thailand) (Instance Type: db.r7i.12xlarge)  **$12.048** → **$9.264** 💸
+  - Price decreased: [Database Instance Aurora MySQL No license required Aurora IO Optimization Mode Memory optimized Single-AZ Current Generation] Asia Pacific (Thailand) (Instance Type: db.r7i.24xlarge)  **$24.096** → **$18.528** 💸
+  - Price decreased: [Database Instance Aurora MySQL No license required Aurora IO Optimization Mode Memory optimized Single-AZ Current Generation] Asia Pacific (Thailand) (Instance Type: db.r7i.48xlarge)  **$48.192** → **$37.056** 💸
+  - Price decreased: [Database Instance Aurora MySQL No license required Aurora IO Optimization Mode Memory optimized Single-AZ Current Generation] Asia Pacific (Thailand) (Instance Type: db.r7i.8xlarge)  **$8.032** → **$6.176** 💸
+  - Price decreased: [Database Instance Aurora MySQL No license required Aurora IO Optimization Mode Memory optimized Single-AZ Current Generation] Asia Pacific (Thailand) (Instance Type: db.r7i.4xlarge)  **$4.016** → **$3.088** 💸
+  - Price decreased: [Database Instance Aurora MySQL No license required Aurora IO Optimization Mode Memory optimized Single-AZ Current Generation] Asia Pacific (Thailand) (Instance Type: db.r7i.16xlarge)  **$16.064** → **$12.352** 💸
+  - Price decreased: [Database Instance Aurora MySQL No license required Aurora IO Optimization Mode Memory optimized Single-AZ Current Generation] Asia Pacific (Thailand) (Instance Type: db.r7i.large)  **$0.502** → **$0.386** 💸
+  - Price decreased: [Database Instance Aurora MySQL No license required Aurora IO Optimization Mode Memory optimized Single-AZ Current Generation] Asia Pacific (Thailand) (Instance Type: db.r7i.2xlarge)  **$2.008** → **$1.544** 💸
+  - Price decreased: [Database Instance Aurora MySQL No license required Aurora IO Optimization Mode Memory optimized Single-AZ Current Generation] Asia Pacific (Thailand) (Instance Type: db.r7i.xlarge)  **$1.004** → **$0.772** 💸
+
+
 ## 2025-05-14 17:26
 
 **Modified services:**

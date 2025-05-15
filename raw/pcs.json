@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "pcs",
         "accessType": "publish",
-        "esIndex": "plc-pcs-usd-20250422212852",
-        "hawkFilePublicationDate": "2025-04-22T21:28:52Z",
-        "ETLIngestionTriggerDate": "2025-04-22T21:28:52Z",
+        "esIndex": "plc-pcs-usd-20250515170703",
+        "hawkFilePublicationDate": "2025-05-15T17:07:03Z",
+        "ETLIngestionTriggerDate": "2025-05-15T17:07:03Z",
         "currencyCode": "USD",
         "source": "pcs",
         "isMapped": "true"
@@ -12,6 +12,16 @@
     "sets": {},
     "regions": {
         "US West (Oregon)": {
+            "9OoSyt7wcBnK6Hxhn7OBSny1uwQtdZ9XEMkS2h69Oho": {
+                "rateCode": "NBHRR5F5RKV9M4ZK.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.9800000000",
+                "RegionlessRateCode": "9OoSyt7wcBnK6Hxhn7OBSny1uwQtdZ9XEMkS2h69Oho"
+            },
+            "VKGQdhR16f-4qCa-II6hHZxMq0Ayf52tv39oCzlYH4M": {
+                "rateCode": "J53XF9BEE872W7HR.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1700000000",
+                "RegionlessRateCode": "VKGQdhR16f-4qCa-II6hHZxMq0Ayf52tv39oCzlYH4M"
+            },
             "WZKd2-8jyMKgiyPadJEmO4rMJOPTDp5JkTuBafeQgqw": {
                 "rateCode": "B49XBYH68DFSS4F8.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.5825000000",
@@ -27,6 +37,11 @@
                 "price": "6.5426000000",
                 "RegionlessRateCode": "Z8nOsuUOrG7VTV67NHZ8dje508PacRjWGtM_UKj4Kig"
             },
+            "aGm5AMZvP8aKvN1ZHZsBBnMX_tPygHFWYUwAP6MTqZU": {
+                "rateCode": "ABSWFTFJBXXXDNAK.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.8100000000",
+                "RegionlessRateCode": "aGm5AMZvP8aKvN1ZHZsBBnMX_tPygHFWYUwAP6MTqZU"
+            },
             "jJRjrWhj51mrIdzlqndIesg28ySPEvEARmCWORAhNfM": {
                 "rateCode": "R9GQ64DPE6UEVUBG.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.6400000000",
@@ -36,6 +51,11 @@
                 "rateCode": "CP28PW44FT5V3C4V.JRTCKXETXF.6YS6EN2CT7",
                 "price": "3.2579000000",
                 "RegionlessRateCode": "mwkHmbI-tfYaMjCSu0QbI1LUTbuEriPMYo4JjDMhXUo"
+            },
+            "mxnsmTHmEZ7cfun6li7jC7Ab2OnCxks-Y9rh6Lbrsfc": {
+                "rateCode": "XYUGHVPH6DKK98MC.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.9600000000",
+                "RegionlessRateCode": "mxnsmTHmEZ7cfun6li7jC7Ab2OnCxks-Y9rh6Lbrsfc"
             },
             "AWSParallelComputingService Small Running Slurm": {
                 "rateCode": "B49XBYH68DFSS4F8.JRTCKXETXF.6YS6EN2CT7",
@@ -64,6 +84,16 @@
             }
         },
         "US East (Ohio)": {
+            "9OoSyt7wcBnK6Hxhn7OBSny1uwQtdZ9XEMkS2h69Oho": {
+                "rateCode": "8DSM9M59SV6T3SNR.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.0000000000",
+                "RegionlessRateCode": "9OoSyt7wcBnK6Hxhn7OBSny1uwQtdZ9XEMkS2h69Oho"
+            },
+            "VKGQdhR16f-4qCa-II6hHZxMq0Ayf52tv39oCzlYH4M": {
+                "rateCode": "D3QV6NSFTNFANJHQ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1800000000",
+                "RegionlessRateCode": "VKGQdhR16f-4qCa-II6hHZxMq0Ayf52tv39oCzlYH4M"
+            },
             "WZKd2-8jyMKgiyPadJEmO4rMJOPTDp5JkTuBafeQgqw": {
                 "rateCode": "FAMSWY53NRPH5GT3.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.5977000000",
@@ -79,6 +109,11 @@
                 "price": "6.7133000000",
                 "RegionlessRateCode": "Z8nOsuUOrG7VTV67NHZ8dje508PacRjWGtM_UKj4Kig"
             },
+            "aGm5AMZvP8aKvN1ZHZsBBnMX_tPygHFWYUwAP6MTqZU": {
+                "rateCode": "7YYJKGTQPGQQVB37.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.8300000000",
+                "RegionlessRateCode": "aGm5AMZvP8aKvN1ZHZsBBnMX_tPygHFWYUwAP6MTqZU"
+            },
             "jJRjrWhj51mrIdzlqndIesg28ySPEvEARmCWORAhNfM": {
                 "rateCode": "8QV9B6XFM4UJDVDH.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.6567000000",
@@ -88,6 +123,11 @@
                 "rateCode": "Z4FY79DBA9A8Z59R.JRTCKXETXF.6YS6EN2CT7",
                 "price": "3.3429000000",
                 "RegionlessRateCode": "mwkHmbI-tfYaMjCSu0QbI1LUTbuEriPMYo4JjDMhXUo"
+            },
+            "mxnsmTHmEZ7cfun6li7jC7Ab2OnCxks-Y9rh6Lbrsfc": {
+                "rateCode": "3HRYT36282VP98NJ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "2.0100000000",
+                "RegionlessRateCode": "mxnsmTHmEZ7cfun6li7jC7Ab2OnCxks-Y9rh6Lbrsfc"
             },
             "AWSParallelComputingService Small Running Slurm": {
                 "rateCode": "FAMSWY53NRPH5GT3.JRTCKXETXF.6YS6EN2CT7",
@@ -116,6 +156,16 @@
             }
         },
         "US East (N. Virginia)": {
+            "9OoSyt7wcBnK6Hxhn7OBSny1uwQtdZ9XEMkS2h69Oho": {
+                "rateCode": "JAA553S4Y64WEHW5.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.9800000000",
+                "RegionlessRateCode": "9OoSyt7wcBnK6Hxhn7OBSny1uwQtdZ9XEMkS2h69Oho"
+            },
+            "VKGQdhR16f-4qCa-II6hHZxMq0Ayf52tv39oCzlYH4M": {
+                "rateCode": "5SVQZKDXQVTX329Y.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1700000000",
+                "RegionlessRateCode": "VKGQdhR16f-4qCa-II6hHZxMq0Ayf52tv39oCzlYH4M"
+            },
             "WZKd2-8jyMKgiyPadJEmO4rMJOPTDp5JkTuBafeQgqw": {
                 "rateCode": "GB3DDAMGSE7M3JZJ.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.5825000000",
@@ -131,6 +181,11 @@
                 "price": "6.5426000000",
                 "RegionlessRateCode": "Z8nOsuUOrG7VTV67NHZ8dje508PacRjWGtM_UKj4Kig"
             },
+            "aGm5AMZvP8aKvN1ZHZsBBnMX_tPygHFWYUwAP6MTqZU": {
+                "rateCode": "HS9BG5JYRKQZDRK8.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.8100000000",
+                "RegionlessRateCode": "aGm5AMZvP8aKvN1ZHZsBBnMX_tPygHFWYUwAP6MTqZU"
+            },
             "jJRjrWhj51mrIdzlqndIesg28ySPEvEARmCWORAhNfM": {
                 "rateCode": "HDBATW77G83G4VJ6.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.6400000000",
@@ -140,6 +195,11 @@
                 "rateCode": "KAVT64RHY9GRFW98.JRTCKXETXF.6YS6EN2CT7",
                 "price": "3.2579000000",
                 "RegionlessRateCode": "mwkHmbI-tfYaMjCSu0QbI1LUTbuEriPMYo4JjDMhXUo"
+            },
+            "mxnsmTHmEZ7cfun6li7jC7Ab2OnCxks-Y9rh6Lbrsfc": {
+                "rateCode": "E2DH7QBNDNNR8WB4.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.9600000000",
+                "RegionlessRateCode": "mxnsmTHmEZ7cfun6li7jC7Ab2OnCxks-Y9rh6Lbrsfc"
             },
             "AWSParallelComputingService Small Running Slurm": {
                 "rateCode": "GB3DDAMGSE7M3JZJ.JRTCKXETXF.6YS6EN2CT7",
@@ -168,6 +228,16 @@
             }
         },
         "EU (Stockholm)": {
+            "9OoSyt7wcBnK6Hxhn7OBSny1uwQtdZ9XEMkS2h69Oho": {
+                "rateCode": "WTANRCYTFTS7JSG9.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.2000000000",
+                "RegionlessRateCode": "9OoSyt7wcBnK6Hxhn7OBSny1uwQtdZ9XEMkS2h69Oho"
+            },
+            "VKGQdhR16f-4qCa-II6hHZxMq0Ayf52tv39oCzlYH4M": {
+                "rateCode": "5CFKD4SNJ2DWER2R.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2200000000",
+                "RegionlessRateCode": "VKGQdhR16f-4qCa-II6hHZxMq0Ayf52tv39oCzlYH4M"
+            },
             "WZKd2-8jyMKgiyPadJEmO4rMJOPTDp5JkTuBafeQgqw": {
                 "rateCode": "QW4GC2P3WE82WD4M.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.7178000000",
@@ -183,6 +253,11 @@
                 "price": "8.0622000000",
                 "RegionlessRateCode": "Z8nOsuUOrG7VTV67NHZ8dje508PacRjWGtM_UKj4Kig"
             },
+            "aGm5AMZvP8aKvN1ZHZsBBnMX_tPygHFWYUwAP6MTqZU": {
+                "rateCode": "YP2AGHWY9GF8NUCQ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.0000000000",
+                "RegionlessRateCode": "aGm5AMZvP8aKvN1ZHZsBBnMX_tPygHFWYUwAP6MTqZU"
+            },
             "jJRjrWhj51mrIdzlqndIesg28ySPEvEARmCWORAhNfM": {
                 "rateCode": "6EBQFZK5DVDSWFFF.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.7886000000",
@@ -192,6 +267,11 @@
                 "rateCode": "SNMAHZC686JSSWUV.JRTCKXETXF.6YS6EN2CT7",
                 "price": "4.0146000000",
                 "RegionlessRateCode": "mwkHmbI-tfYaMjCSu0QbI1LUTbuEriPMYo4JjDMhXUo"
+            },
+            "mxnsmTHmEZ7cfun6li7jC7Ab2OnCxks-Y9rh6Lbrsfc": {
+                "rateCode": "AZUPQ6QQDD6GXGZX.JRTCKXETXF.6YS6EN2CT7",
+                "price": "2.4200000000",
+                "RegionlessRateCode": "mxnsmTHmEZ7cfun6li7jC7Ab2OnCxks-Y9rh6Lbrsfc"
             },
             "AWSParallelComputingService Small Running Slurm": {
                 "rateCode": "QW4GC2P3WE82WD4M.JRTCKXETXF.6YS6EN2CT7",
@@ -220,6 +300,16 @@
             }
         },
         "EU (Ireland)": {
+            "9OoSyt7wcBnK6Hxhn7OBSny1uwQtdZ9XEMkS2h69Oho": {
+                "rateCode": "6NEH8Z4WGEWBDDDY.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.0600000000",
+                "RegionlessRateCode": "9OoSyt7wcBnK6Hxhn7OBSny1uwQtdZ9XEMkS2h69Oho"
+            },
+            "VKGQdhR16f-4qCa-II6hHZxMq0Ayf52tv39oCzlYH4M": {
+                "rateCode": "VCCE539G8F5RFDFD.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1900000000",
+                "RegionlessRateCode": "VKGQdhR16f-4qCa-II6hHZxMq0Ayf52tv39oCzlYH4M"
+            },
             "WZKd2-8jyMKgiyPadJEmO4rMJOPTDp5JkTuBafeQgqw": {
                 "rateCode": "A33AXQTXTWD27Z78.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.6333000000",
@@ -235,6 +325,11 @@
                 "price": "7.1133000000",
                 "RegionlessRateCode": "Z8nOsuUOrG7VTV67NHZ8dje508PacRjWGtM_UKj4Kig"
             },
+            "aGm5AMZvP8aKvN1ZHZsBBnMX_tPygHFWYUwAP6MTqZU": {
+                "rateCode": "26G4G4XRX4HSGV92.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.8800000000",
+                "RegionlessRateCode": "aGm5AMZvP8aKvN1ZHZsBBnMX_tPygHFWYUwAP6MTqZU"
+            },
             "jJRjrWhj51mrIdzlqndIesg28ySPEvEARmCWORAhNfM": {
                 "rateCode": "SCHYEQF3P9K6N8PG.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.6958000000",
@@ -244,6 +339,11 @@
                 "rateCode": "F5JVNBA6GBCU9MVZ.JRTCKXETXF.6YS6EN2CT7",
                 "price": "3.5421000000",
                 "RegionlessRateCode": "mwkHmbI-tfYaMjCSu0QbI1LUTbuEriPMYo4JjDMhXUo"
+            },
+            "mxnsmTHmEZ7cfun6li7jC7Ab2OnCxks-Y9rh6Lbrsfc": {
+                "rateCode": "G9EVZMJ3838YCNWZ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "2.1300000000",
+                "RegionlessRateCode": "mxnsmTHmEZ7cfun6li7jC7Ab2OnCxks-Y9rh6Lbrsfc"
             },
             "AWSParallelComputingService Small Running Slurm": {
                 "rateCode": "A33AXQTXTWD27Z78.JRTCKXETXF.6YS6EN2CT7",
@@ -272,6 +372,16 @@
             }
         },
         "EU (Frankfurt)": {
+            "9OoSyt7wcBnK6Hxhn7OBSny1uwQtdZ9XEMkS2h69Oho": {
+                "rateCode": "JKCGH8YH7K3M59B9.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.3200000000",
+                "RegionlessRateCode": "9OoSyt7wcBnK6Hxhn7OBSny1uwQtdZ9XEMkS2h69Oho"
+            },
+            "VKGQdhR16f-4qCa-II6hHZxMq0Ayf52tv39oCzlYH4M": {
+                "rateCode": "SNURURKNUMQJY6GQ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2400000000",
+                "RegionlessRateCode": "VKGQdhR16f-4qCa-II6hHZxMq0Ayf52tv39oCzlYH4M"
+            },
             "WZKd2-8jyMKgiyPadJEmO4rMJOPTDp5JkTuBafeQgqw": {
                 "rateCode": "NCVN48DYJ9J99GHN.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.7839000000",
@@ -287,6 +397,11 @@
                 "price": "8.8043000000",
                 "RegionlessRateCode": "Z8nOsuUOrG7VTV67NHZ8dje508PacRjWGtM_UKj4Kig"
             },
+            "aGm5AMZvP8aKvN1ZHZsBBnMX_tPygHFWYUwAP6MTqZU": {
+                "rateCode": "534YDM6A87FEGTBB.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.0900000000",
+                "RegionlessRateCode": "aGm5AMZvP8aKvN1ZHZsBBnMX_tPygHFWYUwAP6MTqZU"
+            },
             "jJRjrWhj51mrIdzlqndIesg28ySPEvEARmCWORAhNfM": {
                 "rateCode": "F9HMAFGP7V6PBVQM.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.8612000000",
@@ -296,6 +411,11 @@
                 "rateCode": "HTX6ATVRBFD8RM7H.JRTCKXETXF.6YS6EN2CT7",
                 "price": "4.3841000000",
                 "RegionlessRateCode": "mwkHmbI-tfYaMjCSu0QbI1LUTbuEriPMYo4JjDMhXUo"
+            },
+            "mxnsmTHmEZ7cfun6li7jC7Ab2OnCxks-Y9rh6Lbrsfc": {
+                "rateCode": "PUSBY4M725P4TB8X.JRTCKXETXF.6YS6EN2CT7",
+                "price": "2.6400000000",
+                "RegionlessRateCode": "mxnsmTHmEZ7cfun6li7jC7Ab2OnCxks-Y9rh6Lbrsfc"
             },
             "AWSParallelComputingService Small Running Slurm": {
                 "rateCode": "NCVN48DYJ9J99GHN.JRTCKXETXF.6YS6EN2CT7",
@@ -324,6 +444,16 @@
             }
         },
         "Asia Pacific (Tokyo)": {
+            "9OoSyt7wcBnK6Hxhn7OBSny1uwQtdZ9XEMkS2h69Oho": {
+                "rateCode": "BV8C3225TH3BDBAA.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.2900000000",
+                "RegionlessRateCode": "9OoSyt7wcBnK6Hxhn7OBSny1uwQtdZ9XEMkS2h69Oho"
+            },
+            "VKGQdhR16f-4qCa-II6hHZxMq0Ayf52tv39oCzlYH4M": {
+                "rateCode": "3K9G3DT6RZZM8ZWA.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2300000000",
+                "RegionlessRateCode": "VKGQdhR16f-4qCa-II6hHZxMq0Ayf52tv39oCzlYH4M"
+            },
             "WZKd2-8jyMKgiyPadJEmO4rMJOPTDp5JkTuBafeQgqw": {
                 "rateCode": "75C4CXVE6ZN5VKUJ.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.7702000000",
@@ -339,6 +469,11 @@
                 "price": "8.6507000000",
                 "RegionlessRateCode": "Z8nOsuUOrG7VTV67NHZ8dje508PacRjWGtM_UKj4Kig"
             },
+            "aGm5AMZvP8aKvN1ZHZsBBnMX_tPygHFWYUwAP6MTqZU": {
+                "rateCode": "3NK26MYPTTRUMJVT.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.0700000000",
+                "RegionlessRateCode": "aGm5AMZvP8aKvN1ZHZsBBnMX_tPygHFWYUwAP6MTqZU"
+            },
             "jJRjrWhj51mrIdzlqndIesg28ySPEvEARmCWORAhNfM": {
                 "rateCode": "K99W3ZK55DTSCU5Z.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.8462000000",
@@ -348,6 +483,11 @@
                 "rateCode": "RGCSG8H67Y53FSM4.JRTCKXETXF.6YS6EN2CT7",
                 "price": "4.3076000000",
                 "RegionlessRateCode": "mwkHmbI-tfYaMjCSu0QbI1LUTbuEriPMYo4JjDMhXUo"
+            },
+            "mxnsmTHmEZ7cfun6li7jC7Ab2OnCxks-Y9rh6Lbrsfc": {
+                "rateCode": "DHCBRH8X9NKMNEYD.JRTCKXETXF.6YS6EN2CT7",
+                "price": "2.6000000000",
+                "RegionlessRateCode": "mxnsmTHmEZ7cfun6li7jC7Ab2OnCxks-Y9rh6Lbrsfc"
             },
             "AWSParallelComputingService Small Running Slurm": {
                 "rateCode": "75C4CXVE6ZN5VKUJ.JRTCKXETXF.6YS6EN2CT7",
@@ -376,6 +516,16 @@
             }
         },
         "Asia Pacific (Sydney)": {
+            "9OoSyt7wcBnK6Hxhn7OBSny1uwQtdZ9XEMkS2h69Oho": {
+                "rateCode": "JYAJXWH2EZKCQABE.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.1800000000",
+                "RegionlessRateCode": "9OoSyt7wcBnK6Hxhn7OBSny1uwQtdZ9XEMkS2h69Oho"
+            },
+            "VKGQdhR16f-4qCa-II6hHZxMq0Ayf52tv39oCzlYH4M": {
+                "rateCode": "GEF8W9VY3GDWNE8Y.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2100000000",
+                "RegionlessRateCode": "VKGQdhR16f-4qCa-II6hHZxMq0Ayf52tv39oCzlYH4M"
+            },
             "WZKd2-8jyMKgiyPadJEmO4rMJOPTDp5JkTuBafeQgqw": {
                 "rateCode": "JZRJFB2QW4F8MGAK.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.7017000000",
@@ -391,6 +541,11 @@
                 "price": "7.8819000000",
                 "RegionlessRateCode": "Z8nOsuUOrG7VTV67NHZ8dje508PacRjWGtM_UKj4Kig"
             },
+            "aGm5AMZvP8aKvN1ZHZsBBnMX_tPygHFWYUwAP6MTqZU": {
+                "rateCode": "RD7W2M2RDVDAC7XX.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.9800000000",
+                "RegionlessRateCode": "aGm5AMZvP8aKvN1ZHZsBBnMX_tPygHFWYUwAP6MTqZU"
+            },
             "jJRjrWhj51mrIdzlqndIesg28ySPEvEARmCWORAhNfM": {
                 "rateCode": "RAD8DFRAGJ59EB3N.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.7710000000",
@@ -400,6 +555,11 @@
                 "rateCode": "2S47ZNMYQRTJD8Y8.JRTCKXETXF.6YS6EN2CT7",
                 "price": "3.9248000000",
                 "RegionlessRateCode": "mwkHmbI-tfYaMjCSu0QbI1LUTbuEriPMYo4JjDMhXUo"
+            },
+            "mxnsmTHmEZ7cfun6li7jC7Ab2OnCxks-Y9rh6Lbrsfc": {
+                "rateCode": "D2KK7YE8ABWKAHSD.JRTCKXETXF.6YS6EN2CT7",
+                "price": "2.3600000000",
+                "RegionlessRateCode": "mxnsmTHmEZ7cfun6li7jC7Ab2OnCxks-Y9rh6Lbrsfc"
             },
             "AWSParallelComputingService Small Running Slurm": {
                 "rateCode": "JZRJFB2QW4F8MGAK.JRTCKXETXF.6YS6EN2CT7",
@@ -428,6 +588,16 @@
             }
         },
         "Asia Pacific (Singapore)": {
+            "9OoSyt7wcBnK6Hxhn7OBSny1uwQtdZ9XEMkS2h69Oho": {
+                "rateCode": "S9CU5YVEV4DYSAY9.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.3900000000",
+                "RegionlessRateCode": "9OoSyt7wcBnK6Hxhn7OBSny1uwQtdZ9XEMkS2h69Oho"
+            },
+            "VKGQdhR16f-4qCa-II6hHZxMq0Ayf52tv39oCzlYH4M": {
+                "rateCode": "M3SV3FTA2G72HJCC.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2500000000",
+                "RegionlessRateCode": "VKGQdhR16f-4qCa-II6hHZxMq0Ayf52tv39oCzlYH4M"
+            },
             "WZKd2-8jyMKgiyPadJEmO4rMJOPTDp5JkTuBafeQgqw": {
                 "rateCode": "WBNW2KDUQ5S2W355.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.8281000000",
@@ -443,6 +613,11 @@
                 "price": "9.3014000000",
                 "RegionlessRateCode": "Z8nOsuUOrG7VTV67NHZ8dje508PacRjWGtM_UKj4Kig"
             },
+            "aGm5AMZvP8aKvN1ZHZsBBnMX_tPygHFWYUwAP6MTqZU": {
+                "rateCode": "TMFZECU8S25MK4PZ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.1500000000",
+                "RegionlessRateCode": "aGm5AMZvP8aKvN1ZHZsBBnMX_tPygHFWYUwAP6MTqZU"
+            },
             "jJRjrWhj51mrIdzlqndIesg28ySPEvEARmCWORAhNfM": {
                 "rateCode": "24NUBTX4CY7K9KCH.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.9099000000",
@@ -452,6 +627,11 @@
                 "rateCode": "UC64J5M7GNJZ3RT3.JRTCKXETXF.6YS6EN2CT7",
                 "price": "4.6316000000",
                 "RegionlessRateCode": "mwkHmbI-tfYaMjCSu0QbI1LUTbuEriPMYo4JjDMhXUo"
+            },
+            "mxnsmTHmEZ7cfun6li7jC7Ab2OnCxks-Y9rh6Lbrsfc": {
+                "rateCode": "JE6354XS82WSQ3NK.JRTCKXETXF.6YS6EN2CT7",
+                "price": "2.7900000000",
+                "RegionlessRateCode": "mxnsmTHmEZ7cfun6li7jC7Ab2OnCxks-Y9rh6Lbrsfc"
             },
             "AWSParallelComputingService Small Running Slurm": {
                 "rateCode": "WBNW2KDUQ5S2W355.JRTCKXETXF.6YS6EN2CT7",
