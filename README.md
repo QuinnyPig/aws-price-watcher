@@ -1965,7 +1965,6 @@
 - vmwarecloudonaws
 - endusermessaging3pfees
 - ingestionservicesnowball
-- detective
 - chimedialinamcs
 - outposts
 - appstudio
