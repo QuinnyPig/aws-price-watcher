@@ -1,3 +1,10 @@
+## 2025-05-16 20:27
+
+**Modified services:**
+
+- [kinesisvideo](processed/kinesisvideo.json)
+
+
 ## 2025-05-15 23:26
 
 **Modified services:**
