@@ -1,3 +1,11 @@
+## 2025-05-19 16:27
+
+**Modified services:**
+
+- [backup](processed/backup.json)
+  - Billing metric removed: [Aurora DSQL AWSBackup-DataTransfer] 💥
+
+
 ## 2025-05-16 20:27
 
 **Modified services:**
