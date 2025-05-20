@@ -5999,14 +5999,14 @@
         "AWS GovCloud (US) (Instance Type: db.r7i.48xlarge, Memory: 1536 GiB, vCPU: 192, Network Performance: 50 Gbps)": "28.8000000000"
     },
     "Database Instance MySQL No license required db x2iedn.32xlarge Memory optimized Single-AZ Current Generation": {
-        "US West (Oregon) (Instance Type: db.x2iedn.32xlarge, Memory: 4096 GiB, vCPU: 128, Network Performance: 100 Gbps)": "71.0660000000",
-        "US East (N. Virginia) (Instance Type: db.x2iedn.32xlarge, Memory: 4096 GiB, vCPU: 128, Network Performance: 100 Gbps)": "71.0660000000",
-        "EU (Stockholm) (Instance Type: db.x2iedn.32xlarge, Memory: 4096 GiB, vCPU: 128, Network Performance: 100 Gbps)": "81.0500000000",
-        "EU (Milan) (Instance Type: db.x2iedn.32xlarge, Memory: 4096 GiB, vCPU: 128, Network Performance: 100 Gbps)": "89.5230000000",
-        "EU (Ireland) (Instance Type: db.x2iedn.32xlarge, Memory: 4096 GiB, vCPU: 128, Network Performance: 100 Gbps)": "85.2990000000",
-        "EU (Frankfurt) (Instance Type: db.x2iedn.32xlarge, Memory: 4096 GiB, vCPU: 128, Network Performance: 100 Gbps)": "99.5070000000",
-        "Canada (Central) (Instance Type: db.x2iedn.32xlarge, Memory: 4096 GiB, vCPU: 128, Network Performance: 100 Gbps)": "78.1820000000",
-        "Asia Pacific (Sydney) (Instance Type: db.x2iedn.32xlarge, Memory: 4096 GiB, vCPU: 128, Network Performance: 100 Gbps)": "103.0660000000"
+        "US West (Oregon) (Instance Type: db.x2iedn.32xlarge, Memory: 4096 GiB, vCPU: 128, Network Performance: 100 Gbps)": "60.8640000000",
+        "US East (N. Virginia) (Instance Type: db.x2iedn.32xlarge, Memory: 4096 GiB, vCPU: 128, Network Performance: 100 Gbps)": "60.8640000000",
+        "EU (Stockholm) (Instance Type: db.x2iedn.32xlarge, Memory: 4096 GiB, vCPU: 128, Network Performance: 100 Gbps)": "69.4080000000",
+        "EU (Milan) (Instance Type: db.x2iedn.32xlarge, Memory: 4096 GiB, vCPU: 128, Network Performance: 100 Gbps)": "76.6720000000",
+        "EU (Ireland) (Instance Type: db.x2iedn.32xlarge, Memory: 4096 GiB, vCPU: 128, Network Performance: 100 Gbps)": "73.0560000000",
+        "EU (Frankfurt) (Instance Type: db.x2iedn.32xlarge, Memory: 4096 GiB, vCPU: 128, Network Performance: 100 Gbps)": "85.2160000000",
+        "Canada (Central) (Instance Type: db.x2iedn.32xlarge, Memory: 4096 GiB, vCPU: 128, Network Performance: 100 Gbps)": "66.9440000000",
+        "Asia Pacific (Sydney) (Instance Type: db.x2iedn.32xlarge, Memory: 4096 GiB, vCPU: 128, Network Performance: 100 Gbps)": "88.2560000000"
     },
     "Database Instance MySQL No license required db c6gd.8xlarge Compute optimized Multi-AZ readable standbys Current Generation": {
         "US West (Oregon) (Instance Type: db.c6gd.8xlarge, Memory: 64 GiB, vCPU: 32, Network Performance: 12 Gbps)": "7.6320000000",
@@ -6269,14 +6269,14 @@
         "AWS GovCloud (US) (Instance Type: db.m6gd.2xlarge, Memory: 32 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": "0.8800000000"
     },
     "Database Instance MySQL No license required db x2iedn.16xlarge Memory optimized Multi-AZ readable standbys Current Generation": {
-        "US West (Oregon) (Instance Type: db.x2iedn.16xlarge, Memory: 2048 GiB, vCPU: 64, Network Performance: 50 Gbps)": "106.5980000000",
-        "US East (N. Virginia) (Instance Type: db.x2iedn.16xlarge, Memory: 2048 GiB, vCPU: 64, Network Performance: 50 Gbps)": "106.5980000000",
-        "EU (Stockholm) (Instance Type: db.x2iedn.16xlarge, Memory: 2048 GiB, vCPU: 64, Network Performance: 50 Gbps)": "121.5740000000",
-        "EU (Milan) (Instance Type: db.x2iedn.16xlarge, Memory: 2048 GiB, vCPU: 64, Network Performance: 50 Gbps)": "134.2850000000",
-        "EU (Ireland) (Instance Type: db.x2iedn.16xlarge, Memory: 2048 GiB, vCPU: 64, Network Performance: 50 Gbps)": "127.9490000000",
-        "EU (Frankfurt) (Instance Type: db.x2iedn.16xlarge, Memory: 2048 GiB, vCPU: 64, Network Performance: 50 Gbps)": "149.2610000000",
-        "Canada (Central) (Instance Type: db.x2iedn.16xlarge, Memory: 2048 GiB, vCPU: 64, Network Performance: 50 Gbps)": "117.2740000000",
-        "Asia Pacific (Sydney) (Instance Type: db.x2iedn.16xlarge, Memory: 2048 GiB, vCPU: 64, Network Performance: 50 Gbps)": "154.5980000000"
+        "US West (Oregon) (Instance Type: db.x2iedn.16xlarge, Memory: 2048 GiB, vCPU: 64, Network Performance: 50 Gbps)": "91.2960000000",
+        "US East (N. Virginia) (Instance Type: db.x2iedn.16xlarge, Memory: 2048 GiB, vCPU: 64, Network Performance: 50 Gbps)": "91.2960000000",
+        "EU (Stockholm) (Instance Type: db.x2iedn.16xlarge, Memory: 2048 GiB, vCPU: 64, Network Performance: 50 Gbps)": "104.1120000000",
+        "EU (Milan) (Instance Type: db.x2iedn.16xlarge, Memory: 2048 GiB, vCPU: 64, Network Performance: 50 Gbps)": "115.0080000000",
+        "EU (Ireland) (Instance Type: db.x2iedn.16xlarge, Memory: 2048 GiB, vCPU: 64, Network Performance: 50 Gbps)": "109.5840000000",
+        "EU (Frankfurt) (Instance Type: db.x2iedn.16xlarge, Memory: 2048 GiB, vCPU: 64, Network Performance: 50 Gbps)": "127.8240000000",
+        "Canada (Central) (Instance Type: db.x2iedn.16xlarge, Memory: 2048 GiB, vCPU: 64, Network Performance: 50 Gbps)": "100.4160000000",
+        "Asia Pacific (Sydney) (Instance Type: db.x2iedn.16xlarge, Memory: 2048 GiB, vCPU: 64, Network Performance: 50 Gbps)": "132.3840000000"
     },
     "Database Instance MySQL No license required db r5d.16xlarge Memory optimized Single-AZ Current Generation": {
         "US West (Oregon) (Instance Type: db.r5d.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: 20 Gbps)": "9.1430000000",
@@ -6984,14 +6984,14 @@
         "AWS GovCloud (US) (Instance Type: db.t2.large, Memory: 8 GiB, vCPU: 2, Network Performance: Low to Moderate)": "0.3240000000"
     },
     "Database Instance MySQL No license required db x2iedn.xlarge Memory optimized Multi-AZ Current Generation": {
-        "US West (Oregon) (Instance Type: db.x2iedn.xlarge, Memory: 128 GiB, vCPU: 4, Network Performance: Up to 25 Gbps)": "4.4420000000",
-        "US East (N. Virginia) (Instance Type: db.x2iedn.xlarge, Memory: 128 GiB, vCPU: 4, Network Performance: Up to 25 Gbps)": "4.4420000000",
-        "EU (Stockholm) (Instance Type: db.x2iedn.xlarge, Memory: 128 GiB, vCPU: 4, Network Performance: Up to 25 Gbps)": "5.0660000000",
-        "EU (Milan) (Instance Type: db.x2iedn.xlarge, Memory: 128 GiB, vCPU: 4, Network Performance: Up to 25 Gbps)": "5.5950000000",
-        "EU (Ireland) (Instance Type: db.x2iedn.xlarge, Memory: 128 GiB, vCPU: 4, Network Performance: Up to 25 Gbps)": "5.3310000000",
-        "EU (Frankfurt) (Instance Type: db.x2iedn.xlarge, Memory: 128 GiB, vCPU: 4, Network Performance: Up to 25 Gbps)": "6.2190000000",
-        "Canada (Central) (Instance Type: db.x2iedn.xlarge, Memory: 128 GiB, vCPU: 4, Network Performance: Up to 25 Gbps)": "4.8860000000",
-        "Asia Pacific (Sydney) (Instance Type: db.x2iedn.xlarge, Memory: 128 GiB, vCPU: 4, Network Performance: Up to 25 Gbps)": "6.4420000000"
+        "US West (Oregon) (Instance Type: db.x2iedn.xlarge, Memory: 128 GiB, vCPU: 4, Network Performance: Up to 25 Gbps)": "3.8040000000",
+        "US East (N. Virginia) (Instance Type: db.x2iedn.xlarge, Memory: 128 GiB, vCPU: 4, Network Performance: Up to 25 Gbps)": "3.8040000000",
+        "EU (Stockholm) (Instance Type: db.x2iedn.xlarge, Memory: 128 GiB, vCPU: 4, Network Performance: Up to 25 Gbps)": "4.3380000000",
+        "EU (Milan) (Instance Type: db.x2iedn.xlarge, Memory: 128 GiB, vCPU: 4, Network Performance: Up to 25 Gbps)": "4.7920000000",
+        "EU (Ireland) (Instance Type: db.x2iedn.xlarge, Memory: 128 GiB, vCPU: 4, Network Performance: Up to 25 Gbps)": "4.5660000000",
+        "EU (Frankfurt) (Instance Type: db.x2iedn.xlarge, Memory: 128 GiB, vCPU: 4, Network Performance: Up to 25 Gbps)": "5.3260000000",
+        "Canada (Central) (Instance Type: db.x2iedn.xlarge, Memory: 128 GiB, vCPU: 4, Network Performance: Up to 25 Gbps)": "4.1840000000",
+        "Asia Pacific (Sydney) (Instance Type: db.x2iedn.xlarge, Memory: 128 GiB, vCPU: 4, Network Performance: Up to 25 Gbps)": "5.5160000000"
     },
     "Database Instance MySQL No license required db r6idn.12xlarge Memory optimized Single-AZ Current Generation": {
         "US West (Oregon) (Instance Type: db.r6idn.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: 75 Gbps)": "9.3040000000",
@@ -7607,14 +7607,14 @@
         "AWS GovCloud (US) (Instance Type: db.m7i.48xlarge, Memory: 768 GiB, vCPU: 192, Network Performance: 50 Gbps)": "20.1600000000"
     },
     "Database Instance MySQL No license required db x2iedn.8xlarge Memory optimized Single-AZ Current Generation": {
-        "US West (Oregon) (Instance Type: db.x2iedn.8xlarge, Memory: 1024 GiB, vCPU: 32, Network Performance: 25 Gbps)": "17.7660000000",
-        "US East (N. Virginia) (Instance Type: db.x2iedn.8xlarge, Memory: 1024 GiB, vCPU: 32, Network Performance: 25 Gbps)": "17.7660000000",
-        "EU (Stockholm) (Instance Type: db.x2iedn.8xlarge, Memory: 1024 GiB, vCPU: 32, Network Performance: 25 Gbps)": "20.2620000000",
-        "EU (Milan) (Instance Type: db.x2iedn.8xlarge, Memory: 1024 GiB, vCPU: 32, Network Performance: 25 Gbps)": "22.3810000000",
-        "EU (Ireland) (Instance Type: db.x2iedn.8xlarge, Memory: 1024 GiB, vCPU: 32, Network Performance: 25 Gbps)": "21.3250000000",
-        "EU (Frankfurt) (Instance Type: db.x2iedn.8xlarge, Memory: 1024 GiB, vCPU: 32, Network Performance: 25 Gbps)": "24.8770000000",
-        "Canada (Central) (Instance Type: db.x2iedn.8xlarge, Memory: 1024 GiB, vCPU: 32, Network Performance: 25 Gbps)": "19.5460000000",
-        "Asia Pacific (Sydney) (Instance Type: db.x2iedn.8xlarge, Memory: 1024 GiB, vCPU: 32, Network Performance: 25 Gbps)": "25.7660000000"
+        "US West (Oregon) (Instance Type: db.x2iedn.8xlarge, Memory: 1024 GiB, vCPU: 32, Network Performance: 25 Gbps)": "15.2160000000",
+        "US East (N. Virginia) (Instance Type: db.x2iedn.8xlarge, Memory: 1024 GiB, vCPU: 32, Network Performance: 25 Gbps)": "15.2160000000",
+        "EU (Stockholm) (Instance Type: db.x2iedn.8xlarge, Memory: 1024 GiB, vCPU: 32, Network Performance: 25 Gbps)": "17.3520000000",
+        "EU (Milan) (Instance Type: db.x2iedn.8xlarge, Memory: 1024 GiB, vCPU: 32, Network Performance: 25 Gbps)": "19.1680000000",
+        "EU (Ireland) (Instance Type: db.x2iedn.8xlarge, Memory: 1024 GiB, vCPU: 32, Network Performance: 25 Gbps)": "18.2640000000",
+        "EU (Frankfurt) (Instance Type: db.x2iedn.8xlarge, Memory: 1024 GiB, vCPU: 32, Network Performance: 25 Gbps)": "21.3040000000",
+        "Canada (Central) (Instance Type: db.x2iedn.8xlarge, Memory: 1024 GiB, vCPU: 32, Network Performance: 25 Gbps)": "16.7360000000",
+        "Asia Pacific (Sydney) (Instance Type: db.x2iedn.8xlarge, Memory: 1024 GiB, vCPU: 32, Network Performance: 25 Gbps)": "22.0640000000"
     },
     "Database Instance MySQL No license required db m5.16xlarge General purpose Multi-AZ Current Generation": {
         "US West (Oregon) (Instance Type: db.m5.16xlarge, Memory: 256 GiB, vCPU: 64, Network Performance: 20 Gigabit)": "10.9400000000",
@@ -8256,14 +8256,14 @@
         "Africa (Cape Town) (Instance Type: db.m6i.12xlarge, Memory: 192 GiB, vCPU: 48, Network Performance: 18.75 Gbps)": "5.4000000000"
     },
     "Database Instance MySQL No license required db x2iedn.4xlarge Memory optimized Multi-AZ Current Generation": {
-        "US West (Oregon) (Instance Type: db.x2iedn.4xlarge, Memory: 512 GiB, vCPU: 16, Network Performance: Up to 25 Gbps)": "17.7660000000",
-        "US East (N. Virginia) (Instance Type: db.x2iedn.4xlarge, Memory: 512 GiB, vCPU: 16, Network Performance: Up to 25 Gbps)": "17.7660000000",
-        "EU (Stockholm) (Instance Type: db.x2iedn.4xlarge, Memory: 512 GiB, vCPU: 16, Network Performance: Up to 25 Gbps)": "20.2620000000",
-        "EU (Milan) (Instance Type: db.x2iedn.4xlarge, Memory: 512 GiB, vCPU: 16, Network Performance: Up to 25 Gbps)": "22.3810000000",
-        "EU (Ireland) (Instance Type: db.x2iedn.4xlarge, Memory: 512 GiB, vCPU: 16, Network Performance: Up to 25 Gbps)": "21.3250000000",
-        "EU (Frankfurt) (Instance Type: db.x2iedn.4xlarge, Memory: 512 GiB, vCPU: 16, Network Performance: Up to 25 Gbps)": "24.8770000000",
-        "Canada (Central) (Instance Type: db.x2iedn.4xlarge, Memory: 512 GiB, vCPU: 16, Network Performance: Up to 25 Gbps)": "19.5460000000",
-        "Asia Pacific (Sydney) (Instance Type: db.x2iedn.4xlarge, Memory: 512 GiB, vCPU: 16, Network Performance: Up to 25 Gbps)": "25.7660000000"
+        "US West (Oregon) (Instance Type: db.x2iedn.4xlarge, Memory: 512 GiB, vCPU: 16, Network Performance: Up to 25 Gbps)": "15.2160000000",
+        "US East (N. Virginia) (Instance Type: db.x2iedn.4xlarge, Memory: 512 GiB, vCPU: 16, Network Performance: Up to 25 Gbps)": "15.2160000000",
+        "EU (Stockholm) (Instance Type: db.x2iedn.4xlarge, Memory: 512 GiB, vCPU: 16, Network Performance: Up to 25 Gbps)": "17.3520000000",
+        "EU (Milan) (Instance Type: db.x2iedn.4xlarge, Memory: 512 GiB, vCPU: 16, Network Performance: Up to 25 Gbps)": "19.1680000000",
+        "EU (Ireland) (Instance Type: db.x2iedn.4xlarge, Memory: 512 GiB, vCPU: 16, Network Performance: Up to 25 Gbps)": "18.2640000000",
+        "EU (Frankfurt) (Instance Type: db.x2iedn.4xlarge, Memory: 512 GiB, vCPU: 16, Network Performance: Up to 25 Gbps)": "21.3040000000",
+        "Canada (Central) (Instance Type: db.x2iedn.4xlarge, Memory: 512 GiB, vCPU: 16, Network Performance: Up to 25 Gbps)": "16.7360000000",
+        "Asia Pacific (Sydney) (Instance Type: db.x2iedn.4xlarge, Memory: 512 GiB, vCPU: 16, Network Performance: Up to 25 Gbps)": "22.0640000000"
     },
     "Database Instance MySQL No license required db r7i.8xlarge Memory optimized Multi-AZ Current Generation": {
         "US West (Oregon) (Instance Type: db.r7i.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: 12.5 Gbps)": "8.0000000000",
@@ -8312,14 +8312,14 @@
         "AWS GovCloud (US) (Instance Type: db.r6gd.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": "2.4720000000"
     },
     "Database Instance MySQL No license required db x2iedn.32xlarge Memory optimized Multi-AZ Current Generation": {
-        "US West (Oregon) (Instance Type: db.x2iedn.32xlarge, Memory: 4096 GiB, vCPU: 128, Network Performance: 100 Gbps)": "142.1310000000",
-        "US East (N. Virginia) (Instance Type: db.x2iedn.32xlarge, Memory: 4096 GiB, vCPU: 128, Network Performance: 100 Gbps)": "142.1310000000",
-        "EU (Stockholm) (Instance Type: db.x2iedn.32xlarge, Memory: 4096 GiB, vCPU: 128, Network Performance: 100 Gbps)": "162.0990000000",
-        "EU (Milan) (Instance Type: db.x2iedn.32xlarge, Memory: 4096 GiB, vCPU: 128, Network Performance: 100 Gbps)": "179.0460000000",
-        "EU (Ireland) (Instance Type: db.x2iedn.32xlarge, Memory: 4096 GiB, vCPU: 128, Network Performance: 100 Gbps)": "170.5980000000",
-        "EU (Frankfurt) (Instance Type: db.x2iedn.32xlarge, Memory: 4096 GiB, vCPU: 128, Network Performance: 100 Gbps)": "199.0140000000",
-        "Canada (Central) (Instance Type: db.x2iedn.32xlarge, Memory: 4096 GiB, vCPU: 128, Network Performance: 100 Gbps)": "156.3650000000",
-        "Asia Pacific (Sydney) (Instance Type: db.x2iedn.32xlarge, Memory: 4096 GiB, vCPU: 128, Network Performance: 100 Gbps)": "206.1310000000"
+        "US West (Oregon) (Instance Type: db.x2iedn.32xlarge, Memory: 4096 GiB, vCPU: 128, Network Performance: 100 Gbps)": "121.7280000000",
+        "US East (N. Virginia) (Instance Type: db.x2iedn.32xlarge, Memory: 4096 GiB, vCPU: 128, Network Performance: 100 Gbps)": "121.7280000000",
+        "EU (Stockholm) (Instance Type: db.x2iedn.32xlarge, Memory: 4096 GiB, vCPU: 128, Network Performance: 100 Gbps)": "138.8160000000",
+        "EU (Milan) (Instance Type: db.x2iedn.32xlarge, Memory: 4096 GiB, vCPU: 128, Network Performance: 100 Gbps)": "153.3440000000",
+        "EU (Ireland) (Instance Type: db.x2iedn.32xlarge, Memory: 4096 GiB, vCPU: 128, Network Performance: 100 Gbps)": "146.1120000000",
+        "EU (Frankfurt) (Instance Type: db.x2iedn.32xlarge, Memory: 4096 GiB, vCPU: 128, Network Performance: 100 Gbps)": "170.4320000000",
+        "Canada (Central) (Instance Type: db.x2iedn.32xlarge, Memory: 4096 GiB, vCPU: 128, Network Performance: 100 Gbps)": "133.8880000000",
+        "Asia Pacific (Sydney) (Instance Type: db.x2iedn.32xlarge, Memory: 4096 GiB, vCPU: 128, Network Performance: 100 Gbps)": "176.5120000000"
     },
     "Database Instance MySQL No license required db m6in.large General purpose Single-AZ Current Generation": {
         "US West (Oregon) (Instance Type: db.m6in.large, Memory: 8 GiB, vCPU: 2, Network Performance: Up to 25 Gbps)": "0.2580000000",
@@ -9154,14 +9154,14 @@
         "AWS GovCloud (US) (Instance Type: db.m3.xlarge, Memory: 15 GiB, vCPU: 4, Network Performance: High)": "0.4250000000"
     },
     "Database Instance MySQL No license required db x2iedn.xlarge Memory optimized Multi-AZ readable standbys Current Generation": {
-        "US West (Oregon) (Instance Type: db.x2iedn.xlarge, Memory: 128 GiB, vCPU: 4, Network Performance: Up to 25 Gbps)": "6.6620000000",
-        "US East (N. Virginia) (Instance Type: db.x2iedn.xlarge, Memory: 128 GiB, vCPU: 4, Network Performance: Up to 25 Gbps)": "6.6620000000",
-        "EU (Stockholm) (Instance Type: db.x2iedn.xlarge, Memory: 128 GiB, vCPU: 4, Network Performance: Up to 25 Gbps)": "7.5980000000",
-        "EU (Milan) (Instance Type: db.x2iedn.xlarge, Memory: 128 GiB, vCPU: 4, Network Performance: Up to 25 Gbps)": "8.3930000000",
-        "EU (Ireland) (Instance Type: db.x2iedn.xlarge, Memory: 128 GiB, vCPU: 4, Network Performance: Up to 25 Gbps)": "7.9970000000",
-        "EU (Frankfurt) (Instance Type: db.x2iedn.xlarge, Memory: 128 GiB, vCPU: 4, Network Performance: Up to 25 Gbps)": "9.3290000000",
-        "Canada (Central) (Instance Type: db.x2iedn.xlarge, Memory: 128 GiB, vCPU: 4, Network Performance: Up to 25 Gbps)": "7.3300000000",
-        "Asia Pacific (Sydney) (Instance Type: db.x2iedn.xlarge, Memory: 128 GiB, vCPU: 4, Network Performance: Up to 25 Gbps)": "9.6620000000"
+        "US West (Oregon) (Instance Type: db.x2iedn.xlarge, Memory: 128 GiB, vCPU: 4, Network Performance: Up to 25 Gbps)": "5.7060000000",
+        "US East (N. Virginia) (Instance Type: db.x2iedn.xlarge, Memory: 128 GiB, vCPU: 4, Network Performance: Up to 25 Gbps)": "5.7060000000",
+        "EU (Stockholm) (Instance Type: db.x2iedn.xlarge, Memory: 128 GiB, vCPU: 4, Network Performance: Up to 25 Gbps)": "6.5070000000",
+        "EU (Milan) (Instance Type: db.x2iedn.xlarge, Memory: 128 GiB, vCPU: 4, Network Performance: Up to 25 Gbps)": "7.1880000000",
+        "EU (Ireland) (Instance Type: db.x2iedn.xlarge, Memory: 128 GiB, vCPU: 4, Network Performance: Up to 25 Gbps)": "6.8490000000",
+        "EU (Frankfurt) (Instance Type: db.x2iedn.xlarge, Memory: 128 GiB, vCPU: 4, Network Performance: Up to 25 Gbps)": "7.9890000000",
+        "Canada (Central) (Instance Type: db.x2iedn.xlarge, Memory: 128 GiB, vCPU: 4, Network Performance: Up to 25 Gbps)": "6.2760000000",
+        "Asia Pacific (Sydney) (Instance Type: db.x2iedn.xlarge, Memory: 128 GiB, vCPU: 4, Network Performance: Up to 25 Gbps)": "8.2740000000"
     },
     "Database Instance MySQL No license required db m4.large General purpose Multi-AZ Previous Generation": {
         "US West (Oregon) (Instance Type: db.m4.large, Memory: 8 GiB, vCPU: 2, Network Performance: Moderate)": "0.3500000000",
@@ -10252,14 +10252,14 @@
         "AWS GovCloud (US) (Instance Type: db.m6g.16xlarge, Memory: 256 GiB, vCPU: 64, Network Performance: 25 Gigabit)": "11.5710000000"
     },
     "Database Instance MySQL No license required db x2iedn.xlarge Memory optimized Single-AZ Current Generation": {
-        "US West (Oregon) (Instance Type: db.x2iedn.xlarge, Memory: 128 GiB, vCPU: 4, Network Performance: Up to 25 Gbps)": "2.2210000000",
-        "US East (N. Virginia) (Instance Type: db.x2iedn.xlarge, Memory: 128 GiB, vCPU: 4, Network Performance: Up to 25 Gbps)": "2.2210000000",
-        "EU (Stockholm) (Instance Type: db.x2iedn.xlarge, Memory: 128 GiB, vCPU: 4, Network Performance: Up to 25 Gbps)": "2.5330000000",
-        "EU (Milan) (Instance Type: db.x2iedn.xlarge, Memory: 128 GiB, vCPU: 4, Network Performance: Up to 25 Gbps)": "2.7980000000",
-        "EU (Ireland) (Instance Type: db.x2iedn.xlarge, Memory: 128 GiB, vCPU: 4, Network Performance: Up to 25 Gbps)": "2.6660000000",
-        "EU (Frankfurt) (Instance Type: db.x2iedn.xlarge, Memory: 128 GiB, vCPU: 4, Network Performance: Up to 25 Gbps)": "3.1100000000",
-        "Canada (Central) (Instance Type: db.x2iedn.xlarge, Memory: 128 GiB, vCPU: 4, Network Performance: Up to 25 Gbps)": "2.4430000000",
-        "Asia Pacific (Sydney) (Instance Type: db.x2iedn.xlarge, Memory: 128 GiB, vCPU: 4, Network Performance: Up to 25 Gbps)": "3.2210000000"
+        "US West (Oregon) (Instance Type: db.x2iedn.xlarge, Memory: 128 GiB, vCPU: 4, Network Performance: Up to 25 Gbps)": "1.9020000000",
+        "US East (N. Virginia) (Instance Type: db.x2iedn.xlarge, Memory: 128 GiB, vCPU: 4, Network Performance: Up to 25 Gbps)": "1.9020000000",
+        "EU (Stockholm) (Instance Type: db.x2iedn.xlarge, Memory: 128 GiB, vCPU: 4, Network Performance: Up to 25 Gbps)": "2.1690000000",
+        "EU (Milan) (Instance Type: db.x2iedn.xlarge, Memory: 128 GiB, vCPU: 4, Network Performance: Up to 25 Gbps)": "2.3960000000",
+        "EU (Ireland) (Instance Type: db.x2iedn.xlarge, Memory: 128 GiB, vCPU: 4, Network Performance: Up to 25 Gbps)": "2.2830000000",
+        "EU (Frankfurt) (Instance Type: db.x2iedn.xlarge, Memory: 128 GiB, vCPU: 4, Network Performance: Up to 25 Gbps)": "2.6630000000",
+        "Canada (Central) (Instance Type: db.x2iedn.xlarge, Memory: 128 GiB, vCPU: 4, Network Performance: Up to 25 Gbps)": "2.0920000000",
+        "Asia Pacific (Sydney) (Instance Type: db.x2iedn.xlarge, Memory: 128 GiB, vCPU: 4, Network Performance: Up to 25 Gbps)": "2.7580000000"
     },
     "Database Instance MySQL No license required db r6gd.2xlarge Memory optimized Multi-AZ readable standbys Current Generation": {
         "US West (Oregon) (Instance Type: db.r6gd.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": "2.8900000000",
@@ -10409,14 +10409,14 @@
         "AWS GovCloud (US) (Instance Type: db.t3.small, Memory: 2 GiB, vCPU: 2, Network Performance: Low to Moderate)": "0.0800000000"
     },
     "Database Instance MySQL No license required db x2iedn.4xlarge Memory optimized Multi-AZ readable standbys Current Generation": {
-        "US West (Oregon) (Instance Type: db.x2iedn.4xlarge, Memory: 512 GiB, vCPU: 16, Network Performance: Up to 25 Gbps)": "26.6500000000",
-        "US East (N. Virginia) (Instance Type: db.x2iedn.4xlarge, Memory: 512 GiB, vCPU: 16, Network Performance: Up to 25 Gbps)": "26.6500000000",
-        "EU (Stockholm) (Instance Type: db.x2iedn.4xlarge, Memory: 512 GiB, vCPU: 16, Network Performance: Up to 25 Gbps)": "30.3940000000",
-        "EU (Milan) (Instance Type: db.x2iedn.4xlarge, Memory: 512 GiB, vCPU: 16, Network Performance: Up to 25 Gbps)": "33.5710000000",
-        "EU (Ireland) (Instance Type: db.x2iedn.4xlarge, Memory: 512 GiB, vCPU: 16, Network Performance: Up to 25 Gbps)": "31.9870000000",
-        "EU (Frankfurt) (Instance Type: db.x2iedn.4xlarge, Memory: 512 GiB, vCPU: 16, Network Performance: Up to 25 Gbps)": "37.3150000000",
-        "Canada (Central) (Instance Type: db.x2iedn.4xlarge, Memory: 512 GiB, vCPU: 16, Network Performance: Up to 25 Gbps)": "29.3180000000",
-        "Asia Pacific (Sydney) (Instance Type: db.x2iedn.4xlarge, Memory: 512 GiB, vCPU: 16, Network Performance: Up to 25 Gbps)": "38.6500000000"
+        "US West (Oregon) (Instance Type: db.x2iedn.4xlarge, Memory: 512 GiB, vCPU: 16, Network Performance: Up to 25 Gbps)": "22.8240000000",
+        "US East (N. Virginia) (Instance Type: db.x2iedn.4xlarge, Memory: 512 GiB, vCPU: 16, Network Performance: Up to 25 Gbps)": "22.8240000000",
+        "EU (Stockholm) (Instance Type: db.x2iedn.4xlarge, Memory: 512 GiB, vCPU: 16, Network Performance: Up to 25 Gbps)": "26.0280000000",
+        "EU (Milan) (Instance Type: db.x2iedn.4xlarge, Memory: 512 GiB, vCPU: 16, Network Performance: Up to 25 Gbps)": "28.7520000000",
+        "EU (Ireland) (Instance Type: db.x2iedn.4xlarge, Memory: 512 GiB, vCPU: 16, Network Performance: Up to 25 Gbps)": "27.3960000000",
+        "EU (Frankfurt) (Instance Type: db.x2iedn.4xlarge, Memory: 512 GiB, vCPU: 16, Network Performance: Up to 25 Gbps)": "31.9560000000",
+        "Canada (Central) (Instance Type: db.x2iedn.4xlarge, Memory: 512 GiB, vCPU: 16, Network Performance: Up to 25 Gbps)": "25.1040000000",
+        "Asia Pacific (Sydney) (Instance Type: db.x2iedn.4xlarge, Memory: 512 GiB, vCPU: 16, Network Performance: Up to 25 Gbps)": "33.0960000000"
     },
     "Database Instance MySQL No license required db m6id.24xlarge General purpose Multi-AZ readable standbys Current Generation": {
         "US West (Oregon) (Instance Type: db.m6id.24xlarge, Memory: 384 GiB, vCPU: 96, Network Performance: 37.5 Gbps)": "32.2840000000",
@@ -11350,14 +11350,14 @@
         "Asia Pacific (Jakarta) (Instance Type: db.r6gd.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: 25 Gigabit)": "29.6280000000"
     },
     "Database Instance MySQL No license required db x2iedn.4xlarge Memory optimized Single-AZ Current Generation": {
-        "US West (Oregon) (Instance Type: db.x2iedn.4xlarge, Memory: 512 GiB, vCPU: 16, Network Performance: Up to 25 Gbps)": "8.8830000000",
-        "US East (N. Virginia) (Instance Type: db.x2iedn.4xlarge, Memory: 512 GiB, vCPU: 16, Network Performance: Up to 25 Gbps)": "8.8830000000",
-        "EU (Stockholm) (Instance Type: db.x2iedn.4xlarge, Memory: 512 GiB, vCPU: 16, Network Performance: Up to 25 Gbps)": "10.1310000000",
-        "EU (Milan) (Instance Type: db.x2iedn.4xlarge, Memory: 512 GiB, vCPU: 16, Network Performance: Up to 25 Gbps)": "11.1900000000",
-        "EU (Ireland) (Instance Type: db.x2iedn.4xlarge, Memory: 512 GiB, vCPU: 16, Network Performance: Up to 25 Gbps)": "10.6620000000",
-        "EU (Frankfurt) (Instance Type: db.x2iedn.4xlarge, Memory: 512 GiB, vCPU: 16, Network Performance: Up to 25 Gbps)": "12.4380000000",
-        "Canada (Central) (Instance Type: db.x2iedn.4xlarge, Memory: 512 GiB, vCPU: 16, Network Performance: Up to 25 Gbps)": "9.7730000000",
-        "Asia Pacific (Sydney) (Instance Type: db.x2iedn.4xlarge, Memory: 512 GiB, vCPU: 16, Network Performance: Up to 25 Gbps)": "12.8830000000"
+        "US West (Oregon) (Instance Type: db.x2iedn.4xlarge, Memory: 512 GiB, vCPU: 16, Network Performance: Up to 25 Gbps)": "7.6080000000",
+        "US East (N. Virginia) (Instance Type: db.x2iedn.4xlarge, Memory: 512 GiB, vCPU: 16, Network Performance: Up to 25 Gbps)": "7.6080000000",
+        "EU (Stockholm) (Instance Type: db.x2iedn.4xlarge, Memory: 512 GiB, vCPU: 16, Network Performance: Up to 25 Gbps)": "8.6760000000",
+        "EU (Milan) (Instance Type: db.x2iedn.4xlarge, Memory: 512 GiB, vCPU: 16, Network Performance: Up to 25 Gbps)": "9.5840000000",
+        "EU (Ireland) (Instance Type: db.x2iedn.4xlarge, Memory: 512 GiB, vCPU: 16, Network Performance: Up to 25 Gbps)": "9.1320000000",
+        "EU (Frankfurt) (Instance Type: db.x2iedn.4xlarge, Memory: 512 GiB, vCPU: 16, Network Performance: Up to 25 Gbps)": "10.6520000000",
+        "Canada (Central) (Instance Type: db.x2iedn.4xlarge, Memory: 512 GiB, vCPU: 16, Network Performance: Up to 25 Gbps)": "8.3680000000",
+        "Asia Pacific (Sydney) (Instance Type: db.x2iedn.4xlarge, Memory: 512 GiB, vCPU: 16, Network Performance: Up to 25 Gbps)": "11.0320000000"
     },
     "Database Instance MySQL No license required db r5d.large Memory optimized Multi-AZ Current Generation": {
         "US West (Oregon) (Instance Type: db.r5d.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gbps)": "0.5710000000",
@@ -11898,14 +11898,14 @@
         "EU (Ireland) (Instance Type: db.x2g.2xlarge, Memory: 128 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": "3.1280000000"
     },
     "Database Instance MySQL No license required db x2iedn.24xlarge Memory optimized Single-AZ Current Generation": {
-        "US West (Oregon) (Instance Type: db.x2iedn.24xlarge, Memory: 3072 GiB, vCPU: 96, Network Performance: 75 Gbps)": "53.2990000000",
-        "US East (N. Virginia) (Instance Type: db.x2iedn.24xlarge, Memory: 3072 GiB, vCPU: 96, Network Performance: 75 Gbps)": "53.2990000000",
-        "EU (Stockholm) (Instance Type: db.x2iedn.24xlarge, Memory: 3072 GiB, vCPU: 96, Network Performance: 75 Gbps)": "60.7870000000",
-        "EU (Milan) (Instance Type: db.x2iedn.24xlarge, Memory: 3072 GiB, vCPU: 96, Network Performance: 75 Gbps)": "67.1420000000",
-        "EU (Ireland) (Instance Type: db.x2iedn.24xlarge, Memory: 3072 GiB, vCPU: 96, Network Performance: 75 Gbps)": "63.9740000000",
-        "EU (Frankfurt) (Instance Type: db.x2iedn.24xlarge, Memory: 3072 GiB, vCPU: 96, Network Performance: 75 Gbps)": "74.6300000000",
-        "Canada (Central) (Instance Type: db.x2iedn.24xlarge, Memory: 3072 GiB, vCPU: 96, Network Performance: 75 Gbps)": "58.6370000000",
-        "Asia Pacific (Sydney) (Instance Type: db.x2iedn.24xlarge, Memory: 3072 GiB, vCPU: 96, Network Performance: 75 Gbps)": "77.2990000000"
+        "US West (Oregon) (Instance Type: db.x2iedn.24xlarge, Memory: 3072 GiB, vCPU: 96, Network Performance: 75 Gbps)": "45.6480000000",
+        "US East (N. Virginia) (Instance Type: db.x2iedn.24xlarge, Memory: 3072 GiB, vCPU: 96, Network Performance: 75 Gbps)": "45.6480000000",
+        "EU (Stockholm) (Instance Type: db.x2iedn.24xlarge, Memory: 3072 GiB, vCPU: 96, Network Performance: 75 Gbps)": "52.0560000000",
+        "EU (Milan) (Instance Type: db.x2iedn.24xlarge, Memory: 3072 GiB, vCPU: 96, Network Performance: 75 Gbps)": "57.5040000000",
+        "EU (Ireland) (Instance Type: db.x2iedn.24xlarge, Memory: 3072 GiB, vCPU: 96, Network Performance: 75 Gbps)": "54.7920000000",
+        "EU (Frankfurt) (Instance Type: db.x2iedn.24xlarge, Memory: 3072 GiB, vCPU: 96, Network Performance: 75 Gbps)": "63.9120000000",
+        "Canada (Central) (Instance Type: db.x2iedn.24xlarge, Memory: 3072 GiB, vCPU: 96, Network Performance: 75 Gbps)": "50.2080000000",
+        "Asia Pacific (Sydney) (Instance Type: db.x2iedn.24xlarge, Memory: 3072 GiB, vCPU: 96, Network Performance: 75 Gbps)": "66.1920000000"
     },
     "Database Instance MySQL No license required db r5d.16xlarge Memory optimized Multi-AZ Current Generation": {
         "US West (Oregon) (Instance Type: db.r5d.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: 20 Gbps)": "18.2860000000",
@@ -11965,14 +11965,14 @@
         "EU (Ireland) (Instance Type: db.x2g.4xlarge, Memory: 256 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit)": "6.2560000000"
     },
     "Database Instance MySQL No license required db x2iedn.2xlarge Memory optimized Multi-AZ readable standbys Current Generation": {
-        "US West (Oregon) (Instance Type: db.x2iedn.2xlarge, Memory: 256 GiB, vCPU: 8, Network Performance: Up to 25 Gbps)": "13.3250000000",
-        "US East (N. Virginia) (Instance Type: db.x2iedn.2xlarge, Memory: 256 GiB, vCPU: 8, Network Performance: Up to 25 Gbps)": "13.3250000000",
-        "EU (Stockholm) (Instance Type: db.x2iedn.2xlarge, Memory: 256 GiB, vCPU: 8, Network Performance: Up to 25 Gbps)": "15.1970000000",
-        "EU (Milan) (Instance Type: db.x2iedn.2xlarge, Memory: 256 GiB, vCPU: 8, Network Performance: Up to 25 Gbps)": "16.7860000000",
-        "EU (Ireland) (Instance Type: db.x2iedn.2xlarge, Memory: 256 GiB, vCPU: 8, Network Performance: Up to 25 Gbps)": "15.9940000000",
-        "EU (Frankfurt) (Instance Type: db.x2iedn.2xlarge, Memory: 256 GiB, vCPU: 8, Network Performance: Up to 25 Gbps)": "18.6580000000",
-        "Canada (Central) (Instance Type: db.x2iedn.2xlarge, Memory: 256 GiB, vCPU: 8, Network Performance: Up to 25 Gbps)": "14.6590000000",
-        "Asia Pacific (Sydney) (Instance Type: db.x2iedn.2xlarge, Memory: 256 GiB, vCPU: 8, Network Performance: Up to 25 Gbps)": "19.3250000000"
+        "US West (Oregon) (Instance Type: db.x2iedn.2xlarge, Memory: 256 GiB, vCPU: 8, Network Performance: Up to 25 Gbps)": "11.4120000000",
+        "US East (N. Virginia) (Instance Type: db.x2iedn.2xlarge, Memory: 256 GiB, vCPU: 8, Network Performance: Up to 25 Gbps)": "11.4120000000",
+        "EU (Stockholm) (Instance Type: db.x2iedn.2xlarge, Memory: 256 GiB, vCPU: 8, Network Performance: Up to 25 Gbps)": "13.0140000000",
+        "EU (Milan) (Instance Type: db.x2iedn.2xlarge, Memory: 256 GiB, vCPU: 8, Network Performance: Up to 25 Gbps)": "14.3760000000",
+        "EU (Ireland) (Instance Type: db.x2iedn.2xlarge, Memory: 256 GiB, vCPU: 8, Network Performance: Up to 25 Gbps)": "13.6980000000",
+        "EU (Frankfurt) (Instance Type: db.x2iedn.2xlarge, Memory: 256 GiB, vCPU: 8, Network Performance: Up to 25 Gbps)": "15.9780000000",
+        "Canada (Central) (Instance Type: db.x2iedn.2xlarge, Memory: 256 GiB, vCPU: 8, Network Performance: Up to 25 Gbps)": "12.5520000000",
+        "Asia Pacific (Sydney) (Instance Type: db.x2iedn.2xlarge, Memory: 256 GiB, vCPU: 8, Network Performance: Up to 25 Gbps)": "16.5480000000"
     },
     "Database Instance MySQL No license required db m6in.8xlarge General purpose Single-AZ Current Generation": {
         "US West (Oregon) (Instance Type: db.m6in.8xlarge, Memory: 128 GiB, vCPU: 32, Network Performance: 50 Gbps)": "4.1310000000",
@@ -12951,14 +12951,14 @@
         "Asia Pacific (Tokyo) (Instance Type: db.r6idn.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 50 Gbps)": "3.7500000000"
     },
     "Database Instance MySQL No license required db x2iedn.24xlarge Memory optimized Multi-AZ readable standbys Current Generation": {
-        "US West (Oregon) (Instance Type: db.x2iedn.24xlarge, Memory: 3072 GiB, vCPU: 96, Network Performance: 75 Gbps)": "159.8980000000",
-        "US East (N. Virginia) (Instance Type: db.x2iedn.24xlarge, Memory: 3072 GiB, vCPU: 96, Network Performance: 75 Gbps)": "159.8980000000",
-        "EU (Stockholm) (Instance Type: db.x2iedn.24xlarge, Memory: 3072 GiB, vCPU: 96, Network Performance: 75 Gbps)": "182.3620000000",
-        "EU (Milan) (Instance Type: db.x2iedn.24xlarge, Memory: 3072 GiB, vCPU: 96, Network Performance: 75 Gbps)": "201.4270000000",
-        "EU (Ireland) (Instance Type: db.x2iedn.24xlarge, Memory: 3072 GiB, vCPU: 96, Network Performance: 75 Gbps)": "191.9230000000",
-        "EU (Frankfurt) (Instance Type: db.x2iedn.24xlarge, Memory: 3072 GiB, vCPU: 96, Network Performance: 75 Gbps)": "223.8910000000",
-        "Canada (Central) (Instance Type: db.x2iedn.24xlarge, Memory: 3072 GiB, vCPU: 96, Network Performance: 75 Gbps)": "175.9100000000",
-        "Asia Pacific (Sydney) (Instance Type: db.x2iedn.24xlarge, Memory: 3072 GiB, vCPU: 96, Network Performance: 75 Gbps)": "231.8980000000"
+        "US West (Oregon) (Instance Type: db.x2iedn.24xlarge, Memory: 3072 GiB, vCPU: 96, Network Performance: 75 Gbps)": "136.9440000000",
+        "US East (N. Virginia) (Instance Type: db.x2iedn.24xlarge, Memory: 3072 GiB, vCPU: 96, Network Performance: 75 Gbps)": "136.9440000000",
+        "EU (Stockholm) (Instance Type: db.x2iedn.24xlarge, Memory: 3072 GiB, vCPU: 96, Network Performance: 75 Gbps)": "156.1680000000",
+        "EU (Milan) (Instance Type: db.x2iedn.24xlarge, Memory: 3072 GiB, vCPU: 96, Network Performance: 75 Gbps)": "172.5120000000",
+        "EU (Ireland) (Instance Type: db.x2iedn.24xlarge, Memory: 3072 GiB, vCPU: 96, Network Performance: 75 Gbps)": "164.3760000000",
+        "EU (Frankfurt) (Instance Type: db.x2iedn.24xlarge, Memory: 3072 GiB, vCPU: 96, Network Performance: 75 Gbps)": "191.7360000000",
+        "Canada (Central) (Instance Type: db.x2iedn.24xlarge, Memory: 3072 GiB, vCPU: 96, Network Performance: 75 Gbps)": "150.6240000000",
+        "Asia Pacific (Sydney) (Instance Type: db.x2iedn.24xlarge, Memory: 3072 GiB, vCPU: 96, Network Performance: 75 Gbps)": "198.5760000000"
     },
     "Database Instance MySQL No license required db r6idn.8xlarge Memory optimized Multi-AZ Current Generation": {
         "US West (Oregon) (Instance Type: db.r6idn.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: 50 Gbps)": "12.4050000000",
@@ -13878,14 +13878,14 @@
         "AWS GovCloud (US) (Instance Type: db.m3.medium, Memory: 3.75 GiB, vCPU: 1, Network Performance: Moderate)": "0.1100000000"
     },
     "Database Instance MySQL No license required db x2iedn.8xlarge Memory optimized Multi-AZ Current Generation": {
-        "US West (Oregon) (Instance Type: db.x2iedn.8xlarge, Memory: 1024 GiB, vCPU: 32, Network Performance: 25 Gbps)": "35.5330000000",
-        "US East (N. Virginia) (Instance Type: db.x2iedn.8xlarge, Memory: 1024 GiB, vCPU: 32, Network Performance: 25 Gbps)": "35.5330000000",
-        "EU (Stockholm) (Instance Type: db.x2iedn.8xlarge, Memory: 1024 GiB, vCPU: 32, Network Performance: 25 Gbps)": "40.5250000000",
-        "EU (Milan) (Instance Type: db.x2iedn.8xlarge, Memory: 1024 GiB, vCPU: 32, Network Performance: 25 Gbps)": "44.7620000000",
-        "EU (Ireland) (Instance Type: db.x2iedn.8xlarge, Memory: 1024 GiB, vCPU: 32, Network Performance: 25 Gbps)": "42.6500000000",
-        "EU (Frankfurt) (Instance Type: db.x2iedn.8xlarge, Memory: 1024 GiB, vCPU: 32, Network Performance: 25 Gbps)": "49.7540000000",
-        "Canada (Central) (Instance Type: db.x2iedn.8xlarge, Memory: 1024 GiB, vCPU: 32, Network Performance: 25 Gbps)": "39.0910000000",
-        "Asia Pacific (Sydney) (Instance Type: db.x2iedn.8xlarge, Memory: 1024 GiB, vCPU: 32, Network Performance: 25 Gbps)": "51.5330000000"
+        "US West (Oregon) (Instance Type: db.x2iedn.8xlarge, Memory: 1024 GiB, vCPU: 32, Network Performance: 25 Gbps)": "30.4320000000",
+        "US East (N. Virginia) (Instance Type: db.x2iedn.8xlarge, Memory: 1024 GiB, vCPU: 32, Network Performance: 25 Gbps)": "30.4320000000",
+        "EU (Stockholm) (Instance Type: db.x2iedn.8xlarge, Memory: 1024 GiB, vCPU: 32, Network Performance: 25 Gbps)": "34.7040000000",
+        "EU (Milan) (Instance Type: db.x2iedn.8xlarge, Memory: 1024 GiB, vCPU: 32, Network Performance: 25 Gbps)": "38.3360000000",
+        "EU (Ireland) (Instance Type: db.x2iedn.8xlarge, Memory: 1024 GiB, vCPU: 32, Network Performance: 25 Gbps)": "36.5280000000",
+        "EU (Frankfurt) (Instance Type: db.x2iedn.8xlarge, Memory: 1024 GiB, vCPU: 32, Network Performance: 25 Gbps)": "42.6080000000",
+        "Canada (Central) (Instance Type: db.x2iedn.8xlarge, Memory: 1024 GiB, vCPU: 32, Network Performance: 25 Gbps)": "33.4720000000",
+        "Asia Pacific (Sydney) (Instance Type: db.x2iedn.8xlarge, Memory: 1024 GiB, vCPU: 32, Network Performance: 25 Gbps)": "44.1280000000"
     },
     "Database Instance MySQL No license required db m6idn.4xlarge General purpose Multi-AZ readable standbys Current Generation": {
         "US West (Oregon) (Instance Type: db.m6idn.4xlarge, Memory: 64 GiB, vCPU: 16, Network Performance: Up to 50 Gbps)": "7.0800000000",
@@ -13957,14 +13957,14 @@
         "AWS GovCloud (US) (Instance Type: db.m6gd.8xlarge, Memory: 128 GiB, vCPU: 32, Network Performance: 10 Gigabit)": "7.0400000000"
     },
     "Database Instance MySQL No license required db x2iedn.32xlarge Memory optimized Multi-AZ readable standbys Current Generation": {
-        "US West (Oregon) (Instance Type: db.x2iedn.32xlarge, Memory: 4096 GiB, vCPU: 128, Network Performance: 100 Gbps)": "213.1970000000",
-        "US East (N. Virginia) (Instance Type: db.x2iedn.32xlarge, Memory: 4096 GiB, vCPU: 128, Network Performance: 100 Gbps)": "213.1970000000",
-        "EU (Stockholm) (Instance Type: db.x2iedn.32xlarge, Memory: 4096 GiB, vCPU: 128, Network Performance: 100 Gbps)": "243.1490000000",
-        "EU (Milan) (Instance Type: db.x2iedn.32xlarge, Memory: 4096 GiB, vCPU: 128, Network Performance: 100 Gbps)": "268.5700000000",
-        "EU (Ireland) (Instance Type: db.x2iedn.32xlarge, Memory: 4096 GiB, vCPU: 128, Network Performance: 100 Gbps)": "255.8980000000",
-        "EU (Frankfurt) (Instance Type: db.x2iedn.32xlarge, Memory: 4096 GiB, vCPU: 128, Network Performance: 100 Gbps)": "298.5220000000",
-        "Canada (Central) (Instance Type: db.x2iedn.32xlarge, Memory: 4096 GiB, vCPU: 128, Network Performance: 100 Gbps)": "234.5470000000",
-        "Asia Pacific (Sydney) (Instance Type: db.x2iedn.32xlarge, Memory: 4096 GiB, vCPU: 128, Network Performance: 100 Gbps)": "309.1970000000"
+        "US West (Oregon) (Instance Type: db.x2iedn.32xlarge, Memory: 4096 GiB, vCPU: 128, Network Performance: 100 Gbps)": "182.5920000000",
+        "US East (N. Virginia) (Instance Type: db.x2iedn.32xlarge, Memory: 4096 GiB, vCPU: 128, Network Performance: 100 Gbps)": "182.5920000000",
+        "EU (Stockholm) (Instance Type: db.x2iedn.32xlarge, Memory: 4096 GiB, vCPU: 128, Network Performance: 100 Gbps)": "208.2240000000",
+        "EU (Milan) (Instance Type: db.x2iedn.32xlarge, Memory: 4096 GiB, vCPU: 128, Network Performance: 100 Gbps)": "230.0160000000",
+        "EU (Ireland) (Instance Type: db.x2iedn.32xlarge, Memory: 4096 GiB, vCPU: 128, Network Performance: 100 Gbps)": "219.1680000000",
+        "EU (Frankfurt) (Instance Type: db.x2iedn.32xlarge, Memory: 4096 GiB, vCPU: 128, Network Performance: 100 Gbps)": "255.6480000000",
+        "Canada (Central) (Instance Type: db.x2iedn.32xlarge, Memory: 4096 GiB, vCPU: 128, Network Performance: 100 Gbps)": "200.8320000000",
+        "Asia Pacific (Sydney) (Instance Type: db.x2iedn.32xlarge, Memory: 4096 GiB, vCPU: 128, Network Performance: 100 Gbps)": "264.7680000000"
     },
     "Database Instance MySQL No license required db r6gd.12xlarge Memory optimized Single-AZ Current Generation": {
         "US West (Oregon) (Instance Type: db.r6gd.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: 20 Gigabit)": "6.1710000000",
@@ -14040,14 +14040,14 @@
         "AWS GovCloud (US) (Instance Type: db.r6gd.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": "1.2360000000"
     },
     "Database Instance MySQL No license required db x2iedn.16xlarge Memory optimized Multi-AZ Current Generation": {
-        "US West (Oregon) (Instance Type: db.x2iedn.16xlarge, Memory: 2048 GiB, vCPU: 64, Network Performance: 50 Gbps)": "71.0660000000",
-        "US East (N. Virginia) (Instance Type: db.x2iedn.16xlarge, Memory: 2048 GiB, vCPU: 64, Network Performance: 50 Gbps)": "71.0660000000",
-        "EU (Stockholm) (Instance Type: db.x2iedn.16xlarge, Memory: 2048 GiB, vCPU: 64, Network Performance: 50 Gbps)": "81.0500000000",
-        "EU (Milan) (Instance Type: db.x2iedn.16xlarge, Memory: 2048 GiB, vCPU: 64, Network Performance: 50 Gbps)": "89.5230000000",
-        "EU (Ireland) (Instance Type: db.x2iedn.16xlarge, Memory: 2048 GiB, vCPU: 64, Network Performance: 50 Gbps)": "85.2990000000",
-        "EU (Frankfurt) (Instance Type: db.x2iedn.16xlarge, Memory: 2048 GiB, vCPU: 64, Network Performance: 50 Gbps)": "99.5070000000",
-        "Canada (Central) (Instance Type: db.x2iedn.16xlarge, Memory: 2048 GiB, vCPU: 64, Network Performance: 50 Gbps)": "78.1820000000",
-        "Asia Pacific (Sydney) (Instance Type: db.x2iedn.16xlarge, Memory: 2048 GiB, vCPU: 64, Network Performance: 50 Gbps)": "103.0660000000"
+        "US West (Oregon) (Instance Type: db.x2iedn.16xlarge, Memory: 2048 GiB, vCPU: 64, Network Performance: 50 Gbps)": "60.8640000000",
+        "US East (N. Virginia) (Instance Type: db.x2iedn.16xlarge, Memory: 2048 GiB, vCPU: 64, Network Performance: 50 Gbps)": "60.8640000000",
+        "EU (Stockholm) (Instance Type: db.x2iedn.16xlarge, Memory: 2048 GiB, vCPU: 64, Network Performance: 50 Gbps)": "69.4080000000",
+        "EU (Milan) (Instance Type: db.x2iedn.16xlarge, Memory: 2048 GiB, vCPU: 64, Network Performance: 50 Gbps)": "76.6720000000",
+        "EU (Ireland) (Instance Type: db.x2iedn.16xlarge, Memory: 2048 GiB, vCPU: 64, Network Performance: 50 Gbps)": "73.0560000000",
+        "EU (Frankfurt) (Instance Type: db.x2iedn.16xlarge, Memory: 2048 GiB, vCPU: 64, Network Performance: 50 Gbps)": "85.2160000000",
+        "Canada (Central) (Instance Type: db.x2iedn.16xlarge, Memory: 2048 GiB, vCPU: 64, Network Performance: 50 Gbps)": "66.9440000000",
+        "Asia Pacific (Sydney) (Instance Type: db.x2iedn.16xlarge, Memory: 2048 GiB, vCPU: 64, Network Performance: 50 Gbps)": "88.2560000000"
     },
     "Database Instance MySQL No license required db m6id.12xlarge General purpose Single-AZ Current Generation": {
         "US West (Oregon) (Instance Type: db.m6id.12xlarge, Memory: 192 GiB, vCPU: 48, Network Performance: 18.75 Gbps)": "5.3810000000",
@@ -14063,14 +14063,14 @@
         "Asia Pacific (Malaysia) (Instance Type: db.m6id.12xlarge, Memory: 192 GiB, vCPU: 48, Network Performance: 18.75 Gbps)": "6.6960000000"
     },
     "Database Instance MySQL No license required db x2iedn.2xlarge Memory optimized Multi-AZ Current Generation": {
-        "US West (Oregon) (Instance Type: db.x2iedn.2xlarge, Memory: 256 GiB, vCPU: 8, Network Performance: Up to 25 Gbps)": "8.8830000000",
-        "US East (N. Virginia) (Instance Type: db.x2iedn.2xlarge, Memory: 256 GiB, vCPU: 8, Network Performance: Up to 25 Gbps)": "8.8830000000",
-        "EU (Stockholm) (Instance Type: db.x2iedn.2xlarge, Memory: 256 GiB, vCPU: 8, Network Performance: Up to 25 Gbps)": "10.1310000000",
-        "EU (Milan) (Instance Type: db.x2iedn.2xlarge, Memory: 256 GiB, vCPU: 8, Network Performance: Up to 25 Gbps)": "11.1900000000",
-        "EU (Ireland) (Instance Type: db.x2iedn.2xlarge, Memory: 256 GiB, vCPU: 8, Network Performance: Up to 25 Gbps)": "10.6620000000",
-        "EU (Frankfurt) (Instance Type: db.x2iedn.2xlarge, Memory: 256 GiB, vCPU: 8, Network Performance: Up to 25 Gbps)": "12.4380000000",
-        "Canada (Central) (Instance Type: db.x2iedn.2xlarge, Memory: 256 GiB, vCPU: 8, Network Performance: Up to 25 Gbps)": "9.7730000000",
-        "Asia Pacific (Sydney) (Instance Type: db.x2iedn.2xlarge, Memory: 256 GiB, vCPU: 8, Network Performance: Up to 25 Gbps)": "12.8830000000"
+        "US West (Oregon) (Instance Type: db.x2iedn.2xlarge, Memory: 256 GiB, vCPU: 8, Network Performance: Up to 25 Gbps)": "7.6080000000",
+        "US East (N. Virginia) (Instance Type: db.x2iedn.2xlarge, Memory: 256 GiB, vCPU: 8, Network Performance: Up to 25 Gbps)": "7.6080000000",
+        "EU (Stockholm) (Instance Type: db.x2iedn.2xlarge, Memory: 256 GiB, vCPU: 8, Network Performance: Up to 25 Gbps)": "8.6760000000",
+        "EU (Milan) (Instance Type: db.x2iedn.2xlarge, Memory: 256 GiB, vCPU: 8, Network Performance: Up to 25 Gbps)": "9.5840000000",
+        "EU (Ireland) (Instance Type: db.x2iedn.2xlarge, Memory: 256 GiB, vCPU: 8, Network Performance: Up to 25 Gbps)": "9.1320000000",
+        "EU (Frankfurt) (Instance Type: db.x2iedn.2xlarge, Memory: 256 GiB, vCPU: 8, Network Performance: Up to 25 Gbps)": "10.6520000000",
+        "Canada (Central) (Instance Type: db.x2iedn.2xlarge, Memory: 256 GiB, vCPU: 8, Network Performance: Up to 25 Gbps)": "8.3680000000",
+        "Asia Pacific (Sydney) (Instance Type: db.x2iedn.2xlarge, Memory: 256 GiB, vCPU: 8, Network Performance: Up to 25 Gbps)": "11.0320000000"
     },
     "Database Instance MySQL No license required db r6in.16xlarge Memory optimized Multi-AZ Current Generation": {
         "US West (Oregon) (Instance Type: db.r6in.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: 100 Gbps)": "22.1380000000",
@@ -14421,14 +14421,14 @@
         "Asia Pacific (Singapore) (Instance Type: db.r5b.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit)": "2.8080000000"
     },
     "Database Instance MySQL No license required db x2iedn.2xlarge Memory optimized Single-AZ Current Generation": {
-        "US West (Oregon) (Instance Type: db.x2iedn.2xlarge, Memory: 256 GiB, vCPU: 8, Network Performance: Up to 25 Gbps)": "4.4420000000",
-        "US East (N. Virginia) (Instance Type: db.x2iedn.2xlarge, Memory: 256 GiB, vCPU: 8, Network Performance: Up to 25 Gbps)": "4.4420000000",
-        "EU (Stockholm) (Instance Type: db.x2iedn.2xlarge, Memory: 256 GiB, vCPU: 8, Network Performance: Up to 25 Gbps)": "5.0660000000",
-        "EU (Milan) (Instance Type: db.x2iedn.2xlarge, Memory: 256 GiB, vCPU: 8, Network Performance: Up to 25 Gbps)": "5.5950000000",
-        "EU (Ireland) (Instance Type: db.x2iedn.2xlarge, Memory: 256 GiB, vCPU: 8, Network Performance: Up to 25 Gbps)": "5.3310000000",
-        "EU (Frankfurt) (Instance Type: db.x2iedn.2xlarge, Memory: 256 GiB, vCPU: 8, Network Performance: Up to 25 Gbps)": "6.2190000000",
-        "Canada (Central) (Instance Type: db.x2iedn.2xlarge, Memory: 256 GiB, vCPU: 8, Network Performance: Up to 25 Gbps)": "4.8860000000",
-        "Asia Pacific (Sydney) (Instance Type: db.x2iedn.2xlarge, Memory: 256 GiB, vCPU: 8, Network Performance: Up to 25 Gbps)": "6.4420000000"
+        "US West (Oregon) (Instance Type: db.x2iedn.2xlarge, Memory: 256 GiB, vCPU: 8, Network Performance: Up to 25 Gbps)": "3.8040000000",
+        "US East (N. Virginia) (Instance Type: db.x2iedn.2xlarge, Memory: 256 GiB, vCPU: 8, Network Performance: Up to 25 Gbps)": "3.8040000000",
+        "EU (Stockholm) (Instance Type: db.x2iedn.2xlarge, Memory: 256 GiB, vCPU: 8, Network Performance: Up to 25 Gbps)": "4.3380000000",
+        "EU (Milan) (Instance Type: db.x2iedn.2xlarge, Memory: 256 GiB, vCPU: 8, Network Performance: Up to 25 Gbps)": "4.7920000000",
+        "EU (Ireland) (Instance Type: db.x2iedn.2xlarge, Memory: 256 GiB, vCPU: 8, Network Performance: Up to 25 Gbps)": "4.5660000000",
+        "EU (Frankfurt) (Instance Type: db.x2iedn.2xlarge, Memory: 256 GiB, vCPU: 8, Network Performance: Up to 25 Gbps)": "5.3260000000",
+        "Canada (Central) (Instance Type: db.x2iedn.2xlarge, Memory: 256 GiB, vCPU: 8, Network Performance: Up to 25 Gbps)": "4.1840000000",
+        "Asia Pacific (Sydney) (Instance Type: db.x2iedn.2xlarge, Memory: 256 GiB, vCPU: 8, Network Performance: Up to 25 Gbps)": "5.5160000000"
     },
     "Database Instance MySQL No license required db r5d.4xlarge Memory optimized Single-AZ Current Generation": {
         "US West (Oregon) (Instance Type: db.r5d.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gbps)": "2.2860000000",
@@ -14456,14 +14456,14 @@
         "Africa (Cape Town) (Instance Type: db.r5d.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gbps)": "3.0130000000"
     },
     "Database Instance MySQL No license required db x2iedn.16xlarge Memory optimized Single-AZ Current Generation": {
-        "US West (Oregon) (Instance Type: db.x2iedn.16xlarge, Memory: 2048 GiB, vCPU: 64, Network Performance: 50 Gbps)": "35.5330000000",
-        "US East (N. Virginia) (Instance Type: db.x2iedn.16xlarge, Memory: 2048 GiB, vCPU: 64, Network Performance: 50 Gbps)": "35.5330000000",
-        "EU (Stockholm) (Instance Type: db.x2iedn.16xlarge, Memory: 2048 GiB, vCPU: 64, Network Performance: 50 Gbps)": "40.5250000000",
-        "EU (Milan) (Instance Type: db.x2iedn.16xlarge, Memory: 2048 GiB, vCPU: 64, Network Performance: 50 Gbps)": "44.7620000000",
-        "EU (Ireland) (Instance Type: db.x2iedn.16xlarge, Memory: 2048 GiB, vCPU: 64, Network Performance: 50 Gbps)": "42.6500000000",
-        "EU (Frankfurt) (Instance Type: db.x2iedn.16xlarge, Memory: 2048 GiB, vCPU: 64, Network Performance: 50 Gbps)": "49.7540000000",
-        "Canada (Central) (Instance Type: db.x2iedn.16xlarge, Memory: 2048 GiB, vCPU: 64, Network Performance: 50 Gbps)": "39.0910000000",
-        "Asia Pacific (Sydney) (Instance Type: db.x2iedn.16xlarge, Memory: 2048 GiB, vCPU: 64, Network Performance: 50 Gbps)": "51.5330000000"
+        "US West (Oregon) (Instance Type: db.x2iedn.16xlarge, Memory: 2048 GiB, vCPU: 64, Network Performance: 50 Gbps)": "30.4320000000",
+        "US East (N. Virginia) (Instance Type: db.x2iedn.16xlarge, Memory: 2048 GiB, vCPU: 64, Network Performance: 50 Gbps)": "30.4320000000",
+        "EU (Stockholm) (Instance Type: db.x2iedn.16xlarge, Memory: 2048 GiB, vCPU: 64, Network Performance: 50 Gbps)": "34.7040000000",
+        "EU (Milan) (Instance Type: db.x2iedn.16xlarge, Memory: 2048 GiB, vCPU: 64, Network Performance: 50 Gbps)": "38.3360000000",
+        "EU (Ireland) (Instance Type: db.x2iedn.16xlarge, Memory: 2048 GiB, vCPU: 64, Network Performance: 50 Gbps)": "36.5280000000",
+        "EU (Frankfurt) (Instance Type: db.x2iedn.16xlarge, Memory: 2048 GiB, vCPU: 64, Network Performance: 50 Gbps)": "42.6080000000",
+        "Canada (Central) (Instance Type: db.x2iedn.16xlarge, Memory: 2048 GiB, vCPU: 64, Network Performance: 50 Gbps)": "33.4720000000",
+        "Asia Pacific (Sydney) (Instance Type: db.x2iedn.16xlarge, Memory: 2048 GiB, vCPU: 64, Network Performance: 50 Gbps)": "44.1280000000"
     },
     "Database Instance MySQL No license required db m1.xlarge General purpose Multi-AZ Previous Generation": {
         "US West (Oregon) (Instance Type: db.m1.xlarge, Memory: 15 GiB, vCPU: 4, Network Performance: High)": "0.9300000000",
@@ -14781,14 +14781,14 @@
         "Asia Pacific (Malaysia) (Instance Type: db.r6id.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 12.5 Gbps)": "3.8520000000"
     },
     "Database Instance MySQL No license required db x2iedn.8xlarge Memory optimized Multi-AZ readable standbys Current Generation": {
-        "US West (Oregon) (Instance Type: db.x2iedn.8xlarge, Memory: 1024 GiB, vCPU: 32, Network Performance: 25 Gbps)": "53.2990000000",
-        "US East (N. Virginia) (Instance Type: db.x2iedn.8xlarge, Memory: 1024 GiB, vCPU: 32, Network Performance: 25 Gbps)": "53.2990000000",
-        "EU (Stockholm) (Instance Type: db.x2iedn.8xlarge, Memory: 1024 GiB, vCPU: 32, Network Performance: 25 Gbps)": "60.7870000000",
-        "EU (Milan) (Instance Type: db.x2iedn.8xlarge, Memory: 1024 GiB, vCPU: 32, Network Performance: 25 Gbps)": "67.1420000000",
-        "EU (Ireland) (Instance Type: db.x2iedn.8xlarge, Memory: 1024 GiB, vCPU: 32, Network Performance: 25 Gbps)": "63.9740000000",
-        "EU (Frankfurt) (Instance Type: db.x2iedn.8xlarge, Memory: 1024 GiB, vCPU: 32, Network Performance: 25 Gbps)": "74.6300000000",
-        "Canada (Central) (Instance Type: db.x2iedn.8xlarge, Memory: 1024 GiB, vCPU: 32, Network Performance: 25 Gbps)": "58.6370000000",
-        "Asia Pacific (Sydney) (Instance Type: db.x2iedn.8xlarge, Memory: 1024 GiB, vCPU: 32, Network Performance: 25 Gbps)": "77.2990000000"
+        "US West (Oregon) (Instance Type: db.x2iedn.8xlarge, Memory: 1024 GiB, vCPU: 32, Network Performance: 25 Gbps)": "45.6480000000",
+        "US East (N. Virginia) (Instance Type: db.x2iedn.8xlarge, Memory: 1024 GiB, vCPU: 32, Network Performance: 25 Gbps)": "45.6480000000",
+        "EU (Stockholm) (Instance Type: db.x2iedn.8xlarge, Memory: 1024 GiB, vCPU: 32, Network Performance: 25 Gbps)": "52.0560000000",
+        "EU (Milan) (Instance Type: db.x2iedn.8xlarge, Memory: 1024 GiB, vCPU: 32, Network Performance: 25 Gbps)": "57.5040000000",
+        "EU (Ireland) (Instance Type: db.x2iedn.8xlarge, Memory: 1024 GiB, vCPU: 32, Network Performance: 25 Gbps)": "54.7920000000",
+        "EU (Frankfurt) (Instance Type: db.x2iedn.8xlarge, Memory: 1024 GiB, vCPU: 32, Network Performance: 25 Gbps)": "63.9120000000",
+        "Canada (Central) (Instance Type: db.x2iedn.8xlarge, Memory: 1024 GiB, vCPU: 32, Network Performance: 25 Gbps)": "50.2080000000",
+        "Asia Pacific (Sydney) (Instance Type: db.x2iedn.8xlarge, Memory: 1024 GiB, vCPU: 32, Network Performance: 25 Gbps)": "66.1920000000"
     },
     "Database Instance MySQL No license required db m5d.24xlarge General purpose Multi-AZ Current Generation": {
         "US West (Oregon) (Instance Type: db.m5d.24xlarge, Memory: 384 GiB, vCPU: 96, Network Performance: 25 Gbps)": "20.1140000000",
@@ -15282,14 +15282,14 @@
         "AWS GovCloud (US) (Instance Type: db.m1.small, Memory: 1.7 GiB, vCPU: 1, Network Performance: Low)": "0.1300000000"
     },
     "Database Instance MySQL No license required db x2iedn.24xlarge Memory optimized Multi-AZ Current Generation": {
-        "US West (Oregon) (Instance Type: db.x2iedn.24xlarge, Memory: 3072 GiB, vCPU: 96, Network Performance: 75 Gbps)": "106.5980000000",
-        "US East (N. Virginia) (Instance Type: db.x2iedn.24xlarge, Memory: 3072 GiB, vCPU: 96, Network Performance: 75 Gbps)": "106.5980000000",
-        "EU (Stockholm) (Instance Type: db.x2iedn.24xlarge, Memory: 3072 GiB, vCPU: 96, Network Performance: 75 Gbps)": "121.5740000000",
-        "EU (Milan) (Instance Type: db.x2iedn.24xlarge, Memory: 3072 GiB, vCPU: 96, Network Performance: 75 Gbps)": "134.2850000000",
-        "EU (Ireland) (Instance Type: db.x2iedn.24xlarge, Memory: 3072 GiB, vCPU: 96, Network Performance: 75 Gbps)": "127.9490000000",
-        "EU (Frankfurt) (Instance Type: db.x2iedn.24xlarge, Memory: 3072 GiB, vCPU: 96, Network Performance: 75 Gbps)": "149.2610000000",
-        "Canada (Central) (Instance Type: db.x2iedn.24xlarge, Memory: 3072 GiB, vCPU: 96, Network Performance: 75 Gbps)": "117.2740000000",
-        "Asia Pacific (Sydney) (Instance Type: db.x2iedn.24xlarge, Memory: 3072 GiB, vCPU: 96, Network Performance: 75 Gbps)": "154.5980000000"
+        "US West (Oregon) (Instance Type: db.x2iedn.24xlarge, Memory: 3072 GiB, vCPU: 96, Network Performance: 75 Gbps)": "91.2960000000",
+        "US East (N. Virginia) (Instance Type: db.x2iedn.24xlarge, Memory: 3072 GiB, vCPU: 96, Network Performance: 75 Gbps)": "91.2960000000",
+        "EU (Stockholm) (Instance Type: db.x2iedn.24xlarge, Memory: 3072 GiB, vCPU: 96, Network Performance: 75 Gbps)": "104.1120000000",
+        "EU (Milan) (Instance Type: db.x2iedn.24xlarge, Memory: 3072 GiB, vCPU: 96, Network Performance: 75 Gbps)": "115.0080000000",
+        "EU (Ireland) (Instance Type: db.x2iedn.24xlarge, Memory: 3072 GiB, vCPU: 96, Network Performance: 75 Gbps)": "109.5840000000",
+        "EU (Frankfurt) (Instance Type: db.x2iedn.24xlarge, Memory: 3072 GiB, vCPU: 96, Network Performance: 75 Gbps)": "127.8240000000",
+        "Canada (Central) (Instance Type: db.x2iedn.24xlarge, Memory: 3072 GiB, vCPU: 96, Network Performance: 75 Gbps)": "100.4160000000",
+        "Asia Pacific (Sydney) (Instance Type: db.x2iedn.24xlarge, Memory: 3072 GiB, vCPU: 96, Network Performance: 75 Gbps)": "132.3840000000"
     },
     "Database Instance MySQL No license required db m1.medium General purpose Single-AZ Previous Generation": {
         "US West (Oregon) (Instance Type: db.m1.medium, Memory: 3.75 GiB, vCPU: 1, Network Performance: Moderate)": "0.1150000000",
