@@ -1,3 +1,11 @@
+## 2025-05-20 00:41
+
+**Modified services:**
+
+- [ec2](processed/ec2.json)
+  - Region added for metric OnDemand Linux-instancetype-u-18tb1.112xlarge: US East (Ohio) 🌎
+
+
 ## 2025-05-19 22:26
 
 **Modified services:**

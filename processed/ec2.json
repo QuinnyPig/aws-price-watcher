@@ -5395,6 +5395,7 @@
     },
     "OnDemand Linux-instancetype-u-18tb1.112xlarge": {
         "US West (Oregon)": "163.8000000000",
+        "US East (Ohio)": "163.8000000000",
         "US East (N. Virginia)": "163.8000000000",
         "South America (Sao Paulo)": "261.3000000000",
         "EU (Ireland)": "183.3000000000",
