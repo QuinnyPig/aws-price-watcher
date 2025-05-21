@@ -1,3 +1,18 @@
+## 2025-05-21 07:26
+
+**Modified services:**
+
+- [elasticmapreduce](processed/elasticmapreduce.json)
+  - Region added for metric Instance-instancetype-c6id.16xlarge: EU (Paris) 🌎
+  - Region added for metric Instance-instancetype-c6id.12xlarge: EU (Paris) 🌎
+  - Region added for metric Instance-instancetype-c6id.24xlarge: EU (Paris) 🌎
+  - Region added for metric Instance-instancetype-c6id.4xlarge: EU (Paris) 🌎
+  - Region added for metric Instance-instancetype-c6id.32xlarge: EU (Paris) 🌎
+  - Region added for metric Instance-instancetype-c6id.8xlarge: EU (Paris) 🌎
+  - Region added for metric Instance-instancetype-c6id.xlarge: EU (Paris) 🌎
+  - Region added for metric Instance-instancetype-c6id.2xlarge: EU (Paris) 🌎
+
+
 ## 2025-05-20 23:26
 
 **Modified services:**
