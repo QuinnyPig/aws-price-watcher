@@ -1,3 +1,25 @@
+## 2025-05-22 22:26
+
+**Modified services:**
+
+- [kinesisfirehose](processed/kinesisfirehose.json)
+  - Region added for metric Event by-Event Processing Per GB of data ingested or delivered to Apache Iceberg Tables from 0 to 256000: Asia Pacific (Malaysia) 🌎
+  - Region added for metric Event by-Event Processing Per GB of data ingested or delivered to Apache Iceberg Tables from 1024000 to Inf: Asia Pacific (Malaysia) 🌎
+  - Region added for metric Per GB of incremental data processed from 0 to 256000: Asia Pacific (Malaysia) 🌎
+  - Region added for metric MSK Record Processing Per GB of data ingested or delivered from 1024000 to Inf: Asia Pacific (Malaysia) 🌎
+  - Region added for metric Per GB of data from 0 to Inf: Asia Pacific (Malaysia) 🌎
+  - Region added for metric MSK Record Processing Per GB of data ingested or delivered from 256000 to 1024000: Asia Pacific (Malaysia) 🌎
+  - Region added for metric Per GB of incremental data processed from 256000 to 1024000: Asia Pacific (Malaysia) 🌎
+  - Region added for metric Per GB of data ingested or delivered from 0 to Inf: Asia Pacific (Malaysia) 🌎
+  - Region added for metric Per GB of data ingested or delivered to Apache Iceberg Tables from 0 to 256000: Asia Pacific (Malaysia) 🌎
+  - Region added for metric Per GB of incremental data processed from 1024000 to Inf: Asia Pacific (Malaysia) 🌎
+  - Region added for metric Per GB of data ingested or delivered to Apache Iceberg Tables from 1024000 to Inf: Asia Pacific (Malaysia) 🌎
+  - Region added for metric Event by-Event Processing Per GB of data ingested or delivered from 0 to Inf: Asia Pacific (Malaysia) 🌎
+  - Region added for metric Event by-Event Processing Per GB of data ingested or delivered to Apache Iceberg Tables from 256000 to 1024000: Asia Pacific (Malaysia) 🌎
+  - Region added for metric Per GB of data ingested or delivered to Apache Iceberg Tables from 256000 to 1024000: Asia Pacific (Malaysia) 🌎
+  - Region added for metric MSK Record Processing Per GB of data ingested or delivered from 0 to 256000: Asia Pacific (Malaysia) 🌎
+
+
 ## 2025-05-22 20:27
 
 **Modified services:**

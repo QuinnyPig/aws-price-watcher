@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "kinesisfirehose",
         "accessType": "publish",
-        "esIndex": "plc-kinesisfirehose-usd-20250221233811",
-        "hawkFilePublicationDate": "2025-02-21T23:38:11Z",
-        "ETLIngestionTriggerDate": "2025-02-21T23:38:11Z",
+        "esIndex": "plc-kinesisfirehose-usd-20250522221435",
+        "hawkFilePublicationDate": "2025-05-22T22:14:35Z",
+        "ETLIngestionTriggerDate": "2025-05-22T22:14:35Z",
         "currencyCode": "USD",
         "source": "kinesisfirehose",
         "isMapped": "true"
@@ -10601,10 +10601,20 @@
                 "price": "0.0459000000",
                 "RegionlessRateCode": "1-_VbWx3l79RkwQw-T9griefPH4FYj8LxTWzyNfYKKo"
             },
+            "1YRpuy07sqLv5YmXguUcyxnxrqhezhGx0O78gr_c_D0": {
+                "rateCode": "2YVBPT2T2UEND5H6.JRTCKXETXF.PKDEJ9N4K8",
+                "price": "0.0860000000",
+                "RegionlessRateCode": "1YRpuy07sqLv5YmXguUcyxnxrqhezhGx0O78gr_c_D0"
+            },
             "3cqRiUMKw7IhfOppS1NjCJjCmgetpKKLAJ2u_3GxGc0": {
                 "rateCode": "TDJES9V63RKH9NMZ.JRTCKXETXF.UWBZ2JUKT9",
                 "price": "0.0288000000",
                 "RegionlessRateCode": "3cqRiUMKw7IhfOppS1NjCJjCmgetpKKLAJ2u_3GxGc0"
+            },
+            "45Kg2pLLVkiVywlXi2UGYFV5wvgSB7fAupUe_UdD05U": {
+                "rateCode": "2YVBPT2T2UEND5H6.JRTCKXETXF.W36PUWTAP8",
+                "price": "0.0610000000",
+                "RegionlessRateCode": "45Kg2pLLVkiVywlXi2UGYFV5wvgSB7fAupUe_UdD05U"
             },
             "4tAIdZUfPjirHV6WHZT4KRow2adfIfHMWtFWdDN2MkA": {
                 "rateCode": "33GRUZH5GNK5BCHQ.JRTCKXETXF.UWBZ2JUKT9",
@@ -10621,6 +10631,11 @@
                 "price": "0.0117000000",
                 "RegionlessRateCode": "6oA6bK_lfGebSluNkmLf6y_o_2-wDsOuyPvs-xRV1ME"
             },
+            "7o3pk7PAw-bAumDz0D0XkumFPP_T7Y-0Y-ULP2X0PjU": {
+                "rateCode": "43AVRM6Z27C77TQK.JRTCKXETXF.PKDEJ9N4K8",
+                "price": "0.0520000000",
+                "RegionlessRateCode": "7o3pk7PAw-bAumDz0D0XkumFPP_T7Y-0Y-ULP2X0PjU"
+            },
             "AXrgtuV-vyVITMZf_xjKnyYdQ2yyiE4sWaZEdSSmjHA": {
                 "rateCode": "6545YURUCAKQV3BM.JRTCKXETXF.UWBZ2JUKT9",
                 "price": "0.1260000000",
@@ -10630,6 +10645,11 @@
                 "rateCode": "ZZJFDNEG8NSR4NP9.JRTCKXETXF.PERGK9UASF",
                 "price": "0.0990000000",
                 "RegionlessRateCode": "BqaIfG9fre-nS3lcM6L04ieeNrTDEhzi-KE_a-PAUr0"
+            },
+            "D3-bWgrOzMTeFaxaSWSiEMYLKnPdgnWlBXKaH5V-vxY": {
+                "rateCode": "AMAXJXRHQV7EK7DG.JRTCKXETXF.W36PUWTAP8",
+                "price": "0.0370000000",
+                "RegionlessRateCode": "D3-bWgrOzMTeFaxaSWSiEMYLKnPdgnWlBXKaH5V-vxY"
             },
             "G4wOJDTrXfmOcHCBOIDOR9rrUTOJnt-cdvcLUlGa3II": {
                 "rateCode": "TDJES9V63RKH9NMZ.JRTCKXETXF.PERGK9UASF",
@@ -10645,6 +10665,16 @@
                 "rateCode": "SQ7MBBRK7585DBFM.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0037350000",
                 "RegionlessRateCode": "INms_MMxbXZFCc2GSnt25-8T1fhrK9CwRApMXUGkm0c"
+            },
+            "M2NlI-F2pvy5JCUBA6WK4VrerbbJFrp97SOXdpmkA8c": {
+                "rateCode": "ZTJ9G79NMSCUYRJ3.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0918900000",
+                "RegionlessRateCode": "M2NlI-F2pvy5JCUBA6WK4VrerbbJFrp97SOXdpmkA8c"
+            },
+            "N51ATAWHyJlTwnAjbp-rmI9jiGeyiVtPnS1TltvT20o": {
+                "rateCode": "AMAXJXRHQV7EK7DG.JRTCKXETXF.V2M4DY9FUH",
+                "price": "0.0440000000",
+                "RegionlessRateCode": "N51ATAWHyJlTwnAjbp-rmI9jiGeyiVtPnS1TltvT20o"
             },
             "Nxr6bICtmKMRpWkU5Ca5PJoOsbtpLiUIbA41DxCphp4": {
                 "rateCode": "6545YURUCAKQV3BM.JRTCKXETXF.PERGK9UASF",
@@ -10666,10 +10696,30 @@
                 "price": "0.0630000000",
                 "RegionlessRateCode": "Ry4N4xjJBTQeOw-pC28RgORklQj7yRQJfEhvRE8Phw0"
             },
+            "S7Qe9gQZuCQ4Q1ExTYlWGWyAPbHCLmKggGB3AjwMscw": {
+                "rateCode": "43AVRM6Z27C77TQK.JRTCKXETXF.V2M4DY9FUH",
+                "price": "0.0440000000",
+                "RegionlessRateCode": "S7Qe9gQZuCQ4Q1ExTYlWGWyAPbHCLmKggGB3AjwMscw"
+            },
             "SDcVKQNGhjpsthoHnIrRjMu7qL5CecxKtpAcEcUMY2s": {
                 "rateCode": "YSMGUN5D3A756AZP.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0207000000",
                 "RegionlessRateCode": "SDcVKQNGhjpsthoHnIrRjMu7qL5CecxKtpAcEcUMY2s"
+            },
+            "TXaKznvf1ODPdOOqtogiWzuNcKq7Nv4O8kNpog606kc": {
+                "rateCode": "YK8GR7HVKMHRG8S7.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0849600000",
+                "RegionlessRateCode": "TXaKznvf1ODPdOOqtogiWzuNcKq7Nv4O8kNpog606kc"
+            },
+            "UzftXyhHsZXtOG01D_Ap4OSRO8mVoebHVUQg0gvtFqE": {
+                "rateCode": "CRBCPXJ69PRYHRYJ.JRTCKXETXF.PKDEJ9N4K8",
+                "price": "0.0520000000",
+                "RegionlessRateCode": "UzftXyhHsZXtOG01D_Ap4OSRO8mVoebHVUQg0gvtFqE"
+            },
+            "VYiF2l_5-xDFqZOXdacPamAUxo0gRsVZnvXtii_Mt2U": {
+                "rateCode": "43AVRM6Z27C77TQK.JRTCKXETXF.W36PUWTAP8",
+                "price": "0.0370000000",
+                "RegionlessRateCode": "VYiF2l_5-xDFqZOXdacPamAUxo0gRsVZnvXtii_Mt2U"
             },
             "a98kj7DgWPS-MeWxe7JtpW2FJ24vUmLAazL_y8w2Yro": {
                 "rateCode": "E75DXNMMKFPHBZ4E.JRTCKXETXF.HK3AFRJD7J",
@@ -10691,10 +10741,30 @@
                 "price": "0.0891000000",
                 "RegionlessRateCode": "c3mt1O-Rsk5YXF8DQO27kcH7wxIRSeuYn9YLI_TqnY4"
             },
+            "cMI-MwjVbwC1zzY7Haw2amXVJlOgaODDOhR9rsZOUI8": {
+                "rateCode": "CRBCPXJ69PRYHRYJ.JRTCKXETXF.W36PUWTAP8",
+                "price": "0.0370000000",
+                "RegionlessRateCode": "cMI-MwjVbwC1zzY7Haw2amXVJlOgaODDOhR9rsZOUI8"
+            },
+            "cZEqRdQ8q74LxeDWIjTT5tZwSco88je_WyDTHEIb4pY": {
+                "rateCode": "FBFN4Q29VGA6ZM4M.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0918900000",
+                "RegionlessRateCode": "cZEqRdQ8q74LxeDWIjTT5tZwSco88je_WyDTHEIb4pY"
+            },
+            "eBEaVupAvQNQK10wuifpbgdwtzWI7rw7H4W55Dvu3ss": {
+                "rateCode": "2YVBPT2T2UEND5H6.JRTCKXETXF.V2M4DY9FUH",
+                "price": "0.0740000000",
+                "RegionlessRateCode": "eBEaVupAvQNQK10wuifpbgdwtzWI7rw7H4W55Dvu3ss"
+            },
             "k8L_rQpMtsddA28WVqLy4VLwMUJrp1Ehs0yNPGU8aNo": {
                 "rateCode": "68Y8U6CZTYNU826S.JRTCKXETXF.PERGK9UASF",
                 "price": "0.0225000000",
                 "RegionlessRateCode": "k8L_rQpMtsddA28WVqLy4VLwMUJrp1Ehs0yNPGU8aNo"
+            },
+            "sCkX3WYdC_8JSkB1jTN3uPcq3H92v-v9pkyUmC4wVaE": {
+                "rateCode": "CRBCPXJ69PRYHRYJ.JRTCKXETXF.V2M4DY9FUH",
+                "price": "0.0440000000",
+                "RegionlessRateCode": "sCkX3WYdC_8JSkB1jTN3uPcq3H92v-v9pkyUmC4wVaE"
             },
             "tGb_UoukBLHXA3dFo_SRzZWJnaUpj2GYDUgldf22rgs": {
                 "rateCode": "ZZJFDNEG8NSR4NP9.JRTCKXETXF.HK3AFRJD7J",
@@ -10705,6 +10775,11 @@
                 "rateCode": "68Y8U6CZTYNU826S.JRTCKXETXF.HK3AFRJD7J",
                 "price": "0.0333000000",
                 "RegionlessRateCode": "tId_vaWBZpo6rYklCPXWpaFU9qozIKmYEoLXdOWLBDE"
+            },
+            "uUDS9Lf42k-ED6pPksftOBH_vlKnExnz-IO5RrMI6J8": {
+                "rateCode": "AMAXJXRHQV7EK7DG.JRTCKXETXF.PKDEJ9N4K8",
+                "price": "0.0520000000",
+                "RegionlessRateCode": "uUDS9Lf42k-ED6pPksftOBH_vlKnExnz-IO5RrMI6J8"
             },
             "w--BVytiMe6AzUfrH5Xk5f4YOULZzNb4VMnoHV-ODhg": {
                 "rateCode": "E75DXNMMKFPHBZ4E.JRTCKXETXF.UWBZ2JUKT9",
@@ -10726,10 +10801,20 @@
                 "price": "0.0459000000",
                 "RegionlessRateCode": "1-_VbWx3l79RkwQw-T9griefPH4FYj8LxTWzyNfYKKo"
             },
+            "Event by-Event Processing Per GB of data ingested or delivered to Apache Iceberg Tables from 0 to 256000": {
+                "rateCode": "2YVBPT2T2UEND5H6.JRTCKXETXF.PKDEJ9N4K8",
+                "price": "0.0860000000",
+                "RegionlessRateCode": "1YRpuy07sqLv5YmXguUcyxnxrqhezhGx0O78gr_c_D0"
+            },
             "Per GB of data read from Kinesis Streams Next 1 5PB": {
                 "rateCode": "TDJES9V63RKH9NMZ.JRTCKXETXF.UWBZ2JUKT9",
                 "price": "0.0288000000",
                 "RegionlessRateCode": "3cqRiUMKw7IhfOppS1NjCJjCmgetpKKLAJ2u_3GxGc0"
+            },
+            "Event by-Event Processing Per GB of data ingested or delivered to Apache Iceberg Tables from 1024000 to Inf": {
+                "rateCode": "2YVBPT2T2UEND5H6.JRTCKXETXF.W36PUWTAP8",
+                "price": "0.0610000000",
+                "RegionlessRateCode": "45Kg2pLLVkiVywlXi2UGYFV5wvgSB7fAupUe_UdD05U"
             },
             "MSK Record Processing Per GB of data ingested Next 1 5PB": {
                 "rateCode": "33GRUZH5GNK5BCHQ.JRTCKXETXF.UWBZ2JUKT9",
@@ -10746,6 +10831,11 @@
                 "price": "0.0117000000",
                 "RegionlessRateCode": "6oA6bK_lfGebSluNkmLf6y_o_2-wDsOuyPvs-xRV1ME"
             },
+            "Per GB of incremental data processed from 0 to 256000": {
+                "rateCode": "43AVRM6Z27C77TQK.JRTCKXETXF.PKDEJ9N4K8",
+                "price": "0.0520000000",
+                "RegionlessRateCode": "7o3pk7PAw-bAumDz0D0XkumFPP_T7Y-0Y-ULP2X0PjU"
+            },
             "Event by-Event Processing Per GB of data ingested Next 1 5PB Vended Logs": {
                 "rateCode": "6545YURUCAKQV3BM.JRTCKXETXF.UWBZ2JUKT9",
                 "price": "0.1260000000",
@@ -10755,6 +10845,11 @@
                 "rateCode": "ZZJFDNEG8NSR4NP9.JRTCKXETXF.PERGK9UASF",
                 "price": "0.0990000000",
                 "RegionlessRateCode": "BqaIfG9fre-nS3lcM6L04ieeNrTDEhzi-KE_a-PAUr0"
+            },
+            "MSK Record Processing Per GB of data ingested or delivered from 1024000 to Inf": {
+                "rateCode": "AMAXJXRHQV7EK7DG.JRTCKXETXF.W36PUWTAP8",
+                "price": "0.0370000000",
+                "RegionlessRateCode": "D3-bWgrOzMTeFaxaSWSiEMYLKnPdgnWlBXKaH5V-vxY"
             },
             "Per GB of data read from Kinesis Streams Next 3PB": {
                 "rateCode": "TDJES9V63RKH9NMZ.JRTCKXETXF.PERGK9UASF",
@@ -10770,6 +10865,16 @@
                 "rateCode": "SQ7MBBRK7585DBFM.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0037350000",
                 "RegionlessRateCode": "INms_MMxbXZFCc2GSnt25-8T1fhrK9CwRApMXUGkm0c"
+            },
+            "Per GB of data from 0 to Inf": {
+                "rateCode": "ZTJ9G79NMSCUYRJ3.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0918900000",
+                "RegionlessRateCode": "M2NlI-F2pvy5JCUBA6WK4VrerbbJFrp97SOXdpmkA8c"
+            },
+            "MSK Record Processing Per GB of data ingested or delivered from 256000 to 1024000": {
+                "rateCode": "AMAXJXRHQV7EK7DG.JRTCKXETXF.V2M4DY9FUH",
+                "price": "0.0440000000",
+                "RegionlessRateCode": "N51ATAWHyJlTwnAjbp-rmI9jiGeyiVtPnS1TltvT20o"
             },
             "Event by-Event Processing Per GB of data ingested Next 3PB Vended Logs": {
                 "rateCode": "6545YURUCAKQV3BM.JRTCKXETXF.PERGK9UASF",
@@ -10791,10 +10896,30 @@
                 "price": "0.0630000000",
                 "RegionlessRateCode": "Ry4N4xjJBTQeOw-pC28RgORklQj7yRQJfEhvRE8Phw0"
             },
+            "Per GB of incremental data processed from 256000 to 1024000": {
+                "rateCode": "43AVRM6Z27C77TQK.JRTCKXETXF.V2M4DY9FUH",
+                "price": "0.0440000000",
+                "RegionlessRateCode": "S7Qe9gQZuCQ4Q1ExTYlWGWyAPbHCLmKggGB3AjwMscw"
+            },
             "Per GB of data format conversion": {
                 "rateCode": "YSMGUN5D3A756AZP.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0207000000",
                 "RegionlessRateCode": "SDcVKQNGhjpsthoHnIrRjMu7qL5CecxKtpAcEcUMY2s"
+            },
+            "Per GB of data ingested or delivered from 0 to Inf": {
+                "rateCode": "YK8GR7HVKMHRG8S7.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0849600000",
+                "RegionlessRateCode": "TXaKznvf1ODPdOOqtogiWzuNcKq7Nv4O8kNpog606kc"
+            },
+            "Per GB of data ingested or delivered to Apache Iceberg Tables from 0 to 256000": {
+                "rateCode": "CRBCPXJ69PRYHRYJ.JRTCKXETXF.PKDEJ9N4K8",
+                "price": "0.0520000000",
+                "RegionlessRateCode": "UzftXyhHsZXtOG01D_Ap4OSRO8mVoebHVUQg0gvtFqE"
+            },
+            "Per GB of incremental data processed from 1024000 to Inf": {
+                "rateCode": "43AVRM6Z27C77TQK.JRTCKXETXF.W36PUWTAP8",
+                "price": "0.0370000000",
+                "RegionlessRateCode": "VYiF2l_5-xDFqZOXdacPamAUxo0gRsVZnvXtii_Mt2U"
             },
             "Event by-Event Processing Per GB of data ingested first 500TB": {
                 "rateCode": "E75DXNMMKFPHBZ4E.JRTCKXETXF.HK3AFRJD7J",
@@ -10816,10 +10941,30 @@
                 "price": "0.0891000000",
                 "RegionlessRateCode": "c3mt1O-Rsk5YXF8DQO27kcH7wxIRSeuYn9YLI_TqnY4"
             },
+            "Per GB of data ingested or delivered to Apache Iceberg Tables from 1024000 to Inf": {
+                "rateCode": "CRBCPXJ69PRYHRYJ.JRTCKXETXF.W36PUWTAP8",
+                "price": "0.0370000000",
+                "RegionlessRateCode": "cMI-MwjVbwC1zzY7Haw2amXVJlOgaODDOhR9rsZOUI8"
+            },
+            "Event by-Event Processing Per GB of data ingested or delivered from 0 to Inf": {
+                "rateCode": "FBFN4Q29VGA6ZM4M.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0918900000",
+                "RegionlessRateCode": "cZEqRdQ8q74LxeDWIjTT5tZwSco88je_WyDTHEIb4pY"
+            },
+            "Event by-Event Processing Per GB of data ingested or delivered to Apache Iceberg Tables from 256000 to 1024000": {
+                "rateCode": "2YVBPT2T2UEND5H6.JRTCKXETXF.V2M4DY9FUH",
+                "price": "0.0740000000",
+                "RegionlessRateCode": "eBEaVupAvQNQK10wuifpbgdwtzWI7rw7H4W55Dvu3ss"
+            },
             "Per GB of data ingested Next 3PB": {
                 "rateCode": "68Y8U6CZTYNU826S.JRTCKXETXF.PERGK9UASF",
                 "price": "0.0225000000",
                 "RegionlessRateCode": "k8L_rQpMtsddA28WVqLy4VLwMUJrp1Ehs0yNPGU8aNo"
+            },
+            "Per GB of data ingested or delivered to Apache Iceberg Tables from 256000 to 1024000": {
+                "rateCode": "CRBCPXJ69PRYHRYJ.JRTCKXETXF.V2M4DY9FUH",
+                "price": "0.0440000000",
+                "RegionlessRateCode": "sCkX3WYdC_8JSkB1jTN3uPcq3H92v-v9pkyUmC4wVaE"
             },
             "Per GB of data ingested first 500TB Vended Logs": {
                 "rateCode": "ZZJFDNEG8NSR4NP9.JRTCKXETXF.HK3AFRJD7J",
@@ -10830,6 +10975,11 @@
                 "rateCode": "68Y8U6CZTYNU826S.JRTCKXETXF.HK3AFRJD7J",
                 "price": "0.0333000000",
                 "RegionlessRateCode": "tId_vaWBZpo6rYklCPXWpaFU9qozIKmYEoLXdOWLBDE"
+            },
+            "MSK Record Processing Per GB of data ingested or delivered from 0 to 256000": {
+                "rateCode": "AMAXJXRHQV7EK7DG.JRTCKXETXF.PKDEJ9N4K8",
+                "price": "0.0520000000",
+                "RegionlessRateCode": "uUDS9Lf42k-ED6pPksftOBH_vlKnExnz-IO5RrMI6J8"
             },
             "Event by-Event Processing Per GB of data ingested Next 1 5PB": {
                 "rateCode": "E75DXNMMKFPHBZ4E.JRTCKXETXF.UWBZ2JUKT9",
