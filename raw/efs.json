@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "efs",
         "accessType": "publish",
-        "esIndex": "plc-efs-usd-20250318174228",
-        "hawkFilePublicationDate": "2025-03-18T15:42:20Z",
-        "ETLIngestionTriggerDate": "2025-03-18T17:42:28Z",
+        "esIndex": "plc-efs-usd-20250522201849",
+        "hawkFilePublicationDate": "2025-05-22T20:18:49Z",
+        "ETLIngestionTriggerDate": "2025-05-22T20:18:49Z",
         "currencyCode": "USD",
         "source": "efs",
         "isMapped": "true"
@@ -599,18 +599,6 @@
                 "RegionlessRateCode": "sgZiR8nYWbYAY9k-XZOEps4cynV-Ra7VYPT5OFaYGEE"
             }
         },
-        "Thailand (Bangkok)": {
-            "rh3HrMW1msTNoNuWlhDySwL8zDCPYkRXfy9ZojGaasU": {
-                "rateCode": "35EAZKTT6C2DKHU9.JRTCKXETXF.6YS6EN2CT7",
-                "price": "0.0320000000",
-                "RegionlessRateCode": "rh3HrMW1msTNoNuWlhDySwL8zDCPYkRXfy9ZojGaasU"
-            },
-            "Archive Storage Read Read GB": {
-                "rateCode": "35EAZKTT6C2DKHU9.JRTCKXETXF.6YS6EN2CT7",
-                "price": "0.0320000000",
-                "RegionlessRateCode": "rh3HrMW1msTNoNuWlhDySwL8zDCPYkRXfy9ZojGaasU"
-            }
-        },
         "South America (Sao Paulo)": {
             "MZhxZ128LZkzZzPCf_xdDLyiBqsSImj5MkvX7SDIS8c": {
                 "rateCode": "888TVVWZWVSQFV35.JRTCKXETXF.6YS6EN2CT7",
@@ -1030,18 +1018,6 @@
                 "rateCode": "QH5TXT4GY3T38GWA.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0120000000",
                 "RegionlessRateCode": "sgZiR8nYWbYAY9k-XZOEps4cynV-Ra7VYPT5OFaYGEE"
-            }
-        },
-        "Mexico (Queretaro)": {
-            "rh3HrMW1msTNoNuWlhDySwL8zDCPYkRXfy9ZojGaasU": {
-                "rateCode": "SNKTKKXUA8BF799G.JRTCKXETXF.6YS6EN2CT7",
-                "price": "0.0315000000",
-                "RegionlessRateCode": "rh3HrMW1msTNoNuWlhDySwL8zDCPYkRXfy9ZojGaasU"
-            },
-            "Archive Storage Read Read GB": {
-                "rateCode": "SNKTKKXUA8BF799G.JRTCKXETXF.6YS6EN2CT7",
-                "price": "0.0315000000",
-                "RegionlessRateCode": "rh3HrMW1msTNoNuWlhDySwL8zDCPYkRXfy9ZojGaasU"
             }
         },
         "Mexico (Central)": {

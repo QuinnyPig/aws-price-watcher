@@ -1,3 +1,12 @@
+## 2025-05-22 20:27
+
+**Modified services:**
+
+- [efs](processed/efs.json)
+  - Region removed for metric Archive Storage Read Read GB: Thailand (Bangkok) 💥
+  - Region removed for metric Archive Storage Read Read GB: Mexico (Queretaro) 💥
+
+
 ## 2025-05-22 18:28
 
 **Modified services:**
