@@ -1,3 +1,64 @@
+## 2025-05-22 18:28
+
+**Modified services:**
+
+- [elasticmapreduce](processed/elasticmapreduce.json)
+  - Region added for metric Instance-instancetype-c7gd.2xlarge: EU (London) 🌎
+  - Region added for metric Instance-instancetype-c7gd.2xlarge: Canada (Central) 🌎
+  - Region added for metric Instance-instancetype-c7gd.2xlarge: AWS GovCloud (US) 🌎
+  - Region added for metric Instance-instancetype-c7gd.8xlarge: EU (London) 🌎
+  - Region added for metric Instance-instancetype-c7gd.8xlarge: Canada (Central) 🌎
+  - Region added for metric Instance-instancetype-c7gd.8xlarge: AWS GovCloud (US) 🌎
+  - Region added for metric Instance-instancetype-r7gd.xlarge: EU (London) 🌎
+  - Region added for metric Instance-instancetype-r7gd.xlarge: Asia Pacific (Osaka) 🌎
+  - Region added for metric Instance-instancetype-r7gd.xlarge: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric Instance-instancetype-c7gd.12xlarge: EU (London) 🌎
+  - Region added for metric Instance-instancetype-c7gd.12xlarge: Canada (Central) 🌎
+  - Region added for metric Instance-instancetype-c7gd.12xlarge: AWS GovCloud (US) 🌎
+  - Region added for metric Instance-instancetype-r7g.xlarge: EU (Paris) 🌎
+  - Region added for metric Instance-instancetype-r7g.xlarge: Asia Pacific (Osaka) 🌎
+  - Region added for metric Instance-instancetype-r7g.xlarge: AWS GovCloud (US-East) 🌎
+  - Region added for metric Instance-instancetype-r7g.2xlarge: EU (Paris) 🌎
+  - Region added for metric Instance-instancetype-r7g.2xlarge: Asia Pacific (Osaka) 🌎
+  - Region added for metric Instance-instancetype-r7g.2xlarge: AWS GovCloud (US-East) 🌎
+  - Region added for metric Instance-instancetype-r7gd.4xlarge: EU (London) 🌎
+  - Region added for metric Instance-instancetype-r7gd.4xlarge: Asia Pacific (Osaka) 🌎
+  - Region added for metric Instance-instancetype-r7gd.4xlarge: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric Instance-instancetype-r7gd.8xlarge: EU (London) 🌎
+  - Region added for metric Instance-instancetype-r7gd.8xlarge: Asia Pacific (Osaka) 🌎
+  - Region added for metric Instance-instancetype-r7gd.8xlarge: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric Instance-instancetype-c7gd.4xlarge: EU (London) 🌎
+  - Region added for metric Instance-instancetype-c7gd.4xlarge: Canada (Central) 🌎
+  - Region added for metric Instance-instancetype-c7gd.4xlarge: AWS GovCloud (US) 🌎
+  - Region added for metric Instance-instancetype-r7gd.2xlarge: EU (London) 🌎
+  - Region added for metric Instance-instancetype-r7gd.2xlarge: Asia Pacific (Osaka) 🌎
+  - Region added for metric Instance-instancetype-r7gd.2xlarge: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric Instance-instancetype-c7gd.16xlarge: EU (London) 🌎
+  - Region added for metric Instance-instancetype-c7gd.16xlarge: Canada (Central) 🌎
+  - Region added for metric Instance-instancetype-c7gd.16xlarge: AWS GovCloud (US) 🌎
+  - Region added for metric Instance-instancetype-r7g.16xlarge: EU (Paris) 🌎
+  - Region added for metric Instance-instancetype-r7g.16xlarge: Asia Pacific (Osaka) 🌎
+  - Region added for metric Instance-instancetype-r7g.16xlarge: AWS GovCloud (US-East) 🌎
+  - Region added for metric Instance-instancetype-r7g.8xlarge: EU (Paris) 🌎
+  - Region added for metric Instance-instancetype-r7g.8xlarge: Asia Pacific (Osaka) 🌎
+  - Region added for metric Instance-instancetype-r7g.8xlarge: AWS GovCloud (US-East) 🌎
+  - Region added for metric Instance-instancetype-c7gd.xlarge: EU (London) 🌎
+  - Region added for metric Instance-instancetype-c7gd.xlarge: Canada (Central) 🌎
+  - Region added for metric Instance-instancetype-c7gd.xlarge: AWS GovCloud (US) 🌎
+  - Region added for metric Instance-instancetype-r7gd.12xlarge: EU (London) 🌎
+  - Region added for metric Instance-instancetype-r7gd.12xlarge: Asia Pacific (Osaka) 🌎
+  - Region added for metric Instance-instancetype-r7gd.12xlarge: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric Instance-instancetype-r7g.4xlarge: EU (Paris) 🌎
+  - Region added for metric Instance-instancetype-r7g.4xlarge: Asia Pacific (Osaka) 🌎
+  - Region added for metric Instance-instancetype-r7g.4xlarge: AWS GovCloud (US-East) 🌎
+  - Region added for metric Instance-instancetype-r7g.12xlarge: EU (Paris) 🌎
+  - Region added for metric Instance-instancetype-r7g.12xlarge: Asia Pacific (Osaka) 🌎
+  - Region added for metric Instance-instancetype-r7g.12xlarge: AWS GovCloud (US-East) 🌎
+  - Region added for metric Instance-instancetype-r7gd.16xlarge: EU (London) 🌎
+  - Region added for metric Instance-instancetype-r7gd.16xlarge: Asia Pacific (Osaka) 🌎
+  - Region added for metric Instance-instancetype-r7gd.16xlarge: Asia Pacific (Hyderabad) 🌎
+
+
 ## 2025-05-21 07:26
 
 **Modified services:**
