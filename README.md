@@ -1,3 +1,12 @@
+## 2025-05-26 22:26
+
+**Modified services:**
+
+- [events](processed/events.json)
+  - Region added for metric Scheduled Invocation for 0 to 14000000 Invocations: Israel (Tel Aviv) 🌎
+  - Region added for metric Scheduled Invocation for 14000000 to Inf Invocations: Israel (Tel Aviv) 🌎
+
+
 ## 2025-05-22 22:26
 
 **Modified services:**
