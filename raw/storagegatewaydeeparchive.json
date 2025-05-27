@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "storagegatewaydeeparchive",
         "accessType": "publish",
-        "esIndex": "plc-storagegatewaydeeparchive-usd-20250314181607",
-        "hawkFilePublicationDate": "2025-03-14T18:16:07Z",
-        "ETLIngestionTriggerDate": "2025-03-14T18:16:07Z",
+        "esIndex": "plc-storagegatewaydeeparchive-usd-20250527230131",
+        "hawkFilePublicationDate": "2025-05-27T23:01:31Z",
+        "ETLIngestionTriggerDate": "2025-05-27T23:01:31Z",
         "currencyCode": "USD",
         "source": "storagegatewaydeeparchive",
         "isMapped": "true"
