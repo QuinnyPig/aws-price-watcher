@@ -1,3 +1,246 @@
+## 2025-05-27 19:24
+
+**Modified services:**
+
+- [neptune](processed/neptune.json)
+  - Region added for metric [Neptune Memory Optimized Current Generation] Neptune Memory Optimized Current Generation db r4.2xlarge: Asia Pacific (Melbourne) (Instance Type: db.r4.2xlarge) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation] Neptune Memory Optimized Current Generation db r4.4xlarge: Asia Pacific (Melbourne) (Instance Type: db.r4.4xlarge) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation] Neptune Memory Optimized Current Generation db r4.8xlarge: Asia Pacific (Melbourne) (Instance Type: db.r4.8xlarge) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation] Neptune Memory Optimized Current Generation db r4.large: Asia Pacific (Melbourne) (Instance Type: db.r4.large) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation] Neptune Memory Optimized Current Generation db r4.xlarge: Asia Pacific (Melbourne) (Instance Type: db.r4.xlarge) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation] Neptune Memory Optimized Current Generation db r5.12xlarge: Canada West (Calgary) (Instance Type: db.r5.12xlarge) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation] Neptune Memory Optimized Current Generation db r5.12xlarge: Asia Pacific (Melbourne) (Instance Type: db.r5.12xlarge) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation] Neptune Memory Optimized Current Generation db r5.16xlarge: Canada West (Calgary) (Instance Type: db.r5.16xlarge) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation] Neptune Memory Optimized Current Generation db r5.16xlarge: Asia Pacific (Melbourne) (Instance Type: db.r5.16xlarge) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation] Neptune Memory Optimized Current Generation db r5.24xlarge: Canada West (Calgary) (Instance Type: db.r5.24xlarge) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation] Neptune Memory Optimized Current Generation db r5.24xlarge: Asia Pacific (Melbourne) (Instance Type: db.r5.24xlarge) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation] Neptune Memory Optimized Current Generation db r5.2xlarge: Canada West (Calgary) (Instance Type: db.r5.2xlarge) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation] Neptune Memory Optimized Current Generation db r5.2xlarge: Asia Pacific (Melbourne) (Instance Type: db.r5.2xlarge) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation] Neptune Memory Optimized Current Generation db r5.4xlarge: Canada West (Calgary) (Instance Type: db.r5.4xlarge) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation] Neptune Memory Optimized Current Generation db r5.4xlarge: Asia Pacific (Melbourne) (Instance Type: db.r5.4xlarge) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation] Neptune Memory Optimized Current Generation db r5.8xlarge: Canada West (Calgary) (Instance Type: db.r5.8xlarge) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation] Neptune Memory Optimized Current Generation db r5.8xlarge: Asia Pacific (Melbourne) (Instance Type: db.r5.8xlarge) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation] Neptune Memory Optimized Current Generation db r5.large: Canada West (Calgary) (Instance Type: db.r5.large) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation] Neptune Memory Optimized Current Generation db r5.large: Asia Pacific (Melbourne) (Instance Type: db.r5.large) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation] Neptune Memory Optimized Current Generation db r5.xlarge: Canada West (Calgary) (Instance Type: db.r5.xlarge) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation] Neptune Memory Optimized Current Generation db r5.xlarge: Asia Pacific (Melbourne) (Instance Type: db.r5.xlarge) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation] Neptune Memory Optimized Current Generation db r5d.12xlarge: Canada West (Calgary) (Instance Type: db.r5d.12xlarge) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation] Neptune Memory Optimized Current Generation db r5d.12xlarge: Asia Pacific (Melbourne) (Instance Type: db.r5d.12xlarge) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation] Neptune Memory Optimized Current Generation db r5d.16xlarge: Canada West (Calgary) (Instance Type: db.r5d.16xlarge) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation] Neptune Memory Optimized Current Generation db r5d.16xlarge: Asia Pacific (Melbourne) (Instance Type: db.r5d.16xlarge) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation] Neptune Memory Optimized Current Generation db r5d.24xlarge: Canada West (Calgary) (Instance Type: db.r5d.24xlarge) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation] Neptune Memory Optimized Current Generation db r5d.24xlarge: Asia Pacific (Melbourne) (Instance Type: db.r5d.24xlarge) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation] Neptune Memory Optimized Current Generation db r5d.2xlarge: Canada West (Calgary) (Instance Type: db.r5d.2xlarge) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation] Neptune Memory Optimized Current Generation db r5d.2xlarge: Asia Pacific (Melbourne) (Instance Type: db.r5d.2xlarge) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation] Neptune Memory Optimized Current Generation db r5d.4xlarge: Canada West (Calgary) (Instance Type: db.r5d.4xlarge) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation] Neptune Memory Optimized Current Generation db r5d.4xlarge: Asia Pacific (Melbourne) (Instance Type: db.r5d.4xlarge) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation] Neptune Memory Optimized Current Generation db r5d.8xlarge: Canada West (Calgary) (Instance Type: db.r5d.8xlarge) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation] Neptune Memory Optimized Current Generation db r5d.8xlarge: Asia Pacific (Melbourne) (Instance Type: db.r5d.8xlarge) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation] Neptune Memory Optimized Current Generation db r5d.large: Canada West (Calgary) (Instance Type: db.r5d.large) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation] Neptune Memory Optimized Current Generation db r5d.large: Asia Pacific (Melbourne) (Instance Type: db.r5d.large) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation] Neptune Memory Optimized Current Generation db r5d.xlarge: Canada West (Calgary) (Instance Type: db.r5d.xlarge) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation] Neptune Memory Optimized Current Generation db r5d.xlarge: Asia Pacific (Melbourne) (Instance Type: db.r5d.xlarge) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation] Neptune Memory Optimized Current Generation db r6g.12xlarge: Canada West (Calgary) (Instance Type: db.r6g.12xlarge) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation] Neptune Memory Optimized Current Generation db r6g.12xlarge: Asia Pacific (Melbourne) (Instance Type: db.r6g.12xlarge) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation] Neptune Memory Optimized Current Generation db r6g.16xlarge: Canada West (Calgary) (Instance Type: db.r6g.16xlarge) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation] Neptune Memory Optimized Current Generation db r6g.16xlarge: Asia Pacific (Melbourne) (Instance Type: db.r6g.16xlarge) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation] Neptune Memory Optimized Current Generation db r6g.2xlarge: Canada West (Calgary) (Instance Type: db.r6g.2xlarge) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation] Neptune Memory Optimized Current Generation db r6g.2xlarge: Asia Pacific (Melbourne) (Instance Type: db.r6g.2xlarge) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation] Neptune Memory Optimized Current Generation db r6g.4xlarge: Canada West (Calgary) (Instance Type: db.r6g.4xlarge) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation] Neptune Memory Optimized Current Generation db r6g.4xlarge: Asia Pacific (Melbourne) (Instance Type: db.r6g.4xlarge) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation] Neptune Memory Optimized Current Generation db r6g.8xlarge: Canada West (Calgary) (Instance Type: db.r6g.8xlarge) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation] Neptune Memory Optimized Current Generation db r6g.8xlarge: Asia Pacific (Melbourne) (Instance Type: db.r6g.8xlarge) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation] Neptune Memory Optimized Current Generation db r6g.large: Canada West (Calgary) (Instance Type: db.r6g.large) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation] Neptune Memory Optimized Current Generation db r6g.large: Asia Pacific (Melbourne) (Instance Type: db.r6g.large) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation] Neptune Memory Optimized Current Generation db r6g.xlarge: Canada West (Calgary) (Instance Type: db.r6g.xlarge) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation] Neptune Memory Optimized Current Generation db r6g.xlarge: Asia Pacific (Melbourne) (Instance Type: db.r6g.xlarge) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation] Neptune Memory Optimized Current Generation db r6i.12xlarge: Canada West (Calgary) (Instance Type: db.r6i.12xlarge) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation] Neptune Memory Optimized Current Generation db r6i.12xlarge: Asia Pacific (Melbourne) (Instance Type: db.r6i.12xlarge) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation] Neptune Memory Optimized Current Generation db r6i.16xlarge: Canada West (Calgary) (Instance Type: db.r6i.16xlarge) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation] Neptune Memory Optimized Current Generation db r6i.16xlarge: Asia Pacific (Melbourne) (Instance Type: db.r6i.16xlarge) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation] Neptune Memory Optimized Current Generation db r6i.24xlarge: Canada West (Calgary) (Instance Type: db.r6i.24xlarge) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation] Neptune Memory Optimized Current Generation db r6i.24xlarge: Asia Pacific (Melbourne) (Instance Type: db.r6i.24xlarge) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation] Neptune Memory Optimized Current Generation db r6i.2xlarge: Canada West (Calgary) (Instance Type: db.r6i.2xlarge) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation] Neptune Memory Optimized Current Generation db r6i.2xlarge: Asia Pacific (Melbourne) (Instance Type: db.r6i.2xlarge) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation] Neptune Memory Optimized Current Generation db r6i.32xlarge: Canada West (Calgary) (Instance Type: db.r6i.32xlarge) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation] Neptune Memory Optimized Current Generation db r6i.32xlarge: Asia Pacific (Melbourne) (Instance Type: db.r6i.32xlarge) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation] Neptune Memory Optimized Current Generation db r6i.4xlarge: Canada West (Calgary) (Instance Type: db.r6i.4xlarge) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation] Neptune Memory Optimized Current Generation db r6i.4xlarge: Asia Pacific (Melbourne) (Instance Type: db.r6i.4xlarge) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation] Neptune Memory Optimized Current Generation db r6i.8xlarge: Canada West (Calgary) (Instance Type: db.r6i.8xlarge) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation] Neptune Memory Optimized Current Generation db r6i.8xlarge: Asia Pacific (Melbourne) (Instance Type: db.r6i.8xlarge) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation] Neptune Memory Optimized Current Generation db r6i.large: Canada West (Calgary) (Instance Type: db.r6i.large) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation] Neptune Memory Optimized Current Generation db r6i.large: Asia Pacific (Melbourne) (Instance Type: db.r6i.large) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation] Neptune Memory Optimized Current Generation db r6i.xlarge: Canada West (Calgary) (Instance Type: db.r6i.xlarge) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation] Neptune Memory Optimized Current Generation db r6i.xlarge: Asia Pacific (Melbourne) (Instance Type: db.r6i.xlarge) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation]: Canada West (Calgary) (Instance Type: db.r7g.12xlarge) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation]: Canada West (Calgary) (Instance Type: db.r7g.16xlarge) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation]: Canada West (Calgary) (Instance Type: db.r7g.2xlarge) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation]: Canada West (Calgary) (Instance Type: db.r7g.4xlarge) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation]: Canada West (Calgary) (Instance Type: db.r7g.8xlarge) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation]: Canada West (Calgary) (Instance Type: db.r7g.large) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation]: Canada West (Calgary) (Instance Type: db.r7g.xlarge) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation]: Canada West (Calgary) (Instance Type: db.r7i.12xlarge) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation]: Canada West (Calgary) (Instance Type: db.r7i.16xlarge) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation]: Canada West (Calgary) (Instance Type: db.r7i.24xlarge) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation]: Canada West (Calgary) (Instance Type: db.r7i.2xlarge) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation]: Canada West (Calgary) (Instance Type: db.r7i.48xlarge) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation]: Canada West (Calgary) (Instance Type: db.r7i.4xlarge) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation]: Canada West (Calgary) (Instance Type: db.r7i.8xlarge) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation]: Canada West (Calgary) (Instance Type: db.r7i.large) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation]: Canada West (Calgary) (Instance Type: db.r7i.xlarge) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation]: Asia Pacific (Melbourne) (Instance Type: db.r7g.12xlarge) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation]: Asia Pacific (Melbourne) (Instance Type: db.r7g.16xlarge) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation]: Asia Pacific (Melbourne) (Instance Type: db.r7g.2xlarge) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation]: Asia Pacific (Melbourne) (Instance Type: db.r7g.4xlarge) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation]: Asia Pacific (Melbourne) (Instance Type: db.r7g.8xlarge) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation]: Asia Pacific (Melbourne) (Instance Type: db.r7g.large) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation]: Asia Pacific (Melbourne) (Instance Type: db.r7g.xlarge) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation]: Asia Pacific (Melbourne) (Instance Type: db.r7i.12xlarge) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation]: Asia Pacific (Melbourne) (Instance Type: db.r7i.16xlarge) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation]: Asia Pacific (Melbourne) (Instance Type: db.r7i.24xlarge) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation]: Asia Pacific (Melbourne) (Instance Type: db.r7i.2xlarge) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation]: Asia Pacific (Melbourne) (Instance Type: db.r7i.48xlarge) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation]: Asia Pacific (Melbourne) (Instance Type: db.r7i.4xlarge) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation]: Asia Pacific (Melbourne) (Instance Type: db.r7i.8xlarge) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation]: Asia Pacific (Melbourne) (Instance Type: db.r7i.large) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation]: Asia Pacific (Melbourne) (Instance Type: db.r7i.xlarge) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation]: Asia Pacific (Melbourne) (Instance Type: db.r8g.12xlarge) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation]: Asia Pacific (Melbourne) (Instance Type: db.r8g.16xlarge) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation]: Asia Pacific (Melbourne) (Instance Type: db.r8g.24xlarge) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation]: Asia Pacific (Melbourne) (Instance Type: db.r8g.2xlarge) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation]: Asia Pacific (Melbourne) (Instance Type: db.r8g.48xlarge) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation]: Asia Pacific (Melbourne) (Instance Type: db.r8g.4xlarge) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation]: Asia Pacific (Melbourne) (Instance Type: db.r8g.8xlarge) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation]: Asia Pacific (Melbourne) (Instance Type: db.r8g.large) 🌎
+  - Region added for metric [Neptune Memory Optimized Current Generation]: Asia Pacific (Melbourne) (Instance Type: db.r8g.xlarge) 🌎
+  - Region added for metric [Neptune General purpose Current Generation] Neptune General purpose Current Generation db t3.medium: Canada West (Calgary) (Instance Type: db.t3.medium) 🌎
+  - Region added for metric [Neptune General purpose Current Generation] Neptune General purpose Current Generation db t3.medium: Asia Pacific (Melbourne) (Instance Type: db.t3.medium) 🌎
+  - Region added for metric [Neptune General purpose Current Generation] Neptune General purpose Current Generation db t4g.medium: Canada West (Calgary) (Instance Type: db.t4g.medium) 🌎
+  - Region added for metric [Neptune General purpose Current Generation] Neptune General purpose Current Generation db t4g.medium: Asia Pacific (Melbourne) (Instance Type: db.t4g.medium) 🌎
+  - Region added for metric [Neptune IO optimized General purpose Current Generation] Neptune IO optimized General purpose Current Generation db t3.medium General Purpose-Aurora: Canada West (Calgary) (Instance Type: db.t3.medium) 🌎
+  - Region added for metric [Neptune IO optimized General purpose Current Generation] Neptune IO optimized General purpose Current Generation db t3.medium General Purpose-Aurora: Asia Pacific (Melbourne) (Instance Type: db.t3.medium) 🌎
+  - Region added for metric [Neptune IO optimized General purpose Current Generation] Neptune IO optimized General purpose Current Generation db t4g.medium General Purpose-Aurora: Canada West (Calgary) (Instance Type: db.t4g.medium) 🌎
+  - Region added for metric [Neptune IO optimized General purpose Current Generation] Neptune IO optimized General purpose Current Generation db t4g.medium General Purpose-Aurora: Asia Pacific (Melbourne) (Instance Type: db.t4g.medium) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation] Neptune IO optimized Memory Optimized Current Generation db r4.2xlarge General Purpose-Aurora: Asia Pacific (Melbourne) (Instance Type: db.r4.2xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation] Neptune IO optimized Memory Optimized Current Generation db r4.4xlarge General Purpose-Aurora: Asia Pacific (Melbourne) (Instance Type: db.r4.4xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation] Neptune IO optimized Memory Optimized Current Generation db r4.8xlarge General Purpose-Aurora: Asia Pacific (Melbourne) (Instance Type: db.r4.8xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation] Neptune IO optimized Memory Optimized Current Generation db r4.large General Purpose-Aurora: Asia Pacific (Melbourne) (Instance Type: db.r4.large) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation] Neptune IO optimized Memory Optimized Current Generation db r4.xlarge General Purpose-Aurora: Asia Pacific (Melbourne) (Instance Type: db.r4.xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation] Neptune IO optimized Memory Optimized Current Generation db r5.12xlarge General Purpose-Aurora: Canada West (Calgary) (Instance Type: db.r5.12xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation] Neptune IO optimized Memory Optimized Current Generation db r5.12xlarge General Purpose-Aurora: Asia Pacific (Melbourne) (Instance Type: db.r5.12xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation] Neptune IO optimized Memory Optimized Current Generation db r5.16xlarge General Purpose-Aurora: Canada West (Calgary) (Instance Type: db.r5.16xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation] Neptune IO optimized Memory Optimized Current Generation db r5.16xlarge General Purpose-Aurora: Asia Pacific (Melbourne) (Instance Type: db.r5.16xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation] Neptune IO optimized Memory Optimized Current Generation db r5.24xlarge General Purpose-Aurora: Canada West (Calgary) (Instance Type: db.r5.24xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation] Neptune IO optimized Memory Optimized Current Generation db r5.24xlarge General Purpose-Aurora: Asia Pacific (Melbourne) (Instance Type: db.r5.24xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation] Neptune IO optimized Memory Optimized Current Generation db r5.2xlarge General Purpose-Aurora: Canada West (Calgary) (Instance Type: db.r5.2xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation] Neptune IO optimized Memory Optimized Current Generation db r5.2xlarge General Purpose-Aurora: Asia Pacific (Melbourne) (Instance Type: db.r5.2xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation] Neptune IO optimized Memory Optimized Current Generation db r5.4xlarge General Purpose-Aurora: Canada West (Calgary) (Instance Type: db.r5.4xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation] Neptune IO optimized Memory Optimized Current Generation db r5.4xlarge General Purpose-Aurora: Asia Pacific (Melbourne) (Instance Type: db.r5.4xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation] Neptune IO optimized Memory Optimized Current Generation db r5.8xlarge General Purpose-Aurora: Canada West (Calgary) (Instance Type: db.r5.8xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation] Neptune IO optimized Memory Optimized Current Generation db r5.8xlarge General Purpose-Aurora: Asia Pacific (Melbourne) (Instance Type: db.r5.8xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation] Neptune IO optimized Memory Optimized Current Generation db r5.large General Purpose-Aurora: Canada West (Calgary) (Instance Type: db.r5.large) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation] Neptune IO optimized Memory Optimized Current Generation db r5.large General Purpose-Aurora: Asia Pacific (Melbourne) (Instance Type: db.r5.large) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation] Neptune IO optimized Memory Optimized Current Generation db r5.xlarge General Purpose-Aurora: Canada West (Calgary) (Instance Type: db.r5.xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation] Neptune IO optimized Memory Optimized Current Generation db r5.xlarge General Purpose-Aurora: Asia Pacific (Melbourne) (Instance Type: db.r5.xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation] Neptune IO optimized Memory Optimized Current Generation db r5d.12xlarge General Purpose-Aurora: Canada West (Calgary) (Instance Type: db.r5d.12xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation] Neptune IO optimized Memory Optimized Current Generation db r5d.12xlarge General Purpose-Aurora: Asia Pacific (Melbourne) (Instance Type: db.r5d.12xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation] Neptune IO optimized Memory Optimized Current Generation db r5d.16xlarge General Purpose-Aurora: Canada West (Calgary) (Instance Type: db.r5d.16xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation] Neptune IO optimized Memory Optimized Current Generation db r5d.16xlarge General Purpose-Aurora: Asia Pacific (Melbourne) (Instance Type: db.r5d.16xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation] Neptune IO optimized Memory Optimized Current Generation db r5d.24xlarge General Purpose-Aurora: Canada West (Calgary) (Instance Type: db.r5d.24xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation] Neptune IO optimized Memory Optimized Current Generation db r5d.24xlarge General Purpose-Aurora: Asia Pacific (Melbourne) (Instance Type: db.r5d.24xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation] Neptune IO optimized Memory Optimized Current Generation db r5d.2xlarge General Purpose-Aurora: Canada West (Calgary) (Instance Type: db.r5d.2xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation] Neptune IO optimized Memory Optimized Current Generation db r5d.2xlarge General Purpose-Aurora: Asia Pacific (Melbourne) (Instance Type: db.r5d.2xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation] Neptune IO optimized Memory Optimized Current Generation db r5d.4xlarge General Purpose-Aurora: Canada West (Calgary) (Instance Type: db.r5d.4xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation] Neptune IO optimized Memory Optimized Current Generation db r5d.4xlarge General Purpose-Aurora: Asia Pacific (Melbourne) (Instance Type: db.r5d.4xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation] Neptune IO optimized Memory Optimized Current Generation db r5d.8xlarge General Purpose-Aurora: Canada West (Calgary) (Instance Type: db.r5d.8xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation] Neptune IO optimized Memory Optimized Current Generation db r5d.8xlarge General Purpose-Aurora: Asia Pacific (Melbourne) (Instance Type: db.r5d.8xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation] Neptune IO optimized Memory Optimized Current Generation db r5d.large General Purpose-Aurora: Canada West (Calgary) (Instance Type: db.r5d.large) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation] Neptune IO optimized Memory Optimized Current Generation db r5d.large General Purpose-Aurora: Asia Pacific (Melbourne) (Instance Type: db.r5d.large) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation] Neptune IO optimized Memory Optimized Current Generation db r5d.xlarge General Purpose-Aurora: Canada West (Calgary) (Instance Type: db.r5d.xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation] Neptune IO optimized Memory Optimized Current Generation db r5d.xlarge General Purpose-Aurora: Asia Pacific (Melbourne) (Instance Type: db.r5d.xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation] Neptune IO optimized Memory Optimized Current Generation db r6g.12xlarge General Purpose-Aurora: Canada West (Calgary) (Instance Type: db.r6g.12xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation] Neptune IO optimized Memory Optimized Current Generation db r6g.12xlarge General Purpose-Aurora: Asia Pacific (Melbourne) (Instance Type: db.r6g.12xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation] Neptune IO optimized Memory Optimized Current Generation db r6g.16xlarge General Purpose-Aurora: Canada West (Calgary) (Instance Type: db.r6g.16xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation] Neptune IO optimized Memory Optimized Current Generation db r6g.16xlarge General Purpose-Aurora: Asia Pacific (Melbourne) (Instance Type: db.r6g.16xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation] Neptune IO optimized Memory Optimized Current Generation db r6g.2xlarge General Purpose-Aurora: Canada West (Calgary) (Instance Type: db.r6g.2xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation] Neptune IO optimized Memory Optimized Current Generation db r6g.2xlarge General Purpose-Aurora: Asia Pacific (Melbourne) (Instance Type: db.r6g.2xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation] Neptune IO optimized Memory Optimized Current Generation db r6g.4xlarge General Purpose-Aurora: Canada West (Calgary) (Instance Type: db.r6g.4xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation] Neptune IO optimized Memory Optimized Current Generation db r6g.4xlarge General Purpose-Aurora: Asia Pacific (Melbourne) (Instance Type: db.r6g.4xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation] Neptune IO optimized Memory Optimized Current Generation db r6g.8xlarge General Purpose-Aurora: Canada West (Calgary) (Instance Type: db.r6g.8xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation] Neptune IO optimized Memory Optimized Current Generation db r6g.8xlarge General Purpose-Aurora: Asia Pacific (Melbourne) (Instance Type: db.r6g.8xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation] Neptune IO optimized Memory Optimized Current Generation db r6g.large General Purpose-Aurora: Canada West (Calgary) (Instance Type: db.r6g.large) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation] Neptune IO optimized Memory Optimized Current Generation db r6g.large General Purpose-Aurora: Asia Pacific (Melbourne) (Instance Type: db.r6g.large) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation] Neptune IO optimized Memory Optimized Current Generation db r6g.xlarge General Purpose-Aurora: Canada West (Calgary) (Instance Type: db.r6g.xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation] Neptune IO optimized Memory Optimized Current Generation db r6g.xlarge General Purpose-Aurora: Asia Pacific (Melbourne) (Instance Type: db.r6g.xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation] Neptune IO optimized Memory Optimized Current Generation db r6i.12xlarge General Purpose-Aurora: Canada West (Calgary) (Instance Type: db.r6i.12xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation] Neptune IO optimized Memory Optimized Current Generation db r6i.12xlarge General Purpose-Aurora: Asia Pacific (Melbourne) (Instance Type: db.r6i.12xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation] Neptune IO optimized Memory Optimized Current Generation db r6i.16xlarge General Purpose-Aurora: Canada West (Calgary) (Instance Type: db.r6i.16xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation] Neptune IO optimized Memory Optimized Current Generation db r6i.16xlarge General Purpose-Aurora: Asia Pacific (Melbourne) (Instance Type: db.r6i.16xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation] Neptune IO optimized Memory Optimized Current Generation db r6i.24xlarge General Purpose-Aurora: Canada West (Calgary) (Instance Type: db.r6i.24xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation] Neptune IO optimized Memory Optimized Current Generation db r6i.24xlarge General Purpose-Aurora: Asia Pacific (Melbourne) (Instance Type: db.r6i.24xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation] Neptune IO optimized Memory Optimized Current Generation db r6i.2xlarge General Purpose-Aurora: Canada West (Calgary) (Instance Type: db.r6i.2xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation] Neptune IO optimized Memory Optimized Current Generation db r6i.2xlarge General Purpose-Aurora: Asia Pacific (Melbourne) (Instance Type: db.r6i.2xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation] Neptune IO optimized Memory Optimized Current Generation db r6i.32xlarge General Purpose-Aurora: Canada West (Calgary) (Instance Type: db.r6i.32xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation] Neptune IO optimized Memory Optimized Current Generation db r6i.32xlarge General Purpose-Aurora: Asia Pacific (Melbourne) (Instance Type: db.r6i.32xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation] Neptune IO optimized Memory Optimized Current Generation db r6i.4xlarge General Purpose-Aurora: Canada West (Calgary) (Instance Type: db.r6i.4xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation] Neptune IO optimized Memory Optimized Current Generation db r6i.4xlarge General Purpose-Aurora: Asia Pacific (Melbourne) (Instance Type: db.r6i.4xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation] Neptune IO optimized Memory Optimized Current Generation db r6i.8xlarge General Purpose-Aurora: Canada West (Calgary) (Instance Type: db.r6i.8xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation] Neptune IO optimized Memory Optimized Current Generation db r6i.8xlarge General Purpose-Aurora: Asia Pacific (Melbourne) (Instance Type: db.r6i.8xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation] Neptune IO optimized Memory Optimized Current Generation db r6i.large General Purpose-Aurora: Canada West (Calgary) (Instance Type: db.r6i.large) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation] Neptune IO optimized Memory Optimized Current Generation db r6i.large General Purpose-Aurora: Asia Pacific (Melbourne) (Instance Type: db.r6i.large) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation] Neptune IO optimized Memory Optimized Current Generation db r6i.xlarge General Purpose-Aurora: Canada West (Calgary) (Instance Type: db.r6i.xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation] Neptune IO optimized Memory Optimized Current Generation db r6i.xlarge General Purpose-Aurora: Asia Pacific (Melbourne) (Instance Type: db.r6i.xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation]: Canada West (Calgary) (Instance Type: db.r7g.12xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation]: Canada West (Calgary) (Instance Type: db.r7g.16xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation]: Canada West (Calgary) (Instance Type: db.r7g.2xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation]: Canada West (Calgary) (Instance Type: db.r7g.4xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation]: Canada West (Calgary) (Instance Type: db.r7g.8xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation]: Canada West (Calgary) (Instance Type: db.r7g.large) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation]: Canada West (Calgary) (Instance Type: db.r7g.xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation]: Canada West (Calgary) (Instance Type: db.r7i.12xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation]: Canada West (Calgary) (Instance Type: db.r7i.16xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation]: Canada West (Calgary) (Instance Type: db.r7i.24xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation]: Canada West (Calgary) (Instance Type: db.r7i.2xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation]: Canada West (Calgary) (Instance Type: db.r7i.48xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation]: Canada West (Calgary) (Instance Type: db.r7i.4xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation]: Canada West (Calgary) (Instance Type: db.r7i.8xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation]: Canada West (Calgary) (Instance Type: db.r7i.large) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation]: Canada West (Calgary) (Instance Type: db.r7i.xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation]: Asia Pacific (Melbourne) (Instance Type: db.r7g.12xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation]: Asia Pacific (Melbourne) (Instance Type: db.r7g.16xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation]: Asia Pacific (Melbourne) (Instance Type: db.r7g.2xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation]: Asia Pacific (Melbourne) (Instance Type: db.r7g.4xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation]: Asia Pacific (Melbourne) (Instance Type: db.r7g.8xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation]: Asia Pacific (Melbourne) (Instance Type: db.r7g.large) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation]: Asia Pacific (Melbourne) (Instance Type: db.r7g.xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation]: Asia Pacific (Melbourne) (Instance Type: db.r7i.12xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation]: Asia Pacific (Melbourne) (Instance Type: db.r7i.16xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation]: Asia Pacific (Melbourne) (Instance Type: db.r7i.24xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation]: Asia Pacific (Melbourne) (Instance Type: db.r7i.2xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation]: Asia Pacific (Melbourne) (Instance Type: db.r7i.48xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation]: Asia Pacific (Melbourne) (Instance Type: db.r7i.4xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation]: Asia Pacific (Melbourne) (Instance Type: db.r7i.8xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation]: Asia Pacific (Melbourne) (Instance Type: db.r7i.large) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation]: Asia Pacific (Melbourne) (Instance Type: db.r7i.xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation]: Asia Pacific (Melbourne) (Instance Type: db.r8g.12xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation]: Asia Pacific (Melbourne) (Instance Type: db.r8g.16xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation]: Asia Pacific (Melbourne) (Instance Type: db.r8g.24xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation]: Asia Pacific (Melbourne) (Instance Type: db.r8g.2xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation]: Asia Pacific (Melbourne) (Instance Type: db.r8g.48xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation]: Asia Pacific (Melbourne) (Instance Type: db.r8g.4xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation]: Asia Pacific (Melbourne) (Instance Type: db.r8g.8xlarge) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation]: Asia Pacific (Melbourne) (Instance Type: db.r8g.large) 🌎
+  - Region added for metric [Neptune IO optimized Memory Optimized Current Generation]: Asia Pacific (Melbourne) (Instance Type: db.r8g.xlarge) 🌎
+  - Region added for metric Storage Snapshot Rate: Canada West (Calgary) 🌎
+  - Region added for metric Storage Snapshot Rate: Asia Pacific (Melbourne) 🌎
+  - Region added for metric Storage Rate: Canada West (Calgary) 🌎
+  - Region added for metric Storage Rate: Asia Pacific (Melbourne) 🌎
+  - Region added for metric IO Rate: Canada West (Calgary) 🌎
+  - Region added for metric IO Rate: Asia Pacific (Melbourne) 🌎
+  - Region added for metric IO optimized Storage Rate General Purpose-Aurora: Canada West (Calgary) 🌎
+  - Region added for metric IO optimized Storage Rate General Purpose-Aurora: Asia Pacific (Melbourne) 🌎
+
+
 ## 2025-05-27 17:26
 
 **New services:**
