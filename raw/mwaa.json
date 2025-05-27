@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "mwaa",
         "accessType": "publish",
-        "esIndex": "plc-mwaa-usd-20241119205426",
-        "hawkFilePublicationDate": "2024-11-19T19:31:53Z",
-        "ETLIngestionTriggerDate": "2024-11-19T20:54:26Z",
+        "esIndex": "plc-mwaa-usd-20250526233903",
+        "hawkFilePublicationDate": "2025-05-26T23:39:03Z",
+        "ETLIngestionTriggerDate": "2025-05-26T23:39:03Z",
         "currencyCode": "USD",
         "source": "mwaa",
         "isMapped": "true"
