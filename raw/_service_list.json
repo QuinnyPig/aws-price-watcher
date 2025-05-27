@@ -1,7 +1,7 @@
 {
   "formatVersion" : "v1.0",
   "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
-  "publicationDate" : "2025-05-26T23:39:03Z",
+  "publicationDate" : "2025-05-27T17:22:09Z",
   "offers" : {
     "comprehend" : {
       "offerCode" : "comprehend",
@@ -1434,6 +1434,12 @@
       "versionIndexUrl" : "/offers/v1.0/aws/AmazonKinesisFirehose/index.json",
       "currentVersionUrl" : "/offers/v1.0/aws/AmazonKinesisFirehose/current/index.json",
       "currentRegionIndexUrl" : "/offers/v1.0/aws/AmazonKinesisFirehose/current/region_index.json"
+    },
+    "AuroraDSQL" : {
+      "offerCode" : "AuroraDSQL",
+      "versionIndexUrl" : "/offers/v1.0/aws/AuroraDSQL/index.json",
+      "currentVersionUrl" : "/offers/v1.0/aws/AuroraDSQL/current/index.json",
+      "currentRegionIndexUrl" : "/offers/v1.0/aws/AuroraDSQL/current/region_index.json"
     }
   }
 }

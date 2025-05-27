@@ -1,3 +1,13 @@
+## 2025-05-27 17:26
+
+**New services:**
+
+- [auroradsql](processed/auroradsql.json) 🚀**Modified services:**
+
+- [backup](processed/backup.json)
+  - Billing metric added: [Aurora DSQL AWSBackup-DataTransfer] 💡
+
+
 ## 2025-05-26 22:26
 
 **Modified services:**
