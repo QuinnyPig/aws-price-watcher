@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "wickr",
         "accessType": "publish",
-        "esIndex": "plc-wickr-usd-20250228212018",
-        "hawkFilePublicationDate": "2024-11-20T15:10:36Z",
-        "ETLIngestionTriggerDate": "2025-02-28T21:20:18Z",
+        "esIndex": "plc-wickr-usd-20250527181301",
+        "hawkFilePublicationDate": "2025-05-27T18:13:01Z",
+        "ETLIngestionTriggerDate": "2025-05-27T18:13:01Z",
         "currencyCode": "USD",
         "source": "wickr",
         "isMapped": "true"
@@ -436,6 +436,11 @@
                 "rateCode": "VKKZTP9ER3459FXZ.JRTCKXETXF.6YS6EN2CT7",
                 "price": "6.0000000000",
                 "RegionlessRateCode": "Ij509socnaF6_o1JIlwkzBgF6FjpEqBNuVlC6wxw-j4"
+            },
+            "f5wgaX6jgFbojg0Hb9liSb_hD1L528TFMaAfV5b-zpk": {
+                "rateCode": "5FM82QNGK3JZ89ZT.JRTCKXETXF.6YS6EN2CT7",
+                "price": "6000000.0000000000",
+                "RegionlessRateCode": "f5wgaX6jgFbojg0Hb9liSb_hD1L528TFMaAfV5b-zpk"
             },
             "hg7h8Ey-0j1q3Yun9HJ8SYNAvj-PnFemEJH7e8gezw8": {
                 "rateCode": "FBFDVCC7MYPK94CS.JRTCKXETXF.6YS6EN2CT7",
