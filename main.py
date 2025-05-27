@@ -381,12 +381,13 @@ if service_list:
             out += "**New services:**\n"
             for service in new_services:
                 out += "\n- [{}](processed/{}.json) 🚀".format(service, service)
+            out += "\n\n"
         if len(modified_services) > 0:
             out += "**Modified services:**\n"
             for service in modified_services:
                 out += "\n- [{}](processed/{}.json)".format(service, service)
                 out += "{}\n".format(modified_service_detail[service])
-        out += "\n\n"
+            out += "\n\n"
 
     # read readme file
     with open("README.md", "r") as readme_file:

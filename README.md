@@ -245,7 +245,9 @@
 
 **New services:**
 
-- [auroradsql](processed/auroradsql.json) 🚀**Modified services:**
+- [auroradsql](processed/auroradsql.json) 🚀
+
+**Modified services:**
 
 - [backup](processed/backup.json)
   - Billing metric added: [Aurora DSQL AWSBackup-DataTransfer] 💡
