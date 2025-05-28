@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "dynamodb",
         "accessType": "publish",
-        "esIndex": "plc-dynamodb-usd-20250312202711",
-        "hawkFilePublicationDate": "2025-03-12T20:27:11Z",
-        "ETLIngestionTriggerDate": "2025-03-12T20:27:11Z",
+        "esIndex": "plc-dynamodb-usd-20250528224227",
+        "hawkFilePublicationDate": "2025-05-28T22:42:27Z",
+        "ETLIngestionTriggerDate": "2025-05-28T22:42:27Z",
         "currencyCode": "USD",
         "source": "dynamodb",
         "isMapped": "true"
@@ -7952,7 +7952,7 @@
             },
             "HVzgc9LhTlbN-sUnQYzKNW_sBe9PZKUa-UQhguoXi_Q": {
                 "rateCode": "BP5R4CWHYVHS8SDH.JRTCKXETXF.6YS6EN2CT7",
-                "price": "0.0000011415",
+                "price": "0.0000001142",
                 "RegionlessRateCode": "HVzgc9LhTlbN-sUnQYzKNW_sBe9PZKUa-UQhguoXi_Q"
             },
             "ITeUmekK0DefOa2mmDjYXXaxQ7Mj0AFr_qGnrZje-Fk": {
@@ -8107,7 +8107,7 @@
             },
             "Change Data Capture Units for Kinesis Data Streams": {
                 "rateCode": "BP5R4CWHYVHS8SDH.JRTCKXETXF.6YS6EN2CT7",
-                "price": "0.0000011415",
+                "price": "0.0000001142",
                 "RegionlessRateCode": "HVzgc9LhTlbN-sUnQYzKNW_sBe9PZKUa-UQhguoXi_Q"
             },
             "Data Storage Indexed GB-Mo": {

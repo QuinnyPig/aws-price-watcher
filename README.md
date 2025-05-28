@@ -1,3 +1,11 @@
+## 2025-05-28 23:26
+
+**Modified services:**
+
+- [dynamodb](processed/dynamodb.json)
+  - Price decreased: Change Data Capture Units for Kinesis Data Streams Asia Pacific (Osaka)  **$1.1415e-06** → **$1.142e-07** 💸
+
+
 ## 2025-05-28 22:26
 
 **Modified services:**
