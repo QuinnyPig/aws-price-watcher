@@ -1,3 +1,11 @@
+## 2025-05-28 22:26
+
+**Modified services:**
+
+- [neptune](processed/neptune.json)
+  - Region added for metric Neptune ReplicatedWrite: Asia Pacific (Melbourne) 🌎
+
+
 ## 2025-05-28 21:25
 
 **Modified services:**

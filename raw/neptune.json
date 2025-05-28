@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "neptune",
         "accessType": "publish",
-        "esIndex": "plc-neptune-usd-20250528212306",
-        "hawkFilePublicationDate": "2025-05-28T21:23:06Z",
-        "ETLIngestionTriggerDate": "2025-05-28T21:23:06Z",
+        "esIndex": "plc-neptune-usd-20250528212406",
+        "hawkFilePublicationDate": "2025-05-28T21:24:06Z",
+        "ETLIngestionTriggerDate": "2025-05-28T21:24:06Z",
         "currencyCode": "USD",
         "source": "neptune",
         "isMapped": "true"
@@ -47140,6 +47140,12 @@
                 "RegionlessRateCode": "GxsnkHBYu12Ah3du1XkZPb9jNRNT_usZ_IjLAycY8UE",
                 "Instance Type": "db.r5.8xlarge"
             },
+            "HOWxAqi7j_0cOPmzXLG0eRej28lBhUtwmVlhlJyvYGc": {
+                "rateCode": "DVYQRT68DS6SZ5PW.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000002200",
+                "RegionlessRateCode": "HOWxAqi7j_0cOPmzXLG0eRej28lBhUtwmVlhlJyvYGc",
+                "Instance Type": ""
+            },
             "HZ-HjIQTKHSe8gyI7-vEy3TL45YClRzpFq3wjF3-ggY": {
                 "rateCode": "R3NSBCNW3TXSF8R9.JRTCKXETXF.6YS6EN2CT7",
                 "price": "40.3200000000",
@@ -47858,6 +47864,11 @@
                 "price": "9.0720000000",
                 "RegionlessRateCode": "GxsnkHBYu12Ah3du1XkZPb9jNRNT_usZ_IjLAycY8UE",
                 "Instance Type": "db.r5.8xlarge"
+            },
+            "Neptune ReplicatedWrite": {
+                "rateCode": "DVYQRT68DS6SZ5PW.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000002200",
+                "RegionlessRateCode": "HOWxAqi7j_0cOPmzXLG0eRej28lBhUtwmVlhlJyvYGc"
             },
             "Neptune IO optimized Memory Optimized Current Generation db r6g.16xlarge General Purpose-Aurora": {
                 "rateCode": "CJH6YKF4N9WBZK3X.JRTCKXETXF.6YS6EN2CT7",

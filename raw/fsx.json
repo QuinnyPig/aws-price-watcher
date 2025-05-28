@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "fsx",
         "accessType": "publish",
-        "esIndex": "plc-fsx-usd-20250516170145",
-        "hawkFilePublicationDate": "2025-05-16T17:01:45Z",
-        "ETLIngestionTriggerDate": "2025-05-16T17:01:45Z",
+        "esIndex": "plc-fsx-usd-20250528214236",
+        "hawkFilePublicationDate": "2025-05-28T21:42:36Z",
+        "ETLIngestionTriggerDate": "2025-05-28T21:42:36Z",
         "currencyCode": "USD",
         "source": "fsx",
         "isMapped": "true"
