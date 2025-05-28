@@ -42,4 +42,5 @@ jobs:
           if [[ "$README_CHANGES" == "0" ]]; then exit 0; fi
           INPUT_TAG="release-$(date +%Y%m%d%H%M%S)"
           awk '/^## / {section++} section == 1' README.md > /tmp/notes.md
-          gh release create $INPUT_TAG -t "${INPUT_TAG}" -F /tmp/notes.md
+          head -c 120000 /tmp/notes.md > /tmp/notes-truncated.md
+          gh release create $INPUT_TAG -t "${INPUT_TAG}" -F /tmp/notes-truncated.md
