@@ -7861,6 +7861,7 @@
         "Asia Pacific (Seoul)": "98.8000000000",
         "Asia Pacific (Mumbai)": "84.5000000000",
         "Asia Pacific (Hyderabad)": "83.9804300000",
+        "Africa (Cape Town)": "109.0635000000",
         "AWS GovCloud (US-East)": "98.1500000000",
         "AWS GovCloud (US)": "98.1500000000"
     },
@@ -12929,6 +12930,7 @@
         "US West (Oregon)": "218.4000000000",
         "US East (Ohio)": "218.4000000000",
         "US East (N. Virginia)": "218.4000000000",
+        "EU (Ireland)": "244.4000000000",
         "Asia Pacific (Seoul)": "263.4700000000",
         "AWS GovCloud (US-East)": "261.7300000000",
         "AWS GovCloud (US)": "261.7300000000"

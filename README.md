@@ -1,3 +1,12 @@
+## 2025-05-28 18:28
+
+**Modified services:**
+
+- [ec2](processed/ec2.json)
+  - Region added for metric OnDemand Linux-instancetype-u-9tb1.112xlarge: Africa (Cape Town) 🌎
+  - Region added for metric OnDemand Linux-instancetype-u-24tb1.112xlarge: EU (Ireland) 🌎
+
+
 ## 2025-05-28 00:40
 
 **Modified services:**
