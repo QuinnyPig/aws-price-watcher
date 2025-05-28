@@ -3336,7 +3336,10 @@
         "EU (Spain)": "0.0000002200",
         "EU (London)": "0.0000002000",
         "EU (Ireland)": "0.0000002200",
+        "Canada West (Calgary)": "0.0000002200",
+        "Canada (Central)": "0.0000002200",
         "Asia Pacific (Tokyo)": "0.0000002400",
+        "Asia Pacific (Sydney)": "0.0000002200",
         "Asia Pacific (Osaka)": "0.0000002400",
         "Asia Pacific (Malaysia)": "0.0000002050"
     },

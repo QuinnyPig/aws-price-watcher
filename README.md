@@ -1,3 +1,13 @@
+## 2025-05-28 21:25
+
+**Modified services:**
+
+- [neptune](processed/neptune.json)
+  - Region added for metric Neptune ReplicatedWrite: Canada West (Calgary) 🌎
+  - Region added for metric Neptune ReplicatedWrite: Canada (Central) 🌎
+  - Region added for metric Neptune ReplicatedWrite: Asia Pacific (Sydney) 🌎
+
+
 ## 2025-05-28 18:28
 
 **Modified services:**
