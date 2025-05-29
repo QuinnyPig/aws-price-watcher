@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "xray",
         "accessType": "publish",
-        "esIndex": "plc-xray-usd-20250313201328",
+        "esIndex": "plc-xray-usd-20250529162844",
         "hawkFilePublicationDate": "2025-03-13T20:13:28Z",
-        "ETLIngestionTriggerDate": "2025-03-13T20:13:28Z",
+        "ETLIngestionTriggerDate": "2025-05-29T16:28:44Z",
         "currencyCode": "USD",
         "source": "xray",
         "isMapped": "true"
