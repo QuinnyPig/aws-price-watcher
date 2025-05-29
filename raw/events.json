@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "events",
         "accessType": "publish",
-        "esIndex": "plc-events-usd-20250526221347",
-        "hawkFilePublicationDate": "2025-05-26T22:13:47Z",
-        "ETLIngestionTriggerDate": "2025-05-26T22:13:47Z",
+        "esIndex": "plc-events-usd-20250529172833",
+        "hawkFilePublicationDate": "2025-05-29T17:28:33Z",
+        "ETLIngestionTriggerDate": "2025-05-29T17:28:33Z",
         "currencyCode": "USD",
         "source": "events",
         "isMapped": "true"
@@ -1721,6 +1721,11 @@
                 "price": "0.0000000500",
                 "RegionlessRateCode": "IzdJCDo0TNOlmbPOJpY1t8W1go10wiz2Y11z6okhIiA"
             },
+            "LyUSiu96m4QixPuKZsS9ZVp5yF2I192VVnMekH8mfFg": {
+                "rateCode": "EWMNBXQS6QWSGDHT.JRTCKXETXF.W2M3TYBKHH",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "LyUSiu96m4QixPuKZsS9ZVp5yF2I192VVnMekH8mfFg"
+            },
             "SzALfe24SKRTEqYDA7fQv7PY9LT8qhxx_cPM9oqVk-0": {
                 "rateCode": "JZ8JDFHPN9MARBFG.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0000000500",
@@ -1736,15 +1741,30 @@
                 "price": "0.0000010000",
                 "RegionlessRateCode": "VQ3tEXBU-hhzUN5-o2svQ0fscBdXdpM-qihCD7XpA4s"
             },
+            "w0NGgmWRallv_q7obYOGU8-RZ0JvVXhqAmhCFDPhVts": {
+                "rateCode": "EWMNBXQS6QWSGDHT.JRTCKXETXF.AGTZK4FFDN",
+                "price": "0.0000011000",
+                "RegionlessRateCode": "w0NGgmWRallv_q7obYOGU8-RZ0JvVXhqAmhCFDPhVts"
+            },
             "CloudWatch Events": {
                 "rateCode": "8US9JRP5ET2V2DUG.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0000010000",
                 "RegionlessRateCode": "IcxlDIURb_27P2BSK5UvILPzDFtYseuUFC5pnuvnxGw"
             },
+            "Scheduled Invocation for 0 to 14000000 Invocations": {
+                "rateCode": "EWMNBXQS6QWSGDHT.JRTCKXETXF.W2M3TYBKHH",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "LyUSiu96m4QixPuKZsS9ZVp5yF2I192VVnMekH8mfFg"
+            },
             "CloudWatch Events Custom Event": {
                 "rateCode": "V58BXJ38ZVESTEN9.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0000010000",
                 "RegionlessRateCode": "VQ3tEXBU-hhzUN5-o2svQ0fscBdXdpM-qihCD7XpA4s"
+            },
+            "Scheduled Invocation for 14000000 to Inf Invocations": {
+                "rateCode": "EWMNBXQS6QWSGDHT.JRTCKXETXF.AGTZK4FFDN",
+                "price": "0.0000011000",
+                "RegionlessRateCode": "w0NGgmWRallv_q7obYOGU8-RZ0JvVXhqAmhCFDPhVts"
             }
         },
         "Canada (Central)": {

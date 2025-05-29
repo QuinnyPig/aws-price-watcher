@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "amplify",
         "accessType": "publish",
-        "esIndex": "plc-amplify-usd-20250326205846",
-        "hawkFilePublicationDate": "2025-03-26T19:59:19Z",
-        "ETLIngestionTriggerDate": "2025-03-26T20:58:46Z",
+        "esIndex": "plc-amplify-usd-20250529181556",
+        "hawkFilePublicationDate": "2025-05-29T18:15:56Z",
+        "ETLIngestionTriggerDate": "2025-05-29T18:15:56Z",
         "currencyCode": "USD",
         "source": "amplify",
         "isMapped": "true"

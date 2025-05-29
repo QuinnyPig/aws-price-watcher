@@ -1,3 +1,12 @@
+## 2025-05-29 18:28
+
+**Modified services:**
+
+- [events](processed/events.json)
+  - Region added for metric Scheduled Invocation for 0 to 14000000 Invocations: Canada West (Calgary) 🌎
+  - Region added for metric Scheduled Invocation for 14000000 to Inf Invocations: Canada West (Calgary) 🌎
+
+
 ## 2025-05-29 16:27
 
 **Modified services:**
