@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "elb",
         "accessType": "publish",
-        "esIndex": "plc-elb-usd-20250520192956",
-        "hawkFilePublicationDate": "2025-05-20T19:29:56Z",
-        "ETLIngestionTriggerDate": "2025-05-20T19:29:56Z",
+        "esIndex": "plc-elb-usd-20250529215236",
+        "hawkFilePublicationDate": "2025-05-29T21:52:36Z",
+        "ETLIngestionTriggerDate": "2025-05-29T21:52:36Z",
         "currencyCode": "USD",
         "source": "elb",
         "isMapped": "true"
@@ -2819,6 +2819,11 @@
                 "price": "0.0280000000",
                 "RegionlessRateCode": "STK5pMElhLjMwulF1m7p32UJn6AH31DcaYnzLulhIOo"
             },
+            "UZOfZFjDcZCu0aga7cpDrIylpKycs8Mi24PbiwnVj2I": {
+                "rateCode": "P37AF2842XPKJMK6.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0080000000",
+                "RegionlessRateCode": "UZOfZFjDcZCu0aga7cpDrIylpKycs8Mi24PbiwnVj2I"
+            },
             "YPdvvJfioIlsclsVix96CcTtL4OfLgAug1fjcHFaync": {
                 "rateCode": "64S93CCDM5UJG6RT.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0252000000",
@@ -2873,6 +2878,11 @@
                 "rateCode": "Y765XM9XH3KRGAQ4.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0280000000",
                 "RegionlessRateCode": "STK5pMElhLjMwulF1m7p32UJn6AH31DcaYnzLulhIOo"
+            },
+            "Application Load Balancer ReservedLCU-Hr": {
+                "rateCode": "P37AF2842XPKJMK6.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0080000000",
+                "RegionlessRateCode": "UZOfZFjDcZCu0aga7cpDrIylpKycs8Mi24PbiwnVj2I"
             },
             "Network Load Balancer Hours": {
                 "rateCode": "64S93CCDM5UJG6RT.JRTCKXETXF.6YS6EN2CT7",

@@ -1,3 +1,11 @@
+## 2025-05-29 22:26
+
+**Modified services:**
+
+- [elb](processed/elb.json)
+  - Region added for metric Application Load Balancer ReservedLCU-Hr: EU (Spain) 🌎
+
+
 ## 2025-05-29 21:26
 
 **Modified services:**
