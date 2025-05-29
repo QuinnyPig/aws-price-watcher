@@ -1,3 +1,37 @@
+## 2025-05-29 21:26
+
+**Modified services:**
+
+- [ec2](processed/ec2.json)
+  - Region added for metric OnDemand Linux-instancetype-m7g.2xlarge: Asia Pacific (Hong Kong) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m7g.2xlarge: Africa (Cape Town) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m7g.2xlarge: AWS GovCloud (US) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m7g.xlarge: Asia Pacific (Hong Kong) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m7g.xlarge: Africa (Cape Town) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m7g.xlarge: AWS GovCloud (US) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m7g.16xlarge: Asia Pacific (Hong Kong) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m7g.16xlarge: Africa (Cape Town) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m7g.16xlarge: AWS GovCloud (US) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m7g.12xlarge: Asia Pacific (Hong Kong) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m7g.12xlarge: Africa (Cape Town) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m7g.12xlarge: AWS GovCloud (US) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m7g.4xlarge: Asia Pacific (Hong Kong) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m7g.4xlarge: Africa (Cape Town) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m7g.4xlarge: AWS GovCloud (US) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m7g.large: Asia Pacific (Hong Kong) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m7g.large: Africa (Cape Town) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m7g.large: AWS GovCloud (US) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m7g.metal: Asia Pacific (Hong Kong) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m7g.metal: Africa (Cape Town) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m7g.metal: AWS GovCloud (US) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m7g.medium: Asia Pacific (Hong Kong) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m7g.medium: Africa (Cape Town) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m7g.medium: AWS GovCloud (US) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m7g.8xlarge: Asia Pacific (Hong Kong) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m7g.8xlarge: Africa (Cape Town) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m7g.8xlarge: AWS GovCloud (US) 🌎
+
+
 ## 2025-05-29 18:28
 
 **Modified services:**

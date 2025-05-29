@@ -2580,7 +2580,10 @@
         "Asia Pacific (Malaysia)": "0.3468000000",
         "Asia Pacific (Jakarta)": "0.4080000000",
         "Asia Pacific (Hyderabad)": "0.2333000000",
-        "AWS GovCloud (US-East)": "0.4112000000"
+        "Asia Pacific (Hong Kong)": "0.4488000000",
+        "Africa (Cape Town)": "0.4318000000",
+        "AWS GovCloud (US-East)": "0.4112000000",
+        "AWS GovCloud (US)": "0.4114000000"
     },
     "OnDemand Linux-instancetype-g5.48xlarge": {
         "US West (Oregon)": "16.2880000000",
@@ -4539,7 +4542,10 @@
         "Asia Pacific (Malaysia)": "0.1734000000",
         "Asia Pacific (Jakarta)": "0.2040000000",
         "Asia Pacific (Hyderabad)": "0.1166000000",
-        "AWS GovCloud (US-East)": "0.2056000000"
+        "Asia Pacific (Hong Kong)": "0.2244000000",
+        "Africa (Cape Town)": "0.2159000000",
+        "AWS GovCloud (US-East)": "0.2056000000",
+        "AWS GovCloud (US)": "0.2057000000"
     },
     "OnDemand Linux-instancetype-r6idn.8xlarge": {
         "US West (Oregon)": "3.1262400000",
@@ -6114,7 +6120,10 @@
         "Asia Pacific (Malaysia)": "2.7744000000",
         "Asia Pacific (Jakarta)": "3.2640000000",
         "Asia Pacific (Hyderabad)": "1.8662000000",
-        "AWS GovCloud (US-East)": "3.2896000000"
+        "Asia Pacific (Hong Kong)": "3.5904000000",
+        "Africa (Cape Town)": "3.4547000000",
+        "AWS GovCloud (US-East)": "3.2896000000",
+        "AWS GovCloud (US)": "3.2909000000"
     },
     "OnDemand Linux-instancetype-m5d.xlarge": {
         "US West (Oregon)": "0.2260000000",
@@ -11314,7 +11323,10 @@
         "Asia Pacific (Malaysia)": "2.0808000000",
         "Asia Pacific (Jakarta)": "2.4480000000",
         "Asia Pacific (Hyderabad)": "1.3997000000",
-        "AWS GovCloud (US-East)": "2.4672000000"
+        "Asia Pacific (Hong Kong)": "2.6928000000",
+        "Africa (Cape Town)": "2.5910000000",
+        "AWS GovCloud (US-East)": "2.4672000000",
+        "AWS GovCloud (US)": "2.4682000000"
     },
     "OnDemand Linux-instancetype-m6in.12xlarge": {
         "US West (Oregon)": "3.3415200000",
@@ -13221,7 +13233,10 @@
         "Asia Pacific (Malaysia)": "0.6936000000",
         "Asia Pacific (Jakarta)": "0.8160000000",
         "Asia Pacific (Hyderabad)": "0.4666000000",
-        "AWS GovCloud (US-East)": "0.8224000000"
+        "Asia Pacific (Hong Kong)": "0.8976000000",
+        "Africa (Cape Town)": "0.8637000000",
+        "AWS GovCloud (US-East)": "0.8224000000",
+        "AWS GovCloud (US)": "0.8227000000"
     },
     "OnDemand Linux-instancetype-m5ad.8xlarge": {
         "US West (Oregon)": "1.6480000000",
@@ -15795,7 +15810,10 @@
         "Asia Pacific (Malaysia)": "0.0867000000",
         "Asia Pacific (Jakarta)": "0.1020000000",
         "Asia Pacific (Hyderabad)": "0.0583000000",
-        "AWS GovCloud (US-East)": "0.1028000000"
+        "Asia Pacific (Hong Kong)": "0.1122000000",
+        "Africa (Cape Town)": "0.1080000000",
+        "AWS GovCloud (US-East)": "0.1028000000",
+        "AWS GovCloud (US)": "0.1028000000"
     },
     "OnDemand Linux-instancetype-inf1.xlarge": {
         "US West (Oregon)": "0.2280000000",
@@ -16520,7 +16538,10 @@
         "Asia Pacific (Malaysia)": "2.7744000000",
         "Asia Pacific (Jakarta)": "3.2640000000",
         "Asia Pacific (Hyderabad)": "1.8662000000",
-        "AWS GovCloud (US-East)": "3.2896000000"
+        "Asia Pacific (Hong Kong)": "3.5904000000",
+        "Africa (Cape Town)": "3.4547000000",
+        "AWS GovCloud (US-East)": "3.2896000000",
+        "AWS GovCloud (US)": "3.2909000000"
     },
     "OnDemand Linux-instancetype-x2iezn.metal": {
         "US West (Oregon)": "10.0080000000",
@@ -16558,7 +16579,10 @@
         "Asia Pacific (Malaysia)": "0.0434000000",
         "Asia Pacific (Jakarta)": "0.0510000000",
         "Asia Pacific (Hyderabad)": "0.0292000000",
-        "AWS GovCloud (US-East)": "0.0514000000"
+        "Asia Pacific (Hong Kong)": "0.0561000000",
+        "Africa (Cape Town)": "0.0540000000",
+        "AWS GovCloud (US-East)": "0.0514000000",
+        "AWS GovCloud (US)": "0.0514000000"
     },
     "OnDemand Linux-instancetype-m6id.4xlarge": {
         "US West (Oregon)": "0.9492000000",
@@ -16987,7 +17011,10 @@
         "Asia Pacific (Malaysia)": "1.3872000000",
         "Asia Pacific (Jakarta)": "1.6320000000",
         "Asia Pacific (Hyderabad)": "0.9331000000",
-        "AWS GovCloud (US-East)": "1.6448000000"
+        "Asia Pacific (Hong Kong)": "1.7952000000",
+        "Africa (Cape Town)": "1.7274000000",
+        "AWS GovCloud (US-East)": "1.6448000000",
+        "AWS GovCloud (US)": "1.6454000000"
     },
     "OnDemand Linux-instancetype-r8g.metal-24xl": {
         "US West (Oregon)": "5.6553600000",
