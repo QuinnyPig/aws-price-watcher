@@ -1,3 +1,208 @@
+## 2025-05-29 16:27
+
+**Modified services:**
+
+- [es](processed/es.json)
+  - Region added for metric c6g 4xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Canada West (Calgary) (vCPU: 16, Memory (GiB): 32) 🌎
+  - Region added for metric m6g xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Canada West (Calgary) (vCPU: 4, Memory (GiB): 16) 🌎
+  - Region added for metric m6g large.search - General purpose - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Canada West (Calgary) (vCPU: 2, Memory (GiB): 8) 🌎
+  - Region added for metric m6g xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Canada West (Calgary) (vCPU: 4, Memory (GiB): 16) 🌎
+  - Region added for metric r6g 2xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Canada West (Calgary) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric m6g 8xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Canada West (Calgary) (vCPU: 32, Memory (GiB): 128) 🌎
+  - Region added for metric c6g 8xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Canada West (Calgary) (vCPU: 32, Memory (GiB): 64) 🌎
+  - Region added for metric c6g 4xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Canada West (Calgary) (vCPU: 16, Memory (GiB): 32) 🌎
+  - Region added for metric m6g 2xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Canada West (Calgary) (vCPU: 8, Memory (GiB): 32) 🌎
+  - Region added for metric m6g large.search - General purpose - OnDemand - EBS Only - - - Hourly Cost: Canada West (Calgary) (vCPU: 2, Memory (GiB): 8) 🌎
+  - Region added for metric r6g 2xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Canada West (Calgary) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric r6g 4xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Canada West (Calgary) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric c6g 2xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Canada West (Calgary) (vCPU: 8, Memory (GiB): 16) 🌎
+  - Region added for metric c6g 8xlarge.search - Compute optimized - OnDemand - EBS Only - - - Hourly Cost: Canada West (Calgary) (vCPU: 32, Memory (GiB): 64) 🌎
+  - Region added for metric r6g 12xlarge.search - Memory optimized - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Canada West (Calgary) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric m6g 4xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Canada West (Calgary) (vCPU: 16, Memory (GiB): 64) 🌎
+  - Region added for metric r6g 12xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Canada West (Calgary) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric c6g 2xlarge.search - Compute optimized - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Canada West (Calgary) (vCPU: 8, Memory (GiB): 16) 🌎
+  - Region added for metric r6g 8xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Canada West (Calgary) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric m6g 4xlarge.search - General purpose - OnDemand - EBS Only - - - Hourly Cost: Canada West (Calgary) (vCPU: 16, Memory (GiB): 64) 🌎
+  - Region added for metric m6g 12xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Canada West (Calgary) (vCPU: 48, Memory (GiB): 192) 🌎
+  - Region added for metric r6g 12xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Canada West (Calgary) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric m6g xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Canada West (Calgary) (vCPU: 4, Memory (GiB): 16) 🌎
+  - Region added for metric r6g 2xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Canada West (Calgary) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric c6g 8xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Canada West (Calgary) (vCPU: 32, Memory (GiB): 64) 🌎
+  - Region added for metric m6g 2xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Canada West (Calgary) (vCPU: 8, Memory (GiB): 32) 🌎
+  - Region added for metric r6g xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Canada West (Calgary) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric m6g xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Canada West (Calgary) (vCPU: 4, Memory (GiB): 16) 🌎
+  - Region added for metric m6g 4xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Canada West (Calgary) (vCPU: 16, Memory (GiB): 64) 🌎
+  - Region added for metric m6g 2xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Canada West (Calgary) (vCPU: 8, Memory (GiB): 32) 🌎
+  - Region added for metric r6g 12xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Canada West (Calgary) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric r6g 4xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Canada West (Calgary) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric c6g 8xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Canada West (Calgary) (vCPU: 32, Memory (GiB): 64) 🌎
+  - Region added for metric m6g 12xlarge.search - General purpose - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Canada West (Calgary) (vCPU: 48, Memory (GiB): 192) 🌎
+  - Region added for metric r6g large.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Canada West (Calgary) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric c6g 4xlarge.search - Compute optimized - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Canada West (Calgary) (vCPU: 16, Memory (GiB): 32) 🌎
+  - Region added for metric c6g 12xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Canada West (Calgary) (vCPU: 48, Memory (GiB): 96) 🌎
+  - Region added for metric c6g xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Canada West (Calgary) (vCPU: 4, Memory (GiB): 8) 🌎
+  - Region added for metric c6g 8xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Canada West (Calgary) (vCPU: 32, Memory (GiB): 64) 🌎
+  - Region added for metric c6g large.search - Compute optimized - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Canada West (Calgary) (vCPU: 2, Memory (GiB): 4) 🌎
+  - Region added for metric m6g large.search - General purpose - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Canada West (Calgary) (vCPU: 2, Memory (GiB): 8) 🌎
+  - Region added for metric r6g large.search - Memory optimized - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Canada West (Calgary) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric m6g 8xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Canada West (Calgary) (vCPU: 32, Memory (GiB): 128) 🌎
+  - Region added for metric r6g 12xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Canada West (Calgary) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric m6g 4xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Canada West (Calgary) (vCPU: 16, Memory (GiB): 64) 🌎
+  - Region added for metric r6g 4xlarge.search - Memory optimized - OnDemand - EBS Only - - - Hourly Cost: Canada West (Calgary) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric r6g 12xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Canada West (Calgary) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric r6g 8xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Canada West (Calgary) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric r6g 4xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Canada West (Calgary) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric r6g 4xlarge.search - Memory optimized - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Canada West (Calgary) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric r6g large.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Canada West (Calgary) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric r6g 4xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Canada West (Calgary) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric c6g 12xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Canada West (Calgary) (vCPU: 48, Memory (GiB): 96) 🌎
+  - Region added for metric c6g 2xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Canada West (Calgary) (vCPU: 8, Memory (GiB): 16) 🌎
+  - Region added for metric m6g xlarge.search - General purpose - OnDemand - EBS Only - - - Hourly Cost: Canada West (Calgary) (vCPU: 4, Memory (GiB): 16) 🌎
+  - Region added for metric m6g 12xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Canada West (Calgary) (vCPU: 48, Memory (GiB): 192) 🌎
+  - Region added for metric m6g 12xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Canada West (Calgary) (vCPU: 48, Memory (GiB): 192) 🌎
+  - Region added for metric m6g 2xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Canada West (Calgary) (vCPU: 8, Memory (GiB): 32) 🌎
+  - Region added for metric r6g xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Canada West (Calgary) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric m6g 8xlarge.search - General purpose - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Canada West (Calgary) (vCPU: 32, Memory (GiB): 128) 🌎
+  - Region added for metric m6g 4xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Canada West (Calgary) (vCPU: 16, Memory (GiB): 64) 🌎
+  - Region added for metric c6g 12xlarge.search - Compute optimized - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Canada West (Calgary) (vCPU: 48, Memory (GiB): 96) 🌎
+  - Region added for metric m6g 12xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Canada West (Calgary) (vCPU: 48, Memory (GiB): 192) 🌎
+  - Region added for metric m6g 8xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Canada West (Calgary) (vCPU: 32, Memory (GiB): 128) 🌎
+  - Region added for metric m6g 12xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Canada West (Calgary) (vCPU: 48, Memory (GiB): 192) 🌎
+  - Region added for metric m6g large.search - General purpose - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Canada West (Calgary) (vCPU: 2, Memory (GiB): 8) 🌎
+  - Region added for metric r6g xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Canada West (Calgary) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric r6g 4xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Canada West (Calgary) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric c6g 8xlarge.search - Compute optimized - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Canada West (Calgary) (vCPU: 32, Memory (GiB): 64) 🌎
+  - Region added for metric c6g xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Canada West (Calgary) (vCPU: 4, Memory (GiB): 8) 🌎
+  - Region added for metric m6g 12xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Canada West (Calgary) (vCPU: 48, Memory (GiB): 192) 🌎
+  - Region added for metric m6g xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Canada West (Calgary) (vCPU: 4, Memory (GiB): 16) 🌎
+  - Region added for metric m6g 12xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Canada West (Calgary) (vCPU: 48, Memory (GiB): 192) 🌎
+  - Region added for metric m6g 8xlarge.search - General purpose - OnDemand - EBS Only - - - Hourly Cost: Canada West (Calgary) (vCPU: 32, Memory (GiB): 128) 🌎
+  - Region added for metric c6g large.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Canada West (Calgary) (vCPU: 2, Memory (GiB): 4) 🌎
+  - Region added for metric c6g 2xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Canada West (Calgary) (vCPU: 8, Memory (GiB): 16) 🌎
+  - Region added for metric c6g 12xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Canada West (Calgary) (vCPU: 48, Memory (GiB): 96) 🌎
+  - Region added for metric r6g 12xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Canada West (Calgary) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric m6g 2xlarge.search - General purpose - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Canada West (Calgary) (vCPU: 8, Memory (GiB): 32) 🌎
+  - Region added for metric c6g 4xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Canada West (Calgary) (vCPU: 16, Memory (GiB): 32) 🌎
+  - Region added for metric m6g 8xlarge.search - General purpose - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Canada West (Calgary) (vCPU: 32, Memory (GiB): 128) 🌎
+  - Region added for metric m6g 12xlarge.search - General purpose - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Canada West (Calgary) (vCPU: 48, Memory (GiB): 192) 🌎
+  - Region added for metric r6g 2xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Canada West (Calgary) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric r6g xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Canada West (Calgary) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric r6g 8xlarge.search - Memory optimized - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Canada West (Calgary) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric c6g 2xlarge.search - Compute optimized - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Canada West (Calgary) (vCPU: 8, Memory (GiB): 16) 🌎
+  - Region added for metric m6g 8xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Canada West (Calgary) (vCPU: 32, Memory (GiB): 128) 🌎
+  - Region added for metric r6g xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Canada West (Calgary) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric m6g 8xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Canada West (Calgary) (vCPU: 32, Memory (GiB): 128) 🌎
+  - Region added for metric c6g 12xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Canada West (Calgary) (vCPU: 48, Memory (GiB): 96) 🌎
+  - Region added for metric c6g 12xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Canada West (Calgary) (vCPU: 48, Memory (GiB): 96) 🌎
+  - Region added for metric m6g 12xlarge.search - General purpose - OnDemand - EBS Only - - - Hourly Cost: Canada West (Calgary) (vCPU: 48, Memory (GiB): 192) 🌎
+  - Region added for metric m6g 8xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Canada West (Calgary) (vCPU: 32, Memory (GiB): 128) 🌎
+  - Region added for metric m6g large.search - General purpose - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Canada West (Calgary) (vCPU: 2, Memory (GiB): 8) 🌎
+  - Region added for metric m6g xlarge.search - General purpose - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Canada West (Calgary) (vCPU: 4, Memory (GiB): 16) 🌎
+  - Region added for metric r6g 4xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Canada West (Calgary) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric m6g large.search - General purpose - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Canada West (Calgary) (vCPU: 2, Memory (GiB): 8) 🌎
+  - Region added for metric m6g 4xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Canada West (Calgary) (vCPU: 16, Memory (GiB): 64) 🌎
+  - Region added for metric m6g large.search - General purpose - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Canada West (Calgary) (vCPU: 2, Memory (GiB): 8) 🌎
+  - Region added for metric r6g 2xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Canada West (Calgary) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric c6g 12xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Canada West (Calgary) (vCPU: 48, Memory (GiB): 96) 🌎
+  - Region added for metric c6g 12xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Canada West (Calgary) (vCPU: 48, Memory (GiB): 96) 🌎
+  - Region added for metric r6g large.search - Memory optimized - OnDemand - EBS Only - - - Hourly Cost: Canada West (Calgary) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric c6g 2xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Canada West (Calgary) (vCPU: 8, Memory (GiB): 16) 🌎
+  - Region added for metric m6g 2xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Canada West (Calgary) (vCPU: 8, Memory (GiB): 32) 🌎
+  - Region added for metric c6g xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Canada West (Calgary) (vCPU: 4, Memory (GiB): 8) 🌎
+  - Region added for metric r6g 8xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Canada West (Calgary) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric r6g 2xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Canada West (Calgary) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric c6g 4xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Canada West (Calgary) (vCPU: 16, Memory (GiB): 32) 🌎
+  - Region added for metric r6g xlarge.search - Memory optimized - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Canada West (Calgary) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric c6g 4xlarge.search - Compute optimized - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Canada West (Calgary) (vCPU: 16, Memory (GiB): 32) 🌎
+  - Region added for metric r6g 12xlarge.search - Memory optimized - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Canada West (Calgary) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric m6g 4xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Canada West (Calgary) (vCPU: 16, Memory (GiB): 64) 🌎
+  - Region added for metric c6g large.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Canada West (Calgary) (vCPU: 2, Memory (GiB): 4) 🌎
+  - Region added for metric r6g 4xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Canada West (Calgary) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric c6g large.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Canada West (Calgary) (vCPU: 2, Memory (GiB): 4) 🌎
+  - Region added for metric m6g large.search - General purpose - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Canada West (Calgary) (vCPU: 2, Memory (GiB): 8) 🌎
+  - Region added for metric m6g xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Canada West (Calgary) (vCPU: 4, Memory (GiB): 16) 🌎
+  - Region added for metric r6g xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Canada West (Calgary) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric c6g xlarge.search - Compute optimized - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Canada West (Calgary) (vCPU: 4, Memory (GiB): 8) 🌎
+  - Region added for metric r6g large.search - Memory optimized - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Canada West (Calgary) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric m6g xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Canada West (Calgary) (vCPU: 4, Memory (GiB): 16) 🌎
+  - Region added for metric r6g 12xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Canada West (Calgary) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric c6g 2xlarge.search - Compute optimized - OnDemand - EBS Only - - - Hourly Cost: Canada West (Calgary) (vCPU: 8, Memory (GiB): 16) 🌎
+  - Region added for metric r6g large.search - Memory optimized - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Canada West (Calgary) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric c6g 8xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Canada West (Calgary) (vCPU: 32, Memory (GiB): 64) 🌎
+  - Region added for metric c6g 12xlarge.search - Compute optimized - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Canada West (Calgary) (vCPU: 48, Memory (GiB): 96) 🌎
+  - Region added for metric m6g 4xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Canada West (Calgary) (vCPU: 16, Memory (GiB): 64) 🌎
+  - Region added for metric c6g 4xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Canada West (Calgary) (vCPU: 16, Memory (GiB): 32) 🌎
+  - Region added for metric m6g 2xlarge.search - General purpose - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Canada West (Calgary) (vCPU: 8, Memory (GiB): 32) 🌎
+  - Region added for metric r6g 4xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Canada West (Calgary) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric c6g large.search - Compute optimized - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Canada West (Calgary) (vCPU: 2, Memory (GiB): 4) 🌎
+  - Region added for metric c6g xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Canada West (Calgary) (vCPU: 4, Memory (GiB): 8) 🌎
+  - Region added for metric r6g xlarge.search - Memory optimized - OnDemand - EBS Only - - - Hourly Cost: Canada West (Calgary) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric c6g 8xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Canada West (Calgary) (vCPU: 32, Memory (GiB): 64) 🌎
+  - Region added for metric m6g 2xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Canada West (Calgary) (vCPU: 8, Memory (GiB): 32) 🌎
+  - Region added for metric m6g large.search - General purpose - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Canada West (Calgary) (vCPU: 2, Memory (GiB): 8) 🌎
+  - Region added for metric m6g 2xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Canada West (Calgary) (vCPU: 8, Memory (GiB): 32) 🌎
+  - Region added for metric c6g xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Canada West (Calgary) (vCPU: 4, Memory (GiB): 8) 🌎
+  - Region added for metric c6g 4xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Canada West (Calgary) (vCPU: 16, Memory (GiB): 32) 🌎
+  - Region added for metric c6g 2xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Canada West (Calgary) (vCPU: 8, Memory (GiB): 16) 🌎
+  - Region added for metric c6g large.search - Compute optimized - OnDemand - EBS Only - - - Hourly Cost: Canada West (Calgary) (vCPU: 2, Memory (GiB): 4) 🌎
+  - Region added for metric r6g large.search - Memory optimized - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Canada West (Calgary) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric c6g large.search - Compute optimized - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Canada West (Calgary) (vCPU: 2, Memory (GiB): 4) 🌎
+  - Region added for metric m6g 2xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Canada West (Calgary) (vCPU: 8, Memory (GiB): 32) 🌎
+  - Region added for metric r6g large.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Canada West (Calgary) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric c6g 12xlarge.search - Compute optimized - OnDemand - EBS Only - - - Hourly Cost: Canada West (Calgary) (vCPU: 48, Memory (GiB): 96) 🌎
+  - Region added for metric r6g xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Canada West (Calgary) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric c6g 8xlarge.search - Compute optimized - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Canada West (Calgary) (vCPU: 32, Memory (GiB): 64) 🌎
+  - Region added for metric m6g xlarge.search - General purpose - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Canada West (Calgary) (vCPU: 4, Memory (GiB): 16) 🌎
+  - Region added for metric m6g 8xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Canada West (Calgary) (vCPU: 32, Memory (GiB): 128) 🌎
+  - Region added for metric r6g 2xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Canada West (Calgary) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric r6g 8xlarge.search - Memory optimized - OnDemand - EBS Only - - - Hourly Cost: Canada West (Calgary) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric c6g 2xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Canada West (Calgary) (vCPU: 8, Memory (GiB): 16) 🌎
+  - Region added for metric c6g xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Canada West (Calgary) (vCPU: 4, Memory (GiB): 8) 🌎
+  - Region added for metric r6g large.search - Memory optimized - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Canada West (Calgary) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric r6g 12xlarge.search - Memory optimized - OnDemand - EBS Only - - - Hourly Cost: Canada West (Calgary) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric r6g large.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Canada West (Calgary) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric c6g 4xlarge.search - Compute optimized - OnDemand - EBS Only - - - Hourly Cost: Canada West (Calgary) (vCPU: 16, Memory (GiB): 32) 🌎
+  - Region added for metric r6g 2xlarge.search - Memory optimized - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Canada West (Calgary) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric m6g large.search - General purpose - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Canada West (Calgary) (vCPU: 2, Memory (GiB): 8) 🌎
+  - Region added for metric r6g 8xlarge.search - Memory optimized - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Canada West (Calgary) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric c6g large.search - Compute optimized - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Canada West (Calgary) (vCPU: 2, Memory (GiB): 4) 🌎
+  - Region added for metric r6g 2xlarge.search - Memory optimized - OnDemand - EBS Only - - - Hourly Cost: Canada West (Calgary) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric r6g 2xlarge.search - Memory optimized - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Canada West (Calgary) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric c6g 12xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Canada West (Calgary) (vCPU: 48, Memory (GiB): 96) 🌎
+  - Region added for metric m6g xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Canada West (Calgary) (vCPU: 4, Memory (GiB): 16) 🌎
+  - Region added for metric m6g large.search - General purpose - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Canada West (Calgary) (vCPU: 2, Memory (GiB): 8) 🌎
+  - Region added for metric m6g 4xlarge.search - General purpose - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Canada West (Calgary) (vCPU: 16, Memory (GiB): 64) 🌎
+  - Region added for metric m6g 4xlarge.search - General purpose - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Canada West (Calgary) (vCPU: 16, Memory (GiB): 64) 🌎
+  - Region added for metric r6g 2xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Canada West (Calgary) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric r6g 8xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Canada West (Calgary) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric c6g 4xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Canada West (Calgary) (vCPU: 16, Memory (GiB): 32) 🌎
+  - Region added for metric r6g 8xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Canada West (Calgary) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric m6g 12xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Canada West (Calgary) (vCPU: 48, Memory (GiB): 192) 🌎
+  - Region added for metric c6g large.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Canada West (Calgary) (vCPU: 2, Memory (GiB): 4) 🌎
+  - Region added for metric c6g xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Canada West (Calgary) (vCPU: 4, Memory (GiB): 8) 🌎
+  - Region added for metric c6g xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Canada West (Calgary) (vCPU: 4, Memory (GiB): 8) 🌎
+  - Region added for metric c6g large.search - Compute optimized - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Canada West (Calgary) (vCPU: 2, Memory (GiB): 4) 🌎
+  - Region added for metric r6g xlarge.search - Memory optimized - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Canada West (Calgary) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric c6g 2xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Canada West (Calgary) (vCPU: 8, Memory (GiB): 16) 🌎
+  - Region added for metric r6g large.search - Memory optimized - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Canada West (Calgary) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric c6g xlarge.search - Compute optimized - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Canada West (Calgary) (vCPU: 4, Memory (GiB): 8) 🌎
+  - Region added for metric r6g xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Canada West (Calgary) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric c6g xlarge.search - Compute optimized - OnDemand - EBS Only - - - Hourly Cost: Canada West (Calgary) (vCPU: 4, Memory (GiB): 8) 🌎
+  - Region added for metric r6g 8xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Canada West (Calgary) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric r6g 8xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Canada West (Calgary) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric c6g 8xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Canada West (Calgary) (vCPU: 32, Memory (GiB): 64) 🌎
+  - Region added for metric r6g 4xlarge.search - Memory optimized - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Canada West (Calgary) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric c6g 2xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Canada West (Calgary) (vCPU: 8, Memory (GiB): 16) 🌎
+  - Region added for metric c6g 8xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Canada West (Calgary) (vCPU: 32, Memory (GiB): 64) 🌎
+  - Region added for metric c6g large.search - Compute optimized - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Canada West (Calgary) (vCPU: 2, Memory (GiB): 4) 🌎
+  - Region added for metric m6g 8xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Canada West (Calgary) (vCPU: 32, Memory (GiB): 128) 🌎
+  - Region added for metric r6g 8xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Canada West (Calgary) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric r6g 12xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Canada West (Calgary) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric m6g 4xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Canada West (Calgary) (vCPU: 16, Memory (GiB): 64) 🌎
+  - Region added for metric m6g 2xlarge.search - General purpose - OnDemand - EBS Only - - - Hourly Cost: Canada West (Calgary) (vCPU: 8, Memory (GiB): 32) 🌎
+  - Region added for metric c6g 4xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Canada West (Calgary) (vCPU: 16, Memory (GiB): 32) 🌎
+
+
 ## 2025-05-28 23:26
 
 **Modified services:**

@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "medicalimaging",
         "accessType": "publish",
-        "esIndex": "plc-medicalimaging-usd-20250527175710",
-        "hawkFilePublicationDate": "2025-05-27T17:57:10Z",
-        "ETLIngestionTriggerDate": "2025-05-27T17:57:10Z",
+        "esIndex": "plc-medicalimaging-usd-20250529162135",
+        "hawkFilePublicationDate": "2025-05-29T16:21:35Z",
+        "ETLIngestionTriggerDate": "2025-05-29T16:21:35Z",
         "currencyCode": "USD",
         "source": "medicalimaging",
         "isMapped": "true"
