@@ -1,3 +1,19 @@
+## 2025-05-30 07:26
+
+**Modified services:**
+
+- [elasticmapreduce](processed/elasticmapreduce.json)
+  - Region added for metric EMR WAL WriteRequestGiB: EU (London) 🌎
+  - Region added for metric EMR WAL WriteRequestGiB: Canada (Central) 🌎
+  - Region added for metric EMR WAL WriteRequestGiB: Asia Pacific (Hong Kong) 🌎
+  - Region added for metric EMR WAL ReadRequestGiB: EU (London) 🌎
+  - Region added for metric EMR WAL ReadRequestGiB: Canada (Central) 🌎
+  - Region added for metric EMR WAL ReadRequestGiB: Asia Pacific (Hong Kong) 🌎
+  - Region added for metric EMR WAL WALHours: EU (London) 🌎
+  - Region added for metric EMR WAL WALHours: Canada (Central) 🌎
+  - Region added for metric EMR WAL WALHours: Asia Pacific (Hong Kong) 🌎
+
+
 ## 2025-05-29 22:26
 
 **Modified services:**
