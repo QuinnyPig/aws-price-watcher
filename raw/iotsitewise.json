@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "iotsitewise",
         "accessType": "publish",
-        "esIndex": "plc-iotsitewise-usd-20241230201155",
+        "esIndex": "plc-iotsitewise-usd-20250530155914",
         "hawkFilePublicationDate": "2024-11-18T19:40:47Z",
-        "ETLIngestionTriggerDate": "2024-12-30T20:11:55Z",
+        "ETLIngestionTriggerDate": "2025-05-30T15:59:14Z",
         "currencyCode": "USD",
         "source": "iotsitewise",
         "isMapped": "true"
