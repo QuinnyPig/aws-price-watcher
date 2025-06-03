@@ -1,3 +1,22 @@
+## 2025-06-03 20:27
+
+**Modified services:**
+
+- [ec2](processed/ec2.json)
+  - Region added for metric OnDemand Linux-instancetype-c7a.2xlarge: EU (London) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7a.12xlarge: EU (London) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7a.32xlarge: EU (London) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7a.8xlarge: EU (London) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7a.large: EU (London) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7a.24xlarge: EU (London) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7a.4xlarge: EU (London) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7a.xlarge: EU (London) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7a.medium: EU (London) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7a.metal-48xl: EU (London) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7a.16xlarge: EU (London) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7a.48xlarge: EU (London) 🌎
+
+
 ## 2025-06-03 18:28
 
 **Modified services:**

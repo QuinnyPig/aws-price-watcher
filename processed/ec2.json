@@ -4791,6 +4791,7 @@
         "US East (N. Virginia)": "0.4105600000",
         "EU (Stockholm)": "0.4395200000",
         "EU (Spain)": "0.4636800000",
+        "EU (London)": "0.4878400000",
         "EU (Ireland)": "0.4404800000",
         "EU (Frankfurt)": "0.4685200000",
         "Asia Pacific (Tokyo)": "0.5168000000"
@@ -4823,6 +4824,7 @@
         "US East (N. Virginia)": "2.4633600000",
         "EU (Stockholm)": "2.6371200000",
         "EU (Spain)": "2.7820800000",
+        "EU (London)": "2.9270400000",
         "EU (Ireland)": "2.6428800000",
         "EU (Frankfurt)": "2.8111200000",
         "Asia Pacific (Tokyo)": "3.1008000000"
@@ -5157,6 +5159,7 @@
         "US East (N. Virginia)": "6.5689600000",
         "EU (Stockholm)": "7.0323200000",
         "EU (Spain)": "7.4188800000",
+        "EU (London)": "7.8054400000",
         "EU (Ireland)": "7.0476800000",
         "EU (Frankfurt)": "7.4963200000",
         "Asia Pacific (Tokyo)": "8.2688000000"
@@ -5196,6 +5199,7 @@
         "US East (N. Virginia)": "1.6422400000",
         "EU (Stockholm)": "1.7580800000",
         "EU (Spain)": "1.8547200000",
+        "EU (London)": "1.9513600000",
         "EU (Ireland)": "1.7619200000",
         "EU (Frankfurt)": "1.8740800000",
         "Asia Pacific (Tokyo)": "2.0672000000"
@@ -5961,6 +5965,7 @@
         "US East (N. Virginia)": "0.1026400000",
         "EU (Stockholm)": "0.1098800000",
         "EU (Spain)": "0.1159200000",
+        "EU (London)": "0.1219600000",
         "EU (Ireland)": "0.1101200000",
         "EU (Frankfurt)": "0.1171300000",
         "Asia Pacific (Tokyo)": "0.1292000000"
@@ -7419,6 +7424,7 @@
         "US East (N. Virginia)": "4.9267200000",
         "EU (Stockholm)": "5.2742400000",
         "EU (Spain)": "5.5641600000",
+        "EU (London)": "5.8540800000",
         "EU (Ireland)": "5.2857600000",
         "EU (Frankfurt)": "5.6222400000",
         "Asia Pacific (Tokyo)": "6.2016000000"
@@ -10517,6 +10523,7 @@
         "US East (N. Virginia)": "0.8211200000",
         "EU (Stockholm)": "0.8790400000",
         "EU (Spain)": "0.9273600000",
+        "EU (London)": "0.9756800000",
         "EU (Ireland)": "0.8809600000",
         "EU (Frankfurt)": "0.9370400000",
         "Asia Pacific (Tokyo)": "1.0336000000"
@@ -11280,6 +11287,7 @@
         "US East (N. Virginia)": "0.2052800000",
         "EU (Stockholm)": "0.2197600000",
         "EU (Spain)": "0.2318400000",
+        "EU (London)": "0.2439200000",
         "EU (Ireland)": "0.2202400000",
         "EU (Frankfurt)": "0.2342600000",
         "Asia Pacific (Tokyo)": "0.2584000000"
@@ -12144,6 +12152,7 @@
         "US East (N. Virginia)": "0.0513200000",
         "EU (Stockholm)": "0.0549400000",
         "EU (Spain)": "0.0579600000",
+        "EU (London)": "0.0609800000",
         "EU (Ireland)": "0.0550600000",
         "EU (Frankfurt)": "0.0585700000",
         "Asia Pacific (Tokyo)": "0.0646000000"
@@ -13294,6 +13303,7 @@
         "US East (N. Virginia)": "9.8534400000",
         "EU (Stockholm)": "10.5484800000",
         "EU (Spain)": "11.1283200000",
+        "EU (London)": "11.7081600000",
         "EU (Ireland)": "10.5715200000",
         "EU (Frankfurt)": "11.2444800000",
         "Asia Pacific (Tokyo)": "12.4032000000"
@@ -14134,6 +14144,7 @@
         "US East (N. Virginia)": "3.2844800000",
         "EU (Stockholm)": "3.5161600000",
         "EU (Spain)": "3.7094400000",
+        "EU (London)": "3.9027200000",
         "EU (Ireland)": "3.5238400000",
         "EU (Frankfurt)": "3.7481600000",
         "Asia Pacific (Tokyo)": "4.1344000000"
@@ -17852,6 +17863,7 @@
         "US East (N. Virginia)": "9.8534400000",
         "EU (Stockholm)": "10.5484800000",
         "EU (Spain)": "11.1283200000",
+        "EU (London)": "11.7081600000",
         "EU (Ireland)": "10.5715200000",
         "EU (Frankfurt)": "11.2444800000",
         "Asia Pacific (Tokyo)": "12.4032000000"
