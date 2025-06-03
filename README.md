@@ -1,3 +1,20 @@
+## 2025-06-03 18:28
+
+**Modified services:**
+
+- [ec2](processed/ec2.json)
+  - Region added for metric OnDemand Linux-instancetype-i4i.2xlarge: EU (Spain) 🌎
+  - Region added for metric OnDemand Linux-instancetype-i4i.8xlarge: EU (Spain) 🌎
+  - Region added for metric OnDemand Linux-instancetype-i4i.12xlarge: EU (Spain) 🌎
+  - Region added for metric OnDemand Linux-instancetype-i4i.xlarge: EU (Spain) 🌎
+  - Region added for metric OnDemand Linux-instancetype-i4i.32xlarge: EU (Spain) 🌎
+  - Region added for metric OnDemand Linux-instancetype-i4i.24xlarge: EU (Spain) 🌎
+  - Region added for metric OnDemand Linux-instancetype-i4i.4xlarge: EU (Spain) 🌎
+  - Region added for metric OnDemand Linux-instancetype-i4i.metal: EU (Spain) 🌎
+  - Region added for metric OnDemand Linux-instancetype-i4i.large: EU (Spain) 🌎
+  - Region added for metric OnDemand Linux-instancetype-i4i.16xlarge: EU (Spain) 🌎
+
+
 ## 2025-05-30 07:26
 
 **Modified services:**

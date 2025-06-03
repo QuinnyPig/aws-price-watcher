@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "healthlake",
         "accessType": "publish",
-        "esIndex": "plc-healthlake-usd-20241002235023",
-        "hawkFilePublicationDate": "2024-09-27T00:28:19Z",
-        "ETLIngestionTriggerDate": "2024-10-02T23:50:23Z",
+        "esIndex": "plc-healthlake-usd-20250603181155",
+        "hawkFilePublicationDate": "2025-06-03T18:11:55Z",
+        "ETLIngestionTriggerDate": "2025-06-03T18:11:55Z",
         "currencyCode": "USD",
         "source": "healthlake",
         "isMapped": "true"
