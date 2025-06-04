@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "apigateway",
         "accessType": "publish",
-        "esIndex": "plc-apigateway-usd-20250310215126",
-        "hawkFilePublicationDate": "2025-03-10T21:51:26Z",
-        "ETLIngestionTriggerDate": "2025-03-10T21:51:26Z",
+        "esIndex": "plc-apigateway-usd-20250604022052",
+        "hawkFilePublicationDate": "2025-06-04T02:20:52Z",
+        "ETLIngestionTriggerDate": "2025-06-04T02:20:52Z",
         "currencyCode": "USD",
         "source": "apigateway",
         "isMapped": "true"
@@ -1211,6 +1211,11 @@
             }
         },
         "Mexico (Central)": {
+            "17BMklOYtN6QNExIJzvqJe-3SIArEWuFYJlTs89VHS8": {
+                "rateCode": "M82WN48CVF3BYA2Y.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000002625",
+                "RegionlessRateCode": "17BMklOYtN6QNExIJzvqJe-3SIArEWuFYJlTs89VHS8"
+            },
             "6C1YbXTH6SnnJcR8_2DGNkuowJEWkcIx2HsuAMz3-dI": {
                 "rateCode": "MCVKXSQQSXXW6J8H.JRTCKXETXF.6YS6EN2CT7",
                 "price": "1.9950000000",
@@ -1220,6 +1225,11 @@
                 "rateCode": "RM6XRFD38ZX2AGXB.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.2625000000",
                 "RegionlessRateCode": "8zRgSwz_tLJxEh8GaPwbtszi1tF42wZ1OE_5AlY7EcM"
+            },
+            "EsNsntvz-h_bUptPb9ypArPJVJTRZvfnbXwiPEzxLc4": {
+                "rateCode": "B7J96M8FGWZTHK4R.JRTCKXETXF.AGD8ADSNTG",
+                "price": "0.0000008400",
+                "RegionlessRateCode": "EsNsntvz-h_bUptPb9ypArPJVJTRZvfnbXwiPEzxLc4"
             },
             "F-7Dn5O2ojXLIBoX_nstB_acwIviegj46y9UISa2yUY": {
                 "rateCode": "4JNNKH4QE6H4ECXF.JRTCKXETXF.6YS6EN2CT7",
@@ -1251,6 +1261,11 @@
                 "price": "0.5250000000",
                 "RegionlessRateCode": "TRfIorNlMPAHGPuMB-wPncaFn8pUKg-p-ChsWLHzHRI"
             },
+            "pBYeYnXqZGDVg5UgXo8MiCJBPMyiX-Q_epQ-q74RSjM": {
+                "rateCode": "B7J96M8FGWZTHK4R.JRTCKXETXF.ZN357FEBCK",
+                "price": "0.0000010500",
+                "RegionlessRateCode": "pBYeYnXqZGDVg5UgXo8MiCJBPMyiX-Q_epQ-q74RSjM"
+            },
             "tZ-gCjRRUN_dK1b9XKnM_zWZcXD7ir1aWUpRq5PCTyM": {
                 "rateCode": "K8C4RMXKM7SW76VP.JRTCKXETXF.DRE2JBTXBV",
                 "price": "0.0000029400",
@@ -1271,6 +1286,11 @@
                 "price": "0.0399000000",
                 "RegionlessRateCode": "ytGEULNJE6beUS6QQy3C4qHStyZyPcUTdAwj2PlU7wg"
             },
+            "WebSocket Connection Minutes": {
+                "rateCode": "M82WN48CVF3BYA2Y.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000002625",
+                "RegionlessRateCode": "17BMklOYtN6QNExIJzvqJe-3SIArEWuFYJlTs89VHS8"
+            },
             "Caching Memory Size 118": {
                 "rateCode": "MCVKXSQQSXXW6J8H.JRTCKXETXF.6YS6EN2CT7",
                 "price": "1.9950000000",
@@ -1280,6 +1300,11 @@
                 "rateCode": "RM6XRFD38ZX2AGXB.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.2625000000",
                 "RegionlessRateCode": "8zRgSwz_tLJxEh8GaPwbtszi1tF42wZ1OE_5AlY7EcM"
+            },
+            "WebSocket Messages Messages over 1 billion": {
+                "rateCode": "B7J96M8FGWZTHK4R.JRTCKXETXF.AGD8ADSNTG",
+                "price": "0.0000008400",
+                "RegionlessRateCode": "EsNsntvz-h_bUptPb9ypArPJVJTRZvfnbXwiPEzxLc4"
             },
             "Caching Memory Size 58 2": {
                 "rateCode": "4JNNKH4QE6H4ECXF.JRTCKXETXF.6YS6EN2CT7",
@@ -1310,6 +1335,11 @@
                 "rateCode": "DZCX7CMDGYCBGZYN.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.5250000000",
                 "RegionlessRateCode": "TRfIorNlMPAHGPuMB-wPncaFn8pUKg-p-ChsWLHzHRI"
+            },
+            "WebSocket Messages Messages first 1 billion": {
+                "rateCode": "B7J96M8FGWZTHK4R.JRTCKXETXF.ZN357FEBCK",
+                "price": "0.0000010500",
+                "RegionlessRateCode": "pBYeYnXqZGDVg5UgXo8MiCJBPMyiX-Q_epQ-q74RSjM"
             },
             "API Calls Number of Request Next 667 million": {
                 "rateCode": "K8C4RMXKM7SW76VP.JRTCKXETXF.DRE2JBTXBV",

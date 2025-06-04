@@ -1,3 +1,13 @@
+## 2025-06-04 02:53
+
+**Modified services:**
+
+- [apigateway](processed/apigateway.json)
+  - Region added for metric WebSocket Connection Minutes: Mexico (Central) 🌎
+  - Region added for metric WebSocket Messages Messages over 1 billion: Mexico (Central) 🌎
+  - Region added for metric WebSocket Messages Messages first 1 billion: Mexico (Central) 🌎
+
+
 ## 2025-06-03 20:27
 
 **Modified services:**
