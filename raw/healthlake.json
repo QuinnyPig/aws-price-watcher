@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "healthlake",
         "accessType": "publish",
-        "esIndex": "plc-healthlake-usd-20250603181155",
-        "hawkFilePublicationDate": "2025-06-03T18:11:55Z",
-        "ETLIngestionTriggerDate": "2025-06-03T18:11:55Z",
+        "esIndex": "plc-healthlake-usd-20250604214035",
+        "hawkFilePublicationDate": "2025-06-04T21:40:35Z",
+        "ETLIngestionTriggerDate": "2025-06-04T21:40:35Z",
         "currencyCode": "USD",
         "source": "healthlake",
         "isMapped": "true"
@@ -376,6 +376,98 @@
             "IntegratedMedicalNLP per Units": {
                 "rateCode": "7JJMNV69PTUKBZZM.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0011500000",
+                "RegionlessRateCode": "yClK7v0BDyZmR_LeVsI4h8wUc64LLWpZuHFWapqFWhU"
+            }
+        },
+        "EU (Ireland)": {
+            "0XUxQG4wnaLCjvGCsUsNg08bCnl2HKT-JBro-IVtTpk": {
+                "rateCode": "K5BFWG8GH42J4RH5.JRTCKXETXF.XCQWNNXBHR",
+                "price": "0.2675000000",
+                "RegionlessRateCode": "0XUxQG4wnaLCjvGCsUsNg08bCnl2HKT-JBro-IVtTpk"
+            },
+            "BW4OXbIYzFGbTdeccBqM-oszAg2hjhRaVZKxntT-Jgk": {
+                "rateCode": "VJPQYXK6N4FBDDC4.JRTCKXETXF.DCVF9UBGH9",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "BW4OXbIYzFGbTdeccBqM-oszAg2hjhRaVZKxntT-Jgk"
+            },
+            "LOhg6ByYl64YYfytYokjyaGBTjLGTjGwzUgGZU1SSa4": {
+                "rateCode": "36J8WZZP6N9AJYFF.JRTCKXETXF.XCQWNNXBHR",
+                "price": "0.3959000000",
+                "RegionlessRateCode": "LOhg6ByYl64YYfytYokjyaGBTjLGTjGwzUgGZU1SSa4"
+            },
+            "ON0uVAKlOcQnq0WkkNVtm6gw4SNMmbez4jTXYeps1nk": {
+                "rateCode": "VJPQYXK6N4FBDDC4.JRTCKXETXF.75Z7YZYRPB",
+                "price": "0.0000051360",
+                "RegionlessRateCode": "ON0uVAKlOcQnq0WkkNVtm6gw4SNMmbez4jTXYeps1nk"
+            },
+            "eUZ0WyQXxHWp8QFmXTrRAXBg497rCqo251b_6a2qclA": {
+                "rateCode": "NESWQC28WQ8HXEYP.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2033000000",
+                "RegionlessRateCode": "eUZ0WyQXxHWp8QFmXTrRAXBg497rCqo251b_6a2qclA"
+            },
+            "h5ZSqfsgUDnbZ2B27pEv2ewf9GsJNpvkzirgS-aHoNA": {
+                "rateCode": "K5BFWG8GH42J4RH5.JRTCKXETXF.DGNP37V5JW",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "h5ZSqfsgUDnbZ2B27pEv2ewf9GsJNpvkzirgS-aHoNA"
+            },
+            "nk7g1wRdlY36HxNFt9CmSSl3IZd8fM0XzGve8NGOimg": {
+                "rateCode": "5JBQ8VHDAWUEWY7V.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2889000000",
+                "RegionlessRateCode": "nk7g1wRdlY36HxNFt9CmSSl3IZd8fM0XzGve8NGOimg"
+            },
+            "oaThqYasjVEQ-SVT9zH0xaf3Lo-IdkIRnkCdlBj6plQ": {
+                "rateCode": "36J8WZZP6N9AJYFF.JRTCKXETXF.DGNP37V5JW",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "oaThqYasjVEQ-SVT9zH0xaf3Lo-IdkIRnkCdlBj6plQ"
+            },
+            "yClK7v0BDyZmR_LeVsI4h8wUc64LLWpZuHFWapqFWhU": {
+                "rateCode": "P832BGAK8RAUMHT8.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0010700000",
+                "RegionlessRateCode": "yClK7v0BDyZmR_LeVsI4h8wUc64LLWpZuHFWapqFWhU"
+            },
+            "FHIRDataStorage per GB-Mo from 10 to Inf": {
+                "rateCode": "K5BFWG8GH42J4RH5.JRTCKXETXF.XCQWNNXBHR",
+                "price": "0.2675000000",
+                "RegionlessRateCode": "0XUxQG4wnaLCjvGCsUsNg08bCnl2HKT-JBro-IVtTpk"
+            },
+            "FHIRQueries per Queries from 0 to 2520000": {
+                "rateCode": "VJPQYXK6N4FBDDC4.JRTCKXETXF.DCVF9UBGH9",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "BW4OXbIYzFGbTdeccBqM-oszAg2hjhRaVZKxntT-Jgk"
+            },
+            "AdvancedDataStorage per GB-Mo from 10 to Inf": {
+                "rateCode": "36J8WZZP6N9AJYFF.JRTCKXETXF.XCQWNNXBHR",
+                "price": "0.3959000000",
+                "RegionlessRateCode": "LOhg6ByYl64YYfytYokjyaGBTjLGTjGwzUgGZU1SSa4"
+            },
+            "FHIRQueries per Queries from 2520000 to Inf": {
+                "rateCode": "VJPQYXK6N4FBDDC4.JRTCKXETXF.75Z7YZYRPB",
+                "price": "0.0000051360",
+                "RegionlessRateCode": "ON0uVAKlOcQnq0WkkNVtm6gw4SNMmbez4jTXYeps1nk"
+            },
+            "FHIRDataExport per GB": {
+                "rateCode": "NESWQC28WQ8HXEYP.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2033000000",
+                "RegionlessRateCode": "eUZ0WyQXxHWp8QFmXTrRAXBg497rCqo251b_6a2qclA"
+            },
+            "FHIRDataStorage per GB-Mo from 0 to 10": {
+                "rateCode": "K5BFWG8GH42J4RH5.JRTCKXETXF.DGNP37V5JW",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "h5ZSqfsgUDnbZ2B27pEv2ewf9GsJNpvkzirgS-aHoNA"
+            },
+            "FHIRDataStore per hours": {
+                "rateCode": "5JBQ8VHDAWUEWY7V.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2889000000",
+                "RegionlessRateCode": "nk7g1wRdlY36HxNFt9CmSSl3IZd8fM0XzGve8NGOimg"
+            },
+            "AdvancedDataStorage per GB-Mo from 0 to 10": {
+                "rateCode": "36J8WZZP6N9AJYFF.JRTCKXETXF.DGNP37V5JW",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "oaThqYasjVEQ-SVT9zH0xaf3Lo-IdkIRnkCdlBj6plQ"
+            },
+            "IntegratedMedicalNLP per Units": {
+                "rateCode": "P832BGAK8RAUMHT8.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0010700000",
                 "RegionlessRateCode": "yClK7v0BDyZmR_LeVsI4h8wUc64LLWpZuHFWapqFWhU"
             }
         },

@@ -1,3 +1,19 @@
+## 2025-06-04 22:26
+
+**Modified services:**
+
+- [healthlake](processed/healthlake.json)
+  - Region added for metric FHIRDataStorage per GB-Mo from 10 to Inf: EU (Ireland) 🌎
+  - Region added for metric FHIRQueries per Queries from 0 to 2520000: EU (Ireland) 🌎
+  - Region added for metric AdvancedDataStorage per GB-Mo from 10 to Inf: EU (Ireland) 🌎
+  - Region added for metric FHIRQueries per Queries from 2520000 to Inf: EU (Ireland) 🌎
+  - Region added for metric FHIRDataExport per GB: EU (Ireland) 🌎
+  - Region added for metric FHIRDataStorage per GB-Mo from 0 to 10: EU (Ireland) 🌎
+  - Region added for metric FHIRDataStore per hours: EU (Ireland) 🌎
+  - Region added for metric AdvancedDataStorage per GB-Mo from 0 to 10: EU (Ireland) 🌎
+  - Region added for metric IntegratedMedicalNLP per Units: EU (Ireland) 🌎
+
+
 ## 2025-06-04 18:27
 
 **Modified services:**
