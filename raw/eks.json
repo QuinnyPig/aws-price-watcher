@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "eks",
         "accessType": "publish",
-        "esIndex": "plc-eks-usd-20250508175223",
-        "hawkFilePublicationDate": "2025-05-08T17:52:23Z",
-        "ETLIngestionTriggerDate": "2025-05-08T17:52:23Z",
+        "esIndex": "plc-eks-usd-20250605175632",
+        "hawkFilePublicationDate": "2025-06-05T17:56:32Z",
+        "ETLIngestionTriggerDate": "2025-06-05T17:56:32Z",
         "currencyCode": "USD",
         "source": "eks",
         "isMapped": "true"
@@ -49994,6 +49994,83 @@
             },
             "Compute per hours": {
                 "rateCode": "AE8H89UETYDDFUSK.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "kWhi1i6pyokHi6RO6pXKnPI-4WyFcOwZbCOZYJ8q0jQ"
+            }
+        },
+        "Asia Pacific (Taipei)": {
+            "5YoLxMXgy6wfkkl7raqtaUndLXKgf6J4eMKRVdLxuH8": {
+                "rateCode": "FUFWY444PNUAHAYZ.JRTCKXETXF.TYETGNHRPH",
+                "price": "0.0140000000",
+                "RegionlessRateCode": "5YoLxMXgy6wfkkl7raqtaUndLXKgf6J4eMKRVdLxuH8"
+            },
+            "6w_FyPAGh0RVjLabpghtdRLSfnxymd3WTF3CpU-cXAY": {
+                "rateCode": "K6QC53JPFGKKNYTA.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.5000000000",
+                "RegionlessRateCode": "6w_FyPAGh0RVjLabpghtdRLSfnxymd3WTF3CpU-cXAY"
+            },
+            "9gb1OX8SjeKOADncS-y7l4U4ZnhTYd6kos4tyQ40Q-8": {
+                "rateCode": "J6EAM3A7ZBWS47YR.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0455040000",
+                "RegionlessRateCode": "9gb1OX8SjeKOADncS-y7l4U4ZnhTYd6kos4tyQ40Q-8"
+            },
+            "GUGQSo1BOhuJZS0qCm3qiwYycwCn4ZSDhRDPX-k3LTY": {
+                "rateCode": "FUFWY444PNUAHAYZ.JRTCKXETXF.Z7MKTGF6VF",
+                "price": "0.0200000000",
+                "RegionlessRateCode": "GUGQSo1BOhuJZS0qCm3qiwYycwCn4ZSDhRDPX-k3LTY"
+            },
+            "Rkof4wKaBwfWbQInLzsnOgnLbpFmxvek-6ghmVdlO3g": {
+                "rateCode": "FUFWY444PNUAHAYZ.JRTCKXETXF.QJE85AF653",
+                "price": "0.0060000000",
+                "RegionlessRateCode": "Rkof4wKaBwfWbQInLzsnOgnLbpFmxvek-6ghmVdlO3g"
+            },
+            "WwP9esp-TosSk9VaJG0ChIKOqWcvBab6C5zWRLfmMug": {
+                "rateCode": "T5CG2G2VMFDXNH8X.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0001197000",
+                "RegionlessRateCode": "WwP9esp-TosSk9VaJG0ChIKOqWcvBab6C5zWRLfmMug"
+            },
+            "XbLXxHzgbsEeu9FAcqrQupAbYJ8zbNt4uENdeyx9G6c": {
+                "rateCode": "FUFWY444PNUAHAYZ.JRTCKXETXF.598JQR6V47",
+                "price": "0.0100000000",
+                "RegionlessRateCode": "XbLXxHzgbsEeu9FAcqrQupAbYJ8zbNt4uENdeyx9G6c"
+            },
+            "b5zbZXCpspZTSYAkYxxyCVFpD27RJOw8k8yunoh1LEE": {
+                "rateCode": "A5YJJHZSNCT5NUNN.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0049770000",
+                "RegionlessRateCode": "b5zbZXCpspZTSYAkYxxyCVFpD27RJOw8k8yunoh1LEE"
+            },
+            "dQNUds9WX5GLm0BKcDhyyo2YEgOScEvpl4ORxiZPbic": {
+                "rateCode": "FUFWY444PNUAHAYZ.JRTCKXETXF.E6QA4N6S8T",
+                "price": "0.0080000000",
+                "RegionlessRateCode": "dQNUds9WX5GLm0BKcDhyyo2YEgOScEvpl4ORxiZPbic"
+            },
+            "kWhi1i6pyokHi6RO6pXKnPI-4WyFcOwZbCOZYJ8q0jQ": {
+                "rateCode": "B42Z4W8JYKU572TJ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "kWhi1i6pyokHi6RO6pXKnPI-4WyFcOwZbCOZYJ8q0jQ"
+            },
+            "Compute ExtendedSupport per Hours": {
+                "rateCode": "K6QC53JPFGKKNYTA.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.5000000000",
+                "RegionlessRateCode": "6w_FyPAGh0RVjLabpghtdRLSfnxymd3WTF3CpU-cXAY"
+            },
+            "Fargate perCPU per hours": {
+                "rateCode": "J6EAM3A7ZBWS47YR.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0455040000",
+                "RegionlessRateCode": "9gb1OX8SjeKOADncS-y7l4U4ZnhTYd6kos4tyQ40Q-8"
+            },
+            "Fargate perGB per hours": {
+                "rateCode": "A5YJJHZSNCT5NUNN.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0049770000",
+                "RegionlessRateCode": "b5zbZXCpspZTSYAkYxxyCVFpD27RJOw8k8yunoh1LEE"
+            },
+            "Compute per Hours": {
+                "rateCode": "B42Z4W8JYKU572TJ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "kWhi1i6pyokHi6RO6pXKnPI-4WyFcOwZbCOZYJ8q0jQ"
+            },
+            "Compute per hours": {
+                "rateCode": "B42Z4W8JYKU572TJ.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.1000000000",
                 "RegionlessRateCode": "kWhi1i6pyokHi6RO6pXKnPI-4WyFcOwZbCOZYJ8q0jQ"
             }

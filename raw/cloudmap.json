@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "cloudmap",
         "accessType": "publish",
-        "esIndex": "plc-cloudmap-usd-20250313222546",
-        "hawkFilePublicationDate": "2025-03-13T22:25:48Z",
-        "ETLIngestionTriggerDate": "2025-03-13T22:25:46Z",
+        "esIndex": "plc-cloudmap-usd-20250605175523",
+        "hawkFilePublicationDate": "2025-06-05T17:55:23Z",
+        "ETLIngestionTriggerDate": "2025-06-05T17:55:23Z",
         "currencyCode": "USD",
         "source": "cloudmap",
         "isMapped": "true"
@@ -679,6 +679,38 @@
             },
             "API Call": {
                 "rateCode": "GN9PYSMNNHUYR922.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000010000",
+                "RegionlessRateCode": "wCHppJ4T2yn0-WrLTpKPMMDXPdLSrXh85U0jznpCRP4"
+            }
+        },
+        "Asia Pacific (Taipei)": {
+            "EHo4EPJSTNYEwBsf17VL_x9lJBEWpSUWdMYcKcZfnzw": {
+                "rateCode": "HW8AW5PM9YSUAVP7.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000010000",
+                "RegionlessRateCode": "EHo4EPJSTNYEwBsf17VL_x9lJBEWpSUWdMYcKcZfnzw"
+            },
+            "blDG2fslWCwT9zOWiwcItoRwpv3slcIbjRg5FCTCbOo": {
+                "rateCode": "87VB4F58DXVFY7ZG.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "blDG2fslWCwT9zOWiwcItoRwpv3slcIbjRg5FCTCbOo"
+            },
+            "wCHppJ4T2yn0-WrLTpKPMMDXPdLSrXh85U0jznpCRP4": {
+                "rateCode": "DQ5XZQUSZFBHR7VK.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000010000",
+                "RegionlessRateCode": "wCHppJ4T2yn0-WrLTpKPMMDXPdLSrXh85U0jznpCRP4"
+            },
+            "API Call DIR-API-Calls": {
+                "rateCode": "HW8AW5PM9YSUAVP7.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000010000",
+                "RegionlessRateCode": "EHo4EPJSTNYEwBsf17VL_x9lJBEWpSUWdMYcKcZfnzw"
+            },
+            "Resource": {
+                "rateCode": "87VB4F58DXVFY7ZG.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1000000000",
+                "RegionlessRateCode": "blDG2fslWCwT9zOWiwcItoRwpv3slcIbjRg5FCTCbOo"
+            },
+            "API Call": {
+                "rateCode": "DQ5XZQUSZFBHR7VK.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0000010000",
                 "RegionlessRateCode": "wCHppJ4T2yn0-WrLTpKPMMDXPdLSrXh85U0jznpCRP4"
             }

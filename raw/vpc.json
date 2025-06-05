@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "vpc",
         "accessType": "publish",
-        "esIndex": "plc-vpc-usd-20250604192043",
-        "hawkFilePublicationDate": "2025-06-04T19:20:43Z",
-        "ETLIngestionTriggerDate": "2025-06-04T19:20:43Z",
+        "esIndex": "plc-vpc-usd-20250605175712",
+        "hawkFilePublicationDate": "2025-06-05T17:57:12Z",
+        "ETLIngestionTriggerDate": "2025-06-05T17:57:12Z",
         "currencyCode": "USD",
         "source": "vpc",
         "isMapped": "true"
@@ -9443,6 +9443,233 @@
             },
             "Charge for per GB data processed by AWS Transit Gateways for AWS Direct Connect Gateway attachments per GigaBytes": {
                 "rateCode": "8AA8PF533REAXWZH.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0200000000",
+                "RegionlessRateCode": "wQKjUIYwhwtnWdhZe6LwfmAYj2zZBaW8qur7L29R-8s"
+            }
+        },
+        "Asia Pacific (Taipei)": {
+            "9JrEKbjMPnJm8Ci76DFyIB4nb2iC-wdK4l2rzXZnhjQ": {
+                "rateCode": "K4P6H8F9MXZBHBBN.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0162000000",
+                "RegionlessRateCode": "9JrEKbjMPnJm8Ci76DFyIB4nb2iC-wdK4l2rzXZnhjQ"
+            },
+            "9e222B4X1Cck41p3EfNSwGHf-vbR_nov1T2aSubsEYA": {
+                "rateCode": "AXX5EC6588U4T94R.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0200000000",
+                "RegionlessRateCode": "9e222B4X1Cck41p3EfNSwGHf-vbR_nov1T2aSubsEYA"
+            },
+            "B2Ei9XNOnhKWFOwpUwfGFeYp5VkKOjTniscEoAmBJ5k": {
+                "rateCode": "2B3DZNQ3P8R34E3N.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0126000000",
+                "RegionlessRateCode": "B2Ei9XNOnhKWFOwpUwfGFeYp5VkKOjTniscEoAmBJ5k"
+            },
+            "KwQQENobJz5M2MxvmGphiFr6OTLII_8uGwTghmiHsYs": {
+                "rateCode": "7FUVF4VTBK8QFEEP.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0100000000",
+                "RegionlessRateCode": "KwQQENobJz5M2MxvmGphiFr6OTLII_8uGwTghmiHsYs"
+            },
+            "LLAEIwEqB7Ui3dnQbhN-HQjS5LwQHiMG4aXwC_W79zs": {
+                "rateCode": "DANKC64SAKJBFWWK.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0080000000",
+                "RegionlessRateCode": "LLAEIwEqB7Ui3dnQbhN-HQjS5LwQHiMG4aXwC_W79zs"
+            },
+            "Mqp7nRj9jyNvSEj4Zs1zrcGTY5fOfotaVglys4IKB_s": {
+                "rateCode": "UQSSAHX9R3CK378J.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0700000000",
+                "RegionlessRateCode": "Mqp7nRj9jyNvSEj4Zs1zrcGTY5fOfotaVglys4IKB_s"
+            },
+            "O8_Pzo5YwIoCLOAe25w3rrGSueRhcWMbBAy40tipVjM": {
+                "rateCode": "XXS82WFG7PKCUYZU.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0126000000",
+                "RegionlessRateCode": "O8_Pzo5YwIoCLOAe25w3rrGSueRhcWMbBAy40tipVjM"
+            },
+            "RipZZZKSBRALlPjKpWVh8xJgEl1yzhwwWJDhhEaqlx0": {
+                "rateCode": "VW9AHZ3PA8KPB5D7.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0700000000",
+                "RegionlessRateCode": "RipZZZKSBRALlPjKpWVh8xJgEl1yzhwwWJDhhEaqlx0"
+            },
+            "Tqbq4NsTPpNjQAuKdJcumFAvifu-A3UlvVb7v_27IHY": {
+                "rateCode": "QCHPSBPSRJQUFFW5.JRTCKXETXF.RBMR72YW69",
+                "price": "0.0060000000",
+                "RegionlessRateCode": "Tqbq4NsTPpNjQAuKdJcumFAvifu-A3UlvVb7v_27IHY"
+            },
+            "VU8HJ3uS475UL_hC8_hjywMIipBE1cdlBRzxAmx3G_s": {
+                "rateCode": "V6JZ5VR7D29F5ZQG.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0200000000",
+                "RegionlessRateCode": "VU8HJ3uS475UL_hC8_hjywMIipBE1cdlBRzxAmx3G_s"
+            },
+            "Y7KwlAt9N15lwPpQwpkLUblr-i4jSDIlafwUAkPHPxg": {
+                "rateCode": "4PEZPGZS9G9ZDPX2.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0500000000",
+                "RegionlessRateCode": "Y7KwlAt9N15lwPpQwpkLUblr-i4jSDIlafwUAkPHPxg"
+            },
+            "YWms5U1MHZdMGC9HWUUPt3zl8c-4L_Zi5aCrEHibyyw": {
+                "rateCode": "QCHPSBPSRJQUFFW5.JRTCKXETXF.SW9U2ZKBYX",
+                "price": "0.0040000000",
+                "RegionlessRateCode": "YWms5U1MHZdMGC9HWUUPt3zl8c-4L_Zi5aCrEHibyyw"
+            },
+            "cyeDIvoqyjPfEVewkrrSGBoDoK35VQUNwYxg7WGE34w": {
+                "rateCode": "6V427G5TWCEA2AUQ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0700000000",
+                "RegionlessRateCode": "cyeDIvoqyjPfEVewkrrSGBoDoK35VQUNwYxg7WGE34w"
+            },
+            "enBL9w78IlUB4rLQv7C_wCmsA4Vo5og-FQEZN4yF1Yk": {
+                "rateCode": "CNQWDSEXM99YD3XN.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0050000000",
+                "RegionlessRateCode": "enBL9w78IlUB4rLQv7C_wCmsA4Vo5og-FQEZN4yF1Yk"
+            },
+            "k8oA2bG_x4Vd_eSFxmpc6LjDAcCFv1JR1__EyAxaonA": {
+                "rateCode": "HQNJ8WMVR2X655HK.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0700000000",
+                "RegionlessRateCode": "k8oA2bG_x4Vd_eSFxmpc6LjDAcCFv1JR1__EyAxaonA"
+            },
+            "oXrJSNp7FUeFewlHJ00-FtrCM6eKL3uFx3VGjE1Z_eo": {
+                "rateCode": "QCHPSBPSRJQUFFW5.JRTCKXETXF.D7RZ6WCPVW",
+                "price": "0.0100000000",
+                "RegionlessRateCode": "oXrJSNp7FUeFewlHJ00-FtrCM6eKL3uFx3VGjE1Z_eo"
+            },
+            "r5hLPf1n-bQryiqZWYBeVgn0OdCrdrLWZQrhtED78pA": {
+                "rateCode": "4JX3XYWH9PTEN432.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0700000000",
+                "RegionlessRateCode": "r5hLPf1n-bQryiqZWYBeVgn0OdCrdrLWZQrhtED78pA"
+            },
+            "r70CIOt-qknOMghhSBApqHsd1jOCiv663UiD05myiUs": {
+                "rateCode": "JUE4N4EAJNXTX6DH.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0100000000",
+                "RegionlessRateCode": "r70CIOt-qknOMghhSBApqHsd1jOCiv663UiD05myiUs"
+            },
+            "raRs1O4ORCruh2ORL1aNMcTmbmUZ3VQSwRnpIb5TVaE": {
+                "rateCode": "V8QUJFSRF8AMZGMV.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0050000000",
+                "RegionlessRateCode": "raRs1O4ORCruh2ORL1aNMcTmbmUZ3VQSwRnpIb5TVaE"
+            },
+            "s64vH3HYPuibuvoLZfejTu_r2Bi5uoMjn-bzqWZ7hgw": {
+                "rateCode": "G65EWSUDQ3A4G9B7.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0200000000",
+                "RegionlessRateCode": "s64vH3HYPuibuvoLZfejTu_r2Bi5uoMjn-bzqWZ7hgw"
+            },
+            "t1yKi4Iu2fSu0NI2MHadRhjQhOzwtqEGoEdKizabG_A": {
+                "rateCode": "RJF4ZW264AFJD3PS.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0035000000",
+                "RegionlessRateCode": "t1yKi4Iu2fSu0NI2MHadRhjQhOzwtqEGoEdKizabG_A"
+            },
+            "wQKjUIYwhwtnWdhZe6LwfmAYj2zZBaW8qur7L29R-8s": {
+                "rateCode": "4G7MV62PCX8MWVYS.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0200000000",
+                "RegionlessRateCode": "wQKjUIYwhwtnWdhZe6LwfmAYj2zZBaW8qur7L29R-8s"
+            },
+            "Hourly charge for Traffic Mirroring Source per hour": {
+                "rateCode": "K4P6H8F9MXZBHBBN.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0162000000",
+                "RegionlessRateCode": "9JrEKbjMPnJm8Ci76DFyIB4nb2iC-wdK4l2rzXZnhjQ"
+            },
+            "Charge for per GB data processed by AWS Transit Gateway for Multicast receivers per GigaBytes": {
+                "rateCode": "AXX5EC6588U4T94R.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0200000000",
+                "RegionlessRateCode": "9e222B4X1Cck41p3EfNSwGHf-vbR_nov1T2aSubsEYA"
+            },
+            "Charge for per GB data processed by AWS Transit Gateway for Multicast receivers per GB": {
+                "rateCode": "AXX5EC6588U4T94R.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0200000000",
+                "RegionlessRateCode": "9e222B4X1Cck41p3EfNSwGHf-vbR_nov1T2aSubsEYA"
+            },
+            "Charge per GB data processed by AWS Transit Gateway for Multicast receivers per GigaBytes": {
+                "rateCode": "AXX5EC6588U4T94R.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0200000000",
+                "RegionlessRateCode": "9e222B4X1Cck41p3EfNSwGHf-vbR_nov1T2aSubsEYA"
+            },
+            "Hourly charge for AWS Gateway Load Balancer VPC Endpoint per Hrs": {
+                "rateCode": "2B3DZNQ3P8R34E3N.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0126000000",
+                "RegionlessRateCode": "B2Ei9XNOnhKWFOwpUwfGFeYp5VkKOjTniscEoAmBJ5k"
+            },
+            "Hourly charge for IPv4 address in a contiguous block of IPv4 address per Hrs": {
+                "rateCode": "DANKC64SAKJBFWWK.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0080000000",
+                "RegionlessRateCode": "LLAEIwEqB7Ui3dnQbhN-HQjS5LwQHiMG4aXwC_W79zs"
+            },
+            "Hourly charge for Transit Gateway Connect attachments per hour": {
+                "rateCode": "UQSSAHX9R3CK378J.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0700000000",
+                "RegionlessRateCode": "Mqp7nRj9jyNvSEj4Zs1zrcGTY5fOfotaVglys4IKB_s"
+            },
+            "Hourly charge for VPC Endpoints per Hrs": {
+                "rateCode": "XXS82WFG7PKCUYZU.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0126000000",
+                "RegionlessRateCode": "O8_Pzo5YwIoCLOAe25w3rrGSueRhcWMbBAy40tipVjM"
+            },
+            "Hourly charge for Transit Gateway Peering Attachments per hour": {
+                "rateCode": "VW9AHZ3PA8KPB5D7.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0700000000",
+                "RegionlessRateCode": "RipZZZKSBRALlPjKpWVh8xJgEl1yzhwwWJDhhEaqlx0"
+            },
+            "Charge for per GB data processed by VPC Endpoints per GB from 1048576 to 5242880": {
+                "rateCode": "QCHPSBPSRJQUFFW5.JRTCKXETXF.RBMR72YW69",
+                "price": "0.0060000000",
+                "RegionlessRateCode": "Tqbq4NsTPpNjQAuKdJcumFAvifu-A3UlvVb7v_27IHY"
+            },
+            "Charge for per GB data processed by AWS Transit Gateways for Site to-Site VPN attachments per GigaBytes": {
+                "rateCode": "V6JZ5VR7D29F5ZQG.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0200000000",
+                "RegionlessRateCode": "VU8HJ3uS475UL_hC8_hjywMIipBE1cdlBRzxAmx3G_s"
+            },
+            "CreateVpnConnection per Hrs": {
+                "rateCode": "4PEZPGZS9G9ZDPX2.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0500000000",
+                "RegionlessRateCode": "Y7KwlAt9N15lwPpQwpkLUblr-i4jSDIlafwUAkPHPxg"
+            },
+            "CreateVpnConnection per hours": {
+                "rateCode": "4PEZPGZS9G9ZDPX2.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0500000000",
+                "RegionlessRateCode": "Y7KwlAt9N15lwPpQwpkLUblr-i4jSDIlafwUAkPHPxg"
+            },
+            "Charge for per GB data processed by VPC Endpoints per GB from 5242880 to Inf": {
+                "rateCode": "QCHPSBPSRJQUFFW5.JRTCKXETXF.SW9U2ZKBYX",
+                "price": "0.0040000000",
+                "RegionlessRateCode": "YWms5U1MHZdMGC9HWUUPt3zl8c-4L_Zi5aCrEHibyyw"
+            },
+            "Hourly charge for Transit Gateway AWS Direct Connect Gateway attachments per hour": {
+                "rateCode": "6V427G5TWCEA2AUQ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0700000000",
+                "RegionlessRateCode": "cyeDIvoqyjPfEVewkrrSGBoDoK35VQUNwYxg7WGE34w"
+            },
+            "Hourly charge for Idle Public IPv4 Addresses per Hrs": {
+                "rateCode": "CNQWDSEXM99YD3XN.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0050000000",
+                "RegionlessRateCode": "enBL9w78IlUB4rLQv7C_wCmsA4Vo5og-FQEZN4yF1Yk"
+            },
+            "Hourly charge for Transit Gateway VPC Attachments per hour": {
+                "rateCode": "HQNJ8WMVR2X655HK.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0700000000",
+                "RegionlessRateCode": "k8oA2bG_x4Vd_eSFxmpc6LjDAcCFv1JR1__EyAxaonA"
+            },
+            "Charge for per GB data processed by VPC Endpoints per GB from 0 to 1048576": {
+                "rateCode": "QCHPSBPSRJQUFFW5.JRTCKXETXF.D7RZ6WCPVW",
+                "price": "0.0100000000",
+                "RegionlessRateCode": "oXrJSNp7FUeFewlHJ00-FtrCM6eKL3uFx3VGjE1Z_eo"
+            },
+            "Hourly charge for Transit Gateway Site to-Site VPN attachments per hour": {
+                "rateCode": "4JX3XYWH9PTEN432.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0700000000",
+                "RegionlessRateCode": "r5hLPf1n-bQryiqZWYBeVgn0OdCrdrLWZQrhtED78pA"
+            },
+            "Hourly charge for In use Public IPv4 Addresses per Hrs": {
+                "rateCode": "V8QUJFSRF8AMZGMV.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0050000000",
+                "RegionlessRateCode": "raRs1O4ORCruh2ORL1aNMcTmbmUZ3VQSwRnpIb5TVaE"
+            },
+            "Charge for per GB data processed by AWS Transit Gateways for VPC attachments per GigaBytes": {
+                "rateCode": "G65EWSUDQ3A4G9B7.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0200000000",
+                "RegionlessRateCode": "s64vH3HYPuibuvoLZfejTu_r2Bi5uoMjn-bzqWZ7hgw"
+            },
+            "Charge for per GB data processed by AWS Gateway Load Balancer VPC Endpoint per GB": {
+                "rateCode": "RJF4ZW264AFJD3PS.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0035000000",
+                "RegionlessRateCode": "t1yKi4Iu2fSu0NI2MHadRhjQhOzwtqEGoEdKizabG_A"
+            },
+            "Charge for per GB data processed by AWS Transit Gateways for AWS Direct Connect Gateway attachments per GigaBytes": {
+                "rateCode": "4G7MV62PCX8MWVYS.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0200000000",
                 "RegionlessRateCode": "wQKjUIYwhwtnWdhZe6LwfmAYj2zZBaW8qur7L29R-8s"
             }

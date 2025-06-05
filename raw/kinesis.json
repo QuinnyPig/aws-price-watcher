@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "kinesis",
         "accessType": "publish",
-        "esIndex": "plc-kinesis-usd-20250311164548",
-        "hawkFilePublicationDate": "2025-03-11T16:45:48Z",
-        "ETLIngestionTriggerDate": "2025-03-11T16:45:48Z",
+        "esIndex": "plc-kinesis-usd-20250605175641",
+        "hawkFilePublicationDate": "2025-06-05T17:56:41Z",
+        "ETLIngestionTriggerDate": "2025-06-05T17:56:41Z",
         "currencyCode": "USD",
         "source": "kinesis",
         "isMapped": "true"
@@ -2799,6 +2799,148 @@
             },
             "Long term Data Retention GB-month per GB-month": {
                 "rateCode": "9E4MT5UJV6A3W3JR.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0225000000",
+                "RegionlessRateCode": "lWTh8_q5tUc9HwtMk6XzR1KVDBk-6R8iAKZkwBo2DDQ"
+            }
+        },
+        "Asia Pacific (Taipei)": {
+            "-8M3TT_AdtER46vWavh3a8bESGaVvg_987e1Nsuxy4U": {
+                "rateCode": "RWYJDBRPTNH8HGAB.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0234000000",
+                "RegionlessRateCode": "-8M3TT_AdtER46vWavh3a8bESGaVvg_987e1Nsuxy4U"
+            },
+            "-B-vfFNjQ1O3_RfZ8EfWPCLFiD9EOHS4GxfSX0ap_Mo": {
+                "rateCode": "VYMSGXRC24W3RZNX.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0225000000",
+                "RegionlessRateCode": "-B-vfFNjQ1O3_RfZ8EfWPCLFiD9EOHS4GxfSX0ap_Mo"
+            },
+            "-mJba463oCUyrI-zhMOZNh9Lri5OBszUKyAMBN841nc": {
+                "rateCode": "KKXARF5PF2M5UNNY.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000193",
+                "RegionlessRateCode": "-mJba463oCUyrI-zhMOZNh9Lri5OBszUKyAMBN841nc"
+            },
+            "5v6fGVPF_WyQRYPuFbe7XisYCVHmucdDx1MpGwEL48w": {
+                "rateCode": "778DB5379QE8XH7T.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0468000000",
+                "RegionlessRateCode": "5v6fGVPF_WyQRYPuFbe7XisYCVHmucdDx1MpGwEL48w"
+            },
+            "78N5t7DMjd6U5l5QQGTwW-rsA_2rHpaQJ5B3lNvuTmI": {
+                "rateCode": "66PJ6Z35KHSTCE6N.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0585000000",
+                "RegionlessRateCode": "78N5t7DMjd6U5l5QQGTwW-rsA_2rHpaQJ5B3lNvuTmI"
+            },
+            "Oll3o5LSJyPfDMj1iUuJ-qEJ_xdqdoFmOum4i4x5fSk": {
+                "rateCode": "D4C9Q48MQRJGSMQ2.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0245700000",
+                "RegionlessRateCode": "Oll3o5LSJyPfDMj1iUuJ-qEJ_xdqdoFmOum4i4x5fSk"
+            },
+            "QS1_GBrjf7Q7il5abdvavzsznAQyNh5RWTdUflf7Jfk": {
+                "rateCode": "JQVMP7KVSDYQCFJ3.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0175500000",
+                "RegionlessRateCode": "QS1_GBrjf7Q7il5abdvavzsznAQyNh5RWTdUflf7Jfk"
+            },
+            "RDajteEd7c_1zRPgn2s0MQCJRjI1yTedAko0RTLxwIk": {
+                "rateCode": "4J4RHSJU86RK6PZE.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0175500000",
+                "RegionlessRateCode": "RDajteEd7c_1zRPgn2s0MQCJRjI1yTedAko0RTLxwIk"
+            },
+            "V66FS0KC9gNB2H0EEKZL9yETEoPpGPgG6vJkdcTB-rw": {
+                "rateCode": "M93U3QUNSVKZ83PQ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0468000000",
+                "RegionlessRateCode": "V66FS0KC9gNB2H0EEKZL9yETEoPpGPgG6vJkdcTB-rw"
+            },
+            "feWLBA3kVTlUE_8c4OlQPIyDzGwGbK7A8mTniyUd1Mo": {
+                "rateCode": "GEUEE3AS8473HXHF.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0152100000",
+                "RegionlessRateCode": "feWLBA3kVTlUE_8c4OlQPIyDzGwGbK7A8mTniyUd1Mo"
+            },
+            "i9NPkoNGT5I7mKYO09AflD6G0gVB2KD_6aDmNtd9EvE": {
+                "rateCode": "UM5HDZHUXSA6SB5R.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1080000000",
+                "RegionlessRateCode": "i9NPkoNGT5I7mKYO09AflD6G0gVB2KD_6aDmNtd9EvE"
+            },
+            "iDCiAozCdrr9EU3l3r68EqJdkXs-b9GVKcXv1GJUDNE": {
+                "rateCode": "J4UH2D9C5WXJUGHC.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0936000000",
+                "RegionlessRateCode": "iDCiAozCdrr9EU3l3r68EqJdkXs-b9GVKcXv1GJUDNE"
+            },
+            "lWTh8_q5tUc9HwtMk6XzR1KVDBk-6R8iAKZkwBo2DDQ": {
+                "rateCode": "XS8VS7N6CUTRRZ7C.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0225000000",
+                "RegionlessRateCode": "lWTh8_q5tUc9HwtMk6XzR1KVDBk-6R8iAKZkwBo2DDQ"
+            },
+            "Addon shard hour per ShardHour": {
+                "rateCode": "RWYJDBRPTNH8HGAB.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0234000000",
+                "RegionlessRateCode": "-8M3TT_AdtER46vWavh3a8bESGaVvg_987e1Nsuxy4U"
+            },
+            "OnDemandLongTermRetentionByteHrs per GB month": {
+                "rateCode": "VYMSGXRC24W3RZNX.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0225000000",
+                "RegionlessRateCode": "-B-vfFNjQ1O3_RfZ8EfWPCLFiD9EOHS4GxfSX0ap_Mo"
+            },
+            "Payload Units per PutRequest": {
+                "rateCode": "KKXARF5PF2M5UNNY.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000193",
+                "RegionlessRateCode": "-mJba463oCUyrI-zhMOZNh9Lri5OBszUKyAMBN841nc"
+            },
+            "Payload Units per CNN1 PutRequestPayloadUnits": {
+                "rateCode": "KKXARF5PF2M5UNNY.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000193",
+                "RegionlessRateCode": "-mJba463oCUyrI-zhMOZNh9Lri5OBszUKyAMBN841nc"
+            },
+            "OnDemandStreamHr per StreamHr": {
+                "rateCode": "778DB5379QE8XH7T.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0468000000",
+                "RegionlessRateCode": "5v6fGVPF_WyQRYPuFbe7XisYCVHmucdDx1MpGwEL48w"
+            },
+            "OnDemandEFODataRetrieval per GB": {
+                "rateCode": "66PJ6Z35KHSTCE6N.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0585000000",
+                "RegionlessRateCode": "78N5t7DMjd6U5l5QQGTwW-rsA_2rHpaQJ5B3lNvuTmI"
+            },
+            "Long term Data Retrieval GB per GB": {
+                "rateCode": "D4C9Q48MQRJGSMQ2.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0245700000",
+                "RegionlessRateCode": "Oll3o5LSJyPfDMj1iUuJ-qEJ_xdqdoFmOum4i4x5fSk"
+            },
+            "Enhanced fan out per ConsumerShardHour": {
+                "rateCode": "JQVMP7KVSDYQCFJ3.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0175500000",
+                "RegionlessRateCode": "QS1_GBrjf7Q7il5abdvavzsznAQyNh5RWTdUflf7Jfk"
+            },
+            "Provisioned shard hour per ShardHour": {
+                "rateCode": "4J4RHSJU86RK6PZE.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0175500000",
+                "RegionlessRateCode": "RDajteEd7c_1zRPgn2s0MQCJRjI1yTedAko0RTLxwIk"
+            },
+            "Provisioned shard hour per CNN1 Storage-ShardHour": {
+                "rateCode": "4J4RHSJU86RK6PZE.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0175500000",
+                "RegionlessRateCode": "RDajteEd7c_1zRPgn2s0MQCJRjI1yTedAko0RTLxwIk"
+            },
+            "OnDemandDataRetrieval per GB": {
+                "rateCode": "M93U3QUNSVKZ83PQ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0468000000",
+                "RegionlessRateCode": "V66FS0KC9gNB2H0EEKZL9yETEoPpGPgG6vJkdcTB-rw"
+            },
+            "Enhanced fan out GB of data retrieved per GB": {
+                "rateCode": "GEUEE3AS8473HXHF.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0152100000",
+                "RegionlessRateCode": "feWLBA3kVTlUE_8c4OlQPIyDzGwGbK7A8mTniyUd1Mo"
+            },
+            "OnDemandExtendedRetentionByteHrs per GB month": {
+                "rateCode": "UM5HDZHUXSA6SB5R.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1080000000",
+                "RegionlessRateCode": "i9NPkoNGT5I7mKYO09AflD6G0gVB2KD_6aDmNtd9EvE"
+            },
+            "OnDemandDataIngested per GB": {
+                "rateCode": "J4UH2D9C5WXJUGHC.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0936000000",
+                "RegionlessRateCode": "iDCiAozCdrr9EU3l3r68EqJdkXs-b9GVKcXv1GJUDNE"
+            },
+            "Long term Data Retention GB-month per GB-month": {
+                "rateCode": "XS8VS7N6CUTRRZ7C.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0225000000",
                 "RegionlessRateCode": "lWTh8_q5tUc9HwtMk6XzR1KVDBk-6R8iAKZkwBo2DDQ"
             }

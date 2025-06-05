@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "apigateway",
         "accessType": "publish",
-        "esIndex": "plc-apigateway-usd-20250604022052",
-        "hawkFilePublicationDate": "2025-06-04T02:20:52Z",
-        "ETLIngestionTriggerDate": "2025-06-04T02:20:52Z",
+        "esIndex": "plc-apigateway-usd-20250605175610",
+        "hawkFilePublicationDate": "2025-06-05T17:56:10Z",
+        "ETLIngestionTriggerDate": "2025-06-05T17:56:10Z",
         "currencyCode": "USD",
         "source": "apigateway",
         "isMapped": "true"
@@ -3594,6 +3594,128 @@
             },
             "Caching Memory Size 1 6": {
                 "rateCode": "HXBPXRKA9WZCSVDT.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0486000000",
+                "RegionlessRateCode": "ytGEULNJE6beUS6QQy3C4qHStyZyPcUTdAwj2PlU7wg"
+            }
+        },
+        "Asia Pacific (Taipei)": {
+            "6C1YbXTH6SnnJcR8_2DGNkuowJEWkcIx2HsuAMz3-dI": {
+                "rateCode": "YKT3XWM342CFKT9Y.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.9800000000",
+                "RegionlessRateCode": "6C1YbXTH6SnnJcR8_2DGNkuowJEWkcIx2HsuAMz3-dI"
+            },
+            "8zRgSwz_tLJxEh8GaPwbtszi1tF42wZ1OE_5AlY7EcM": {
+                "rateCode": "9EQXQ7YTT9A5B9UZ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2610000000",
+                "RegionlessRateCode": "8zRgSwz_tLJxEh8GaPwbtszi1tF42wZ1OE_5AlY7EcM"
+            },
+            "F-7Dn5O2ojXLIBoX_nstB_acwIviegj46y9UISa2yUY": {
+                "rateCode": "6FDKPH9XW4V66HXZ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.9900000000",
+                "RegionlessRateCode": "F-7Dn5O2ojXLIBoX_nstB_acwIviegj46y9UISa2yUY"
+            },
+            "HTRt6m5D0Kt8aganm2ny-6o24TuXysYD5VuYvUaylB8": {
+                "rateCode": "T2X47TKMVNDXMS3V.JRTCKXETXF.QS4VQ8N7FD",
+                "price": "0.0000038250",
+                "RegionlessRateCode": "HTRt6m5D0Kt8aganm2ny-6o24TuXysYD5VuYvUaylB8"
+            },
+            "MH557IRXCaav2oLhH4cH-EI6TIzOVtmH8kIjZBFb1ko": {
+                "rateCode": "W6ZCDPDC2643UPMB.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2205000000",
+                "RegionlessRateCode": "MH557IRXCaav2oLhH4cH-EI6TIzOVtmH8kIjZBFb1ko"
+            },
+            "OsBQ6SUiUOT3fqW3KKeyOY2kltFQAuZDLv5j_Ay4qDA": {
+                "rateCode": "T2X47TKMVNDXMS3V.JRTCKXETXF.J4SY3H5SUC",
+                "price": "0.0000027000",
+                "RegionlessRateCode": "OsBQ6SUiUOT3fqW3KKeyOY2kltFQAuZDLv5j_Ay4qDA"
+            },
+            "P3uSw3W6HaAmpjaq6uIERRviidPpUYnS87zNp53S1Ak": {
+                "rateCode": "T2X47TKMVNDXMS3V.JRTCKXETXF.KVC36CKCEW",
+                "price": "0.0000017190",
+                "RegionlessRateCode": "P3uSw3W6HaAmpjaq6uIERRviidPpUYnS87zNp53S1Ak"
+            },
+            "TRfIorNlMPAHGPuMB-wPncaFn8pUKg-p-ChsWLHzHRI": {
+                "rateCode": "29UQ7CN57C7WTWBK.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.5040000000",
+                "RegionlessRateCode": "TRfIorNlMPAHGPuMB-wPncaFn8pUKg-p-ChsWLHzHRI"
+            },
+            "tZ-gCjRRUN_dK1b9XKnM_zWZcXD7ir1aWUpRq5PCTyM": {
+                "rateCode": "T2X47TKMVNDXMS3V.JRTCKXETXF.DRE2JBTXBV",
+                "price": "0.0000031770",
+                "RegionlessRateCode": "tZ-gCjRRUN_dK1b9XKnM_zWZcXD7ir1aWUpRq5PCTyM"
+            },
+            "vk00lgh-xHYZrdekXbVaXcoJHXPPHUlzUcG6CR6KOCU": {
+                "rateCode": "Z9MYPJPQ9N6XZVRH.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0252000000",
+                "RegionlessRateCode": "vk00lgh-xHYZrdekXbVaXcoJHXPPHUlzUcG6CR6KOCU"
+            },
+            "xbGWu-m_7SSJIH1vDj3r-BBZNaXpOZpF3U2xQFf2XVI": {
+                "rateCode": "8CW7ACRRD7CZBJ5N.JRTCKXETXF.6YS6EN2CT7",
+                "price": "3.9600000000",
+                "RegionlessRateCode": "xbGWu-m_7SSJIH1vDj3r-BBZNaXpOZpF3U2xQFf2XVI"
+            },
+            "ytGEULNJE6beUS6QQy3C4qHStyZyPcUTdAwj2PlU7wg": {
+                "rateCode": "8KJPXR6AU62HMERE.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0486000000",
+                "RegionlessRateCode": "ytGEULNJE6beUS6QQy3C4qHStyZyPcUTdAwj2PlU7wg"
+            },
+            "Caching Memory Size 118": {
+                "rateCode": "YKT3XWM342CFKT9Y.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.9800000000",
+                "RegionlessRateCode": "6C1YbXTH6SnnJcR8_2DGNkuowJEWkcIx2HsuAMz3-dI"
+            },
+            "Caching Memory Size 13 5": {
+                "rateCode": "9EQXQ7YTT9A5B9UZ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2610000000",
+                "RegionlessRateCode": "8zRgSwz_tLJxEh8GaPwbtszi1tF42wZ1OE_5AlY7EcM"
+            },
+            "Caching Memory Size 58 2": {
+                "rateCode": "6FDKPH9XW4V66HXZ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.9900000000",
+                "RegionlessRateCode": "F-7Dn5O2ojXLIBoX_nstB_acwIviegj46y9UISa2yUY"
+            },
+            "API Calls Number of up to 333 million": {
+                "rateCode": "T2X47TKMVNDXMS3V.JRTCKXETXF.QS4VQ8N7FD",
+                "price": "0.0000038250",
+                "RegionlessRateCode": "HTRt6m5D0Kt8aganm2ny-6o24TuXysYD5VuYvUaylB8"
+            },
+            "Caching Memory Size 6 1": {
+                "rateCode": "W6ZCDPDC2643UPMB.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2205000000",
+                "RegionlessRateCode": "MH557IRXCaav2oLhH4cH-EI6TIzOVtmH8kIjZBFb1ko"
+            },
+            "API Calls Number of Request Next 19 billion": {
+                "rateCode": "T2X47TKMVNDXMS3V.JRTCKXETXF.J4SY3H5SUC",
+                "price": "0.0000027000",
+                "RegionlessRateCode": "OsBQ6SUiUOT3fqW3KKeyOY2kltFQAuZDLv5j_Ay4qDA"
+            },
+            "API Calls Number of Request Over 20 billion": {
+                "rateCode": "T2X47TKMVNDXMS3V.JRTCKXETXF.KVC36CKCEW",
+                "price": "0.0000017190",
+                "RegionlessRateCode": "P3uSw3W6HaAmpjaq6uIERRviidPpUYnS87zNp53S1Ak"
+            },
+            "Caching Memory Size 28 4": {
+                "rateCode": "29UQ7CN57C7WTWBK.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.5040000000",
+                "RegionlessRateCode": "TRfIorNlMPAHGPuMB-wPncaFn8pUKg-p-ChsWLHzHRI"
+            },
+            "API Calls Number of Request Next 667 million": {
+                "rateCode": "T2X47TKMVNDXMS3V.JRTCKXETXF.DRE2JBTXBV",
+                "price": "0.0000031770",
+                "RegionlessRateCode": "tZ-gCjRRUN_dK1b9XKnM_zWZcXD7ir1aWUpRq5PCTyM"
+            },
+            "Caching Memory Size 0 5": {
+                "rateCode": "Z9MYPJPQ9N6XZVRH.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0252000000",
+                "RegionlessRateCode": "vk00lgh-xHYZrdekXbVaXcoJHXPPHUlzUcG6CR6KOCU"
+            },
+            "Caching Memory Size 237": {
+                "rateCode": "8CW7ACRRD7CZBJ5N.JRTCKXETXF.6YS6EN2CT7",
+                "price": "3.9600000000",
+                "RegionlessRateCode": "xbGWu-m_7SSJIH1vDj3r-BBZNaXpOZpF3U2xQFf2XVI"
+            },
+            "Caching Memory Size 1 6": {
+                "rateCode": "8KJPXR6AU62HMERE.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0486000000",
                 "RegionlessRateCode": "ytGEULNJE6beUS6QQy3C4qHStyZyPcUTdAwj2PlU7wg"
             }

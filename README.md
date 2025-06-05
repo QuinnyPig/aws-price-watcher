@@ -1,3 +1,2534 @@
+## 2025-06-05 18:33
+
+**Modified services:**
+
+- [databasemigrationsvc](processed/databasemigrationsvc.json)
+  - Region added for metric DMS Serverless start-data-migration: Asia Pacific (Taipei) 🌎
+  - Region added for metric [DMS Replication Server Multiple AZ] DMS OnDemand Replication Server c5 2xlarge Multiple AZ: Middle East (Bahrain) (Instance Type: c5.2xlarge) 🌎
+  - Region added for metric [DMS Replication Server Multiple AZ] DMS OnDemand Replication Server c5 2xlarge Multiple AZ: EU (Stockholm) (Instance Type: c5.2xlarge) 🌎
+  - Region added for metric [DMS Replication Server Single AZ] DMS OnDemand Replication Server c5 2xlarge Single AZ: Middle East (Bahrain) (Instance Type: c5.2xlarge) 🌎
+  - Region added for metric [DMS Replication Server Single AZ] DMS OnDemand Replication Server c5 2xlarge Single AZ: EU (Stockholm) (Instance Type: c5.2xlarge) 🌎
+  - Region added for metric [DMS Replication Server Multiple AZ] DMS OnDemand Replication Server c5 4xlarge Multiple AZ: Middle East (Bahrain) (Instance Type: c5.4xlarge) 🌎
+  - Region added for metric [DMS Replication Server Multiple AZ] DMS OnDemand Replication Server c5 4xlarge Multiple AZ: EU (Stockholm) (Instance Type: c5.4xlarge) 🌎
+  - Region added for metric [DMS Replication Server Single AZ] DMS OnDemand Replication Server c5 4xlarge Single AZ: Middle East (Bahrain) (Instance Type: c5.4xlarge) 🌎
+  - Region added for metric [DMS Replication Server Single AZ] DMS OnDemand Replication Server c5 4xlarge Single AZ: EU (Stockholm) (Instance Type: c5.4xlarge) 🌎
+  - Region added for metric [DMS Replication Server Multiple AZ] DMS OnDemand Replication Server c5 large Multiple AZ: Middle East (Bahrain) (Instance Type: c5.large) 🌎
+  - Region added for metric [DMS Replication Server Multiple AZ] DMS OnDemand Replication Server c5 large Multiple AZ: EU (Stockholm) (Instance Type: c5.large) 🌎
+  - Region added for metric [DMS Replication Server Single AZ] DMS OnDemand Replication Server c5 large Single AZ: Middle East (Bahrain) (Instance Type: c5.large) 🌎
+  - Region added for metric [DMS Replication Server Single AZ] DMS OnDemand Replication Server c5 large Single AZ: EU (Stockholm) (Instance Type: c5.large) 🌎
+  - Region added for metric [DMS Replication Server Multiple AZ] DMS OnDemand Replication Server c5 xlarge Multiple AZ: Middle East (Bahrain) (Instance Type: c5.xlarge) 🌎
+  - Region added for metric [DMS Replication Server Multiple AZ] DMS OnDemand Replication Server c5 xlarge Multiple AZ: EU (Stockholm) (Instance Type: c5.xlarge) 🌎
+  - Region added for metric [DMS Replication Server Single AZ] DMS OnDemand Replication Server c5 xlarge Single AZ: Middle East (Bahrain) (Instance Type: c5.xlarge) 🌎
+  - Region added for metric [DMS Replication Server Multiple AZ] DMS OnDemand Replication Server c6i 12xlarge Multiple AZ: Asia Pacific (Taipei) (Instance Type: c6i.12xlarge) 🌎
+  - Region added for metric [DMS Replication Server Single AZ] DMS OnDemand Replication Server c6i 12xlarge Single AZ: Asia Pacific (Taipei) (Instance Type: c6i.12xlarge) 🌎
+  - Region added for metric [DMS Replication Server Multiple AZ] DMS OnDemand Replication Server c6i 16xlarge Multiple AZ: Asia Pacific (Taipei) (Instance Type: c6i.16xlarge) 🌎
+  - Region added for metric [DMS Replication Server Single AZ] DMS OnDemand Replication Server c6i 16xlarge Single AZ: Asia Pacific (Taipei) (Instance Type: c6i.16xlarge) 🌎
+  - Region added for metric [DMS Replication Server Multiple AZ] DMS OnDemand Replication Server c6i 24xlarge Multiple AZ: Asia Pacific (Taipei) (Instance Type: c6i.24xlarge) 🌎
+  - Region added for metric [DMS Replication Server Single AZ] DMS OnDemand Replication Server c6i 24xlarge Single AZ: Asia Pacific (Taipei) (Instance Type: c6i.24xlarge) 🌎
+  - Region added for metric [DMS Replication Server Multiple AZ] DMS OnDemand Replication Server c6i 2xlarge Multiple AZ: Asia Pacific (Taipei) (Instance Type: c6i.2xlarge) 🌎
+  - Region added for metric [DMS Replication Server Single AZ] DMS OnDemand Replication Server c6i 2xlarge Single AZ: Asia Pacific (Taipei) (Instance Type: c6i.2xlarge) 🌎
+  - Region added for metric [DMS Replication Server Multiple AZ] DMS OnDemand Replication Server c6i 32xlarge Multiple AZ: Asia Pacific (Taipei) (Instance Type: c6i.32xlarge) 🌎
+  - Region added for metric [DMS Replication Server Single AZ] DMS OnDemand Replication Server c6i 32xlarge Single AZ: Asia Pacific (Taipei) (Instance Type: c6i.32xlarge) 🌎
+  - Region added for metric [DMS Replication Server Multiple AZ] DMS OnDemand Replication Server c6i 4xlarge Multiple AZ: Asia Pacific (Taipei) (Instance Type: c6i.4xlarge) 🌎
+  - Region added for metric [DMS Replication Server Single AZ] DMS OnDemand Replication Server c6i 4xlarge Single AZ: Asia Pacific (Taipei) (Instance Type: c6i.4xlarge) 🌎
+  - Region added for metric [DMS Replication Server Multiple AZ] DMS OnDemand Replication Server c6i 8xlarge Multiple AZ: Asia Pacific (Taipei) (Instance Type: c6i.8xlarge) 🌎
+  - Region added for metric [DMS Replication Server Single AZ] DMS OnDemand Replication Server c6i 8xlarge Single AZ: Asia Pacific (Taipei) (Instance Type: c6i.8xlarge) 🌎
+  - Region added for metric [DMS Replication Server Single AZ] DMS OnDemand Replication Server c6i large Single AZ: Asia Pacific (Taipei) (Instance Type: c6i.large) 🌎
+  - Region added for metric [DMS Replication Server Multiple AZ] DMS OnDemand Replication Server c6i xlarge Multiple AZ: Asia Pacific (Taipei) (Instance Type: c6i.xlarge) 🌎
+  - Region added for metric [DMS Replication Server Single AZ] DMS OnDemand Replication Server c6i xlarge Single AZ: Asia Pacific (Taipei) (Instance Type: c6i.xlarge) 🌎
+  - Region added for metric [DMS Replication Server Multiple AZ] DMS OnDemand Replication Server r5 12xlarge Multiple AZ: Middle East (Bahrain) (Instance Type: r5.12xlarge) 🌎
+  - Region added for metric [DMS Replication Server Multiple AZ] DMS OnDemand Replication Server r5 12xlarge Multiple AZ: AWS GovCloud (US-East) (Instance Type: r5.12xlarge) 🌎
+  - Region added for metric [DMS Replication Server Multiple AZ] DMS OnDemand Replication Server r5 12xlarge Multiple AZ: AWS GovCloud (US) (Instance Type: r5.12xlarge) 🌎
+  - Region added for metric [DMS Replication Server Single AZ] DMS OnDemand Replication Server r5 12xlarge Single AZ: Middle East (Bahrain) (Instance Type: r5.12xlarge) 🌎
+  - Region added for metric [DMS Replication Server Single AZ] DMS OnDemand Replication Server r5 12xlarge Single AZ: AWS GovCloud (US-East) (Instance Type: r5.12xlarge) 🌎
+  - Region added for metric [DMS Replication Server Single AZ] DMS OnDemand Replication Server r5 12xlarge Single AZ: AWS GovCloud (US) (Instance Type: r5.12xlarge) 🌎
+  - Region added for metric [DMS Replication Server Multiple AZ] DMS OnDemand Replication Server r6i 12xlarge Multiple AZ: Asia Pacific (Taipei) (Instance Type: r6i.12xlarge) 🌎
+  - Region added for metric [DMS Replication Server Single AZ] DMS OnDemand Replication Server r6i 12xlarge Single AZ: Asia Pacific (Taipei) (Instance Type: r6i.12xlarge) 🌎
+  - Region added for metric [DMS Replication Server Multiple AZ] DMS OnDemand Replication Server r6i 16xlarge Multiple AZ: Asia Pacific (Taipei) (Instance Type: r6i.16xlarge) 🌎
+  - Region added for metric [DMS Replication Server Single AZ] DMS OnDemand Replication Server r6i 16xlarge Single AZ: Asia Pacific (Taipei) (Instance Type: r6i.16xlarge) 🌎
+  - Region added for metric [DMS Replication Server Multiple AZ] DMS OnDemand Replication Server r6i 24xlarge Multiple AZ: Asia Pacific (Taipei) (Instance Type: r6i.24xlarge) 🌎
+  - Region added for metric [DMS Replication Server Single AZ] DMS OnDemand Replication Server r6i 24xlarge Single AZ: Asia Pacific (Taipei) (Instance Type: r6i.24xlarge) 🌎
+  - Region added for metric [DMS Replication Server Multiple AZ] DMS OnDemand Replication Server r6i 2xlarge Multiple AZ: Asia Pacific (Taipei) (Instance Type: r6i.2xlarge) 🌎
+  - Region added for metric [DMS Replication Server Single AZ] DMS OnDemand Replication Server r6i 2xlarge Single AZ: Asia Pacific (Taipei) (Instance Type: r6i.2xlarge) 🌎
+  - Region added for metric [DMS Replication Server Multiple AZ] DMS OnDemand Replication Server r6i 32xlarge Multiple AZ: Asia Pacific (Taipei) (Instance Type: r6i.32xlarge) 🌎
+  - Region added for metric [DMS Replication Server Single AZ] DMS OnDemand Replication Server r6i 32xlarge Single AZ: Asia Pacific (Taipei) (Instance Type: r6i.32xlarge) 🌎
+  - Region added for metric [DMS Replication Server Multiple AZ] DMS OnDemand Replication Server r6i 4xlarge Multiple AZ: Asia Pacific (Taipei) (Instance Type: r6i.4xlarge) 🌎
+  - Region added for metric [DMS Replication Server Single AZ] DMS OnDemand Replication Server r6i 4xlarge Single AZ: Asia Pacific (Taipei) (Instance Type: r6i.4xlarge) 🌎
+  - Region added for metric [DMS Replication Server Multiple AZ] DMS OnDemand Replication Server r6i 8xlarge Multiple AZ: Asia Pacific (Taipei) (Instance Type: r6i.8xlarge) 🌎
+  - Region added for metric [DMS Replication Server Single AZ] DMS OnDemand Replication Server r6i 8xlarge Single AZ: Asia Pacific (Taipei) (Instance Type: r6i.8xlarge) 🌎
+  - Region added for metric [DMS Replication Server Multiple AZ] DMS OnDemand Replication Server r6i large Multiple AZ: Asia Pacific (Taipei) (Instance Type: r6i.large) 🌎
+  - Region added for metric [DMS Replication Server Single AZ] DMS OnDemand Replication Server r6i large Single AZ: Asia Pacific (Taipei) (Instance Type: r6i.large) 🌎
+  - Region added for metric [DMS Replication Server Multiple AZ] DMS OnDemand Replication Server r6i xlarge Multiple AZ: Asia Pacific (Taipei) (Instance Type: r6i.xlarge) 🌎
+  - Region added for metric [DMS Replication Server Single AZ] DMS OnDemand Replication Server r6i xlarge Single AZ: Asia Pacific (Taipei) (Instance Type: r6i.xlarge) 🌎
+  - Region added for metric [DMS Replication Server Multiple AZ] DMS OnDemand Replication Server t3 large Multiple AZ: Middle East (Bahrain) (Instance Type: t3.large) 🌎
+  - Region added for metric [DMS Replication Server Multiple AZ] DMS OnDemand Replication Server t3 large Multiple AZ: Asia Pacific (Taipei) (Instance Type: t3.large) 🌎
+  - Region added for metric [DMS Replication Server Single AZ] DMS OnDemand Replication Server t3 large Single AZ: Middle East (Bahrain) (Instance Type: t3.large) 🌎
+  - Region added for metric [DMS Replication Server Single AZ] DMS OnDemand Replication Server t3 large Single AZ: Asia Pacific (Taipei) (Instance Type: t3.large) 🌎
+  - Region added for metric [DMS Replication Server Multiple AZ] DMS OnDemand Replication Server t3 medium Multiple AZ: Middle East (Bahrain) (Instance Type: t3.medium) 🌎
+  - Region added for metric [DMS Replication Server Multiple AZ] DMS OnDemand Replication Server t3 medium Multiple AZ: Asia Pacific (Taipei) (Instance Type: t3.medium) 🌎
+  - Region added for metric [DMS Replication Server Single AZ] DMS OnDemand Replication Server t3 medium Single AZ: Middle East (Bahrain) (Instance Type: t3.medium) 🌎
+  - Region added for metric [DMS Replication Server Single AZ] DMS OnDemand Replication Server t3 medium Single AZ: Asia Pacific (Taipei) (Instance Type: t3.medium) 🌎
+  - Region added for metric [DMS Replication Server Multiple AZ] DMS OnDemand Replication Server t3 micro Multiple AZ: Middle East (Bahrain) (Instance Type: t3.micro) 🌎
+  - Region added for metric [DMS Replication Server Multiple AZ] DMS OnDemand Replication Server t3 micro Multiple AZ: Asia Pacific (Taipei) (Instance Type: t3.micro) 🌎
+  - Region added for metric [DMS Replication Server Single AZ] DMS OnDemand Replication Server t3 micro Single AZ: Middle East (Bahrain) (Instance Type: t3.micro) 🌎
+  - Region added for metric [DMS Replication Server Single AZ] DMS OnDemand Replication Server t3 micro Single AZ: Asia Pacific (Taipei) (Instance Type: t3.micro) 🌎
+  - Region added for metric [DMS Replication Server Multiple AZ] DMS OnDemand Replication Server t3 small Multiple AZ: Middle East (Bahrain) (Instance Type: t3.small) 🌎
+  - Region added for metric [DMS Replication Server Multiple AZ] DMS OnDemand Replication Server t3 small Multiple AZ: Asia Pacific (Taipei) (Instance Type: t3.small) 🌎
+  - Region added for metric [DMS Replication Server Single AZ] DMS OnDemand Replication Server t3 small Single AZ: Middle East (Bahrain) (Instance Type: t3.small) 🌎
+  - Region added for metric [DMS Replication Server Single AZ] DMS OnDemand Replication Server t3 small Single AZ: Asia Pacific (Taipei) (Instance Type: t3.small) 🌎
+  - Region added for metric t3 CPU Credits per vCPU-Hours: Asia Pacific (Taipei) 🌎
+  - Region added for metric DMS Storage Replication Storage Multiple AZ: Asia Pacific (Taipei) 🌎
+  - Region added for metric DMS Storage Replication Storage Single AZ: Asia Pacific (Taipei) 🌎
+  - Region added for metric DMS OnDemand Replication Server t3 Single AZ: Asia Pacific (Taipei) (Instance Type: t3) 🌎
+
+- [apigateway](processed/apigateway.json)
+  - Region added for metric Caching Memory Size 118: Asia Pacific (Taipei) 🌎
+  - Region added for metric Caching Memory Size 13 5: Asia Pacific (Taipei) 🌎
+  - Region added for metric Caching Memory Size 58 2: Asia Pacific (Taipei) 🌎
+  - Region added for metric API Calls Number of up to 333 million: Asia Pacific (Taipei) 🌎
+  - Region added for metric Caching Memory Size 6 1: Asia Pacific (Taipei) 🌎
+  - Region added for metric API Calls Number of Request Next 19 billion: Asia Pacific (Taipei) 🌎
+  - Region added for metric API Calls Number of Request Over 20 billion: Asia Pacific (Taipei) 🌎
+  - Region added for metric Caching Memory Size 28 4: Asia Pacific (Taipei) 🌎
+  - Region added for metric API Calls Number of Request Next 667 million: Asia Pacific (Taipei) 🌎
+  - Region added for metric Caching Memory Size 0 5: Asia Pacific (Taipei) 🌎
+  - Region added for metric Caching Memory Size 237: Asia Pacific (Taipei) 🌎
+  - Region added for metric Caching Memory Size 1 6: Asia Pacific (Taipei) 🌎
+
+- [route53](processed/route53.json)
+  - Region added for metric Query Profiles Base Price over 1B: Asia Pacific (Taipei) 🌎
+  - Region added for metric DNS Domain Names DNS Firewall per Mo: Asia Pacific (Taipei) 🌎
+  - Region added for metric Query over 1B: Asia Pacific (Taipei) 🌎
+  - Region added for metric DNS Query DNS Firewall per Queries: Asia Pacific (Taipei) 🌎
+  - Region added for metric Query ENI: Asia Pacific (Taipei) 🌎
+  - Region added for metric DNS Query DNS Firewall per Queries over 1B: Asia Pacific (Taipei) 🌎
+  - Region added for metric Query first 1B: Asia Pacific (Taipei) 🌎
+  - Region added for metric Query DNS Firewall Advanced over 1B: Asia Pacific (Taipei) 🌎
+  - Region added for metric Query DoH ENI: Asia Pacific (Taipei) 🌎
+  - Region added for metric Query Profiles over 1B: Asia Pacific (Taipei) 🌎
+  - Region added for metric Query Resolver over 1B: Asia Pacific (Taipei) 🌎
+  - Region added for metric Query Standard External over 1B: Asia Pacific (Taipei) 🌎
+  - Region added for metric Query Resolver first 1B: Asia Pacific (Taipei) 🌎
+  - Region added for metric Query Standard External first 1B: Asia Pacific (Taipei) 🌎
+
+- [eks](processed/eks.json)
+  - Region added for metric Compute per hours: Asia Pacific (Taipei) 🌎
+  - Region added for metric Compute ExtendedSupport per Hours: Asia Pacific (Taipei) 🌎
+  - Region added for metric Fargate perCPU per hours: Asia Pacific (Taipei) 🌎
+  - Region added for metric Fargate perGB per hours: Asia Pacific (Taipei) 🌎
+  - Region added for metric Compute per Hours: Asia Pacific (Taipei) 🌎
+
+- [swf](processed/swf.json)
+  - Region added for metric InitiatedWorkflows: Asia Pacific (Taipei) 🌎
+  - Region added for metric OpenWorkflowDays: Asia Pacific (Taipei) 🌎
+  - Region added for metric InitiatedActions: Asia Pacific (Taipei) 🌎
+  - Region added for metric ClosedRetainedWorkflowDays: Asia Pacific (Taipei) 🌎
+
+- [config](processed/config.json)
+  - Region added for metric Config Rules ProactiveConfigRuleEvaluation 500001 and more: Asia Pacific (Taipei) 🌎
+  - Region added for metric Config Custom: Asia Pacific (Taipei) 🌎
+  - Region added for metric Config configurationItemRecordedDaily: Asia Pacific (Taipei) 🌎
+  - Region added for metric Config: Asia Pacific (Taipei) 🌎
+  - Region added for metric Config Rules ProactiveConfigRuleEvaluation next 400000: Asia Pacific (Taipei) 🌎
+  - Region added for metric Config Rules 500001 and more: Asia Pacific (Taipei) 🌎
+  - Region added for metric Config Rules next 400000: Asia Pacific (Taipei) 🌎
+  - Region added for metric Config Conformance Packs next 400000: Asia Pacific (Taipei) 🌎
+  - Region added for metric Config Conformance Packs first 100000: Asia Pacific (Taipei) 🌎
+  - Region added for metric Config Conformance Packs 500001 and more: Asia Pacific (Taipei) 🌎
+  - Region added for metric Config Rules first 100000: Asia Pacific (Taipei) 🌎
+  - Region added for metric Config Rules ProactiveConfigRuleEvaluation first 100000: Asia Pacific (Taipei) 🌎
+
+- [elasticmapreduce](processed/elasticmapreduce.json)
+  - Region added for metric Instance-instancetype-i4i.12xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-r6g.4xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-i4i.8xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-r6id.32xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-m6g.8xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-i4i.32xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-r6id.24xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-m7i-flex.4xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-r7i.xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-m7g.xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-m6id.8xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-m7gd.2xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-c6i.12xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-c6gn.8xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-m7i.8xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-c6g.12xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-m7g.16xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-r6id.16xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-r6g.2xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-c6i.xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-r6id.12xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-m7i.4xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-c6g.8xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-m7g.8xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-m6gd.16xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-m6id.12xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-m6i.12xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-m6g.2xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-r7i.48xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-i3en.2xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-c7i.48xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-r7i.16xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-i3en.3xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-c6gn.16xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-m7gd.8xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-c7g.4xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-m6i.xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-c7i.24xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-r7gd.xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-m7i.xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-c6gn.12xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-m6g.16xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-i4i.2xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-m7i-flex.xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-r6g.8xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-c6id.16xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-m6gd.4xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-m7g.12xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-c6i.8xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-m6gd.2xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-m6id.xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-i3en.24xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-r6id.xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-c6id.12xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-m6id.32xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-r6g.16xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-c6i.4xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-r7g.xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-m7gd.xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-m7i.12xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-m6i.16xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-r7g.2xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-i4i.xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-c6id.24xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-r7gd.4xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-m7i-flex.8xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-c7i.16xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-i3en.xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-r6i.xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-r7gd.8xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-m6i.2xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-c7i.8xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-r7i.8xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-r7i.24xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-r6id.2xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-c6id.4xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-r6i.8xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-r6id.8xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-m6g.xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-m7g.2xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-m6i.8xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-r7gd.2xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-m6gd.8xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-c6g.xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-c7i.xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-c6id.32xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-r7g.16xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-m6id.4xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-r6g.12xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-i3en.12xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-c7g.xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-r7g.8xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-m6id.16xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-c6i.16xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-r6id.4xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-m7i.48xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-c7i.12xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-c6gn.xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-r7i.4xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-c6gn.2xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-m6gd.12xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-r7gd.12xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-r7i.2xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-m7gd.12xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-i4i.24xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-m7i.2xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-m6g.12xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-r7g.4xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-c7g.8xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-m6g.4xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-m6id.2xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-m7i.16xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-m6i.4xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-r7i.12xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-c6id.8xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-c6gn.4xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-c7g.16xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-m6gd.xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-m7gd.16xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-c6id.xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-c6g.16xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-r7g.12xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-c7i.4xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-m7g.4xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-i3en.6xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-m6id.24xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-i4i.4xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-m7i.24xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-m7gd.4xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-c6id.2xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-c6g.2xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-r6i.2xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-c6i.2xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-c7g.12xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-r6i.4xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-m7i-flex.2xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-r6i.12xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-c7g.2xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-i4i.16xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-c6g.4xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-r6g.xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-r7gd.16xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-c7i.2xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance-instancetype-r6i.16xlarge: Asia Pacific (Taipei) 🌎
+
+- [s3glacierdeeparchive](processed/s3glacierdeeparchive.json)
+  - Region added for metric Upload part to Glacier Deep Archive Requests: Asia Pacific (Taipei) 🌎
+  - Region added for metric Complete Multipart Upload to Glacier Deep Archive Requests: Asia Pacific (Taipei) 🌎
+  - Region added for metric PUT to Glacier Deep Archive Requests: Asia Pacific (Taipei) 🌎
+  - Region added for metric POST to Glacier Deep Archive Requests: Asia Pacific (Taipei) 🌎
+  - Region added for metric Copy part to Glacier Deep Archive Requests: Asia Pacific (Taipei) 🌎
+  - Region added for metric Lifecycle to Glacier Deep Archive Requests: Asia Pacific (Taipei) 🌎
+  - Region added for metric Glacier Deep Archive GB Mo: Asia Pacific (Taipei) 🌎
+  - Region added for metric GDA Standard Restore Requests: Asia Pacific (Taipei) 🌎
+  - Region added for metric Initiate Multipart Upload for replication to Glacier Deep Archive Requests: Asia Pacific (Taipei) 🌎
+  - Region added for metric COPY Object to Glacier Deep Archive Requests: Asia Pacific (Taipei) 🌎
+  - Region added for metric Initiate Multipart Upload to Glacier Deep Archive Requests: Asia Pacific (Taipei) 🌎
+  - Region added for metric PUT for replication to Glacier Deep Archive Requests: Asia Pacific (Taipei) 🌎
+  - Region added for metric Complete Multipart Upload for repl to Glacier Deep Archive Requests: Asia Pacific (Taipei) 🌎
+  - Region added for metric S3 Bulk-Retrieval GB: Asia Pacific (Taipei) 🌎
+  - Region added for metric Upload part for replication to Glacier Deep Archive Requests: Asia Pacific (Taipei) 🌎
+  - Region added for metric S3 EarlyDelete GDA GB-Mo: Asia Pacific (Taipei) 🌎
+  - Region added for metric Glacier Deep Archive Bulk Restore Requests: Asia Pacific (Taipei) 🌎
+  - Region added for metric S3 Standard-Retrieval GB: Asia Pacific (Taipei) 🌎
+
+- [xray](processed/xray.json)
+  - Region added for metric Traces Stored: Asia Pacific (Taipei) 🌎
+  - Region added for metric Traces Stored Insights: Asia Pacific (Taipei) 🌎
+  - Region added for metric Traces Retrieved: Asia Pacific (Taipei) 🌎
+  - Region added for metric Traces Scanned: Asia Pacific (Taipei) 🌎
+
+- [cloudmap](processed/cloudmap.json)
+  - Region added for metric API Call DIR-API-Calls: Asia Pacific (Taipei) 🌎
+  - Region added for metric Resource: Asia Pacific (Taipei) 🌎
+  - Region added for metric API Call: Asia Pacific (Taipei) 🌎
+
+- [iamaccessanalyzer](processed/iamaccessanalyzer.json)
+  - Region added for metric Findings-UnusedAccessAnalysis per Number of Monitored resources: Asia Pacific (Taipei) 🌎
+  - Region added for metric Checks-AccessCheck per API Requests: Asia Pacific (Taipei) 🌎
+
+- [kinesis](processed/kinesis.json)
+  - Region added for metric Addon shard hour per ShardHour: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemandLongTermRetentionByteHrs per GB month: Asia Pacific (Taipei) 🌎
+  - Region added for metric Payload Units per PutRequest: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemandStreamHr per StreamHr: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemandEFODataRetrieval per GB: Asia Pacific (Taipei) 🌎
+  - Region added for metric Long term Data Retrieval GB per GB: Asia Pacific (Taipei) 🌎
+  - Region added for metric Enhanced fan out per ConsumerShardHour: Asia Pacific (Taipei) 🌎
+  - Region added for metric Provisioned shard hour per ShardHour: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemandDataRetrieval per GB: Asia Pacific (Taipei) 🌎
+  - Region added for metric Enhanced fan out GB of data retrieved per GB: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemandExtendedRetentionByteHrs per GB month: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemandDataIngested per GB: Asia Pacific (Taipei) 🌎
+  - Region added for metric Long term Data Retention GB-month per GB-month: Asia Pacific (Taipei) 🌎
+  - Region added for metric Payload Units per CNN1 PutRequestPayloadUnits: Asia Pacific (Taipei) 🌎
+  - Region added for metric Provisioned shard hour per CNN1 Storage-ShardHour: Asia Pacific (Taipei) 🌎
+
+- [datasync](processed/datasync.json)
+  - Region added for metric Data transferred: Asia Pacific (Taipei) 🌎
+
+- [efs](processed/efs.json)
+  - Region added for metric Infrequent Access Storage GB Mo: Asia Pacific (Taipei) 🌎
+  - Region added for metric EFS Storage Requests Read per GB: Asia Pacific (Taipei) 🌎
+  - Region added for metric Archive Storage Write Write GB: Asia Pacific (Taipei) 🌎
+  - Region added for metric Throughput Included: Asia Pacific (Taipei) 🌎
+  - Region added for metric Throughput Provisioned: Asia Pacific (Taipei) 🌎
+  - Region added for metric Infrequent Access Requests Read per GB: Asia Pacific (Taipei) 🌎
+  - Region added for metric EFS Storage Requests Write per GB: Asia Pacific (Taipei) 🌎
+  - Region added for metric Archive Storage GB Mo: Asia Pacific (Taipei) 🌎
+  - Region added for metric General Purpose Storage GB Mo: Asia Pacific (Taipei) 🌎
+  - Region added for metric Infrequent Access ET Storage GB Mo: Asia Pacific (Taipei) 🌎
+  - Region added for metric Archive Storage Read Read GB: Asia Pacific (Taipei) 🌎
+  - Region added for metric Infrequent Access Requests Write per GB: Asia Pacific (Taipei) 🌎
+
+- [states](processed/states.json)
+  - Region added for metric Number of Workflow Requests: Asia Pacific (Taipei) 🌎
+  - Region added for metric Duration of Workflows from 0 to 3600000: Asia Pacific (Taipei) 🌎
+  - Region added for metric Duration of Workflows over 18000000: Asia Pacific (Taipei) 🌎
+  - Region added for metric AWS Step Functions: Asia Pacific (Taipei) 🌎
+  - Region added for metric Duration of Workflows from 3600000 to 18000000: Asia Pacific (Taipei) 🌎
+
+- [cloudformation](processed/cloudformation.json)
+  - Region added for metric CloudFormation-ResourceProvider-Duration per Second: Asia Pacific (Taipei) 🌎
+  - Region added for metric CloudFormation-Hook-Duration per seconds: Asia Pacific (Taipei) 🌎
+  - Region added for metric CloudFormation-Hook-Invocation per Count: Asia Pacific (Taipei) 🌎
+  - Region added for metric CloudFormation-ResourceProvider-Invocation per Operations: Asia Pacific (Taipei) 🌎
+  - Region added for metric CloudFormation-Hook-Invocation per Operations: Asia Pacific (Taipei) 🌎
+  - Region added for metric CloudFormation-Hook-Invocation per Unit: Asia Pacific (Taipei) 🌎
+  - Region added for metric CloudFormation-ResourceProvider-Duration per seconds: Asia Pacific (Taipei) 🌎
+  - Region added for metric CloudFormation-Hook-Duration per Second: Asia Pacific (Taipei) 🌎
+
+- [certificatemanager](processed/certificatemanager.json)
+  - Region added for metric Certificate Issued from 1000 to 10000: Asia Pacific (Taipei) 🌎
+  - Region added for metric Short lived Certificate Authority: Asia Pacific (Taipei) 🌎
+  - Region added for metric OCSP Response: Asia Pacific (Taipei) 🌎
+  - Region added for metric OCSP Query: Asia Pacific (Taipei) 🌎
+  - Region added for metric Certificate Authority Free: Asia Pacific (Taipei) 🌎
+  - Region added for metric Certificate Issued from 10001 and above: Asia Pacific (Taipei) 🌎
+  - Region added for metric Certificate Issued from 0 to 1000: Asia Pacific (Taipei) 🌎
+  - Region added for metric Short lived Certificate Issued: Asia Pacific (Taipei) 🌎
+  - Region added for metric Certificate Authority Paid: Asia Pacific (Taipei) 🌎
+
+- [redshift](processed/redshift.json)
+  - Region added for metric [OnDemand Compute Instance Current Generation] dc2 8xlarge OnDemand Compute Instance Current Generation: Asia Pacific (Taipei) (Memory: 244 GiB, vCPU: 32, Storage: 2.56TB SSD, I/O: 7.50 GB/s, Instance Type: dc2.8xlarge, ECU: 99) 🌎
+  - Region added for metric [OnDemand Compute Instance Current Generation] dc2 large OnDemand Compute Instance Current Generation: Asia Pacific (Taipei) (Memory: 15 GiB, vCPU: 2, Storage: 0.16TB SSD, I/O: 0.60 GB/s, Instance Type: dc2.large, ECU: 7) 🌎
+  - Region added for metric [OnDemand Compute Instance Current Generation] ra3 16xlarge OnDemand Compute Instance Current Generation: Asia Pacific (Taipei) (Memory: 384 GiB, vCPU: 48, Storage: 64TB RMS, I/O: 8.00 GB/s, Instance Type: ra3.16xlarge, ECU: 148.5) 🌎
+  - Region added for metric [OnDemand Compute Instance Current Generation] ra3 4xlarge OnDemand Compute Instance Current Generation: Asia Pacific (Taipei) (Memory: 96 GiB, vCPU: 12, Storage: 64TB RMS, I/O: 2.00 GB/s, Instance Type: ra3.4xlarge, ECU: 37.125) 🌎
+  - Region added for metric [OnDemand Compute Instance Current Generation] ra3 large OnDemand Compute Instance Current Generation: Asia Pacific (Taipei) (Memory: 16 GiB, vCPU: 2, Storage: 8TB RMS, I/O: 0.325 GB/s, Instance Type: ra3.large, ECU: 6.1875) 🌎
+  - Region added for metric [OnDemand Compute Instance Current Generation] ra3 xlplus OnDemand Compute Instance Current Generation: Asia Pacific (Taipei) (Memory: 32 GiB, vCPU: 4, Storage: 32TB RMS, I/O: 0.65 GB/s, Instance Type: ra3.xlplus, ECU: 12.375) 🌎
+  - Region added for metric [Redshift Concurrency Scaling Current Generation RA3] ra3 16xlarge Redshift Concurrency Scaling Current Generation RA3: Asia Pacific (Taipei) (Instance Type: ra3.16xlarge, Usage Family: RA3) 🌎
+  - Region added for metric [Redshift Concurrency Scaling Current Generation RA3] ra3 4xlarge Redshift Concurrency Scaling Current Generation RA3: Asia Pacific (Taipei) (Instance Type: ra3.4xlarge, Usage Family: RA3) 🌎
+  - Region added for metric [Redshift Concurrency Scaling Current Generation RA3] ra3 xlplus Redshift Concurrency Scaling Current Generation RA3: Asia Pacific (Taipei) (Instance Type: ra3.xlplus, Usage Family: RA3) 🌎
+  - Region added for metric Redshift Serverless compute charges per RPU-Hr: Asia Pacific (Taipei) 🌎
+  - Region added for metric [Redshift Concurrency Scaling Current Generation RA3] ra3 large Redshift Concurrency Scaling Current Generation RA3: Asia Pacific (Taipei) (Instance Type: ra3.large, Usage Family: RA3) 🌎
+  - Billing metric added: [Redshift Concurrency Scaling Current Generation Dense Compute] dc2 8xlarge Redshift Concurrency Scaling Current Generation Dense Compute;dc2 8xlarge Redshift Concurrency Scaling Current Generation RA3;dc2 8xlarge Redshift Concurrency Scaling Current Generation Dense Storage 💡
+  - Billing metric added: [Redshift Concurrency Scaling Current Generation Dense Compute] dc2 large Redshift Concurrency Scaling Current Generation Dense Compute;dc2 large Redshift Concurrency Scaling Current Generation RA3;dc2 large Redshift Concurrency Scaling Current Generation Dense Storage 💡
+
+- [cloudwatch](processed/cloudwatch.json)
+  - Region added for metric Vended Logs Next Next 20TB: Asia Pacific (Taipei) 🌎
+  - Region added for metric API Request GetMetricWidgetImage: Asia Pacific (Taipei) 🌎
+  - Region added for metric IA Vended ingested logs from 0 upto 10240: Asia Pacific (Taipei) 🌎
+  - Region added for metric Alarm High Resolution: Asia Pacific (Taipei) 🌎
+  - Region added for metric IA Custom ingested Logs from 0 upto Inf: Asia Pacific (Taipei) 🌎
+  - Region added for metric IA Vended ingested logs from 51200 upto Inf: Asia Pacific (Taipei) 🌎
+  - Region added for metric Metric 0 upto Inf: Asia Pacific (Taipei) 🌎
+  - Region added for metric Alarm Composite: Asia Pacific (Taipei) 🌎
+  - Region added for metric Contributor Insights DynamoDB: Asia Pacific (Taipei) 🌎
+  - Region added for metric Vended Logs First 10TB: Asia Pacific (Taipei) 🌎
+  - Region added for metric Metric 4000000000 upto Inf: Asia Pacific (Taipei) 🌎
+  - Region added for metric ObservationCount CI EKS 4000000000 to Inf: Asia Pacific (Taipei) 🌎
+  - Region added for metric Delivered Logs for next 20TB: Asia Pacific (Taipei) 🌎
+  - Region added for metric IA Vended ingested logs from 10240 upto 30720: Asia Pacific (Taipei) 🌎
+  - Region added for metric Metric for the next 750000: Asia Pacific (Taipei) 🌎
+  - Region added for metric Metric Streams MetricUpdate: Asia Pacific (Taipei) 🌎
+  - Region added for metric Metric for the first 1000000000: Asia Pacific (Taipei) 🌎
+  - Region added for metric ObservationCount CI EKS 0 to 1000000000: Asia Pacific (Taipei) 🌎
+  - Region added for metric Stored Data: Asia Pacific (Taipei) 🌎
+  - Region added for metric Delivered Logs for over 50TB: Asia Pacific (Taipei) 🌎
+  - Region added for metric CW RUMCloudWatch RUM events: Asia Pacific (Taipei) 🌎
+  - Region added for metric API Request: Asia Pacific (Taipei) 🌎
+  - Region added for metric IA Vended ingested logs from 30720 upto 51200: Asia Pacific (Taipei) 🌎
+  - Region added for metric API Request GetInsightRuleReport: Asia Pacific (Taipei) 🌎
+  - Region added for metric Amazon Kinesis Data Firehose Delivered Logs for over 50TB: Asia Pacific (Taipei) 🌎
+  - Region added for metric Queried Logs Insights: Asia Pacific (Taipei) 🌎
+  - Region added for metric Canaries per Runs: Asia Pacific (Taipei) 🌎
+  - Region added for metric Metrics Insights Alarms Standard: Asia Pacific (Taipei) 🌎
+  - Region added for metric Delivered Logs for next next 20 TB: Asia Pacific (Taipei) 🌎
+  - Region added for metric Vended Logs Next 20TB: Asia Pacific (Taipei) 🌎
+  - Region added for metric CW RUMCloudWatch RUM free events: Asia Pacific (Taipei) 🌎
+  - Region added for metric Metric for over 1000000: Asia Pacific (Taipei) 🌎
+  - Region added for metric Alarm Standard: Asia Pacific (Taipei) 🌎
+  - Region added for metric Vended Logs over 50TB: Asia Pacific (Taipei) 🌎
+  - Region added for metric Event CloudWatchLog: Asia Pacific (Taipei) 🌎
+  - Region added for metric Delivered Logs for first 10TB: Asia Pacific (Taipei) 🌎
+  - Region added for metric API Request GetMetricData: Asia Pacific (Taipei) 🌎
+  - Region added for metric Parquet Conversion: Asia Pacific (Taipei) 🌎
+  - Region added for metric Metric for the next 240000: Asia Pacific (Taipei) 🌎
+  - Region added for metric Amazon Kinesis Data Firehose Delivered Logs for next 20TB: Asia Pacific (Taipei) 🌎
+  - Region added for metric Amazon Kinesis Data Firehose Delivered Logs for first 10TB: Asia Pacific (Taipei) 🌎
+  - Region added for metric Amazon Kinesis Data Firehose Delivered Logs for next next 20 TB: Asia Pacific (Taipei) 🌎
+  - Region added for metric Event DynamoDB: Asia Pacific (Taipei) 🌎
+  - Region added for metric Metric for the first 10000: Asia Pacific (Taipei) 🌎
+  - Region added for metric Contributor Insights CloudWatchLogs: Asia Pacific (Taipei) 🌎
+  - Region added for metric Logs Collected Data Ingestion: Asia Pacific (Taipei) 🌎
+  - Region added for metric Metric 1000000000 upto 4000000000: Asia Pacific (Taipei) 🌎
+  - Region added for metric ObservationCount CI EKS 1000000000 to 4000000000: Asia Pacific (Taipei) 🌎
+  - Region added for metric StartLiveTail: Asia Pacific (Taipei) 🌎
+
+- [ecs](processed/ecs.json)
+  - Region added for metric perGB per hour: Asia Pacific (Taipei) 🌎
+  - Region added for metric Storage per GB-Hours: Asia Pacific (Taipei) 🌎
+  - Region added for metric ARM perCPU per hour: Asia Pacific (Taipei) 🌎
+  - Region added for metric ARM perGB per hour: Asia Pacific (Taipei) 🌎
+  - Region added for metric per hour: Asia Pacific (Taipei) 🌎
+  - Region added for metric perCPU per hour: Asia Pacific (Taipei) 🌎
+
+- [ecr](processed/ecr.json)
+  - Region added for metric EC2 Container Registry: Asia Pacific (Taipei) 🌎
+
+- [queueservice](processed/queueservice.json)
+  - Region added for metric Standard per Requests Tier3: Asia Pacific (Taipei) 🌎
+  - Region added for metric FIFO first-in first-out per Requests Tier3: Asia Pacific (Taipei) 🌎
+  - Region added for metric FIFO first-in first-out per Requests: Asia Pacific (Taipei) 🌎
+  - Region added for metric Standard per Requests Tier2: Asia Pacific (Taipei) 🌎
+  - Region added for metric Standard per Requests: Asia Pacific (Taipei) 🌎
+  - Region added for metric FIFO first-in first-out per Requests Tier2: Asia Pacific (Taipei) 🌎
+
+- [systemsmanager](processed/systemsmanager.json)
+  - Region added for metric eo42fVWxP-RLDPDsTn8rkBokFk0Cgi6yNNShGQWfiDg V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric Get Configuration Call: Asia Pacific (Taipei) 🌎
+  - Region added for metric Ops Item: Asia Pacific (Taipei) 🌎
+  - Region added for metric Advanced Parameter Standard Throughput per API Request: Asia Pacific (Taipei) 🌎
+  - Region added for metric Get or Describe per API Requests: Asia Pacific (Taipei) 🌎
+  - Region added for metric Configuration Received: Asia Pacific (Taipei) 🌎
+  - Region added for metric Parameter Higher Throughputper API Request: Asia Pacific (Taipei) 🌎
+  - Region added for metric OpsItem API Request: Asia Pacific (Taipei) 🌎
+  - Region added for metric response plan months: Asia Pacific (Taipei) 🌎
+  - Region added for metric Advanced Parameter: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance advanced per Hrs: Asia Pacific (Taipei) 🌎
+  - Region added for metric Instance advanced per UnitHrs: Asia Pacific (Taipei) 🌎
+  - Region added for metric Storage per GB Mo: Asia Pacific (Taipei) 🌎
+  - Region added for metric DataTransfer per GB: Asia Pacific (Taipei) 🌎
+  - Region added for metric advanced or standard: Asia Pacific (Taipei) 🌎
+  - Region added for metric Advanced Parameter Standard Throughput per Units: Asia Pacific (Taipei) 🌎
+
+- [ec2](processed/ec2.json)
+  - Region added for metric OnDemand Linux-instancetype-p4de.24xlarge: Asia Pacific (Tokyo) 🌎
+  - Region added for metric OnDemand Linux-instancetype-p5.48xlarge: Asia Pacific (Jakarta) 🌎
+
+- [backup](processed/backup.json)
+  - Region added for metric [Aurora DSQL AWSBackup-DataTransfer]: US West (Oregon) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Aurora DSQL AWSBackup-DataTransfer]: US East (Ohio) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Aurora DSQL AWSBackup-DataTransfer]: US East (N. Virginia) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Aurora DSQL AWSBackup-DataTransfer]: EU (Paris) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Aurora DSQL AWSBackup-DataTransfer]: EU (London) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Aurora DSQL AWSBackup-DataTransfer]: EU (Ireland) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Aurora DSQL AWSBackup-DataTransfer]: Asia Pacific (Tokyo) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Aurora DSQL AWSBackup-DataTransfer]: Asia Pacific (Osaka) (To Location: Asia Pacific (Taipei)) 🌎
+
+- [sns](processed/sns.json)
+  - Region added for metric HTTP Notifications: Asia Pacific (Taipei) 🌎
+  - Region added for metric HTTP 100000 to Inf: Asia Pacific (Taipei) 🌎
+  - Region added for metric AWS Lambda Notifications: Asia Pacific (Taipei) 🌎
+  - Region added for metric Amazon SNS FIFO Subscription Messages per Messages: Asia Pacific (Taipei) 🌎
+  - Region added for metric Amazon SQS Notifications: Asia Pacific (Taipei) 🌎
+  - Region added for metric SMTP 0 to 1000: Asia Pacific (Taipei) 🌎
+  - Region added for metric Amazon SNS FIFO Topics Storage per GB month: Asia Pacific (Taipei) 🌎
+  - Region added for metric Amazon SNS FIFO API Requests per Requests: Asia Pacific (Taipei) 🌎
+  - Region added for metric Amazon SNS API Requests: Asia Pacific (Taipei) 🌎
+  - Region added for metric SNS FIFO Publish Payload per GB: Asia Pacific (Taipei) 🌎
+  - Region added for metric Amazon SNS FIFO Topics Archive Processing per GB: Asia Pacific (Taipei) 🌎
+  - Region added for metric Amazon SNS Standard Payload Scanned Filtered per GB: Asia Pacific (Taipei) 🌎
+  - Region added for metric HTTP 0 to 100000: Asia Pacific (Taipei) 🌎
+  - Region added for metric SNS Email and Email JSON Notifications: Asia Pacific (Taipei) 🌎
+  - Region added for metric SMTP 1000 to Inf: Asia Pacific (Taipei) 🌎
+  - Region added for metric Amazon SNS Audit Reporting per GB: Asia Pacific (Taipei) 🌎
+  - Region added for metric Amazon Kinesis Data Firehose Messages: Asia Pacific (Taipei) 🌎
+  - Region added for metric Amazon SNS Message Scanning per GB: Asia Pacific (Taipei) 🌎
+  - Region added for metric Amazon SNS FIFO Subscription Messages Payload per GB: Asia Pacific (Taipei) 🌎
+
+- [elasticache](processed/elasticache.json)
+  - Region added for metric [OnDemand Cache Instance Memory optimized Memcached Current Generation] OnDemand Cache Instance Memory optimized cache r7g.4xlarge Memcached Current Generation: Asia Pacific (Taipei) (Instance Type: cache.r7g.4xlarge, vCPU: 16, Memory: 105.81 GiB, Network Performance: Up to 15 Gigabit) 🌎
+  - Region added for metric [OnDemand Cache Instance Memory optimized Redis Current Generation] OnDemand Cache Instance Memory optimized cache r7g.2xlarge Redis Current Generation: Asia Pacific (Taipei) (Instance Type: cache.r7g.2xlarge, vCPU: 8, Memory: 52.82 GiB, Network Performance: Up to 15 Gigabit) 🌎
+  - Region added for metric [OnDemand Cache Instance Memory optimized Redis Current Generation] OnDemand Cache Instance Memory optimized cache r7g.12xlarge Redis Current Generation: Asia Pacific (Taipei) (Instance Type: cache.r7g.12xlarge, vCPU: 48, Memory: 317.77 GiB, Network Performance: 22.5 Gigabit) 🌎
+  - Region added for metric [OnDemand Cache Instance Standard Redis Current Generation] OnDemand Cache Instance Standard cache m7g.12xlarge Redis Current Generation: Asia Pacific (Taipei) (Instance Type: cache.m7g.12xlarge, vCPU: 48, Memory: 157.12 GiB, Network Performance: 22.5 Gigabit) 🌎
+  - Region added for metric [OnDemand Cache Instance Memory optimized Memcached Current Generation] OnDemand Cache Instance Memory optimized cache r7g.12xlarge Memcached Current Generation: Asia Pacific (Taipei) (Instance Type: cache.r7g.12xlarge, vCPU: 48, Memory: 317.77 GiB, Network Performance: 22.5 Gigabit) 🌎
+  - Region added for metric [OnDemand Cache Instance Standard Memcached Current Generation] OnDemand Cache Instance Standard cache t4g.micro Memcached Current Generation: Asia Pacific (Taipei) (Instance Type: cache.t4g.micro, vCPU: 2, Memory: 0.5 GiB, Network Performance: Up to 5 Gigabit) 🌎
+  - Region added for metric [OnDemand Cache Instance Memory optimized Redis Current Generation] OnDemand Cache Instance Memory optimized cache r7g.xlarge Redis Current Generation: Asia Pacific (Taipei) (Instance Type: cache.r7g.xlarge, vCPU: 4, Memory: 26.32 GiB, Network Performance: Up to 12.5 Gigabit) 🌎
+  - Region added for metric [OnDemand Cache Instance Memory optimized Redis Current Generation] OnDemand Cache Instance Memory optimized cache r7g.8xlarge Redis Current Generation: Asia Pacific (Taipei) (Instance Type: cache.r7g.8xlarge, vCPU: 32, Memory: 209.55 GiB, Network Performance: 15 Gigabit) 🌎
+  - Region added for metric [OnDemand Cache Instance Standard Valkey Current Generation] OnDemand Cache Instance Standard cache m7g.2xlarge Valkey Current Generation: Asia Pacific (Taipei) (Instance Type: cache.m7g.2xlarge, vCPU: 8, Memory: 26.04 GiB, Network Performance: Up to 15 Gigabit) 🌎
+  - Region added for metric [OnDemand Cache Instance Memory optimized Memcached Current Generation] OnDemand Cache Instance Memory optimized cache r7g.2xlarge Memcached Current Generation: Asia Pacific (Taipei) (Instance Type: cache.r7g.2xlarge, vCPU: 8, Memory: 52.82 GiB, Network Performance: Up to 15 Gigabit) 🌎
+  - Region added for metric [OnDemand Cache Instance Memory optimized Memcached Current Generation] OnDemand Cache Instance Memory optimized cache r7g.8xlarge Memcached Current Generation: Asia Pacific (Taipei) (Instance Type: cache.r7g.8xlarge, vCPU: 32, Memory: 209.55 GiB, Network Performance: 15 Gigabit) 🌎
+  - Region added for metric [OnDemand Cache Instance Memory optimized Redis Current Generation] OnDemand Cache Instance Memory optimized cache r7g.16xlarge Redis Current Generation: Asia Pacific (Taipei) (Instance Type: cache.r7g.16xlarge, vCPU: 64, Memory: 419.09 GiB, Network Performance: 30 Gigabit) 🌎
+  - Region added for metric [OnDemand Cache Instance Standard Redis Current Generation] OnDemand Cache Instance Standard cache m7g.large Redis Current Generation: Asia Pacific (Taipei) (Instance Type: cache.m7g.large, vCPU: 2, Memory: 6.38 GiB, Network Performance: Up to 12.5 Gigabit) 🌎
+  - Region added for metric [OnDemand Cache Instance Standard Memcached Current Generation] OnDemand Cache Instance Standard cache m7g.xlarge Memcached Current Generation: Asia Pacific (Taipei) (Instance Type: cache.m7g.xlarge, vCPU: 4, Memory: 12.93 GiB, Network Performance: Up to 12.5 Gigabit) 🌎
+  - Region added for metric [OnDemand Cache Instance Memory optimized Valkey Current Generation] OnDemand Cache Instance Memory optimized cache r7g.8xlarge Valkey Current Generation: Asia Pacific (Taipei) (Instance Type: cache.r7g.8xlarge, vCPU: 32, Memory: 209.55 GiB, Network Performance: 15 Gigabit) 🌎
+  - Region added for metric [OnDemand Cache Instance Memory optimized Memcached Current Generation] OnDemand Cache Instance Memory optimized cache r7g.xlarge Memcached Current Generation: Asia Pacific (Taipei) (Instance Type: cache.r7g.xlarge, vCPU: 4, Memory: 26.32 GiB, Network Performance: Up to 12.5 Gigabit) 🌎
+  - Region added for metric [OnDemand Cache Instance Memory optimized Memcached Current Generation] OnDemand Cache Instance Memory optimized cache r7g.16xlarge Memcached Current Generation: Asia Pacific (Taipei) (Instance Type: cache.r7g.16xlarge, vCPU: 64, Memory: 419.09 GiB, Network Performance: 30 Gigabit) 🌎
+  - Region added for metric [OnDemand Cache Instance Standard Valkey Current Generation] OnDemand Cache Instance Standard cache t4g.micro Valkey Current Generation: Asia Pacific (Taipei) (Instance Type: cache.t4g.micro, vCPU: 2, Memory: 0.5 GiB, Network Performance: Up to 5 Gigabit) 🌎
+  - Region added for metric [OnDemand Cache Instance Standard Memcached Current Generation] OnDemand Cache Instance Standard cache m7g.16xlarge Memcached Current Generation: Asia Pacific (Taipei) (Instance Type: cache.m7g.16xlarge, vCPU: 64, Memory: 209.55 GiB, Network Performance: 30 Gigabit) 🌎
+  - Region added for metric [OnDemand Cache Instance Standard Valkey Current Generation] OnDemand Cache Instance Standard cache m7g.4xlarge Valkey Current Generation: Asia Pacific (Taipei) (Instance Type: cache.m7g.4xlarge, vCPU: 16, Memory: 52.26 GiB, Network Performance: Up to 15 Gigabit) 🌎
+  - Region added for metric [OnDemand Cache Instance Standard Valkey Current Generation] OnDemand Cache Instance Standard cache t4g.small Valkey Current Generation: Asia Pacific (Taipei) (Instance Type: cache.t4g.small, vCPU: 2, Memory: 1.37 GiB, Network Performance: Up to 5 Gigabit) 🌎
+  - Region added for metric [OnDemand Cache Instance Standard Memcached Current Generation] OnDemand Cache Instance Standard cache m7g.4xlarge Memcached Current Generation: Asia Pacific (Taipei) (Instance Type: cache.m7g.4xlarge, vCPU: 16, Memory: 52.26 GiB, Network Performance: Up to 15 Gigabit) 🌎
+  - Region added for metric [OnDemand Cache Instance Standard Valkey Current Generation] OnDemand Cache Instance Standard cache m7g.large Valkey Current Generation: Asia Pacific (Taipei) (Instance Type: cache.m7g.large, vCPU: 2, Memory: 6.38 GiB, Network Performance: Up to 12.5 Gigabit) 🌎
+  - Region added for metric [OnDemand Cache Instance Standard Valkey Current Generation] OnDemand Cache Instance Standard cache m7g.12xlarge Valkey Current Generation: Asia Pacific (Taipei) (Instance Type: cache.m7g.12xlarge, vCPU: 48, Memory: 157.12 GiB, Network Performance: 22.5 Gigabit) 🌎
+  - Region added for metric [OnDemand Cache Instance Standard Memcached Current Generation] OnDemand Cache Instance Standard cache t4g.small Memcached Current Generation: Asia Pacific (Taipei) (Instance Type: cache.t4g.small, vCPU: 2, Memory: 1.37 GiB, Network Performance: Up to 5 Gigabit) 🌎
+  - Region added for metric [OnDemand Cache Instance Standard Memcached Current Generation] OnDemand Cache Instance Standard cache m7g.8xlarge Memcached Current Generation: Asia Pacific (Taipei) (Instance Type: cache.m7g.8xlarge, vCPU: 32, Memory: 103.68 GiB, Network Performance: 15 Gigabit) 🌎
+  - Region added for metric [OnDemand Cache Instance Standard Redis Current Generation] OnDemand Cache Instance Standard cache t4g.medium Redis Current Generation: Asia Pacific (Taipei) (Instance Type: cache.t4g.medium, vCPU: 2, Memory: 3.09 GiB, Network Performance: Up to 5 Gigabit) 🌎
+  - Region added for metric [OnDemand Cache Instance Standard Memcached Current Generation] OnDemand Cache Instance Standard cache m7g.large Memcached Current Generation: Asia Pacific (Taipei) (Instance Type: cache.m7g.large, vCPU: 2, Memory: 6.38 GiB, Network Performance: Up to 12.5 Gigabit) 🌎
+  - Region added for metric [OnDemand Cache Instance Memory optimized Redis Current Generation] OnDemand Cache Instance Memory optimized cache r7g.large Redis Current Generation: Asia Pacific (Taipei) (Instance Type: cache.r7g.large, vCPU: 2, Memory: 13.07 GiB, Network Performance: Up to 12.5 Gigabit) 🌎
+  - Region added for metric [OnDemand Cache Instance Standard Valkey Current Generation] OnDemand Cache Instance Standard cache m7g.xlarge Valkey Current Generation: Asia Pacific (Taipei) (Instance Type: cache.m7g.xlarge, vCPU: 4, Memory: 12.93 GiB, Network Performance: Up to 12.5 Gigabit) 🌎
+  - Region added for metric [OnDemand Cache Instance Memory optimized Valkey Current Generation] OnDemand Cache Instance Memory optimized cache r7g.4xlarge Valkey Current Generation: Asia Pacific (Taipei) (Instance Type: cache.r7g.4xlarge, vCPU: 16, Memory: 105.81 GiB, Network Performance: Up to 15 Gigabit) 🌎
+  - Region added for metric [OnDemand Cache Instance Memory optimized Valkey Current Generation] OnDemand Cache Instance Memory optimized cache r7g.xlarge Valkey Current Generation: Asia Pacific (Taipei) (Instance Type: cache.r7g.xlarge, vCPU: 4, Memory: 26.32 GiB, Network Performance: Up to 12.5 Gigabit) 🌎
+  - Region added for metric [OnDemand Cache Instance Standard Redis Current Generation] OnDemand Cache Instance Standard cache m7g.4xlarge Redis Current Generation: Asia Pacific (Taipei) (Instance Type: cache.m7g.4xlarge, vCPU: 16, Memory: 52.26 GiB, Network Performance: Up to 15 Gigabit) 🌎
+  - Region added for metric [OnDemand Cache Instance Memory optimized Valkey Current Generation] OnDemand Cache Instance Memory optimized cache r7g.large Valkey Current Generation: Asia Pacific (Taipei) (Instance Type: cache.r7g.large, vCPU: 2, Memory: 13.07 GiB, Network Performance: Up to 12.5 Gigabit) 🌎
+  - Region added for metric [OnDemand Cache Instance Standard Redis Current Generation] OnDemand Cache Instance Standard cache t4g.small Redis Current Generation: Asia Pacific (Taipei) (Instance Type: cache.t4g.small, vCPU: 2, Memory: 1.37 GiB, Network Performance: Up to 5 Gigabit) 🌎
+  - Region added for metric [OnDemand Cache Instance Standard Memcached Current Generation] OnDemand Cache Instance Standard cache t4g.medium Memcached Current Generation: Asia Pacific (Taipei) (Instance Type: cache.t4g.medium, vCPU: 2, Memory: 3.09 GiB, Network Performance: Up to 5 Gigabit) 🌎
+  - Region added for metric [OnDemand Cache Instance Memory optimized Valkey Current Generation] OnDemand Cache Instance Memory optimized cache r7g.12xlarge Valkey Current Generation: Asia Pacific (Taipei) (Instance Type: cache.r7g.12xlarge, vCPU: 48, Memory: 317.77 GiB, Network Performance: 22.5 Gigabit) 🌎
+  - Region added for metric [OnDemand Cache Instance Memory optimized Redis Current Generation] OnDemand Cache Instance Memory optimized cache r7g.4xlarge Redis Current Generation: Asia Pacific (Taipei) (Instance Type: cache.r7g.4xlarge, vCPU: 16, Memory: 105.81 GiB, Network Performance: Up to 15 Gigabit) 🌎
+  - Region added for metric [OnDemand Cache Instance Standard Redis Current Generation] OnDemand Cache Instance Standard cache m7g.xlarge Redis Current Generation: Asia Pacific (Taipei) (Instance Type: cache.m7g.xlarge, vCPU: 4, Memory: 12.93 GiB, Network Performance: Up to 12.5 Gigabit) 🌎
+  - Region added for metric [OnDemand Cache Instance Standard Redis Current Generation] OnDemand Cache Instance Standard cache m7g.16xlarge Redis Current Generation: Asia Pacific (Taipei) (Instance Type: cache.m7g.16xlarge, vCPU: 64, Memory: 209.55 GiB, Network Performance: 30 Gigabit) 🌎
+  - Region added for metric [OnDemand Cache Instance Standard Valkey Current Generation] OnDemand Cache Instance Standard cache m7g.16xlarge Valkey Current Generation: Asia Pacific (Taipei) (Instance Type: cache.m7g.16xlarge, vCPU: 64, Memory: 209.55 GiB, Network Performance: 30 Gigabit) 🌎
+  - Region added for metric [OnDemand Cache Instance Standard Memcached Current Generation] OnDemand Cache Instance Standard cache m7g.12xlarge Memcached Current Generation: Asia Pacific (Taipei) (Instance Type: cache.m7g.12xlarge, vCPU: 48, Memory: 157.12 GiB, Network Performance: 22.5 Gigabit) 🌎
+  - Region added for metric [OnDemand Cache Instance Standard Memcached Current Generation] OnDemand Cache Instance Standard cache m7g.2xlarge Memcached Current Generation: Asia Pacific (Taipei) (Instance Type: cache.m7g.2xlarge, vCPU: 8, Memory: 26.04 GiB, Network Performance: Up to 15 Gigabit) 🌎
+  - Region added for metric [OnDemand Cache Instance Standard Valkey Current Generation] OnDemand Cache Instance Standard cache t4g.medium Valkey Current Generation: Asia Pacific (Taipei) (Instance Type: cache.t4g.medium, vCPU: 2, Memory: 3.09 GiB, Network Performance: Up to 5 Gigabit) 🌎
+  - Region added for metric [OnDemand Cache Instance Memory optimized Memcached Current Generation] OnDemand Cache Instance Memory optimized cache r7g.large Memcached Current Generation: Asia Pacific (Taipei) (Instance Type: cache.r7g.large, vCPU: 2, Memory: 13.07 GiB, Network Performance: Up to 12.5 Gigabit) 🌎
+  - Region added for metric [OnDemand Cache Instance Standard Redis Current Generation] OnDemand Cache Instance Standard cache m7g.2xlarge Redis Current Generation: Asia Pacific (Taipei) (Instance Type: cache.m7g.2xlarge, vCPU: 8, Memory: 26.04 GiB, Network Performance: Up to 15 Gigabit) 🌎
+  - Region added for metric [OnDemand Cache Instance Standard Valkey Current Generation] OnDemand Cache Instance Standard cache m7g.8xlarge Valkey Current Generation: Asia Pacific (Taipei) (Instance Type: cache.m7g.8xlarge, vCPU: 32, Memory: 103.68 GiB, Network Performance: 15 Gigabit) 🌎
+  - Region added for metric [OnDemand Cache Instance Standard Redis Current Generation] OnDemand Cache Instance Standard cache t4g.micro Redis Current Generation: Asia Pacific (Taipei) (Instance Type: cache.t4g.micro, vCPU: 2, Memory: 0.5 GiB, Network Performance: Up to 5 Gigabit) 🌎
+  - Region added for metric [OnDemand Cache Instance Memory optimized Valkey Current Generation] OnDemand Cache Instance Memory optimized cache r7g.2xlarge Valkey Current Generation: Asia Pacific (Taipei) (Instance Type: cache.r7g.2xlarge, vCPU: 8, Memory: 52.82 GiB, Network Performance: Up to 15 Gigabit) 🌎
+  - Region added for metric [OnDemand Cache Instance Standard Redis Current Generation] OnDemand Cache Instance Standard cache m7g.8xlarge Redis Current Generation: Asia Pacific (Taipei) (Instance Type: cache.m7g.8xlarge, vCPU: 32, Memory: 103.68 GiB, Network Performance: 15 Gigabit) 🌎
+  - Region added for metric [OnDemand Cache Instance Memory optimized Valkey Current Generation] OnDemand Cache Instance Memory optimized cache r7g.16xlarge Valkey Current Generation: Asia Pacific (Taipei) (Instance Type: cache.r7g.16xlarge, vCPU: 64, Memory: 419.09 GiB, Network Performance: 30 Gigabit) 🌎
+  - Region added for metric OnDemand ElastiCache Serverless Memcached per GB-Hours: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand ElastiCache Serverless Valkey per GB-Hours: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand ElastiCache Serverless Memcached per ElastiCacheProcessingUnit: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand ElastiCache Serverless Redis per ElastiCacheProcessingUnit: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand ElastiCache Serverless Valkey per ElastiCacheProcessingUnit: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand ElastiCache Serverless Redis per GB-Hours: Asia Pacific (Taipei) 🌎
+
+- [dynamodb](processed/dynamodb.json)
+  - Region added for metric Provisioned Read Units: Asia Pacific (Taipei) 🌎
+  - Region added for metric Provisioned Write Units Free Tier: Asia Pacific (Taipei) 🌎
+  - Region added for metric Data Storage Indexed - IA GB-Mo: Asia Pacific (Taipei) 🌎
+  - Region added for metric PayPerRequest Replicated Write Request Units IA: Asia Pacific (Taipei) 🌎
+  - Region added for metric PayPerRequest Replicated Write Request Units: Asia Pacific (Taipei) 🌎
+  - Region added for metric Streams Read Requests Free Tier: Asia Pacific (Taipei) 🌎
+  - Region added for metric Change Data Capture Units for Kinesis Data Streams: Asia Pacific (Taipei) 🌎
+  - Region added for metric Data Storage Indexed GB-Mo: Asia Pacific (Taipei) 🌎
+  - Region added for metric Provisioned Replicated Write Units IA: Asia Pacific (Taipei) 🌎
+  - Region added for metric Provisioned 1yr DDB-ReadUnits Upfront Fee: Asia Pacific (Taipei) 🌎
+  - Region added for metric Provisioned Read Units IA: Asia Pacific (Taipei) 🌎
+  - Region added for metric PayPerRequest Write Request Units IA: Asia Pacific (Taipei) 🌎
+  - Region added for metric Provisioned 1yr DDB-WriteUnits Upfront Fee: Asia Pacific (Taipei) 🌎
+  - Region added for metric Export Data Size Incremental Export per GB: Asia Pacific (Taipei) 🌎
+  - Region added for metric PayPerRequest Read Request Units: Asia Pacific (Taipei) 🌎
+  - Region added for metric Import Data Size: Asia Pacific (Taipei) 🌎
+  - Region added for metric Provisioned Replicated Write UnitsFree Tier: Asia Pacific (Taipei) 🌎
+  - Region added for metric Provisioned Write Units IA: Asia Pacific (Taipei) 🌎
+  - Region added for metric Provisioned Read Units Free Tier: Asia Pacific (Taipei) 🌎
+  - Region added for metric 1yr Read Capacity Unit Hrs Provisioned: Asia Pacific (Taipei) 🌎
+  - Region added for metric On-Demand Backup Storage GB-Month: Asia Pacific (Taipei) 🌎
+  - Region added for metric 1yr Write Capacity Unit Hrs Provisioned: Asia Pacific (Taipei) 🌎
+  - Region added for metric PITR Backup Storage GB-Mo: Asia Pacific (Taipei) 🌎
+  - Region added for metric Streams Read Requests: Asia Pacific (Taipei) 🌎
+  - Region added for metric PayPerRequest Write Request Units: Asia Pacific (Taipei) 🌎
+  - Region added for metric Restore Data Size: Asia Pacific (Taipei) 🌎
+  - Region added for metric Export Data Size per GB: Asia Pacific (Taipei) 🌎
+  - Region added for metric Data Storage Indexed Free Tier GB-Mo: Asia Pacific (Taipei) 🌎
+  - Region added for metric Provisioned Replicated Write Units: Asia Pacific (Taipei) 🌎
+  - Region added for metric Provisioned Write Units: Asia Pacific (Taipei) 🌎
+  - Region added for metric PayPerRequest Read Request Units IA: Asia Pacific (Taipei) 🌎
+
+- [es](processed/es.json)
+  - Region added for metric i4i xlarge.search - Storage optimized - Reserved - 1 x 937 Nitro SSD - All Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric c7i 2xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 8, Memory (GiB): 16) 🌎
+  - Region added for metric r7i 8xlarge.search - Memory optimized - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric c7g xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 4, Memory (GiB): 8) 🌎
+  - Region added for metric c7g 8xlarge.search - Compute optimized - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 32, Memory (GiB): 64) 🌎
+  - Region added for metric m7i 8xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 32, Memory (GiB): 128) 🌎
+  - Region added for metric c7g xlarge.search - Compute optimized - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 4, Memory (GiB): 8) 🌎
+  - Region added for metric r7g 16xlarge.search - Memory optimized - OnDemand - EBS Only - - - Hourly Cost: Asia Pacific (Taipei) (vCPU: 64, Memory (GiB): 512) 🌎
+  - Region added for metric r7gd xlarge.search - Memory optimized - Reserved - 1 x 237 NVMe SSD - All Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric m7g 12xlarge.search - General purpose - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 48, Memory (GiB): 192) 🌎
+  - Region added for metric i4i 8xlarge.search - Storage optimized - Reserved - 2 x 3 750 Nitro SSD - All Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric c7g large.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 2, Memory (GiB): 4) 🌎
+  - Region added for metric r7gd 8xlarge.search - Memory optimized - Reserved - 1 x 1900 NVMe SSD - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric m7g 12xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 48, Memory (GiB): 192) 🌎
+  - Region added for metric r7i xlarge.search - Memory optimized - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric m7g 8xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 32, Memory (GiB): 128) 🌎
+  - Region added for metric c7g xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 4, Memory (GiB): 8) 🌎
+  - Region added for metric r7g 16xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 64, Memory (GiB): 512) 🌎
+  - Region added for metric r7gd medium.search - Memory optimized - Reserved - 1 x 80 SSD - All Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 1, Memory (GiB): 8) 🌎
+  - Region added for metric m7i large.search - General purpose - OnDemand - EBS Only - - - Hourly Cost: Asia Pacific (Taipei) (vCPU: 2, Memory (GiB): 8) 🌎
+  - Region added for metric r7gd medium.search - Memory optimized - Reserved - 1 x 80 SSD - No Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 1, Memory (GiB): 8) 🌎
+  - Region added for metric c7i xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 4, Memory (GiB): 8) 🌎
+  - Region added for metric m7g 16xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 64, Memory (GiB): 256) 🌎
+  - Region added for metric i4i large.search - Storage optimized - Reserved - 1 x 468 Nitro SSD - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric i4i 16xlarge.search - Storage optimized - Reserved - 4 x 3 750 Nitro SSD - No Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 64, Memory (GiB): 512) 🌎
+  - Region added for metric r7i xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric r7gd 12xlarge.search - Memory optimized - Reserved - 2 x 1425 NVMe SSD - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric r7i 8xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric r7g xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric r7i large.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric r7i 16xlarge.search - Memory optimized - OnDemand - EBS Only - - - Hourly Cost: Asia Pacific (Taipei) (vCPU: 64, Memory (GiB): 512) 🌎
+  - Region added for metric r7g 12xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric m7i large.search - General purpose - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 2, Memory (GiB): 8) 🌎
+  - Region added for metric r7gd medium.search - Memory optimized - Reserved - 1 x 80 SSD - All Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 1, Memory (GiB): 8) 🌎
+  - Region added for metric m7i 16xlarge.search - General purpose - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 64, Memory (GiB): 256) 🌎
+  - Region added for metric r7gd medium.search - Memory optimized - Reserved - 1 x 80 SSD - No Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 1, Memory (GiB): 8) 🌎
+  - Region added for metric r7gd 8xlarge.search - Memory optimized - Reserved - 1 x 1900 NVMe SSD - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric m7g 16xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 64, Memory (GiB): 256) 🌎
+  - Region added for metric r7gd 16xlarge.search - Memory optimized - OnDemand - 2 x 1900 NVMe SSD - - - Hourly Cost: Asia Pacific (Taipei) (vCPU: 64, Memory (GiB): 512) 🌎
+  - Region added for metric c7g 4xlarge.search - Compute optimized - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 16, Memory (GiB): 32) 🌎
+  - Region added for metric r7i 12xlarge.search - Memory optimized - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric r7gd 8xlarge.search - Memory optimized - Reserved - 1 x 1900 NVMe SSD - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric m7i xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 4, Memory (GiB): 16) 🌎
+  - Region added for metric r7i xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric r7g 12xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric r7g large.search - Memory optimized - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric t3 medium.search - General purpose - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 2, Memory (GiB): 4) 🌎
+  - Region added for metric m7g 2xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 8, Memory (GiB): 32) 🌎
+  - Region added for metric m7g medium.search - General purpose - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 1, Memory (GiB): 4) 🌎
+  - Region added for metric r7gd 12xlarge.search - Memory optimized - OnDemand - 2 x 1425 NVMe SSD - - - Hourly Cost: Asia Pacific (Taipei) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric m7g large.search - General purpose - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 2, Memory (GiB): 8) 🌎
+  - Region added for metric m7g 4xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 16, Memory (GiB): 64) 🌎
+  - Region added for metric m7g 8xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 32, Memory (GiB): 128) 🌎
+  - Region added for metric i4i 32xlarge.search - Storage optimized - Reserved - 8 x 3 750 Nitro SSD - No Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 128, Memory (GiB): 1024) 🌎
+  - Region added for metric r7gd 4xlarge.search - Memory optimized - Reserved - 1 x 950 NVMe SSD - All Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric m7i xlarge.search - General purpose - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 4, Memory (GiB): 16) 🌎
+  - Region added for metric c7g 2xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 8, Memory (GiB): 16) 🌎
+  - Region added for metric t3 medium.search - General purpose - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 2, Memory (GiB): 4) 🌎
+  - Region added for metric m7i xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 4, Memory (GiB): 16) 🌎
+  - Region added for metric m7g 16xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 64, Memory (GiB): 256) 🌎
+  - Region added for metric m7g 2xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 8, Memory (GiB): 32) 🌎
+  - Region added for metric r7g 2xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric r7gd 2xlarge.search - Memory optimized - Reserved - 1 x 475 NVMe SSD - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric c7g 16xlarge.search - Compute optimized - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 64, Memory (GiB): 128) 🌎
+  - Region added for metric m7g 2xlarge.search - General purpose - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 8, Memory (GiB): 32) 🌎
+  - Region added for metric i4i 32xlarge.search - Storage optimized - Reserved - 8 x 3 750 Nitro SSD - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 128, Memory (GiB): 1024) 🌎
+  - Region added for metric c7i 2xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 8, Memory (GiB): 16) 🌎
+  - Region added for metric i4i 8xlarge.search - Storage optimized - Reserved - 2 x 3 750 Nitro SSD - All Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric r7g 2xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric i4i 4xlarge.search - Storage optimized - Reserved - 1 x 3 750 Nitro SSD - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric c7i 2xlarge.search - Compute optimized - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 8, Memory (GiB): 16) 🌎
+  - Region added for metric m7g 16xlarge.search - General purpose - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 64, Memory (GiB): 256) 🌎
+  - Region added for metric r7i xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric c7i large.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 2, Memory (GiB): 4) 🌎
+  - Region added for metric c7g 8xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 32, Memory (GiB): 64) 🌎
+  - Region added for metric c7i 8xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 32, Memory (GiB): 64) 🌎
+  - Region added for metric r7g 4xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric c7i large.search - Compute optimized - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 2, Memory (GiB): 4) 🌎
+  - Region added for metric t3 medium.search - General purpose - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 2, Memory (GiB): 4) 🌎
+  - Region added for metric c7i 4xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 16, Memory (GiB): 32) 🌎
+  - Region added for metric c7g 8xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 32, Memory (GiB): 64) 🌎
+  - Region added for metric r7g xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric r7g 8xlarge.search - Memory optimized - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric c7g 2xlarge.search - Compute optimized - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 8, Memory (GiB): 16) 🌎
+  - Region added for metric r7g 8xlarge.search - Memory optimized - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric m7i 8xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 32, Memory (GiB): 128) 🌎
+  - Region added for metric c7i 16xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 64, Memory (GiB): 128) 🌎
+  - Region added for metric r7gd 4xlarge.search - Memory optimized - Reserved - 1 x 950 NVMe SSD - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric c7i 8xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 32, Memory (GiB): 64) 🌎
+  - Region added for metric m7g 4xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 16, Memory (GiB): 64) 🌎
+  - Region added for metric r7i 8xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric r7i large.search - Memory optimized - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric m7g 4xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 16, Memory (GiB): 64) 🌎
+  - Region added for metric r7g 16xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 64, Memory (GiB): 512) 🌎
+  - Region added for metric r7gd 16xlarge.search - Memory optimized - Reserved - 2 x 1900 NVMe SSD - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 64, Memory (GiB): 512) 🌎
+  - Region added for metric r7g 8xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric m7i 16xlarge.search - General purpose - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 64, Memory (GiB): 256) 🌎
+  - Region added for metric i4i 16xlarge.search - Storage optimized - Reserved - 4 x 3 750 Nitro SSD - All Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 64, Memory (GiB): 512) 🌎
+  - Region added for metric m7g 4xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 16, Memory (GiB): 64) 🌎
+  - Region added for metric m7i 4xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 16, Memory (GiB): 64) 🌎
+  - Region added for metric m7g large.search - General purpose - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 2, Memory (GiB): 8) 🌎
+  - Region added for metric i4i 2xlarge.search - Storage optimized - Reserved - 1 x 1 875 Nitro SSD - All Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric i4i large.search - Storage optimized - OnDemand - 1 x 468 Nitro SSD - - - Hourly Cost: Asia Pacific (Taipei) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric r7g medium.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 1, Memory (GiB): 8) 🌎
+  - Region added for metric r7i xlarge.search - Memory optimized - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric m7g 4xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 16, Memory (GiB): 64) 🌎
+  - Region added for metric r7gd 16xlarge.search - Memory optimized - Reserved - 2 x 1900 NVMe SSD - All Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 64, Memory (GiB): 512) 🌎
+  - Region added for metric i4i 32xlarge.search - Storage optimized - Reserved - 8 x 3 750 Nitro SSD - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 128, Memory (GiB): 1024) 🌎
+  - Region added for metric r7i 2xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric r7i large.search - Memory optimized - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric r7gd 16xlarge.search - Memory optimized - Reserved - 2 x 1900 NVMe SSD - All Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 64, Memory (GiB): 512) 🌎
+  - Region added for metric r7g xlarge.search - Memory optimized - OnDemand - EBS Only - - - Hourly Cost: Asia Pacific (Taipei) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric r7g 16xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 64, Memory (GiB): 512) 🌎
+  - Region added for metric i4i 8xlarge.search - Storage optimized - Reserved - 2 x 3 750 Nitro SSD - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric m7i 12xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 48, Memory (GiB): 192) 🌎
+  - Region added for metric c7i large.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 2, Memory (GiB): 4) 🌎
+  - Region added for metric r7gd large.search - Memory optimized - Reserved - 1 x 118 NVMe SSD - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric c7g xlarge.search - Compute optimized - OnDemand - EBS Only - - - Hourly Cost: Asia Pacific (Taipei) (vCPU: 4, Memory (GiB): 8) 🌎
+  - Region added for metric m7g medium.search - General purpose - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 1, Memory (GiB): 4) 🌎
+  - Region added for metric c7g xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 4, Memory (GiB): 8) 🌎
+  - Region added for metric r7gd xlarge.search - Memory optimized - Reserved - 1 x 237 NVMe SSD - All Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric c7g 2xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 8, Memory (GiB): 16) 🌎
+  - Region added for metric m7g 12xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 48, Memory (GiB): 192) 🌎
+  - Region added for metric m7i 12xlarge.search - General purpose - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 48, Memory (GiB): 192) 🌎
+  - Region added for metric i4i 16xlarge.search - Storage optimized - Reserved - 4 x 3 750 Nitro SSD - All Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 64, Memory (GiB): 512) 🌎
+  - Region added for metric r7i 8xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric c7i large.search - Compute optimized - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 2, Memory (GiB): 4) 🌎
+  - Region added for metric c7g 16xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 64, Memory (GiB): 128) 🌎
+  - Region added for metric i4i 8xlarge.search - Storage optimized - Reserved - 2 x 3 750 Nitro SSD - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric i4i 16xlarge.search - Storage optimized - Reserved - 4 x 3 750 Nitro SSD - All Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 64, Memory (GiB): 512) 🌎
+  - Region added for metric r7g xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric r7i 16xlarge.search - Memory optimized - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 64, Memory (GiB): 512) 🌎
+  - Region added for metric r7gd xlarge.search - Memory optimized - Reserved - 1 x 237 NVMe SSD - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric c7g large.search - Compute optimized - OnDemand - EBS Only - - - Hourly Cost: Asia Pacific (Taipei) (vCPU: 2, Memory (GiB): 4) 🌎
+  - Region added for metric r7i 12xlarge.search - Memory optimized - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric r7g 4xlarge.search - Memory optimized - OnDemand - EBS Only - - - Hourly Cost: Asia Pacific (Taipei) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric m7i 8xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 32, Memory (GiB): 128) 🌎
+  - Region added for metric i4i 16xlarge.search - Storage optimized - OnDemand - 4 x 3 750 Nitro SSD - - - Hourly Cost: Asia Pacific (Taipei) (vCPU: 64, Memory (GiB): 512) 🌎
+  - Region added for metric r7i 2xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric r7gd 2xlarge.search - Memory optimized - Reserved - 1 x 475 NVMe SSD - All Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric r7i 12xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric c7g 4xlarge.search - Compute optimized - OnDemand - EBS Only - - - Hourly Cost: Asia Pacific (Taipei) (vCPU: 16, Memory (GiB): 32) 🌎
+  - Region added for metric m7i 8xlarge.search - General purpose - OnDemand - EBS Only - - - Hourly Cost: Asia Pacific (Taipei) (vCPU: 32, Memory (GiB): 128) 🌎
+  - Region added for metric r7i 12xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric r7g 4xlarge.search - Memory optimized - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric m7g 16xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 64, Memory (GiB): 256) 🌎
+  - Region added for metric i4i 16xlarge.search - Storage optimized - Reserved - 4 x 3 750 Nitro SSD - No Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 64, Memory (GiB): 512) 🌎
+  - Region added for metric m7i 12xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 48, Memory (GiB): 192) 🌎
+  - Region added for metric i4i 8xlarge.search - Storage optimized - Reserved - 2 x 3 750 Nitro SSD - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric i4i 12xlarge.search - Storage optimized - Reserved - 3 x 3 750 Nitro SSD - All Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric m7g 12xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 48, Memory (GiB): 192) 🌎
+  - Region added for metric c7i 12xlarge.search - Compute optimized - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 48, Memory (GiB): 96) 🌎
+  - Region added for metric c7g large.search - Compute optimized - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 2, Memory (GiB): 4) 🌎
+  - Region added for metric i4i 8xlarge.search - Storage optimized - Reserved - 2 x 3 750 Nitro SSD - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric m7i 4xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 16, Memory (GiB): 64) 🌎
+  - Region added for metric r7gd medium.search - Memory optimized - Reserved - 1 x 80 SSD - All Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 1, Memory (GiB): 8) 🌎
+  - Region added for metric m7i 12xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 48, Memory (GiB): 192) 🌎
+  - Region added for metric r7g 12xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric r7gd 4xlarge.search - Memory optimized - Reserved - 1 x 950 NVMe SSD - All Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric r7g xlarge.search - Memory optimized - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric c7g large.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 2, Memory (GiB): 4) 🌎
+  - Region added for metric r7i 16xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 64, Memory (GiB): 512) 🌎
+  - Region added for metric c7g 4xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 16, Memory (GiB): 32) 🌎
+  - Region added for metric r7i large.search - Memory optimized - OnDemand - EBS Only - - - Hourly Cost: Asia Pacific (Taipei) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric m7g 8xlarge.search - General purpose - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 32, Memory (GiB): 128) 🌎
+  - Region added for metric c7i 4xlarge.search - Compute optimized - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 16, Memory (GiB): 32) 🌎
+  - Region added for metric r7gd 2xlarge.search - Memory optimized - Reserved - 1 x 475 NVMe SSD - No Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric c7g 16xlarge.search - Compute optimized - OnDemand - EBS Only - - - Hourly Cost: Asia Pacific (Taipei) (vCPU: 64, Memory (GiB): 128) 🌎
+  - Region added for metric m7i 4xlarge.search - General purpose - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 16, Memory (GiB): 64) 🌎
+  - Region added for metric c7g 16xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 64, Memory (GiB): 128) 🌎
+  - Region added for metric m7g 16xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 64, Memory (GiB): 256) 🌎
+  - Region added for metric c7g 4xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 16, Memory (GiB): 32) 🌎
+  - Region added for metric m7g medium.search - General purpose - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 1, Memory (GiB): 4) 🌎
+  - Region added for metric m7g 2xlarge.search - General purpose - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 8, Memory (GiB): 32) 🌎
+  - Region added for metric r7i 4xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric c7i 4xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 16, Memory (GiB): 32) 🌎
+  - Region added for metric r7g 8xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric m7i large.search - General purpose - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 2, Memory (GiB): 8) 🌎
+  - Region added for metric r7g 4xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric c7g 8xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 32, Memory (GiB): 64) 🌎
+  - Region added for metric r7gd large.search - Memory optimized - Reserved - 1 x 118 NVMe SSD - No Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric c7i 4xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 16, Memory (GiB): 32) 🌎
+  - Region added for metric c7i 4xlarge.search - Compute optimized - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 16, Memory (GiB): 32) 🌎
+  - Region added for metric c7i 8xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 32, Memory (GiB): 64) 🌎
+  - Region added for metric m7i 16xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 64, Memory (GiB): 256) 🌎
+  - Region added for metric r7i large.search - Memory optimized - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric c7g 12xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 48, Memory (GiB): 96) 🌎
+  - Region added for metric r7gd 4xlarge.search - Memory optimized - OnDemand - 1 x 950 NVMe SSD - - - Hourly Cost: Asia Pacific (Taipei) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric c7g 4xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 16, Memory (GiB): 32) 🌎
+  - Region added for metric r7gd 2xlarge.search - Memory optimized - Reserved - 1 x 475 NVMe SSD - All Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric m7i large.search - General purpose - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 2, Memory (GiB): 8) 🌎
+  - Region added for metric m7g 4xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 16, Memory (GiB): 64) 🌎
+  - Region added for metric c7g xlarge.search - Compute optimized - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 4, Memory (GiB): 8) 🌎
+  - Region added for metric r7gd large.search - Memory optimized - OnDemand - 1 x 118 NVMe SSD - - - Hourly Cost: Asia Pacific (Taipei) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric m7i 8xlarge.search - General purpose - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 32, Memory (GiB): 128) 🌎
+  - Region added for metric i4i 16xlarge.search - Storage optimized - Reserved - 4 x 3 750 Nitro SSD - All Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 64, Memory (GiB): 512) 🌎
+  - Region added for metric c7i 4xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 16, Memory (GiB): 32) 🌎
+  - Region added for metric c7i 16xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 64, Memory (GiB): 128) 🌎
+  - Region added for metric i4i 8xlarge.search - Storage optimized - Reserved - 2 x 3 750 Nitro SSD - All Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric i4i 32xlarge.search - Storage optimized - Reserved - 8 x 3 750 Nitro SSD - All Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 128, Memory (GiB): 1024) 🌎
+  - Region added for metric r7gd 4xlarge.search - Memory optimized - Reserved - 1 x 950 NVMe SSD - No Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric c7g 16xlarge.search - Compute optimized - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 64, Memory (GiB): 128) 🌎
+  - Region added for metric r7g 16xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 64, Memory (GiB): 512) 🌎
+  - Region added for metric i4i large.search - Storage optimized - Reserved - 1 x 468 Nitro SSD - No Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric r7g 4xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric r7i 12xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric i4i large.search - Storage optimized - Reserved - 1 x 468 Nitro SSD - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric r7i 16xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 64, Memory (GiB): 512) 🌎
+  - Region added for metric r7g 16xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 64, Memory (GiB): 512) 🌎
+  - Region added for metric r7g large.search - Memory optimized - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric r7gd 8xlarge.search - Memory optimized - OnDemand - 1 x 1900 NVMe SSD - - - Hourly Cost: Asia Pacific (Taipei) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric m7i 12xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 48, Memory (GiB): 192) 🌎
+  - Region added for metric c7i 16xlarge.search - Compute optimized - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 64, Memory (GiB): 128) 🌎
+  - Region added for metric c7i 8xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 32, Memory (GiB): 64) 🌎
+  - Region added for metric r7g 8xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric c7g 8xlarge.search - Compute optimized - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 32, Memory (GiB): 64) 🌎
+  - Region added for metric c7i 16xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 64, Memory (GiB): 128) 🌎
+  - Region added for metric r7i xlarge.search - Memory optimized - OnDemand - EBS Only - - - Hourly Cost: Asia Pacific (Taipei) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric r7g 8xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric i4i large.search - Storage optimized - Reserved - 1 x 468 Nitro SSD - All Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric r7g 12xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric r7i xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric i4i 24xlarge.search - Storage optimized - Reserved - 6 x 3 750 Nitro SSD - All Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 96, Memory (GiB): 768) 🌎
+  - Region added for metric m7i 8xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 32, Memory (GiB): 128) 🌎
+  - Region added for metric r7gd large.search - Memory optimized - Reserved - 1 x 118 NVMe SSD - All Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric r7gd 16xlarge.search - Memory optimized - Reserved - 2 x 1900 NVMe SSD - No Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 64, Memory (GiB): 512) 🌎
+  - Region added for metric r7g medium.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 1, Memory (GiB): 8) 🌎
+  - Region added for metric r7g 2xlarge.search - Memory optimized - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric c7i 4xlarge.search - Compute optimized - OnDemand - EBS Only - - - Hourly Cost: Asia Pacific (Taipei) (vCPU: 16, Memory (GiB): 32) 🌎
+  - Region added for metric r7gd medium.search - Memory optimized - Reserved - 1 x 80 SSD - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 1, Memory (GiB): 8) 🌎
+  - Region added for metric m7g 8xlarge.search - General purpose - OnDemand - EBS Only - - - Hourly Cost: Asia Pacific (Taipei) (vCPU: 32, Memory (GiB): 128) 🌎
+  - Region added for metric m7g xlarge.search - General purpose - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 4, Memory (GiB): 16) 🌎
+  - Region added for metric r7gd 2xlarge.search - Memory optimized - OnDemand - 1 x 475 NVMe SSD - - - Hourly Cost: Asia Pacific (Taipei) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric m7g xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 4, Memory (GiB): 16) 🌎
+  - Region added for metric c7g 2xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 8, Memory (GiB): 16) 🌎
+  - Region added for metric m7i 16xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 64, Memory (GiB): 256) 🌎
+  - Region added for metric m7i 12xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 48, Memory (GiB): 192) 🌎
+  - Region added for metric r7g xlarge.search - Memory optimized - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric i4i 32xlarge.search - Storage optimized - Reserved - 8 x 3 750 Nitro SSD - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 128, Memory (GiB): 1024) 🌎
+  - Region added for metric r7g large.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric r7gd large.search - Memory optimized - Reserved - 1 x 118 NVMe SSD - All Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric m7i large.search - General purpose - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 2, Memory (GiB): 8) 🌎
+  - Region added for metric c7i xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 4, Memory (GiB): 8) 🌎
+  - Region added for metric m7g medium.search - General purpose - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 1, Memory (GiB): 4) 🌎
+  - Region added for metric m7i 12xlarge.search - General purpose - OnDemand - EBS Only - - - Hourly Cost: Asia Pacific (Taipei) (vCPU: 48, Memory (GiB): 192) 🌎
+  - Region added for metric c7i large.search - Compute optimized - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 2, Memory (GiB): 4) 🌎
+  - Region added for metric m7g large.search - General purpose - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 2, Memory (GiB): 8) 🌎
+  - Region added for metric c7i large.search - Compute optimized - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 2, Memory (GiB): 4) 🌎
+  - Region added for metric r7gd medium.search - Memory optimized - OnDemand - 1 x 80 SSD - - - Hourly Cost: Asia Pacific (Taipei) (vCPU: 1, Memory (GiB): 8) 🌎
+  - Region added for metric i4i large.search - Storage optimized - Reserved - 1 x 468 Nitro SSD - All Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric r7i xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric i4i xlarge.search - Storage optimized - Reserved - 1 x 937 Nitro SSD - All Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric r7g 2xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric i4i 24xlarge.search - Storage optimized - Reserved - 6 x 3 750 Nitro SSD - All Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 96, Memory (GiB): 768) 🌎
+  - Region added for metric i4i 2xlarge.search - Storage optimized - Reserved - 1 x 1 875 Nitro SSD - All Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric r7i 4xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric i4i 24xlarge.search - Storage optimized - Reserved - 6 x 3 750 Nitro SSD - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 96, Memory (GiB): 768) 🌎
+  - Region added for metric m7i 16xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 64, Memory (GiB): 256) 🌎
+  - Region added for metric r7gd 4xlarge.search - Memory optimized - Reserved - 1 x 950 NVMe SSD - All Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric i4i 24xlarge.search - Storage optimized - OnDemand - 6 x 3 750 Nitro SSD - - - Hourly Cost: Asia Pacific (Taipei) (vCPU: 96, Memory (GiB): 768) 🌎
+  - Region added for metric m7i 4xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 16, Memory (GiB): 64) 🌎
+  - Region added for metric c7i 12xlarge.search - Compute optimized - OnDemand - EBS Only - - - Hourly Cost: Asia Pacific (Taipei) (vCPU: 48, Memory (GiB): 96) 🌎
+  - Region added for metric m7g medium.search - General purpose - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 1, Memory (GiB): 4) 🌎
+  - Region added for metric r7i 8xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric r7g 16xlarge.search - Memory optimized - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 64, Memory (GiB): 512) 🌎
+  - Region added for metric r7gd large.search - Memory optimized - Reserved - 1 x 118 NVMe SSD - All Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric c7g large.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 2, Memory (GiB): 4) 🌎
+  - Region added for metric r7i 16xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 64, Memory (GiB): 512) 🌎
+  - Region added for metric i4i 32xlarge.search - Storage optimized - Reserved - 8 x 3 750 Nitro SSD - All Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 128, Memory (GiB): 1024) 🌎
+  - Region added for metric m7i 16xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 64, Memory (GiB): 256) 🌎
+  - Region added for metric r7gd medium.search - Memory optimized - Reserved - 1 x 80 SSD - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 1, Memory (GiB): 8) 🌎
+  - Region added for metric c7g xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 4, Memory (GiB): 8) 🌎
+  - Region added for metric c7g 16xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 64, Memory (GiB): 128) 🌎
+  - Region added for metric m7i 8xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 32, Memory (GiB): 128) 🌎
+  - Region added for metric r7gd 12xlarge.search - Memory optimized - Reserved - 2 x 1425 NVMe SSD - All Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric r7g large.search - Memory optimized - OnDemand - EBS Only - - - Hourly Cost: Asia Pacific (Taipei) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric c7i 8xlarge.search - Compute optimized - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 32, Memory (GiB): 64) 🌎
+  - Region added for metric c7i 12xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 48, Memory (GiB): 96) 🌎
+  - Region added for metric r7g 16xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 64, Memory (GiB): 512) 🌎
+  - Region added for metric r7g 8xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric m7g 12xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 48, Memory (GiB): 192) 🌎
+  - Region added for metric r7gd 2xlarge.search - Memory optimized - Reserved - 1 x 475 NVMe SSD - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric i4i 4xlarge.search - Storage optimized - Reserved - 1 x 3 750 Nitro SSD - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric i4i 2xlarge.search - Storage optimized - Reserved - 1 x 1 875 Nitro SSD - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric r7g large.search - Memory optimized - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric r7gd 16xlarge.search - Memory optimized - Reserved - 2 x 1900 NVMe SSD - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 64, Memory (GiB): 512) 🌎
+  - Region added for metric c7g 12xlarge.search - Compute optimized - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 48, Memory (GiB): 96) 🌎
+  - Region added for metric c7i large.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 2, Memory (GiB): 4) 🌎
+  - Region added for metric c7g large.search - Compute optimized - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 2, Memory (GiB): 4) 🌎
+  - Region added for metric r7i 4xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric i4i 12xlarge.search - Storage optimized - Reserved - 3 x 3 750 Nitro SSD - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric c7i 2xlarge.search - Compute optimized - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 8, Memory (GiB): 16) 🌎
+  - Region added for metric c7i 12xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 48, Memory (GiB): 96) 🌎
+  - Region added for metric c7i 4xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 16, Memory (GiB): 32) 🌎
+  - Region added for metric c7i 8xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 32, Memory (GiB): 64) 🌎
+  - Region added for metric r7g large.search - Memory optimized - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric i4i 24xlarge.search - Storage optimized - Reserved - 6 x 3 750 Nitro SSD - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 96, Memory (GiB): 768) 🌎
+  - Region added for metric r7i 4xlarge.search - Memory optimized - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric i4i 8xlarge.search - Storage optimized - OnDemand - 2 x 3 750 Nitro SSD - - - Hourly Cost: Asia Pacific (Taipei) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric r7i 4xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric m7g 4xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 16, Memory (GiB): 64) 🌎
+  - Region added for metric c7i xlarge.search - Compute optimized - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 4, Memory (GiB): 8) 🌎
+  - Region added for metric c7g xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 4, Memory (GiB): 8) 🌎
+  - Region added for metric m7i 4xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 16, Memory (GiB): 64) 🌎
+  - Region added for metric r7i 16xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 64, Memory (GiB): 512) 🌎
+  - Region added for metric m7i xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 4, Memory (GiB): 16) 🌎
+  - Region added for metric r7i large.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric m7g xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 4, Memory (GiB): 16) 🌎
+  - Region added for metric m7g 2xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 8, Memory (GiB): 32) 🌎
+  - Region added for metric r7i 2xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric m7i 2xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 8, Memory (GiB): 32) 🌎
+  - Region added for metric m7i 2xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 8, Memory (GiB): 32) 🌎
+  - Region added for metric r7g xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric r7gd xlarge.search - Memory optimized - Reserved - 1 x 237 NVMe SSD - No Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric r7i 4xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric i4i 12xlarge.search - Storage optimized - Reserved - 3 x 3 750 Nitro SSD - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric r7gd 4xlarge.search - Memory optimized - Reserved - 1 x 950 NVMe SSD - All Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric m7g 8xlarge.search - General purpose - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 32, Memory (GiB): 128) 🌎
+  - Region added for metric c7i 2xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 8, Memory (GiB): 16) 🌎
+  - Region added for metric i4i xlarge.search - Storage optimized - Reserved - 1 x 937 Nitro SSD - All Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric m7i 4xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 16, Memory (GiB): 64) 🌎
+  - Region added for metric i4i xlarge.search - Storage optimized - Reserved - 1 x 937 Nitro SSD - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric r7i large.search - Memory optimized - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric r7gd 2xlarge.search - Memory optimized - Reserved - 1 x 475 NVMe SSD - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric r7g 4xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric c7i 2xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 8, Memory (GiB): 16) 🌎
+  - Region added for metric c7g 16xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 64, Memory (GiB): 128) 🌎
+  - Region added for metric m7i 2xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 8, Memory (GiB): 32) 🌎
+  - Region added for metric c7i 4xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 16, Memory (GiB): 32) 🌎
+  - Region added for metric c7g 8xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 32, Memory (GiB): 64) 🌎
+  - Region added for metric c7i 12xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 48, Memory (GiB): 96) 🌎
+  - Region added for metric c7g large.search - Compute optimized - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 2, Memory (GiB): 4) 🌎
+  - Region added for metric c7g 8xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 32, Memory (GiB): 64) 🌎
+  - Region added for metric t3 medium.search - General purpose - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 2, Memory (GiB): 4) 🌎
+  - Region added for metric r7g large.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric r7i 12xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric m7g xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 4, Memory (GiB): 16) 🌎
+  - Region added for metric m7g 12xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 48, Memory (GiB): 192) 🌎
+  - Region added for metric i4i 4xlarge.search - Storage optimized - OnDemand - 1 x 3 750 Nitro SSD - - - Hourly Cost: Asia Pacific (Taipei) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric c7g 12xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 48, Memory (GiB): 96) 🌎
+  - Region added for metric c7i 2xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 8, Memory (GiB): 16) 🌎
+  - Region added for metric i4i 8xlarge.search - Storage optimized - Reserved - 2 x 3 750 Nitro SSD - No Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric c7g 12xlarge.search - Compute optimized - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 48, Memory (GiB): 96) 🌎
+  - Region added for metric r7i xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric c7i 8xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 32, Memory (GiB): 64) 🌎
+  - Region added for metric r7gd xlarge.search - Memory optimized - Reserved - 1 x 237 NVMe SSD - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric i4i large.search - Storage optimized - Reserved - 1 x 468 Nitro SSD - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric r7i 8xlarge.search - Memory optimized - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric m7g 12xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 48, Memory (GiB): 192) 🌎
+  - Region added for metric i4i 4xlarge.search - Storage optimized - Reserved - 1 x 3 750 Nitro SSD - All Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric r7i xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric m7i large.search - General purpose - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 2, Memory (GiB): 8) 🌎
+  - Region added for metric c7i 16xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 64, Memory (GiB): 128) 🌎
+  - Region added for metric i4i 12xlarge.search - Storage optimized - OnDemand - 3 x 3 750 Nitro SSD - - - Hourly Cost: Asia Pacific (Taipei) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric r7i 16xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 64, Memory (GiB): 512) 🌎
+  - Region added for metric c7g 2xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 8, Memory (GiB): 16) 🌎
+  - Region added for metric m7g medium.search - General purpose - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 1, Memory (GiB): 4) 🌎
+  - Region added for metric r7gd 12xlarge.search - Memory optimized - Reserved - 2 x 1425 NVMe SSD - All Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric c7i 16xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 64, Memory (GiB): 128) 🌎
+  - Region added for metric r7gd medium.search - Memory optimized - Reserved - 1 x 80 SSD - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 1, Memory (GiB): 8) 🌎
+  - Region added for metric r7g 4xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric r7g 8xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric c7i xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 4, Memory (GiB): 8) 🌎
+  - Region added for metric t3 medium.search - General purpose - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 2, Memory (GiB): 4) 🌎
+  - Region added for metric r7gd 4xlarge.search - Memory optimized - Reserved - 1 x 950 NVMe SSD - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric r7g 8xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric c7g 4xlarge.search - Compute optimized - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 16, Memory (GiB): 32) 🌎
+  - Region added for metric c7i xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 4, Memory (GiB): 8) 🌎
+  - Region added for metric c7g 4xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 16, Memory (GiB): 32) 🌎
+  - Region added for metric c7g large.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 2, Memory (GiB): 4) 🌎
+  - Region added for metric r7g large.search - Memory optimized - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric c7g 2xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 8, Memory (GiB): 16) 🌎
+  - Region added for metric m7i 8xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 32, Memory (GiB): 128) 🌎
+  - Region added for metric c7g 16xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 64, Memory (GiB): 128) 🌎
+  - Region added for metric i4i 12xlarge.search - Storage optimized - Reserved - 3 x 3 750 Nitro SSD - All Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric m7g large.search - General purpose - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 2, Memory (GiB): 8) 🌎
+  - Region added for metric m7i xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 4, Memory (GiB): 16) 🌎
+  - Region added for metric m7g medium.search - General purpose - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 1, Memory (GiB): 4) 🌎
+  - Region added for metric t3 medium.search - General purpose - OnDemand - EBS Only - - - Hourly Cost: Asia Pacific (Taipei) (vCPU: 2, Memory (GiB): 4) 🌎
+  - Region added for metric i4i 32xlarge.search - Storage optimized - Reserved - 8 x 3 750 Nitro SSD - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 128, Memory (GiB): 1024) 🌎
+  - Region added for metric i4i xlarge.search - Storage optimized - Reserved - 1 x 937 Nitro SSD - All Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric m7g large.search - General purpose - OnDemand - EBS Only - - - Hourly Cost: Asia Pacific (Taipei) (vCPU: 2, Memory (GiB): 8) 🌎
+  - Region added for metric i4i 12xlarge.search - Storage optimized - Reserved - 3 x 3 750 Nitro SSD - No Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric c7g 8xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 32, Memory (GiB): 64) 🌎
+  - Region added for metric r7gd 12xlarge.search - Memory optimized - Reserved - 2 x 1425 NVMe SSD - All Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric i4i large.search - Storage optimized - Reserved - 1 x 468 Nitro SSD - All Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric m7i 2xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 8, Memory (GiB): 32) 🌎
+  - Region added for metric i4i 24xlarge.search - Storage optimized - Reserved - 6 x 3 750 Nitro SSD - All Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 96, Memory (GiB): 768) 🌎
+  - Region added for metric r7g 4xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric i4i large.search - Storage optimized - Reserved - 1 x 468 Nitro SSD - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric m7i 16xlarge.search - General purpose - OnDemand - EBS Only - - - Hourly Cost: Asia Pacific (Taipei) (vCPU: 64, Memory (GiB): 256) 🌎
+  - Region added for metric c7i 8xlarge.search - Compute optimized - OnDemand - EBS Only - - - Hourly Cost: Asia Pacific (Taipei) (vCPU: 32, Memory (GiB): 64) 🌎
+  - Region added for metric r7g medium.search - Memory optimized - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 1, Memory (GiB): 8) 🌎
+  - Region added for metric r7g 4xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric m7g medium.search - General purpose - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 1, Memory (GiB): 4) 🌎
+  - Region added for metric r7gd 12xlarge.search - Memory optimized - Reserved - 2 x 1425 NVMe SSD - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric r7gd 4xlarge.search - Memory optimized - Reserved - 1 x 950 NVMe SSD - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric i4i 12xlarge.search - Storage optimized - Reserved - 3 x 3 750 Nitro SSD - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric m7i 12xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 48, Memory (GiB): 192) 🌎
+  - Region added for metric i4i 4xlarge.search - Storage optimized - Reserved - 1 x 3 750 Nitro SSD - All Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric c7i 12xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 48, Memory (GiB): 96) 🌎
+  - Region added for metric r7gd 16xlarge.search - Memory optimized - Reserved - 2 x 1900 NVMe SSD - No Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 64, Memory (GiB): 512) 🌎
+  - Region added for metric r7i large.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric m7i 8xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 32, Memory (GiB): 128) 🌎
+  - Region added for metric m7i xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 4, Memory (GiB): 16) 🌎
+  - Region added for metric i4i 16xlarge.search - Storage optimized - Reserved - 4 x 3 750 Nitro SSD - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 64, Memory (GiB): 512) 🌎
+  - Region added for metric c7g 4xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 16, Memory (GiB): 32) 🌎
+  - Region added for metric c7g 4xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 16, Memory (GiB): 32) 🌎
+  - Region added for metric r7gd 2xlarge.search - Memory optimized - Reserved - 1 x 475 NVMe SSD - All Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric i4i xlarge.search - Storage optimized - Reserved - 1 x 937 Nitro SSD - No Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric r7gd 12xlarge.search - Memory optimized - Reserved - 2 x 1425 NVMe SSD - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric r7gd medium.search - Memory optimized - Reserved - 1 x 80 SSD - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 1, Memory (GiB): 8) 🌎
+  - Region added for metric m7i 2xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 8, Memory (GiB): 32) 🌎
+  - Region added for metric c7i 12xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 48, Memory (GiB): 96) 🌎
+  - Region added for metric i4i 2xlarge.search - Storage optimized - Reserved - 1 x 1 875 Nitro SSD - All Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric r7gd 16xlarge.search - Memory optimized - Reserved - 2 x 1900 NVMe SSD - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 64, Memory (GiB): 512) 🌎
+  - Region added for metric r7i 4xlarge.search - Memory optimized - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric m7g 16xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 64, Memory (GiB): 256) 🌎
+  - Region added for metric m7i 2xlarge.search - General purpose - OnDemand - EBS Only - - - Hourly Cost: Asia Pacific (Taipei) (vCPU: 8, Memory (GiB): 32) 🌎
+  - Region added for metric c7g 12xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 48, Memory (GiB): 96) 🌎
+  - Region added for metric m7g xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 4, Memory (GiB): 16) 🌎
+  - Region added for metric r7g 8xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric m7g 16xlarge.search - General purpose - OnDemand - EBS Only - - - Hourly Cost: Asia Pacific (Taipei) (vCPU: 64, Memory (GiB): 256) 🌎
+  - Region added for metric r7i 2xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric r7gd xlarge.search - Memory optimized - Reserved - 1 x 237 NVMe SSD - All Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric i4i 4xlarge.search - Storage optimized - Reserved - 1 x 3 750 Nitro SSD - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric m7g 4xlarge.search - General purpose - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 16, Memory (GiB): 64) 🌎
+  - Region added for metric m7i 4xlarge.search - General purpose - OnDemand - EBS Only - - - Hourly Cost: Asia Pacific (Taipei) (vCPU: 16, Memory (GiB): 64) 🌎
+  - Region added for metric m7g large.search - General purpose - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 2, Memory (GiB): 8) 🌎
+  - Region added for metric r7i large.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric r7gd 16xlarge.search - Memory optimized - Reserved - 2 x 1900 NVMe SSD - All Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 64, Memory (GiB): 512) 🌎
+  - Region added for metric r7g medium.search - Memory optimized - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 1, Memory (GiB): 8) 🌎
+  - Region added for metric t3 small.search - General purpose - OnDemand - EBS Only - - - Hourly Cost: Asia Pacific (Taipei) (vCPU: 2, Memory (GiB): 2) 🌎
+  - Region added for metric t3 medium.search - General purpose - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 2, Memory (GiB): 4) 🌎
+  - Region added for metric m7g large.search - General purpose - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 2, Memory (GiB): 8) 🌎
+  - Region added for metric r7g xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric m7g 2xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 8, Memory (GiB): 32) 🌎
+  - Region added for metric i4i 24xlarge.search - Storage optimized - Reserved - 6 x 3 750 Nitro SSD - All Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 96, Memory (GiB): 768) 🌎
+  - Region added for metric i4i 4xlarge.search - Storage optimized - Reserved - 1 x 3 750 Nitro SSD - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric r7gd 8xlarge.search - Memory optimized - Reserved - 1 x 1900 NVMe SSD - All Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric c7i large.search - Compute optimized - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 2, Memory (GiB): 4) 🌎
+  - Region added for metric m7i xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 4, Memory (GiB): 16) 🌎
+  - Region added for metric c7i 2xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 8, Memory (GiB): 16) 🌎
+  - Region added for metric i4i 12xlarge.search - Storage optimized - Reserved - 3 x 3 750 Nitro SSD - All Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric c7g 2xlarge.search - Compute optimized - OnDemand - EBS Only - - - Hourly Cost: Asia Pacific (Taipei) (vCPU: 8, Memory (GiB): 16) 🌎
+  - Region added for metric m7g large.search - General purpose - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 2, Memory (GiB): 8) 🌎
+  - Region added for metric r7gd 8xlarge.search - Memory optimized - Reserved - 1 x 1900 NVMe SSD - All Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric r7i 12xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric r7i large.search - Memory optimized - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric r7gd 12xlarge.search - Memory optimized - Reserved - 2 x 1425 NVMe SSD - No Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric m7g medium.search - General purpose - OnDemand - EBS Only - - - Hourly Cost: Asia Pacific (Taipei) (vCPU: 1, Memory (GiB): 4) 🌎
+  - Region added for metric r7g medium.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 1, Memory (GiB): 8) 🌎
+  - Region added for metric r7g 12xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric r7gd 16xlarge.search - Memory optimized - Reserved - 2 x 1900 NVMe SSD - All Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 64, Memory (GiB): 512) 🌎
+  - Region added for metric r7i 8xlarge.search - Memory optimized - OnDemand - EBS Only - - - Hourly Cost: Asia Pacific (Taipei) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric c7g 12xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 48, Memory (GiB): 96) 🌎
+  - Region added for metric r7gd large.search - Memory optimized - Reserved - 1 x 118 NVMe SSD - No Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric r7i large.search - Memory optimized - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric m7g 4xlarge.search - General purpose - OnDemand - EBS Only - - - Hourly Cost: Asia Pacific (Taipei) (vCPU: 16, Memory (GiB): 64) 🌎
+  - Region added for metric r7gd large.search - Memory optimized - Reserved - 1 x 118 NVMe SSD - All Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric r7gd xlarge.search - Memory optimized - OnDemand - 1 x 237 NVMe SSD - - - Hourly Cost: Asia Pacific (Taipei) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric r7gd xlarge.search - Memory optimized - Reserved - 1 x 237 NVMe SSD - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric i4i 4xlarge.search - Storage optimized - Reserved - 1 x 3 750 Nitro SSD - No Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric c7i 16xlarge.search - Compute optimized - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 64, Memory (GiB): 128) 🌎
+  - Region added for metric m7i xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 4, Memory (GiB): 16) 🌎
+  - Region added for metric i4i 16xlarge.search - Storage optimized - Reserved - 4 x 3 750 Nitro SSD - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 64, Memory (GiB): 512) 🌎
+  - Region added for metric r7gd 8xlarge.search - Memory optimized - Reserved - 1 x 1900 NVMe SSD - All Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric m7i large.search - General purpose - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 2, Memory (GiB): 8) 🌎
+  - Region added for metric r7gd large.search - Memory optimized - Reserved - 1 x 118 NVMe SSD - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric c7g xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 4, Memory (GiB): 8) 🌎
+  - Region added for metric c7i xlarge.search - Compute optimized - OnDemand - EBS Only - - - Hourly Cost: Asia Pacific (Taipei) (vCPU: 4, Memory (GiB): 8) 🌎
+  - Region added for metric m7g 16xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 64, Memory (GiB): 256) 🌎
+  - Region added for metric i4i xlarge.search - Storage optimized - OnDemand - 1 x 937 Nitro SSD - - - Hourly Cost: Asia Pacific (Taipei) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric m7g 8xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 32, Memory (GiB): 128) 🌎
+  - Region added for metric r7g medium.search - Memory optimized - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 1, Memory (GiB): 8) 🌎
+  - Region added for metric m7i large.search - General purpose - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 2, Memory (GiB): 8) 🌎
+  - Region added for metric m7i 2xlarge.search - General purpose - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 8, Memory (GiB): 32) 🌎
+  - Region added for metric m7g xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 4, Memory (GiB): 16) 🌎
+  - Region added for metric c7g 12xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 48, Memory (GiB): 96) 🌎
+  - Region added for metric m7g large.search - General purpose - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 2, Memory (GiB): 8) 🌎
+  - Region added for metric i4i 4xlarge.search - Storage optimized - Reserved - 1 x 3 750 Nitro SSD - No Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric r7i 16xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 64, Memory (GiB): 512) 🌎
+  - Region added for metric m7g xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 4, Memory (GiB): 16) 🌎
+  - Region added for metric m7i 4xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 16, Memory (GiB): 64) 🌎
+  - Region added for metric m7i 12xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 48, Memory (GiB): 192) 🌎
+  - Region added for metric r7gd 2xlarge.search - Memory optimized - Reserved - 1 x 475 NVMe SSD - No Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric m7i xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 4, Memory (GiB): 16) 🌎
+  - Region added for metric r7i 12xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric i4i 2xlarge.search - Storage optimized - Reserved - 1 x 1 875 Nitro SSD - No Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric m7i 4xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 16, Memory (GiB): 64) 🌎
+  - Region added for metric m7g 2xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 8, Memory (GiB): 32) 🌎
+  - Region added for metric r7g large.search - Memory optimized - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric m7g xlarge.search - General purpose - OnDemand - EBS Only - - - Hourly Cost: Asia Pacific (Taipei) (vCPU: 4, Memory (GiB): 16) 🌎
+  - Region added for metric r7g 4xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric r7i 12xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric m7i 8xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 32, Memory (GiB): 128) 🌎
+  - Region added for metric c7i 12xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 48, Memory (GiB): 96) 🌎
+  - Region added for metric c7i 8xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 32, Memory (GiB): 64) 🌎
+  - Region added for metric m7g 2xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 8, Memory (GiB): 32) 🌎
+  - Region added for metric r7i 4xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric c7g 8xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 32, Memory (GiB): 64) 🌎
+  - Region added for metric r7gd medium.search - Memory optimized - Reserved - 1 x 80 SSD - All Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 1, Memory (GiB): 8) 🌎
+  - Region added for metric c7g 4xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 16, Memory (GiB): 32) 🌎
+  - Region added for metric m7i 8xlarge.search - General purpose - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 32, Memory (GiB): 128) 🌎
+  - Region added for metric m7i 12xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 48, Memory (GiB): 192) 🌎
+  - Region added for metric r7gd 2xlarge.search - Memory optimized - Reserved - 1 x 475 NVMe SSD - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric m7i 16xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 64, Memory (GiB): 256) 🌎
+  - Region added for metric r7g medium.search - Memory optimized - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 1, Memory (GiB): 8) 🌎
+  - Region added for metric r7g xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric r7gd 2xlarge.search - Memory optimized - Reserved - 1 x 475 NVMe SSD - All Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric c7g 2xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 8, Memory (GiB): 16) 🌎
+  - Region added for metric c7g 12xlarge.search - Compute optimized - OnDemand - EBS Only - - - Hourly Cost: Asia Pacific (Taipei) (vCPU: 48, Memory (GiB): 96) 🌎
+  - Region added for metric m7g 16xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 64, Memory (GiB): 256) 🌎
+  - Region added for metric r7gd large.search - Memory optimized - Reserved - 1 x 118 NVMe SSD - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric m7g 8xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 32, Memory (GiB): 128) 🌎
+  - Region added for metric r7i 12xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric m7i 16xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 64, Memory (GiB): 256) 🌎
+  - Region added for metric c7g 8xlarge.search - Compute optimized - OnDemand - EBS Only - - - Hourly Cost: Asia Pacific (Taipei) (vCPU: 32, Memory (GiB): 64) 🌎
+  - Region added for metric r7g large.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric i4i 8xlarge.search - Storage optimized - Reserved - 2 x 3 750 Nitro SSD - No Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric c7i 2xlarge.search - Compute optimized - OnDemand - EBS Only - - - Hourly Cost: Asia Pacific (Taipei) (vCPU: 8, Memory (GiB): 16) 🌎
+  - Region added for metric r7g medium.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 1, Memory (GiB): 8) 🌎
+  - Region added for metric c7g 2xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 8, Memory (GiB): 16) 🌎
+  - Region added for metric c7g large.search - Compute optimized - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 2, Memory (GiB): 4) 🌎
+  - Region added for metric r7gd 12xlarge.search - Memory optimized - Reserved - 2 x 1425 NVMe SSD - All Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric i4i 32xlarge.search - Storage optimized - OnDemand - 8 x 3 750 Nitro SSD - - - Hourly Cost: Asia Pacific (Taipei) (vCPU: 128, Memory (GiB): 1024) 🌎
+  - Region added for metric r7g 2xlarge.search - Memory optimized - OnDemand - EBS Only - - - Hourly Cost: Asia Pacific (Taipei) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric r7i 2xlarge.search - Memory optimized - OnDemand - EBS Only - - - Hourly Cost: Asia Pacific (Taipei) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric m7i 2xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 8, Memory (GiB): 32) 🌎
+  - Region added for metric r7g 16xlarge.search - Memory optimized - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 64, Memory (GiB): 512) 🌎
+  - Region added for metric r7g large.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric r7g medium.search - Memory optimized - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 1, Memory (GiB): 8) 🌎
+  - Region added for metric r7g 2xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric r7i 16xlarge.search - Memory optimized - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 64, Memory (GiB): 512) 🌎
+  - Region added for metric m7i 16xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 64, Memory (GiB): 256) 🌎
+  - Region added for metric m7g large.search - General purpose - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 2, Memory (GiB): 8) 🌎
+  - Region added for metric m7i 2xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 8, Memory (GiB): 32) 🌎
+  - Region added for metric m7g medium.search - General purpose - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 1, Memory (GiB): 4) 🌎
+  - Region added for metric r7gd xlarge.search - Memory optimized - Reserved - 1 x 237 NVMe SSD - No Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric m7g 12xlarge.search - General purpose - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 48, Memory (GiB): 192) 🌎
+  - Region added for metric i4i 24xlarge.search - Storage optimized - Reserved - 6 x 3 750 Nitro SSD - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 96, Memory (GiB): 768) 🌎
+  - Region added for metric c7g 8xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 32, Memory (GiB): 64) 🌎
+  - Region added for metric r7gd 8xlarge.search - Memory optimized - Reserved - 1 x 1900 NVMe SSD - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric m7g 12xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 48, Memory (GiB): 192) 🌎
+  - Region added for metric r7i 2xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric c7g 12xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 48, Memory (GiB): 96) 🌎
+  - Region added for metric m7g 2xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 8, Memory (GiB): 32) 🌎
+  - Region added for metric m7i 12xlarge.search - General purpose - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 48, Memory (GiB): 192) 🌎
+  - Region added for metric c7i 12xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 48, Memory (GiB): 96) 🌎
+  - Region added for metric m7g xlarge.search - General purpose - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 4, Memory (GiB): 16) 🌎
+  - Region added for metric r7gd xlarge.search - Memory optimized - Reserved - 1 x 237 NVMe SSD - All Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric i4i 32xlarge.search - Storage optimized - Reserved - 8 x 3 750 Nitro SSD - All Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 128, Memory (GiB): 1024) 🌎
+  - Region added for metric c7i xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 4, Memory (GiB): 8) 🌎
+  - Region added for metric r7i 8xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric m7i large.search - General purpose - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 2, Memory (GiB): 8) 🌎
+  - Region added for metric i4i 24xlarge.search - Storage optimized - Reserved - 6 x 3 750 Nitro SSD - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 96, Memory (GiB): 768) 🌎
+  - Region added for metric r7g 4xlarge.search - Memory optimized - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric c7i 2xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 8, Memory (GiB): 16) 🌎
+  - Region added for metric r7i 2xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric i4i xlarge.search - Storage optimized - Reserved - 1 x 937 Nitro SSD - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric r7i 8xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric r7g xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric r7i 2xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric m7g large.search - General purpose - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 2, Memory (GiB): 8) 🌎
+  - Region added for metric i4i 2xlarge.search - Storage optimized - OnDemand - 1 x 1 875 Nitro SSD - - - Hourly Cost: Asia Pacific (Taipei) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric i4i 12xlarge.search - Storage optimized - Reserved - 3 x 3 750 Nitro SSD - No Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric t3 medium.search - General purpose - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 2, Memory (GiB): 4) 🌎
+  - Region added for metric i4i 12xlarge.search - Storage optimized - Reserved - 3 x 3 750 Nitro SSD - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric c7i xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 4, Memory (GiB): 8) 🌎
+  - Region added for metric c7i 4xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 16, Memory (GiB): 32) 🌎
+  - Region added for metric r7i 12xlarge.search - Memory optimized - OnDemand - EBS Only - - - Hourly Cost: Asia Pacific (Taipei) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric r7g 2xlarge.search - Memory optimized - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric i4i large.search - Storage optimized - Reserved - 1 x 468 Nitro SSD - No Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric m7g 4xlarge.search - General purpose - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 16, Memory (GiB): 64) 🌎
+  - Region added for metric r7i 8xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric i4i 2xlarge.search - Storage optimized - Reserved - 1 x 1 875 Nitro SSD - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric m7i 4xlarge.search - General purpose - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 16, Memory (GiB): 64) 🌎
+  - Region added for metric m7g 16xlarge.search - General purpose - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 64, Memory (GiB): 256) 🌎
+  - Region added for metric m7g 2xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 8, Memory (GiB): 32) 🌎
+  - Region added for metric c7i 16xlarge.search - Compute optimized - OnDemand - EBS Only - - - Hourly Cost: Asia Pacific (Taipei) (vCPU: 64, Memory (GiB): 128) 🌎
+  - Region added for metric r7gd 8xlarge.search - Memory optimized - Reserved - 1 x 1900 NVMe SSD - No Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric r7g medium.search - Memory optimized - OnDemand - EBS Only - - - Hourly Cost: Asia Pacific (Taipei) (vCPU: 1, Memory (GiB): 8) 🌎
+  - Region added for metric c7g 2xlarge.search - Compute optimized - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 8, Memory (GiB): 16) 🌎
+  - Region added for metric r7gd 12xlarge.search - Memory optimized - Reserved - 2 x 1425 NVMe SSD - No Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric c7g 16xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 64, Memory (GiB): 128) 🌎
+  - Region added for metric r7g 12xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric m7g 12xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 48, Memory (GiB): 192) 🌎
+  - Region added for metric c7i xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 4, Memory (GiB): 8) 🌎
+  - Region added for metric i4i 24xlarge.search - Storage optimized - Reserved - 6 x 3 750 Nitro SSD - No Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 96, Memory (GiB): 768) 🌎
+  - Region added for metric t3 medium.search - General purpose - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 2, Memory (GiB): 4) 🌎
+  - Region added for metric c7i 16xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 64, Memory (GiB): 128) 🌎
+  - Region added for metric r7g 16xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 64, Memory (GiB): 512) 🌎
+  - Region added for metric m7g 8xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 32, Memory (GiB): 128) 🌎
+  - Region added for metric r7g medium.search - Memory optimized - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 1, Memory (GiB): 8) 🌎
+  - Region added for metric r7g 2xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric m7i xlarge.search - General purpose - OnDemand - EBS Only - - - Hourly Cost: Asia Pacific (Taipei) (vCPU: 4, Memory (GiB): 16) 🌎
+  - Region added for metric m7g 8xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 32, Memory (GiB): 128) 🌎
+  - Region added for metric m7i 2xlarge.search - General purpose - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 8, Memory (GiB): 32) 🌎
+  - Region added for metric m7g 8xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 32, Memory (GiB): 128) 🌎
+  - Region added for metric r7g 16xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 64, Memory (GiB): 512) 🌎
+  - Region added for metric i4i 8xlarge.search - Storage optimized - Reserved - 2 x 3 750 Nitro SSD - All Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric i4i xlarge.search - Storage optimized - Reserved - 1 x 937 Nitro SSD - No Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric i4i xlarge.search - Storage optimized - Reserved - 1 x 937 Nitro SSD - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric m7i large.search - General purpose - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 2, Memory (GiB): 8) 🌎
+  - Region added for metric r7i 4xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric r7g 12xlarge.search - Memory optimized - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric t3 medium.search - General purpose - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 2, Memory (GiB): 4) 🌎
+  - Region added for metric r7gd 12xlarge.search - Memory optimized - Reserved - 2 x 1425 NVMe SSD - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric r7gd 8xlarge.search - Memory optimized - Reserved - 1 x 1900 NVMe SSD - No Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric r7gd 4xlarge.search - Memory optimized - Reserved - 1 x 950 NVMe SSD - No Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric r7gd xlarge.search - Memory optimized - Reserved - 1 x 237 NVMe SSD - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric r7g 2xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric r7gd 4xlarge.search - Memory optimized - Reserved - 1 x 950 NVMe SSD - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric r7g 8xlarge.search - Memory optimized - OnDemand - EBS Only - - - Hourly Cost: Asia Pacific (Taipei) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric r7i 4xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric c7g 2xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 8, Memory (GiB): 16) 🌎
+  - Region added for metric t3 medium.search - General purpose - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 2, Memory (GiB): 4) 🌎
+  - Region added for metric i4i 32xlarge.search - Storage optimized - Reserved - 8 x 3 750 Nitro SSD - All Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 128, Memory (GiB): 1024) 🌎
+  - Region added for metric r7gd large.search - Memory optimized - Reserved - 1 x 118 NVMe SSD - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric r7g 12xlarge.search - Memory optimized - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric c7i 12xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 48, Memory (GiB): 96) 🌎
+  - Region added for metric r7gd 8xlarge.search - Memory optimized - Reserved - 1 x 1900 NVMe SSD - All Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric c7g large.search - Compute optimized - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 2, Memory (GiB): 4) 🌎
+  - Region added for metric m7g medium.search - General purpose - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 1, Memory (GiB): 4) 🌎
+  - Region added for metric i4i 2xlarge.search - Storage optimized - Reserved - 1 x 1 875 Nitro SSD - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric c7g 12xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 48, Memory (GiB): 96) 🌎
+  - Region added for metric r7i 8xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric m7i large.search - General purpose - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 2, Memory (GiB): 8) 🌎
+  - Region added for metric c7g 4xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 16, Memory (GiB): 32) 🌎
+  - Region added for metric c7g 16xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 64, Memory (GiB): 128) 🌎
+  - Region added for metric c7i xlarge.search - Compute optimized - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 4, Memory (GiB): 8) 🌎
+  - Region added for metric i4i 24xlarge.search - Storage optimized - Reserved - 6 x 3 750 Nitro SSD - No Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 96, Memory (GiB): 768) 🌎
+  - Region added for metric c7i 16xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 64, Memory (GiB): 128) 🌎
+  - Region added for metric c7i 16xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 64, Memory (GiB): 128) 🌎
+  - Region added for metric i4i 4xlarge.search - Storage optimized - Reserved - 1 x 3 750 Nitro SSD - All Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric i4i 2xlarge.search - Storage optimized - Reserved - 1 x 1 875 Nitro SSD - All Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric c7i 8xlarge.search - Compute optimized - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 32, Memory (GiB): 64) 🌎
+  - Region added for metric i4i 12xlarge.search - Storage optimized - Reserved - 3 x 3 750 Nitro SSD - All Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric c7i large.search - Compute optimized - OnDemand - EBS Only - - - Hourly Cost: Asia Pacific (Taipei) (vCPU: 2, Memory (GiB): 4) 🌎
+  - Region added for metric r7g 12xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric m7g 8xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 32, Memory (GiB): 128) 🌎
+  - Region added for metric r7i 16xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 64, Memory (GiB): 512) 🌎
+  - Region added for metric m7i 4xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 16, Memory (GiB): 64) 🌎
+  - Region added for metric i4i large.search - Storage optimized - Reserved - 1 x 468 Nitro SSD - All Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric r7i 4xlarge.search - Memory optimized - OnDemand - EBS Only - - - Hourly Cost: Asia Pacific (Taipei) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric r7i 16xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 64, Memory (GiB): 512) 🌎
+  - Region added for metric i4i 2xlarge.search - Storage optimized - Reserved - 1 x 1 875 Nitro SSD - No Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric m7g xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 4, Memory (GiB): 16) 🌎
+  - Region added for metric m7g xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 4, Memory (GiB): 16) 🌎
+  - Region added for metric c7g 12xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 48, Memory (GiB): 96) 🌎
+  - Region added for metric c7i 12xlarge.search - Compute optimized - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 48, Memory (GiB): 96) 🌎
+  - Region added for metric i4i 2xlarge.search - Storage optimized - Reserved - 1 x 1 875 Nitro SSD - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric r7i 2xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric c7i 2xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 8, Memory (GiB): 16) 🌎
+  - Region added for metric c7i large.search - Compute optimized - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 2, Memory (GiB): 4) 🌎
+  - Region added for metric i4i 16xlarge.search - Storage optimized - Reserved - 4 x 3 750 Nitro SSD - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 64, Memory (GiB): 512) 🌎
+  - Region added for metric r7g 12xlarge.search - Memory optimized - OnDemand - EBS Only - - - Hourly Cost: Asia Pacific (Taipei) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric m7g 2xlarge.search - General purpose - OnDemand - EBS Only - - - Hourly Cost: Asia Pacific (Taipei) (vCPU: 8, Memory (GiB): 32) 🌎
+  - Region added for metric c7g large.search - Compute optimized - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 2, Memory (GiB): 4) 🌎
+  - Region added for metric r7i 2xlarge.search - Memory optimized - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric r7i xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric c7i xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 4, Memory (GiB): 8) 🌎
+  - Region added for metric m7i 16xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 64, Memory (GiB): 256) 🌎
+  - Region added for metric c7g xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 4, Memory (GiB): 8) 🌎
+  - Region added for metric i4i 4xlarge.search - Storage optimized - Reserved - 1 x 3 750 Nitro SSD - All Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric r7gd 16xlarge.search - Memory optimized - Reserved - 2 x 1900 NVMe SSD - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 64, Memory (GiB): 512) 🌎
+  - Region added for metric r7g 2xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric c7i 8xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 32, Memory (GiB): 64) 🌎
+  - Region added for metric r7g 12xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric c7g 16xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 64, Memory (GiB): 128) 🌎
+  - Region added for metric m7i xlarge.search - General purpose - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 4, Memory (GiB): 16) 🌎
+  - Region added for metric i4i xlarge.search - Storage optimized - Reserved - 1 x 937 Nitro SSD - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric r7g 2xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric c7g xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 4, Memory (GiB): 8) 🌎
+  - Region added for metric r7g xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric m7g 4xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Asia Pacific (Taipei) (vCPU: 16, Memory (GiB): 64) 🌎
+  - Region added for metric m7i 2xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 8, Memory (GiB): 32) 🌎
+  - Region added for metric i4i 32xlarge.search - Storage optimized - Reserved - 8 x 3 750 Nitro SSD - No Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 128, Memory (GiB): 1024) 🌎
+  - Region added for metric c7i large.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 2, Memory (GiB): 4) 🌎
+  - Region added for metric r7i 2xlarge.search - Memory optimized - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric i4i 16xlarge.search - Storage optimized - Reserved - 4 x 3 750 Nitro SSD - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 64, Memory (GiB): 512) 🌎
+  - Region added for metric m7g 12xlarge.search - General purpose - OnDemand - EBS Only - - - Hourly Cost: Asia Pacific (Taipei) (vCPU: 48, Memory (GiB): 192) 🌎
+  - Region added for metric c7i 4xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (Taipei) (vCPU: 16, Memory (GiB): 32) 🌎
+
+- [kms](processed/kms.json)
+  - Region added for metric API Requests GenerateDatakeyPair ECC: Asia Pacific (Taipei) 🌎
+  - Region added for metric API request - Non Free Tier: Asia Pacific (Taipei) 🌎
+  - Region added for metric Asymmetric Requests RSA_2048: Asia Pacific (Taipei) 🌎
+  - Region added for metric API Requests GenerateDatakeyPair RSA: Asia Pacific (Taipei) 🌎
+  - Region added for metric Encryption Key: Asia Pacific (Taipei) 🌎
+  - Region added for metric Asymmetric Requests except RSA_2048API: Asia Pacific (Taipei) 🌎
+
+- [secretsmanager](processed/secretsmanager.json)
+  - Region added for metric Secret: Asia Pacific (Taipei) 🌎
+  - Region added for metric API Request: Asia Pacific (Taipei) 🌎
+
+- [elb](processed/elb.json)
+  - Region added for metric Application Load Balancer LCU Hours: Asia Pacific (Taipei) 🌎
+  - Region added for metric Application Load Balancer Hours: Asia Pacific (Taipei) 🌎
+  - Region added for metric AWS Outposts Application Load Balancer Hours: Asia Pacific (Taipei) 🌎
+  - Region added for metric TS Application Load Balancer Hours: Asia Pacific (Taipei) 🌎
+  - Region added for metric Classic Load Balancer Data: Asia Pacific (Taipei) 🌎
+  - Region added for metric Network Load Balancer LCU Hours: Asia Pacific (Taipei) 🌎
+  - Region added for metric Gateway Load Balancer Hours: Asia Pacific (Taipei) 🌎
+  - Region added for metric Classic Load Balancer Hours: Asia Pacific (Taipei) 🌎
+  - Region added for metric Application Load Balancer ReservedLCU-Hr: Asia Pacific (Taipei) 🌎
+  - Region added for metric Network Load Balancer Hours: Asia Pacific (Taipei) 🌎
+  - Region added for metric Gateway Load Balancer LCU Hours: Asia Pacific (Taipei) 🌎
+  - Region added for metric AWS Outposts Application Load Balancer LCU Hours: Asia Pacific (Taipei) 🌎
+
+- [events](processed/events.json)
+  - Region added for metric CloudWatch Events: Asia Pacific (Taipei) 🌎
+  - Region added for metric CloudWatch Events Custom Event: Asia Pacific (Taipei) 🌎
+
+- [cloudtrail](processed/cloudtrail.json)
+  - Region added for metric Management PaidStorage ByteHrs: Asia Pacific (Taipei) 🌎
+  - Region added for metric FreeTrialQueryScanned Bytes: Asia Pacific (Taipei) 🌎
+  - Region added for metric Ingestion Bytes First 5TB: Asia Pacific (Taipei) 🌎
+  - Region added for metric Ingestion Bytes-1yearstore: Asia Pacific (Taipei) 🌎
+  - Region added for metric FreeTrialIngestion Bytes: Asia Pacific (Taipei) 🌎
+  - Region added for metric Ingestion Bytes Over 25TB: Asia Pacific (Taipei) 🌎
+  - Region added for metric Data Events Recorded: Asia Pacific (Taipei) 🌎
+  - Region added for metric Ingestion Bytes-1yearstore-other-data-sources: Asia Pacific (Taipei) 🌎
+  - Region added for metric Free Events Recorded: Asia Pacific (Taipei) 🌎
+  - Region added for metric Management Paid Events Recorded: Asia Pacific (Taipei) 🌎
+  - Region added for metric Ingestion Bytes Next 20TB: Asia Pacific (Taipei) 🌎
+  - Region added for metric QueryScanned Bytes: Asia Pacific (Taipei) 🌎
+
+- [s3](processed/s3.json)
+  - Region added for metric Data Returned by S3 Select in Intelligent Tiering per GB: Asia Pacific (Taipei) 🌎
+  - Region added for metric Access Grants Requests ListAGs per Requests: Asia Pacific (Taipei) 🌎
+  - Region added for metric Access Grants Requests ListAGCallerGrants per Requests: Asia Pacific (Taipei) 🌎
+  - Region added for metric Standard Storage Over 500 TB per GB Mo: Asia Pacific (Taipei) 🌎
+  - Region added for metric Access Grants Requests ListAGLocations per Requests: Asia Pacific (Taipei) 🌎
+  - Region added for metric Intelligent Tiering Infrequent Access per GB Mo: Asia Pacific (Taipei) 🌎
+  - Region added for metric Intelligent Tiering Infrequent Access From 0 to Inf per GB-Mo: Asia Pacific (Taipei) 🌎
+  - Region added for metric Per object fee to generate Batch Operations Manifest: Asia Pacific (Taipei) 🌎
+  - Region added for metric Access Grants Requests CreateAGGrant per Requests: Asia Pacific (Taipei) 🌎
+  - Region added for metric Per job fee for Batch Operations jobs: Asia Pacific (Taipei) 🌎
+  - Region added for metric Bulk Glacier Restore Requests: Asia Pacific (Taipei) 🌎
+  - Region added for metric Glacier S3 API Tier 5: Asia Pacific (Taipei) 🌎
+  - Region added for metric PUT COPY/POST or LIST requests to Intelligent Tiering per Requests: Asia Pacific (Taipei) 🌎
+  - Region added for metric Lifecycle Transition Requests into One Zone Infrequent Access per Requests: Asia Pacific (Taipei) 🌎
+  - Region added for metric INT AA-RestoreObject Standard INT Retrieval per GB: Asia Pacific (Taipei) 🌎
+  - Region added for metric PUT requests to Glacier per Requests: Asia Pacific (Taipei) 🌎
+  - Region added for metric Fee for Standard Retrieval of data stored: Asia Pacific (Taipei) 🌎
+  - Region added for metric Glacier S3 Standard Retrieval RestoreObject: Asia Pacific (Taipei) 🌎
+  - Region added for metric Access Grants Requests DeleteAGIdC per Requests: Asia Pacific (Taipei) 🌎
+  - Region added for metric GET and all other requests to GLACIER per Requests: Asia Pacific (Taipei) 🌎
+  - Region added for metric Data Scanned by S3 Select in Standard Infrequent Access per GB: Asia Pacific (Taipei) 🌎
+  - Region added for metric Access Grants Requests ListAGGrants per Requests: Asia Pacific (Taipei) 🌎
+  - Region added for metric Access Grants Requests CreateAGInstancePolicy per Requests: Asia Pacific (Taipei) 🌎
+  - Region added for metric S3 API-INT-AdditionalRequest RestoreObject: Asia Pacific (Taipei) 🌎
+  - Region added for metric Data Scanned by S3 Select in Intelligent Tiering per GB: Asia Pacific (Taipei) 🌎
+  - Region added for metric Data Returned by S3 Select in One Zone Infrequent Access per GB: Asia Pacific (Taipei) 🌎
+  - Region added for metric CompleteMultipartUpload for Replication Time Control to Glacier per Requests: Asia Pacific (Taipei) 🌎
+  - Region added for metric Data Scanned by S3 Select in Glacier Instant Retrieval per GB: Asia Pacific (Taipei) 🌎
+  - Region added for metric Data Scanned by S3 Select in One Zone Infrequent Access per GB: Asia Pacific (Taipei) 🌎
+  - Region added for metric Access Grants Requests DeleteAGLocation per Requests: Asia Pacific (Taipei) 🌎
+  - Region added for metric Per object fee for objects included in Storage Lens 100000000000 Inf: Asia Pacific (Taipei) 🌎
+  - Region added for metric Bytes Decrypted using Dual Layer Server-Side Decryption per GB: Asia Pacific (Taipei) 🌎
+  - Region added for metric PUT COPY/POST or LIST requests to One Zone Infrequent Access per Requests: Asia Pacific (Taipei) 🌎
+  - Region added for metric Glacier S3 Expedited Retrieval: Asia Pacific (Taipei) 🌎
+  - Region added for metric Access Grants Requests GetAGInstanceForPrefix per Requests: Asia Pacific (Taipei) 🌎
+  - Region added for metric Per object fee for objects listed in an Inventory: Asia Pacific (Taipei) 🌎
+  - Region added for metric Glacier Instant Retrieval Storage: Asia Pacific (Taipei) 🌎
+  - Region added for metric Access Grants Requests CreateAGIdC per Requests: Asia Pacific (Taipei) 🌎
+  - Region added for metric Object Retrieval in Glacier Instant Retrieval per GB: Asia Pacific (Taipei) 🌎
+  - Region added for metric GET and all other requests per Requests: Asia Pacific (Taipei) 🌎
+  - Region added for metric Glacier Storage per GB Mo: Asia Pacific (Taipei) 🌎
+  - Region added for metric Bytes Returned by OL APs per GB: Asia Pacific (Taipei) 🌎
+  - Region added for metric Reduced Redundancy Storage Next 4 000 TB per GB Mo: Asia Pacific (Taipei) 🌎
+  - Region added for metric Standard Infrequent Access Storage per GB-Mo: Asia Pacific (Taipei) 🌎
+  - Region added for metric Reduced Redundancy Storage Nex 500 TB per GB Mo: Asia Pacific (Taipei) 🌎
+  - Region added for metric Object Retrieval in One Zone Infrequent Access per GB: Asia Pacific (Taipei) 🌎
+  - Region added for metric No charge for Free Tier Storage Lens: Asia Pacific (Taipei) 🌎
+  - Region added for metric UploadPart for Replication Time Control to Glacier per Requests: Asia Pacific (Taipei) 🌎
+  - Region added for metric Per object fee for objects included in Storage Lens 25000000000 100000000000: Asia Pacific (Taipei) 🌎
+  - Region added for metric Restore Object per Requests: Asia Pacific (Taipei) 🌎
+  - Region added for metric Glacier S3 API Tier 3 RestoreObject: Asia Pacific (Taipei) 🌎
+  - Region added for metric Lifecycle Transition Requests into Standard Infrequent Access per Requests: Asia Pacific (Taipei) 🌎
+  - Region added for metric POST requests to Glacier per Requests: Asia Pacific (Taipei) 🌎
+  - Region added for metric Lifecycle Transition Requests into Intelligent Tiering per Requests: Asia Pacific (Taipei) 🌎
+  - Region added for metric Data Returned by S3 Select in Standard per GB: Asia Pacific (Taipei) 🌎
+  - Region added for metric IntelligentTieringArchiveAccess: Asia Pacific (Taipei) 🌎
+  - Region added for metric Access Grants Requests DeleteAGInstancePolicy per Requests: Asia Pacific (Taipei) 🌎
+  - Region added for metric Tags Storage per Tag Mo: Asia Pacific (Taipei) 🌎
+  - Region added for metric S3 API-DAA-TIER3 RestoreObject: Asia Pacific (Taipei) 🌎
+  - Region added for metric Access Grants Requests GetAGGrant per Requests: Asia Pacific (Taipei) 🌎
+  - Region added for metric Access Grants Requests GetAGDataAccess per Requests: Asia Pacific (Taipei) 🌎
+  - Region added for metric Per object fee for objects included in Storage Lens 0 25000000000: Asia Pacific (Taipei) 🌎
+  - Region added for metric GET and all other requests to Intelligent Tiering per Requests: Asia Pacific (Taipei) 🌎
+  - Region added for metric PUT for Replication to Glacier per Requests: Asia Pacific (Taipei) 🌎
+  - Region added for metric INT AA-RestoreObject Expedited INT Retrieval per GB: Asia Pacific (Taipei) 🌎
+  - Region added for metric PUT COPY/POST or LIST requests to Glacier Instant Retrieval per Requests: Asia Pacific (Taipei) 🌎
+  - Region added for metric One Zone Infrequent Access Storage Inf per GB-Mo: Asia Pacific (Taipei) 🌎
+  - Region added for metric CompleteMultipartUpload to Glacier per Requests: Asia Pacific (Taipei) 🌎
+  - Region added for metric IntelligentTieringDeepArchiveAccess: Asia Pacific (Taipei) 🌎
+  - Region added for metric Access Grants Requests CreateAGInstance per Requests: Asia Pacific (Taipei) 🌎
+  - Region added for metric Data Returned by S3 Select in Standard Infrequent Access per GB: Asia Pacific (Taipei) 🌎
+  - Region added for metric Access Grants Requests DeleteAGGrant per Requests: Asia Pacific (Taipei) 🌎
+  - Region added for metric Fee for Bulk Retrieval of data stored from Glacier Deep Archive: Asia Pacific (Taipei) 🌎
+  - Region added for metric Access Grants Requests GetAGLocation per Requests: Asia Pacific (Taipei) 🌎
+  - Region added for metric Bytes Encrypted using Dual Layer Server-Side Encryption per GB: Asia Pacific (Taipei) 🌎
+  - Region added for metric Intelligent Tiering Frequent Access Over 500 TB per GB Mo: Asia Pacific (Taipei) 🌎
+  - Region added for metric InitiateMultipartUpload for Replication Time Control to Glacier per Requests: Asia Pacific (Taipei) 🌎
+  - Region added for metric COPY requests to Glacier per Requests: Asia Pacific (Taipei) 🌎
+  - Region added for metric Reduced Redundancy Storage Next 49 TB perGB Mo: Asia Pacific (Taipei) 🌎
+  - Region added for metric Per object fee for objects included in Analytics: Asia Pacific (Taipei) 🌎
+  - Region added for metric PUT COPY/POST or LIST requests per Requests: Asia Pacific (Taipei) 🌎
+  - Region added for metric Lifecycle Transition Requests into Glacier per Requests: Asia Pacific (Taipei) 🌎
+  - Region added for metric Access Grants Requests CreateAGLocation per Requests: Asia Pacific (Taipei) 🌎
+  - Region added for metric Glacier Expedited Glacier Restore Requests: Asia Pacific (Taipei) 🌎
+  - Region added for metric Per object per month monitoring and automation fee for objects in Intelligent Tiering: Asia Pacific (Taipei) 🌎
+  - Region added for metric INT AA-RestoreObject Bulk INT Retrieval per GB: Asia Pacific (Taipei) 🌎
+  - Region added for metric Glacier Staging Storage per GB Mo: Asia Pacific (Taipei) 🌎
+  - Region added for metric GET and all other requests to Standard Infrequent Access per Requests: Asia Pacific (Taipei) 🌎
+  - Region added for metric CopyPart to Glacier per Requests: Asia Pacific (Taipei) 🌎
+  - Region added for metric Object Retrieval in Standard Infrequent Access per GB: Asia Pacific (Taipei) 🌎
+  - Region added for metric Fee for Bulk Retrieval of data stored: Asia Pacific (Taipei) 🌎
+  - Region added for metric Glacier S3 Bulk Retrieval RestoreObject: Asia Pacific (Taipei) 🌎
+  - Region added for metric Lifecycle Transition Requests into Glacier Instant Retrieval per Requests: Asia Pacific (Taipei) 🌎
+  - Region added for metric Access Grants Requests GetAG per Requests: Asia Pacific (Taipei) 🌎
+  - Region added for metric GET and all other requests to GDA per Requests: Asia Pacific (Taipei) 🌎
+  - Region added for metric Per object fee for object operations performed by Batch Operations: Asia Pacific (Taipei) 🌎
+  - Region added for metric Standard Storage Next 450 TB per GB Mo: Asia Pacific (Taipei) 🌎
+  - Region added for metric Standard Storage First 50 TB per GB Mo: Asia Pacific (Taipei) 🌎
+  - Region added for metric Reduced Redundancy Storage Over 5 000 TB per GB Mo: Asia Pacific (Taipei) 🌎
+  - Region added for metric Access Grants Requests GetAGInstancePolicy per Requests: Asia Pacific (Taipei) 🌎
+  - Region added for metric Data Returned by S3 Select in Glacier Instant Retrieval per GB: Asia Pacific (Taipei) 🌎
+  - Region added for metric GET and all other requests to Glacier Instant Retrieval per Requests: Asia Pacific (Taipei) 🌎
+  - Region added for metric Expedited INT Restore Requests per Requests: Asia Pacific (Taipei) 🌎
+  - Region added for metric GET and all other requests to One Zone Infrequent Access per Requests: Asia Pacific (Taipei) 🌎
+  - Region added for metric Access Grants Requests DeleteAG per Requests: Asia Pacific (Taipei) 🌎
+  - Region added for metric CompleteMultipartUpload for Replication to Glacier per Requests: Asia Pacific (Taipei) 🌎
+  - Region added for metric Reduced Redundancy Storage First 1 YB per GB Mo: Asia Pacific (Taipei) 🌎
+  - Region added for metric Intelligent Tiering Archive Instant Access: Asia Pacific (Taipei) 🌎
+  - Region added for metric Reduced Redundancy Storage Next 450 TB per GB Mo: Asia Pacific (Taipei) 🌎
+  - Region added for metric PUT for Replication Time Control to Glacier per Requests: Asia Pacific (Taipei) 🌎
+  - Region added for metric Intelligent Tiering Frequent Access First 50 TB per GB Mo: Asia Pacific (Taipei) 🌎
+  - Region added for metric Intelligent Tiering Frequent Access Next 450 TB per GB Mo: Asia Pacific (Taipei) 🌎
+  - Region added for metric Fee for Standard Retrieval of data stored from Glacier Deep Archive: Asia Pacific (Taipei) 🌎
+  - Region added for metric Lifecycle Transition Requests into Glacier Deep Archive per Requests: Asia Pacific (Taipei) 🌎
+  - Region added for metric Access Grants Requests UpdateAGLocation per Requests: Asia Pacific (Taipei) 🌎
+  - Region added for metric Data Scanned by S3 Select in Standard per GB: Asia Pacific (Taipei) 🌎
+  - Region added for metric PUT COPY/POST or LIST requests to Standard Infrequent Access per Requests: Asia Pacific (Taipei) 🌎
+  - Region added for metric Standard INT Restore Requests per Requests: Asia Pacific (Taipei) 🌎
+  - Region added for metric S3 API-INT-AA-TIER3 RestoreObject: Asia Pacific (Taipei) 🌎
+
+- [lambda](processed/lambda.json)
+  - Region added for metric Lambda Duration-ARM Tier2: Asia Pacific (Taipei) 🌎
+  - Region added for metric Lambda Duration Tier2: Asia Pacific (Taipei) 🌎
+  - Region added for metric Lambda Storage-Duration: Asia Pacific (Taipei) 🌎
+  - Region added for metric Lambda Provisioned-Concurrency-ARM: Asia Pacific (Taipei) 🌎
+  - Region added for metric Lambda Requests-ARM: Asia Pacific (Taipei) 🌎
+  - Region added for metric Lambda Provisioned-Concurrency: Asia Pacific (Taipei) 🌎
+  - Region added for metric Lambda Duration-ARM: Asia Pacific (Taipei) 🌎
+  - Region added for metric Lambda Requests: Asia Pacific (Taipei) 🌎
+  - Region added for metric Lambda Storage-Duration-ARM: Asia Pacific (Taipei) 🌎
+  - Region added for metric Lambda Duration: Asia Pacific (Taipei) 🌎
+  - Region added for metric Lambda Duration Tier3: Asia Pacific (Taipei) 🌎
+  - Region added for metric Lambda Duration-Provisioned: Asia Pacific (Taipei) 🌎
+  - Region added for metric Lambda Duration-ARM Tier3: Asia Pacific (Taipei) 🌎
+  - Region added for metric Lambda Duration-Provisioned-ARM: Asia Pacific (Taipei) 🌎
+
+- [vpc](processed/vpc.json)
+  - Region added for metric Hourly charge for IPv4 address in a contiguous block of IPv4 address per Hrs: Asia Pacific (Taipei) 🌎
+  - Region added for metric Hourly charge for Idle Public IPv4 Addresses per Hrs: Asia Pacific (Taipei) 🌎
+  - Region added for metric Hourly charge for In use Public IPv4 Addresses per Hrs: Asia Pacific (Taipei) 🌎
+  - Region added for metric Hourly charge for Traffic Mirroring Source per hour: Asia Pacific (Taipei) 🌎
+  - Region added for metric Charge for per GB data processed by AWS Transit Gateway for Multicast receivers per GigaBytes: Asia Pacific (Taipei) 🌎
+  - Region added for metric Charge for per GB data processed by AWS Transit Gateway for Multicast receivers per GB: Asia Pacific (Taipei) 🌎
+  - Region added for metric Hourly charge for AWS Gateway Load Balancer VPC Endpoint per Hrs: Asia Pacific (Taipei) 🌎
+  - Region added for metric Hourly charge for Transit Gateway Connect attachments per hour: Asia Pacific (Taipei) 🌎
+  - Region added for metric Hourly charge for VPC Endpoints per Hrs: Asia Pacific (Taipei) 🌎
+  - Region added for metric Hourly charge for Transit Gateway Peering Attachments per hour: Asia Pacific (Taipei) 🌎
+  - Region added for metric Charge for per GB data processed by VPC Endpoints per GB from 1048576 to 5242880: Asia Pacific (Taipei) 🌎
+  - Region added for metric Charge for per GB data processed by AWS Transit Gateways for Site to-Site VPN attachments per GigaBytes: Asia Pacific (Taipei) 🌎
+  - Region added for metric CreateVpnConnection per Hrs: Asia Pacific (Taipei) 🌎
+  - Region added for metric CreateVpnConnection per hours: Asia Pacific (Taipei) 🌎
+  - Region added for metric Charge for per GB data processed by VPC Endpoints per GB from 5242880 to Inf: Asia Pacific (Taipei) 🌎
+  - Region added for metric Hourly charge for Transit Gateway AWS Direct Connect Gateway attachments per hour: Asia Pacific (Taipei) 🌎
+  - Region added for metric Hourly charge for Transit Gateway VPC Attachments per hour: Asia Pacific (Taipei) 🌎
+  - Region added for metric Charge for per GB data processed by VPC Endpoints per GB from 0 to 1048576: Asia Pacific (Taipei) 🌎
+  - Region added for metric Hourly charge for Transit Gateway Site to-Site VPN attachments per hour: Asia Pacific (Taipei) 🌎
+  - Region added for metric Charge for per GB data processed by AWS Transit Gateways for VPC attachments per GigaBytes: Asia Pacific (Taipei) 🌎
+  - Region added for metric Charge for per GB data processed by AWS Gateway Load Balancer VPC Endpoint per GB: Asia Pacific (Taipei) 🌎
+  - Region added for metric Charge for per GB data processed by AWS Transit Gateways for AWS Direct Connect Gateway attachments per GigaBytes: Asia Pacific (Taipei) 🌎
+  - Region added for metric Charge per GB data processed by AWS Transit Gateway for Multicast receivers per GigaBytes: Asia Pacific (Taipei) 🌎
+
+- [datatransfer](processed/datatransfer.json)
+  - Region added for metric DataTransfer External Inbound: Asia Pacific (Taipei) 🌎
+  - Region added for metric DataTransfer External Outbound Next 10 TB: Asia Pacific (Taipei) (StartingRange: 0, EndingRange: 10240) 🌎
+  - Region added for metric DataTransfer External Outbound Next 40 TB: Asia Pacific (Taipei) (StartingRange: 10240, EndingRange: 51200) 🌎
+  - Region added for metric DataTransfer External Outbound Greater than 150 TB: Asia Pacific (Taipei) (StartingRange: 153600, EndingRange: Inf) 🌎
+  - Region added for metric DataTransfer External Outbound Next 100 TB: Asia Pacific (Taipei) (StartingRange: 51200, EndingRange: 153600) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to AWS GovCloud US: Asia Pacific (Taipei) (To Location: AWS GovCloud (US)) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to AWS GovCloud US-East: Asia Pacific (Taipei) (To Location: AWS GovCloud (US-East)) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to Africa Cape Town: Asia Pacific (Taipei) (To Location: Africa (Cape Town)) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to Asia Pacific Hong Kong: Asia Pacific (Taipei) (To Location: Asia Pacific (Hong Kong)) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to Asia Pacific Hyderabad: Asia Pacific (Taipei) (To Location: Asia Pacific (Hyderabad)) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to Asia Pacific Jakarta: Asia Pacific (Taipei) (To Location: Asia Pacific (Jakarta)) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to Asia Pacific Malaysia: Asia Pacific (Taipei) (To Location: Asia Pacific (Malaysia)) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to Asia Pacific Melbourne: Asia Pacific (Taipei) (To Location: Asia Pacific (Melbourne)) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to Asia Pacific Mumbai: Asia Pacific (Taipei) (To Location: Asia Pacific (Mumbai)) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to Asia Pacific Osaka: Asia Pacific (Taipei) (To Location: Asia Pacific (Osaka)) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to Asia Pacific Seoul: Asia Pacific (Taipei) (To Location: Asia Pacific (Seoul)) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to Asia Pacific Singapore: Asia Pacific (Taipei) (To Location: Asia Pacific (Singapore)) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to Asia Pacific Sydney: Asia Pacific (Taipei) (To Location: Asia Pacific (Sydney)) 🌎
+  - Billing metric added: DataTransfer InterRegion Outbound to Asia Pacific Taipei 💡
+  - Region added for metric DataTransfer InterRegion Outbound to Asia Pacific Thailand: Asia Pacific (Taipei) (To Location: Asia Pacific (Thailand)) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to Asia Pacific Tokyo: Asia Pacific (Taipei) (To Location: Asia Pacific (Tokyo)) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to Canada Central: Asia Pacific (Taipei) (To Location: Canada (Central)) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to Canada West Calgary: Asia Pacific (Taipei) (To Location: Canada West (Calgary)) 🌎
+  - Region removed for metric DataTransfer InterRegion Outbound to Canada West Calgary: Amazon CloudFront (To Location: Canada West (Calgary)) 💥
+  - Region added for metric DataTransfer InterRegion Outbound to EU Frankfurt: Asia Pacific (Taipei) (To Location: EU (Frankfurt)) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to EU Ireland: Asia Pacific (Taipei) (To Location: EU (Ireland)) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to EU London: Asia Pacific (Taipei) (To Location: EU (London)) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to EU Milan: Asia Pacific (Taipei) (To Location: EU (Milan)) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to EU Paris: Asia Pacific (Taipei) (To Location: EU (Paris)) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to EU Spain: Asia Pacific (Taipei) (To Location: EU (Spain)) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to EU Stockholm: Asia Pacific (Taipei) (To Location: EU (Stockholm)) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to EU Zurich: Asia Pacific (Taipei) (To Location: EU (Zurich)) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to Israel Tel Aviv: Asia Pacific (Taipei) (To Location: Israel (Tel Aviv)) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to Mexico Central: Asia Pacific (Taipei) (To Location: Mexico (Central)) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to Middle East Bahrain: Asia Pacific (Taipei) (To Location: Middle East (Bahrain)) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to Middle East UAE: Asia Pacific (Taipei) (To Location: Middle East (UAE)) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to Senegal Dakar: Asia Pacific (Taipei) (To Location: Senegal (Dakar)) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to South America Sao Paulo: Asia Pacific (Taipei) (To Location: South America (Sao Paulo)) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to US East Lenexa: Asia Pacific (Taipei) (To Location: US East (Lenexa)) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to US East N Virginia: Asia Pacific (Taipei) (To Location: US East (N. Virginia)) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to US East Ohio: Asia Pacific (Taipei) (To Location: US East (Ohio)) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to US East Verizon - Atlanta: Asia Pacific (Taipei) (To Location: US East (Verizon) - Atlanta) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to US East Verizon - Nashville: Asia Pacific (Taipei) (To Location: US East (Verizon) - Nashville) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to US East Verizon - Tampa: Asia Pacific (Taipei) (To Location: US East (Verizon) - Tampa) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to US West N California: Asia Pacific (Taipei) (To Location: US West (N. California)) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to Asia Pacific KDDI - Osaka: Asia Pacific (Taipei) (To Location: Asia Pacific (KDDI) - Osaka) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to Asia Pacific KDDI - Tokyo: Asia Pacific (Taipei) (To Location: Asia Pacific (KDDI) - Tokyo) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to Asia Pacific SKT - Daejeon: Asia Pacific (Taipei) (To Location: Asia Pacific (SKT) - Daejeon) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to Asia Pacific SKT - Seoul: Asia Pacific (Taipei) (To Location: Asia Pacific (SKT) - Seoul) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to Canada BELL - Toronto: Asia Pacific (Taipei) (To Location: Canada (BELL) - Toronto) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to EU British Telecom - Manchester: Asia Pacific (Taipei) (To Location: EU (British Telecom) - Manchester) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to EU Vodafone - London: Asia Pacific (Taipei) (To Location: EU (Vodafone) - London) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to EU Vodafone - Manchester: Asia Pacific (Taipei) (To Location: EU (Vodafone) - Manchester) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to US East Verizon - Boston: Asia Pacific (Taipei) (To Location: US East (Verizon) - Boston) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to US East Verizon - Charlotte: Asia Pacific (Taipei) (To Location: US East (Verizon) - Charlotte) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to US East Verizon - Chicago: Asia Pacific (Taipei) (To Location: US East (Verizon) - Chicago) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to US East Verizon - Dallas: Asia Pacific (Taipei) (To Location: US East (Verizon) - Dallas) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to US East Verizon - Detroit: Asia Pacific (Taipei) (To Location: US East (Verizon) - Detroit) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to US East Verizon - Houston: Asia Pacific (Taipei) (To Location: US East (Verizon) - Houston) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to US East Verizon - Miami: Asia Pacific (Taipei) (To Location: US East (Verizon) - Miami) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to US East Verizon - Minneapolis: Asia Pacific (Taipei) (To Location: US East (Verizon) - Minneapolis) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to US East Verizon - New York: Asia Pacific (Taipei) (To Location: US East (Verizon) - New York) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to US East Verizon - Washington DC: Asia Pacific (Taipei) (To Location: US East (Verizon) - Washington DC) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to US West Verizon - Los Angeles: Asia Pacific (Taipei) (To Location: US West (Verizon) - Los Angeles) 🌎
+  - Billing metric added: [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Asia Pacific Taipei;Cloudfrontless DataTransfer InterRegion Outbound to Asia Pacific Taipei;Cloudfrontless DataTransfer InterRegion Outbound to Asia Pacific Taipei No Wavelength;Backup DataTransfer InterRegion Outbound to Asia Pacific Taipei;RDS DataTransfer InterRegion Outbound to Asia Pacific Taipei 💡
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Asia Pacific KDDI - Osaka;Cloudfrontless DataTransfer InterRegion Outbound to Asia Pacific KDDI - Osaka: Asia Pacific (Taipei) (To Location: Asia Pacific (KDDI) - Osaka) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Asia Pacific KDDI - Tokyo;Cloudfrontless DataTransfer InterRegion Outbound to Asia Pacific KDDI - Tokyo: Asia Pacific (Taipei) (To Location: Asia Pacific (KDDI) - Tokyo) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Asia Pacific SKT - Daejeon;Cloudfrontless DataTransfer InterRegion Outbound to Asia Pacific SKT - Daejeon: Asia Pacific (Taipei) (To Location: Asia Pacific (SKT) - Daejeon) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Asia Pacific SKT - Seoul;Cloudfrontless DataTransfer InterRegion Outbound to Asia Pacific SKT - Seoul: Asia Pacific (Taipei) (To Location: Asia Pacific (SKT) - Seoul) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Canada BELL - Toronto;Cloudfrontless DataTransfer InterRegion Outbound to Canada BELL - Toronto: Asia Pacific (Taipei) (To Location: Canada (BELL) - Toronto) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to EU British Telecom - Manchester;Cloudfrontless DataTransfer InterRegion Outbound to EU British Telecom - Manchester: Asia Pacific (Taipei) (To Location: EU (British Telecom) - Manchester) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to EU Vodafone - London;Cloudfrontless DataTransfer InterRegion Outbound to EU Vodafone - London: Asia Pacific (Taipei) (To Location: EU (Vodafone) - London) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to EU Vodafone - Manchester;Cloudfrontless DataTransfer InterRegion Outbound to EU Vodafone - Manchester: Asia Pacific (Taipei) (To Location: EU (Vodafone) - Manchester) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Senegal Dakar;Cloudfrontless DataTransfer InterRegion Outbound to Senegal Dakar: Asia Pacific (Taipei) (To Location: Senegal (Dakar)) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to US East Lenexa;Cloudfrontless DataTransfer InterRegion Outbound to US East Lenexa: Asia Pacific (Taipei) (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to US East Verizon - Atlanta;Cloudfrontless DataTransfer InterRegion Outbound to US East Verizon - Atlanta: Asia Pacific (Taipei) (To Location: US East (Verizon) - Atlanta) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to US East Verizon - Boston;Cloudfrontless DataTransfer InterRegion Outbound to US East Verizon - Boston: Asia Pacific (Taipei) (To Location: US East (Verizon) - Boston) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to US East Verizon - Charlotte;Cloudfrontless DataTransfer InterRegion Outbound to US East Verizon - Charlotte: Asia Pacific (Taipei) (To Location: US East (Verizon) - Charlotte) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to US East Verizon - Chicago;Cloudfrontless DataTransfer InterRegion Outbound to US East Verizon - Chicago: Asia Pacific (Taipei) (To Location: US East (Verizon) - Chicago) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to US East Verizon - Dallas;Cloudfrontless DataTransfer InterRegion Outbound to US East Verizon - Dallas: Asia Pacific (Taipei) (To Location: US East (Verizon) - Dallas) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to US East Verizon - Detroit;Cloudfrontless DataTransfer InterRegion Outbound to US East Verizon - Detroit: Asia Pacific (Taipei) (To Location: US East (Verizon) - Detroit) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to US East Verizon - Houston;Cloudfrontless DataTransfer InterRegion Outbound to US East Verizon - Houston: Asia Pacific (Taipei) (To Location: US East (Verizon) - Houston) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to US East Verizon - Miami;Cloudfrontless DataTransfer InterRegion Outbound to US East Verizon - Miami: Asia Pacific (Taipei) (To Location: US East (Verizon) - Miami) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to US East Verizon - Minneapolis;Cloudfrontless DataTransfer InterRegion Outbound to US East Verizon - Minneapolis: Asia Pacific (Taipei) (To Location: US East (Verizon) - Minneapolis) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to US East Verizon - Nashville;Cloudfrontless DataTransfer InterRegion Outbound to US East Verizon - Nashville: Asia Pacific (Taipei) (To Location: US East (Verizon) - Nashville) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to US East Verizon - New York;Cloudfrontless DataTransfer InterRegion Outbound to US East Verizon - New York: Asia Pacific (Taipei) (To Location: US East (Verizon) - New York) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to US East Verizon - Tampa;Cloudfrontless DataTransfer InterRegion Outbound to US East Verizon - Tampa: Asia Pacific (Taipei) (To Location: US East (Verizon) - Tampa) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to US East Verizon - Washington DC;Cloudfrontless DataTransfer InterRegion Outbound to US East Verizon - Washington DC: Asia Pacific (Taipei) (To Location: US East (Verizon) - Washington DC) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to US West Verizon - Los Angeles;Cloudfrontless DataTransfer InterRegion Outbound to US West Verizon - Los Angeles: Asia Pacific (Taipei) (To Location: US West (Verizon) - Los Angeles) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US West (Verizon) - Seattle (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US West (Verizon) - San Francisco Bay Area (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US West (Verizon) - Phoenix (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US West (Verizon) - Los Angeles (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US West (Verizon) - Las Vegas (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US West (Verizon) - Denver (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US West (Seattle) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US West (Portland) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US West (Phoenix) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US West (Oregon) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US West (N. California) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US West (Los Angeles) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US West (Las Vegas) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US West (Las Vegas) (To Location: US West (Verizon) - Las Vegas) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US West (Honolulu) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US West (Denver) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Verizon) - Washington DC (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Verizon) - Tampa (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Verizon) - New York (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Verizon) - Nashville (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Verizon) - Minneapolis (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Verizon) - Miami (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Verizon) - Houston (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Verizon) - Detroit (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Verizon) - Dallas (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Verizon) - Chicago (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Verizon) - Charlotte (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Verizon) - Boston (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Verizon) - Atlanta (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Philadelphia) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Ohio) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (New York City) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (N. Virginia) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Minneapolis) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Miami) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Kansas City 2) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Houston) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Dallas) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Chicago) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Boston) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US East (Atlanta) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Thailand (Bangkok) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Taiwan (Taipei) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: South America (Sao Paulo) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Senegal (Dakar) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Poland (Warsaw) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Philippines (Manila) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Peru (Lima) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Oman (Muscat) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Nigeria (Lagos) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: New Zealand (Auckland) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Morocco (Casablanca) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Middle East (UAE) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Middle East (Bahrain) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Mexico (Queretaro) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Mexico (Central) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Israel (Tel Aviv) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: India (Kolkata) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: India (Delhi) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Germany (Hamburg) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Finland (Helsinki) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: EU (Zurich) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: EU (Vodafone) - Munich (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: EU (Vodafone) - Manchester (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: EU (Vodafone) - London (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: EU (Vodafone) - Dortmund (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: EU (Vodafone) - Berlin (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: EU (Stockholm) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: EU (Spain) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: EU (Paris) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: EU (Milan) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: EU (London) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: EU (Ireland) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: EU (Frankfurt) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: EU (British Telecom) - Manchester (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Denmark (Copenhagen) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Chile (Santiago) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Canada West (Calgary) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Canada (Central) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Canada (BELL) - Toronto (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Australia (Perth) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Asia Pacific (Tokyo) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Asia Pacific (Thailand) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: AWS GovCloud (US)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: AWS GovCloud (US-East)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: Africa (Cape Town)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: Asia Pacific (Hong Kong)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: Asia Pacific (Hyderabad)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: Asia Pacific (Jakarta)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: Asia Pacific (Malaysia)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: Asia Pacific (Melbourne)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: Asia Pacific (Mumbai)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: Asia Pacific (Osaka)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: Asia Pacific (Seoul)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: Asia Pacific (Singapore)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: Asia Pacific (Sydney)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: Asia Pacific (Thailand)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: Asia Pacific (Tokyo)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: Canada (Central)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: Canada West (Calgary)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: EU (Frankfurt)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: EU (Ireland)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: EU (London)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: EU (Milan)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: EU (Paris)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: EU (Spain)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: EU (Stockholm)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: EU (Zurich)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: Israel (Tel Aviv)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: Mexico (Central)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: Middle East (Bahrain)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: Middle East (UAE)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: South America (Sao Paulo)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: US East (N. Virginia)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: US East (Ohio)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: US West (Los Angeles)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: US West (N. California)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: US West (Oregon)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: Asia Pacific (KDDI) - Osaka) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: Asia Pacific (KDDI) - Tokyo) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: Asia Pacific (SKT) - Daejeon) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: Asia Pacific (SKT) - Seoul) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: Canada (BELL) - Toronto) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: EU (British Telecom) - Manchester) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: EU (Vodafone) - Berlin) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: EU (Vodafone) - Dortmund) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: EU (Vodafone) - London) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: EU (Vodafone) - Manchester) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: EU (Vodafone) - Munich) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: Morocco (Casablanca)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: Senegal (Dakar)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: US East (Lenexa)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: US East (Verizon) - Atlanta) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: US East (Verizon) - Boston) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: US East (Verizon) - Charlotte) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: US East (Verizon) - Chicago) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: US East (Verizon) - Dallas) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: US East (Verizon) - Detroit) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: US East (Verizon) - Houston) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: US East (Verizon) - Miami) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: US East (Verizon) - Minneapolis) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: US East (Verizon) - Nashville) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: US East (Verizon) - New York) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: US East (Verizon) - Tampa) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: US East (Verizon) - Washington DC) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: US West (Verizon) - Denver) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: US West (Verizon) - Las Vegas) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: US West (Verizon) - Los Angeles) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: US West (Verizon) - Phoenix) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: US West (Verizon) - San Francisco Bay Area) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: US West (Verizon) - Seattle) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Asia Pacific (Sydney) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Asia Pacific (Singapore) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Asia Pacific (Seoul) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Asia Pacific (SKT) - Seoul (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Asia Pacific (SKT) - Daejeon (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Asia Pacific (Osaka) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Asia Pacific (Mumbai) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Asia Pacific (Melbourne) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Asia Pacific (Malaysia) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Asia Pacific (KDDI) - Tokyo (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Asia Pacific (KDDI) - Osaka (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Asia Pacific (Jakarta) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Asia Pacific (Hyderabad) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Asia Pacific (Hong Kong) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Argentina (Buenos Aires) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Africa (Cape Town) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: AWS GovCloud (US-East) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound]: AWS GovCloud (US) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region removed for metric [Cloudfrontless DataTransfer InterRegion Outbound]: US West (Las Vegas) (To Location: US West (Verizon) - Phoenix) 💥
+  - Region removed for metric [Cloudfrontless DataTransfer InterRegion Outbound]: Amazon CloudFront (To Location: Canada West (Calgary)) 💥
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: US West (Verizon) - Seattle (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: US West (Verizon) - San Francisco Bay Area (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: US West (Verizon) - Phoenix (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: US West (Verizon) - Los Angeles (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: US West (Verizon) - Las Vegas (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: US West (Verizon) - Denver (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: US West (Seattle) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: US West (Portland) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: US West (Phoenix) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: US West (Oregon) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: US West (N. California) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: US West (Los Angeles) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: US West (Las Vegas) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: US West (Honolulu) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: US West (Denver) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: US East (Verizon) - Washington DC (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: US East (Verizon) - Tampa (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: US East (Verizon) - New York (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: US East (Verizon) - Nashville (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: US East (Verizon) - Minneapolis (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: US East (Verizon) - Miami (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: US East (Verizon) - Houston (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: US East (Verizon) - Detroit (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: US East (Verizon) - Dallas (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: US East (Verizon) - Chicago (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: US East (Verizon) - Charlotte (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: US East (Verizon) - Boston (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: US East (Verizon) - Atlanta (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: US East (Philadelphia) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: US East (Ohio) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: US East (New York City) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: US East (N. Virginia) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: US East (Minneapolis) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: US East (Miami) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: US East (Lenexa) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: US East (Kansas City 2) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: US East (Houston) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: US East (Dallas) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: US East (Chicago) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: US East (Boston) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: US East (Atlanta) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: Thailand (Bangkok) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: Taiwan (Taipei) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: South America (Sao Paulo) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: Senegal (Dakar) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: Poland (Warsaw) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: Philippines (Manila) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: Peru (Lima) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: Oman (Muscat) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: Nigeria (Lagos) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: New Zealand (Auckland) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: Morocco (Casablanca) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: Middle East (UAE) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: Middle East (Bahrain) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: Mexico (Queretaro) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: Mexico (Central) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: Israel (Tel Aviv) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: India (Kolkata) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: India (Delhi) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: Germany (Hamburg) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: Finland (Helsinki) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: EU (Zurich) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: EU (Vodafone) - Munich (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: EU (Vodafone) - Manchester (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: EU (Vodafone) - London (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: EU (Vodafone) - Dortmund (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: EU (Vodafone) - Berlin (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: EU (Stockholm) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: EU (Spain) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: EU (Paris) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: EU (Milan) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: EU (London) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: EU (Ireland) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: EU (Frankfurt) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: EU (British Telecom) - Manchester (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: Denmark (Copenhagen) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: Chile (Santiago) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: Canada West (Calgary) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: Canada (Central) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: Canada (BELL) - Toronto (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: Australia (Perth) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: Asia Pacific (Tokyo) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: Asia Pacific (Thailand) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: Asia Pacific (Taipei) (To Location: AWS GovCloud (US)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: Asia Pacific (Taipei) (To Location: AWS GovCloud (US-East)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: Asia Pacific (Taipei) (To Location: Africa (Cape Town)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: Asia Pacific (Taipei) (To Location: Asia Pacific (Hong Kong)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: Asia Pacific (Taipei) (To Location: Asia Pacific (Hyderabad)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: Asia Pacific (Taipei) (To Location: Asia Pacific (Jakarta)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: Asia Pacific (Taipei) (To Location: Asia Pacific (Malaysia)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: Asia Pacific (Taipei) (To Location: Asia Pacific (Melbourne)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: Asia Pacific (Taipei) (To Location: Asia Pacific (Mumbai)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: Asia Pacific (Taipei) (To Location: Asia Pacific (Osaka)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: Asia Pacific (Taipei) (To Location: Asia Pacific (Seoul)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: Asia Pacific (Taipei) (To Location: Asia Pacific (Singapore)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: Asia Pacific (Taipei) (To Location: Asia Pacific (Sydney)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: Asia Pacific (Taipei) (To Location: Asia Pacific (Thailand)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: Asia Pacific (Taipei) (To Location: Asia Pacific (Tokyo)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: Asia Pacific (Taipei) (To Location: Canada (Central)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: Asia Pacific (Taipei) (To Location: Canada West (Calgary)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: Asia Pacific (Taipei) (To Location: EU (Frankfurt)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: Asia Pacific (Taipei) (To Location: EU (Ireland)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: Asia Pacific (Taipei) (To Location: EU (London)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: Asia Pacific (Taipei) (To Location: EU (Milan)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: Asia Pacific (Taipei) (To Location: EU (Paris)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: Asia Pacific (Taipei) (To Location: EU (Spain)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: Asia Pacific (Taipei) (To Location: EU (Stockholm)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: Asia Pacific (Taipei) (To Location: EU (Zurich)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: Asia Pacific (Taipei) (To Location: Israel (Tel Aviv)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: Asia Pacific (Taipei) (To Location: Mexico (Central)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: Asia Pacific (Taipei) (To Location: Middle East (Bahrain)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: Asia Pacific (Taipei) (To Location: Middle East (UAE)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: Asia Pacific (Taipei) (To Location: South America (Sao Paulo)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: Asia Pacific (Taipei) (To Location: US East (N. Virginia)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: Asia Pacific (Taipei) (To Location: US East (Ohio)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: Asia Pacific (Taipei) (To Location: US West (Los Angeles)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: Asia Pacific (Taipei) (To Location: US West (N. California)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: Asia Pacific (Taipei) (To Location: US West (Oregon)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: Asia Pacific (Sydney) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: Asia Pacific (Singapore) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: Asia Pacific (Seoul) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: Asia Pacific (SKT) - Seoul (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: Asia Pacific (SKT) - Daejeon (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: Asia Pacific (Osaka) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: Asia Pacific (Mumbai) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: Asia Pacific (Melbourne) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: Asia Pacific (Malaysia) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: Asia Pacific (KDDI) - Tokyo (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: Asia Pacific (KDDI) - Osaka (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: Asia Pacific (Jakarta) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: Asia Pacific (Hyderabad) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: Asia Pacific (Hong Kong) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: Argentina (Buenos Aires) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: Africa (Cape Town) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: AWS GovCloud (US-East) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: AWS GovCloud (US) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region removed for metric [Cloudfrontless DataTransfer InterRegion Outbound No Wavelength]: Amazon CloudFront (To Location: Canada West (Calgary)) 💥
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: US West (Verizon) - Seattle (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: US West (Verizon) - San Francisco Bay Area (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: US West (Verizon) - Phoenix (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: US West (Verizon) - Los Angeles (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: US West (Verizon) - Las Vegas (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: US West (Verizon) - Denver (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: US West (Seattle) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: US West (Portland) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: US West (Phoenix) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: US West (Oregon) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: US West (N. California) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: US West (Los Angeles) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: US West (Las Vegas) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: US West (Honolulu) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: US West (Denver) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: US East (Verizon) - Washington DC (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: US East (Verizon) - Tampa (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: US East (Verizon) - New York (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: US East (Verizon) - Nashville (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: US East (Verizon) - Minneapolis (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: US East (Verizon) - Miami (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: US East (Verizon) - Houston (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: US East (Verizon) - Detroit (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: US East (Verizon) - Dallas (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: US East (Verizon) - Chicago (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: US East (Verizon) - Charlotte (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: US East (Verizon) - Boston (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: US East (Verizon) - Atlanta (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: US East (Philadelphia) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: US East (Ohio) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: US East (New York City) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: US East (N. Virginia) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: US East (Minneapolis) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: US East (Miami) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: US East (Kansas City 2) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: US East (Houston) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: US East (Dallas) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: US East (Chicago) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: US East (Boston) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: US East (Atlanta) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: Thailand (Bangkok) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: Taiwan (Taipei) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: South America (Sao Paulo) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: Senegal (Dakar) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: Poland (Warsaw) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: Philippines (Manila) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: Peru (Lima) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: Oman (Muscat) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: Nigeria (Lagos) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: New Zealand (Auckland) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: Morocco (Casablanca) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: Middle East (UAE) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: Middle East (Bahrain) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: Mexico (Queretaro) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: Mexico (Central) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: Israel (Tel Aviv) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: India (Kolkata) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: India (Delhi) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: Germany (Hamburg) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: Finland (Helsinki) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: EU (Zurich) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: EU (Vodafone) - Munich (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: EU (Vodafone) - Manchester (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: EU (Vodafone) - London (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: EU (Vodafone) - Dortmund (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: EU (Vodafone) - Berlin (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: EU (Stockholm) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: EU (Spain) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: EU (Paris) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: EU (Milan) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: EU (London) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: EU (Ireland) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: EU (Frankfurt) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: EU (British Telecom) - Manchester (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: Denmark (Copenhagen) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: Chile (Santiago) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: Canada West (Calgary) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: Canada (Central) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: Canada (BELL) - Toronto (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: Australia (Perth) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: Asia Pacific (Tokyo) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: Asia Pacific (Thailand) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: AWS GovCloud (US)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: AWS GovCloud (US-East)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: Africa (Cape Town)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: Asia Pacific (Hong Kong)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: Asia Pacific (Hyderabad)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: Asia Pacific (Jakarta)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: Asia Pacific (Malaysia)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: Asia Pacific (Melbourne)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: Asia Pacific (Mumbai)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: Asia Pacific (Osaka)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: Asia Pacific (Seoul)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: Asia Pacific (Singapore)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: Asia Pacific (Sydney)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: Asia Pacific (Thailand)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: Asia Pacific (Tokyo)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: Canada (Central)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: Canada West (Calgary)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: EU (Frankfurt)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: EU (Ireland)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: EU (London)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: EU (Milan)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: EU (Paris)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: EU (Stockholm)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: Israel (Tel Aviv)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: Mexico (Central)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: Middle East (Bahrain)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: South America (Sao Paulo)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: US East (N. Virginia)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: US East (Ohio)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: US West (N. California)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: US West (Oregon)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: Asia Pacific (Sydney) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: Asia Pacific (Singapore) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: Asia Pacific (Seoul) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: Asia Pacific (SKT) - Seoul (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: Asia Pacific (SKT) - Daejeon (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: Asia Pacific (Osaka) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: Asia Pacific (Mumbai) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: Asia Pacific (Melbourne) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: Asia Pacific (Malaysia) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: Asia Pacific (KDDI) - Tokyo (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: Asia Pacific (KDDI) - Osaka (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: Asia Pacific (Jakarta) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: Asia Pacific (Hyderabad) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: Asia Pacific (Hong Kong) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: Argentina (Buenos Aires) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: Africa (Cape Town) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: AWS GovCloud (US-East) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [Backup DataTransfer InterRegion Outbound]: AWS GovCloud (US) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region removed for metric [Backup DataTransfer InterRegion Outbound]: Amazon CloudFront (To Location: Canada West (Calgary)) 💥
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: US West (Verizon) - Seattle (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: US West (Verizon) - San Francisco Bay Area (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: US West (Verizon) - Phoenix (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: US West (Verizon) - Los Angeles (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: US West (Verizon) - Las Vegas (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: US West (Verizon) - Denver (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: US West (Seattle) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: US West (Portland) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: US West (Phoenix) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: US West (Oregon) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: US West (N. California) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: US West (Los Angeles) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: US West (Las Vegas) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: US West (Honolulu) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: US West (Denver) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: US East (Verizon) - Washington DC (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: US East (Verizon) - Tampa (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: US East (Verizon) - New York (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: US East (Verizon) - Nashville (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: US East (Verizon) - Minneapolis (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: US East (Verizon) - Miami (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: US East (Verizon) - Houston (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: US East (Verizon) - Detroit (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: US East (Verizon) - Dallas (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: US East (Verizon) - Chicago (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: US East (Verizon) - Charlotte (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: US East (Verizon) - Boston (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: US East (Verizon) - Atlanta (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: US East (Philadelphia) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: US East (Ohio) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: US East (New York City) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: US East (N. Virginia) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: US East (Minneapolis) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: US East (Miami) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: US East (Lenexa) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: US East (Kansas City 2) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: US East (Houston) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: US East (Dallas) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: US East (Chicago) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: US East (Boston) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: US East (Atlanta) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: Thailand (Bangkok) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: Taiwan (Taipei) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: South America (Sao Paulo) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: Senegal (Dakar) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: Poland (Warsaw) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: Philippines (Manila) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: Peru (Lima) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: Oman (Muscat) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: Nigeria (Lagos) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: New Zealand (Auckland) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: Morocco (Casablanca) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: Middle East (UAE) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: Middle East (Bahrain) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: Mexico (Queretaro) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: Mexico (Central) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: Israel (Tel Aviv) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: India (Kolkata) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: India (Delhi) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: Germany (Hamburg) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: Finland (Helsinki) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: EU (Zurich) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: EU (Vodafone) - Munich (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: EU (Vodafone) - Manchester (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: EU (Vodafone) - London (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: EU (Vodafone) - Dortmund (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: EU (Vodafone) - Berlin (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: EU (Stockholm) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: EU (Spain) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: EU (Paris) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: EU (Milan) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: EU (London) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: EU (Ireland) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: EU (Frankfurt) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: EU (British Telecom) - Manchester (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: Denmark (Copenhagen) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: Chile (Santiago) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: Canada West (Calgary) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: Canada (Central) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: Canada (BELL) - Toronto (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: Australia (Perth) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: Asia Pacific (Tokyo) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: Asia Pacific (Thailand) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: Amazon CloudFront) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: AWS GovCloud (US)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: AWS GovCloud (US-East)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: Africa (Cape Town)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: Asia Pacific (Hong Kong)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: Asia Pacific (Hyderabad)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: Asia Pacific (Jakarta)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: Asia Pacific (Malaysia)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: Asia Pacific (Melbourne)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: Asia Pacific (Mumbai)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: Asia Pacific (Osaka)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: Asia Pacific (Seoul)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: Asia Pacific (Singapore)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: Asia Pacific (Sydney)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: Asia Pacific (Thailand)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: Asia Pacific (Tokyo)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: Canada (Central)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: Canada West (Calgary)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: EU (Frankfurt)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: EU (Ireland)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: EU (London)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: EU (Milan)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: EU (Paris)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: EU (Spain)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: EU (Stockholm)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: EU (Zurich)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: Israel (Tel Aviv)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: Mexico (Central)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: Middle East (Bahrain)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: Middle East (UAE)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: South America (Sao Paulo)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: US East (N. Virginia)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: US East (Ohio)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: US West (Los Angeles)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: US West (N. California)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: US West (Oregon)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: Asia Pacific (Sydney) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: Asia Pacific (Singapore) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: Asia Pacific (Seoul) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: Asia Pacific (SKT) - Seoul (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: Asia Pacific (SKT) - Daejeon (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: Asia Pacific (Osaka) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: Asia Pacific (Mumbai) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: Asia Pacific (Melbourne) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: Asia Pacific (Malaysia) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: Asia Pacific (KDDI) - Tokyo (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: Asia Pacific (KDDI) - Osaka (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: Asia Pacific (Jakarta) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: Asia Pacific (Hyderabad) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: Asia Pacific (Hong Kong) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: Argentina (Buenos Aires) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: Africa (Cape Town) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: AWS GovCloud (US-East) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [RDS DataTransfer InterRegion Outbound]: AWS GovCloud (US) (To Location: Asia Pacific (Taipei)) 🌎
+  - Price increased: [RDS DataTransfer InterRegion Outbound] Canada West (Calgary) (To Location: Amazon CloudFront)  **$0.0** → **$0.09** 🤑
+  - Region removed for metric [RDS DataTransfer InterRegion Outbound]: Amazon CloudFront (To Location: Canada West (Calgary)) 💥
+  - Region added for metric DataTransfer InterRegion Outbound to Morocco Casablanca: Asia Pacific (Taipei) (To Location: Morocco (Casablanca)) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to US West Los Angeles: Asia Pacific (Taipei) (To Location: US West (Los Angeles)) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to EU Vodafone - Berlin: Asia Pacific (Taipei) (To Location: EU (Vodafone) - Berlin) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to EU Vodafone - Dortmund: Asia Pacific (Taipei) (To Location: EU (Vodafone) - Dortmund) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to EU Vodafone - Munich: Asia Pacific (Taipei) (To Location: EU (Vodafone) - Munich) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to US West Verizon - Seattle: Asia Pacific (Taipei) (To Location: US West (Verizon) - Seattle) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to EU Vodafone - Berlin;Cloudfrontless DataTransfer InterRegion Outbound to EU Vodafone - Berlin: Asia Pacific (Taipei) (To Location: EU (Vodafone) - Berlin) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to EU Vodafone - Dortmund;Cloudfrontless DataTransfer InterRegion Outbound to EU Vodafone - Dortmund: Asia Pacific (Taipei) (To Location: EU (Vodafone) - Dortmund) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to EU Vodafone - Munich;Cloudfrontless DataTransfer InterRegion Outbound to EU Vodafone - Munich: Asia Pacific (Taipei) (To Location: EU (Vodafone) - Munich) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Morocco Casablanca;Cloudfrontless DataTransfer InterRegion Outbound to Morocco Casablanca: Asia Pacific (Taipei) (To Location: Morocco (Casablanca)) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to US West Verizon - Seattle;Cloudfrontless DataTransfer InterRegion Outbound to US West Verizon - Seattle: Asia Pacific (Taipei) (To Location: US West (Verizon) - Seattle) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to US West Oregon: Asia Pacific (Taipei) (To Location: US West (Oregon)) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to US West Verizon - Denver: Asia Pacific (Taipei) (To Location: US West (Verizon) - Denver) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to US West Verizon - Las Vegas: US West (Las Vegas) (To Location: US West (Verizon) - Las Vegas) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to US West Verizon - Las Vegas: Asia Pacific (Taipei) (To Location: US West (Verizon) - Las Vegas) 🌎
+  - Region added for metric DataTransfer InterRegion Outbound to US West Verizon - Phoenix: Asia Pacific (Taipei) (To Location: US West (Verizon) - Phoenix) 🌎
+  - Region removed for metric DataTransfer InterRegion Outbound to US West Verizon - Phoenix: US West (Las Vegas) (To Location: US West (Verizon) - Phoenix) 💥
+  - Region added for metric DataTransfer InterRegion Outbound to US West Verizon - San Francisco Bay Area: Asia Pacific (Taipei) (To Location: US West (Verizon) - San Francisco Bay Area) 🌎
+  - Billing metric added: [DataTransfer InterRegion Outbound] 💡
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to US West Verizon - Denver;Cloudfrontless DataTransfer InterRegion Outbound to US West Verizon - Denver: Asia Pacific (Taipei) (To Location: US West (Verizon) - Denver) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to US West Verizon - Las Vegas;Cloudfrontless DataTransfer InterRegion Outbound to US West Verizon - Las Vegas: US West (Las Vegas) (To Location: US West (Verizon) - Las Vegas) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to US West Verizon - Las Vegas;Cloudfrontless DataTransfer InterRegion Outbound to US West Verizon - Las Vegas: Asia Pacific (Taipei) (To Location: US West (Verizon) - Las Vegas) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to US West Verizon - Phoenix;Cloudfrontless DataTransfer InterRegion Outbound to US West Verizon - Phoenix: Asia Pacific (Taipei) (To Location: US West (Verizon) - Phoenix) 🌎
+  - Region removed for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to US West Verizon - Phoenix;Cloudfrontless DataTransfer InterRegion Outbound to US West Verizon - Phoenix: US West (Las Vegas) (To Location: US West (Verizon) - Phoenix) 💥
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to US West Verizon - San Francisco Bay Area;Cloudfrontless DataTransfer InterRegion Outbound to US West Verizon - San Francisco Bay Area: Asia Pacific (Taipei) (To Location: US West (Verizon) - San Francisco Bay Area) 🌎
+  - Region added for metric DataTransfer External Inbound New: Asia Pacific (Taipei) 🌎
+  - Region added for metric DataTransfer External Inbound No Wavelength: Asia Pacific (Taipei) 🌎
+  - Region added for metric DataTransfer External Outbound Next 10 TB No Wavelength: Asia Pacific (Taipei) (StartingRange: 0, EndingRange: 10240) 🌎
+  - Region added for metric DataTransfer External Outbound Next 40 TB No Wavelength: Asia Pacific (Taipei) (StartingRange: 10240, EndingRange: 51200) 🌎
+  - Region added for metric DataTransfer External Outbound Greater than 150 TB No Wavelength: Asia Pacific (Taipei) (StartingRange: 153600, EndingRange: Inf) 🌎
+  - Region added for metric DataTransfer External Outbound Next 100 TB No Wavelength: Asia Pacific (Taipei) (StartingRange: 51200, EndingRange: 153600) 🌎
+  - Region added for metric DataTransfer External Outbound Next 10 TB New: Asia Pacific (Taipei) (StartingRange: 0, EndingRange: 10240) 🌎
+  - Region added for metric DataTransfer External Outbound Next 40 TB New: Asia Pacific (Taipei) (StartingRange: 10240, EndingRange: 51200) 🌎
+  - Region added for metric DataTransfer External Outbound Greater than 150 TB New: Asia Pacific (Taipei) (StartingRange: 153600, EndingRange: Inf) 🌎
+  - Region added for metric DataTransfer External Outbound Next 100 TB New: Asia Pacific (Taipei) (StartingRange: 51200, EndingRange: 153600) 🌎
+  - Billing metric added: [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Asia Pacific Taipei;Cloudfrontless DataTransfer InterRegion Outbound to Asia Pacific Taipei;Cloudfrontless DataTransfer InterRegion Outbound to Asia Pacific Taipei No Wavelength;Backup DataTransfer InterRegion Outbound to Asia Pacific Taipei;FSX DataTransfer InterRegion Outbound to Asia Pacific Taipei;RDS DataTransfer InterRegion Outbound to Asia Pacific Taipei;DirectoryService DataTransfer InterRegion Outbound to Asia Pacific Taipei 💡
+  - Region added for metric [FSX DataTransfer InterRegion Outbound]: US West (Oregon) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [FSX DataTransfer InterRegion Outbound]: US West (N. California) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [FSX DataTransfer InterRegion Outbound]: US West (Los Angeles) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [FSX DataTransfer InterRegion Outbound]: US East (Ohio) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [FSX DataTransfer InterRegion Outbound]: US East (N. Virginia) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [FSX DataTransfer InterRegion Outbound]: South America (Sao Paulo) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [FSX DataTransfer InterRegion Outbound]: Middle East (Bahrain) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [FSX DataTransfer InterRegion Outbound]: EU (Stockholm) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [FSX DataTransfer InterRegion Outbound]: EU (Paris) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [FSX DataTransfer InterRegion Outbound]: EU (Milan) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [FSX DataTransfer InterRegion Outbound]: EU (London) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [FSX DataTransfer InterRegion Outbound]: EU (Ireland) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [FSX DataTransfer InterRegion Outbound]: EU (Frankfurt) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [FSX DataTransfer InterRegion Outbound]: Canada (Central) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [FSX DataTransfer InterRegion Outbound]: Asia Pacific (Tokyo) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [FSX DataTransfer InterRegion Outbound]: Asia Pacific (Sydney) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [FSX DataTransfer InterRegion Outbound]: Asia Pacific (Singapore) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [FSX DataTransfer InterRegion Outbound]: Asia Pacific (Seoul) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [FSX DataTransfer InterRegion Outbound]: Asia Pacific (Mumbai) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [FSX DataTransfer InterRegion Outbound]: Asia Pacific (Hong Kong) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [FSX DataTransfer InterRegion Outbound]: Africa (Cape Town) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [FSX DataTransfer InterRegion Outbound]: AWS GovCloud (US-East) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [DirectoryService DataTransfer InterRegion Outbound]: US West (Oregon) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [DirectoryService DataTransfer InterRegion Outbound]: US West (N. California) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [DirectoryService DataTransfer InterRegion Outbound]: US East (Ohio) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [DirectoryService DataTransfer InterRegion Outbound]: US East (N. Virginia) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [DirectoryService DataTransfer InterRegion Outbound]: South America (Sao Paulo) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [DirectoryService DataTransfer InterRegion Outbound]: Middle East (UAE) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [DirectoryService DataTransfer InterRegion Outbound]: Mexico (Central) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [DirectoryService DataTransfer InterRegion Outbound]: Israel (Tel Aviv) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [DirectoryService DataTransfer InterRegion Outbound]: EU (Zurich) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [DirectoryService DataTransfer InterRegion Outbound]: EU (Stockholm) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [DirectoryService DataTransfer InterRegion Outbound]: EU (Spain) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [DirectoryService DataTransfer InterRegion Outbound]: EU (Paris) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [DirectoryService DataTransfer InterRegion Outbound]: EU (London) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [DirectoryService DataTransfer InterRegion Outbound]: EU (Ireland) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [DirectoryService DataTransfer InterRegion Outbound]: EU (Frankfurt) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [DirectoryService DataTransfer InterRegion Outbound]: Canada West (Calgary) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [DirectoryService DataTransfer InterRegion Outbound]: Canada (Central) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [DirectoryService DataTransfer InterRegion Outbound]: Asia Pacific (Tokyo) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [DirectoryService DataTransfer InterRegion Outbound]: Asia Pacific (Thailand) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [DirectoryService DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: AWS GovCloud (US)) 🌎
+  - Region added for metric [DirectoryService DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: AWS GovCloud (US-East)) 🌎
+  - Region added for metric [DirectoryService DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: Africa (Cape Town)) 🌎
+  - Region added for metric [DirectoryService DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: Asia Pacific (Hong Kong)) 🌎
+  - Region added for metric [DirectoryService DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: Asia Pacific (Hyderabad)) 🌎
+  - Region added for metric [DirectoryService DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: Asia Pacific (Jakarta)) 🌎
+  - Region added for metric [DirectoryService DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: Asia Pacific (Malaysia)) 🌎
+  - Region added for metric [DirectoryService DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: Asia Pacific (Melbourne)) 🌎
+  - Region added for metric [DirectoryService DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: Asia Pacific (Mumbai)) 🌎
+  - Region added for metric [DirectoryService DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: Asia Pacific (Osaka)) 🌎
+  - Region added for metric [DirectoryService DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: Asia Pacific (Seoul)) 🌎
+  - Region added for metric [DirectoryService DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: Asia Pacific (Singapore)) 🌎
+  - Region added for metric [DirectoryService DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: Asia Pacific (Sydney)) 🌎
+  - Region added for metric [DirectoryService DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: Asia Pacific (Thailand)) 🌎
+  - Region added for metric [DirectoryService DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: Asia Pacific (Tokyo)) 🌎
+  - Region added for metric [DirectoryService DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: Canada (Central)) 🌎
+  - Region added for metric [DirectoryService DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: Canada West (Calgary)) 🌎
+  - Region added for metric [DirectoryService DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: EU (Frankfurt)) 🌎
+  - Region added for metric [DirectoryService DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: EU (Ireland)) 🌎
+  - Region added for metric [DirectoryService DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: EU (London)) 🌎
+  - Region added for metric [DirectoryService DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: EU (Milan)) 🌎
+  - Region added for metric [DirectoryService DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: EU (Paris)) 🌎
+  - Region added for metric [DirectoryService DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: EU (Spain)) 🌎
+  - Region added for metric [DirectoryService DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: EU (Stockholm)) 🌎
+  - Region added for metric [DirectoryService DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: EU (Zurich)) 🌎
+  - Region added for metric [DirectoryService DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: Israel (Tel Aviv)) 🌎
+  - Region added for metric [DirectoryService DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: Mexico (Central)) 🌎
+  - Region added for metric [DirectoryService DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: Middle East (Bahrain)) 🌎
+  - Region added for metric [DirectoryService DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: Middle East (UAE)) 🌎
+  - Region added for metric [DirectoryService DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: South America (Sao Paulo)) 🌎
+  - Region added for metric [DirectoryService DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: US East (N. Virginia)) 🌎
+  - Region added for metric [DirectoryService DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: US East (Ohio)) 🌎
+  - Region added for metric [DirectoryService DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: US West (Los Angeles)) 🌎
+  - Region added for metric [DirectoryService DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: US West (N. California)) 🌎
+  - Region added for metric [DirectoryService DataTransfer InterRegion Outbound]: Asia Pacific (Taipei) (To Location: US West (Oregon)) 🌎
+  - Region added for metric [DirectoryService DataTransfer InterRegion Outbound]: Asia Pacific (Sydney) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [DirectoryService DataTransfer InterRegion Outbound]: Asia Pacific (Singapore) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [DirectoryService DataTransfer InterRegion Outbound]: Asia Pacific (Seoul) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [DirectoryService DataTransfer InterRegion Outbound]: Asia Pacific (Osaka) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [DirectoryService DataTransfer InterRegion Outbound]: Asia Pacific (Mumbai) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [DirectoryService DataTransfer InterRegion Outbound]: Asia Pacific (Melbourne) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [DirectoryService DataTransfer InterRegion Outbound]: Asia Pacific (Malaysia) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [DirectoryService DataTransfer InterRegion Outbound]: Asia Pacific (Jakarta) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [DirectoryService DataTransfer InterRegion Outbound]: Asia Pacific (Hyderabad) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [DirectoryService DataTransfer InterRegion Outbound]: AWS GovCloud (US-East) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [DirectoryService DataTransfer InterRegion Outbound]: AWS GovCloud (US) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region removed for metric [DirectoryService DataTransfer InterRegion Outbound]: Amazon CloudFront (To Location: Canada West (Calgary)) 💥
+  - Billing metric added: [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Asia Pacific Taipei;Cloudfrontless DataTransfer InterRegion Outbound to Asia Pacific Taipei;Cloudfrontless DataTransfer InterRegion Outbound to Asia Pacific Taipei No Wavelength;Backup DataTransfer InterRegion Outbound to Asia Pacific Taipei;FSX DataTransfer InterRegion Outbound to Asia Pacific Taipei;RDS DataTransfer InterRegion Outbound to Asia Pacific Taipei 💡
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to AWS GovCloud US;Cloudfrontless DataTransfer InterRegion Outbound to AWS GovCloud US;Cloudfrontless DataTransfer InterRegion Outbound to AWS GovCloud US No Wavelength;Backup DataTransfer InterRegion Outbound to AWS GovCloud US;RDS DataTransfer InterRegion Outbound to AWS GovCloud US;DirectoryService DataTransfer InterRegion Outbound to AWS GovCloud US: Asia Pacific (Taipei) (To Location: AWS GovCloud (US)) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to AWS GovCloud US-East;Cloudfrontless DataTransfer InterRegion Outbound to AWS GovCloud US-East;Cloudfrontless DataTransfer InterRegion Outbound to AWS GovCloud US-East No Wavelength;Backup DataTransfer InterRegion Outbound to AWS GovCloud US-East;RDS DataTransfer InterRegion Outbound to AWS GovCloud US-East;DirectoryService DataTransfer InterRegion Outbound to AWS GovCloud US-East: Asia Pacific (Taipei) (To Location: AWS GovCloud (US-East)) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Africa Cape Town;Cloudfrontless DataTransfer InterRegion Outbound to Africa Cape Town;Cloudfrontless DataTransfer InterRegion Outbound to Africa Cape Town No Wavelength;Backup DataTransfer InterRegion Outbound to Africa Cape Town;RDS DataTransfer InterRegion Outbound to Africa Cape Town;DirectoryService DataTransfer InterRegion Outbound to Africa Cape Town: Asia Pacific (Taipei) (To Location: Africa (Cape Town)) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Asia Pacific Hong Kong;Cloudfrontless DataTransfer InterRegion Outbound to Asia Pacific Hong Kong;Cloudfrontless DataTransfer InterRegion Outbound to Asia Pacific Hong Kong No Wavelength;Backup DataTransfer InterRegion Outbound to Asia Pacific Hong Kong;RDS DataTransfer InterRegion Outbound to Asia Pacific Hong Kong;DirectoryService DataTransfer InterRegion Outbound to Asia Pacific Hong Kong: Asia Pacific (Taipei) (To Location: Asia Pacific (Hong Kong)) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Asia Pacific Hyderabad;Cloudfrontless DataTransfer InterRegion Outbound to Asia Pacific Hyderabad;Cloudfrontless DataTransfer InterRegion Outbound to Asia Pacific Hyderabad No Wavelength;Backup DataTransfer InterRegion Outbound to Asia Pacific Hyderabad;RDS DataTransfer InterRegion Outbound to Asia Pacific Hyderabad;DirectoryService DataTransfer InterRegion Outbound to Asia Pacific Hyderabad: Asia Pacific (Taipei) (To Location: Asia Pacific (Hyderabad)) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Asia Pacific Jakarta;Cloudfrontless DataTransfer InterRegion Outbound to Asia Pacific Jakarta;Cloudfrontless DataTransfer InterRegion Outbound to Asia Pacific Jakarta No Wavelength;Backup DataTransfer InterRegion Outbound to Asia Pacific Jakarta;RDS DataTransfer InterRegion Outbound to Asia Pacific Jakarta;DirectoryService DataTransfer InterRegion Outbound to Asia Pacific Jakarta: Asia Pacific (Taipei) (To Location: Asia Pacific (Jakarta)) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Asia Pacific Malaysia;Cloudfrontless DataTransfer InterRegion Outbound to Asia Pacific Malaysia;Cloudfrontless DataTransfer InterRegion Outbound to Asia Pacific Malaysia No Wavelength;Backup DataTransfer InterRegion Outbound to Asia Pacific Malaysia;RDS DataTransfer InterRegion Outbound to Asia Pacific Malaysia;DirectoryService DataTransfer InterRegion Outbound to Asia Pacific Malaysia: Asia Pacific (Taipei) (To Location: Asia Pacific (Malaysia)) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Asia Pacific Melbourne;Cloudfrontless DataTransfer InterRegion Outbound to Asia Pacific Melbourne;Cloudfrontless DataTransfer InterRegion Outbound to Asia Pacific Melbourne No Wavelength;Backup DataTransfer InterRegion Outbound to Asia Pacific Melbourne;RDS DataTransfer InterRegion Outbound to Asia Pacific Melbourne;DirectoryService DataTransfer InterRegion Outbound to Asia Pacific Melbourne: Asia Pacific (Taipei) (To Location: Asia Pacific (Melbourne)) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Asia Pacific Mumbai;Cloudfrontless DataTransfer InterRegion Outbound to Asia Pacific Mumbai;Cloudfrontless DataTransfer InterRegion Outbound to Asia Pacific Mumbai No Wavelength;Backup DataTransfer InterRegion Outbound to Asia Pacific Mumbai;RDS DataTransfer InterRegion Outbound to Asia Pacific Mumbai;DirectoryService DataTransfer InterRegion Outbound to Asia Pacific Mumbai: Asia Pacific (Taipei) (To Location: Asia Pacific (Mumbai)) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Asia Pacific Osaka;Cloudfrontless DataTransfer InterRegion Outbound to Asia Pacific Osaka;Cloudfrontless DataTransfer InterRegion Outbound to Asia Pacific Osaka No Wavelength;Backup DataTransfer InterRegion Outbound to Asia Pacific Osaka;RDS DataTransfer InterRegion Outbound to Asia Pacific Osaka;DirectoryService DataTransfer InterRegion Outbound to Asia Pacific Osaka: Asia Pacific (Taipei) (To Location: Asia Pacific (Osaka)) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Asia Pacific Seoul;Cloudfrontless DataTransfer InterRegion Outbound to Asia Pacific Seoul;Cloudfrontless DataTransfer InterRegion Outbound to Asia Pacific Seoul No Wavelength;Backup DataTransfer InterRegion Outbound to Asia Pacific Seoul;RDS DataTransfer InterRegion Outbound to Asia Pacific Seoul;DirectoryService DataTransfer InterRegion Outbound to Asia Pacific Seoul: Asia Pacific (Taipei) (To Location: Asia Pacific (Seoul)) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Asia Pacific Singapore;Cloudfrontless DataTransfer InterRegion Outbound to Asia Pacific Singapore;Cloudfrontless DataTransfer InterRegion Outbound to Asia Pacific Singapore No Wavelength;Backup DataTransfer InterRegion Outbound to Asia Pacific Singapore;RDS DataTransfer InterRegion Outbound to Asia Pacific Singapore;DirectoryService DataTransfer InterRegion Outbound to Asia Pacific Singapore: Asia Pacific (Taipei) (To Location: Asia Pacific (Singapore)) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Asia Pacific Sydney;Cloudfrontless DataTransfer InterRegion Outbound to Asia Pacific Sydney;Cloudfrontless DataTransfer InterRegion Outbound to Asia Pacific Sydney No Wavelength;Backup DataTransfer InterRegion Outbound to Asia Pacific Sydney;RDS DataTransfer InterRegion Outbound to Asia Pacific Sydney;DirectoryService DataTransfer InterRegion Outbound to Asia Pacific Sydney: Asia Pacific (Taipei) (To Location: Asia Pacific (Sydney)) 🌎
+  - Billing metric added: [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Asia Pacific Taipei;Cloudfrontless DataTransfer InterRegion Outbound to Asia Pacific Taipei;Cloudfrontless DataTransfer InterRegion Outbound to Asia Pacific Taipei No Wavelength;Backup DataTransfer InterRegion Outbound to Asia Pacific Taipei;RDS DataTransfer InterRegion Outbound to Asia Pacific Taipei;DirectoryService DataTransfer InterRegion Outbound to Asia Pacific Taipei 💡
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Asia Pacific Thailand;Cloudfrontless DataTransfer InterRegion Outbound to Asia Pacific Thailand;Cloudfrontless DataTransfer InterRegion Outbound to Asia Pacific Thailand No Wavelength;Backup DataTransfer InterRegion Outbound to Asia Pacific Thailand;RDS DataTransfer InterRegion Outbound to Asia Pacific Thailand;DirectoryService DataTransfer InterRegion Outbound to Asia Pacific Thailand: Asia Pacific (Taipei) (To Location: Asia Pacific (Thailand)) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Asia Pacific Tokyo;Cloudfrontless DataTransfer InterRegion Outbound to Asia Pacific Tokyo;Cloudfrontless DataTransfer InterRegion Outbound to Asia Pacific Tokyo No Wavelength;Backup DataTransfer InterRegion Outbound to Asia Pacific Tokyo;RDS DataTransfer InterRegion Outbound to Asia Pacific Tokyo;DirectoryService DataTransfer InterRegion Outbound to Asia Pacific Tokyo: Asia Pacific (Taipei) (To Location: Asia Pacific (Tokyo)) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Canada Central;Cloudfrontless DataTransfer InterRegion Outbound to Canada Central;Cloudfrontless DataTransfer InterRegion Outbound to Canada Central No Wavelength;Backup DataTransfer InterRegion Outbound to Canada Central;RDS DataTransfer InterRegion Outbound to Canada Central;DirectoryService DataTransfer InterRegion Outbound to Canada Central: Asia Pacific (Taipei) (To Location: Canada (Central)) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Canada West Calgary;Cloudfrontless DataTransfer InterRegion Outbound to Canada West Calgary;Cloudfrontless DataTransfer InterRegion Outbound to Canada West Calgary No Wavelength;Backup DataTransfer InterRegion Outbound to Canada West Calgary;RDS DataTransfer InterRegion Outbound to Canada West Calgary;DirectoryService DataTransfer InterRegion Outbound to Canada West Calgary: Asia Pacific (Taipei) (To Location: Canada West (Calgary)) 🌎
+  - Region removed for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Canada West Calgary;Cloudfrontless DataTransfer InterRegion Outbound to Canada West Calgary;Cloudfrontless DataTransfer InterRegion Outbound to Canada West Calgary No Wavelength;Backup DataTransfer InterRegion Outbound to Canada West Calgary;RDS DataTransfer InterRegion Outbound to Canada West Calgary;DirectoryService DataTransfer InterRegion Outbound to Canada West Calgary: Amazon CloudFront (To Location: Canada West (Calgary)) 💥
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to EU Frankfurt;Cloudfrontless DataTransfer InterRegion Outbound to EU Frankfurt;Cloudfrontless DataTransfer InterRegion Outbound to EU Frankfurt No Wavelength;Backup DataTransfer InterRegion Outbound to EU Frankfurt;RDS DataTransfer InterRegion Outbound to EU Frankfurt;DirectoryService DataTransfer InterRegion Outbound to EU Frankfurt: Asia Pacific (Taipei) (To Location: EU (Frankfurt)) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to EU Ireland;Cloudfrontless DataTransfer InterRegion Outbound to EU Ireland;Cloudfrontless DataTransfer InterRegion Outbound to EU Ireland No Wavelength;Backup DataTransfer InterRegion Outbound to EU Ireland;RDS DataTransfer InterRegion Outbound to EU Ireland;DirectoryService DataTransfer InterRegion Outbound to EU Ireland: Asia Pacific (Taipei) (To Location: EU (Ireland)) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to EU London;Cloudfrontless DataTransfer InterRegion Outbound to EU London;Cloudfrontless DataTransfer InterRegion Outbound to EU London No Wavelength;Backup DataTransfer InterRegion Outbound to EU London;RDS DataTransfer InterRegion Outbound to EU London;DirectoryService DataTransfer InterRegion Outbound to EU London: Asia Pacific (Taipei) (To Location: EU (London)) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to EU Milan;Cloudfrontless DataTransfer InterRegion Outbound to EU Milan;Cloudfrontless DataTransfer InterRegion Outbound to EU Milan No Wavelength;Backup DataTransfer InterRegion Outbound to EU Milan;RDS DataTransfer InterRegion Outbound to EU Milan;DirectoryService DataTransfer InterRegion Outbound to EU Milan: Asia Pacific (Taipei) (To Location: EU (Milan)) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to EU Paris;Cloudfrontless DataTransfer InterRegion Outbound to EU Paris;Cloudfrontless DataTransfer InterRegion Outbound to EU Paris No Wavelength;Backup DataTransfer InterRegion Outbound to EU Paris;RDS DataTransfer InterRegion Outbound to EU Paris;DirectoryService DataTransfer InterRegion Outbound to EU Paris: Asia Pacific (Taipei) (To Location: EU (Paris)) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to EU Spain;Cloudfrontless DataTransfer InterRegion Outbound to EU Spain;Cloudfrontless DataTransfer InterRegion Outbound to EU Spain No Wavelength;RDS DataTransfer InterRegion Outbound to EU Spain;DirectoryService DataTransfer InterRegion Outbound to EU Spain: Asia Pacific (Taipei) (To Location: EU (Spain)) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to EU Stockholm;Cloudfrontless DataTransfer InterRegion Outbound to EU Stockholm;Cloudfrontless DataTransfer InterRegion Outbound to EU Stockholm No Wavelength;Backup DataTransfer InterRegion Outbound to EU Stockholm;RDS DataTransfer InterRegion Outbound to EU Stockholm;DirectoryService DataTransfer InterRegion Outbound to EU Stockholm: Asia Pacific (Taipei) (To Location: EU (Stockholm)) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to EU Zurich;Cloudfrontless DataTransfer InterRegion Outbound to EU Zurich;Cloudfrontless DataTransfer InterRegion Outbound to EU Zurich No Wavelength;RDS DataTransfer InterRegion Outbound to EU Zurich;DirectoryService DataTransfer InterRegion Outbound to EU Zurich: Asia Pacific (Taipei) (To Location: EU (Zurich)) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Israel Tel Aviv;Cloudfrontless DataTransfer InterRegion Outbound to Israel Tel Aviv;Cloudfrontless DataTransfer InterRegion Outbound to Israel Tel Aviv No Wavelength;Backup DataTransfer InterRegion Outbound to Israel Tel Aviv;RDS DataTransfer InterRegion Outbound to Israel Tel Aviv;DirectoryService DataTransfer InterRegion Outbound to Israel Tel Aviv: Asia Pacific (Taipei) (To Location: Israel (Tel Aviv)) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Mexico Central;Cloudfrontless DataTransfer InterRegion Outbound to Mexico Central;Cloudfrontless DataTransfer InterRegion Outbound to Mexico Central No Wavelength;Backup DataTransfer InterRegion Outbound to Mexico Central;RDS DataTransfer InterRegion Outbound to Mexico Central;DirectoryService DataTransfer InterRegion Outbound to Mexico Central: Asia Pacific (Taipei) (To Location: Mexico (Central)) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Middle East Bahrain;Cloudfrontless DataTransfer InterRegion Outbound to Middle East Bahrain;Cloudfrontless DataTransfer InterRegion Outbound to Middle East Bahrain No Wavelength;Backup DataTransfer InterRegion Outbound to Middle East Bahrain;RDS DataTransfer InterRegion Outbound to Middle East Bahrain;DirectoryService DataTransfer InterRegion Outbound to Middle East Bahrain: Asia Pacific (Taipei) (To Location: Middle East (Bahrain)) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to South America Sao Paulo;Cloudfrontless DataTransfer InterRegion Outbound to South America Sao Paulo;Cloudfrontless DataTransfer InterRegion Outbound to South America Sao Paulo No Wavelength;Backup DataTransfer InterRegion Outbound to South America Sao Paulo;RDS DataTransfer InterRegion Outbound to South America Sao Paulo;DirectoryService DataTransfer InterRegion Outbound to South America Sao Paulo: Asia Pacific (Taipei) (To Location: South America (Sao Paulo)) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to US East N Virginia;Cloudfrontless DataTransfer InterRegion Outbound to US East N Virginia;Cloudfrontless DataTransfer InterRegion Outbound to US East N Virginia No Wavelength;Backup DataTransfer InterRegion Outbound to US East N Virginia;RDS DataTransfer InterRegion Outbound to US East N Virginia;DirectoryService DataTransfer InterRegion Outbound to US East N Virginia: Asia Pacific (Taipei) (To Location: US East (N. Virginia)) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to US East Ohio;Cloudfrontless DataTransfer InterRegion Outbound to US East Ohio;Cloudfrontless DataTransfer InterRegion Outbound to US East Ohio No Wavelength;Backup DataTransfer InterRegion Outbound to US East Ohio;RDS DataTransfer InterRegion Outbound to US East Ohio;DirectoryService DataTransfer InterRegion Outbound to US East Ohio: Asia Pacific (Taipei) (To Location: US East (Ohio)) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to US West Los Angeles;Cloudfrontless DataTransfer InterRegion Outbound to US West Los Angeles;Cloudfrontless DataTransfer InterRegion Outbound to US West Los Angeles No Wavelength;RDS DataTransfer InterRegion Outbound to US West Los Angeles;DirectoryService DataTransfer InterRegion Outbound to US West Los Angeles: Asia Pacific (Taipei) (To Location: US West (Los Angeles)) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to US West N California;Cloudfrontless DataTransfer InterRegion Outbound to US West N California;Cloudfrontless DataTransfer InterRegion Outbound to US West N California No Wavelength;Backup DataTransfer InterRegion Outbound to US West N California;RDS DataTransfer InterRegion Outbound to US West N California;DirectoryService DataTransfer InterRegion Outbound to US West N California: Asia Pacific (Taipei) (To Location: US West (N. California)) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to US West Oregon;Cloudfrontless DataTransfer InterRegion Outbound to US West Oregon;Cloudfrontless DataTransfer InterRegion Outbound to US West Oregon No Wavelength;Backup DataTransfer InterRegion Outbound to US West Oregon;RDS DataTransfer InterRegion Outbound to US West Oregon;DirectoryService DataTransfer InterRegion Outbound to US West Oregon: Asia Pacific (Taipei) (To Location: US West (Oregon)) 🌎
+  - Region added for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Middle East UAE;Cloudfrontless DataTransfer InterRegion Outbound to Middle East UAE;Cloudfrontless DataTransfer InterRegion Outbound to Middle East UAE No Wavelength;RDS DataTransfer InterRegion Outbound to Middle East UAE;DirectoryService DataTransfer InterRegion Outbound to Middle East UAE: Asia Pacific (Taipei) (To Location: Middle East (UAE)) 🌎
+  - Region removed for metric DataTransfer InterRegion Outbound to Amazon CloudFront: US West (Seattle) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric DataTransfer InterRegion Outbound to Amazon CloudFront: US West (Portland) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric DataTransfer InterRegion Outbound to Amazon CloudFront: US West (Phoenix) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric DataTransfer InterRegion Outbound to Amazon CloudFront: US West (Oregon) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric DataTransfer InterRegion Outbound to Amazon CloudFront: US West (N. California) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric DataTransfer InterRegion Outbound to Amazon CloudFront: US West (Los Angeles) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric DataTransfer InterRegion Outbound to Amazon CloudFront: US West (Honolulu) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric DataTransfer InterRegion Outbound to Amazon CloudFront: US West (Denver) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric DataTransfer InterRegion Outbound to Amazon CloudFront: US East (Verizon) - Tampa (To Location: Amazon CloudFront) 💥
+  - Region removed for metric DataTransfer InterRegion Outbound to Amazon CloudFront: US East (Verizon) - Nashville (To Location: Amazon CloudFront) 💥
+  - Region removed for metric DataTransfer InterRegion Outbound to Amazon CloudFront: US East (Philadelphia) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric DataTransfer InterRegion Outbound to Amazon CloudFront: US East (Ohio) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric DataTransfer InterRegion Outbound to Amazon CloudFront: US East (New York City) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric DataTransfer InterRegion Outbound to Amazon CloudFront: US East (N. Virginia) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric DataTransfer InterRegion Outbound to Amazon CloudFront: US East (Minneapolis) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric DataTransfer InterRegion Outbound to Amazon CloudFront: US East (Miami) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric DataTransfer InterRegion Outbound to Amazon CloudFront: US East (Lenexa) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric DataTransfer InterRegion Outbound to Amazon CloudFront: US East (Kansas City 2) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric DataTransfer InterRegion Outbound to Amazon CloudFront: US East (Houston) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric DataTransfer InterRegion Outbound to Amazon CloudFront: US East (Dallas) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric DataTransfer InterRegion Outbound to Amazon CloudFront: US East (Chicago) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric DataTransfer InterRegion Outbound to Amazon CloudFront: US East (Boston) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric DataTransfer InterRegion Outbound to Amazon CloudFront: US East (Atlanta) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric DataTransfer InterRegion Outbound to Amazon CloudFront: Thailand (Bangkok) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric DataTransfer InterRegion Outbound to Amazon CloudFront: Taiwan (Taipei) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric DataTransfer InterRegion Outbound to Amazon CloudFront: South America (Sao Paulo) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric DataTransfer InterRegion Outbound to Amazon CloudFront: Senegal (Dakar) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric DataTransfer InterRegion Outbound to Amazon CloudFront: Poland (Warsaw) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric DataTransfer InterRegion Outbound to Amazon CloudFront: Philippines (Manila) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric DataTransfer InterRegion Outbound to Amazon CloudFront: Peru (Lima) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric DataTransfer InterRegion Outbound to Amazon CloudFront: Oman (Muscat) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric DataTransfer InterRegion Outbound to Amazon CloudFront: Nigeria (Lagos) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric DataTransfer InterRegion Outbound to Amazon CloudFront: New Zealand (Auckland) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric DataTransfer InterRegion Outbound to Amazon CloudFront: Middle East (UAE) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric DataTransfer InterRegion Outbound to Amazon CloudFront: Middle East (Bahrain) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric DataTransfer InterRegion Outbound to Amazon CloudFront: Mexico (Queretaro) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric DataTransfer InterRegion Outbound to Amazon CloudFront: Mexico (Central) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric DataTransfer InterRegion Outbound to Amazon CloudFront: Israel (Tel Aviv) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric DataTransfer InterRegion Outbound to Amazon CloudFront: India (Kolkata) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric DataTransfer InterRegion Outbound to Amazon CloudFront: India (Delhi) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric DataTransfer InterRegion Outbound to Amazon CloudFront: Germany (Hamburg) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric DataTransfer InterRegion Outbound to Amazon CloudFront: Finland (Helsinki) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric DataTransfer InterRegion Outbound to Amazon CloudFront: EU (Zurich) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric DataTransfer InterRegion Outbound to Amazon CloudFront: EU (Vodafone) - Manchester (To Location: Amazon CloudFront) 💥
+  - Region removed for metric DataTransfer InterRegion Outbound to Amazon CloudFront: EU (Stockholm) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric DataTransfer InterRegion Outbound to Amazon CloudFront: EU (Spain) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric DataTransfer InterRegion Outbound to Amazon CloudFront: EU (Paris) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric DataTransfer InterRegion Outbound to Amazon CloudFront: EU (Milan) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric DataTransfer InterRegion Outbound to Amazon CloudFront: EU (London) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric DataTransfer InterRegion Outbound to Amazon CloudFront: EU (Ireland) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric DataTransfer InterRegion Outbound to Amazon CloudFront: EU (Frankfurt) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric DataTransfer InterRegion Outbound to Amazon CloudFront: EU (British Telecom) - Manchester (To Location: Amazon CloudFront) 💥
+  - Region removed for metric DataTransfer InterRegion Outbound to Amazon CloudFront: Denmark (Copenhagen) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric DataTransfer InterRegion Outbound to Amazon CloudFront: Chile (Santiago) (To Location: Amazon CloudFront) 💥
+  - Price increased: DataTransfer InterRegion Outbound to Amazon CloudFront Canada West (Calgary) (To Location: Amazon CloudFront)  **$0.0** → **$0.09** 🤑
+  - Region removed for metric DataTransfer InterRegion Outbound to Amazon CloudFront: Canada (Central) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric DataTransfer InterRegion Outbound to Amazon CloudFront: Canada (BELL) - Toronto (To Location: Amazon CloudFront) 💥
+  - Region removed for metric DataTransfer InterRegion Outbound to Amazon CloudFront: Australia (Perth) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric DataTransfer InterRegion Outbound to Amazon CloudFront: Asia Pacific (Tokyo) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric DataTransfer InterRegion Outbound to Amazon CloudFront: Asia Pacific (Thailand) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric DataTransfer InterRegion Outbound to Amazon CloudFront: Asia Pacific (Sydney) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric DataTransfer InterRegion Outbound to Amazon CloudFront: Asia Pacific (Singapore) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric DataTransfer InterRegion Outbound to Amazon CloudFront: Asia Pacific (Seoul) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric DataTransfer InterRegion Outbound to Amazon CloudFront: Asia Pacific (SKT) - Seoul (To Location: Amazon CloudFront) 💥
+  - Region removed for metric DataTransfer InterRegion Outbound to Amazon CloudFront: Asia Pacific (Osaka) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric DataTransfer InterRegion Outbound to Amazon CloudFront: Asia Pacific (Mumbai) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric DataTransfer InterRegion Outbound to Amazon CloudFront: Asia Pacific (Melbourne) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric DataTransfer InterRegion Outbound to Amazon CloudFront: Asia Pacific (Malaysia) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric DataTransfer InterRegion Outbound to Amazon CloudFront: Asia Pacific (Jakarta) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric DataTransfer InterRegion Outbound to Amazon CloudFront: Asia Pacific (Hyderabad) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric DataTransfer InterRegion Outbound to Amazon CloudFront: Asia Pacific (Hong Kong) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric DataTransfer InterRegion Outbound to Amazon CloudFront: Argentina (Buenos Aires) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric DataTransfer InterRegion Outbound to Amazon CloudFront: Africa (Cape Town) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric DataTransfer InterRegion Outbound to Amazon CloudFront: AWS GovCloud (US-East) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric DataTransfer InterRegion Outbound to Amazon CloudFront: AWS GovCloud (US) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Amazon CloudFront;RDS DataTransfer InterRegion Outbound to Amazon CloudFront: US West (Seattle) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Amazon CloudFront;RDS DataTransfer InterRegion Outbound to Amazon CloudFront: US West (Portland) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Amazon CloudFront;RDS DataTransfer InterRegion Outbound to Amazon CloudFront: US West (Phoenix) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Amazon CloudFront;RDS DataTransfer InterRegion Outbound to Amazon CloudFront: US West (Oregon) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Amazon CloudFront;RDS DataTransfer InterRegion Outbound to Amazon CloudFront: US West (N. California) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Amazon CloudFront;RDS DataTransfer InterRegion Outbound to Amazon CloudFront: US West (Los Angeles) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Amazon CloudFront;RDS DataTransfer InterRegion Outbound to Amazon CloudFront: US West (Honolulu) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Amazon CloudFront;RDS DataTransfer InterRegion Outbound to Amazon CloudFront: US West (Denver) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Amazon CloudFront;RDS DataTransfer InterRegion Outbound to Amazon CloudFront: US East (Verizon) - Tampa (To Location: Amazon CloudFront) 💥
+  - Region removed for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Amazon CloudFront;RDS DataTransfer InterRegion Outbound to Amazon CloudFront: US East (Verizon) - Nashville (To Location: Amazon CloudFront) 💥
+  - Region removed for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Amazon CloudFront;RDS DataTransfer InterRegion Outbound to Amazon CloudFront: US East (Philadelphia) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Amazon CloudFront;RDS DataTransfer InterRegion Outbound to Amazon CloudFront: US East (Ohio) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Amazon CloudFront;RDS DataTransfer InterRegion Outbound to Amazon CloudFront: US East (New York City) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Amazon CloudFront;RDS DataTransfer InterRegion Outbound to Amazon CloudFront: US East (N. Virginia) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Amazon CloudFront;RDS DataTransfer InterRegion Outbound to Amazon CloudFront: US East (Minneapolis) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Amazon CloudFront;RDS DataTransfer InterRegion Outbound to Amazon CloudFront: US East (Miami) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Amazon CloudFront;RDS DataTransfer InterRegion Outbound to Amazon CloudFront: US East (Lenexa) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Amazon CloudFront;RDS DataTransfer InterRegion Outbound to Amazon CloudFront: US East (Kansas City 2) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Amazon CloudFront;RDS DataTransfer InterRegion Outbound to Amazon CloudFront: US East (Houston) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Amazon CloudFront;RDS DataTransfer InterRegion Outbound to Amazon CloudFront: US East (Dallas) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Amazon CloudFront;RDS DataTransfer InterRegion Outbound to Amazon CloudFront: US East (Chicago) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Amazon CloudFront;RDS DataTransfer InterRegion Outbound to Amazon CloudFront: US East (Boston) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Amazon CloudFront;RDS DataTransfer InterRegion Outbound to Amazon CloudFront: US East (Atlanta) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Amazon CloudFront;RDS DataTransfer InterRegion Outbound to Amazon CloudFront: Thailand (Bangkok) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Amazon CloudFront;RDS DataTransfer InterRegion Outbound to Amazon CloudFront: Taiwan (Taipei) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Amazon CloudFront;RDS DataTransfer InterRegion Outbound to Amazon CloudFront: South America (Sao Paulo) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Amazon CloudFront;RDS DataTransfer InterRegion Outbound to Amazon CloudFront: Senegal (Dakar) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Amazon CloudFront;RDS DataTransfer InterRegion Outbound to Amazon CloudFront: Poland (Warsaw) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Amazon CloudFront;RDS DataTransfer InterRegion Outbound to Amazon CloudFront: Philippines (Manila) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Amazon CloudFront;RDS DataTransfer InterRegion Outbound to Amazon CloudFront: Peru (Lima) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Amazon CloudFront;RDS DataTransfer InterRegion Outbound to Amazon CloudFront: Oman (Muscat) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Amazon CloudFront;RDS DataTransfer InterRegion Outbound to Amazon CloudFront: Nigeria (Lagos) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Amazon CloudFront;RDS DataTransfer InterRegion Outbound to Amazon CloudFront: New Zealand (Auckland) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Amazon CloudFront;RDS DataTransfer InterRegion Outbound to Amazon CloudFront: Middle East (UAE) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Amazon CloudFront;RDS DataTransfer InterRegion Outbound to Amazon CloudFront: Middle East (Bahrain) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Amazon CloudFront;RDS DataTransfer InterRegion Outbound to Amazon CloudFront: Mexico (Queretaro) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Amazon CloudFront;RDS DataTransfer InterRegion Outbound to Amazon CloudFront: Mexico (Central) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Amazon CloudFront;RDS DataTransfer InterRegion Outbound to Amazon CloudFront: Israel (Tel Aviv) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Amazon CloudFront;RDS DataTransfer InterRegion Outbound to Amazon CloudFront: India (Kolkata) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Amazon CloudFront;RDS DataTransfer InterRegion Outbound to Amazon CloudFront: India (Delhi) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Amazon CloudFront;RDS DataTransfer InterRegion Outbound to Amazon CloudFront: Germany (Hamburg) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Amazon CloudFront;RDS DataTransfer InterRegion Outbound to Amazon CloudFront: Finland (Helsinki) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Amazon CloudFront;RDS DataTransfer InterRegion Outbound to Amazon CloudFront: EU (Zurich) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Amazon CloudFront;RDS DataTransfer InterRegion Outbound to Amazon CloudFront: EU (Vodafone) - Manchester (To Location: Amazon CloudFront) 💥
+  - Region removed for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Amazon CloudFront;RDS DataTransfer InterRegion Outbound to Amazon CloudFront: EU (Stockholm) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Amazon CloudFront;RDS DataTransfer InterRegion Outbound to Amazon CloudFront: EU (Spain) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Amazon CloudFront;RDS DataTransfer InterRegion Outbound to Amazon CloudFront: EU (Paris) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Amazon CloudFront;RDS DataTransfer InterRegion Outbound to Amazon CloudFront: EU (Milan) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Amazon CloudFront;RDS DataTransfer InterRegion Outbound to Amazon CloudFront: EU (London) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Amazon CloudFront;RDS DataTransfer InterRegion Outbound to Amazon CloudFront: EU (Ireland) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Amazon CloudFront;RDS DataTransfer InterRegion Outbound to Amazon CloudFront: EU (Frankfurt) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Amazon CloudFront;RDS DataTransfer InterRegion Outbound to Amazon CloudFront: EU (British Telecom) - Manchester (To Location: Amazon CloudFront) 💥
+  - Region removed for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Amazon CloudFront;RDS DataTransfer InterRegion Outbound to Amazon CloudFront: Denmark (Copenhagen) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Amazon CloudFront;RDS DataTransfer InterRegion Outbound to Amazon CloudFront: Chile (Santiago) (To Location: Amazon CloudFront) 💥
+  - Price increased: [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Amazon CloudFront;RDS DataTransfer InterRegion Outbound to Amazon CloudFront Canada West (Calgary) (To Location: Amazon CloudFront)  **$0.0** → **$0.09** 🤑
+  - Region removed for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Amazon CloudFront;RDS DataTransfer InterRegion Outbound to Amazon CloudFront: Canada (Central) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Amazon CloudFront;RDS DataTransfer InterRegion Outbound to Amazon CloudFront: Canada (BELL) - Toronto (To Location: Amazon CloudFront) 💥
+  - Region removed for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Amazon CloudFront;RDS DataTransfer InterRegion Outbound to Amazon CloudFront: Australia (Perth) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Amazon CloudFront;RDS DataTransfer InterRegion Outbound to Amazon CloudFront: Asia Pacific (Tokyo) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Amazon CloudFront;RDS DataTransfer InterRegion Outbound to Amazon CloudFront: Asia Pacific (Thailand) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Amazon CloudFront;RDS DataTransfer InterRegion Outbound to Amazon CloudFront: Asia Pacific (Sydney) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Amazon CloudFront;RDS DataTransfer InterRegion Outbound to Amazon CloudFront: Asia Pacific (Singapore) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Amazon CloudFront;RDS DataTransfer InterRegion Outbound to Amazon CloudFront: Asia Pacific (Seoul) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Amazon CloudFront;RDS DataTransfer InterRegion Outbound to Amazon CloudFront: Asia Pacific (SKT) - Seoul (To Location: Amazon CloudFront) 💥
+  - Region removed for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Amazon CloudFront;RDS DataTransfer InterRegion Outbound to Amazon CloudFront: Asia Pacific (Osaka) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Amazon CloudFront;RDS DataTransfer InterRegion Outbound to Amazon CloudFront: Asia Pacific (Mumbai) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Amazon CloudFront;RDS DataTransfer InterRegion Outbound to Amazon CloudFront: Asia Pacific (Melbourne) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Amazon CloudFront;RDS DataTransfer InterRegion Outbound to Amazon CloudFront: Asia Pacific (Malaysia) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Amazon CloudFront;RDS DataTransfer InterRegion Outbound to Amazon CloudFront: Asia Pacific (Jakarta) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Amazon CloudFront;RDS DataTransfer InterRegion Outbound to Amazon CloudFront: Asia Pacific (Hyderabad) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Amazon CloudFront;RDS DataTransfer InterRegion Outbound to Amazon CloudFront: Asia Pacific (Hong Kong) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Amazon CloudFront;RDS DataTransfer InterRegion Outbound to Amazon CloudFront: Argentina (Buenos Aires) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Amazon CloudFront;RDS DataTransfer InterRegion Outbound to Amazon CloudFront: Africa (Cape Town) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Amazon CloudFront;RDS DataTransfer InterRegion Outbound to Amazon CloudFront: AWS GovCloud (US-East) (To Location: Amazon CloudFront) 💥
+  - Region removed for metric [DataTransfer InterRegion Outbound] DataTransfer InterRegion Outbound to Amazon CloudFront;RDS DataTransfer InterRegion Outbound to Amazon CloudFront: AWS GovCloud (US) (To Location: Amazon CloudFront) 💥
+
+- [kinesisfirehose](processed/kinesisfirehose.json)
+  - Region added for metric MSK Record Processing Per GB of data ingested Next 3PB: Asia Pacific (Taipei) 🌎
+  - Region added for metric Event by-Event Processing Per GB of data ingested or delivered to Apache Iceberg Tables from 0 to 256000: Asia Pacific (Taipei) 🌎
+  - Region added for metric Per GB of data read from Kinesis Streams Next 1 5PB: Asia Pacific (Taipei) 🌎
+  - Region added for metric Event by-Event Processing Per GB of data ingested or delivered to Apache Iceberg Tables from 1024000 to Inf: Asia Pacific (Taipei) 🌎
+  - Region added for metric MSK Record Processing Per GB of data ingested Next 1 5PB: Asia Pacific (Taipei) 🌎
+  - Region added for metric Event by-Event Processing Per GB of data ingested first 500TB Vended Logs: Asia Pacific (Taipei) 🌎
+  - Region added for metric Per Hour per AZ for VPC delivery: Asia Pacific (Taipei) 🌎
+  - Region added for metric Per GB of incremental data processed from 0 to 256000: Asia Pacific (Taipei) 🌎
+  - Region added for metric Event by-Event Processing Per GB of data ingested Next 1 5PB Vended Logs: Asia Pacific (Taipei) 🌎
+  - Region added for metric Per GB of data ingested Next 3PB Vended Logs: Asia Pacific (Taipei) 🌎
+  - Region added for metric MSK Record Processing Per GB of data ingested or delivered from 1024000 to Inf: Asia Pacific (Taipei) 🌎
+  - Region added for metric Per GB of data read from Kinesis Streams Next 3PB: Asia Pacific (Taipei) 🌎
+  - Region added for metric Per GB of data delivered to VPC: Asia Pacific (Taipei) 🌎
+  - Region added for metric Per GB of data decompressed: Asia Pacific (Taipei) 🌎
+  - Region added for metric Per GB of data from 0 to Inf: Asia Pacific (Taipei) 🌎
+  - Region added for metric MSK Record Processing Per GB of data ingested or delivered from 256000 to 1024000: Asia Pacific (Taipei) 🌎
+  - Region added for metric Event by-Event Processing Per GB of data ingested Next 3PB Vended Logs: Asia Pacific (Taipei) 🌎
+  - Region added for metric Per GB of data read from Kinesis Streams first 500TB: Asia Pacific (Taipei) 🌎
+  - Region added for metric Per object dynamically partitioned: Asia Pacific (Taipei) 🌎
+  - Region added for metric MSK Record Processing Per GB of data ingested first 500TB: Asia Pacific (Taipei) 🌎
+  - Region added for metric Per GB of incremental data processed from 256000 to 1024000: Asia Pacific (Taipei) 🌎
+  - Region added for metric Per GB of data format conversion: Asia Pacific (Taipei) 🌎
+  - Region added for metric Per GB of data ingested or delivered from 0 to Inf: Asia Pacific (Taipei) 🌎
+  - Region added for metric Per GB of data ingested or delivered to Apache Iceberg Tables from 0 to 256000: Asia Pacific (Taipei) 🌎
+  - Region added for metric Per GB of incremental data processed from 1024000 to Inf: Asia Pacific (Taipei) 🌎
+  - Region added for metric Event by-Event Processing Per GB of data ingested first 500TB: Asia Pacific (Taipei) 🌎
+  - Region added for metric Per GB of data ingested Next 1 5PB: Asia Pacific (Taipei) 🌎
+  - Region added for metric Per GB of dynamically partitioned data delivered: Asia Pacific (Taipei) 🌎
+  - Region added for metric Per JQ processing hour: Asia Pacific (Taipei) 🌎
+  - Region added for metric Per GB of data ingested or delivered to Apache Iceberg Tables from 1024000 to Inf: Asia Pacific (Taipei) 🌎
+  - Region added for metric Event by-Event Processing Per GB of data ingested or delivered from 0 to Inf: Asia Pacific (Taipei) 🌎
+  - Region added for metric Event by-Event Processing Per GB of data ingested or delivered to Apache Iceberg Tables from 256000 to 1024000: Asia Pacific (Taipei) 🌎
+  - Region added for metric Per GB of data ingested Next 3PB: Asia Pacific (Taipei) 🌎
+  - Region added for metric Per GB of data ingested or delivered to Apache Iceberg Tables from 256000 to 1024000: Asia Pacific (Taipei) 🌎
+  - Region added for metric Per GB of data ingested first 500TB Vended Logs: Asia Pacific (Taipei) 🌎
+  - Region added for metric Per GB of data ingested first 500TB: Asia Pacific (Taipei) 🌎
+  - Region added for metric MSK Record Processing Per GB of data ingested or delivered from 0 to 256000: Asia Pacific (Taipei) 🌎
+  - Region added for metric Event by-Event Processing Per GB of data ingested Next 1 5PB: Asia Pacific (Taipei) 🌎
+  - Region added for metric Event by-Event Processing Per GB of data ingested Next 3PB: Asia Pacific (Taipei) 🌎
+  - Region added for metric Per GB of data ingested Next 1 5PB Vended Logs: Asia Pacific (Taipei) 🌎
+
+
 ## 2025-06-05 17:24
 
 **Modified services:**

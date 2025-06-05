@@ -17,6 +17,7 @@
         "EU (Frankfurt) (Memory: 244 GiB, vCPU: 32, Storage: 2.56TB SSD, I/O: 7.50 GB/s, Instance Type: dc2.8xlarge, ECU: 99)": "6.0480000000",
         "Canada (Central) (Memory: 244 GiB, vCPU: 32, Storage: 2.56TB SSD, I/O: 7.50 GB/s, Instance Type: dc2.8xlarge, ECU: 99)": "5.2800000000",
         "Asia Pacific (Tokyo) (Memory: 244 GiB, vCPU: 32, Storage: 2.56TB SSD, I/O: 7.50 GB/s, Instance Type: dc2.8xlarge, ECU: 99)": "6.0950000000",
+        "Asia Pacific (Taipei) (Memory: 244 GiB, vCPU: 32, Storage: 2.56TB SSD, I/O: 7.50 GB/s, Instance Type: dc2.8xlarge, ECU: 99)": "5.4855000000",
         "Asia Pacific (Sydney) (Memory: 244 GiB, vCPU: 32, Storage: 2.56TB SSD, I/O: 7.50 GB/s, Instance Type: dc2.8xlarge, ECU: 99)": "6.4000000000",
         "Asia Pacific (Singapore) (Memory: 244 GiB, vCPU: 32, Storage: 2.56TB SSD, I/O: 7.50 GB/s, Instance Type: dc2.8xlarge, ECU: 99)": "6.4000000000",
         "Asia Pacific (Seoul) (Memory: 244 GiB, vCPU: 32, Storage: 2.56TB SSD, I/O: 7.50 GB/s, Instance Type: dc2.8xlarge, ECU: 99)": "5.8000000000",
@@ -48,6 +49,7 @@
         "EU (Frankfurt) (Memory: 15 GiB, vCPU: 2, Storage: 0.16TB SSD, I/O: 0.60 GB/s, Instance Type: dc2.large, ECU: 7)": "0.3240000000",
         "Canada (Central) (Memory: 15 GiB, vCPU: 2, Storage: 0.16TB SSD, I/O: 0.60 GB/s, Instance Type: dc2.large, ECU: 7)": "0.2750000000",
         "Asia Pacific (Tokyo) (Memory: 15 GiB, vCPU: 2, Storage: 0.16TB SSD, I/O: 0.60 GB/s, Instance Type: dc2.large, ECU: 7)": "0.3140000000",
+        "Asia Pacific (Taipei) (Memory: 15 GiB, vCPU: 2, Storage: 0.16TB SSD, I/O: 0.60 GB/s, Instance Type: dc2.large, ECU: 7)": "0.2826000000",
         "Asia Pacific (Sydney) (Memory: 15 GiB, vCPU: 2, Storage: 0.16TB SSD, I/O: 0.60 GB/s, Instance Type: dc2.large, ECU: 7)": "0.3300000000",
         "Asia Pacific (Singapore) (Memory: 15 GiB, vCPU: 2, Storage: 0.16TB SSD, I/O: 0.60 GB/s, Instance Type: dc2.large, ECU: 7)": "0.3300000000",
         "Asia Pacific (Seoul) (Memory: 15 GiB, vCPU: 2, Storage: 0.16TB SSD, I/O: 0.60 GB/s, Instance Type: dc2.large, ECU: 7)": "0.3000000000",
@@ -83,6 +85,7 @@
         "Canada (Central) (Memory: 384 GiB, vCPU: 48, Storage: 64TB RMS, I/O: 8.00 GB/s, Instance Type: ra3.16xlarge, ECU: 148.5)": "14.4300000000",
         "Asia Pacific (Tokyo) (Memory: 384 GiB, vCPU: 48, Storage: 64TB RMS, I/O: 8.00 GB/s, Instance Type: ra3.16xlarge, ECU: 148.5)": "15.3470000000",
         "Asia Pacific (Thailand) (Memory: 384 GiB, vCPU: 48, Storage: 64TB RMS, I/O: 8.00 GB/s, Instance Type: ra3.16xlarge, ECU: 148.5)": "14.0724000000",
+        "Asia Pacific (Taipei) (Memory: 384 GiB, vCPU: 48, Storage: 64TB RMS, I/O: 8.00 GB/s, Instance Type: ra3.16xlarge, ECU: 148.5)": "13.8123000000",
         "Asia Pacific (Sydney) (Memory: 384 GiB, vCPU: 48, Storage: 64TB RMS, I/O: 8.00 GB/s, Instance Type: ra3.16xlarge, ECU: 148.5)": "15.6360000000",
         "Asia Pacific (Singapore) (Memory: 384 GiB, vCPU: 48, Storage: 64TB RMS, I/O: 8.00 GB/s, Instance Type: ra3.16xlarge, ECU: 148.5)": "15.6360000000",
         "Asia Pacific (Seoul) (Memory: 384 GiB, vCPU: 48, Storage: 64TB RMS, I/O: 8.00 GB/s, Instance Type: ra3.16xlarge, ECU: 148.5)": "15.3470000000",
@@ -119,6 +122,7 @@
         "Canada (Central) (Memory: 96 GiB, vCPU: 12, Storage: 64TB RMS, I/O: 2.00 GB/s, Instance Type: ra3.4xlarge, ECU: 37.125)": "3.6070000000",
         "Asia Pacific (Tokyo) (Memory: 96 GiB, vCPU: 12, Storage: 64TB RMS, I/O: 2.00 GB/s, Instance Type: ra3.4xlarge, ECU: 37.125)": "3.8360000000",
         "Asia Pacific (Thailand) (Memory: 96 GiB, vCPU: 12, Storage: 64TB RMS, I/O: 2.00 GB/s, Instance Type: ra3.4xlarge, ECU: 37.125)": "3.5181000000",
+        "Asia Pacific (Taipei) (Memory: 96 GiB, vCPU: 12, Storage: 64TB RMS, I/O: 2.00 GB/s, Instance Type: ra3.4xlarge, ECU: 37.125)": "3.4524000000",
         "Asia Pacific (Sydney) (Memory: 96 GiB, vCPU: 12, Storage: 64TB RMS, I/O: 2.00 GB/s, Instance Type: ra3.4xlarge, ECU: 37.125)": "3.9090000000",
         "Asia Pacific (Singapore) (Memory: 96 GiB, vCPU: 12, Storage: 64TB RMS, I/O: 2.00 GB/s, Instance Type: ra3.4xlarge, ECU: 37.125)": "3.9090000000",
         "Asia Pacific (Seoul) (Memory: 96 GiB, vCPU: 12, Storage: 64TB RMS, I/O: 2.00 GB/s, Instance Type: ra3.4xlarge, ECU: 37.125)": "3.8360000000",
@@ -155,6 +159,7 @@
         "Canada (Central) (Memory: 16 GiB, vCPU: 2, Storage: 8TB RMS, I/O: 0.325 GB/s, Instance Type: ra3.large, ECU: 6.1875)": "0.6010000000",
         "Asia Pacific (Tokyo) (Memory: 16 GiB, vCPU: 2, Storage: 8TB RMS, I/O: 0.325 GB/s, Instance Type: ra3.large, ECU: 6.1875)": "0.6390000000",
         "Asia Pacific (Thailand) (Memory: 16 GiB, vCPU: 2, Storage: 8TB RMS, I/O: 0.325 GB/s, Instance Type: ra3.large, ECU: 6.1875)": "0.5863500000",
+        "Asia Pacific (Taipei) (Memory: 16 GiB, vCPU: 2, Storage: 8TB RMS, I/O: 0.325 GB/s, Instance Type: ra3.large, ECU: 6.1875)": "0.5751000000",
         "Asia Pacific (Sydney) (Memory: 16 GiB, vCPU: 2, Storage: 8TB RMS, I/O: 0.325 GB/s, Instance Type: ra3.large, ECU: 6.1875)": "0.6520000000",
         "Asia Pacific (Singapore) (Memory: 16 GiB, vCPU: 2, Storage: 8TB RMS, I/O: 0.325 GB/s, Instance Type: ra3.large, ECU: 6.1875)": "0.6520000000",
         "Asia Pacific (Seoul) (Memory: 16 GiB, vCPU: 2, Storage: 8TB RMS, I/O: 0.325 GB/s, Instance Type: ra3.large, ECU: 6.1875)": "0.6390000000",
@@ -191,6 +196,7 @@
         "Canada (Central) (Memory: 32 GiB, vCPU: 4, Storage: 32TB RMS, I/O: 0.65 GB/s, Instance Type: ra3.xlplus, ECU: 12.375)": "1.2020000000",
         "Asia Pacific (Tokyo) (Memory: 32 GiB, vCPU: 4, Storage: 32TB RMS, I/O: 0.65 GB/s, Instance Type: ra3.xlplus, ECU: 12.375)": "1.2780000000",
         "Asia Pacific (Thailand) (Memory: 32 GiB, vCPU: 4, Storage: 32TB RMS, I/O: 0.65 GB/s, Instance Type: ra3.xlplus, ECU: 12.375)": "1.1727000000",
+        "Asia Pacific (Taipei) (Memory: 32 GiB, vCPU: 4, Storage: 32TB RMS, I/O: 0.65 GB/s, Instance Type: ra3.xlplus, ECU: 12.375)": "1.1502000000",
         "Asia Pacific (Sydney) (Memory: 32 GiB, vCPU: 4, Storage: 32TB RMS, I/O: 0.65 GB/s, Instance Type: ra3.xlplus, ECU: 12.375)": "1.3030000000",
         "Asia Pacific (Singapore) (Memory: 32 GiB, vCPU: 4, Storage: 32TB RMS, I/O: 0.65 GB/s, Instance Type: ra3.xlplus, ECU: 12.375)": "1.3030000000",
         "Asia Pacific (Seoul) (Memory: 32 GiB, vCPU: 4, Storage: 32TB RMS, I/O: 0.65 GB/s, Instance Type: ra3.xlplus, ECU: 12.375)": "1.2780000000",
@@ -276,6 +282,7 @@
         "Canada (Central) (Instance Type: ra3.16xlarge, Usage Family: RA3)": "0.0040000000",
         "Asia Pacific (Tokyo) (Instance Type: ra3.16xlarge, Usage Family: RA3)": "0.0042600000",
         "Asia Pacific (Thailand) (Instance Type: ra3.16xlarge, Usage Family: RA3)": "0.0032580000",
+        "Asia Pacific (Taipei) (Instance Type: ra3.16xlarge, Usage Family: RA3)": "0.0038340000",
         "Asia Pacific (Sydney) (Instance Type: ra3.16xlarge, Usage Family: RA3)": "0.0043400000",
         "Asia Pacific (Singapore) (Instance Type: ra3.16xlarge, Usage Family: RA3)": "0.0043400000",
         "Asia Pacific (Seoul) (Instance Type: ra3.16xlarge, Usage Family: RA3)": "0.0042600000",
@@ -304,6 +311,7 @@
         "Canada (Central) (Instance Type: ra3.4xlarge, Usage Family: RA3)": "0.0010000000",
         "Asia Pacific (Tokyo) (Instance Type: ra3.4xlarge, Usage Family: RA3)": "0.0010600000",
         "Asia Pacific (Thailand) (Instance Type: ra3.4xlarge, Usage Family: RA3)": "0.0008100000",
+        "Asia Pacific (Taipei) (Instance Type: ra3.4xlarge, Usage Family: RA3)": "0.0009540000",
         "Asia Pacific (Sydney) (Instance Type: ra3.4xlarge, Usage Family: RA3)": "0.0010800000",
         "Asia Pacific (Singapore) (Instance Type: ra3.4xlarge, Usage Family: RA3)": "0.0010800000",
         "Asia Pacific (Seoul) (Instance Type: ra3.4xlarge, Usage Family: RA3)": "0.0010600000",
@@ -332,6 +340,7 @@
         "Canada (Central) (Instance Type: ra3.xlplus, Usage Family: RA3)": "0.0003300000",
         "Asia Pacific (Tokyo) (Instance Type: ra3.xlplus, Usage Family: RA3)": "0.0003500000",
         "Asia Pacific (Thailand) (Instance Type: ra3.xlplus, Usage Family: RA3)": "0.0002700000",
+        "Asia Pacific (Taipei) (Instance Type: ra3.xlplus, Usage Family: RA3)": "0.0003150000",
         "Asia Pacific (Sydney) (Instance Type: ra3.xlplus, Usage Family: RA3)": "0.0003600000",
         "Asia Pacific (Singapore) (Instance Type: ra3.xlplus, Usage Family: RA3)": "0.0003600000",
         "Asia Pacific (Seoul) (Instance Type: ra3.xlplus, Usage Family: RA3)": "0.0003500000",
@@ -387,6 +396,7 @@
         "Canada (Central)": "0.4125000000",
         "Asia Pacific (Tokyo)": "0.4940000000",
         "Asia Pacific (Thailand)": "0.4050000000",
+        "Asia Pacific (Taipei)": "0.4446000000",
         "Asia Pacific (Sydney)": "0.4190000000",
         "Asia Pacific (Singapore)": "0.4500000000",
         "Asia Pacific (Seoul)": "0.4380000000",
@@ -402,6 +412,7 @@
         "Israel (Tel Aviv) (Instance Type: ra3.large, Usage Family: RA3)": "0.0001800000",
         "Canada West (Calgary) (Instance Type: ra3.large, Usage Family: RA3)": "0.0001700000",
         "Asia Pacific (Thailand) (Instance Type: ra3.large, Usage Family: RA3)": "0.0001350000",
+        "Asia Pacific (Taipei) (Instance Type: ra3.large, Usage Family: RA3)": "0.0001575000",
         "Asia Pacific (Malaysia) (Instance Type: ra3.large, Usage Family: RA3)": "0.0001350000",
         "AWS GovCloud (US-East) (Instance Type: ra3.large, Usage Family: RA3)": "0.0001500000",
         "AWS GovCloud (US) (Instance Type: ra3.large, Usage Family: RA3)": "0.0001500000"
@@ -441,6 +452,12 @@
         "Asia Pacific (Osaka) (Instance Type: ds2.xlarge, Usage Family: Dense Compute)": "0.0003300000",
         "Asia Pacific (Hong Kong) (Instance Type: ds2.xlarge, Usage Family: Dense Compute)": "0.0003800000",
         "AWS GovCloud (US) (Instance Type: ds2.xlarge, Usage Family: Dense Compute)": "0.0002800000"
+    },
+    "[Redshift Concurrency Scaling Current Generation Dense Compute] dc2 8xlarge Redshift Concurrency Scaling Current Generation Dense Compute;dc2 8xlarge Redshift Concurrency Scaling Current Generation RA3;dc2 8xlarge Redshift Concurrency Scaling Current Generation Dense Storage": {
+        "Asia Pacific (Taipei) (Instance Type: dc2.8xlarge, Usage Family: Dense Compute)": "0.0015210000"
+    },
+    "[Redshift Concurrency Scaling Current Generation Dense Compute] dc2 large Redshift Concurrency Scaling Current Generation Dense Compute;dc2 large Redshift Concurrency Scaling Current Generation RA3;dc2 large Redshift Concurrency Scaling Current Generation Dense Storage": {
+        "Asia Pacific (Taipei) (Instance Type: dc2.large, Usage Family: Dense Compute)": "0.0000810000"
     },
     "[Redshift Concurrency Scaling Current Generation Dense Storage] dc2 8xlarge Redshift Concurrency Scaling Current Generation Dense Storage": {
         "AWS GovCloud (US-East) (Instance Type: dc2.8xlarge, Usage Family: Dense Storage)": "0.0013300000"

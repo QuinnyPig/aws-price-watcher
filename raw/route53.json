@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "route53",
         "accessType": "publish",
-        "esIndex": "plc-route53-usd-20250430151129",
-        "hawkFilePublicationDate": "2025-04-30T15:11:29Z",
-        "ETLIngestionTriggerDate": "2025-04-30T15:11:29Z",
+        "esIndex": "plc-route53-usd-20250605175654",
+        "hawkFilePublicationDate": "2025-06-05T17:56:54Z",
+        "ETLIngestionTriggerDate": "2025-06-05T17:56:54Z",
         "currencyCode": "USD",
         "source": "route53",
         "isMapped": "true"
@@ -2279,6 +2279,133 @@
             },
             "Query Profiles over 1B": {
                 "rateCode": "AR37BZVHKVPV7XQH.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0014000000",
+                "RegionlessRateCode": "xezZmemrO6nIQrZKjm868MqaRC567B098B5BGjrlrL4"
+            }
+        },
+        "Asia Pacific (Taipei)": {
+            "BtGX76gdXOVptuiw5zOAWiOVfoVpm5EbMawC1C_ZjeI": {
+                "rateCode": "4ZFEUZ93AZJU48BF.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.7500000000",
+                "RegionlessRateCode": "BtGX76gdXOVptuiw5zOAWiOVfoVpm5EbMawC1C_ZjeI"
+            },
+            "EdaAScqewx1ppsSlemf_E8dhpseBgKi0g-_vaK2MUPc": {
+                "rateCode": "6DPR8YXEBEG8Q8AM.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0005000000",
+                "RegionlessRateCode": "EdaAScqewx1ppsSlemf_E8dhpseBgKi0g-_vaK2MUPc"
+            },
+            "Hhzs2zTaiWksocTB5d__hmlsDchHNXusKbmirBHeRxM": {
+                "rateCode": "2WQYX4B7KP4RWDND.JRTCKXETXF.AGD8ADSNTG",
+                "price": "0.0000002000",
+                "RegionlessRateCode": "Hhzs2zTaiWksocTB5d__hmlsDchHNXusKbmirBHeRxM"
+            },
+            "UpsiaTLWmslAMLI_9buzuCSm7jKsNrhVGP5wKbt3YOQ": {
+                "rateCode": "E5249BQ8ZSX58UWR.JRTCKXETXF.ZN357FEBCK",
+                "price": "0.0000006000",
+                "RegionlessRateCode": "UpsiaTLWmslAMLI_9buzuCSm7jKsNrhVGP5wKbt3YOQ"
+            },
+            "WAnaRRta1MlztA8hOTl-VJGSWTZb2ul-KVuOOb4fjH4": {
+                "rateCode": "BW5Q7A9K2Z678T42.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1250000000",
+                "RegionlessRateCode": "WAnaRRta1MlztA8hOTl-VJGSWTZb2ul-KVuOOb4fjH4"
+            },
+            "WkSU1Kmtz3sEx_AmbnD4cm47ayFj1bxBuVqaHOf-tNU": {
+                "rateCode": "E5249BQ8ZSX58UWR.JRTCKXETXF.AGD8ADSNTG",
+                "price": "0.0000004000",
+                "RegionlessRateCode": "WkSU1Kmtz3sEx_AmbnD4cm47ayFj1bxBuVqaHOf-tNU"
+            },
+            "ZqrTi4cpVWxXmAVLrlLyMqdX9ou5tK98g0MC72IgKE8": {
+                "rateCode": "GPG9X4PQUBDTME2X.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1250000000",
+                "RegionlessRateCode": "ZqrTi4cpVWxXmAVLrlLyMqdX9ou5tK98g0MC72IgKE8"
+            },
+            "_KqvH5z4x4kOoh48tZizjs1n50VDDQuxcNltx2kIGYs": {
+                "rateCode": "2WQYX4B7KP4RWDND.JRTCKXETXF.ZN357FEBCK",
+                "price": "0.0000004000",
+                "RegionlessRateCode": "_KqvH5z4x4kOoh48tZizjs1n50VDDQuxcNltx2kIGYs"
+            },
+            "bbY3hZ5ulmO_AGBmRPqkOh4mWCwASQcUfd4lx6ek7zM": {
+                "rateCode": "DF9F3TQ5CF62965Y.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1600000000",
+                "RegionlessRateCode": "bbY3hZ5ulmO_AGBmRPqkOh4mWCwASQcUfd4lx6ek7zM"
+            },
+            "mjMI44rOq-iee1HoE79qmKHvldvF6NzMnRNuSmINuAI": {
+                "rateCode": "5XZD9VVHEUEBHK9B.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1250000000",
+                "RegionlessRateCode": "mjMI44rOq-iee1HoE79qmKHvldvF6NzMnRNuSmINuAI"
+            },
+            "xezZmemrO6nIQrZKjm868MqaRC567B098B5BGjrlrL4": {
+                "rateCode": "S4JKNP8XTRWWEZQA.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0014000000",
+                "RegionlessRateCode": "xezZmemrO6nIQrZKjm868MqaRC567B098B5BGjrlrL4"
+            },
+            "Query Profiles Base Price over 1B": {
+                "rateCode": "4ZFEUZ93AZJU48BF.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.7500000000",
+                "RegionlessRateCode": "BtGX76gdXOVptuiw5zOAWiOVfoVpm5EbMawC1C_ZjeI"
+            },
+            "DNS Domain Names DNS Firewall per Mo": {
+                "rateCode": "6DPR8YXEBEG8Q8AM.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0005000000",
+                "RegionlessRateCode": "EdaAScqewx1ppsSlemf_E8dhpseBgKi0g-_vaK2MUPc"
+            },
+            "Query over 1B": {
+                "rateCode": "2WQYX4B7KP4RWDND.JRTCKXETXF.AGD8ADSNTG",
+                "price": "0.0000002000",
+                "RegionlessRateCode": "Hhzs2zTaiWksocTB5d__hmlsDchHNXusKbmirBHeRxM"
+            },
+            "Query Resolver over 1B": {
+                "rateCode": "2WQYX4B7KP4RWDND.JRTCKXETXF.AGD8ADSNTG",
+                "price": "0.0000002000",
+                "RegionlessRateCode": "Hhzs2zTaiWksocTB5d__hmlsDchHNXusKbmirBHeRxM"
+            },
+            "Query Standard External over 1B": {
+                "rateCode": "2WQYX4B7KP4RWDND.JRTCKXETXF.AGD8ADSNTG",
+                "price": "0.0000002000",
+                "RegionlessRateCode": "Hhzs2zTaiWksocTB5d__hmlsDchHNXusKbmirBHeRxM"
+            },
+            "DNS Query DNS Firewall per Queries": {
+                "rateCode": "E5249BQ8ZSX58UWR.JRTCKXETXF.ZN357FEBCK",
+                "price": "0.0000006000",
+                "RegionlessRateCode": "UpsiaTLWmslAMLI_9buzuCSm7jKsNrhVGP5wKbt3YOQ"
+            },
+            "Query ENI": {
+                "rateCode": "BW5Q7A9K2Z678T42.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1250000000",
+                "RegionlessRateCode": "WAnaRRta1MlztA8hOTl-VJGSWTZb2ul-KVuOOb4fjH4"
+            },
+            "DNS Query DNS Firewall per Queries over 1B": {
+                "rateCode": "E5249BQ8ZSX58UWR.JRTCKXETXF.AGD8ADSNTG",
+                "price": "0.0000004000",
+                "RegionlessRateCode": "WkSU1Kmtz3sEx_AmbnD4cm47ayFj1bxBuVqaHOf-tNU"
+            },
+            "Query first 1B": {
+                "rateCode": "2WQYX4B7KP4RWDND.JRTCKXETXF.ZN357FEBCK",
+                "price": "0.0000004000",
+                "RegionlessRateCode": "_KqvH5z4x4kOoh48tZizjs1n50VDDQuxcNltx2kIGYs"
+            },
+            "Query Resolver first 1B": {
+                "rateCode": "2WQYX4B7KP4RWDND.JRTCKXETXF.ZN357FEBCK",
+                "price": "0.0000004000",
+                "RegionlessRateCode": "_KqvH5z4x4kOoh48tZizjs1n50VDDQuxcNltx2kIGYs"
+            },
+            "Query Standard External first 1B": {
+                "rateCode": "2WQYX4B7KP4RWDND.JRTCKXETXF.ZN357FEBCK",
+                "price": "0.0000004000",
+                "RegionlessRateCode": "_KqvH5z4x4kOoh48tZizjs1n50VDDQuxcNltx2kIGYs"
+            },
+            "Query DNS Firewall Advanced over 1B": {
+                "rateCode": "DF9F3TQ5CF62965Y.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1600000000",
+                "RegionlessRateCode": "bbY3hZ5ulmO_AGBmRPqkOh4mWCwASQcUfd4lx6ek7zM"
+            },
+            "Query DoH ENI": {
+                "rateCode": "5XZD9VVHEUEBHK9B.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1250000000",
+                "RegionlessRateCode": "mjMI44rOq-iee1HoE79qmKHvldvF6NzMnRNuSmINuAI"
+            },
+            "Query Profiles over 1B": {
+                "rateCode": "S4JKNP8XTRWWEZQA.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0014000000",
                 "RegionlessRateCode": "xezZmemrO6nIQrZKjm868MqaRC567B098B5BGjrlrL4"
             }

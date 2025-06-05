@@ -9146,6 +9146,7 @@
         "US East (N. Virginia)": "27.4470500000",
         "Israel (Tel Aviv)": "35.5734600000",
         "EU (Frankfurt)": "34.2912200000",
+        "Asia Pacific (Tokyo)": "37.6223000000",
         "Asia Pacific (Singapore)": "32.9364600000"
     },
     "OnDemand Linux-instancetype-r7iz.4xlarge": {
@@ -13074,6 +13075,7 @@
         "Asia Pacific (Tokyo)": "68.8000000000",
         "Asia Pacific (Sydney)": "71.5520000000",
         "Asia Pacific (Mumbai)": "66.0480000000",
+        "Asia Pacific (Jakarta)": "75.9552000000",
         "AWS GovCloud (US)": "66.0480000000"
     },
     "OnDemand Linux-instancetype-p4d.24xlarge": {

@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "xray",
         "accessType": "publish",
-        "esIndex": "plc-xray-usd-20250529162844",
-        "hawkFilePublicationDate": "2025-03-13T20:13:28Z",
-        "ETLIngestionTriggerDate": "2025-05-29T16:28:44Z",
+        "esIndex": "plc-xray-usd-20250605175607",
+        "hawkFilePublicationDate": "2025-06-05T17:56:07Z",
+        "ETLIngestionTriggerDate": "2025-06-05T17:56:07Z",
         "currencyCode": "USD",
         "source": "xray",
         "isMapped": "true"
@@ -870,6 +870,48 @@
             "Traces Scanned": {
                 "rateCode": "CGKV9985BE77PRT7.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0000004250",
+                "RegionlessRateCode": "x6Xy_QKqmTujfwhxgqa5A3OGvanPZYOpGkkgiteGUAI"
+            }
+        },
+        "Asia Pacific (Taipei)": {
+            "P3Z5CNdChDqDFXxbX--fZ9gfJM7x-0evF67SxkyvDIA": {
+                "rateCode": "9RGW7SRMHYTFRUFG.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000050000",
+                "RegionlessRateCode": "P3Z5CNdChDqDFXxbX--fZ9gfJM7x-0evF67SxkyvDIA"
+            },
+            "U7_y5GOYZzE9JkGiRTPmRh9udS1SEPCjntW9BsLisMA": {
+                "rateCode": "GCAVK2X47MVJSRVX.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000010000",
+                "RegionlessRateCode": "U7_y5GOYZzE9JkGiRTPmRh9udS1SEPCjntW9BsLisMA"
+            },
+            "aiJzNmAF-AZ9pL8FhTjzI5gmpoOb3JdYcmGn898GwEw": {
+                "rateCode": "SHH8DSXSH8K25QCS.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000005000",
+                "RegionlessRateCode": "aiJzNmAF-AZ9pL8FhTjzI5gmpoOb3JdYcmGn898GwEw"
+            },
+            "x6Xy_QKqmTujfwhxgqa5A3OGvanPZYOpGkkgiteGUAI": {
+                "rateCode": "WUDKPSD2MJJ87SFN.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000005000",
+                "RegionlessRateCode": "x6Xy_QKqmTujfwhxgqa5A3OGvanPZYOpGkkgiteGUAI"
+            },
+            "Traces Stored": {
+                "rateCode": "9RGW7SRMHYTFRUFG.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000050000",
+                "RegionlessRateCode": "P3Z5CNdChDqDFXxbX--fZ9gfJM7x-0evF67SxkyvDIA"
+            },
+            "Traces Stored Insights": {
+                "rateCode": "GCAVK2X47MVJSRVX.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000010000",
+                "RegionlessRateCode": "U7_y5GOYZzE9JkGiRTPmRh9udS1SEPCjntW9BsLisMA"
+            },
+            "Traces Retrieved": {
+                "rateCode": "SHH8DSXSH8K25QCS.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000005000",
+                "RegionlessRateCode": "aiJzNmAF-AZ9pL8FhTjzI5gmpoOb3JdYcmGn898GwEw"
+            },
+            "Traces Scanned": {
+                "rateCode": "WUDKPSD2MJJ87SFN.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000005000",
                 "RegionlessRateCode": "x6Xy_QKqmTujfwhxgqa5A3OGvanPZYOpGkkgiteGUAI"
             }
         },

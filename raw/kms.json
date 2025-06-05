@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "kms",
         "accessType": "publish",
-        "esIndex": "plc-kms-usd-20250311210359",
-        "hawkFilePublicationDate": "2025-03-11T21:03:59Z",
-        "ETLIngestionTriggerDate": "2025-03-11T21:03:59Z",
+        "esIndex": "plc-kms-usd-20250605175718",
+        "hawkFilePublicationDate": "2025-06-05T17:57:18Z",
+        "ETLIngestionTriggerDate": "2025-06-05T17:57:18Z",
         "currencyCode": "USD",
         "source": "kms",
         "isMapped": "true"
@@ -1309,6 +1309,68 @@
             },
             "Asymmetric Requests except RSA_2048API": {
                 "rateCode": "RTETCQS5Q8WYM966.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000150000",
+                "RegionlessRateCode": "xc51go_fXgTZZKU7maTWYEADXkoa7CFQiXIWTMc1etM"
+            }
+        },
+        "Asia Pacific (Taipei)": {
+            "5IqyKzqZftmKSk_fiDfbuWXaObx-Wav6Zw9jM6bP60I": {
+                "rateCode": "3937G96NQKMNJT8U.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000100000",
+                "RegionlessRateCode": "5IqyKzqZftmKSk_fiDfbuWXaObx-Wav6Zw9jM6bP60I"
+            },
+            "AehbwdZ2wJbghfli5PCt0qPfL9ft9pp5N-7IKDNjE_0": {
+                "rateCode": "MPVASE9XEU8AVWM6.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000030000",
+                "RegionlessRateCode": "AehbwdZ2wJbghfli5PCt0qPfL9ft9pp5N-7IKDNjE_0"
+            },
+            "FuqvoiIWG8-vFTrIMRP_OFy6-Y2Y4DlK3LGLCDXGswQ": {
+                "rateCode": "VH9VC7PK5TSWDET9.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000030000",
+                "RegionlessRateCode": "FuqvoiIWG8-vFTrIMRP_OFy6-Y2Y4DlK3LGLCDXGswQ"
+            },
+            "GsTBDs2yeNAemKsaI_CFNL0o5WxlXxDocDKJnXLYt_I": {
+                "rateCode": "D3PF4Z4NCNCDRW3X.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0012000000",
+                "RegionlessRateCode": "GsTBDs2yeNAemKsaI_CFNL0o5WxlXxDocDKJnXLYt_I"
+            },
+            "VxNeiscDXVHq7KDpC1Pr3KF8ehe7tmdxGHWo8_nPGKE": {
+                "rateCode": "YV5VA6B2QSQMXHXS.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.0000000000",
+                "RegionlessRateCode": "VxNeiscDXVHq7KDpC1Pr3KF8ehe7tmdxGHWo8_nPGKE"
+            },
+            "xc51go_fXgTZZKU7maTWYEADXkoa7CFQiXIWTMc1etM": {
+                "rateCode": "HH862X6F9F5K93KX.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000150000",
+                "RegionlessRateCode": "xc51go_fXgTZZKU7maTWYEADXkoa7CFQiXIWTMc1etM"
+            },
+            "API Requests GenerateDatakeyPair ECC": {
+                "rateCode": "3937G96NQKMNJT8U.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000100000",
+                "RegionlessRateCode": "5IqyKzqZftmKSk_fiDfbuWXaObx-Wav6Zw9jM6bP60I"
+            },
+            "API request - Non Free Tier": {
+                "rateCode": "MPVASE9XEU8AVWM6.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000030000",
+                "RegionlessRateCode": "AehbwdZ2wJbghfli5PCt0qPfL9ft9pp5N-7IKDNjE_0"
+            },
+            "Asymmetric Requests RSA_2048": {
+                "rateCode": "VH9VC7PK5TSWDET9.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000030000",
+                "RegionlessRateCode": "FuqvoiIWG8-vFTrIMRP_OFy6-Y2Y4DlK3LGLCDXGswQ"
+            },
+            "API Requests GenerateDatakeyPair RSA": {
+                "rateCode": "D3PF4Z4NCNCDRW3X.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0012000000",
+                "RegionlessRateCode": "GsTBDs2yeNAemKsaI_CFNL0o5WxlXxDocDKJnXLYt_I"
+            },
+            "Encryption Key": {
+                "rateCode": "YV5VA6B2QSQMXHXS.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.0000000000",
+                "RegionlessRateCode": "VxNeiscDXVHq7KDpC1Pr3KF8ehe7tmdxGHWo8_nPGKE"
+            },
+            "Asymmetric Requests except RSA_2048API": {
+                "rateCode": "HH862X6F9F5K93KX.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0000150000",
                 "RegionlessRateCode": "xc51go_fXgTZZKU7maTWYEADXkoa7CFQiXIWTMc1etM"
             }

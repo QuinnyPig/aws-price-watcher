@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "datasync",
         "accessType": "publish",
-        "esIndex": "plc-datasync-usd-20250403234222",
-        "hawkFilePublicationDate": "2025-04-03T23:42:22Z",
-        "ETLIngestionTriggerDate": "2025-04-03T23:42:22Z",
+        "esIndex": "plc-datasync-usd-20250605175532",
+        "hawkFilePublicationDate": "2025-06-05T17:55:32Z",
+        "ETLIngestionTriggerDate": "2025-06-05T17:55:32Z",
         "currencyCode": "USD",
         "source": "datasync",
         "isMapped": "true"
@@ -469,6 +469,28 @@
             },
             "Data transferred": {
                 "rateCode": "MZRU2VT3YG5JU876.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0125000000",
+                "RegionlessRateCode": "i8mCp0cVh_zDrw9-b2yFKyVXXLd0JgQT3fnPDeBvtBU"
+            }
+        },
+        "Asia Pacific (Taipei)": {
+            "bae9p1vQA-3EMe_tQSI5vHoTD49XRYBeBT4gPkUwzko": {
+                "rateCode": "H6QYC9UDKSRR5GCR.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0150000000",
+                "RegionlessRateCode": "bae9p1vQA-3EMe_tQSI5vHoTD49XRYBeBT4gPkUwzko"
+            },
+            "i8mCp0cVh_zDrw9-b2yFKyVXXLd0JgQT3fnPDeBvtBU": {
+                "rateCode": "M2J5EH9JMVS947HK.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0125000000",
+                "RegionlessRateCode": "i8mCp0cVh_zDrw9-b2yFKyVXXLd0JgQT3fnPDeBvtBU"
+            },
+            "tAOB2-th6kZG6Eg-x6w6RAAbWhyIEJ5O-xzxu4FimxI": {
+                "rateCode": "T6SGSNNP6Y2ZNG25.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.5500000000",
+                "RegionlessRateCode": "tAOB2-th6kZG6Eg-x6w6RAAbWhyIEJ5O-xzxu4FimxI"
+            },
+            "Data transferred": {
+                "rateCode": "M2J5EH9JMVS947HK.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0125000000",
                 "RegionlessRateCode": "i8mCp0cVh_zDrw9-b2yFKyVXXLd0JgQT3fnPDeBvtBU"
             }

@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "queueservice",
         "accessType": "publish",
-        "esIndex": "plc-queueservice-usd-20250402194845",
-        "hawkFilePublicationDate": "2025-04-02T19:48:48Z",
-        "ETLIngestionTriggerDate": "2025-04-02T19:48:45Z",
+        "esIndex": "plc-queueservice-usd-20250605175557",
+        "hawkFilePublicationDate": "2025-06-05T17:55:57Z",
+        "ETLIngestionTriggerDate": "2025-06-05T17:55:57Z",
         "currencyCode": "USD",
         "source": "queueservice",
         "isMapped": "true"
@@ -1310,6 +1310,68 @@
             "FIFO first-in first-out per Requests Tier2": {
                 "rateCode": "YUQ6HZRBKZKTYUHN.JRTCKXETXF.9JVYQWEJJY",
                 "price": "0.0000003900",
+                "RegionlessRateCode": "iERDfsQYT7wulmvNuJPuLkoZCZdYEoDyqdYin5dv-80"
+            }
+        },
+        "Asia Pacific (Taipei)": {
+            "286tZ1bfnjBrWC3m639oS_9W76Wh8V_V36tsVMFZ5Ng": {
+                "rateCode": "V6ENB53VG52BZXU5.JRTCKXETXF.27HCEGFCXT",
+                "price": "0.0000002880",
+                "RegionlessRateCode": "286tZ1bfnjBrWC3m639oS_9W76Wh8V_V36tsVMFZ5Ng"
+            },
+            "47tPmXbJzVjfZEv2_m6ZMvclVmC3fpm0Gf2IxEHabVQ": {
+                "rateCode": "QNZ8TGCKNKNRUPGW.JRTCKXETXF.27HCEGFCXT",
+                "price": "0.0000003780",
+                "RegionlessRateCode": "47tPmXbJzVjfZEv2_m6ZMvclVmC3fpm0Gf2IxEHabVQ"
+            },
+            "ASZsSak_P8ygH5uBV6WvdGxsQvHG5R6JnJMhtASvFk4": {
+                "rateCode": "QNZ8TGCKNKNRUPGW.JRTCKXETXF.VXGXCWQKTY",
+                "price": "0.0000004500",
+                "RegionlessRateCode": "ASZsSak_P8ygH5uBV6WvdGxsQvHG5R6JnJMhtASvFk4"
+            },
+            "Xd5zUEd84-_wzMw65ovHtkgug85wn4U-IEdY0kcJpJ8": {
+                "rateCode": "V6ENB53VG52BZXU5.JRTCKXETXF.9JVYQWEJJY",
+                "price": "0.0000003150",
+                "RegionlessRateCode": "Xd5zUEd84-_wzMw65ovHtkgug85wn4U-IEdY0kcJpJ8"
+            },
+            "eZLEqQ5wXRy9h0rZBw_PS7VGQlhe57_6X16W-_8oXYc": {
+                "rateCode": "V6ENB53VG52BZXU5.JRTCKXETXF.VXGXCWQKTY",
+                "price": "0.0000003600",
+                "RegionlessRateCode": "eZLEqQ5wXRy9h0rZBw_PS7VGQlhe57_6X16W-_8oXYc"
+            },
+            "iERDfsQYT7wulmvNuJPuLkoZCZdYEoDyqdYin5dv-80": {
+                "rateCode": "QNZ8TGCKNKNRUPGW.JRTCKXETXF.9JVYQWEJJY",
+                "price": "0.0000004140",
+                "RegionlessRateCode": "iERDfsQYT7wulmvNuJPuLkoZCZdYEoDyqdYin5dv-80"
+            },
+            "Standard per Requests Tier3": {
+                "rateCode": "V6ENB53VG52BZXU5.JRTCKXETXF.27HCEGFCXT",
+                "price": "0.0000002880",
+                "RegionlessRateCode": "286tZ1bfnjBrWC3m639oS_9W76Wh8V_V36tsVMFZ5Ng"
+            },
+            "FIFO first-in first-out per Requests Tier3": {
+                "rateCode": "QNZ8TGCKNKNRUPGW.JRTCKXETXF.27HCEGFCXT",
+                "price": "0.0000003780",
+                "RegionlessRateCode": "47tPmXbJzVjfZEv2_m6ZMvclVmC3fpm0Gf2IxEHabVQ"
+            },
+            "FIFO first-in first-out per Requests": {
+                "rateCode": "QNZ8TGCKNKNRUPGW.JRTCKXETXF.VXGXCWQKTY",
+                "price": "0.0000004500",
+                "RegionlessRateCode": "ASZsSak_P8ygH5uBV6WvdGxsQvHG5R6JnJMhtASvFk4"
+            },
+            "Standard per Requests Tier2": {
+                "rateCode": "V6ENB53VG52BZXU5.JRTCKXETXF.9JVYQWEJJY",
+                "price": "0.0000003150",
+                "RegionlessRateCode": "Xd5zUEd84-_wzMw65ovHtkgug85wn4U-IEdY0kcJpJ8"
+            },
+            "Standard per Requests": {
+                "rateCode": "V6ENB53VG52BZXU5.JRTCKXETXF.VXGXCWQKTY",
+                "price": "0.0000003600",
+                "RegionlessRateCode": "eZLEqQ5wXRy9h0rZBw_PS7VGQlhe57_6X16W-_8oXYc"
+            },
+            "FIFO first-in first-out per Requests Tier2": {
+                "rateCode": "QNZ8TGCKNKNRUPGW.JRTCKXETXF.9JVYQWEJJY",
+                "price": "0.0000004140",
                 "RegionlessRateCode": "iERDfsQYT7wulmvNuJPuLkoZCZdYEoDyqdYin5dv-80"
             }
         },

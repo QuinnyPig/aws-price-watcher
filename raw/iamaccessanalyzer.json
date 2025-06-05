@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "iamaccessanalyzer",
         "accessType": "publish",
-        "esIndex": "plc-iamaccessanalyzer-usd-20250515192929",
-        "hawkFilePublicationDate": "2025-05-15T19:29:29Z",
-        "ETLIngestionTriggerDate": "2025-05-15T19:29:29Z",
+        "esIndex": "plc-iamaccessanalyzer-usd-20250605175551",
+        "hawkFilePublicationDate": "2025-06-05T17:55:51Z",
+        "ETLIngestionTriggerDate": "2025-06-05T17:55:51Z",
         "currencyCode": "USD",
         "source": "iamaccessanalyzer",
         "isMapped": "true"
@@ -469,6 +469,28 @@
             },
             "Checks-AccessCheck per API Requests": {
                 "rateCode": "UXSDZAQ9CJ28FUUF.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0020000000",
+                "RegionlessRateCode": "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"
+            }
+        },
+        "Asia Pacific (Taipei)": {
+            "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw": {
+                "rateCode": "4PGWTZPPMA7Y6K7S.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2000000000",
+                "RegionlessRateCode": "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"
+            },
+            "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU": {
+                "rateCode": "5EXDFCHY3EZA42AT.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0020000000",
+                "RegionlessRateCode": "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"
+            },
+            "Findings-UnusedAccessAnalysis per Number of Monitored resources": {
+                "rateCode": "4PGWTZPPMA7Y6K7S.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2000000000",
+                "RegionlessRateCode": "_bbIlQgwbeNDLMrCW16TU94mtkha2fHOq8ABWk6oeFw"
+            },
+            "Checks-AccessCheck per API Requests": {
+                "rateCode": "5EXDFCHY3EZA42AT.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0020000000",
                 "RegionlessRateCode": "bXXiqa9mTQ5Q9gJLG22Apom-QPV0qBsNtpudi6HDYAU"
             }

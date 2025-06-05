@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "sns",
         "accessType": "publish",
-        "esIndex": "plc-sns-usd-20250318190544",
-        "hawkFilePublicationDate": "2025-03-18T19:05:44Z",
-        "ETLIngestionTriggerDate": "2025-03-18T19:05:44Z",
+        "esIndex": "plc-sns-usd-20250605175703",
+        "hawkFilePublicationDate": "2025-06-05T17:57:03Z",
+        "ETLIngestionTriggerDate": "2025-06-05T17:57:03Z",
         "currencyCode": "USD",
         "source": "sns",
         "isMapped": "true"
@@ -6349,6 +6349,208 @@
             },
             "Amazon SNS FIFO Subscription Messages Payload per GB": {
                 "rateCode": "XV6CW6XWRAH8QHZ4.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0011700000",
+                "RegionlessRateCode": "xQgms-cMcTLLHqWjaVER322j-fqFS2N1zXMn_-PIh_M"
+            }
+        },
+        "Asia Pacific (Taipei)": {
+            "95vWC7eM6spb5qUDVHmTr8TtIlhZL_j8bAorpxv5sKE": {
+                "rateCode": "N75CE9U23SAH7NC8.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1170000000",
+                "RegionlessRateCode": "95vWC7eM6spb5qUDVHmTr8TtIlhZL_j8bAorpxv5sKE"
+            },
+            "C_fKuVVoNy-eUq666UX8RaoYubJjmOuwNrL9IQStS04": {
+                "rateCode": "QTACFRUVSWXMFCFD.JRTCKXETXF.FF8BMSDA2R",
+                "price": "0.0000005400",
+                "RegionlessRateCode": "C_fKuVVoNy-eUq666UX8RaoYubJjmOuwNrL9IQStS04"
+            },
+            "HED8JZEHChhrSQTSfGf3GWwItk8rXLKOotJn5LBEP8s": {
+                "rateCode": "TKNA2KSFJ33UWENZ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "HED8JZEHChhrSQTSfGf3GWwItk8rXLKOotJn5LBEP8s"
+            },
+            "I6E6z_GnE03vfvAT8ovhdYnBdZf0HJgxordb7JoFXL8": {
+                "rateCode": "B7CFDZQ84G2W8APA.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000117",
+                "RegionlessRateCode": "I6E6z_GnE03vfvAT8ovhdYnBdZf0HJgxordb7JoFXL8"
+            },
+            "ITaAsBlJBBh8ibLVKhlER8vZjSnKvQ9BCe4kzdW6JLo": {
+                "rateCode": "67XEFGUAJSWQRGJ8.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "ITaAsBlJBBh8ibLVKhlER8vZjSnKvQ9BCe4kzdW6JLo"
+            },
+            "LsgAlF1i44BcmT81wj-UioaW_gH7wva5F4fUDjWgMm0": {
+                "rateCode": "47MBXKKX4MJ54R4Q.JRTCKXETXF.JXGPBPHWFF",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "LsgAlF1i44BcmT81wj-UioaW_gH7wva5F4fUDjWgMm0"
+            },
+            "OvXxNhF0WU2mdZzT-LLGMp8QABvfGgZNW8aqNvgKPLE": {
+                "rateCode": "KVWBJN48H5TNXPWT.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0225000000",
+                "RegionlessRateCode": "OvXxNhF0WU2mdZzT-LLGMp8QABvfGgZNW8aqNvgKPLE"
+            },
+            "Szus0ysVNe5lf-Oum-HjN1CFFuHuJQVmDjrfioB7A_Q": {
+                "rateCode": "7X4YQMUF8TJ3499U.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000003510",
+                "RegionlessRateCode": "Szus0ysVNe5lf-Oum-HjN1CFFuHuJQVmDjrfioB7A_Q"
+            },
+            "W61t7kx2BmuCtASwUTiNdqhilivYFmF942fTsGJEjHw": {
+                "rateCode": "U6TKKSPGRP9BP9SN.JRTCKXETXF.VNJQCFJPS4",
+                "price": "0.0000004500",
+                "RegionlessRateCode": "W61t7kx2BmuCtASwUTiNdqhilivYFmF942fTsGJEjHw"
+            },
+            "WIVTJQsophTgdfYwMvrg0eI-B180E8VooGeN61PNZiY": {
+                "rateCode": "XV3FVK95X6J725Z8.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0198900000",
+                "RegionlessRateCode": "WIVTJQsophTgdfYwMvrg0eI-B180E8VooGeN61PNZiY"
+            },
+            "XIBC48xhCtpnQfYNlYY8Do7bEUOBNMtMX79W9YX41-E": {
+                "rateCode": "ZNA8F3S9NABYYYDT.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1170000000",
+                "RegionlessRateCode": "XIBC48xhCtpnQfYNlYY8Do7bEUOBNMtMX79W9YX41-E"
+            },
+            "YELvVPbTP6qVuK9lYgECzSQP5hYskypFlxB5366BhnE": {
+                "rateCode": "5RP2C4H6B79KUSCZ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1170000000",
+                "RegionlessRateCode": "YELvVPbTP6qVuK9lYgECzSQP5hYskypFlxB5366BhnE"
+            },
+            "Z3olbXo2_tiZgPVfLUg3EJ8iRFHlo5MyU_MVaBWpea8": {
+                "rateCode": "2R3PZJABDJ9SVRMW.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1170000000",
+                "RegionlessRateCode": "Z3olbXo2_tiZgPVfLUg3EJ8iRFHlo5MyU_MVaBWpea8"
+            },
+            "bvZG2QU0AsyPEyfjG349YzcQ1l0FqqYJhh6tyKW_aAg": {
+                "rateCode": "QTACFRUVSWXMFCFD.JRTCKXETXF.NADQ2ZJX8V",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "bvZG2QU0AsyPEyfjG349YzcQ1l0FqqYJhh6tyKW_aAg"
+            },
+            "c54WQGMkzucrm5CdQbMwlTqE6RT_gDCmkczPoTlrwHI": {
+                "rateCode": "47MBXKKX4MJ54R4Q.JRTCKXETXF.MUBTP6UPGZ",
+                "price": "0.0000180000",
+                "RegionlessRateCode": "c54WQGMkzucrm5CdQbMwlTqE6RT_gDCmkczPoTlrwHI"
+            },
+            "csiQH_if4529VQEgs3di1BZYslir9pqTzaViyeTpbVc": {
+                "rateCode": "5Y4J8ABUHV6XEASD.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2610000000",
+                "RegionlessRateCode": "csiQH_if4529VQEgs3di1BZYslir9pqTzaViyeTpbVc"
+            },
+            "d-72djeY8YyLadjwhotnbVoQF6seeT7OVZsRsMNzq_Q": {
+                "rateCode": "U6TKKSPGRP9BP9SN.JRTCKXETXF.SB2VSFF4TP",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "d-72djeY8YyLadjwhotnbVoQF6seeT7OVZsRsMNzq_Q"
+            },
+            "h0jgBKDv0ZIcC0jGXn-ifqi5brqmo2DPTzW23dkeDCo": {
+                "rateCode": "F8RHF8H7U6YZYJ8M.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1170000000",
+                "RegionlessRateCode": "h0jgBKDv0ZIcC0jGXn-ifqi5brqmo2DPTzW23dkeDCo"
+            },
+            "jpqsUj2pub7MMY16cYG2h6-Rblp0sk0H9n0OYqMYL5w": {
+                "rateCode": "3TWTRZVRHHMK4ZQV.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000002322",
+                "RegionlessRateCode": "jpqsUj2pub7MMY16cYG2h6-Rblp0sk0H9n0OYqMYL5w"
+            },
+            "qeiXgqDiiL2jpxiImGw_h6K-fwuLDSiuM2CT677qdno": {
+                "rateCode": "WC6F9DEHMXMBGCXA.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1080000000",
+                "RegionlessRateCode": "qeiXgqDiiL2jpxiImGw_h6K-fwuLDSiuM2CT677qdno"
+            },
+            "xQgms-cMcTLLHqWjaVER322j-fqFS2N1zXMn_-PIh_M": {
+                "rateCode": "G7U7NTUNUWHQA2NV.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0011700000",
+                "RegionlessRateCode": "xQgms-cMcTLLHqWjaVER322j-fqFS2N1zXMn_-PIh_M"
+            },
+            "HTTP Notifications": {
+                "rateCode": "QTACFRUVSWXMFCFD.JRTCKXETXF.FF8BMSDA2R",
+                "price": "0.0000005400",
+                "RegionlessRateCode": "C_fKuVVoNy-eUq666UX8RaoYubJjmOuwNrL9IQStS04"
+            },
+            "HTTP 100000 to Inf": {
+                "rateCode": "QTACFRUVSWXMFCFD.JRTCKXETXF.FF8BMSDA2R",
+                "price": "0.0000005400",
+                "RegionlessRateCode": "C_fKuVVoNy-eUq666UX8RaoYubJjmOuwNrL9IQStS04"
+            },
+            "AWS Lambda Notifications": {
+                "rateCode": "TKNA2KSFJ33UWENZ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "HED8JZEHChhrSQTSfGf3GWwItk8rXLKOotJn5LBEP8s"
+            },
+            "Amazon SNS FIFO Subscription Messages per Messages": {
+                "rateCode": "B7CFDZQ84G2W8APA.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000117",
+                "RegionlessRateCode": "I6E6z_GnE03vfvAT8ovhdYnBdZf0HJgxordb7JoFXL8"
+            },
+            "Amazon SQS Notifications": {
+                "rateCode": "67XEFGUAJSWQRGJ8.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "ITaAsBlJBBh8ibLVKhlER8vZjSnKvQ9BCe4kzdW6JLo"
+            },
+            "SMTP 0 to 1000": {
+                "rateCode": "47MBXKKX4MJ54R4Q.JRTCKXETXF.JXGPBPHWFF",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "LsgAlF1i44BcmT81wj-UioaW_gH7wva5F4fUDjWgMm0"
+            },
+            "Amazon SNS FIFO Topics Storage per GB month": {
+                "rateCode": "KVWBJN48H5TNXPWT.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0225000000",
+                "RegionlessRateCode": "OvXxNhF0WU2mdZzT-LLGMp8QABvfGgZNW8aqNvgKPLE"
+            },
+            "Amazon SNS FIFO API Requests per Requests": {
+                "rateCode": "7X4YQMUF8TJ3499U.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000003510",
+                "RegionlessRateCode": "Szus0ysVNe5lf-Oum-HjN1CFFuHuJQVmDjrfioB7A_Q"
+            },
+            "Amazon SNS API Requests": {
+                "rateCode": "U6TKKSPGRP9BP9SN.JRTCKXETXF.VNJQCFJPS4",
+                "price": "0.0000004500",
+                "RegionlessRateCode": "W61t7kx2BmuCtASwUTiNdqhilivYFmF942fTsGJEjHw"
+            },
+            "SNS FIFO Publish Payload per GB": {
+                "rateCode": "XV3FVK95X6J725Z8.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0198900000",
+                "RegionlessRateCode": "WIVTJQsophTgdfYwMvrg0eI-B180E8VooGeN61PNZiY"
+            },
+            "Amazon SNS FIFO Topics Archive Processing per GB": {
+                "rateCode": "ZNA8F3S9NABYYYDT.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1170000000",
+                "RegionlessRateCode": "XIBC48xhCtpnQfYNlYY8Do7bEUOBNMtMX79W9YX41-E"
+            },
+            "Amazon SNS Standard Payload Scanned Filtered per GB": {
+                "rateCode": "5RP2C4H6B79KUSCZ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1170000000",
+                "RegionlessRateCode": "YELvVPbTP6qVuK9lYgECzSQP5hYskypFlxB5366BhnE"
+            },
+            "HTTP 0 to 100000": {
+                "rateCode": "QTACFRUVSWXMFCFD.JRTCKXETXF.NADQ2ZJX8V",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "bvZG2QU0AsyPEyfjG349YzcQ1l0FqqYJhh6tyKW_aAg"
+            },
+            "SNS Email and Email JSON Notifications": {
+                "rateCode": "47MBXKKX4MJ54R4Q.JRTCKXETXF.MUBTP6UPGZ",
+                "price": "0.0000180000",
+                "RegionlessRateCode": "c54WQGMkzucrm5CdQbMwlTqE6RT_gDCmkczPoTlrwHI"
+            },
+            "SMTP 1000 to Inf": {
+                "rateCode": "47MBXKKX4MJ54R4Q.JRTCKXETXF.MUBTP6UPGZ",
+                "price": "0.0000180000",
+                "RegionlessRateCode": "c54WQGMkzucrm5CdQbMwlTqE6RT_gDCmkczPoTlrwHI"
+            },
+            "Amazon SNS Audit Reporting per GB": {
+                "rateCode": "5Y4J8ABUHV6XEASD.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2610000000",
+                "RegionlessRateCode": "csiQH_if4529VQEgs3di1BZYslir9pqTzaViyeTpbVc"
+            },
+            "Amazon Kinesis Data Firehose Messages": {
+                "rateCode": "3TWTRZVRHHMK4ZQV.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000002322",
+                "RegionlessRateCode": "jpqsUj2pub7MMY16cYG2h6-Rblp0sk0H9n0OYqMYL5w"
+            },
+            "Amazon SNS Message Scanning per GB": {
+                "rateCode": "WC6F9DEHMXMBGCXA.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1080000000",
+                "RegionlessRateCode": "qeiXgqDiiL2jpxiImGw_h6K-fwuLDSiuM2CT677qdno"
+            },
+            "Amazon SNS FIFO Subscription Messages Payload per GB": {
+                "rateCode": "G7U7NTUNUWHQA2NV.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0011700000",
                 "RegionlessRateCode": "xQgms-cMcTLLHqWjaVER322j-fqFS2N1zXMn_-PIh_M"
             }

@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "s3glacierdeeparchive",
         "accessType": "publish",
-        "esIndex": "plc-s3glacierdeeparchive-usd-20250408215607",
-        "hawkFilePublicationDate": "2025-04-08T21:56:07Z",
-        "ETLIngestionTriggerDate": "2025-04-08T21:56:07Z",
+        "esIndex": "plc-s3glacierdeeparchive-usd-20250605175700",
+        "hawkFilePublicationDate": "2025-06-05T17:57:00Z",
+        "ETLIngestionTriggerDate": "2025-06-05T17:57:00Z",
         "currencyCode": "USD",
         "source": "s3glacierdeeparchive",
         "isMapped": "true"
@@ -3830,6 +3830,188 @@
             "S3 Standard-Retrieval GB": {
                 "rateCode": "2BYC63VHVV5WBK76.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0216000000",
+                "RegionlessRateCode": "vh7UUAkXQbFa1VkfrTKKUpmi7jsJqzEjiGMaL7jJ39A"
+            }
+        },
+        "Asia Pacific (Taipei)": {
+            "0h9RbNE9Qh-_gR-Nb2xJ7aXUF2OgV-3CqPVggTeZMW4": {
+                "rateCode": "3N5SBVGEHXPKZZ2A.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000047000",
+                "RegionlessRateCode": "0h9RbNE9Qh-_gR-Nb2xJ7aXUF2OgV-3CqPVggTeZMW4"
+            },
+            "16M3r__cYlefYxcRbR6JGhKwKgSKx72l6y9mGMzQi0U": {
+                "rateCode": "3JKSUMHNT74VRMC3.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000650000",
+                "RegionlessRateCode": "16M3r__cYlefYxcRbR6JGhKwKgSKx72l6y9mGMzQi0U"
+            },
+            "1dOAsBb8qyubDIOi2ZxmvGQ1GDARJwWXRVAvZDKsJ7o": {
+                "rateCode": "JGKZDW5KY2EXEY2W.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000650000",
+                "RegionlessRateCode": "1dOAsBb8qyubDIOi2ZxmvGQ1GDARJwWXRVAvZDKsJ7o"
+            },
+            "9lPtIKomIIREMAivMXDNcR2FD94T-Lx3fcCER9WrWHs": {
+                "rateCode": "TS5S4X7X8M4Q69X4.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000650000",
+                "RegionlessRateCode": "9lPtIKomIIREMAivMXDNcR2FD94T-Lx3fcCER9WrWHs"
+            },
+            "9zF8Qbdl5uh6fkupxc0aBaGon9CBJCSnYmutpHC5sFo": {
+                "rateCode": "NPHJCYH83SQ3NAQ9.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000047000",
+                "RegionlessRateCode": "9zF8Qbdl5uh6fkupxc0aBaGon9CBJCSnYmutpHC5sFo"
+            },
+            "FMczDK303kOCnZt4B6dtBn4XMQLu3I1CrJE0JKsNycw": {
+                "rateCode": "FK934MQC5FQ3B7C8.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000650000",
+                "RegionlessRateCode": "FMczDK303kOCnZt4B6dtBn4XMQLu3I1CrJE0JKsNycw"
+            },
+            "JZoUfILSjtiXCSQXYvfUpXKwHeqJf6OMb0vAMcQc3t0": {
+                "rateCode": "4VVCXVNVBKB4R322.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0020000000",
+                "RegionlessRateCode": "JZoUfILSjtiXCSQXYvfUpXKwHeqJf6OMb0vAMcQc3t0"
+            },
+            "LAjMjuppFJxmFxET6YfYK7lILFHJU4R1jMtP3bFSyZg": {
+                "rateCode": "5Z5933DDSFP4UZQ7.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0001142000",
+                "RegionlessRateCode": "LAjMjuppFJxmFxET6YfYK7lILFHJU4R1jMtP3bFSyZg"
+            },
+            "MRiDFM0Hbdu4AOuJU9WiJfdIi880XY3eSvzJv7IM3Ek": {
+                "rateCode": "RDJVCR3Q73GS6U3P.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000047000",
+                "RegionlessRateCode": "MRiDFM0Hbdu4AOuJU9WiJfdIi880XY3eSvzJv7IM3Ek"
+            },
+            "NR-aMBuDMCNO3EG0WOPqO5bojxeVJ1HFfa6Fzjjr1W4": {
+                "rateCode": "VD57C2GMM84VMVYH.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000650000",
+                "RegionlessRateCode": "NR-aMBuDMCNO3EG0WOPqO5bojxeVJ1HFfa6Fzjjr1W4"
+            },
+            "QGQqBxgT-rsGT0i3PHJMdIU-39Nv1sVHOwmdJtIUzxM": {
+                "rateCode": "8MJ9B5S766RPGCPW.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000047000",
+                "RegionlessRateCode": "QGQqBxgT-rsGT0i3PHJMdIU-39Nv1sVHOwmdJtIUzxM"
+            },
+            "R3JfANurQds5Cezum_l8Mxq5bb_9KbmJljCox8WWWD4": {
+                "rateCode": "V4SQYZ4BPN5EEBVB.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000650000",
+                "RegionlessRateCode": "R3JfANurQds5Cezum_l8Mxq5bb_9KbmJljCox8WWWD4"
+            },
+            "ZP2sgywryxOGIZ8oHwavr_DPPpf7H1yz4TlRylZHvcM": {
+                "rateCode": "B8MJ3C8N9HF5UEQU.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000650000",
+                "RegionlessRateCode": "ZP2sgywryxOGIZ8oHwavr_DPPpf7H1yz4TlRylZHvcM"
+            },
+            "doK7cG82iy8_yKuqhd1YK5mP3TnX6Iq6Q84OZ81nhnA": {
+                "rateCode": "UAQH2983DXGG4JUP.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0050000000",
+                "RegionlessRateCode": "doK7cG82iy8_yKuqhd1YK5mP3TnX6Iq6Q84OZ81nhnA"
+            },
+            "fVSJtbZZPVEDfmA6QwSjOD_0q1CXe2FYBDFmnexx-2U": {
+                "rateCode": "H96N8RUFB6J995QG.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000047000",
+                "RegionlessRateCode": "fVSJtbZZPVEDfmA6QwSjOD_0q1CXe2FYBDFmnexx-2U"
+            },
+            "j2h_BZQjgD35ciL6Y4RJvtqJIn5ZwCth8YmErnS0NRg": {
+                "rateCode": "JHF26URTCDFVRJQ6.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0020000000",
+                "RegionlessRateCode": "j2h_BZQjgD35ciL6Y4RJvtqJIn5ZwCth8YmErnS0NRg"
+            },
+            "or0ImExkfKwMSi93z-UbNm5NZqQZiFAnpUbWO3OKBsA": {
+                "rateCode": "U44JVHWCPGR47XUR.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000250000",
+                "RegionlessRateCode": "or0ImExkfKwMSi93z-UbNm5NZqQZiFAnpUbWO3OKBsA"
+            },
+            "vh7UUAkXQbFa1VkfrTKKUpmi7jsJqzEjiGMaL7jJ39A": {
+                "rateCode": "ZXZX5TJCSHPSY4XT.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0220000000",
+                "RegionlessRateCode": "vh7UUAkXQbFa1VkfrTKKUpmi7jsJqzEjiGMaL7jJ39A"
+            },
+            "Upload part to Glacier Deep Archive Requests": {
+                "rateCode": "3N5SBVGEHXPKZZ2A.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000047000",
+                "RegionlessRateCode": "0h9RbNE9Qh-_gR-Nb2xJ7aXUF2OgV-3CqPVggTeZMW4"
+            },
+            "Complete Multipart Upload to Glacier Deep Archive Requests": {
+                "rateCode": "3JKSUMHNT74VRMC3.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000650000",
+                "RegionlessRateCode": "16M3r__cYlefYxcRbR6JGhKwKgSKx72l6y9mGMzQi0U"
+            },
+            "PUT to Glacier Deep Archive Requests": {
+                "rateCode": "JGKZDW5KY2EXEY2W.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000650000",
+                "RegionlessRateCode": "1dOAsBb8qyubDIOi2ZxmvGQ1GDARJwWXRVAvZDKsJ7o"
+            },
+            "POST to Glacier Deep Archive Requests": {
+                "rateCode": "TS5S4X7X8M4Q69X4.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000650000",
+                "RegionlessRateCode": "9lPtIKomIIREMAivMXDNcR2FD94T-Lx3fcCER9WrWHs"
+            },
+            "Copy part to Glacier Deep Archive Requests": {
+                "rateCode": "NPHJCYH83SQ3NAQ9.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000047000",
+                "RegionlessRateCode": "9zF8Qbdl5uh6fkupxc0aBaGon9CBJCSnYmutpHC5sFo"
+            },
+            "Lifecycle to Glacier Deep Archive Requests": {
+                "rateCode": "FK934MQC5FQ3B7C8.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000650000",
+                "RegionlessRateCode": "FMczDK303kOCnZt4B6dtBn4XMQLu3I1CrJE0JKsNycw"
+            },
+            "Glacier Deep Archive GB Mo": {
+                "rateCode": "4VVCXVNVBKB4R322.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0020000000",
+                "RegionlessRateCode": "JZoUfILSjtiXCSQXYvfUpXKwHeqJf6OMb0vAMcQc3t0"
+            },
+            "GDA Standard Restore Requests": {
+                "rateCode": "5Z5933DDSFP4UZQ7.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0001142000",
+                "RegionlessRateCode": "LAjMjuppFJxmFxET6YfYK7lILFHJU4R1jMtP3bFSyZg"
+            },
+            "Initiate Multipart Upload for replication to Glacier Deep Archive Requests": {
+                "rateCode": "RDJVCR3Q73GS6U3P.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000047000",
+                "RegionlessRateCode": "MRiDFM0Hbdu4AOuJU9WiJfdIi880XY3eSvzJv7IM3Ek"
+            },
+            "COPY Object to Glacier Deep Archive Requests": {
+                "rateCode": "VD57C2GMM84VMVYH.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000650000",
+                "RegionlessRateCode": "NR-aMBuDMCNO3EG0WOPqO5bojxeVJ1HFfa6Fzjjr1W4"
+            },
+            "Initiate Multipart Upload to Glacier Deep Archive Requests": {
+                "rateCode": "8MJ9B5S766RPGCPW.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000047000",
+                "RegionlessRateCode": "QGQqBxgT-rsGT0i3PHJMdIU-39Nv1sVHOwmdJtIUzxM"
+            },
+            "PUT for replication to Glacier Deep Archive Requests": {
+                "rateCode": "V4SQYZ4BPN5EEBVB.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000650000",
+                "RegionlessRateCode": "R3JfANurQds5Cezum_l8Mxq5bb_9KbmJljCox8WWWD4"
+            },
+            "Complete Multipart Upload for repl to Glacier Deep Archive Requests": {
+                "rateCode": "B8MJ3C8N9HF5UEQU.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000650000",
+                "RegionlessRateCode": "ZP2sgywryxOGIZ8oHwavr_DPPpf7H1yz4TlRylZHvcM"
+            },
+            "S3 Bulk-Retrieval GB": {
+                "rateCode": "UAQH2983DXGG4JUP.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0050000000",
+                "RegionlessRateCode": "doK7cG82iy8_yKuqhd1YK5mP3TnX6Iq6Q84OZ81nhnA"
+            },
+            "Upload part for replication to Glacier Deep Archive Requests": {
+                "rateCode": "H96N8RUFB6J995QG.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000047000",
+                "RegionlessRateCode": "fVSJtbZZPVEDfmA6QwSjOD_0q1CXe2FYBDFmnexx-2U"
+            },
+            "S3 EarlyDelete GDA GB-Mo": {
+                "rateCode": "JHF26URTCDFVRJQ6.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0020000000",
+                "RegionlessRateCode": "j2h_BZQjgD35ciL6Y4RJvtqJIn5ZwCth8YmErnS0NRg"
+            },
+            "Glacier Deep Archive Bulk Restore Requests": {
+                "rateCode": "U44JVHWCPGR47XUR.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000250000",
+                "RegionlessRateCode": "or0ImExkfKwMSi93z-UbNm5NZqQZiFAnpUbWO3OKBsA"
+            },
+            "S3 Standard-Retrieval GB": {
+                "rateCode": "ZXZX5TJCSHPSY4XT.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0220000000",
                 "RegionlessRateCode": "vh7UUAkXQbFa1VkfrTKKUpmi7jsJqzEjiGMaL7jJ39A"
             }
         },
