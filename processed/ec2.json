@@ -9142,11 +9142,11 @@
         "AWS GovCloud (US)": "4.8240000000"
     },
     "OnDemand Linux-instancetype-p4de.24xlarge": {
-        "US West (Oregon)": "40.9657500000",
-        "US East (N. Virginia)": "40.9657500000",
-        "Israel (Tel Aviv)": "53.0947200000",
-        "EU (Frankfurt)": "51.2073000000",
-        "Asia Pacific (Singapore)": "49.1590000000"
+        "US West (Oregon)": "27.4470500000",
+        "US East (N. Virginia)": "27.4470500000",
+        "Israel (Tel Aviv)": "35.5734600000",
+        "EU (Frankfurt)": "34.2912200000",
+        "Asia Pacific (Singapore)": "32.9364600000"
     },
     "OnDemand Linux-instancetype-r7iz.4xlarge": {
         "US West (Oregon)": "1.4880000000",
@@ -13062,34 +13062,34 @@
         "AWS GovCloud (US)": "8.0000000000"
     },
     "OnDemand Linux-instancetype-p5.48xlarge": {
-        "US West (Oregon)": "98.3200000000",
-        "US West (N. California)": "122.9000000000",
-        "US East (Ohio)": "98.3200000000",
-        "US East (N. Virginia)": "98.3200000000",
-        "US East (Atlanta)": "98.3200000000",
-        "South America (Sao Paulo)": "165.1776000000",
-        "EU (Stockholm)": "105.2024000000",
-        "EU (London)": "127.8160000000",
-        "Canada (Central)": "113.0680000000",
-        "Asia Pacific (Tokyo)": "123.1949600000",
-        "Asia Pacific (Sydney)": "127.8160000000",
-        "Asia Pacific (Mumbai)": "117.9840000000",
-        "AWS GovCloud (US)": "117.9840000000"
+        "US West (Oregon)": "55.0400000000",
+        "US West (N. California)": "68.8000000000",
+        "US East (Ohio)": "55.0400000000",
+        "US East (N. Virginia)": "55.0400000000",
+        "US East (Atlanta)": "55.0400000000",
+        "South America (Sao Paulo)": "92.4672000000",
+        "EU (Stockholm)": "58.8928000000",
+        "EU (London)": "71.5520000000",
+        "Canada (Central)": "63.2960000000",
+        "Asia Pacific (Tokyo)": "68.8000000000",
+        "Asia Pacific (Sydney)": "71.5520000000",
+        "Asia Pacific (Mumbai)": "66.0480000000",
+        "AWS GovCloud (US)": "66.0480000000"
     },
     "OnDemand Linux-instancetype-p4d.24xlarge": {
-        "US West (Oregon)": "32.7726000000",
-        "US East (Ohio)": "32.7726000000",
-        "US East (N. Virginia)": "32.7726000000",
-        "South America (Sao Paulo)": "53.0700000000",
-        "EU (Ireland)": "35.3965500000",
-        "EU (Frankfurt)": "40.9447500000",
-        "Canada (Central)": "37.6900000000",
-        "Asia Pacific (Tokyo)": "44.9221500000",
-        "Asia Pacific (Sydney)": "42.6043800000",
-        "Asia Pacific (Singapore)": "39.3271000000",
-        "Asia Pacific (Seoul)": "45.3884800000",
-        "Asia Pacific (Mumbai)": "39.3200000000",
-        "AWS GovCloud (US)": "39.3300000000"
+        "US West (Oregon)": "21.9576400000",
+        "US East (Ohio)": "21.9576400000",
+        "US East (N. Virginia)": "21.9576420000",
+        "South America (Sao Paulo)": "35.5569000000",
+        "EU (Ireland)": "23.7156900000",
+        "EU (Frankfurt)": "27.4329800000",
+        "Canada (Central)": "25.2517400000",
+        "Asia Pacific (Tokyo)": "30.0978400000",
+        "Asia Pacific (Sydney)": "28.5449300000",
+        "Asia Pacific (Singapore)": "26.3491700000",
+        "Asia Pacific (Seoul)": "30.4102800000",
+        "Asia Pacific (Mumbai)": "26.3444000000",
+        "AWS GovCloud (US)": "26.3511000000"
     },
     "OnDemand Linux-instancetype-g6e.16xlarge": {
         "US West (Oregon)": "7.5771900000",

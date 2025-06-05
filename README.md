@@ -1,3 +1,41 @@
+## 2025-06-05 08:28
+
+**Modified services:**
+
+- [ec2](processed/ec2.json)
+  - Price decreased: OnDemand Linux-instancetype-p4de.24xlarge US West (Oregon)  **$40.96575** → **$27.44705** 💸
+  - Price decreased: OnDemand Linux-instancetype-p4de.24xlarge US East (N. Virginia)  **$40.96575** → **$27.44705** 💸
+  - Price decreased: OnDemand Linux-instancetype-p4de.24xlarge Israel (Tel Aviv)  **$53.09472** → **$35.57346** 💸
+  - Price decreased: OnDemand Linux-instancetype-p4de.24xlarge EU (Frankfurt)  **$51.2073** → **$34.29122** 💸
+  - Price decreased: OnDemand Linux-instancetype-p4de.24xlarge Asia Pacific (Singapore)  **$49.159** → **$32.93646** 💸
+  - Price decreased: OnDemand Linux-instancetype-p5.48xlarge US West (Oregon)  **$98.32** → **$55.04** 💸
+  - Price decreased: OnDemand Linux-instancetype-p5.48xlarge US West (N. California)  **$122.9** → **$68.8** 💸
+  - Price decreased: OnDemand Linux-instancetype-p5.48xlarge US East (Ohio)  **$98.32** → **$55.04** 💸
+  - Price decreased: OnDemand Linux-instancetype-p5.48xlarge US East (N. Virginia)  **$98.32** → **$55.04** 💸
+  - Price decreased: OnDemand Linux-instancetype-p5.48xlarge US East (Atlanta)  **$98.32** → **$55.04** 💸
+  - Price decreased: OnDemand Linux-instancetype-p5.48xlarge South America (Sao Paulo)  **$165.1776** → **$92.4672** 💸
+  - Price decreased: OnDemand Linux-instancetype-p5.48xlarge EU (Stockholm)  **$105.2024** → **$58.8928** 💸
+  - Price decreased: OnDemand Linux-instancetype-p5.48xlarge EU (London)  **$127.816** → **$71.552** 💸
+  - Price decreased: OnDemand Linux-instancetype-p5.48xlarge Canada (Central)  **$113.068** → **$63.296** 💸
+  - Price decreased: OnDemand Linux-instancetype-p5.48xlarge Asia Pacific (Tokyo)  **$123.19496** → **$68.8** 💸
+  - Price decreased: OnDemand Linux-instancetype-p5.48xlarge Asia Pacific (Sydney)  **$127.816** → **$71.552** 💸
+  - Price decreased: OnDemand Linux-instancetype-p5.48xlarge Asia Pacific (Mumbai)  **$117.984** → **$66.048** 💸
+  - Price decreased: OnDemand Linux-instancetype-p5.48xlarge AWS GovCloud (US)  **$117.984** → **$66.048** 💸
+  - Price decreased: OnDemand Linux-instancetype-p4d.24xlarge US West (Oregon)  **$32.7726** → **$21.95764** 💸
+  - Price decreased: OnDemand Linux-instancetype-p4d.24xlarge US East (Ohio)  **$32.7726** → **$21.95764** 💸
+  - Price decreased: OnDemand Linux-instancetype-p4d.24xlarge US East (N. Virginia)  **$32.7726** → **$21.957642** 💸
+  - Price decreased: OnDemand Linux-instancetype-p4d.24xlarge South America (Sao Paulo)  **$53.07** → **$35.5569** 💸
+  - Price decreased: OnDemand Linux-instancetype-p4d.24xlarge EU (Ireland)  **$35.39655** → **$23.71569** 💸
+  - Price decreased: OnDemand Linux-instancetype-p4d.24xlarge EU (Frankfurt)  **$40.94475** → **$27.43298** 💸
+  - Price decreased: OnDemand Linux-instancetype-p4d.24xlarge Canada (Central)  **$37.69** → **$25.25174** 💸
+  - Price decreased: OnDemand Linux-instancetype-p4d.24xlarge Asia Pacific (Tokyo)  **$44.92215** → **$30.09784** 💸
+  - Price decreased: OnDemand Linux-instancetype-p4d.24xlarge Asia Pacific (Sydney)  **$42.60438** → **$28.54493** 💸
+  - Price decreased: OnDemand Linux-instancetype-p4d.24xlarge Asia Pacific (Singapore)  **$39.3271** → **$26.34917** 💸
+  - Price decreased: OnDemand Linux-instancetype-p4d.24xlarge Asia Pacific (Seoul)  **$45.38848** → **$30.41028** 💸
+  - Price decreased: OnDemand Linux-instancetype-p4d.24xlarge Asia Pacific (Mumbai)  **$39.32** → **$26.3444** 💸
+  - Price decreased: OnDemand Linux-instancetype-p4d.24xlarge AWS GovCloud (US)  **$39.33** → **$26.3511** 💸
+
+
 ## 2025-06-05 04:28
 
 **Modified services:**
