@@ -1,3 +1,446 @@
+## 2025-06-05 20:26
+
+**Modified services:**
+
+- [ec2](processed/ec2.json)
+  - Region added for metric OnDemand Linux-instancetype-t3.medium: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-t3.xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c6i.large: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c6i.12xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r6i.4xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m6i.xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m6i.16xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r6i.16xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c6gn.medium: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c6i.4xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c6i.16xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m6i.large: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c6gn.4xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m6i.8xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c6gn.large: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m6i.4xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r6i.2xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c6gn.8xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c6gn.xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r6i.large: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r6i.xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c6gn.2xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c6i.2xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c6gn.12xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m6i.2xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c6gn.16xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r6i.12xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r6i.8xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c6i.8xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c6i.xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m6i.12xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m7g.2xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7i.large: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-i4i.2xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m7i.12xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7g.16xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m6gd.large: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-t4g.micro: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c6g.large: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7g.2xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7i.large: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-i3en.xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c6g.12xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m6g.12xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m7i.8xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-i3en.2xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7gd.xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c6id.16xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7i-flex.2xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-i4i.8xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m7i.metal-48xl: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7i.48xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m7i.24xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m7g.xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7gd.medium: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m6id.24xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m6id.8xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7gd.large: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r6id.8xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c6g.2xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-i4i.12xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7g.16xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r6id.large: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7gd.16xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m6id.32xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m6gd.4xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-t4g.nano: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m6id.metal: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-i3en.3xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m7g.16xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-t3.small: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m7i-flex.2xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7g.4xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7gd.4xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r6g.metal: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m6id.12xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7g.metal: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m7i.16xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-i3en.24xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r6g.2xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7gd.8xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-t4g.xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c6id.xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7i.xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r6id.4xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7i.8xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7gd.2xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-i4i.xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7g.8xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7i.metal-48xl: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c6g.16xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r6id.12xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7i-flex.large: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7i.16xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7g.large: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m6gd.8xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m6g.16xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m6g.large: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m6g.xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7g.metal: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c6g.xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7g.medium: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c6g.medium: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m6g.4xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r6g.4xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c6id.4xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7i-flex.8xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7i.12xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7i.metal-48xl: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7gd.metal: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7g.medium: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7i-flex.xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m7gd.metal: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m6id.16xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m7i-flex.4xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r6id.24xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m7i-flex.8xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-t4g.large: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r6id.metal: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7g.xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7g.large: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r6id.16xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-t3.nano: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7i.16xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m6id.2xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r6g.8xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7i.metal-24xl: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7i.8xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m6g.metal: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m7gd.medium: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r6g.16xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m7g.12xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m7gd.4xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c6g.8xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m6gd.xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-i4i.32xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m6g.medium: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-t3.micro: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c6id.24xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m6g.8xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c6id.2xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7gd.12xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m7i.4xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r6id.xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-i4i.24xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m6g.2xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7i.24xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m7i.xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m7gd.8xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m7i.large: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7i.4xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-i4i.4xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c6g.4xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-t4g.2xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m6gd.medium: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-t4g.medium: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7i.4xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m7gd.16xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m7g.4xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-t3.large: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c6id.metal: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7g.4xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m7i.48xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m7i.metal-24xl: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c6id.32xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c6id.12xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7i-flex.4xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7i.metal-24xl: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7g.12xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7i.12xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r6g.medium: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m7gd.12xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-i4i.metal: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-i3en.large: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-i4i.large: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7i.2xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-t4g.small: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r6g.12xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-i3en.6xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-t3.2xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7i.2xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r6id.32xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r6g.large: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7i.24xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c6id.8xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-i3en.12xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7g.8xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m6id.large: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m7g.large: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7i.xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m6gd.2xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7g.xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m7i-flex.large: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r6id.2xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c6g.metal: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m7g.metal: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m7g.medium: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m6id.4xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7g.2xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c7g.12xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m7gd.2xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-i4i.16xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m7gd.xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m7g.8xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m6id.xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m6gd.16xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m7i.2xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m7gd.large: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r6g.xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-r7i.48xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m6gd.12xlarge: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m6gd.metal: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-c6id.large: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m7i-flex.xlarge: Asia Pacific (Taipei) 🌎
+
+- [backup](processed/backup.json)
+  - Region added for metric [DDB AWSBackup-DataTransfer] DDB AWSBackup-DataTransfer to GovCloud US: Asia Pacific (Taipei) (To Location: AWS GovCloud (US)) 🌎
+  - Region added for metric [DDB AWSBackup-DataTransfer] DDB AWSBackup-DataTransfer to GovCloud US-East: Asia Pacific (Taipei) (To Location: AWS GovCloud (US-East)) 🌎
+  - Region added for metric [DDB AWSBackup-DataTransfer] DDB AWSBackup-DataTransfer to Africa Cape Town: Asia Pacific (Taipei) (To Location: Africa (Cape Town)) 🌎
+  - Region added for metric [DDB AWSBackup-DataTransfer] DDB AWSBackup-DataTransfer to Asia Pacific Hong Kong: Asia Pacific (Taipei) (To Location: Asia Pacific (Hong Kong)) 🌎
+  - Region added for metric [DDB AWSBackup-DataTransfer] DDB AWSBackup-DataTransfer to Asia Pacific Hyderabad: Asia Pacific (Taipei) (To Location: Asia Pacific (Hyderabad)) 🌎
+  - Region added for metric [DDB AWSBackup-DataTransfer] DDB AWSBackup-DataTransfer to Asia Pacific Jakarta: Asia Pacific (Taipei) (To Location: Asia Pacific (Jakarta)) 🌎
+  - Region added for metric [DDB AWSBackup-DataTransfer] DDB AWSBackup-DataTransfer to Asia Pacific Malaysia: Asia Pacific (Taipei) (To Location: Asia Pacific (Malaysia)) 🌎
+  - Region added for metric [DDB AWSBackup-DataTransfer] DDB AWSBackup-DataTransfer to Asia Pacific Melbourne: Asia Pacific (Taipei) (To Location: Asia Pacific (Melbourne)) 🌎
+  - Region added for metric [DDB AWSBackup-DataTransfer] DDB AWSBackup-DataTransfer to Asia Pacific Mumbai: Asia Pacific (Taipei) (To Location: Asia Pacific (Mumbai)) 🌎
+  - Region added for metric [DDB AWSBackup-DataTransfer] DDB AWSBackup-DataTransfer to Asia Pacific Osaka: Asia Pacific (Taipei) (To Location: Asia Pacific (Osaka)) 🌎
+  - Region added for metric [DDB AWSBackup-DataTransfer] DDB AWSBackup-DataTransfer to Asia Pacific Seoul: Asia Pacific (Taipei) (To Location: Asia Pacific (Seoul)) 🌎
+  - Region added for metric [DDB AWSBackup-DataTransfer] DDB AWSBackup-DataTransfer to Asia Pacific Singapore: Asia Pacific (Taipei) (To Location: Asia Pacific (Singapore)) 🌎
+  - Region added for metric [DDB AWSBackup-DataTransfer] DDB AWSBackup-DataTransfer to Asia Pacific Sydney: Asia Pacific (Taipei) (To Location: Asia Pacific (Sydney)) 🌎
+  - Region added for metric [DDB AWSBackup-DataTransfer]: US West (Oregon) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [DDB AWSBackup-DataTransfer]: US West (N. California) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [DDB AWSBackup-DataTransfer]: US East (Ohio) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [DDB AWSBackup-DataTransfer]: US East (N. Virginia) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [DDB AWSBackup-DataTransfer]: South America (Sao Paulo) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [DDB AWSBackup-DataTransfer]: Middle East (UAE) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [DDB AWSBackup-DataTransfer]: Middle East (Bahrain) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [DDB AWSBackup-DataTransfer]: Mexico (Central) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [DDB AWSBackup-DataTransfer]: Israel (Tel Aviv) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [DDB AWSBackup-DataTransfer]: EU (Zurich) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [DDB AWSBackup-DataTransfer]: EU (Stockholm) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [DDB AWSBackup-DataTransfer]: EU (Spain) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [DDB AWSBackup-DataTransfer]: EU (Paris) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [DDB AWSBackup-DataTransfer]: EU (Milan) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [DDB AWSBackup-DataTransfer]: EU (London) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [DDB AWSBackup-DataTransfer]: EU (Ireland) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [DDB AWSBackup-DataTransfer]: EU (Frankfurt) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [DDB AWSBackup-DataTransfer]: Canada West (Calgary) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [DDB AWSBackup-DataTransfer]: Canada (Central) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [DDB AWSBackup-DataTransfer]: Asia Pacific (Tokyo) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [DDB AWSBackup-DataTransfer]: Asia Pacific (Thailand) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [DDB AWSBackup-DataTransfer]: Asia Pacific (Taipei) (To Location: Asia Pacific (Thailand)) 🌎
+  - Region added for metric [DDB AWSBackup-DataTransfer]: Asia Pacific (Taipei) (To Location: Mexico (Central)) 🌎
+  - Region added for metric [DDB AWSBackup-DataTransfer]: Asia Pacific (Sydney) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [DDB AWSBackup-DataTransfer]: Asia Pacific (Singapore) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [DDB AWSBackup-DataTransfer]: Asia Pacific (Seoul) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [DDB AWSBackup-DataTransfer]: Asia Pacific (Osaka) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [DDB AWSBackup-DataTransfer]: Asia Pacific (Mumbai) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [DDB AWSBackup-DataTransfer]: Asia Pacific (Melbourne) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [DDB AWSBackup-DataTransfer]: Asia Pacific (Malaysia) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [DDB AWSBackup-DataTransfer]: Asia Pacific (Jakarta) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [DDB AWSBackup-DataTransfer]: Asia Pacific (Hyderabad) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [DDB AWSBackup-DataTransfer]: Asia Pacific (Hong Kong) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [DDB AWSBackup-DataTransfer]: Africa (Cape Town) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [DDB AWSBackup-DataTransfer]: AWS GovCloud (US-East) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [DDB AWSBackup-DataTransfer]: AWS GovCloud (US) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [DDB AWSBackup-DataTransfer] DDB AWSBackup-DataTransfer to Asia Pacific Tokyo: Asia Pacific (Taipei) (To Location: Asia Pacific (Tokyo)) 🌎
+  - Region added for metric [DDB AWSBackup-DataTransfer] DDB AWSBackup-DataTransfer to Canada Central: Asia Pacific (Taipei) (To Location: Canada (Central)) 🌎
+  - Region added for metric [DDB AWSBackup-DataTransfer] DDB AWSBackup-DataTransfer to Canada West Calgary: Asia Pacific (Taipei) (To Location: Canada West (Calgary)) 🌎
+  - Region added for metric [DDB AWSBackup-DataTransfer] DDB AWSBackup-DataTransfer to EU Frankfurt: Asia Pacific (Taipei) (To Location: EU (Frankfurt)) 🌎
+  - Region added for metric [DDB AWSBackup-DataTransfer] DDB AWSBackup-DataTransfer to EU Ireland: Asia Pacific (Taipei) (To Location: EU (Ireland)) 🌎
+  - Region added for metric [DDB AWSBackup-DataTransfer] DDB AWSBackup-DataTransfer to EU London: Asia Pacific (Taipei) (To Location: EU (London)) 🌎
+  - Region added for metric [DDB AWSBackup-DataTransfer] DDB AWSBackup-DataTransfer to EU Milan: Asia Pacific (Taipei) (To Location: EU (Milan)) 🌎
+  - Region added for metric [DDB AWSBackup-DataTransfer] DDB AWSBackup-DataTransfer to EU Paris: Asia Pacific (Taipei) (To Location: EU (Paris)) 🌎
+  - Region added for metric [DDB AWSBackup-DataTransfer] DDB AWSBackup-DataTransfer to EU Spain: Asia Pacific (Taipei) (To Location: EU (Spain)) 🌎
+  - Region added for metric [DDB AWSBackup-DataTransfer] DDB AWSBackup-DataTransfer to EU Stockholm: Asia Pacific (Taipei) (To Location: EU (Stockholm)) 🌎
+  - Region added for metric [DDB AWSBackup-DataTransfer] DDB AWSBackup-DataTransfer to EU Zurich: Asia Pacific (Taipei) (To Location: EU (Zurich)) 🌎
+  - Region added for metric [DDB AWSBackup-DataTransfer] DDB AWSBackup-DataTransfer to Israel Tel Aviv: Asia Pacific (Taipei) (To Location: Israel (Tel Aviv)) 🌎
+  - Region added for metric [DDB AWSBackup-DataTransfer] DDB AWSBackup-DataTransfer to Middle East Bahrain: Asia Pacific (Taipei) (To Location: Middle East (Bahrain)) 🌎
+  - Region added for metric [DDB AWSBackup-DataTransfer] DDB AWSBackup-DataTransfer to Middle East UAE: Asia Pacific (Taipei) (To Location: Middle East (UAE)) 🌎
+  - Region added for metric [DDB AWSBackup-DataTransfer] DDB AWSBackup-DataTransfer to South America Sao Paulo: Asia Pacific (Taipei) (To Location: South America (Sao Paulo)) 🌎
+  - Region added for metric [DDB AWSBackup-DataTransfer] DDB AWSBackup-DataTransfer to US East N Virginia: Asia Pacific (Taipei) (To Location: US East (N. Virginia)) 🌎
+  - Region added for metric [DDB AWSBackup-DataTransfer] DDB AWSBackup-DataTransfer to US East Ohio: Asia Pacific (Taipei) (To Location: US East (Ohio)) 🌎
+  - Region added for metric [DDB AWSBackup-DataTransfer] DDB AWSBackup-DataTransfer to US West N California: Asia Pacific (Taipei) (To Location: US West (N. California)) 🌎
+  - Region added for metric [EFS AWSBackup-DataTransfer] EFS AWSBackup-DataTransfer to GovCloud US: Asia Pacific (Taipei) (To Location: AWS GovCloud (US)) 🌎
+  - Region added for metric [EFS AWSBackup-DataTransfer] EFS AWSBackup-DataTransfer to GovCloud US-East: Asia Pacific (Taipei) (To Location: AWS GovCloud (US-East)) 🌎
+  - Region added for metric [EFS AWSBackup-DataTransfer] EFS AWSBackup-DataTransfer to Africa Cape Town: Asia Pacific (Taipei) (To Location: Africa (Cape Town)) 🌎
+  - Region added for metric [EFS AWSBackup-DataTransfer] EFS AWSBackup-DataTransfer to Asia Pacific Hong Kong: Asia Pacific (Taipei) (To Location: Asia Pacific (Hong Kong)) 🌎
+  - Region added for metric [EFS AWSBackup-DataTransfer] EFS AWSBackup-DataTransfer to Asia Pacific Hyderabad: Asia Pacific (Taipei) (To Location: Asia Pacific (Hyderabad)) 🌎
+  - Region added for metric [EFS AWSBackup-DataTransfer] EFS AWSBackup-DataTransfer to Asia Pacific Jakarta: Asia Pacific (Taipei) (To Location: Asia Pacific (Jakarta)) 🌎
+  - Region added for metric [EFS AWSBackup-DataTransfer] EFS AWSBackup-DataTransfer to Asia Pacific Malaysia: Asia Pacific (Taipei) (To Location: Asia Pacific (Malaysia)) 🌎
+  - Region added for metric [EFS AWSBackup-DataTransfer] EFS AWSBackup-DataTransfer to Asia Pacific Melbourne: Asia Pacific (Taipei) (To Location: Asia Pacific (Melbourne)) 🌎
+  - Region added for metric [EFS AWSBackup-DataTransfer] EFS AWSBackup-DataTransfer to Asia Pacific Mumbai: Asia Pacific (Taipei) (To Location: Asia Pacific (Mumbai)) 🌎
+  - Region added for metric [EFS AWSBackup-DataTransfer] EFS AWSBackup-DataTransfer to Asia Pacific Osaka: Asia Pacific (Taipei) (To Location: Asia Pacific (Osaka)) 🌎
+  - Region added for metric [EFS AWSBackup-DataTransfer] EFS AWSBackup-DataTransfer to Asia Pacific Seoul: Asia Pacific (Taipei) (To Location: Asia Pacific (Seoul)) 🌎
+  - Region added for metric [EFS AWSBackup-DataTransfer] EFS AWSBackup-DataTransfer to Asia Pacific Singapore: Asia Pacific (Taipei) (To Location: Asia Pacific (Singapore)) 🌎
+  - Region added for metric [EFS AWSBackup-DataTransfer] EFS AWSBackup-DataTransfer to Asia Pacific Sydney: Asia Pacific (Taipei) (To Location: Asia Pacific (Sydney)) 🌎
+  - Region added for metric [EFS AWSBackup-DataTransfer]: US West (Oregon) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [EFS AWSBackup-DataTransfer]: US West (N. California) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [EFS AWSBackup-DataTransfer]: US East (Ohio) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [EFS AWSBackup-DataTransfer]: US East (N. Virginia) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [EFS AWSBackup-DataTransfer]: South America (Sao Paulo) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [EFS AWSBackup-DataTransfer]: Middle East (UAE) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [EFS AWSBackup-DataTransfer]: Middle East (Bahrain) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [EFS AWSBackup-DataTransfer]: Mexico (Central) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [EFS AWSBackup-DataTransfer]: Israel (Tel Aviv) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [EFS AWSBackup-DataTransfer]: EU (Zurich) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [EFS AWSBackup-DataTransfer]: EU (Stockholm) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [EFS AWSBackup-DataTransfer]: EU (Spain) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [EFS AWSBackup-DataTransfer]: EU (Paris) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [EFS AWSBackup-DataTransfer]: EU (Milan) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [EFS AWSBackup-DataTransfer]: EU (London) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [EFS AWSBackup-DataTransfer]: EU (Ireland) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [EFS AWSBackup-DataTransfer]: EU (Frankfurt) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [EFS AWSBackup-DataTransfer]: Canada West (Calgary) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [EFS AWSBackup-DataTransfer]: Canada (Central) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [EFS AWSBackup-DataTransfer]: Asia Pacific (Tokyo) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [EFS AWSBackup-DataTransfer]: Asia Pacific (Thailand) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [EFS AWSBackup-DataTransfer]: Asia Pacific (Taipei) (To Location: Asia Pacific (Thailand)) 🌎
+  - Region added for metric [EFS AWSBackup-DataTransfer]: Asia Pacific (Taipei) (To Location: Mexico (Central)) 🌎
+  - Region added for metric [EFS AWSBackup-DataTransfer]: Asia Pacific (Sydney) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [EFS AWSBackup-DataTransfer]: Asia Pacific (Singapore) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [EFS AWSBackup-DataTransfer]: Asia Pacific (Seoul) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [EFS AWSBackup-DataTransfer]: Asia Pacific (Osaka) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [EFS AWSBackup-DataTransfer]: Asia Pacific (Mumbai) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [EFS AWSBackup-DataTransfer]: Asia Pacific (Melbourne) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [EFS AWSBackup-DataTransfer]: Asia Pacific (Malaysia) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [EFS AWSBackup-DataTransfer]: Asia Pacific (Jakarta) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [EFS AWSBackup-DataTransfer]: Asia Pacific (Hyderabad) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [EFS AWSBackup-DataTransfer]: Asia Pacific (Hong Kong) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [EFS AWSBackup-DataTransfer]: Africa (Cape Town) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [EFS AWSBackup-DataTransfer]: AWS GovCloud (US-East) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [EFS AWSBackup-DataTransfer]: AWS GovCloud (US) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [EFS AWSBackup-DataTransfer] EFS AWSBackup-DataTransfer to Asia Pacific Tokyo: Asia Pacific (Taipei) (To Location: Asia Pacific (Tokyo)) 🌎
+  - Region added for metric [EFS AWSBackup-DataTransfer] EFS AWSBackup-DataTransfer to Canada Central: Asia Pacific (Taipei) (To Location: Canada (Central)) 🌎
+  - Region added for metric [EFS AWSBackup-DataTransfer] EFS AWSBackup-DataTransfer to Canada West Calgary: Asia Pacific (Taipei) (To Location: Canada West (Calgary)) 🌎
+  - Region added for metric [EFS AWSBackup-DataTransfer] EFS AWSBackup-DataTransfer to EU Frankfurt: Asia Pacific (Taipei) (To Location: EU (Frankfurt)) 🌎
+  - Region added for metric [EFS AWSBackup-DataTransfer] EFS AWSBackup-DataTransfer to EU Ireland: Asia Pacific (Taipei) (To Location: EU (Ireland)) 🌎
+  - Region added for metric [EFS AWSBackup-DataTransfer] EFS AWSBackup-DataTransfer to EU London: Asia Pacific (Taipei) (To Location: EU (London)) 🌎
+  - Region added for metric [EFS AWSBackup-DataTransfer] EFS AWSBackup-DataTransfer to EU Milan: Asia Pacific (Taipei) (To Location: EU (Milan)) 🌎
+  - Region added for metric [EFS AWSBackup-DataTransfer] EFS AWSBackup-DataTransfer to EU Paris: Asia Pacific (Taipei) (To Location: EU (Paris)) 🌎
+  - Region added for metric [EFS AWSBackup-DataTransfer] EFS AWSBackup-DataTransfer to EU Spain: Asia Pacific (Taipei) (To Location: EU (Spain)) 🌎
+  - Region added for metric [EFS AWSBackup-DataTransfer] EFS AWSBackup-DataTransfer to EU Stockholm: Asia Pacific (Taipei) (To Location: EU (Stockholm)) 🌎
+  - Region added for metric [EFS AWSBackup-DataTransfer] EFS AWSBackup-DataTransfer to EU Zurich: Asia Pacific (Taipei) (To Location: EU (Zurich)) 🌎
+  - Region added for metric [EFS AWSBackup-DataTransfer] EFS AWSBackup-DataTransfer to Israel Tel Aviv: Asia Pacific (Taipei) (To Location: Israel (Tel Aviv)) 🌎
+  - Region added for metric [EFS AWSBackup-DataTransfer] EFS AWSBackup-DataTransfer to Middle East Bahrain: Asia Pacific (Taipei) (To Location: Middle East (Bahrain)) 🌎
+  - Region added for metric [EFS AWSBackup-DataTransfer] EFS AWSBackup-DataTransfer to Middle East UAE: Asia Pacific (Taipei) (To Location: Middle East (UAE)) 🌎
+  - Region added for metric [EFS AWSBackup-DataTransfer] EFS AWSBackup-DataTransfer to South America Sao Paulo: Asia Pacific (Taipei) (To Location: South America (Sao Paulo)) 🌎
+  - Region added for metric [EFS AWSBackup-DataTransfer] EFS AWSBackup-DataTransfer to US East N Virginia: Asia Pacific (Taipei) (To Location: US East (N. Virginia)) 🌎
+  - Region added for metric [EFS AWSBackup-DataTransfer] EFS AWSBackup-DataTransfer to US East Ohio: Asia Pacific (Taipei) (To Location: US East (Ohio)) 🌎
+  - Region added for metric [EFS AWSBackup-DataTransfer] EFS AWSBackup-DataTransfer to US West N California: Asia Pacific (Taipei) (To Location: US West (N. California)) 🌎
+  - Region added for metric [S3 AWSBackup-DataTransfer] S3 AWSBackup-DataTransfer to GovCloud US: Asia Pacific (Taipei) (To Location: AWS GovCloud (US)) 🌎
+  - Region added for metric [S3 AWSBackup-DataTransfer] S3 AWSBackup-DataTransfer to GovCloud US-East: Asia Pacific (Taipei) (To Location: AWS GovCloud (US-East)) 🌎
+  - Region added for metric [S3 AWSBackup-DataTransfer] S3 AWSBackup-DataTransfer to Africa Cape Town: Asia Pacific (Taipei) (To Location: Africa (Cape Town)) 🌎
+  - Region added for metric [S3 AWSBackup-DataTransfer] S3 AWSBackup-DataTransfer to Asia Pacific Hong Kong: Asia Pacific (Taipei) (To Location: Asia Pacific (Hong Kong)) 🌎
+  - Region added for metric [S3 AWSBackup-DataTransfer] S3 AWSBackup-DataTransfer to Asia Pacific Hyderabad: Asia Pacific (Taipei) (To Location: Asia Pacific (Hyderabad)) 🌎
+  - Region added for metric [S3 AWSBackup-DataTransfer] S3 AWSBackup-DataTransfer to Asia Pacific Jakarta: Asia Pacific (Taipei) (To Location: Asia Pacific (Jakarta)) 🌎
+  - Region added for metric [S3 AWSBackup-DataTransfer] S3 AWSBackup-DataTransfer to Asia Pacific Malaysia: Asia Pacific (Taipei) (To Location: Asia Pacific (Malaysia)) 🌎
+  - Region added for metric [S3 AWSBackup-DataTransfer] S3 AWSBackup-DataTransfer to Asia Pacific Melbourne: Asia Pacific (Taipei) (To Location: Asia Pacific (Melbourne)) 🌎
+  - Region added for metric [S3 AWSBackup-DataTransfer] S3 AWSBackup-DataTransfer to Asia Pacific Mumbai: Asia Pacific (Taipei) (To Location: Asia Pacific (Mumbai)) 🌎
+  - Region added for metric [S3 AWSBackup-DataTransfer] S3 AWSBackup-DataTransfer to Asia Pacific Osaka: Asia Pacific (Taipei) (To Location: Asia Pacific (Osaka)) 🌎
+  - Region added for metric [S3 AWSBackup-DataTransfer] S3 AWSBackup-DataTransfer to Asia Pacific Seoul: Asia Pacific (Taipei) (To Location: Asia Pacific (Seoul)) 🌎
+  - Region added for metric [S3 AWSBackup-DataTransfer] S3 AWSBackup-DataTransfer to Asia Pacific Singapore: Asia Pacific (Taipei) (To Location: Asia Pacific (Singapore)) 🌎
+  - Region added for metric [S3 AWSBackup-DataTransfer] S3 AWSBackup-DataTransfer to Asia Pacific Sydney: Asia Pacific (Taipei) (To Location: Asia Pacific (Sydney)) 🌎
+  - Region added for metric [S3 AWSBackup-DataTransfer]: US West (Oregon) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [S3 AWSBackup-DataTransfer]: US West (N. California) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [S3 AWSBackup-DataTransfer]: US East (Ohio) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [S3 AWSBackup-DataTransfer]: US East (N. Virginia) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [S3 AWSBackup-DataTransfer]: South America (Sao Paulo) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [S3 AWSBackup-DataTransfer]: Middle East (UAE) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [S3 AWSBackup-DataTransfer]: Middle East (Bahrain) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [S3 AWSBackup-DataTransfer]: Mexico (Central) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [S3 AWSBackup-DataTransfer]: Israel (Tel Aviv) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [S3 AWSBackup-DataTransfer]: EU (Zurich) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [S3 AWSBackup-DataTransfer]: EU (Stockholm) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [S3 AWSBackup-DataTransfer]: EU (Spain) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [S3 AWSBackup-DataTransfer]: EU (Paris) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [S3 AWSBackup-DataTransfer]: EU (Milan) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [S3 AWSBackup-DataTransfer]: EU (London) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [S3 AWSBackup-DataTransfer]: EU (Ireland) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [S3 AWSBackup-DataTransfer]: EU (Frankfurt) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [S3 AWSBackup-DataTransfer]: Canada West (Calgary) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [S3 AWSBackup-DataTransfer]: Canada (Central) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [S3 AWSBackup-DataTransfer]: Asia Pacific (Tokyo) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [S3 AWSBackup-DataTransfer]: Asia Pacific (Thailand) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [S3 AWSBackup-DataTransfer]: Asia Pacific (Taipei) (To Location: Asia Pacific (Thailand)) 🌎
+  - Region added for metric [S3 AWSBackup-DataTransfer]: Asia Pacific (Taipei) (To Location: Mexico (Central)) 🌎
+  - Region added for metric [S3 AWSBackup-DataTransfer]: Asia Pacific (Sydney) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [S3 AWSBackup-DataTransfer]: Asia Pacific (Singapore) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [S3 AWSBackup-DataTransfer]: Asia Pacific (Seoul) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [S3 AWSBackup-DataTransfer]: Asia Pacific (Osaka) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [S3 AWSBackup-DataTransfer]: Asia Pacific (Mumbai) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [S3 AWSBackup-DataTransfer]: Asia Pacific (Melbourne) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [S3 AWSBackup-DataTransfer]: Asia Pacific (Malaysia) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [S3 AWSBackup-DataTransfer]: Asia Pacific (Jakarta) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [S3 AWSBackup-DataTransfer]: Asia Pacific (Hyderabad) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [S3 AWSBackup-DataTransfer]: Asia Pacific (Hong Kong) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [S3 AWSBackup-DataTransfer]: Africa (Cape Town) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [S3 AWSBackup-DataTransfer]: AWS GovCloud (US-East) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [S3 AWSBackup-DataTransfer]: AWS GovCloud (US) (To Location: Asia Pacific (Taipei)) 🌎
+  - Region added for metric [S3 AWSBackup-DataTransfer] S3 AWSBackup-DataTransfer to Asia Pacific Tokyo: Asia Pacific (Taipei) (To Location: Asia Pacific (Tokyo)) 🌎
+  - Region added for metric [S3 AWSBackup-DataTransfer] S3 AWSBackup-DataTransfer to Canada Central: Asia Pacific (Taipei) (To Location: Canada (Central)) 🌎
+  - Region added for metric [S3 AWSBackup-DataTransfer] S3 AWSBackup-DataTransfer to Canada West Calgary: Asia Pacific (Taipei) (To Location: Canada West (Calgary)) 🌎
+  - Region added for metric [S3 AWSBackup-DataTransfer] S3 AWSBackup-DataTransfer to EU Frankfurt: Asia Pacific (Taipei) (To Location: EU (Frankfurt)) 🌎
+  - Region added for metric [S3 AWSBackup-DataTransfer] S3 AWSBackup-DataTransfer to EU Ireland: Asia Pacific (Taipei) (To Location: EU (Ireland)) 🌎
+  - Region added for metric [S3 AWSBackup-DataTransfer] S3 AWSBackup-DataTransfer to EU London: Asia Pacific (Taipei) (To Location: EU (London)) 🌎
+  - Region added for metric [S3 AWSBackup-DataTransfer] S3 AWSBackup-DataTransfer to EU Milan: Asia Pacific (Taipei) (To Location: EU (Milan)) 🌎
+  - Region added for metric [S3 AWSBackup-DataTransfer] S3 AWSBackup-DataTransfer to EU Paris: Asia Pacific (Taipei) (To Location: EU (Paris)) 🌎
+  - Region added for metric [S3 AWSBackup-DataTransfer] S3 AWSBackup-DataTransfer to EU Spain: Asia Pacific (Taipei) (To Location: EU (Spain)) 🌎
+  - Region added for metric [S3 AWSBackup-DataTransfer] S3 AWSBackup-DataTransfer to EU Stockholm: Asia Pacific (Taipei) (To Location: EU (Stockholm)) 🌎
+  - Region added for metric [S3 AWSBackup-DataTransfer] S3 AWSBackup-DataTransfer to EU Zurich: Asia Pacific (Taipei) (To Location: EU (Zurich)) 🌎
+  - Region added for metric [S3 AWSBackup-DataTransfer] S3 AWSBackup-DataTransfer to Israel Tel Aviv: Asia Pacific (Taipei) (To Location: Israel (Tel Aviv)) 🌎
+  - Region added for metric [S3 AWSBackup-DataTransfer] S3 AWSBackup-DataTransfer to Middle East Bahrain: Asia Pacific (Taipei) (To Location: Middle East (Bahrain)) 🌎
+  - Region added for metric [S3 AWSBackup-DataTransfer] S3 AWSBackup-DataTransfer to Middle East UAE: Asia Pacific (Taipei) (To Location: Middle East (UAE)) 🌎
+  - Region added for metric [S3 AWSBackup-DataTransfer] S3 AWSBackup-DataTransfer to South America Sao Paulo: Asia Pacific (Taipei) (To Location: South America (Sao Paulo)) 🌎
+  - Region added for metric [S3 AWSBackup-DataTransfer] S3 AWSBackup-DataTransfer to US East N Virginia: Asia Pacific (Taipei) (To Location: US East (N. Virginia)) 🌎
+  - Region added for metric [S3 AWSBackup-DataTransfer] S3 AWSBackup-DataTransfer to US East Ohio: Asia Pacific (Taipei) (To Location: US East (Ohio)) 🌎
+  - Region added for metric [S3 AWSBackup-DataTransfer] S3 AWSBackup-DataTransfer to US West N California: Asia Pacific (Taipei) (To Location: US West (N. California)) 🌎
+  - Region added for metric Warm Backup Restore Data Size EFS per GB: Asia Pacific (Taipei) 🌎
+  - Region added for metric RestoreRecoveryPoint Cold per GB: Asia Pacific (Taipei) 🌎
+  - Region added for metric Backup Storage Warm per GB-month: Asia Pacific (Taipei) 🌎
+  - Region added for metric Backup Early Delete Size Cold per GB-month: Asia Pacific (Taipei) 🌎
+  - Region added for metric DDB RestoreRecoveryPoint Warm per GB: Asia Pacific (Taipei) 🌎
+  - Region added for metric Backup Storage Cold per GB-month: Asia Pacific (Taipei) 🌎
+  - Region added for metric S3 Backup Storage Warm per GB-month: Asia Pacific (Taipei) 🌎
+  - Region added for metric DDB Backup Storage Warm per GB-month: Asia Pacific (Taipei) 🌎
+  - Region added for metric DDB Backup Storage Cold per GB-month: Asia Pacific (Taipei) 🌎
+  - Region added for metric DDB RestoreRecoveryPoint Cold per GB: Asia Pacific (Taipei) 🌎
+  - Region added for metric S3 RestoreRecoveryPoint WarmPartial per GB: Asia Pacific (Taipei) 🌎
+  - Region added for metric RestoreRecoveryPoint Jobs per Requests: Asia Pacific (Taipei) 🌎
+  - Region added for metric S3 RestoreRecoveryPoint Warm per GB: Asia Pacific (Taipei) 🌎
+  - Region added for metric DDB Backup Early Delete Size Cold per GB-month: Asia Pacific (Taipei) 🌎
+  - Region added for metric RestoreRecoveryPoint Warm per GB: Asia Pacific (Taipei) 🌎
+  - Region added for metric Cold Backup Restore Data Size EFS per GB: Asia Pacific (Taipei) 🌎
+  - Region added for metric [DDB AWSBackup-DataTransfer] DDB AWSBackup-DataTransfer to US West Oregon: Asia Pacific (Taipei) (To Location: US West (Oregon)) 🌎
+  - Region added for metric [EFS AWSBackup-DataTransfer] EFS AWSBackup-DataTransfer to US West Oregon: Asia Pacific (Taipei) (To Location: US West (Oregon)) 🌎
+  - Region added for metric [S3 AWSBackup-DataTransfer] S3 AWSBackup-DataTransfer to US West Oregon: Asia Pacific (Taipei) (To Location: US West (Oregon)) 🌎
+
+
 ## 2025-06-05 18:33
 
 **Modified services:**
