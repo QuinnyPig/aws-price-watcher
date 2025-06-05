@@ -1,3 +1,1639 @@
+## 2025-06-05 22:26
+
+**Modified services:**
+
+- [rds-storage](processed/rds-storage.json)
+  - Region added for metric Provisioned GP3 IOPS Multi AZ SQL Server Mirror: Asia Pacific (Taipei) 🌎
+  - Region added for metric Database Storage Single AZ General Purpose-Aurora: Asia Pacific (Taipei) 🌎
+  - Region added for metric Database Storage Multi AZ Provisioned IOPS: Asia Pacific (Taipei) 🌎
+  - Region added for metric Database Storage Multi AZ Provisioned IOPS-IO2: Asia Pacific (Taipei) 🌎
+  - Region added for metric Provisioned GP3 IOPS Single AZ: Asia Pacific (Taipei) 🌎
+  - Region added for metric Database Storage Multi AZ SQL Server Mirror Provisioned IOPS-IO2: Asia Pacific (Taipei) 🌎
+  - Region added for metric Database Storage Single AZ General Purpose: Asia Pacific (Taipei) 🌎
+  - Region added for metric Database Storage Multi AZ SQL Server Mirror General Purpose-GP3: Asia Pacific (Taipei) 🌎
+  - Region added for metric Database Storage Multi AZ General Purpose: Asia Pacific (Taipei) 🌎
+  - Region added for metric Database Storage Multi AZ SQL Server Mirror Provisioned IOPS: Asia Pacific (Taipei) 🌎
+  - Region added for metric Provisioned IOPS Multi AZ SQL Server Mirror: Asia Pacific (Taipei) 🌎
+  - Region added for metric Database Storage Single AZ General Purpose-GP3: Asia Pacific (Taipei) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2: Asia Pacific (Taipei) 🌎
+  - Region added for metric Database Storage Single AZ IO Optimized-Aurora: Asia Pacific (Taipei) 🌎
+  - Region added for metric Database Storage Multi AZ SQL Server Mirror General Purpose: Asia Pacific (Taipei) 🌎
+  - Region added for metric Provisioned IOPS Single AZ: Asia Pacific (Taipei) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS: Asia Pacific (Taipei) 🌎
+  - Region added for metric Provisioned GP3 IOPS Multi AZ: Asia Pacific (Taipei) 🌎
+  - Region added for metric Database Storage Multi AZ readable standbys Provisioned IOPS: Asia Pacific (Taipei) 🌎
+  - Region added for metric Database Storage Multi AZ General Purpose-GP3: Asia Pacific (Taipei) 🌎
+  - Region added for metric Provisioned IOPS Multi AZ: Asia Pacific (Taipei) 🌎
+  - Region added for metric Provisioned IOPS Multi AZ readable standbys: Asia Pacific (Taipei) 🌎
+  - Region added for metric Database Storage Multi AZ General Purpose-Aurora: Asia Pacific (Taipei) 🌎
+
+- [rds-aurora-storage](processed/rds-aurora-storage.json)
+  - Region added for metric Performance Insights Aurora MySQL ServerlessAMR ACU Months: Asia Pacific (Taipei) 🌎
+  - Region added for metric Performance Insights Aurora PostgreSQL ServerlessAMR ACU Months: Asia Pacific (Taipei) 🌎
+  - Region added for metric Any Year 1 Year 2 8 0: Asia Pacific (Taipei) 🌎
+  - Region added for metric Performance Insights Aurora MySQL ServerlessFMR ACU Months: Asia Pacific (Taipei) 🌎
+  - Region added for metric Performance Insights Aurora PostgreSQL ServerlessFMR ACU Months: Asia Pacific (Taipei) 🌎
+  - Region added for metric Aurora PostgreSQL Year 3 11: Asia Pacific (Taipei) 🌎
+  - Region added for metric Database Storage DB Engine Aurora PostgreSQL General Purpose Aurora: Asia Pacific (Taipei) 🌎
+  - Region added for metric Performance Insights Aurora MySQL ProvisionedAMR vCPU Months: Asia Pacific (Taipei) 🌎
+  - Region added for metric Performance Insights Aurora PostgreSQL ProvisionedAMR vCPU Months: Asia Pacific (Taipei) 🌎
+  - Region added for metric Aurora MySQL Year 1 Year 2 5 7: Asia Pacific (Taipei) 🌎
+  - Region added for metric Aurora MySQL IO Optimized Aurora: Asia Pacific (Taipei) 🌎
+  - Region added for metric Aurora PostgreSQL IO Optimized Aurora: Asia Pacific (Taipei) 🌎
+  - Region added for metric Any IO Optimized Aurora: Asia Pacific (Taipei) 🌎
+  - Region added for metric Performance Insights Aurora MySQL ProvisionedFMR vCPU Months: Asia Pacific (Taipei) 🌎
+  - Region added for metric Performance Insights Aurora PostgreSQL ProvisionedFMR vCPU Months: Asia Pacific (Taipei) 🌎
+  - Region added for metric Aurora PostgreSQL Year 1 Year 2 12: Asia Pacific (Taipei) 🌎
+  - Region added for metric Aurora PostgreSQL Year 1 Year 2 11: Asia Pacific (Taipei) 🌎
+  - Region added for metric Aurora PostgreSQL Year 3 12: Asia Pacific (Taipei) 🌎
+  - Region added for metric Aurora MySQL Year 1 Year 2 8 0: Asia Pacific (Taipei) 🌎
+
+- [rds-aurora-ondemand](processed/rds-aurora-ondemand.json)
+  - Region added for metric [Database Instance Aurora MySQL No license required Memory optimized Single-AZ Current Generation] Database Instance Aurora MySQL No license required db r6g.8xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6g.8xlarge) 🌎
+  - Region added for metric [Database Instance Aurora MySQL No license required Memory optimized Single-AZ Current Generation]: Asia Pacific (Taipei) (Instance Type: db.r7i.2xlarge) 🌎
+  - Region added for metric [Database Instance Aurora MySQL No license required Memory optimized Single-AZ Current Generation]: Asia Pacific (Taipei) (Instance Type: db.r7i.xlarge) 🌎
+  - Region added for metric [Database Instance Aurora MySQL No license required Memory optimized Single-AZ Current Generation]: Asia Pacific (Taipei) (Instance Type: db.r7i.4xlarge) 🌎
+  - Region added for metric [Database Instance Aurora MySQL No license required Memory optimized Single-AZ Current Generation]: Asia Pacific (Taipei) (Instance Type: db.r7i.24xlarge) 🌎
+  - Region added for metric [Database Instance Aurora MySQL No license required Memory optimized Single-AZ Current Generation]: Asia Pacific (Taipei) (Instance Type: db.r7i.12xlarge) 🌎
+  - Region added for metric [Database Instance Aurora MySQL No license required Memory optimized Single-AZ Current Generation]: Asia Pacific (Taipei) (Instance Type: db.r7i.16xlarge) 🌎
+  - Region added for metric [Database Instance Aurora MySQL No license required Memory optimized Single-AZ Current Generation]: Asia Pacific (Taipei) (Instance Type: db.r7i.48xlarge) 🌎
+  - Region added for metric [Database Instance Aurora MySQL No license required Memory optimized Single-AZ Current Generation] Database Instance Aurora MySQL No license required db r6i.12xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.12xlarge) 🌎
+  - Region added for metric [Database Instance Aurora MySQL No license required Memory optimized Single-AZ Current Generation] Database Instance Aurora MySQL No license required db r6i.4xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.4xlarge) 🌎
+  - Region added for metric [Database Instance Aurora MySQL No license required Memory optimized Single-AZ Current Generation] Database Instance Aurora MySQL No license required db r7g.large Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r7g.large) 🌎
+  - Region added for metric [Database Instance Aurora MySQL No license required Memory optimized Single-AZ Current Generation] Database Instance Aurora MySQL No license required db r7g.2xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r7g.2xlarge) 🌎
+  - Region added for metric [Database Instance Aurora MySQL No license required Memory optimized Single-AZ Current Generation] Database Instance Aurora MySQL No license required db r6g.2xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6g.2xlarge) 🌎
+  - Region added for metric [Database Instance Aurora MySQL No license required Memory optimized Single-AZ Current Generation] Database Instance Aurora MySQL No license required db r6i.8xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.8xlarge) 🌎
+  - Region added for metric [Database Instance Aurora MySQL No license required Memory optimized Single-AZ Current Generation] Database Instance Aurora MySQL No license required db r7g.8xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r7g.8xlarge) 🌎
+  - Region added for metric [Database Instance Aurora MySQL No license required Memory optimized Single-AZ Current Generation] Database Instance Aurora MySQL No license required db r6g.large Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6g.large) 🌎
+  - Region added for metric [Database Instance Aurora MySQL No license required Memory optimized Single-AZ Current Generation] Database Instance Aurora MySQL No license required db r6i.2xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.2xlarge) 🌎
+  - Region added for metric [Database Instance Aurora MySQL No license required Memory optimized Single-AZ Current Generation] Database Instance Aurora MySQL No license required db r6i.24xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.24xlarge) 🌎
+  - Region added for metric [Database Instance Aurora MySQL No license required Memory optimized Single-AZ Current Generation] Database Instance Aurora MySQL No license required db r6g.4xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6g.4xlarge) 🌎
+  - Region added for metric [Database Instance Aurora MySQL No license required Memory optimized Single-AZ Current Generation] Database Instance Aurora MySQL No license required db r7g.xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r7g.xlarge) 🌎
+  - Region added for metric [Database Instance Aurora MySQL No license required General purpose Single-AZ Current Generation] Database Instance Aurora MySQL No license required db t4g.medium General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t4g.medium) 🌎
+  - Region added for metric [Database Instance Aurora MySQL No license required Memory optimized Single-AZ Current Generation] Database Instance Aurora MySQL No license required db r6i.32xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.32xlarge) 🌎
+  - Region added for metric [Database Instance Aurora MySQL No license required Memory optimized Single-AZ Current Generation] Database Instance Aurora MySQL No license required db r6g.16xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6g.16xlarge) 🌎
+  - Region added for metric [Database Instance Aurora MySQL No license required Memory optimized Single-AZ Current Generation] Database Instance Aurora MySQL No license required db r6i.16xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.16xlarge) 🌎
+  - Region added for metric [Database Instance Aurora MySQL No license required Memory optimized Single-AZ Current Generation] Database Instance Aurora MySQL No license required db r6g.12xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6g.12xlarge) 🌎
+  - Region added for metric [Database Instance Aurora MySQL No license required General purpose Single-AZ Current Generation] Database Instance Aurora MySQL No license required db t4g.large General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t4g.large) 🌎
+  - Region added for metric [Database Instance Aurora MySQL No license required Memory optimized Single-AZ Current Generation] Database Instance Aurora MySQL No license required db r7g.16xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r7g.16xlarge) 🌎
+  - Region added for metric [Database Instance Aurora PostgreSQL No license required Memory optimized Single-AZ Current Generation] Database Instance Aurora PostgreSQL No license required db r7g.large Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r7g.large) 🌎
+  - Region added for metric [Database Instance Aurora PostgreSQL No license required Memory optimized Single-AZ Current Generation] Database Instance Aurora PostgreSQL No license required db r6i.32xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.32xlarge) 🌎
+  - Region added for metric [Database Instance Aurora PostgreSQL No license required Memory optimized Single-AZ Current Generation] Database Instance Aurora PostgreSQL No license required db r6g.large Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6g.large) 🌎
+  - Region added for metric [Database Instance Aurora PostgreSQL No license required Memory optimized Single-AZ Current Generation] Database Instance Aurora PostgreSQL No license required db r7g.12xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r7g.12xlarge) 🌎
+  - Region added for metric [Database Instance Aurora PostgreSQL No license required Memory optimized Single-AZ Current Generation] Database Instance Aurora PostgreSQL No license required db r6i.8xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.8xlarge) 🌎
+  - Region added for metric [Database Instance Aurora PostgreSQL No license required Memory optimized Single-AZ Current Generation]: Asia Pacific (Taipei) (Instance Type: db.r7i.48xlarge) 🌎
+  - Region added for metric [Database Instance Aurora PostgreSQL No license required Memory optimized Single-AZ Current Generation]: Asia Pacific (Taipei) (Instance Type: db.r7i.4xlarge) 🌎
+  - Region added for metric [Database Instance Aurora PostgreSQL No license required Memory optimized Single-AZ Current Generation]: Asia Pacific (Taipei) (Instance Type: db.r7i.8xlarge) 🌎
+  - Region added for metric [Database Instance Aurora PostgreSQL No license required Memory optimized Single-AZ Current Generation]: Asia Pacific (Taipei) (Instance Type: db.r7i.large) 🌎
+  - Region added for metric [Database Instance Aurora PostgreSQL No license required Memory optimized Single-AZ Current Generation]: Asia Pacific (Taipei) (Instance Type: db.r7i.24xlarge) 🌎
+  - Region added for metric [Database Instance Aurora PostgreSQL No license required Memory optimized Single-AZ Current Generation]: Asia Pacific (Taipei) (Instance Type: db.r7i.xlarge) 🌎
+  - Region added for metric [Database Instance Aurora PostgreSQL No license required Memory optimized Single-AZ Current Generation] Database Instance Aurora PostgreSQL No license required db r7g.16xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r7g.16xlarge) 🌎
+  - Region added for metric [Database Instance Aurora PostgreSQL No license required Memory optimized Single-AZ Current Generation] Database Instance Aurora PostgreSQL No license required db r7g.xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r7g.xlarge) 🌎
+  - Region added for metric [Database Instance Aurora PostgreSQL No license required Memory optimized Single-AZ Current Generation] Database Instance Aurora PostgreSQL No license required db r6i.4xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.4xlarge) 🌎
+  - Region added for metric [Database Instance Aurora PostgreSQL No license required Memory optimized Single-AZ Current Generation] Database Instance Aurora PostgreSQL No license required db r6i.large Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.large) 🌎
+  - Region added for metric [Database Instance Aurora PostgreSQL No license required Memory optimized Single-AZ Current Generation] Database Instance Aurora PostgreSQL No license required db r6g.12xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6g.12xlarge) 🌎
+  - Region added for metric [Database Instance Aurora PostgreSQL No license required General purpose Single-AZ Current Generation] Database Instance Aurora PostgreSQL No license required db t4g.medium General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t4g.medium) 🌎
+  - Region added for metric [Database Instance Aurora PostgreSQL No license required Memory optimized Single-AZ Current Generation] Database Instance Aurora PostgreSQL No license required db r6g.8xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6g.8xlarge) 🌎
+  - Region added for metric [Database Instance Aurora PostgreSQL No license required Memory optimized Single-AZ Current Generation] Database Instance Aurora PostgreSQL No license required db r6i.xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.xlarge) 🌎
+  - Region added for metric [Database Instance Aurora PostgreSQL No license required Memory optimized Single-AZ Current Generation] Database Instance Aurora PostgreSQL No license required db r6i.2xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.2xlarge) 🌎
+  - Region added for metric [Database Instance Aurora PostgreSQL No license required Memory optimized Single-AZ Current Generation] Database Instance Aurora PostgreSQL No license required db r6i.16xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.16xlarge) 🌎
+  - Region added for metric [Database Instance Aurora PostgreSQL No license required Memory optimized Single-AZ Current Generation] Database Instance Aurora PostgreSQL No license required db r6i.24xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.24xlarge) 🌎
+  - Region added for metric [Database Instance Aurora PostgreSQL No license required Memory optimized Single-AZ Current Generation] Database Instance Aurora PostgreSQL No license required db r6i.12xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.12xlarge) 🌎
+  - Region added for metric [Database Instance Aurora PostgreSQL No license required Memory optimized R6GD Single-AZ Current Generation] Database Instance Aurora PostgreSQL No license required db r6gd.8xlarge Memory optimized R6GD Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6gd.8xlarge) 🌎
+  - Region added for metric [Database Instance Aurora PostgreSQL No license required Memory optimized R6GD Single-AZ Current Generation] Database Instance Aurora PostgreSQL No license required db r6gd.2xlarge Memory optimized R6GD Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6gd.2xlarge) 🌎
+  - Region added for metric [Database Instance Aurora PostgreSQL No license required Memory optimized R6GD Single-AZ Current Generation] Database Instance Aurora PostgreSQL No license required db r6gd.4xlarge Memory optimized R6GD Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6gd.4xlarge) 🌎
+  - Region added for metric [Database Instance Aurora PostgreSQL No license required Memory optimized R6id Single-AZ Current Generation] Database Instance Aurora PostgreSQL No license required db r6id.32xlarge Memory optimized R6id Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6id.32xlarge) 🌎
+  - Region added for metric [Database Instance Aurora MySQL No license required Aurora IO Optimization Mode Memory optimized Single-AZ Current Generation]: Asia Pacific (Taipei) (Instance Type: db.r7i.12xlarge) 🌎
+  - Region added for metric [Database Instance Aurora MySQL No license required Aurora IO Optimization Mode Memory optimized Single-AZ Current Generation]: Asia Pacific (Taipei) (Instance Type: db.r7i.8xlarge) 🌎
+  - Region added for metric [Database Instance Aurora MySQL No license required Aurora IO Optimization Mode Memory optimized Single-AZ Current Generation]: Asia Pacific (Taipei) (Instance Type: db.r7i.16xlarge) 🌎
+  - Region added for metric [Database Instance Aurora MySQL No license required Aurora IO Optimization Mode Memory optimized Single-AZ Current Generation]: Asia Pacific (Taipei) (Instance Type: db.r7i.2xlarge) 🌎
+  - Region added for metric [Database Instance Aurora MySQL No license required Aurora IO Optimization Mode Memory optimized Single-AZ Current Generation]: Asia Pacific (Taipei) (Instance Type: db.r7i.xlarge) 🌎
+  - Region added for metric [Database Instance Aurora MySQL No license required Aurora IO Optimization Mode Memory optimized Single-AZ Current Generation] Database Instance Aurora MySQL No license required Aurora IO Optimization Mode db r7g.16xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r7g.16xlarge) 🌎
+  - Region added for metric [Database Instance Aurora MySQL No license required Aurora IO Optimization Mode Memory optimized Single-AZ Current Generation] Database Instance Aurora MySQL No license required Aurora IO Optimization Mode db r6g.2xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6g.2xlarge) 🌎
+  - Region added for metric [Database Instance Aurora MySQL No license required Aurora IO Optimization Mode Memory optimized Single-AZ Current Generation] Database Instance Aurora MySQL No license required Aurora IO Optimization Mode db r6i.12xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.12xlarge) 🌎
+  - Region added for metric [Database Instance Aurora MySQL No license required Aurora IO Optimization Mode Memory optimized Single-AZ Current Generation] Database Instance Aurora MySQL No license required Aurora IO Optimization Mode db r6g.8xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6g.8xlarge) 🌎
+  - Region added for metric [Database Instance Aurora MySQL No license required Aurora IO Optimization Mode Memory optimized Single-AZ Current Generation] Database Instance Aurora MySQL No license required Aurora IO Optimization Mode db r7g.4xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r7g.4xlarge) 🌎
+  - Region added for metric [Database Instance Aurora MySQL No license required Aurora IO Optimization Mode Memory optimized Single-AZ Current Generation] Database Instance Aurora MySQL No license required Aurora IO Optimization Mode db r6i.8xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.8xlarge) 🌎
+  - Region added for metric [Database Instance Aurora MySQL No license required Aurora IO Optimization Mode Memory optimized Single-AZ Current Generation] Database Instance Aurora MySQL No license required Aurora IO Optimization Mode db r6i.large Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.large) 🌎
+  - Region added for metric [Database Instance Aurora MySQL No license required Aurora IO Optimization Mode Memory optimized Single-AZ Current Generation] Database Instance Aurora MySQL No license required Aurora IO Optimization Mode db r6g.large Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6g.large) 🌎
+  - Region added for metric [Database Instance Aurora MySQL No license required Aurora IO Optimization Mode Memory optimized Single-AZ Current Generation] Database Instance Aurora MySQL No license required Aurora IO Optimization Mode db r6g.16xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6g.16xlarge) 🌎
+  - Region added for metric [Database Instance Aurora MySQL No license required Aurora IO Optimization Mode General purpose Single-AZ Current Generation] Database Instance Aurora MySQL No license required Aurora IO Optimization Mode db t4g.medium General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t4g.medium) 🌎
+  - Region added for metric [Database Instance Aurora MySQL No license required Aurora IO Optimization Mode Memory optimized Single-AZ Current Generation] Database Instance Aurora MySQL No license required Aurora IO Optimization Mode db r6i.2xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.2xlarge) 🌎
+  - Region added for metric [Database Instance Aurora MySQL No license required Aurora IO Optimization Mode Memory optimized Single-AZ Current Generation] Database Instance Aurora MySQL No license required Aurora IO Optimization Mode db r6i.24xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.24xlarge) 🌎
+  - Region added for metric [Database Instance Aurora MySQL No license required Aurora IO Optimization Mode Memory optimized Single-AZ Current Generation] Database Instance Aurora MySQL No license required Aurora IO Optimization Mode db r6i.32xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.32xlarge) 🌎
+  - Region added for metric [Database Instance Aurora MySQL No license required Aurora IO Optimization Mode General purpose Single-AZ Current Generation] Database Instance Aurora MySQL No license required Aurora IO Optimization Mode db t3.medium General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t3.medium) 🌎
+  - Region added for metric [Database Instance Aurora MySQL No license required Aurora IO Optimization Mode General purpose Single-AZ Current Generation] Database Instance Aurora MySQL No license required Aurora IO Optimization Mode db t3.large General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t3.large) 🌎
+  - Region added for metric [Database Instance Aurora MySQL No license required Aurora IO Optimization Mode Memory optimized Single-AZ Current Generation] Database Instance Aurora MySQL No license required Aurora IO Optimization Mode db r6g.12xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6g.12xlarge) 🌎
+  - Region added for metric [Database Instance Aurora MySQL No license required Aurora IO Optimization Mode Memory optimized Single-AZ Current Generation] Database Instance Aurora MySQL No license required Aurora IO Optimization Mode db r7g.xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r7g.xlarge) 🌎
+  - Region added for metric [Database Instance Aurora MySQL No license required Aurora IO Optimization Mode Memory optimized Single-AZ Current Generation] Database Instance Aurora MySQL No license required Aurora IO Optimization Mode db r7g.large Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r7g.large) 🌎
+  - Region added for metric [Database Instance Aurora PostgreSQL No license required Aurora IO Optimization Mode Memory optimized Single-AZ Current Generation] Database Instance Aurora PostgreSQL No license required Aurora IO Optimization Mode db r7g.large Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r7g.large) 🌎
+  - Region added for metric [Database Instance Aurora PostgreSQL No license required Aurora IO Optimization Mode Memory optimized Single-AZ Current Generation] Database Instance Aurora PostgreSQL No license required Aurora IO Optimization Mode db r6g.2xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6g.2xlarge) 🌎
+  - Region added for metric [Database Instance Aurora PostgreSQL No license required Aurora IO Optimization Mode Memory optimized Single-AZ Current Generation]: Asia Pacific (Taipei) (Instance Type: db.r7i.16xlarge) 🌎
+  - Region added for metric [Database Instance Aurora PostgreSQL No license required Aurora IO Optimization Mode Memory optimized Single-AZ Current Generation]: Asia Pacific (Taipei) (Instance Type: db.r7i.48xlarge) 🌎
+  - Region added for metric [Database Instance Aurora PostgreSQL No license required Aurora IO Optimization Mode Memory optimized Single-AZ Current Generation]: Asia Pacific (Taipei) (Instance Type: db.r7i.8xlarge) 🌎
+  - Region added for metric [Database Instance Aurora PostgreSQL No license required Aurora IO Optimization Mode Memory optimized Single-AZ Current Generation]: Asia Pacific (Taipei) (Instance Type: db.r7i.xlarge) 🌎
+  - Region added for metric [Database Instance Aurora PostgreSQL No license required Aurora IO Optimization Mode Memory optimized Single-AZ Current Generation]: Asia Pacific (Taipei) (Instance Type: db.r7i.large) 🌎
+  - Region added for metric [Database Instance Aurora PostgreSQL No license required Aurora IO Optimization Mode Memory optimized Single-AZ Current Generation]: Asia Pacific (Taipei) (Instance Type: db.r7i.4xlarge) 🌎
+  - Region added for metric [Database Instance Aurora PostgreSQL No license required Aurora IO Optimization Mode Memory optimized Single-AZ Current Generation]: Asia Pacific (Taipei) (Instance Type: db.r7i.2xlarge) 🌎
+  - Region added for metric [Database Instance Aurora PostgreSQL No license required Aurora IO Optimization Mode Memory optimized Single-AZ Current Generation] Database Instance Aurora PostgreSQL No license required Aurora IO Optimization Mode db r6i.large Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.large) 🌎
+  - Region added for metric [Database Instance Aurora PostgreSQL No license required Aurora IO Optimization Mode Memory optimized Single-AZ Current Generation] Database Instance Aurora PostgreSQL No license required Aurora IO Optimization Mode db r6i.4xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.4xlarge) 🌎
+  - Region added for metric [Database Instance Aurora PostgreSQL No license required Aurora IO Optimization Mode Memory optimized Single-AZ Current Generation] Database Instance Aurora PostgreSQL No license required Aurora IO Optimization Mode db r6i.24xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.24xlarge) 🌎
+  - Region added for metric [Database Instance Aurora PostgreSQL No license required Aurora IO Optimization Mode Memory optimized Single-AZ Current Generation] Database Instance Aurora PostgreSQL No license required Aurora IO Optimization Mode db r6g.8xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6g.8xlarge) 🌎
+  - Region added for metric [Database Instance Aurora PostgreSQL No license required Aurora IO Optimization Mode Memory optimized Single-AZ Current Generation] Database Instance Aurora PostgreSQL No license required Aurora IO Optimization Mode db r6g.16xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6g.16xlarge) 🌎
+  - Region added for metric [Database Instance Aurora PostgreSQL No license required Aurora IO Optimization Mode Memory optimized Single-AZ Current Generation] Database Instance Aurora PostgreSQL No license required Aurora IO Optimization Mode db r6i.2xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.2xlarge) 🌎
+  - Region added for metric [Database Instance Aurora PostgreSQL No license required Aurora IO Optimization Mode General purpose Single-AZ Current Generation] Database Instance Aurora PostgreSQL No license required Aurora IO Optimization Mode db t4g.medium General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t4g.medium) 🌎
+  - Region added for metric [Database Instance Aurora PostgreSQL No license required Aurora IO Optimization Mode Memory optimized Single-AZ Current Generation] Database Instance Aurora PostgreSQL No license required Aurora IO Optimization Mode db r6i.16xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.16xlarge) 🌎
+  - Region added for metric [Database Instance Aurora PostgreSQL No license required Aurora IO Optimization Mode Memory optimized Single-AZ Current Generation] Database Instance Aurora PostgreSQL No license required Aurora IO Optimization Mode db r6g.large Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6g.large) 🌎
+  - Region added for metric [Database Instance Aurora PostgreSQL No license required Aurora IO Optimization Mode Memory optimized Single-AZ Current Generation] Database Instance Aurora PostgreSQL No license required Aurora IO Optimization Mode db r7g.xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r7g.xlarge) 🌎
+  - Region added for metric [Database Instance Aurora PostgreSQL No license required Aurora IO Optimization Mode Memory optimized Single-AZ Current Generation] Database Instance Aurora PostgreSQL No license required Aurora IO Optimization Mode db r6i.8xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.8xlarge) 🌎
+  - Region added for metric [Database Instance Aurora PostgreSQL No license required Aurora IO Optimization Mode General purpose Single-AZ Current Generation] Database Instance Aurora PostgreSQL No license required Aurora IO Optimization Mode db t3.large General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t3.large) 🌎
+  - Region added for metric [Database Instance Aurora PostgreSQL No license required Aurora IO Optimization Mode Memory optimized Single-AZ Current Generation] Database Instance Aurora PostgreSQL No license required Aurora IO Optimization Mode db r6g.12xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6g.12xlarge) 🌎
+  - Region added for metric [Database Instance Aurora PostgreSQL No license required Aurora IO Optimization Mode Memory optimized Single-AZ Current Generation] Database Instance Aurora PostgreSQL No license required Aurora IO Optimization Mode db r7g.8xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r7g.8xlarge) 🌎
+  - Region added for metric [Database Instance Aurora PostgreSQL No license required Aurora IO Optimization Mode Memory optimized Single-AZ Current Generation] Database Instance Aurora PostgreSQL No license required Aurora IO Optimization Mode db r7g.2xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r7g.2xlarge) 🌎
+  - Region added for metric [Database Instance Aurora PostgreSQL No license required Aurora IO Optimization Mode General purpose Single-AZ Current Generation] Database Instance Aurora PostgreSQL No license required Aurora IO Optimization Mode db t4g.large General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t4g.large) 🌎
+  - Region added for metric [Database Instance Aurora PostgreSQL No license required Aurora IO Optimization Mode Memory optimized Single-AZ Current Generation] Database Instance Aurora PostgreSQL No license required Aurora IO Optimization Mode db r7g.4xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r7g.4xlarge) 🌎
+  - Region added for metric [Database Instance Aurora PostgreSQL No license required Aurora IO Optimization Mode General purpose Single-AZ Current Generation] Database Instance Aurora PostgreSQL No license required Aurora IO Optimization Mode db t3.medium General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t3.medium) 🌎
+  - Region added for metric [Database Instance Aurora PostgreSQL No license required Aurora IO Optimization Mode Memory optimized Single-AZ Current Generation] Database Instance Aurora PostgreSQL No license required Aurora IO Optimization Mode db r6i.xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.xlarge) 🌎
+  - Region added for metric [Database Instance Aurora PostgreSQL No license required Aurora IO Optimization Mode Memory optimized Single-AZ Current Generation] Database Instance Aurora PostgreSQL No license required Aurora IO Optimization Mode db r7g.12xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r7g.12xlarge) 🌎
+  - Region added for metric [Database Instance Aurora PostgreSQL No license required Aurora IO Optimization Mode Memory optimized Single-AZ Current Generation] Database Instance Aurora PostgreSQL No license required Aurora IO Optimization Mode db r7g.16xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r7g.16xlarge) 🌎
+  - Region added for metric [Database Instance Aurora PostgreSQL No license required Aurora IO Optimization Mode Memory optimized R6GD Single-AZ Current Generation] Database Instance Aurora PostgreSQL No license required Aurora IO Optimization Mode db r6gd.xlarge Memory optimized R6GD Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6gd.xlarge) 🌎
+  - Region added for metric [Database Instance Aurora PostgreSQL No license required Aurora IO Optimization Mode Memory optimized R6id Single-AZ Current Generation] Database Instance Aurora PostgreSQL No license required Aurora IO Optimization Mode db r6id.32xlarge Memory optimized R6id Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6id.32xlarge) 🌎
+  - Region added for metric [Database Instance Aurora PostgreSQL No license required Aurora IO Optimization Mode Memory optimized R6GD Single-AZ Current Generation] Database Instance Aurora PostgreSQL No license required Aurora IO Optimization Mode db r6gd.8xlarge Memory optimized R6GD Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6gd.8xlarge) 🌎
+  - Region added for metric [Database Instance Aurora PostgreSQL No license required Aurora IO Optimization Mode Memory optimized R6GD Single-AZ Current Generation] Database Instance Aurora PostgreSQL No license required Aurora IO Optimization Mode db r6gd.4xlarge Memory optimized R6GD Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6gd.4xlarge) 🌎
+  - Region added for metric [Database Instance Aurora PostgreSQL No license required Aurora IO Optimization Mode Memory optimized R6id Single-AZ Current Generation] Database Instance Aurora PostgreSQL No license required Aurora IO Optimization Mode db r6id.24xlarge Memory optimized R6id Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6id.24xlarge) 🌎
+  - Region added for metric [Database Instance Aurora MySQL No license required General purpose Single-AZ Current Generation] Database Instance Aurora MySQL No license required db t3.medium General purpose Single-AZ Current Generation;Database Instance Aurora MySQL No license required db t3.medium Single-AZ current-: Asia Pacific (Taipei) (Instance Type: db.t3.medium) 🌎
+  - Region added for metric [Database Instance Aurora PostgreSQL No license required General purpose Single-AZ Current Generation] Database Instance Aurora PostgreSQL No license required db t3.large General purpose Single-AZ Current Generation;Database Instance Aurora PostgreSQL No license required db t3.large Single-AZ current-: Asia Pacific (Taipei) (Instance Type: db.t3.large) 🌎
+
+- [rds-db2-ondemand](processed/rds-db2-ondemand.json)
+  - Region added for metric -rkOxClFLxeh0i5MxJEj7iXSAOykNweRuxJYtsKkISo V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric 2uCwpCO1at2JXMT8KwQWtltN2fXFW1lastL4ECXe6ZY V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric 3qLc7ouxC_X_Cl0jDFeBnKBYsWEIErVzXJ6EZLIdI3E V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric 5RfCyQgkdILcXvWPxve4-tbBtCyDfhMcA6pK-uRQgH4 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric 5lLPo2kIQ98CDac72DiVBfv3Q5X-KtigegHOd8_OsRk V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric 63oyqHZ-_KeM3ITZlSff9mwuGkfd7abidAfj87CVa7c V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric 6vnkwe1Aph4GkGncsqRtA88iiylpUHpsDqmZWCCP8co V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric 91uQQ1YAvpMZw2qXPBKBaxtG2bv7pAeePXeAgxYFq24 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric AVhJOcMOfx5QMBXlt8rAFY_T2nYPE4J9jieSlqNGfB0 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric BHaPQlU0jeC4D-F6hDph0xRbMXeHajXMoabOQ41n49c V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric Bha05ymfBKfcRzXYZOJrqFpGRUbtiwwEr1s_Lle2U5s V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric BiguwLEtqaRARWKR_B9dSEe8m3gQyVBFMzYKoVf7imI V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric DmhWNfCCtHlI2btm7PAbe-xMqQa1rP9fGLshDiY2bp8 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric EYvfR3bgPy9tSWjDHLIdnMhmrz2EQYTuZvrfGQYPQDs V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric EfEQJmHDItV7rrt7sbcT9ph0fBFdxW7r6yYHUAUNLAM V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric GvBGwcZIqFc4NjYkmNb3YWCwgZt95NnFvNQYQlAfZUk V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric Ir_va-BQ0pnLFeAXr2bAEdwsqEk1FvCdrbBBvjnh9BI V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric K2uwPflyot9KqURCviUHpdUc3NtGbLnmlJ77qbG78bs V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric KFcXmtc43pM4ZbP3964gnmsIfFYOJJw8zBzp81oRktY V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric L2eV3bSbbRw6JyGkWVPVaQtchvadsloyXxvgFIbnpK8 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric MPo-rAiw6DKoFoaffZZAt0Nn1_XmnYELbGETpIwpvao V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric Pq7O6tknvMR6w3TEwqMKvUkJQb8djNVBAxhPoDnf2NY V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric RMkLrOUBKEzkEFswk-eipOZ4zNItWd10bkiJujzkc9Y V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric RSYxLm1KuvjPr4iIzCm1njpS9_wAaN1dbg0-bOguIeo V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric RuagrDrSuWAssNrUuRn4N-hvqxMRHzOD6FGIfwVBL5I V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric VEOErhpk8Wvsr0zcFC_ZLLVSFa2-4kwVcCRtZgE2Eao V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric W9xnJ0kDdRA8cHVw1vX-heqOJpqzKRhU98er4jcvWj8 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric ZO-p_TI26JusrjKq5WteuWppOW8qSXxLKWFpTl08aNs V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric _9LciuOQ1l4y6F1xf-Y98_Q_-oqzfdKG0WaT8DKjhXM V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric annXp-txapZaQQpv_Dhenfyjbl4Banhwt_NKZbPaoPg V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric bObgkSpmoYASOS4u4ndJ_S6rNZoTDYLw33A3OJ6SiIo V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric dQ23GiD4J3nTR4MYRwPK-hvKeeYi4TklDjtDnZIfams V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric e0-Xhifjr45vpsN1G_OY53MU4qudyJGoSwJLeFtj6nw V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric eLEc3deySBant312rEmKbjuZGkH13gIM2mKQpuR6LcA V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric epdGszdovbm5HNxb-5_WevfJLYFTsmWNLophEMjwLnE V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric fDck12ld3JbBw2xJO6tLuRQfex1eFs1TpQOmXmEdIxQ V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric jVo-LuTuBfvlYBHAo3wmczLWPEt-pB7hifmQNj8TQA0 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric lCtUNkQhnjp8M8IB4P3x0qW3yOK7AZqGc-CqXspxaqg V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric m0_Blx5ykko2W-wpuJb5IsQpSO3CGGpFHsB6lW9ASVo V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric m8btRses1vFvyKvKxfOipPqjWSOG47xe0LHtTnc7E6I V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric n9kwzoEw0bj8FIhvYL3GhbFOxa0MeZILrgCbI8uVCZc V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric qEx2E7EST1oGUbYv7K0j74P4SWKXpSBIwY70CFErBDI V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric rr8v9OuHF5GRJLFpFUn7DtjDPwygv7Qzwa28uY9A0Es V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric sK-u9vG_XISrMWZYIHHXC1-ufXdEjhBLoHORMIRA0YY V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric u04WLwQ1kBshkkZt50VKBD6iREGBbGEqiDtDqidr42A V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric vyA3iX9dK-YT3c95y_yvq7qxACctKq4jpAWc-tfAZmY V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric w0xM93xbSr-oK80Zh9htL7rQ-eLNVg4kHwLOAHmsqFo V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric wZ9jsT9kRwBueYvphKuUzEYEBlX49eFM54iXgYSbCng V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric xlDwUI5y8ng-mcDkcr3BJfhEFdNttBXQqCC1OWexBes V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric yyxvMCL-dp26RPkf7f9jKTytGp7PuQ-f5xiVXLVsqjg V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric zRGaq-fU3lXmY_4ZBMYkN2GH6FfC69FU2eXXSYkRukA V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric Database Instance Db2 Marketplace db t3.medium General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t3.medium, Memory: 4 GiB, vCPU: 2, Network Performance: Low to Moderate) 🌎
+  - Region added for metric Database Instance Db2 Bring your own license db t3.medium General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t3.medium, Memory: 4 GiB, vCPU: 2, Network Performance: Low to Moderate) 🌎
+  - Region added for metric Database Instance Db2 Bring your own license db r6i.24xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.24xlarge, Memory: 768 GiB, vCPU: 96, Network Performance: 37.5 Gbps) 🌎
+  - Region added for metric Database Instance Db2 Marketplace db m6i.16xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.16xlarge, Memory: 256 GiB, vCPU: 64, Network Performance: 25 Gbps) 🌎
+  - Region added for metric Database Instance Db2 Marketplace db t3.small General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t3.small, Memory: 2 GiB, vCPU: 2, Network Performance: Low to Moderate) 🌎
+  - Region added for metric Database Instance Db2 Bring your own license db m6i.4xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.4xlarge, Memory: 64 GiB, vCPU: 16, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance Db2 Marketplace db m6i.8xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.8xlarge, Memory: 128 GiB, vCPU: 32, Network Performance: 12.5 Gbps) 🌎
+  - Region added for metric Database Instance Db2 Bring your own license db m6i.32xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.32xlarge, Memory: 512 GiB, vCPU: 128, Network Performance: 50 Gbps) 🌎
+  - Region added for metric Database Instance Db2 Marketplace db r6i.2xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance Db2 Bring your own license db r6i.large Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance Db2 Marketplace db t3.medium General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t3.medium, Memory: 4 GiB, vCPU: 2, Network Performance: Low to Moderate) 🌎
+  - Region added for metric Database Instance Db2 Bring your own license db r6i.16xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: 25 Gbps) 🌎
+  - Region added for metric Database Instance Db2 Marketplace db m6i.12xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.12xlarge, Memory: 192 GiB, vCPU: 48, Network Performance: 18.75 Gbps) 🌎
+  - Region added for metric Database Instance Db2 Marketplace db m6i.32xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.32xlarge, Memory: 512 GiB, vCPU: 128, Network Performance: 50 Gbps) 🌎
+  - Region added for metric Database Instance Db2 Bring your own license db m6i.24xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.24xlarge, Memory: 384 GiB, vCPU: 96, Network Performance: 37.5 Gbps) 🌎
+  - Region added for metric Database Instance Db2 Marketplace db m6i.24xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.24xlarge, Memory: 384 GiB, vCPU: 96, Network Performance: 37.5 Gbps) 🌎
+  - Region added for metric Database Instance Db2 Bring your own license db m6i.32xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.32xlarge, Memory: 512 GiB, vCPU: 128, Network Performance: 50 Gbps) 🌎
+  - Region added for metric Database Instance Db2 Marketplace db m6i.large General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.large, Memory: 8 GiB, vCPU: 2, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance Db2 Marketplace db m6i.4xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.4xlarge, Memory: 64 GiB, vCPU: 16, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance Db2 Marketplace db m6i.4xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.4xlarge, Memory: 64 GiB, vCPU: 16, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance Db2 Bring your own license db m7i.12xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m7i.12xlarge, Memory: 192 GiB, vCPU: 48, Network Performance: 18.75 Gbps) 🌎
+  - Region added for metric Database Instance Db2 Bring your own license db r6i.32xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.32xlarge, Memory: 1024 GiB, vCPU: 128, Network Performance: 50 Gbps) 🌎
+  - Region added for metric Database Instance Db2 Bring your own license db m7i.4xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m7i.4xlarge, Memory: 64 GiB, vCPU: 16, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance Db2 Bring your own license db r6i.12xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: 18.75 Gbps) 🌎
+  - Region added for metric Database Instance Db2 Bring your own license db m7i.xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m7i.xlarge, Memory: 16 GiB, vCPU: 4, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance Db2 Bring your own license db r7i.4xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r7i.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance Db2 Bring your own license db r6i.large Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance Db2 Bring your own license db m6i.8xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.8xlarge, Memory: 128 GiB, vCPU: 32, Network Performance: 12.5 Gbps) 🌎
+  - Region added for metric Database Instance Db2 Bring your own license db r7i.2xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r7i.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance Db2 Bring your own license db r7i.24xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r7i.24xlarge, Memory: 768 GiB, vCPU: 96, Network Performance: 37.5 Gbps) 🌎
+  - Region added for metric Database Instance Db2 Marketplace db r6i.16xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: 25 Gbps) 🌎
+  - Region added for metric Database Instance Db2 Marketplace db t3.small General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t3.small, Memory: 2 GiB, vCPU: 2, Network Performance: Low to Moderate) 🌎
+  - Region added for metric Database Instance Db2 Bring your own license db m6i.xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.xlarge, Memory: 16 GiB, vCPU: 4, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance Db2 Marketplace db r6i.large Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance Db2 Marketplace db t3.2xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t3.2xlarge, Memory: 32 GiB, vCPU: 8, Network Performance: Moderate) 🌎
+  - Region added for metric Database Instance Db2 Marketplace db t3.large General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t3.large, Memory: 8 GiB, vCPU: 2, Network Performance: Low to Moderate) 🌎
+  - Region added for metric Database Instance Db2 Marketplace db r6i.4xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance Db2 Bring your own license db m7i.48xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m7i.48xlarge, Memory: 768 GiB, vCPU: 192, Network Performance: 50 Gbps) 🌎
+  - Region added for metric Database Instance Db2 Bring your own license db r6i.2xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance Db2 Bring your own license db m7i.2xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m7i.2xlarge, Memory: 32 GiB, vCPU: 8, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance Db2 Marketplace db m6i.32xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.32xlarge, Memory: 512 GiB, vCPU: 128, Network Performance: 50 Gbps) 🌎
+  - Region added for metric Database Instance Db2 Marketplace db r6i.12xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: 18.75 Gbps) 🌎
+  - Region added for metric Database Instance Db2 Bring your own license db t3.large General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t3.large, Memory: 8 GiB, vCPU: 2, Network Performance: Low to Moderate) 🌎
+  - Region added for metric Database Instance Db2 Marketplace db r6i.8xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: 12.5 Gbps) 🌎
+  - Region added for metric Database Instance Db2 Bring your own license db m6i.xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.xlarge, Memory: 16 GiB, vCPU: 4, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance Db2 Bring your own license db r7i.12xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r7i.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: 18.75 Gbps) 🌎
+  - Region added for metric Database Instance Db2 Bring your own license db m6i.12xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.12xlarge, Memory: 192 GiB, vCPU: 48, Network Performance: 18.75 Gbps) 🌎
+  - Region added for metric Database Instance Db2 Marketplace db r6i.4xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance Db2 Marketplace db r6i.12xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: 18.75 Gbps) 🌎
+  - Region added for metric Database Instance Db2 Marketplace db t3.xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t3.xlarge, Memory: 16 GiB, vCPU: 4, Network Performance: Moderate) 🌎
+  - Region added for metric Database Instance Db2 Marketplace db t3.2xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t3.2xlarge, Memory: 32 GiB, vCPU: 8, Network Performance: Moderate) 🌎
+  - Region added for metric Database Instance Db2 Bring your own license db m6i.large General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.large, Memory: 8 GiB, vCPU: 2, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance Db2 Marketplace db r6i.16xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: 25 Gbps) 🌎
+  - Region added for metric Database Instance Db2 Bring your own license db r6i.16xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: 25 Gbps) 🌎
+  - Region added for metric Database Instance Db2 Marketplace db r6i.24xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.24xlarge, Memory: 768 GiB, vCPU: 96, Network Performance: 37.5 Gbps) 🌎
+  - Region added for metric Database Instance Db2 Bring your own license db m6i.2xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.2xlarge, Memory: 32 GiB, vCPU: 8, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance Db2 Bring your own license db m7i.12xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m7i.12xlarge, Memory: 192 GiB, vCPU: 48, Network Performance: 18.75 Gbps) 🌎
+  - Region added for metric Database Instance Db2 Marketplace db r6i.24xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.24xlarge, Memory: 768 GiB, vCPU: 96, Network Performance: 37.5 Gbps) 🌎
+  - Region added for metric Database Instance Db2 Bring your own license db m6i.8xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.8xlarge, Memory: 128 GiB, vCPU: 32, Network Performance: 12.5 Gbps) 🌎
+  - Region added for metric Database Instance Db2 Bring your own license db t3.medium General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t3.medium, Memory: 4 GiB, vCPU: 2, Network Performance: Low to Moderate) 🌎
+  - Region added for metric Database Instance Db2 Marketplace db r6i.xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance Db2 Bring your own license db m7i.48xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m7i.48xlarge, Memory: 768 GiB, vCPU: 192, Network Performance: 50 Gbps) 🌎
+  - Region added for metric Database Instance Db2 Bring your own license db r6i.xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance Db2 Bring your own license db t3.2xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t3.2xlarge, Memory: 32 GiB, vCPU: 8, Network Performance: Moderate) 🌎
+  - Region added for metric Database Instance Db2 Bring your own license db r7i.xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r7i.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance Db2 Bring your own license db m7i.24xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m7i.24xlarge, Memory: 384 GiB, vCPU: 96, Network Performance: 37.5 Gbps) 🌎
+  - Region added for metric Database Instance Db2 Bring your own license db m7i.16xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m7i.16xlarge, Memory: 256 GiB, vCPU: 64, Network Performance: 25 Gbps) 🌎
+  - Region added for metric Database Instance Db2 Marketplace db t3.xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t3.xlarge, Memory: 16 GiB, vCPU: 4, Network Performance: Moderate) 🌎
+  - Region added for metric Database Instance Db2 Bring your own license db m7i.8xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m7i.8xlarge, Memory: 128 GiB, vCPU: 32, Network Performance: 12.5 Gbps) 🌎
+  - Region added for metric Database Instance Db2 Bring your own license db r7i.4xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r7i.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance Db2 Marketplace db r6i.2xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance Db2 Bring your own license db r6i.4xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance Db2 Bring your own license db m7i.16xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m7i.16xlarge, Memory: 256 GiB, vCPU: 64, Network Performance: 25 Gbps) 🌎
+  - Region added for metric Database Instance Db2 Marketplace db m6i.large General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.large, Memory: 8 GiB, vCPU: 2, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance Db2 Marketplace db m6i.xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.xlarge, Memory: 16 GiB, vCPU: 4, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance Db2 Marketplace db r6i.32xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.32xlarge, Memory: 1024 GiB, vCPU: 128, Network Performance: 50 Gbps) 🌎
+  - Region added for metric Database Instance Db2 Bring your own license db r6i.32xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.32xlarge, Memory: 1024 GiB, vCPU: 128, Network Performance: 50 Gbps) 🌎
+  - Region added for metric Database Instance Db2 Bring your own license db r7i.48xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r7i.48xlarge, Memory: 1536 GiB, vCPU: 192, Network Performance: 50 Gbps) 🌎
+  - Region added for metric Database Instance Db2 Bring your own license db r6i.8xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: 12.5 Gbps) 🌎
+  - Region added for metric Database Instance Db2 Marketplace db r6i.xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance Db2 Bring your own license db r7i.48xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r7i.48xlarge, Memory: 1536 GiB, vCPU: 192, Network Performance: 50 Gbps) 🌎
+  - Region added for metric Database Instance Db2 Bring your own license db m7i.8xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m7i.8xlarge, Memory: 128 GiB, vCPU: 32, Network Performance: 12.5 Gbps) 🌎
+  - Region added for metric Database Instance Db2 Marketplace db m6i.2xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.2xlarge, Memory: 32 GiB, vCPU: 8, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance Db2 Marketplace db m6i.8xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.8xlarge, Memory: 128 GiB, vCPU: 32, Network Performance: 12.5 Gbps) 🌎
+  - Region added for metric Database Instance Db2 Marketplace db m6i.xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.xlarge, Memory: 16 GiB, vCPU: 4, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance Db2 Bring your own license db r7i.2xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r7i.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance Db2 Bring your own license db r6i.12xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: 18.75 Gbps) 🌎
+  - Region added for metric Database Instance Db2 Marketplace db m6i.12xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.12xlarge, Memory: 192 GiB, vCPU: 48, Network Performance: 18.75 Gbps) 🌎
+  - Region added for metric Database Instance Db2 Bring your own license db m7i.24xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m7i.24xlarge, Memory: 384 GiB, vCPU: 96, Network Performance: 37.5 Gbps) 🌎
+  - Region added for metric Database Instance Db2 Bring your own license db r7i.16xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r7i.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: 25 Gbps) 🌎
+  - Region added for metric Database Instance Db2 Bring your own license db r6i.2xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance Db2 Bring your own license db r7i.16xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r7i.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: 25 Gbps) 🌎
+  - Region added for metric Database Instance Db2 Marketplace db r6i.32xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.32xlarge, Memory: 1024 GiB, vCPU: 128, Network Performance: 50 Gbps) 🌎
+  - Region added for metric Database Storage Multi AZ General Purpose-GP3 Advanced: Asia Pacific (Taipei) 🌎
+  - Region added for metric Database Storage Single AZ General Purpose-GP3 Advanced: Asia Pacific (Taipei) 🌎
+  - Region added for metric Provisioned GP3 IOPS Multi AZ Advanced: Asia Pacific (Taipei) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2 Advanced: Asia Pacific (Taipei) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ Advanced: Asia Pacific (Taipei) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS Advanced: Asia Pacific (Taipei) 🌎
+  - Region added for metric Provisioned IO2 IOPS Single AZ Advanced: Asia Pacific (Taipei) 🌎
+  - Region added for metric Database Storage Multi AZ Provisioned IOPS Advanced: Asia Pacific (Taipei) 🌎
+  - Region added for metric Provisioned GP3 IOPS Single AZ Advanced: Asia Pacific (Taipei) 🌎
+  - Region added for metric Provisioned IOPS Multi AZ Advanced: Asia Pacific (Taipei) 🌎
+  - Region added for metric Provisioned IOPS Single AZ Advanced: Asia Pacific (Taipei) 🌎
+  - Region added for metric Database Storage Multi AZ Provisioned IOPS-IO2 Advanced: Asia Pacific (Taipei) 🌎
+  - Region added for metric qH1Fb_w6gsIdXjYkWeTEer98-3fLmK4eh02KB5yW9eA V1: Asia Pacific (Taipei) 🌎
+  - Billing metric added: 2APzTtXFsS677yiwuepNtIziR9BKmPQxIC81Nyni9tg V1 💡
+  - Billing metric added: 2coSjHAwlVIudZIb_gkHi43kL6nO-vYXQkm2OqRZJA0 V1 💡
+  - Billing metric added: 2xbmTfTQM2WINeAuFlpeAof2mRsWOXcHVfCraAS65eY V1 💡
+  - Billing metric added: 7Yi8zUDbObB-gqOcCWLSeUi1DjHQ_KVJs9J5veW1-Do V1 💡
+  - Billing metric added: A7vkbCjdNeaui3GFHlQsIG5mduiGsKUGdW6VrQ6Ufdc V1 💡
+  - Billing metric added: AELO_8O9D0_liDyT8n6VRlCxKPITPN7rPLaP_1otrXY V1 💡
+  - Billing metric added: DcH5sU0oI70gA-kiiKPcQgVyWrx4DLyUwNqk-pf9ukQ V1 💡
+  - Billing metric added: EbOUfYV-DaGBK_dUNg58sJmzUPlNROjs5expHVarCC0 V1 💡
+  - Billing metric added: EhnfCrxG8DAZnFi3eEVLVmfnPNPDZ2XCrQQXAp1EIQU V1 💡
+  - Billing metric added: EiXhefIquMGL-C6U_0D_5dQS9FwMCaXZwnfWhjGBlIk V1 💡
+  - Billing metric added: Gk7kHycHYjhFbJHo-BEKLQvi7C3IOHf2U1U60T0bDns V1 💡
+  - Billing metric added: ILCKYvrag8-wg50QmqkWKrpYr_3Jbxv43R6CNxtr4WQ V1 💡
+  - Billing metric added: MnvK-b4LrwcAJYEDTXZrGSi8SBhekoTJ9dXZ8RIhCiM V1 💡
+  - Billing metric added: Nfeg89pw6n4ERG8tvQqQRtklrRWqdF7t35vn1ojhjXQ V1 💡
+  - Billing metric added: PWthpEkd1v5VDXRFRnoBum3TvP57FpKogLtZNAfULEQ V1 💡
+  - Billing metric added: Q5JdCEtCA1lTSLQS_wh31dvVkIpCNgAycZv5D7-pKHY V1 💡
+  - Billing metric added: QPPrga1kAaGBHO6UKxdXb0Q_rAeSlbABVsJDG402c9k V1 💡
+  - Billing metric added: SSt-3bVEcceETYAdCkTf8xa3LeOuTH-31gFVIBfp4eM V1 💡
+  - Billing metric added: UNm0yPcerF7Flfamk3ktZw07HoyZjaQJ1iRdzPCZnXw V1 💡
+  - Billing metric added: UPbMcjOjHfw9k3XtIkUBVb5XnbwzSlQoIOdUkVbwU5E V1 💡
+  - Billing metric added: UQYgGS2pgTN-FCDGaYSmXaNX9Aqbv8JYSNUda1wmYUE V1 💡
+  - Billing metric added: UdR0lnb9tMlR5LwrrmUlHiuDiH1nmwLzBpGkF727VgY V1 💡
+  - Billing metric added: Vvm4HKMIdRpvD36V6vFsOzsFvbnce-aI5gFAB8Znb1o V1 💡
+  - Billing metric added: XK1kef7_ylQXfQi3AMKtKPV8kOmVtXPc3ttb7nkIAxA V1 💡
+  - Billing metric added: YHrMg3cbeTvzoFfhqpdTjZ0Id04DIB82n7xvM2Gw2AI V1 💡
+  - Billing metric added: _N5rmjFfNuf0WbiSn1Bag4UDjtkrbcR9hIz-4J1Loq0 V1 💡
+  - Billing metric added: _TfFXXD8nEFnIZI5X90B3E-uJoJRYZIxLB1c88Phqj8 V1 💡
+  - Billing metric added: cNYCA38MYFejHnvNt7ifl4UHQ4phVs6G43cHbRzJn0s V1 💡
+  - Billing metric added: cyGwsAsU8DhQrKancfQBH-i83eYp7IXnB0-ppsuZ3cU V1 💡
+  - Billing metric added: dLJmpBhnYqU1GtpUylXsIN66Ib1uY5E2LJysHtqGo2U V1 💡
+  - Billing metric added: gweAeKx7xtaqCA1ipLvHsZBm235oBB2qxEqmYcqkqus V1 💡
+  - Billing metric added: hzk-XJoprK3lN65NgXhziKpdle-Xxex7pYx18Qzr18A V1 💡
+  - Billing metric added: jRrcmCNCR3yOYd0y675utNWx5kv-ZTBGTkZP80iIk0w V1 💡
+  - Billing metric added: jXugJpqYLfIVHcKzAIYGibRmnohYk48HucYvvAeHz_g V1 💡
+  - Billing metric added: lmfGnSoqtv_Lqm_JgL95rdRxNO-5iXcbfIlEsWyutrg V1 💡
+  - Billing metric added: mnccFDxV3yhpRLMlSF3J_hdZxCExvQ-W6kdtnM5nrk0 V1 💡
+  - Billing metric added: oLh8ma553UNMuyEu6Kbfc67D5EvocoJhgH_i0uAdMhY V1 💡
+  - Billing metric added: odbchIuzgzTDywo-MCP_K2yvjJsiE5VDJcAoOBQ_WA8 V1 💡
+  - Billing metric added: pLIbywgpHcS5UOt-giIbl7SUguKfYNEya7e5k6MMdn0 V1 💡
+  - Billing metric added: r69Um6u4_NnXWSsHtwWeLY9QitvASfwHBoQAwIPe5F4 V1 💡
+  - Billing metric added: rrU-QrS0KfHGKI5ZgQPB5viVks54grXYxzuJpS6g5Qk V1 💡
+  - Billing metric added: uvocrY677uhoqNTN8zTPCiDmwAVW2RKa-Tx_DZKt5zw V1 💡
+  - Billing metric added: y2_AIGA749QcVsez-Pr8zV1DBSY7AEeQ5E53VkYFP4s V1 💡
+  - Billing metric added: yxfnEU-U_tAe-Pg3d8z6_IH045Vz6Y2RU2eWtNb94aM V1 💡
+
+- [rds-mysql-ondemand](processed/rds-mysql-ondemand.json)
+  - Region added for metric 04Fr542JqNTAj3hbefJMBfYe3rFkxGOLrv-hfy16gWI V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric 0D756xSdFIrIn4fn0r0yvgJ5NRrASz5Hp0_xoFMSIXI V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric 0R1zOGxjNQUQUIHuGwMB8n9km2a2fcU3QKRT2hRGVgA V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric 2BD4x6K359HaQ4KUj01TTpscy-ZTu3PaEG_yHWP0ThI V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric 2mg15uTn9RkH1cyFGg2PzcjeNJ21qMlN74IiXSb74V0 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric 2uCwpCO1at2JXMT8KwQWtltN2fXFW1lastL4ECXe6ZY V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric 3qLc7ouxC_X_Cl0jDFeBnKBYsWEIErVzXJ6EZLIdI3E V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric 40tN5cvvbJdQpBvytRKGG6SH-Z0o8hkvetgnUaViPbs V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric 5KiRVBxHiTM-mKGq6DCMwoGOxXuwUsc0-HzjPMzr7Sc V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric 5RfCyQgkdILcXvWPxve4-tbBtCyDfhMcA6pK-uRQgH4 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric 5lLPo2kIQ98CDac72DiVBfv3Q5X-KtigegHOd8_OsRk V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric 6_RhSGqD5GwrSDB7JWAzP2xLEqZ8mHuf7aomJZ_bqgM V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric 7I_xVgKBZf1FrMQwYmVEL32FB3fBUTaXF28gUadx_oU V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric 7obTQLvnvDpoPC59TJTGuitMJLaIBLg6JAJ0XekB3rY V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric 8FGROlzvXDn7LBw27nF8i1C9RfkHSTzBJ0IgyWkOWXM V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric 9kcfu5u26m5SZ0c3C2evLCORr968EGmad4HHb0RaPeA V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric A4PILTtVZ4FKi6wjOiOtHj_dmKtIubiZ4xv2O0IPVD8 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric B6o_iYjRx4GB6cEnKqmYRDAQ48ZXqLKcQpZa3rSQ4oU V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric BiguwLEtqaRARWKR_B9dSEe8m3gQyVBFMzYKoVf7imI V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric BwMl2ilbBdwG9_LJdUNKJAyWaIMaPgcF8wDH-VqZOc0 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric D5FlQe2F8_F8Qa-ntWeywctoYaZVc7XMYWicj5OUscM V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric D_j_iDLS46DCrurUCzPMori52FKtHM6D5hrHiAJoFLY V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric DmhWNfCCtHlI2btm7PAbe-xMqQa1rP9fGLshDiY2bp8 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric EYvfR3bgPy9tSWjDHLIdnMhmrz2EQYTuZvrfGQYPQDs V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric EfEQJmHDItV7rrt7sbcT9ph0fBFdxW7r6yYHUAUNLAM V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric I0cqeXm9FHGVAoPVeUupBKizDPzx_59y6Ou_33V3rwY V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric Ir_va-BQ0pnLFeAXr2bAEdwsqEk1FvCdrbBBvjnh9BI V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric JMTRzo9YBPWxZ8dMSP1e_VU1blrhMDto0NfwKJK6d60 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric JnFESZ8fdVXYvX4S5aLuEqpTMGNIF5g_AWGVj1n-jPc V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric JvbTDJYZ-cowsmWHUnbUDlyyiGGUksXGibCa5QXf2HM V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric JwcO5-jFsraTdLcizaO1J3p5jXtXBr72jwPh3a5g3ng V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric K2uwPflyot9KqURCviUHpdUc3NtGbLnmlJ77qbG78bs V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric KNXbjyr4_Gi85ohauJv8_QcofQ86rLajJ00jCiL6h1E V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric KciPuZY4N6IVz9CSGLklSDvtYuIU05iWVumWOzpaLEo V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric L2eV3bSbbRw6JyGkWVPVaQtchvadsloyXxvgFIbnpK8 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric LNUGp2t-GFHA0DuJM5GTNSXrdABW1UNl6XlGvr2v1uU V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric MPo-rAiw6DKoFoaffZZAt0Nn1_XmnYELbGETpIwpvao V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric NFb3pa2H9gQYtPnyynQFJCvfSbHJZRNrsETgmyJe29Y V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric NxawPB42D7uHHqXDcZFk3datTcbwHuZRf0mM2Kxa9f8 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric PAPlx-y1PGX0X3sjLj_8oTbQFjcnj1QQx5JOn2ubwa0 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric RMkLrOUBKEzkEFswk-eipOZ4zNItWd10bkiJujzkc9Y V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric RSYxLm1KuvjPr4iIzCm1njpS9_wAaN1dbg0-bOguIeo V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric RuagrDrSuWAssNrUuRn4N-hvqxMRHzOD6FGIfwVBL5I V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric SgTESMzFJqYiEIM0UpdHolL_dCgO_TsPlYilCOZ8qHA V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric T2qPsc9GVxJ2pKHJLsinTSPtmtcE8SOvizmhxmcagfU V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric TDzw5mNDbR4SLJJuhynmMI2Mjfg-DbDAWkPBtXF4Au4 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric TlD2Q3MsWQedYN7MjmrdcTZAylilNxQAE-8uLH5-juE V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric TtHkIogcTXItps4wr0_qedVQu0PED9PPm4TrQQyXAmI V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric VIEMEi6Pz_Iva50qyXOTdmVw3CrvpCPOl2sqI8cRPYo V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric WBsM62k7SjGghwUZRrHgmZ0awhskDcjXzdcYtmAMhfI V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric XKAIbuAoBC1jmakD0J2hZ4vEIMCVuT8NiK5AB9zUGa8 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric XS9VmAdCquKc2qafGloCI_2PjKtRD0gH6LPcnkG1Jj4 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric XUfOVfJ3YaHmuyp3x_SjWIIhq6SwCbeiw8mSn3voWg8 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric YrS_AagZ3qTp8M4MBSATPHEGZKvFikEgnFfTTEs-W7Q V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric Z0yxqf8qmBvLkJE1s3UZVayOTf-0dsxBNY0WI243tA8 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric ZO-p_TI26JusrjKq5WteuWppOW8qSXxLKWFpTl08aNs V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric _zLweIpUMZGdoYP3NHvHfQnKmde3qQbtuZrJxDF4XyE V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric annXp-txapZaQQpv_Dhenfyjbl4Banhwt_NKZbPaoPg V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric b1jexfSkd6oSdy1JCcjw6YXmPkc7pwhnuj9x2Dun-Gw V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric banUqEzE98KC5FGj0VDyYhE-4dIqOIQSCmIAmhSj-2M V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric dQ23GiD4J3nTR4MYRwPK-hvKeeYi4TklDjtDnZIfams V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric e0-Xhifjr45vpsN1G_OY53MU4qudyJGoSwJLeFtj6nw V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric e0Zr7ZXcTAKHZg0pB37TOUm4UXEGPOq2OJeC1VaWHvg V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric ebUNd6vO0Smc7kLAXPvF777MkWi0jBv59kROXhZCT5o V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric fRjQ9csE0lK4OVcs9q75rpX-f7lH1k7e659Ia5p1puM V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric ffDWQzlDrfAmJ0rzWzT4zed_utBYtMUoQtm9FWDXEsU V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric gh5KWxcnafbKhACAMmVB9LzdZ-6QtNZE5jVzgOkIFeg V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric idK1D2ArD6Y82ERNfsx4BTHl_RM8thQblBzOHjwhVQc V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric irESFRo-3ECHod1OrT8ozbVkzWLv9WYgQtWES6X5C3k V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric lw3R2ZhWgKtgC_zyDbUYLfaLYjM9V-pl5ZKp0Otn_jw V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric lzKeKwJnD0Yz8I4w4tzrLhrsbx6hT7fNUk9A2QrrYl8 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric m0_Blx5ykko2W-wpuJb5IsQpSO3CGGpFHsB6lW9ASVo V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric m0bKw7bbQMy-bzZ6eQUyro51fLGSN03FoboEhLM7zkk V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric qEx2E7EST1oGUbYv7K0j74P4SWKXpSBIwY70CFErBDI V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric r1acpAjUJMWu6HzZWB_WWeeiSTchU4SweKeiEokSywg V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric r47koz-weGQuI6uPlSPBRi6E--mbSGNUmF-n_cAuvZQ V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric rEdYLLWoAu4Ubj7DT5dci3k103hyEpEIcCQ0ilG5xBI V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric rr8v9OuHF5GRJLFpFUn7DtjDPwygv7Qzwa28uY9A0Es V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric s4XvShUUNh5M_pgrVgfp4-15ak-yqDSRbWrC29F_oNI V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric sK-u9vG_XISrMWZYIHHXC1-ufXdEjhBLoHORMIRA0YY V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric sLRt1onShImYxr0FTwrOQVdIqKIdyrK0lBtqB7b0Z8U V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric swcCaNyGMl4Rb8INIscY5U0jrIh6JoxjwrxMfl2q9j8 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric tRZJBPPZx8FaLsr1ArvxiZDQ40emRz1ZRgAGrNNSa2Q V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric taAkD2uxN8KYur24VHKTzn8vqPc-Ka19gzN-WfmKRis V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric uS7VLAtRHduh7AVBqrDKnOVzEhvHghiSyyJn3CV0cAc V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric uW2jqC6e0uraeLodYWQd8BCRAxHrOwSSKp3__XGXgos V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric ubW-z3N6cfPv2xLYRwVFUFmMwUPWo4d1xbyQxKvtDoI V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric vyA3iX9dK-YT3c95y_yvq7qxACctKq4jpAWc-tfAZmY V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric w0xM93xbSr-oK80Zh9htL7rQ-eLNVg4kHwLOAHmsqFo V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric wXCucOVKGLn9gBKZrykNaaWmSZUC9yGbLFIQhJ6iY4o V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric wkpxRhIbH3R3W9OGivAPY9T1m4dosrfViBEXA1m5iWU V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric x-fV2fP-MKHX3GVZDFB1lz0i3ROb1LAAbt4Yrohevkw V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric xlDwUI5y8ng-mcDkcr3BJfhEFdNttBXQqCC1OWexBes V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric y3zu12WRIf-BYpj-5DNOKEQFEBM0DoM7xuF1EjzM6ug V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric yhGZ6kigrL_tyuF_w1lbkrogTbuZW1yhBemwTo8tnTg V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric ym1QkiZsvUZSBu7egKudjvBTfKZeDwQfStE3r11sk-U V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric yqIo_VoixGMLbO42g9r20WFPcr3led3WkMelRZoxIG8 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric zRGaq-fU3lXmY_4ZBMYkN2GH6FfC69FU2eXXSYkRukA V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric Database Instance MySQL No license required db m7i.8xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m7i.8xlarge, Memory: 128 GiB, vCPU: 32, Network Performance: 12.5 Gbps) 🌎
+  - Region added for metric Database Instance MySQL No license required db r6gd.8xlarge Memory optimized Multi-AZ readable standbys Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6gd.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: 10 Gigabit) 🌎
+  - Region added for metric Database Instance MySQL No license required db r6i.16xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: 25 Gbps) 🌎
+  - Region added for metric Database Instance MySQL No license required db r6id.large Memory optimized Multi-AZ readable standbys Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6id.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance MySQL No license required db r6g.large Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6g.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit) 🌎
+  - Region added for metric Database Instance MySQL No license required db m6g.4xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6g.4xlarge, Memory: 64 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit) 🌎
+  - Region added for metric Database Instance MySQL No license required db r6gd.16xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6gd.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: 25 Gigabit) 🌎
+  - Region added for metric Database Instance MySQL No license required db r6id.32xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6id.32xlarge, Memory: 1024 GiB, vCPU: 128, Network Performance: 50 Gbps) 🌎
+  - Region added for metric Database Instance MySQL No license required db r6g.16xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6g.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: 25 Gigabit) 🌎
+  - Region added for metric Database Instance MySQL No license required db m6i.24xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.24xlarge, Memory: 384 GiB, vCPU: 96, Network Performance: 37.5 Gbps) 🌎
+  - Region added for metric Database Instance MySQL No license required db m7g.8xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m7g.8xlarge, Memory: 128 GiB, vCPU: 32, Network Performance: 15 Gigabit) 🌎
+  - Region added for metric Database Instance MySQL No license required db m6i.4xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.4xlarge, Memory: 64 GiB, vCPU: 16, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance MySQL No license required db r6g.2xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6g.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit) 🌎
+  - Region added for metric Database Instance MySQL No license required db r7i.8xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r7i.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: 12.5 Gbps) 🌎
+  - Region added for metric Database Instance MySQL No license required db r6i.large Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance MySQL No license required db m7i.4xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m7i.4xlarge, Memory: 64 GiB, vCPU: 16, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance MySQL No license required db r7i.48xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r7i.48xlarge, Memory: 1536 GiB, vCPU: 192, Network Performance: 50 Gbps) 🌎
+  - Region added for metric Database Instance MySQL No license required db r6i.large Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance MySQL No license required db r6i.4xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance MySQL No license required db m6id.8xlarge General purpose Multi-AZ readable standbys Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6id.8xlarge, Memory: 128 GiB, vCPU: 32, Network Performance: 12.5 Gbps) 🌎
+  - Region added for metric Database Instance MySQL No license required db r6id.2xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6id.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance MySQL No license required db r6i.8xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: 12.5 Gbps) 🌎
+  - Region added for metric Database Instance MySQL No license required db m6gd.2xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6gd.2xlarge, Memory: 32 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit) 🌎
+  - Region added for metric Database Instance MySQL No license required db m6i.large General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.large, Memory: 8 GiB, vCPU: 2, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance MySQL No license required db r6id.24xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6id.24xlarge, Memory: 768 GiB, vCPU: 96, Network Performance: 37.5 Gbps) 🌎
+  - Region added for metric Database Instance MySQL No license required db t3.medium General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t3.medium, Memory: 4 GiB, vCPU: 2, Network Performance: Low to Moderate) 🌎
+  - Region added for metric Database Instance MySQL No license required db m6g.8xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6g.8xlarge, Memory: 128 GiB, vCPU: 32, Network Performance: 10 Gigabit) 🌎
+  - Region added for metric Database Instance MySQL No license required db m6id.24xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6id.24xlarge, Memory: 384 GiB, vCPU: 96, Network Performance: 37.5 Gbps) 🌎
+  - Region added for metric Database Instance MySQL No license required db r6gd.large Memory optimized Multi-AZ readable standbys Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6gd.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit) 🌎
+  - Region added for metric Database Instance MySQL No license required db m6gd.16xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6gd.16xlarge, Memory: 256 GiB, vCPU: 64, Network Performance: 25 Gigabit) 🌎
+  - Region added for metric Database Instance MySQL No license required db t3.medium General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t3.medium, Memory: 4 GiB, vCPU: 2, Network Performance: Low to Moderate) 🌎
+  - Region added for metric Database Instance MySQL No license required db r6i.8xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: 12.5 Gbps) 🌎
+  - Region added for metric Database Instance MySQL No license required db r7i.48xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r7i.48xlarge, Memory: 1536 GiB, vCPU: 192, Network Performance: 50 Gbps) 🌎
+  - Region added for metric Database Instance MySQL No license required db m6gd.16xlarge General purpose Multi-AZ readable standbys Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6gd.16xlarge, Memory: 256 GiB, vCPU: 64, Network Performance: 25 Gigabit) 🌎
+  - Region added for metric Database Instance MySQL No license required db m6i.2xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.2xlarge, Memory: 32 GiB, vCPU: 8, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance MySQL No license required db t4g.large General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t4g.large, Memory: 8 GiB, vCPU: 2, Network Performance: Up to 5 Gigabit) 🌎
+  - Region added for metric Database Instance MySQL No license required db m7i.large General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m7i.large, Memory: 8 GiB, vCPU: 2, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance MySQL No license required db m6i.32xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.32xlarge, Memory: 512 GiB, vCPU: 128, Network Performance: 50 Gbps) 🌎
+  - Region added for metric Database Instance MySQL No license required db r6id.8xlarge Memory optimized Multi-AZ readable standbys Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6id.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: 12.5 Gbps) 🌎
+  - Region added for metric Database Instance MySQL No license required db r7i.24xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r7i.24xlarge, Memory: 768 GiB, vCPU: 96, Network Performance: 37.5 Gbps) 🌎
+  - Region added for metric Database Instance MySQL No license required db m6id.16xlarge General purpose Multi-AZ readable standbys Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6id.16xlarge, Memory: 256 GiB, vCPU: 64, Network Performance: 25 Gbps) 🌎
+  - Region added for metric Database Instance MySQL No license required db r7i.24xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r7i.24xlarge, Memory: 768 GiB, vCPU: 96, Network Performance: 37.5 Gbps) 🌎
+  - Region added for metric Database Instance MySQL No license required db r6id.12xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6id.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: 18.75 Gbps) 🌎
+  - Region added for metric Database Instance MySQL No license required db r7i.12xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r7i.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: 18.75 Gbps) 🌎
+  - Region added for metric Database Instance MySQL No license required db t3.large General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t3.large, Memory: 8 GiB, vCPU: 2, Network Performance: Low to Moderate) 🌎
+  - Region added for metric Database Instance MySQL No license required db r6id.12xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6id.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: 18.75 Gbps) 🌎
+  - Region added for metric Database Instance MySQL No license required db r7g.16xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r7g.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: 30 Gigabit) 🌎
+  - Region added for metric Database Instance MySQL No license required db r6id.32xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6id.32xlarge, Memory: 1024 GiB, vCPU: 128, Network Performance: 50 Gbps) 🌎
+  - Region added for metric Database Instance MySQL No license required db m6i.16xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.16xlarge, Memory: 256 GiB, vCPU: 64, Network Performance: 25 Gbps) 🌎
+  - Region added for metric Database Instance MySQL No license required db r6id.large Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6id.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance MySQL No license required db m7g.12xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m7g.12xlarge, Memory: 192 GiB, vCPU: 48, Network Performance: 20 Gigabit) 🌎
+  - Region added for metric Database Instance MySQL No license required db m6id.4xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6id.4xlarge, Memory: 64 GiB, vCPU: 16, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance MySQL No license required db t4g.xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t4g.xlarge, Memory: 16 GiB, vCPU: 4, Network Performance: Up to 5 Gigabit) 🌎
+  - Region added for metric Database Instance MySQL No license required db r6gd.xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6gd.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit) 🌎
+  - Region added for metric Database Instance MySQL No license required db r7i.large Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r7i.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance MySQL No license required db r6id.xlarge Memory optimized Multi-AZ readable standbys Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6id.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance MySQL No license required db m6g.16xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6g.16xlarge, Memory: 256 GiB, vCPU: 64, Network Performance: 25 Gigabit) 🌎
+  - Region added for metric Database Instance MySQL No license required db r6id.4xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6id.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance MySQL No license required db t3.small General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t3.small, Memory: 2 GiB, vCPU: 2, Network Performance: Low to Moderate) 🌎
+  - Region added for metric Database Instance MySQL No license required db m6i.12xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.12xlarge, Memory: 192 GiB, vCPU: 48, Network Performance: 18.75 Gbps) 🌎
+  - Region added for metric Database Instance MySQL No license required db r7i.8xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r7i.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: 12.5 Gbps) 🌎
+  - Region added for metric Database Instance MySQL No license required db r6gd.4xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6gd.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit) 🌎
+  - Region added for metric Database Instance MySQL No license required db m6id.xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6id.xlarge, Memory: 16 GiB, vCPU: 4, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance MySQL No license required db m6id.16xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6id.16xlarge, Memory: 256 GiB, vCPU: 64, Network Performance: 25 Gbps) 🌎
+  - Region added for metric Database Instance MySQL No license required db m6id.4xlarge General purpose Multi-AZ readable standbys Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6id.4xlarge, Memory: 64 GiB, vCPU: 16, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance MySQL No license required db m6i.32xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.32xlarge, Memory: 512 GiB, vCPU: 128, Network Performance: 50 Gbps) 🌎
+  - Region added for metric Database Instance MySQL No license required db m6id.12xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6id.12xlarge, Memory: 192 GiB, vCPU: 48, Network Performance: 18.75 Gbps) 🌎
+  - Region added for metric Database Instance MySQL No license required db m6gd.12xlarge General purpose Multi-AZ readable standbys Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6gd.12xlarge, Memory: 192 GiB, vCPU: 48, Network Performance: 12 gigabit) 🌎
+  - Region added for metric Database Instance MySQL No license required db m6g.xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6g.xlarge, Memory: 16 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit) 🌎
+  - Region added for metric Database Instance MySQL No license required db m6i.xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.xlarge, Memory: 16 GiB, vCPU: 4, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance MySQL No license required db t4g.medium General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t4g.medium, Memory: 4 GiB, vCPU: 2, Network Performance: Up to 5 Gigabit) 🌎
+  - Region added for metric Database Instance MySQL No license required db m6g.xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6g.xlarge, Memory: 16 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit) 🌎
+  - Region added for metric Database Instance MySQL No license required db r7i.16xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r7i.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: 25 Gbps) 🌎
+  - Region added for metric Database Instance MySQL No license required db m6id.large General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6id.large, Memory: 8 GiB, vCPU: 2, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance MySQL No license required db r6id.16xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6id.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: 25 Gbps) 🌎
+  - Region added for metric Database Instance MySQL No license required db t3.2xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t3.2xlarge, Memory: 32 GiB, vCPU: 8, Network Performance: Moderate) 🌎
+  - Region added for metric Database Instance MySQL No license required db r6id.32xlarge Memory optimized Multi-AZ readable standbys Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6id.32xlarge, Memory: 1024 GiB, vCPU: 128, Network Performance: 50 Gbps) 🌎
+  - Region added for metric Database Instance MySQL No license required db r6gd.12xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6gd.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: 20 Gigabit) 🌎
+  - Region added for metric Database Instance MySQL No license required db m6g.12xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6g.12xlarge, Memory: 192 GiB, vCPU: 48, Network Performance: 12 gigabit) 🌎
+  - Region added for metric Database Instance MySQL No license required db r6gd.large Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6gd.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit) 🌎
+  - Region added for metric Database Instance MySQL No license required db m6i.4xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.4xlarge, Memory: 64 GiB, vCPU: 16, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance MySQL No license required db m7i.12xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m7i.12xlarge, Memory: 192 GiB, vCPU: 48, Network Performance: 18.75 Gbps) 🌎
+  - Region added for metric Database Instance MySQL No license required db m6g.large General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6g.large, Memory: 8 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit) 🌎
+  - Region added for metric Database Instance MySQL No license required db m7i.xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m7i.xlarge, Memory: 16 GiB, vCPU: 4, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance MySQL No license required db r7g.xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r7g.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 12.5 Gigabit) 🌎
+  - Region added for metric Database Instance MySQL No license required db m6gd.large General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6gd.large, Memory: 8 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit) 🌎
+  - Region added for metric Database Instance MySQL No license required db r6g.8xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6g.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: 10 Gigabit) 🌎
+  - Region added for metric Database Instance MySQL No license required db m6gd.4xlarge General purpose Multi-AZ readable standbys Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6gd.4xlarge, Memory: 64 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit) 🌎
+  - Region added for metric Database Instance MySQL No license required db r6gd.8xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6gd.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: 10 Gigabit) 🌎
+  - Region added for metric Database Instance MySQL No license required db t3.xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t3.xlarge, Memory: 16 GiB, vCPU: 4, Network Performance: Moderate) 🌎
+  - Region added for metric Database Instance MySQL No license required db r7i.4xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r7i.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance MySQL No license required db m6g.16xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6g.16xlarge, Memory: 256 GiB, vCPU: 64, Network Performance: 25 Gigabit) 🌎
+  - Region added for metric Database Instance MySQL No license required db r6gd.2xlarge Memory optimized Multi-AZ readable standbys Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6gd.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit) 🌎
+  - Region added for metric Database Instance MySQL No license required db r6id.24xlarge Memory optimized Multi-AZ readable standbys Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6id.24xlarge, Memory: 768 GiB, vCPU: 96, Network Performance: 37.5 Gbps) 🌎
+  - Region added for metric Database Instance MySQL No license required db r7i.2xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r7i.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance MySQL No license required db t3.small General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t3.small, Memory: 2 GiB, vCPU: 2, Network Performance: Low to Moderate) 🌎
+  - Region added for metric Database Instance MySQL No license required db m6id.24xlarge General purpose Multi-AZ readable standbys Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6id.24xlarge, Memory: 384 GiB, vCPU: 96, Network Performance: 37.5 Gbps) 🌎
+  - Region added for metric Database Instance MySQL No license required db r6i.4xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance MySQL No license required db m6i.8xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.8xlarge, Memory: 128 GiB, vCPU: 32, Network Performance: 12.5 Gbps) 🌎
+  - Region added for metric Database Instance MySQL No license required db r6gd.4xlarge Memory optimized Multi-AZ readable standbys Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6gd.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit) 🌎
+  - Region added for metric Database Instance MySQL No license required db r6id.xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6id.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance MySQL No license required db r6id.8xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6id.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: 12.5 Gbps) 🌎
+  - Region added for metric Database Instance MySQL No license required db m7g.xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m7g.xlarge, Memory: 16 GiB, vCPU: 4, Network Performance: Up to 12.5 Gigabit) 🌎
+  - Region added for metric Database Instance MySQL No license required db m7i.24xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m7i.24xlarge, Memory: 384 GiB, vCPU: 96, Network Performance: 37.5 Gbps) 🌎
+  - Region added for metric Database Instance MySQL No license required db m7i.48xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m7i.48xlarge, Memory: 768 GiB, vCPU: 192, Network Performance: 50 Gbps) 🌎
+  - Region added for metric Database Instance MySQL No license required db r6g.4xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6g.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit) 🌎
+  - Region added for metric Database Instance MySQL No license required db r7i.xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r7i.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance MySQL No license required db m7g.2xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m7g.2xlarge, Memory: 32 GiB, vCPU: 8, Network Performance: Up to 15 Gigabit) 🌎
+  - Region added for metric Database Instance MySQL No license required db m6id.8xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6id.8xlarge, Memory: 128 GiB, vCPU: 32, Network Performance: 12.5 Gbps) 🌎
+  - Region added for metric Database Instance MySQL No license required db m6gd.2xlarge General purpose Multi-AZ readable standbys Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6gd.2xlarge, Memory: 32 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit) 🌎
+  - Region added for metric Database Instance MySQL No license required db m6gd.xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6gd.xlarge, Memory: 16 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit) 🌎
+  - Region added for metric Database Instance MySQL No license required db r6gd.16xlarge Memory optimized Multi-AZ readable standbys Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6gd.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: 25 Gigabit) 🌎
+  - Region added for metric Database Instance MySQL No license required db r7g.8xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r7g.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: 15 Gigabit) 🌎
+  - Region added for metric Database Instance MySQL No license required db m6id.12xlarge General purpose Multi-AZ readable standbys Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6id.12xlarge, Memory: 192 GiB, vCPU: 48, Network Performance: 18.75 Gbps) 🌎
+  - Region added for metric Database Instance MySQL No license required db m7i.2xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m7i.2xlarge, Memory: 32 GiB, vCPU: 8, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance MySQL No license required db m7g.16xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m7g.16xlarge, Memory: 256 GiB, vCPU: 64, Network Performance: 25 Gigabit) 🌎
+  - Region added for metric Database Instance MySQL No license required db m6id.2xlarge General purpose Multi-AZ readable standbys Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6id.2xlarge, Memory: 32 GiB, vCPU: 8, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance MySQL No license required db r7g.4xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r7g.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 15 Gigabit) 🌎
+  - Region added for metric Database Instance MySQL No license required db m6id.2xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6id.2xlarge, Memory: 32 GiB, vCPU: 8, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance MySQL No license required db t4g.medium General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t4g.medium, Memory: 4 GiB, vCPU: 2, Network Performance: Up to 5 Gigabit) 🌎
+  - Region added for metric Database Instance MySQL No license required db m7g.12xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m7g.12xlarge, Memory: 192 GiB, vCPU: 48, Network Performance: 20 Gigabit) 🌎
+  - Region added for metric Database Instance MySQL No license required db r6gd.12xlarge Memory optimized Multi-AZ readable standbys Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6gd.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: 20 Gigabit) 🌎
+  - Region added for metric Database Instance MySQL No license required db r7i.16xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r7i.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: 25 Gbps) 🌎
+  - Region added for metric Database Instance MySQL No license required db r6g.12xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6g.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: 20 Gigabit) 🌎
+  - Region added for metric Database Instance MySQL No license required db r6g.2xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6g.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit) 🌎
+  - Region added for metric Database Instance MySQL No license required db m6i.2xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.2xlarge, Memory: 32 GiB, vCPU: 8, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance MySQL No license required db r7i.xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r7i.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance MySQL No license required db m7g.4xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m7g.4xlarge, Memory: 64 GiB, vCPU: 16, Network Performance: Up to 15 Gigabit) 🌎
+  - Region added for metric Database Instance MySQL No license required db m7g.large General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m7g.large, Memory: 8 GiB, vCPU: 2, Network Performance: Up to 12.5 Gigabit) 🌎
+  - Region added for metric Database Instance MySQL No license required db m6id.4xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6id.4xlarge, Memory: 64 GiB, vCPU: 16, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance MySQL No license required db t3.xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t3.xlarge, Memory: 16 GiB, vCPU: 4, Network Performance: Moderate) 🌎
+  - Region added for metric Database Instance MySQL No license required db m7g.2xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m7g.2xlarge, Memory: 32 GiB, vCPU: 8, Network Performance: Up to 15 Gigabit) 🌎
+  - Region added for metric Database Instance MySQL No license required db r6g.large Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6g.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit) 🌎
+  - Region added for metric Database Instance MySQL No license required db t4g.large General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t4g.large, Memory: 8 GiB, vCPU: 2, Network Performance: Up to 5 Gigabit) 🌎
+  - Region added for metric Database Instance MySQL No license required db m7i.2xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m7i.2xlarge, Memory: 32 GiB, vCPU: 8, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance MySQL No license required db r6gd.4xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6gd.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit) 🌎
+  - Region added for metric Database Instance MySQL No license required db r7i.2xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r7i.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance MySQL No license required db r6id.4xlarge Memory optimized Multi-AZ readable standbys Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6id.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance MySQL No license required db r6i.24xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.24xlarge, Memory: 768 GiB, vCPU: 96, Network Performance: 37.5 Gbps) 🌎
+  - Region added for metric Database Instance MySQL No license required db m6g.2xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6g.2xlarge, Memory: 32 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit) 🌎
+  - Region added for metric Database Instance MySQL No license required db m6gd.4xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6gd.4xlarge, Memory: 64 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit) 🌎
+  - Region added for metric Database Instance MySQL No license required db t4g.xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t4g.xlarge, Memory: 16 GiB, vCPU: 4, Network Performance: Up to 5 Gigabit) 🌎
+  - Region added for metric Database Instance MySQL No license required db m7i.4xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m7i.4xlarge, Memory: 64 GiB, vCPU: 16, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance MySQL No license required db r7g.12xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r7g.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: 22.5 Gigabit) 🌎
+  - Region added for metric Database Instance MySQL No license required db m6gd.xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6gd.xlarge, Memory: 16 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit) 🌎
+  - Region added for metric Database Instance MySQL No license required db m7g.4xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m7g.4xlarge, Memory: 64 GiB, vCPU: 16, Network Performance: Up to 15 Gigabit) 🌎
+  - Region added for metric Database Instance MySQL No license required db m7i.16xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m7i.16xlarge, Memory: 256 GiB, vCPU: 64, Network Performance: 25 Gbps) 🌎
+  - Region added for metric Database Instance MySQL No license required db r6gd.xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6gd.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit) 🌎
+  - Region added for metric Database Instance MySQL No license required db m6i.16xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.16xlarge, Memory: 256 GiB, vCPU: 64, Network Performance: 25 Gbps) 🌎
+  - Region added for metric Database Instance MySQL No license required db m7g.16xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m7g.16xlarge, Memory: 256 GiB, vCPU: 64, Network Performance: 25 Gigabit) 🌎
+  - Region added for metric Database Instance MySQL No license required db t4g.2xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t4g.2xlarge, Memory: 32 GiB, vCPU: 8, Network Performance: Up to 5 Gigabit) 🌎
+  - Region added for metric Database Instance MySQL No license required db r6g.8xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6g.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: 10 Gigabit) 🌎
+  - Region added for metric Database Instance MySQL No license required db m6gd.8xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6gd.8xlarge, Memory: 128 GiB, vCPU: 32, Network Performance: 10 Gigabit) 🌎
+  - Region added for metric Database Instance MySQL No license required db r6gd.12xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6gd.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: 20 Gigabit) 🌎
+  - Region added for metric Database Instance MySQL No license required db r6id.large Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6id.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance MySQL No license required db r6gd.2xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6gd.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit) 🌎
+  - Region added for metric Database Instance MySQL No license required db m6gd.12xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6gd.12xlarge, Memory: 192 GiB, vCPU: 48, Network Performance: 12 gigabit) 🌎
+  - Region added for metric Database Instance MySQL No license required db m6gd.2xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6gd.2xlarge, Memory: 32 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit) 🌎
+  - Region added for metric Database Instance MySQL No license required db m6id.xlarge General purpose Multi-AZ readable standbys Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6id.xlarge, Memory: 16 GiB, vCPU: 4, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance MySQL No license required db m6id.16xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6id.16xlarge, Memory: 256 GiB, vCPU: 64, Network Performance: 25 Gbps) 🌎
+  - Region added for metric Database Instance MySQL No license required db r6i.xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance MySQL No license required db m6id.32xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6id.32xlarge, Memory: 512 GiB, vCPU: 128, Network Performance: 50 Gbps) 🌎
+  - Region added for metric Database Instance MySQL No license required db r6g.xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6g.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit) 🌎
+  - Region added for metric Database Instance MySQL No license required db m6g.4xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6g.4xlarge, Memory: 64 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit) 🌎
+  - Region added for metric Database Instance MySQL No license required db m6gd.large General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6gd.large, Memory: 8 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit) 🌎
+  - Region added for metric Database Instance MySQL No license required db t4g.small General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t4g.small, Memory: 2 GiB, vCPU: 2, Network Performance: Up to 5 Gigabit) 🌎
+  - Region added for metric Database Instance MySQL No license required db m7i.16xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m7i.16xlarge, Memory: 256 GiB, vCPU: 64, Network Performance: 25 Gbps) 🌎
+  - Region added for metric Database Instance MySQL No license required db r6id.16xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6id.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: 25 Gbps) 🌎
+  - Region added for metric Database Instance MySQL No license required db m7i.12xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m7i.12xlarge, Memory: 192 GiB, vCPU: 48, Network Performance: 18.75 Gbps) 🌎
+  - Region added for metric Database Instance MySQL No license required db r7g.16xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r7g.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: 30 Gigabit) 🌎
+  - Region added for metric Database Instance MySQL No license required db r6i.12xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: 18.75 Gbps) 🌎
+  - Region added for metric Database Instance MySQL No license required db r7g.large Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r7g.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 12.5 Gigabit) 🌎
+  - Region added for metric Database Instance MySQL No license required db r6i.16xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: 25 Gbps) 🌎
+  - Region added for metric Database Instance MySQL No license required db m6gd.16xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6gd.16xlarge, Memory: 256 GiB, vCPU: 64, Network Performance: 25 Gigabit) 🌎
+  - Region added for metric Database Instance MySQL No license required db r6i.24xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.24xlarge, Memory: 768 GiB, vCPU: 96, Network Performance: 37.5 Gbps) 🌎
+  - Region added for metric Database Instance MySQL No license required db m6id.24xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6id.24xlarge, Memory: 384 GiB, vCPU: 96, Network Performance: 37.5 Gbps) 🌎
+  - Region added for metric Database Instance MySQL No license required db m6g.12xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6g.12xlarge, Memory: 192 GiB, vCPU: 48, Network Performance: 12 gigabit) 🌎
+  - Region added for metric Database Instance MySQL No license required db m7g.large General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m7g.large, Memory: 8 GiB, vCPU: 2, Network Performance: Up to 12.5 Gigabit) 🌎
+  - Region added for metric Database Instance MySQL No license required db m6gd.4xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6gd.4xlarge, Memory: 64 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit) 🌎
+  - Region added for metric Database Instance MySQL No license required db t3.2xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t3.2xlarge, Memory: 32 GiB, vCPU: 8, Network Performance: Moderate) 🌎
+  - Region added for metric Performance Insights ProvisionedAMR vCPU-Months: Asia Pacific (Taipei) 🌎
+  - Region added for metric Database Storage Multi AZ readable standbys General Purpose-GP3: Asia Pacific (Taipei) 🌎
+  - Region added for metric Any Year 1 Year 2 8 0: Asia Pacific (Taipei) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS: Asia Pacific (Taipei) 🌎
+  - Region added for metric Provisioned GP3 IOPS Multi AZ: Asia Pacific (Taipei) 🌎
+  - Region added for metric Performance Insights ProvisionedFMR vCPU-Months: Asia Pacific (Taipei) 🌎
+  - Region added for metric Database Storage Multi AZ Provisioned IOPS: Asia Pacific (Taipei) 🌎
+  - Region added for metric Provisioned IOPS Multi AZ: Asia Pacific (Taipei) 🌎
+  - Region added for metric Database Storage Multi AZ General Purpose: Asia Pacific (Taipei) 🌎
+  - Region added for metric Database Storage Single AZ General Purpose-GP3: Asia Pacific (Taipei) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2: Asia Pacific (Taipei) 🌎
+  - Region added for metric Database Storage Multi AZ Provisioned IOPS-IO2: Asia Pacific (Taipei) 🌎
+  - Region added for metric Provisioned GP3 IOPS Multi AZ readable standbys: Asia Pacific (Taipei) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ readable standbys: Asia Pacific (Taipei) 🌎
+  - Region added for metric MySQL Year 3 5 7: Asia Pacific (Taipei) 🌎
+  - Region added for metric MySQL Year 1 Year 2 5 7: Asia Pacific (Taipei) 🌎
+  - Region added for metric Provisioned IOPS Multi AZ readable standbys: Asia Pacific (Taipei) 🌎
+  - Region added for metric Provisioned IOPS Single AZ: Asia Pacific (Taipei) 🌎
+  - Region added for metric Database Storage Multi AZ readable standbys Provisioned IOPS: Asia Pacific (Taipei) 🌎
+  - Region added for metric Database Storage Multi AZ General Purpose-GP3: Asia Pacific (Taipei) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ: Asia Pacific (Taipei) 🌎
+  - Region added for metric Provisioned IO2 IOPS Single AZ: Asia Pacific (Taipei) 🌎
+  - Region added for metric Database Storage Single AZ General Purpose: Asia Pacific (Taipei) 🌎
+  - Region added for metric Provisioned GP3 IOPS Single AZ: Asia Pacific (Taipei) 🌎
+  - Region added for metric Database Storage Multi AZ readable standbys Provisioned IOPS-IO2: Asia Pacific (Taipei) 🌎
+  - Region added for metric qH1Fb_w6gsIdXjYkWeTEer98-3fLmK4eh02KB5yW9eA V1: Asia Pacific (Taipei) 🌎
+  - Billing metric added: MnvK-b4LrwcAJYEDTXZrGSi8SBhekoTJ9dXZ8RIhCiM V1 💡
+  - Billing metric added: XK1kef7_ylQXfQi3AMKtKPV8kOmVtXPc3ttb7nkIAxA V1 💡
+  - Billing metric added: YHrMg3cbeTvzoFfhqpdTjZ0Id04DIB82n7xvM2Gw2AI V1 💡
+  - Billing metric added: _N5rmjFfNuf0WbiSn1Bag4UDjtkrbcR9hIz-4J1Loq0 V1 💡
+
+- [rds-postgresql-ondemand](processed/rds-postgresql-ondemand.json)
+  - Region added for metric 04Fr542JqNTAj3hbefJMBfYe3rFkxGOLrv-hfy16gWI V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric 0D756xSdFIrIn4fn0r0yvgJ5NRrASz5Hp0_xoFMSIXI V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric 0R1zOGxjNQUQUIHuGwMB8n9km2a2fcU3QKRT2hRGVgA V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric 2BD4x6K359HaQ4KUj01TTpscy-ZTu3PaEG_yHWP0ThI V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric 2mg15uTn9RkH1cyFGg2PzcjeNJ21qMlN74IiXSb74V0 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric 2uCwpCO1at2JXMT8KwQWtltN2fXFW1lastL4ECXe6ZY V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric 3qLc7ouxC_X_Cl0jDFeBnKBYsWEIErVzXJ6EZLIdI3E V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric 40tN5cvvbJdQpBvytRKGG6SH-Z0o8hkvetgnUaViPbs V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric 5KiRVBxHiTM-mKGq6DCMwoGOxXuwUsc0-HzjPMzr7Sc V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric 5RfCyQgkdILcXvWPxve4-tbBtCyDfhMcA6pK-uRQgH4 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric 5lLPo2kIQ98CDac72DiVBfv3Q5X-KtigegHOd8_OsRk V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric 6_RhSGqD5GwrSDB7JWAzP2xLEqZ8mHuf7aomJZ_bqgM V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric 7I_xVgKBZf1FrMQwYmVEL32FB3fBUTaXF28gUadx_oU V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric 7obTQLvnvDpoPC59TJTGuitMJLaIBLg6JAJ0XekB3rY V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric 8FGROlzvXDn7LBw27nF8i1C9RfkHSTzBJ0IgyWkOWXM V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric 9kcfu5u26m5SZ0c3C2evLCORr968EGmad4HHb0RaPeA V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric A4PILTtVZ4FKi6wjOiOtHj_dmKtIubiZ4xv2O0IPVD8 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric B6o_iYjRx4GB6cEnKqmYRDAQ48ZXqLKcQpZa3rSQ4oU V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric BiguwLEtqaRARWKR_B9dSEe8m3gQyVBFMzYKoVf7imI V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric BwMl2ilbBdwG9_LJdUNKJAyWaIMaPgcF8wDH-VqZOc0 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric D5FlQe2F8_F8Qa-ntWeywctoYaZVc7XMYWicj5OUscM V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric D_j_iDLS46DCrurUCzPMori52FKtHM6D5hrHiAJoFLY V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric DmhWNfCCtHlI2btm7PAbe-xMqQa1rP9fGLshDiY2bp8 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric EYvfR3bgPy9tSWjDHLIdnMhmrz2EQYTuZvrfGQYPQDs V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric EfEQJmHDItV7rrt7sbcT9ph0fBFdxW7r6yYHUAUNLAM V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric I0cqeXm9FHGVAoPVeUupBKizDPzx_59y6Ou_33V3rwY V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric Ir_va-BQ0pnLFeAXr2bAEdwsqEk1FvCdrbBBvjnh9BI V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric JMTRzo9YBPWxZ8dMSP1e_VU1blrhMDto0NfwKJK6d60 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric JnFESZ8fdVXYvX4S5aLuEqpTMGNIF5g_AWGVj1n-jPc V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric JvbTDJYZ-cowsmWHUnbUDlyyiGGUksXGibCa5QXf2HM V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric JwcO5-jFsraTdLcizaO1J3p5jXtXBr72jwPh3a5g3ng V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric K2uwPflyot9KqURCviUHpdUc3NtGbLnmlJ77qbG78bs V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric KNXbjyr4_Gi85ohauJv8_QcofQ86rLajJ00jCiL6h1E V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric KciPuZY4N6IVz9CSGLklSDvtYuIU05iWVumWOzpaLEo V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric L2eV3bSbbRw6JyGkWVPVaQtchvadsloyXxvgFIbnpK8 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric LNUGp2t-GFHA0DuJM5GTNSXrdABW1UNl6XlGvr2v1uU V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric MPo-rAiw6DKoFoaffZZAt0Nn1_XmnYELbGETpIwpvao V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric NFb3pa2H9gQYtPnyynQFJCvfSbHJZRNrsETgmyJe29Y V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric NxawPB42D7uHHqXDcZFk3datTcbwHuZRf0mM2Kxa9f8 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric PAPlx-y1PGX0X3sjLj_8oTbQFjcnj1QQx5JOn2ubwa0 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric RMkLrOUBKEzkEFswk-eipOZ4zNItWd10bkiJujzkc9Y V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric RSYxLm1KuvjPr4iIzCm1njpS9_wAaN1dbg0-bOguIeo V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric RuagrDrSuWAssNrUuRn4N-hvqxMRHzOD6FGIfwVBL5I V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric SgTESMzFJqYiEIM0UpdHolL_dCgO_TsPlYilCOZ8qHA V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric T2qPsc9GVxJ2pKHJLsinTSPtmtcE8SOvizmhxmcagfU V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric TDzw5mNDbR4SLJJuhynmMI2Mjfg-DbDAWkPBtXF4Au4 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric TlD2Q3MsWQedYN7MjmrdcTZAylilNxQAE-8uLH5-juE V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric TtHkIogcTXItps4wr0_qedVQu0PED9PPm4TrQQyXAmI V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric VIEMEi6Pz_Iva50qyXOTdmVw3CrvpCPOl2sqI8cRPYo V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric WBsM62k7SjGghwUZRrHgmZ0awhskDcjXzdcYtmAMhfI V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric XKAIbuAoBC1jmakD0J2hZ4vEIMCVuT8NiK5AB9zUGa8 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric XS9VmAdCquKc2qafGloCI_2PjKtRD0gH6LPcnkG1Jj4 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric XUfOVfJ3YaHmuyp3x_SjWIIhq6SwCbeiw8mSn3voWg8 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric YrS_AagZ3qTp8M4MBSATPHEGZKvFikEgnFfTTEs-W7Q V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric Z0yxqf8qmBvLkJE1s3UZVayOTf-0dsxBNY0WI243tA8 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric ZO-p_TI26JusrjKq5WteuWppOW8qSXxLKWFpTl08aNs V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric _zLweIpUMZGdoYP3NHvHfQnKmde3qQbtuZrJxDF4XyE V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric annXp-txapZaQQpv_Dhenfyjbl4Banhwt_NKZbPaoPg V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric b1jexfSkd6oSdy1JCcjw6YXmPkc7pwhnuj9x2Dun-Gw V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric banUqEzE98KC5FGj0VDyYhE-4dIqOIQSCmIAmhSj-2M V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric dQ23GiD4J3nTR4MYRwPK-hvKeeYi4TklDjtDnZIfams V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric e0-Xhifjr45vpsN1G_OY53MU4qudyJGoSwJLeFtj6nw V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric e0Zr7ZXcTAKHZg0pB37TOUm4UXEGPOq2OJeC1VaWHvg V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric ebUNd6vO0Smc7kLAXPvF777MkWi0jBv59kROXhZCT5o V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric fRjQ9csE0lK4OVcs9q75rpX-f7lH1k7e659Ia5p1puM V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric ffDWQzlDrfAmJ0rzWzT4zed_utBYtMUoQtm9FWDXEsU V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric gh5KWxcnafbKhACAMmVB9LzdZ-6QtNZE5jVzgOkIFeg V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric idK1D2ArD6Y82ERNfsx4BTHl_RM8thQblBzOHjwhVQc V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric irESFRo-3ECHod1OrT8ozbVkzWLv9WYgQtWES6X5C3k V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric lw3R2ZhWgKtgC_zyDbUYLfaLYjM9V-pl5ZKp0Otn_jw V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric lzKeKwJnD0Yz8I4w4tzrLhrsbx6hT7fNUk9A2QrrYl8 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric m0_Blx5ykko2W-wpuJb5IsQpSO3CGGpFHsB6lW9ASVo V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric m0bKw7bbQMy-bzZ6eQUyro51fLGSN03FoboEhLM7zkk V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric qEx2E7EST1oGUbYv7K0j74P4SWKXpSBIwY70CFErBDI V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric r1acpAjUJMWu6HzZWB_WWeeiSTchU4SweKeiEokSywg V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric r47koz-weGQuI6uPlSPBRi6E--mbSGNUmF-n_cAuvZQ V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric rEdYLLWoAu4Ubj7DT5dci3k103hyEpEIcCQ0ilG5xBI V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric rr8v9OuHF5GRJLFpFUn7DtjDPwygv7Qzwa28uY9A0Es V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric s4XvShUUNh5M_pgrVgfp4-15ak-yqDSRbWrC29F_oNI V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric sK-u9vG_XISrMWZYIHHXC1-ufXdEjhBLoHORMIRA0YY V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric sLRt1onShImYxr0FTwrOQVdIqKIdyrK0lBtqB7b0Z8U V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric swcCaNyGMl4Rb8INIscY5U0jrIh6JoxjwrxMfl2q9j8 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric tRZJBPPZx8FaLsr1ArvxiZDQ40emRz1ZRgAGrNNSa2Q V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric taAkD2uxN8KYur24VHKTzn8vqPc-Ka19gzN-WfmKRis V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric uS7VLAtRHduh7AVBqrDKnOVzEhvHghiSyyJn3CV0cAc V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric uW2jqC6e0uraeLodYWQd8BCRAxHrOwSSKp3__XGXgos V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric ubW-z3N6cfPv2xLYRwVFUFmMwUPWo4d1xbyQxKvtDoI V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric vyA3iX9dK-YT3c95y_yvq7qxACctKq4jpAWc-tfAZmY V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric w0xM93xbSr-oK80Zh9htL7rQ-eLNVg4kHwLOAHmsqFo V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric wXCucOVKGLn9gBKZrykNaaWmSZUC9yGbLFIQhJ6iY4o V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric wkpxRhIbH3R3W9OGivAPY9T1m4dosrfViBEXA1m5iWU V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric x-fV2fP-MKHX3GVZDFB1lz0i3ROb1LAAbt4Yrohevkw V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric xlDwUI5y8ng-mcDkcr3BJfhEFdNttBXQqCC1OWexBes V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric y3zu12WRIf-BYpj-5DNOKEQFEBM0DoM7xuF1EjzM6ug V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric yhGZ6kigrL_tyuF_w1lbkrogTbuZW1yhBemwTo8tnTg V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric ym1QkiZsvUZSBu7egKudjvBTfKZeDwQfStE3r11sk-U V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric yqIo_VoixGMLbO42g9r20WFPcr3led3WkMelRZoxIG8 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric zRGaq-fU3lXmY_4ZBMYkN2GH6FfC69FU2eXXSYkRukA V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db m6id.4xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6id.4xlarge, Memory: 64 GiB, vCPU: 16, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db m6g.4xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6g.4xlarge, Memory: 64 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db m6id.xlarge General purpose Multi-AZ readable standbys Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6id.xlarge, Memory: 16 GiB, vCPU: 4, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db r6gd.large Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6gd.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db m6g.12xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6g.12xlarge, Memory: 192 GiB, vCPU: 48, Network Performance: 12 gigabit) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db m6i.xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.xlarge, Memory: 16 GiB, vCPU: 4, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db m7i.12xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m7i.12xlarge, Memory: 192 GiB, vCPU: 48, Network Performance: 18.75 Gbps) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db m6id.8xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6id.8xlarge, Memory: 128 GiB, vCPU: 32, Network Performance: 12.5 Gbps) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db r6id.2xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6id.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db m6gd.xlarge General purpose Multi-AZ readable standbys Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6gd.xlarge, Memory: 16 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db r6gd.12xlarge Memory optimized Multi-AZ readable standbys Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6gd.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: 20 Gigabit) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db t3.small General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t3.small, Memory: 2 GiB, vCPU: 2, Network Performance: Low to Moderate) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db m7i.xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m7i.xlarge, Memory: 16 GiB, vCPU: 4, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db r7g.8xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r7g.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: 15 Gigabit) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db m6g.4xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6g.4xlarge, Memory: 64 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db r6g.xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6g.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db r6i.12xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: 18.75 Gbps) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db r7i.4xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r7i.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db m7g.16xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m7g.16xlarge, Memory: 256 GiB, vCPU: 64, Network Performance: 25 Gigabit) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db r6id.32xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6id.32xlarge, Memory: 1024 GiB, vCPU: 128, Network Performance: 50 Gbps) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db r6gd.16xlarge Memory optimized Multi-AZ readable standbys Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6gd.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: 25 Gigabit) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db r6g.12xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6g.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: 20 Gigabit) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db m6gd.12xlarge General purpose Multi-AZ readable standbys Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6gd.12xlarge, Memory: 192 GiB, vCPU: 48, Network Performance: 12 gigabit) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db t3.small General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t3.small, Memory: 2 GiB, vCPU: 2, Network Performance: Low to Moderate) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db r6gd.2xlarge Memory optimized Multi-AZ readable standbys Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6gd.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db r7g.16xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r7g.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: 30 Gigabit) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db m6gd.4xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6gd.4xlarge, Memory: 64 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db m6gd.12xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6gd.12xlarge, Memory: 192 GiB, vCPU: 48, Network Performance: 12 gigabit) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db r6gd.8xlarge Memory optimized Multi-AZ readable standbys Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6gd.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: 10 Gigabit) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db r7g.xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r7g.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 12.5 Gigabit) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db m7g.12xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m7g.12xlarge, Memory: 192 GiB, vCPU: 48, Network Performance: 20 Gigabit) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db m7g.8xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m7g.8xlarge, Memory: 128 GiB, vCPU: 32, Network Performance: 15 Gigabit) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db r6id.large Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6id.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db r6gd.16xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6gd.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: 25 Gigabit) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db m6id.24xlarge General purpose Multi-AZ readable standbys Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6id.24xlarge, Memory: 384 GiB, vCPU: 96, Network Performance: 37.5 Gbps) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db r6g.16xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6g.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: 25 Gigabit) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db r7i.large Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r7i.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db m6g.xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6g.xlarge, Memory: 16 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db t3.2xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t3.2xlarge, Memory: 32 GiB, vCPU: 8, Network Performance: Moderate) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db m6i.4xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.4xlarge, Memory: 64 GiB, vCPU: 16, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db t4g.medium General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t4g.medium, Memory: 4 GiB, vCPU: 2, Network Performance: Up to 5 Gigabit) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db r6gd.xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6gd.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db r6g.large Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6g.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db m7g.16xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m7g.16xlarge, Memory: 256 GiB, vCPU: 64, Network Performance: 25 Gigabit) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db m7i.16xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m7i.16xlarge, Memory: 256 GiB, vCPU: 64, Network Performance: 25 Gbps) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db m6i.8xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.8xlarge, Memory: 128 GiB, vCPU: 32, Network Performance: 12.5 Gbps) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db r7i.48xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r7i.48xlarge, Memory: 1536 GiB, vCPU: 192, Network Performance: 50 Gbps) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db t4g.large General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t4g.large, Memory: 8 GiB, vCPU: 2, Network Performance: Up to 5 Gigabit) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db r7g.4xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r7g.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 15 Gigabit) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db r7i.16xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r7i.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: 25 Gbps) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db r6id.4xlarge Memory optimized Multi-AZ readable standbys Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6id.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db m6g.large General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6g.large, Memory: 8 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db m7i.large General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m7i.large, Memory: 8 GiB, vCPU: 2, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db r6gd.12xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6gd.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: 20 Gigabit) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db m6i.16xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.16xlarge, Memory: 256 GiB, vCPU: 64, Network Performance: 25 Gbps) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db m6id.4xlarge General purpose Multi-AZ readable standbys Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6id.4xlarge, Memory: 64 GiB, vCPU: 16, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db r6g.2xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6g.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db r6gd.2xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6gd.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db r7g.8xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r7g.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: 15 Gigabit) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db r6gd.8xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6gd.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: 10 Gigabit) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db m6gd.large General purpose Multi-AZ readable standbys Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6gd.large, Memory: 8 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db r7i.12xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r7i.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: 18.75 Gbps) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db r7i.2xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r7i.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db r6g.12xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6g.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: 20 Gigabit) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db r6id.4xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6id.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db m7i.48xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m7i.48xlarge, Memory: 768 GiB, vCPU: 192, Network Performance: 50 Gbps) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db m6i.12xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.12xlarge, Memory: 192 GiB, vCPU: 48, Network Performance: 18.75 Gbps) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db m7i.8xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m7i.8xlarge, Memory: 128 GiB, vCPU: 32, Network Performance: 12.5 Gbps) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db r6g.16xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6g.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: 25 Gigabit) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db t3.xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t3.xlarge, Memory: 16 GiB, vCPU: 4, Network Performance: Moderate) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db r6gd.xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6gd.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db m6g.12xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6g.12xlarge, Memory: 192 GiB, vCPU: 48, Network Performance: 12 gigabit) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db r6id.2xlarge Memory optimized Multi-AZ readable standbys Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6id.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db r7i.8xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r7i.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: 12.5 Gbps) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db r6g.4xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6g.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db r7g.2xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r7g.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 15 Gigabit) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db r6id.24xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6id.24xlarge, Memory: 768 GiB, vCPU: 96, Network Performance: 37.5 Gbps) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db r6i.8xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: 12.5 Gbps) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db m7i.xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m7i.xlarge, Memory: 16 GiB, vCPU: 4, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db m6id.24xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6id.24xlarge, Memory: 384 GiB, vCPU: 96, Network Performance: 37.5 Gbps) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db m6gd.12xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6gd.12xlarge, Memory: 192 GiB, vCPU: 48, Network Performance: 12 gigabit) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db r7i.xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r7i.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db m6i.12xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.12xlarge, Memory: 192 GiB, vCPU: 48, Network Performance: 18.75 Gbps) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db m7g.xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m7g.xlarge, Memory: 16 GiB, vCPU: 4, Network Performance: Up to 12.5 Gigabit) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db m7i.4xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m7i.4xlarge, Memory: 64 GiB, vCPU: 16, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db m6gd.16xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6gd.16xlarge, Memory: 256 GiB, vCPU: 64, Network Performance: 25 Gigabit) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db m7g.2xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m7g.2xlarge, Memory: 32 GiB, vCPU: 8, Network Performance: Up to 15 Gigabit) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db m6id.16xlarge General purpose Multi-AZ readable standbys Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6id.16xlarge, Memory: 256 GiB, vCPU: 64, Network Performance: 25 Gbps) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db t4g.xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t4g.xlarge, Memory: 16 GiB, vCPU: 4, Network Performance: Up to 5 Gigabit) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db r6i.24xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.24xlarge, Memory: 768 GiB, vCPU: 96, Network Performance: 37.5 Gbps) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db t4g.medium General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t4g.medium, Memory: 4 GiB, vCPU: 2, Network Performance: Up to 5 Gigabit) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db r6gd.2xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6gd.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db m6g.2xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6g.2xlarge, Memory: 32 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db m6g.16xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6g.16xlarge, Memory: 256 GiB, vCPU: 64, Network Performance: 25 Gigabit) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db r6id.16xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6id.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: 25 Gbps) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db m6g.16xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6g.16xlarge, Memory: 256 GiB, vCPU: 64, Network Performance: 25 Gigabit) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db r7g.large Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r7g.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 12.5 Gigabit) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db r6id.4xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6id.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db t3.large General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t3.large, Memory: 8 GiB, vCPU: 2, Network Performance: Low to Moderate) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db m6i.large General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.large, Memory: 8 GiB, vCPU: 2, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db m6id.large General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6id.large, Memory: 8 GiB, vCPU: 2, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db m6i.32xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.32xlarge, Memory: 512 GiB, vCPU: 128, Network Performance: 50 Gbps) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db t3.medium General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t3.medium, Memory: 4 GiB, vCPU: 2, Network Performance: Low to Moderate) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db m7i.12xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m7i.12xlarge, Memory: 192 GiB, vCPU: 48, Network Performance: 18.75 Gbps) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db m6i.24xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.24xlarge, Memory: 384 GiB, vCPU: 96, Network Performance: 37.5 Gbps) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db r7i.24xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r7i.24xlarge, Memory: 768 GiB, vCPU: 96, Network Performance: 37.5 Gbps) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db t3.medium General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t3.medium, Memory: 4 GiB, vCPU: 2, Network Performance: Low to Moderate) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db m6id.16xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6id.16xlarge, Memory: 256 GiB, vCPU: 64, Network Performance: 25 Gbps) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db r6gd.xlarge Memory optimized Multi-AZ readable standbys Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6gd.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db r6id.xlarge Memory optimized Multi-AZ readable standbys Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6id.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db m7g.2xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m7g.2xlarge, Memory: 32 GiB, vCPU: 8, Network Performance: Up to 15 Gigabit) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db m6id.large General purpose Multi-AZ readable standbys Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6id.large, Memory: 8 GiB, vCPU: 2, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db r7g.large Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r7g.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 12.5 Gigabit) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db t4g.2xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t4g.2xlarge, Memory: 32 GiB, vCPU: 8, Network Performance: Up to 5 Gigabit) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db t4g.large General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t4g.large, Memory: 8 GiB, vCPU: 2, Network Performance: Up to 5 Gigabit) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db r6gd.large Memory optimized Multi-AZ readable standbys Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6gd.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db r6id.12xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6id.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: 18.75 Gbps) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db m6id.large General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6id.large, Memory: 8 GiB, vCPU: 2, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db m6id.8xlarge General purpose Multi-AZ readable standbys Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6id.8xlarge, Memory: 128 GiB, vCPU: 32, Network Performance: 12.5 Gbps) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db m6i.8xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.8xlarge, Memory: 128 GiB, vCPU: 32, Network Performance: 12.5 Gbps) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db m7g.12xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m7g.12xlarge, Memory: 192 GiB, vCPU: 48, Network Performance: 20 Gigabit) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db m6i.2xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.2xlarge, Memory: 32 GiB, vCPU: 8, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db r6i.2xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db t4g.small General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t4g.small, Memory: 2 GiB, vCPU: 2, Network Performance: Up to 5 Gigabit) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db t3.2xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t3.2xlarge, Memory: 32 GiB, vCPU: 8, Network Performance: Moderate) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db r6i.xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db r6id.xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6id.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db m6i.2xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.2xlarge, Memory: 32 GiB, vCPU: 8, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db r6id.32xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6id.32xlarge, Memory: 1024 GiB, vCPU: 128, Network Performance: 50 Gbps) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db r6id.8xlarge Memory optimized Multi-AZ readable standbys Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6id.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: 12.5 Gbps) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db r6id.2xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6id.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db m6id.2xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6id.2xlarge, Memory: 32 GiB, vCPU: 8, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db t3.xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t3.xlarge, Memory: 16 GiB, vCPU: 4, Network Performance: Moderate) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db m7i.16xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m7i.16xlarge, Memory: 256 GiB, vCPU: 64, Network Performance: 25 Gbps) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db r6id.32xlarge Memory optimized Multi-AZ readable standbys Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6id.32xlarge, Memory: 1024 GiB, vCPU: 128, Network Performance: 50 Gbps) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db r6gd.4xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6gd.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db m6i.24xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.24xlarge, Memory: 384 GiB, vCPU: 96, Network Performance: 37.5 Gbps) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db m7g.4xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m7g.4xlarge, Memory: 64 GiB, vCPU: 16, Network Performance: Up to 15 Gigabit) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db r6g.large Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6g.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db m6gd.8xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6gd.8xlarge, Memory: 128 GiB, vCPU: 32, Network Performance: 10 Gigabit) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db r6g.4xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6g.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db r6gd.4xlarge Memory optimized Multi-AZ readable standbys Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6gd.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db t3.large General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t3.large, Memory: 8 GiB, vCPU: 2, Network Performance: Low to Moderate) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db t4g.small General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t4g.small, Memory: 2 GiB, vCPU: 2, Network Performance: Up to 5 Gigabit) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db m6i.4xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.4xlarge, Memory: 64 GiB, vCPU: 16, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db m6gd.xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6gd.xlarge, Memory: 16 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db r6gd.4xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6gd.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db r6id.12xlarge Memory optimized Multi-AZ readable standbys Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6id.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: 18.75 Gbps) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db m6gd.2xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6gd.2xlarge, Memory: 32 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db m7i.8xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m7i.8xlarge, Memory: 128 GiB, vCPU: 32, Network Performance: 12.5 Gbps) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db m6gd.2xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6gd.2xlarge, Memory: 32 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db m6id.4xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6id.4xlarge, Memory: 64 GiB, vCPU: 16, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db m6gd.16xlarge General purpose Multi-AZ readable standbys Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6gd.16xlarge, Memory: 256 GiB, vCPU: 64, Network Performance: 25 Gigabit) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db m7i.24xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m7i.24xlarge, Memory: 384 GiB, vCPU: 96, Network Performance: 37.5 Gbps) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db r6i.16xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: 25 Gbps) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db m6g.large General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6g.large, Memory: 8 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db r7i.48xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r7i.48xlarge, Memory: 1536 GiB, vCPU: 192, Network Performance: 50 Gbps) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db r7g.12xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r7g.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: 22.5 Gigabit) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db t4g.2xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t4g.2xlarge, Memory: 32 GiB, vCPU: 8, Network Performance: Up to 5 Gigabit) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db r6gd.8xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6gd.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: 10 Gigabit) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db r6id.16xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6id.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: 25 Gbps) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db r6i.12xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: 18.75 Gbps) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db r6gd.12xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6gd.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: 20 Gigabit) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db m6gd.xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6gd.xlarge, Memory: 16 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db r6g.xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6g.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db m6id.2xlarge General purpose Multi-AZ readable standbys Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6id.2xlarge, Memory: 32 GiB, vCPU: 8, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db r6gd.large Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6gd.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db m6id.16xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6id.16xlarge, Memory: 256 GiB, vCPU: 64, Network Performance: 25 Gbps) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db m6id.32xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6id.32xlarge, Memory: 512 GiB, vCPU: 128, Network Performance: 50 Gbps) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db r6i.large Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db r6i.4xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db m6g.8xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6g.8xlarge, Memory: 128 GiB, vCPU: 32, Network Performance: 10 Gigabit) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db r7i.24xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r7i.24xlarge, Memory: 768 GiB, vCPU: 96, Network Performance: 37.5 Gbps) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db m6gd.16xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6gd.16xlarge, Memory: 256 GiB, vCPU: 64, Network Performance: 25 Gigabit) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db m6g.2xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6g.2xlarge, Memory: 32 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db m6gd.4xlarge General purpose Multi-AZ readable standbys Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6gd.4xlarge, Memory: 64 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db r7g.16xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r7g.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: 30 Gigabit) 🌎
+  - Region added for metric Database Storage Multi AZ readable standbys General Purpose-GP3: Asia Pacific (Taipei) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2: Asia Pacific (Taipei) 🌎
+  - Region added for metric Provisioned GP3 IOPS Single AZ: Asia Pacific (Taipei) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS: Asia Pacific (Taipei) 🌎
+  - Region added for metric Any Year 1 Year 2 8 0: Asia Pacific (Taipei) 🌎
+  - Region added for metric PostgreSQL Year 1 Year 2 10: Asia Pacific (Taipei) 🌎
+  - Region added for metric Database Storage Multi AZ readable standbys Provisioned IOPS: Asia Pacific (Taipei) 🌎
+  - Region added for metric Provisioned IOPS Multi AZ: Asia Pacific (Taipei) 🌎
+  - Region added for metric Provisioned IOPS Multi AZ readable standbys: Asia Pacific (Taipei) 🌎
+  - Region added for metric Database Storage Multi AZ Provisioned IOPS: Asia Pacific (Taipei) 🌎
+  - Region added for metric PostgreSQL Year 1 Year 2 11: Asia Pacific (Taipei) 🌎
+  - Region added for metric Provisioned IOPS Single AZ: Asia Pacific (Taipei) 🌎
+  - Region added for metric Performance Insights ProvisionedAMR vCPU-Months: Asia Pacific (Taipei) 🌎
+  - Region added for metric PostgreSQL Year 3 12: Asia Pacific (Taipei) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ readable standbys: Asia Pacific (Taipei) 🌎
+  - Region added for metric Database Storage Single AZ General Purpose-GP3: Asia Pacific (Taipei) 🌎
+  - Region added for metric Database Storage Multi AZ readable standbys Provisioned IOPS-IO2: Asia Pacific (Taipei) 🌎
+  - Region added for metric Provisioned GP3 IOPS Multi AZ: Asia Pacific (Taipei) 🌎
+  - Region added for metric Provisioned Throughput Single AZ: Asia Pacific (Taipei) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ: Asia Pacific (Taipei) 🌎
+  - Region added for metric Database Storage Multi AZ General Purpose-GP3: Asia Pacific (Taipei) 🌎
+  - Region added for metric Database Storage Multi AZ General Purpose: Asia Pacific (Taipei) 🌎
+  - Region added for metric Provisioned Throughput Multi AZ readable standbys: Asia Pacific (Taipei) 🌎
+  - Region added for metric Provisioned Throughput Multi AZ: Asia Pacific (Taipei) 🌎
+  - Region added for metric Provisioned IO2 IOPS Single AZ: Asia Pacific (Taipei) 🌎
+  - Region added for metric Database Storage Single AZ General Purpose: Asia Pacific (Taipei) 🌎
+  - Region added for metric PostgreSQL Year 1 Year 2 12: Asia Pacific (Taipei) 🌎
+  - Region added for metric Database Storage Multi AZ Provisioned IOPS-IO2: Asia Pacific (Taipei) 🌎
+  - Region added for metric Performance Insights ProvisionedFMR vCPU-Months: Asia Pacific (Taipei) 🌎
+  - Region added for metric PostgreSQL Year 3 11: Asia Pacific (Taipei) 🌎
+  - Region added for metric Provisioned GP3 IOPS Multi AZ readable standbys: Asia Pacific (Taipei) 🌎
+  - Region added for metric PostgreSQL Year 3 10: Asia Pacific (Taipei) 🌎
+  - Region added for metric qH1Fb_w6gsIdXjYkWeTEer98-3fLmK4eh02KB5yW9eA V1: Asia Pacific (Taipei) 🌎
+  - Billing metric added: MnvK-b4LrwcAJYEDTXZrGSi8SBhekoTJ9dXZ8RIhCiM V1 💡
+  - Billing metric added: XK1kef7_ylQXfQi3AMKtKPV8kOmVtXPc3ttb7nkIAxA V1 💡
+  - Billing metric added: YHrMg3cbeTvzoFfhqpdTjZ0Id04DIB82n7xvM2Gw2AI V1 💡
+  - Billing metric added: _N5rmjFfNuf0WbiSn1Bag4UDjtkrbcR9hIz-4J1Loq0 V1 💡
+
+- [rds-oracle-ondemand](processed/rds-oracle-ondemand.json)
+  - Region added for metric -EBIkx4UyD5JhBRi1oNKSme-ttzd2E9FBk8E5UPsKLw V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric 0unriv_mNcsw-9tf5TQUAKhAzK4t4DMsaVT0FwlZIGs V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric 1K7xD_NVF8DyW9EnpHLA9PsS4Ru5RQ2H05K6FFnf3fo V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric 1XNLLqVpQdeijchbikIvX6W2LeQ6VyJkPnV_vuBTtPo V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric 2nbZ7MZrW09uTBc0K7M-SWMa-uTr28Wu0H84VqB_nk0 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric 2uCwpCO1at2JXMT8KwQWtltN2fXFW1lastL4ECXe6ZY V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric 3qLc7ouxC_X_Cl0jDFeBnKBYsWEIErVzXJ6EZLIdI3E V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric 5RfCyQgkdILcXvWPxve4-tbBtCyDfhMcA6pK-uRQgH4 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric 5lLPo2kIQ98CDac72DiVBfv3Q5X-KtigegHOd8_OsRk V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric Ax4Mmj7cG_lBB8THQoXtGkZlkFmWjZy0R4R3UNOG-y0 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric BRpvVDmL7k2hhwenfWtn7UcnrIQDDz9yudNcbVgjsew V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric B_G5utVg_HOSd57b6lBOqdQVUkBi42KUTD8F92vFYVM V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric BiguwLEtqaRARWKR_B9dSEe8m3gQyVBFMzYKoVf7imI V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric DSoxDTkf8IE1TqYctNql9ycmjd_myHRvUUS1jYI1fLk V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric DmhWNfCCtHlI2btm7PAbe-xMqQa1rP9fGLshDiY2bp8 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric EYIFymMgoFEQ1OVlPSjWjiCWkdGjhD-Ri0COkx9A1bY V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric EYvfR3bgPy9tSWjDHLIdnMhmrz2EQYTuZvrfGQYPQDs V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric EZU5WaDo3pWn3kKVGybXKZB0kEYx90Wrd3pm_DR61Ew V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric EfEQJmHDItV7rrt7sbcT9ph0fBFdxW7r6yYHUAUNLAM V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric HYVXnBXtM-Ve4EZsppfPH0LpLwAZCiuFdvZ4o1qrJKU V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric HbSP8qhXaA_lMSGJQQQiMAD2kj8CnfWZXcsnOx-Ikqc V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric IcOeS-yrAh5e4Bw2B6TDoAnMnxyUHje1QNeoL7oZFrw V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric Ir_va-BQ0pnLFeAXr2bAEdwsqEk1FvCdrbBBvjnh9BI V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric K-hJ63plmRe0unGpxGnL9_s0DenIu6eACXvb7FOtIH8 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric K2uwPflyot9KqURCviUHpdUc3NtGbLnmlJ77qbG78bs V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric KDKFX_EgRDmPgG2Cw7o8aHZXCXseAyiNZ5GoAgjWApk V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric L2eV3bSbbRw6JyGkWVPVaQtchvadsloyXxvgFIbnpK8 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric LHth4Ef_M7mrh-GCsz6Jl1_--u00cNH-kYMh4vVMwCY V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric MPo-rAiw6DKoFoaffZZAt0Nn1_XmnYELbGETpIwpvao V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric OGOMhe0w9p3t4JJ8xjFVEg3YTDJulErrtPQp8dB7_gk V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric PAXAl7i4iGp_Xyiw436nuotL0alSxs7aVlqPnXAwLE4 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric QowoZ1pz57V_Pe4lRFhXpkE4HuUhMbUKF_Z6uM5sX78 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric RMkLrOUBKEzkEFswk-eipOZ4zNItWd10bkiJujzkc9Y V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric RSYxLm1KuvjPr4iIzCm1njpS9_wAaN1dbg0-bOguIeo V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric RuagrDrSuWAssNrUuRn4N-hvqxMRHzOD6FGIfwVBL5I V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric SCaj92arg8XCZ0twAlIcaP7E90ts8g3In7VocXuJMvs V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric ShUCB9bMnCHZoJgHnQdiSZFChCqFo9AmqPZkSaijkR4 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric TPXL3jd78cUyy_HMk_MQG3yku895oUdzF5_-B8tqXZU V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric UjJWOpldva0ooM5kocxAhR3bzsaPNCrNzx261zEKndQ V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric VQDRfl_pYauYMDgVWZhfxRME4KefOeeC2ZQsEb6gY7g V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric ZO-p_TI26JusrjKq5WteuWppOW8qSXxLKWFpTl08aNs V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric _YZbWffD3S7pXqduokW1YoHAhMIBeGcc0fBdELvtY70 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric aHTcxo003H07P_wklSuxkTiv4DJmHV7hU5ANILfoCvk V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric aY5ZObFjvQoPz5K_ZYXk_JpIpaPlQ9X7fuxo3g--GS0 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric annXp-txapZaQQpv_Dhenfyjbl4Banhwt_NKZbPaoPg V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric b2UUc-oos-tSy0P2o1LYhhLv0p3xPaTAIF3bqCoOckE V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric cz2KiZtnHIDH-OnYghmqle___SQrcfVuBBR3IsRUFwU V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric dQ23GiD4J3nTR4MYRwPK-hvKeeYi4TklDjtDnZIfams V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric e0-Xhifjr45vpsN1G_OY53MU4qudyJGoSwJLeFtj6nw V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric eZhcNalWZlg2_fzOdqcRhz5bi_6rs1_h4VYjvojRMyY V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric gN8ENxl3lq-52T54Uw6vF7lgX1BIhfy856UQa-ObuQU V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric iPiU9Guox56bxbu13I7lr5-LSLO7ZNVKQOeOGaslpOw V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric jl_Mn7ryBF85V8uVTefPP6YPZQkcSbbA0H4aVXjAqT8 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric kQ_DWD-D_bB85GNS_cYRnhiXBEbmMo5HVgfFyAb8aSU V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric l4YK7UFPBxh6Wm9qJG4NKwEI3JnvxtFd9y9SP-jIDKk V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric lTdfTjsFHBdkxVuGnEgD8sJNcoMjzfUTlMy7PRK5UBQ V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric m0_Blx5ykko2W-wpuJb5IsQpSO3CGGpFHsB6lW9ASVo V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric m8sK6RbUpqOS06Pyf6uDm-McEiJIbt-77-ENJnwLqV8 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric osgyAUUOMiUGp6RB-y0hC7QUYIEr9_JH1xoboEcukaA V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric qEx2E7EST1oGUbYv7K0j74P4SWKXpSBIwY70CFErBDI V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric qfNK7byewHP8WG1QGueXc7O-bVJgpk2P2nc3aodWXg8 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric rFZsc1pPZB10d1tZHAytL1RVFmYUi_Y2gPMeUiWZBiE V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric rbm0TA3jCGcEQ42VC1tn9L-CpGVvX0kVFWtCDwUrDEo V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric rr8v9OuHF5GRJLFpFUn7DtjDPwygv7Qzwa28uY9A0Es V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric sK-u9vG_XISrMWZYIHHXC1-ufXdEjhBLoHORMIRA0YY V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric tAMz6l3JGb0Cq0zH-C971RtdOPwYSjd8qnwQfaXRhjU V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric tTtHfsEfxOqKeLEG3dty2wBeHhSeJ47_93MuOHIEfyY V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric tgCEu-V6inv7AZ8fJOTxK-ZOCgNMH3EHZ4E_SCmUtI4 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric vyA3iX9dK-YT3c95y_yvq7qxACctKq4jpAWc-tfAZmY V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric w0xM93xbSr-oK80Zh9htL7rQ-eLNVg4kHwLOAHmsqFo V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric wxaUin-bgIq1A_ZoohWRVkW-9f-IEIVIi5zcdbQoP3A V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric xdTwudGdcLRp-02RcOdB7K12C_wh3bpccPQXmK9b9WY V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric xlDwUI5y8ng-mcDkcr3BJfhEFdNttBXQqCC1OWexBes V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric zEG-RQ-VgqM2p_CSKqwr1bX_Y4toY2H3g6Mv3UTeyq0 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric zMS25uj36X5Pi10N0LwMBW2p6SauYEM6V0R7LwIBNyQ V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric zRGaq-fU3lXmY_4ZBMYkN2GH6FfC69FU2eXXSYkRukA V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric zUx2zRRCeSAWO-oxt1Eo-61JF1mtI8x_j6xwBV7XIcs V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric ztfupgLSwa2s9eLEYjh15vMVd4qj0QPh_68ztC8EBPQ V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Bring your own license db m6i.2xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.2xlarge, Memory: 32 GiB, vCPU: 8, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance Oracle Standard Two Bring your own license db t3.2xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t3.2xlarge, Memory: 32 GiB, vCPU: 8, Network Performance: Moderate) 🌎
+  - Region added for metric Database Instance Oracle Standard Two Bring your own license db r6i.4xlarge.tpc2.mem2x Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.4xlarge.tpc2.mem2x, Memory: 256 GiB, vCPU: 16, Network Performance: 12.5 Gbps) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Bring your own license db m6i.4xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.4xlarge, Memory: 64 GiB, vCPU: 16, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Bring your own license db r6i.2xlarge.tpc2.mem4x Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.2xlarge.tpc2.mem4x, Memory: 256 GiB, vCPU: 8, Network Performance: 12.5 Gbps) 🌎
+  - Region added for metric Database Instance Oracle Standard Two Bring your own license db r6i.4xlarge.tpc2.mem3x Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.4xlarge.tpc2.mem3x, Memory: 384 GiB, vCPU: 16, Network Performance: 18.75 Gbps) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Bring your own license db r6i.24xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.24xlarge, Memory: 768 GiB, vCPU: 96, Network Performance: 37.5 Gbps) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Bring your own license db r6i.24xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.24xlarge, Memory: 768 GiB, vCPU: 96, Network Performance: 37.5 Gbps) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Bring your own license db r6i.4xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Bring your own license db r6i.8xlarge.tpc2.mem3x Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.8xlarge.tpc2.mem3x, Memory: 768 GiB, vCPU: 32, Network Performance: 37.5 Gbps) 🌎
+  - Region added for metric Database Instance Oracle Standard Two Bring your own license db m6i.2xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.2xlarge, Memory: 32 GiB, vCPU: 8, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance Oracle Standard Two Bring your own license db r6i.4xlarge.tpc2.mem4x Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.4xlarge.tpc2.mem4x, Memory: 512 GiB, vCPU: 16, Network Performance: 25 Gbps) 🌎
+  - Region added for metric Database Instance Oracle Standard Two Bring your own license db r6i.2xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Bring your own license db r6i.2xlarge.tpc1.mem2x Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.2xlarge.tpc1.mem2x, Memory: 128 GiB, vCPU: 8, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance Oracle Standard Two Bring your own license db r6i.2xlarge.tpc1.mem2x Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.2xlarge.tpc1.mem2x, Memory: 128 GiB, vCPU: 8, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Bring your own license db m6i.2xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.2xlarge, Memory: 32 GiB, vCPU: 8, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Bring your own license db r6i.8xlarge.tpc2.mem3x Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.8xlarge.tpc2.mem3x, Memory: 768 GiB, vCPU: 32, Network Performance: 37.5 Gbps) 🌎
+  - Region added for metric Database Instance Oracle Standard Two Bring your own license db r6i.xlarge.tpc2.mem4x Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.xlarge.tpc2.mem4x, Memory: 128 GiB, vCPU: 4, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Bring your own license db t3.xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t3.xlarge, Memory: 16 GiB, vCPU: 4, Network Performance: Moderate) 🌎
+  - Region added for metric Database Instance Oracle Standard Two Bring your own license db r6i.xlarge.tpc2.mem4x Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.xlarge.tpc2.mem4x, Memory: 128 GiB, vCPU: 4, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Bring your own license db r6i.8xlarge.tpc2.mem4x Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.8xlarge.tpc2.mem4x, Memory: 1024 GiB, vCPU: 32, Network Performance: 50 Gbps) 🌎
+  - Region added for metric Database Instance Oracle Standard Two Bring your own license db t3.large General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t3.large, Memory: 8 GiB, vCPU: 2, Network Performance: Low to Moderate) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Bring your own license db r6i.8xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: 12.5 Gbps) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Bring your own license db r6i.4xlarge.tpc2.mem4x Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.4xlarge.tpc2.mem4x, Memory: 512 GiB, vCPU: 16, Network Performance: 25 Gbps) 🌎
+  - Region added for metric Database Instance Oracle Standard Two Bring your own license db r6i.4xlarge.tpc2.mem2x Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.4xlarge.tpc2.mem2x, Memory: 256 GiB, vCPU: 16, Network Performance: 12.5 Gbps) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Bring your own license db m6i.32xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.32xlarge, Memory: 512 GiB, vCPU: 128, Network Performance: 50 Gbps) 🌎
+  - Region added for metric Database Instance Oracle Standard Two Bring your own license db t3.small General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t3.small, Memory: 2 GiB, vCPU: 2, Network Performance: Low to Moderate) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Bring your own license db m6i.large General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.large, Memory: 8 GiB, vCPU: 2, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance Oracle Standard Two Bring your own license db r6i.2xlarge.tpc2.mem4x Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.2xlarge.tpc2.mem4x, Memory: 256 GiB, vCPU: 8, Network Performance: 12.5 Gbps) 🌎
+  - Region added for metric Database Instance Oracle Standard Two Bring your own license db r6i.xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Bring your own license db m6i.24xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.24xlarge, Memory: 384 GiB, vCPU: 96, Network Performance: 37.5 Gbps) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Bring your own license db t3.small General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t3.small, Memory: 2 GiB, vCPU: 2, Network Performance: Low to Moderate) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Bring your own license db t3.2xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t3.2xlarge, Memory: 32 GiB, vCPU: 8, Network Performance: Moderate) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Bring your own license db t3.xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t3.xlarge, Memory: 16 GiB, vCPU: 4, Network Performance: Moderate) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Bring your own license db r6i.xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Bring your own license db r6i.xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Bring your own license db r6i.2xlarge.tpc2.mem8x Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.2xlarge.tpc2.mem8x, Memory: 512 GiB, vCPU: 8, Network Performance: 25 Gbps) 🌎
+  - Region added for metric Database Instance Oracle Standard Two Bring your own license db r6i.2xlarge.tpc1.mem2x Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.2xlarge.tpc1.mem2x, Memory: 128 GiB, vCPU: 8, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Bring your own license db r6i.4xlarge.tpc2.mem3x Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.4xlarge.tpc2.mem3x, Memory: 384 GiB, vCPU: 16, Network Performance: 18.75 Gbps) 🌎
+  - Region added for metric Database Instance Oracle Standard Two Bring your own license db t3.2xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t3.2xlarge, Memory: 32 GiB, vCPU: 8, Network Performance: Moderate) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Bring your own license db m6i.24xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.24xlarge, Memory: 384 GiB, vCPU: 96, Network Performance: 37.5 Gbps) 🌎
+  - Region added for metric Database Instance Oracle Standard Two Bring your own license db r6i.4xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance Oracle Standard Two Bring your own license db r6i.2xlarge.tpc2.mem8x Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.2xlarge.tpc2.mem8x, Memory: 512 GiB, vCPU: 8, Network Performance: 25 Gbps) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Bring your own license db r6i.2xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Bring your own license db r6i.xlarge.tpc2.mem2x Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.xlarge.tpc2.mem2x, Memory: 64 GiB, vCPU: 4, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Bring your own license db t3.medium General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t3.medium, Memory: 4 GiB, vCPU: 2, Network Performance: Low to Moderate) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Bring your own license db m6i.xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.xlarge, Memory: 16 GiB, vCPU: 4, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Bring your own license db r6i.2xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance Oracle Standard Two Bring your own license db r6i.4xlarge.tpc2.mem4x Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.4xlarge.tpc2.mem4x, Memory: 512 GiB, vCPU: 16, Network Performance: 25 Gbps) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Bring your own license db r6i.8xlarge.tpc2.mem4x Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.8xlarge.tpc2.mem4x, Memory: 1024 GiB, vCPU: 32, Network Performance: 50 Gbps) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Bring your own license db m6i.xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.xlarge, Memory: 16 GiB, vCPU: 4, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance Oracle Standard Two Bring your own license db m6i.large General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.large, Memory: 8 GiB, vCPU: 2, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance Oracle Standard Two Bring your own license db r6i.2xlarge.tpc2.mem4x Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.2xlarge.tpc2.mem4x, Memory: 256 GiB, vCPU: 8, Network Performance: 12.5 Gbps) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Bring your own license db t3.medium General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t3.medium, Memory: 4 GiB, vCPU: 2, Network Performance: Low to Moderate) 🌎
+  - Region added for metric Database Instance Oracle Standard Two Bring your own license db t3.large General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t3.large, Memory: 8 GiB, vCPU: 2, Network Performance: Low to Moderate) 🌎
+  - Region added for metric Database Instance Oracle Standard Two Bring your own license db m6i.2xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.2xlarge, Memory: 32 GiB, vCPU: 8, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Bring your own license db r6i.large.tpc1.mem2x Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.large.tpc1.mem2x, Memory: 32 GiB, vCPU: 2, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Bring your own license db r6i.12xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: 18.75 Gbps) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Bring your own license db m6i.12xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.12xlarge, Memory: 192 GiB, vCPU: 48, Network Performance: 18.75 Gbps) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Bring your own license db m6i.32xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.32xlarge, Memory: 512 GiB, vCPU: 128, Network Performance: 50 Gbps) 🌎
+  - Region added for metric Database Instance Oracle Standard Two Bring your own license db t3.xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t3.xlarge, Memory: 16 GiB, vCPU: 4, Network Performance: Moderate) 🌎
+  - Region added for metric Database Instance Oracle Standard Two Bring your own license db m6i.4xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.4xlarge, Memory: 64 GiB, vCPU: 16, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Bring your own license db r6i.large Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance Oracle Standard Two Bring your own license db m6i.xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.xlarge, Memory: 16 GiB, vCPU: 4, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance Oracle Standard Two Bring your own license db r6i.large.tpc1.mem2x Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.large.tpc1.mem2x, Memory: 32 GiB, vCPU: 2, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Bring your own license db r6i.xlarge.tpc2.mem4x Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.xlarge.tpc2.mem4x, Memory: 128 GiB, vCPU: 4, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance Oracle Standard Two Bring your own license db t3.medium General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t3.medium, Memory: 4 GiB, vCPU: 2, Network Performance: Low to Moderate) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Bring your own license db m6i.8xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.8xlarge, Memory: 128 GiB, vCPU: 32, Network Performance: 12.5 Gbps) 🌎
+  - Region added for metric Database Instance Oracle Standard Two Bring your own license db r6i.2xlarge.tpc2.mem8x Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.2xlarge.tpc2.mem8x, Memory: 512 GiB, vCPU: 8, Network Performance: 25 Gbps) 🌎
+  - Region added for metric Database Instance Oracle Standard Two Bring your own license db t3.small General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t3.small, Memory: 2 GiB, vCPU: 2, Network Performance: Low to Moderate) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Bring your own license db r6i.4xlarge.tpc2.mem4x Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.4xlarge.tpc2.mem4x, Memory: 512 GiB, vCPU: 16, Network Performance: 25 Gbps) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Bring your own license db r6i.2xlarge.tpc2.mem4x Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.2xlarge.tpc2.mem4x, Memory: 256 GiB, vCPU: 8, Network Performance: 12.5 Gbps) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Bring your own license db m6i.8xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.8xlarge, Memory: 128 GiB, vCPU: 32, Network Performance: 12.5 Gbps) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Bring your own license db r6i.16xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: 25 Gbps) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Bring your own license db r6i.4xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance Oracle Standard Two Bring your own license db r6i.large Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Performance Insights ProvisionedFMR vCPU-Months: Asia Pacific (Taipei) 🌎
+  - Region added for metric Database Storage Multi AZ General Purpose: Asia Pacific (Taipei) 🌎
+  - Region added for metric Provisioned GP3 IOPS Single AZ: Asia Pacific (Taipei) 🌎
+  - Region added for metric Provisioned GP3 IOPS Multi AZ: Asia Pacific (Taipei) 🌎
+  - Region added for metric Provisioned Throughput Single AZ: Asia Pacific (Taipei) 🌎
+  - Region added for metric Database Storage Single AZ General Purpose-GP3: Asia Pacific (Taipei) 🌎
+  - Region added for metric Performance Insights ProvisionedAMR vCPU-Months: Asia Pacific (Taipei) 🌎
+  - Region added for metric Database Storage Multi AZ Provisioned IOPS-IO2: Asia Pacific (Taipei) 🌎
+  - Region added for metric Database Storage Multi AZ General Purpose-GP3: Asia Pacific (Taipei) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ: Asia Pacific (Taipei) 🌎
+  - Region added for metric Provisioned IO2 IOPS Single AZ: Asia Pacific (Taipei) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2: Asia Pacific (Taipei) 🌎
+  - Region added for metric Provisioned IOPS Single AZ: Asia Pacific (Taipei) 🌎
+  - Region added for metric Provisioned IOPS Multi AZ: Asia Pacific (Taipei) 🌎
+  - Region added for metric Database Storage Single AZ General Purpose: Asia Pacific (Taipei) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS: Asia Pacific (Taipei) 🌎
+  - Region added for metric Database Storage Multi AZ Provisioned IOPS: Asia Pacific (Taipei) 🌎
+  - Region added for metric qH1Fb_w6gsIdXjYkWeTEer98-3fLmK4eh02KB5yW9eA V1: Asia Pacific (Taipei) 🌎
+  - Billing metric added: MnvK-b4LrwcAJYEDTXZrGSi8SBhekoTJ9dXZ8RIhCiM V1 💡
+  - Billing metric added: XK1kef7_ylQXfQi3AMKtKPV8kOmVtXPc3ttb7nkIAxA V1 💡
+  - Billing metric added: YHrMg3cbeTvzoFfhqpdTjZ0Id04DIB82n7xvM2Gw2AI V1 💡
+  - Billing metric added: _N5rmjFfNuf0WbiSn1Bag4UDjtkrbcR9hIz-4J1Loq0 V1 💡
+  - Region added for metric Database Instance Oracle Enterprise Bring your own license db r6i.12xlarge.tpc2.mem2x Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.12xlarge.tpc2.mem2x, Memory: 768 GiB, vCPU: 48, Network Performance: 37.5 Gbps) 🌎
+
+- [rds-mariadb-ondemand](processed/rds-mariadb-ondemand.json)
+  - Region added for metric 04Fr542JqNTAj3hbefJMBfYe3rFkxGOLrv-hfy16gWI V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric 0D756xSdFIrIn4fn0r0yvgJ5NRrASz5Hp0_xoFMSIXI V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric 0R1zOGxjNQUQUIHuGwMB8n9km2a2fcU3QKRT2hRGVgA V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric 2BD4x6K359HaQ4KUj01TTpscy-ZTu3PaEG_yHWP0ThI V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric 2mg15uTn9RkH1cyFGg2PzcjeNJ21qMlN74IiXSb74V0 V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric 2uCwpCO1at2JXMT8KwQWtltN2fXFW1lastL4ECXe6ZY V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric 3qLc7ouxC_X_Cl0jDFeBnKBYsWEIErVzXJ6EZLIdI3E V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric 40tN5cvvbJdQpBvytRKGG6SH-Z0o8hkvetgnUaViPbs V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric 5KiRVBxHiTM-mKGq6DCMwoGOxXuwUsc0-HzjPMzr7Sc V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric 5RfCyQgkdILcXvWPxve4-tbBtCyDfhMcA6pK-uRQgH4 V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric 5lLPo2kIQ98CDac72DiVBfv3Q5X-KtigegHOd8_OsRk V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric 6_RhSGqD5GwrSDB7JWAzP2xLEqZ8mHuf7aomJZ_bqgM V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric 7I_xVgKBZf1FrMQwYmVEL32FB3fBUTaXF28gUadx_oU V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric 7obTQLvnvDpoPC59TJTGuitMJLaIBLg6JAJ0XekB3rY V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric 8FGROlzvXDn7LBw27nF8i1C9RfkHSTzBJ0IgyWkOWXM V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric 9kcfu5u26m5SZ0c3C2evLCORr968EGmad4HHb0RaPeA V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric A4PILTtVZ4FKi6wjOiOtHj_dmKtIubiZ4xv2O0IPVD8 V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric B6o_iYjRx4GB6cEnKqmYRDAQ48ZXqLKcQpZa3rSQ4oU V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric BiguwLEtqaRARWKR_B9dSEe8m3gQyVBFMzYKoVf7imI V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric BwMl2ilbBdwG9_LJdUNKJAyWaIMaPgcF8wDH-VqZOc0 V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric D5FlQe2F8_F8Qa-ntWeywctoYaZVc7XMYWicj5OUscM V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric D_j_iDLS46DCrurUCzPMori52FKtHM6D5hrHiAJoFLY V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric DmhWNfCCtHlI2btm7PAbe-xMqQa1rP9fGLshDiY2bp8 V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric EYvfR3bgPy9tSWjDHLIdnMhmrz2EQYTuZvrfGQYPQDs V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric EfEQJmHDItV7rrt7sbcT9ph0fBFdxW7r6yYHUAUNLAM V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric I0cqeXm9FHGVAoPVeUupBKizDPzx_59y6Ou_33V3rwY V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric Ir_va-BQ0pnLFeAXr2bAEdwsqEk1FvCdrbBBvjnh9BI V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric JMTRzo9YBPWxZ8dMSP1e_VU1blrhMDto0NfwKJK6d60 V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric JnFESZ8fdVXYvX4S5aLuEqpTMGNIF5g_AWGVj1n-jPc V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric JvbTDJYZ-cowsmWHUnbUDlyyiGGUksXGibCa5QXf2HM V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric JwcO5-jFsraTdLcizaO1J3p5jXtXBr72jwPh3a5g3ng V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric K2uwPflyot9KqURCviUHpdUc3NtGbLnmlJ77qbG78bs V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric KNXbjyr4_Gi85ohauJv8_QcofQ86rLajJ00jCiL6h1E V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric KciPuZY4N6IVz9CSGLklSDvtYuIU05iWVumWOzpaLEo V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric L2eV3bSbbRw6JyGkWVPVaQtchvadsloyXxvgFIbnpK8 V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric LNUGp2t-GFHA0DuJM5GTNSXrdABW1UNl6XlGvr2v1uU V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric MPo-rAiw6DKoFoaffZZAt0Nn1_XmnYELbGETpIwpvao V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric NFb3pa2H9gQYtPnyynQFJCvfSbHJZRNrsETgmyJe29Y V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric NxawPB42D7uHHqXDcZFk3datTcbwHuZRf0mM2Kxa9f8 V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric PAPlx-y1PGX0X3sjLj_8oTbQFjcnj1QQx5JOn2ubwa0 V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4 V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric RMkLrOUBKEzkEFswk-eipOZ4zNItWd10bkiJujzkc9Y V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric RSYxLm1KuvjPr4iIzCm1njpS9_wAaN1dbg0-bOguIeo V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric RuagrDrSuWAssNrUuRn4N-hvqxMRHzOD6FGIfwVBL5I V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric SgTESMzFJqYiEIM0UpdHolL_dCgO_TsPlYilCOZ8qHA V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric T2qPsc9GVxJ2pKHJLsinTSPtmtcE8SOvizmhxmcagfU V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric TDzw5mNDbR4SLJJuhynmMI2Mjfg-DbDAWkPBtXF4Au4 V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric TlD2Q3MsWQedYN7MjmrdcTZAylilNxQAE-8uLH5-juE V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric TtHkIogcTXItps4wr0_qedVQu0PED9PPm4TrQQyXAmI V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric VIEMEi6Pz_Iva50qyXOTdmVw3CrvpCPOl2sqI8cRPYo V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric WBsM62k7SjGghwUZRrHgmZ0awhskDcjXzdcYtmAMhfI V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric XKAIbuAoBC1jmakD0J2hZ4vEIMCVuT8NiK5AB9zUGa8 V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric XS9VmAdCquKc2qafGloCI_2PjKtRD0gH6LPcnkG1Jj4 V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric XUfOVfJ3YaHmuyp3x_SjWIIhq6SwCbeiw8mSn3voWg8 V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric YrS_AagZ3qTp8M4MBSATPHEGZKvFikEgnFfTTEs-W7Q V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric Z0yxqf8qmBvLkJE1s3UZVayOTf-0dsxBNY0WI243tA8 V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric ZO-p_TI26JusrjKq5WteuWppOW8qSXxLKWFpTl08aNs V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric _zLweIpUMZGdoYP3NHvHfQnKmde3qQbtuZrJxDF4XyE V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric annXp-txapZaQQpv_Dhenfyjbl4Banhwt_NKZbPaoPg V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric b1jexfSkd6oSdy1JCcjw6YXmPkc7pwhnuj9x2Dun-Gw V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric banUqEzE98KC5FGj0VDyYhE-4dIqOIQSCmIAmhSj-2M V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric dQ23GiD4J3nTR4MYRwPK-hvKeeYi4TklDjtDnZIfams V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric e0-Xhifjr45vpsN1G_OY53MU4qudyJGoSwJLeFtj6nw V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric e0Zr7ZXcTAKHZg0pB37TOUm4UXEGPOq2OJeC1VaWHvg V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric ebUNd6vO0Smc7kLAXPvF777MkWi0jBv59kROXhZCT5o V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric fRjQ9csE0lK4OVcs9q75rpX-f7lH1k7e659Ia5p1puM V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric ffDWQzlDrfAmJ0rzWzT4zed_utBYtMUoQtm9FWDXEsU V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric gh5KWxcnafbKhACAMmVB9LzdZ-6QtNZE5jVzgOkIFeg V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric idK1D2ArD6Y82ERNfsx4BTHl_RM8thQblBzOHjwhVQc V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric irESFRo-3ECHod1OrT8ozbVkzWLv9WYgQtWES6X5C3k V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric lw3R2ZhWgKtgC_zyDbUYLfaLYjM9V-pl5ZKp0Otn_jw V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric lzKeKwJnD0Yz8I4w4tzrLhrsbx6hT7fNUk9A2QrrYl8 V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric m0_Blx5ykko2W-wpuJb5IsQpSO3CGGpFHsB6lW9ASVo V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric m0bKw7bbQMy-bzZ6eQUyro51fLGSN03FoboEhLM7zkk V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric qEx2E7EST1oGUbYv7K0j74P4SWKXpSBIwY70CFErBDI V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric r1acpAjUJMWu6HzZWB_WWeeiSTchU4SweKeiEokSywg V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric r47koz-weGQuI6uPlSPBRi6E--mbSGNUmF-n_cAuvZQ V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric rEdYLLWoAu4Ubj7DT5dci3k103hyEpEIcCQ0ilG5xBI V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric rr8v9OuHF5GRJLFpFUn7DtjDPwygv7Qzwa28uY9A0Es V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric s4XvShUUNh5M_pgrVgfp4-15ak-yqDSRbWrC29F_oNI V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric sK-u9vG_XISrMWZYIHHXC1-ufXdEjhBLoHORMIRA0YY V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric sLRt1onShImYxr0FTwrOQVdIqKIdyrK0lBtqB7b0Z8U V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric swcCaNyGMl4Rb8INIscY5U0jrIh6JoxjwrxMfl2q9j8 V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric tRZJBPPZx8FaLsr1ArvxiZDQ40emRz1ZRgAGrNNSa2Q V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric taAkD2uxN8KYur24VHKTzn8vqPc-Ka19gzN-WfmKRis V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric uS7VLAtRHduh7AVBqrDKnOVzEhvHghiSyyJn3CV0cAc V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric uW2jqC6e0uraeLodYWQd8BCRAxHrOwSSKp3__XGXgos V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric ubW-z3N6cfPv2xLYRwVFUFmMwUPWo4d1xbyQxKvtDoI V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric vyA3iX9dK-YT3c95y_yvq7qxACctKq4jpAWc-tfAZmY V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric w0xM93xbSr-oK80Zh9htL7rQ-eLNVg4kHwLOAHmsqFo V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric wXCucOVKGLn9gBKZrykNaaWmSZUC9yGbLFIQhJ6iY4o V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric wkpxRhIbH3R3W9OGivAPY9T1m4dosrfViBEXA1m5iWU V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric x-fV2fP-MKHX3GVZDFB1lz0i3ROb1LAAbt4Yrohevkw V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric xlDwUI5y8ng-mcDkcr3BJfhEFdNttBXQqCC1OWexBes V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric y3zu12WRIf-BYpj-5DNOKEQFEBM0DoM7xuF1EjzM6ug V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric yhGZ6kigrL_tyuF_w1lbkrogTbuZW1yhBemwTo8tnTg V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric ym1QkiZsvUZSBu7egKudjvBTfKZeDwQfStE3r11sk-U V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric yqIo_VoixGMLbO42g9r20WFPcr3led3WkMelRZoxIG8 V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric zRGaq-fU3lXmY_4ZBMYkN2GH6FfC69FU2eXXSYkRukA V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric Database Instance MariaDB No license required db m6i.xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.xlarge, Memory: 16 GiB, vCPU: 4, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance MariaDB No license required db m6id.large General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6id.large, Memory: 8 GiB, vCPU: 2, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance MariaDB No license required db m6i.2xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.2xlarge, Memory: 32 GiB, vCPU: 8, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance MariaDB No license required db r7g.2xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r7g.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 15 Gigabit) 🌎
+  - Region added for metric Database Instance MariaDB No license required db r6gd.xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6gd.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit) 🌎
+  - Region added for metric Database Instance MariaDB No license required db r7i.12xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r7i.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: 18.75 Gbps) 🌎
+  - Region added for metric Database Instance MariaDB No license required db m6id.2xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6id.2xlarge, Memory: 32 GiB, vCPU: 8, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance MariaDB No license required db r6i.24xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.24xlarge, Memory: 768 GiB, vCPU: 96, Network Performance: 37.5 Gbps) 🌎
+  - Region added for metric Database Instance MariaDB No license required db m7i.2xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m7i.2xlarge, Memory: 32 GiB, vCPU: 8, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance MariaDB No license required db m7i.12xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m7i.12xlarge, Memory: 192 GiB, vCPU: 48, Network Performance: 18.75 Gbps) 🌎
+  - Region added for metric Database Instance MariaDB No license required db m6i.16xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.16xlarge, Memory: 256 GiB, vCPU: 64, Network Performance: 25 Gbps) 🌎
+  - Region added for metric Database Instance MariaDB No license required db r6g.xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6g.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit) 🌎
+  - Region added for metric Database Instance MariaDB No license required db r6g.2xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6g.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit) 🌎
+  - Region added for metric Database Instance MariaDB No license required db r7i.large Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r7i.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance MariaDB No license required db m6id.xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6id.xlarge, Memory: 16 GiB, vCPU: 4, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance MariaDB No license required db r7i.4xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r7i.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance MariaDB No license required db r6g.2xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6g.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit) 🌎
+  - Region added for metric Database Instance MariaDB No license required db r6g.16xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6g.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: 25 Gigabit) 🌎
+  - Region added for metric Database Instance MariaDB No license required db r6i.large Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance MariaDB No license required db m6g.12xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6g.12xlarge, Memory: 192 GiB, vCPU: 48, Network Performance: 12 gigabit) 🌎
+  - Region added for metric Database Instance MariaDB No license required db m7g.large General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m7g.large, Memory: 8 GiB, vCPU: 2, Network Performance: Up to 12.5 Gigabit) 🌎
+  - Region added for metric Database Instance MariaDB No license required db r6i.4xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance MariaDB No license required db m7i.large General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m7i.large, Memory: 8 GiB, vCPU: 2, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance MariaDB No license required db t4g.large General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t4g.large, Memory: 8 GiB, vCPU: 2, Network Performance: Up to 5 Gigabit) 🌎
+  - Region added for metric Database Instance MariaDB No license required db r6g.4xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6g.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit) 🌎
+  - Region added for metric Database Instance MariaDB No license required db m6id.4xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6id.4xlarge, Memory: 64 GiB, vCPU: 16, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance MariaDB No license required db r6id.4xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6id.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance MariaDB No license required db r6i.xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance MariaDB No license required db r6i.2xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance MariaDB No license required db m6g.large General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6g.large, Memory: 8 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit) 🌎
+  - Region added for metric Database Instance MariaDB No license required db r6gd.16xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6gd.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: 25 Gigabit) 🌎
+  - Region added for metric Database Instance MariaDB No license required db r6gd.12xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6gd.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: 20 Gigabit) 🌎
+  - Region added for metric Database Instance MariaDB No license required db r6gd.large Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6gd.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit) 🌎
+  - Region added for metric Database Instance MariaDB No license required db r6id.16xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6id.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: 25 Gbps) 🌎
+  - Region added for metric Database Instance MariaDB No license required db m6gd.16xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6gd.16xlarge, Memory: 256 GiB, vCPU: 64, Network Performance: 25 Gigabit) 🌎
+  - Region added for metric Database Instance MariaDB No license required db m6gd.8xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6gd.8xlarge, Memory: 128 GiB, vCPU: 32, Network Performance: 10 Gigabit) 🌎
+  - Region added for metric Database Instance MariaDB No license required db t4g.medium General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t4g.medium, Memory: 4 GiB, vCPU: 2, Network Performance: Up to 5 Gigabit) 🌎
+  - Region added for metric Database Instance MariaDB No license required db m7g.8xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m7g.8xlarge, Memory: 128 GiB, vCPU: 32, Network Performance: 15 Gigabit) 🌎
+  - Region added for metric Database Instance MariaDB No license required db r7g.8xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r7g.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: 15 Gigabit) 🌎
+  - Region added for metric Database Instance MariaDB No license required db m7i.24xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m7i.24xlarge, Memory: 384 GiB, vCPU: 96, Network Performance: 37.5 Gbps) 🌎
+  - Region added for metric Database Instance MariaDB No license required db t4g.medium General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t4g.medium, Memory: 4 GiB, vCPU: 2, Network Performance: Up to 5 Gigabit) 🌎
+  - Region added for metric Database Instance MariaDB No license required db r6i.xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance MariaDB No license required db r6g.large Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6g.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit) 🌎
+  - Region added for metric Database Instance MariaDB No license required db m6gd.2xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6gd.2xlarge, Memory: 32 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit) 🌎
+  - Region added for metric Database Instance MariaDB No license required db r7i.large Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r7i.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance MariaDB No license required db m6i.12xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.12xlarge, Memory: 192 GiB, vCPU: 48, Network Performance: 18.75 Gbps) 🌎
+  - Region added for metric Database Instance MariaDB No license required db t3.xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t3.xlarge, Memory: 16 GiB, vCPU: 4, Network Performance: Moderate) 🌎
+  - Region added for metric Database Instance MariaDB No license required db m6gd.8xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6gd.8xlarge, Memory: 128 GiB, vCPU: 32, Network Performance: 10 Gigabit) 🌎
+  - Region added for metric Database Instance MariaDB No license required db t4g.2xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t4g.2xlarge, Memory: 32 GiB, vCPU: 8, Network Performance: Up to 5 Gigabit) 🌎
+  - Region added for metric Database Instance MariaDB No license required db m6gd.12xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6gd.12xlarge, Memory: 192 GiB, vCPU: 48, Network Performance: 12 gigabit) 🌎
+  - Region added for metric Database Instance MariaDB No license required db r6g.12xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6g.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: 20 Gigabit) 🌎
+  - Region added for metric Database Instance MariaDB No license required db r6g.large Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6g.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit) 🌎
+  - Region added for metric Database Instance MariaDB No license required db m6g.2xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6g.2xlarge, Memory: 32 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit) 🌎
+  - Region added for metric Database Instance MariaDB No license required db m7i.8xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m7i.8xlarge, Memory: 128 GiB, vCPU: 32, Network Performance: 12.5 Gbps) 🌎
+  - Region added for metric Database Instance MariaDB No license required db m7i.2xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m7i.2xlarge, Memory: 32 GiB, vCPU: 8, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance MariaDB No license required db r7i.24xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r7i.24xlarge, Memory: 768 GiB, vCPU: 96, Network Performance: 37.5 Gbps) 🌎
+  - Region added for metric Database Instance MariaDB No license required db m6i.4xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.4xlarge, Memory: 64 GiB, vCPU: 16, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance MariaDB No license required db m7g.12xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m7g.12xlarge, Memory: 192 GiB, vCPU: 48, Network Performance: 20 Gigabit) 🌎
+  - Region added for metric Database Instance MariaDB No license required db r6gd.8xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6gd.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: 10 Gigabit) 🌎
+  - Region added for metric Database Instance MariaDB No license required db m6gd.large General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6gd.large, Memory: 8 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit) 🌎
+  - Region added for metric Database Instance MariaDB No license required db r7i.16xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r7i.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: 25 Gbps) 🌎
+  - Region added for metric Database Instance MariaDB No license required db r7g.4xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r7g.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 15 Gigabit) 🌎
+  - Region added for metric Database Instance MariaDB No license required db r6g.12xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6g.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: 20 Gigabit) 🌎
+  - Region added for metric Database Instance MariaDB No license required db r6gd.4xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6gd.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit) 🌎
+  - Region added for metric Database Instance MariaDB No license required db r7i.16xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r7i.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: 25 Gbps) 🌎
+  - Region added for metric Database Instance MariaDB No license required db m6i.32xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.32xlarge, Memory: 512 GiB, vCPU: 128, Network Performance: 50 Gbps) 🌎
+  - Region added for metric Database Instance MariaDB No license required db m6g.12xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6g.12xlarge, Memory: 192 GiB, vCPU: 48, Network Performance: 12 gigabit) 🌎
+  - Region added for metric Database Instance MariaDB No license required db t4g.large General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t4g.large, Memory: 8 GiB, vCPU: 2, Network Performance: Up to 5 Gigabit) 🌎
+  - Region added for metric Database Instance MariaDB No license required db r7g.2xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r7g.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 15 Gigabit) 🌎
+  - Region added for metric Database Instance MariaDB No license required db r7i.2xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r7i.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance MariaDB No license required db r6id.xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6id.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance MariaDB No license required db m6i.4xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.4xlarge, Memory: 64 GiB, vCPU: 16, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance MariaDB No license required db t3.large General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t3.large, Memory: 8 GiB, vCPU: 2, Network Performance: Low to Moderate) 🌎
+  - Region added for metric Database Instance MariaDB No license required db r7i.12xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r7i.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: 18.75 Gbps) 🌎
+  - Region added for metric Database Instance MariaDB No license required db r6id.large Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6id.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance MariaDB No license required db r6id.4xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6id.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance MariaDB No license required db m6g.4xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6g.4xlarge, Memory: 64 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit) 🌎
+  - Region added for metric Database Instance MariaDB No license required db m6id.24xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6id.24xlarge, Memory: 384 GiB, vCPU: 96, Network Performance: 37.5 Gbps) 🌎
+  - Region added for metric Database Instance MariaDB No license required db m6i.32xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.32xlarge, Memory: 512 GiB, vCPU: 128, Network Performance: 50 Gbps) 🌎
+  - Region added for metric Database Instance MariaDB No license required db r7i.8xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r7i.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: 12.5 Gbps) 🌎
+  - Region added for metric Database Instance MariaDB No license required db m6gd.4xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6gd.4xlarge, Memory: 64 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit) 🌎
+  - Region added for metric Database Instance MariaDB No license required db m6i.large General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.large, Memory: 8 GiB, vCPU: 2, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance MariaDB No license required db r7g.12xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r7g.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: 22.5 Gigabit) 🌎
+  - Region added for metric Database Instance MariaDB No license required db m6id.32xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6id.32xlarge, Memory: 512 GiB, vCPU: 128, Network Performance: 50 Gbps) 🌎
+  - Region added for metric Database Instance MariaDB No license required db m7i.8xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m7i.8xlarge, Memory: 128 GiB, vCPU: 32, Network Performance: 12.5 Gbps) 🌎
+  - Region added for metric Database Instance MariaDB No license required db r6g.8xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6g.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: 10 Gigabit) 🌎
+  - Region added for metric Database Instance MariaDB No license required db m7g.16xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m7g.16xlarge, Memory: 256 GiB, vCPU: 64, Network Performance: 25 Gigabit) 🌎
+  - Region added for metric Database Instance MariaDB No license required db m6g.2xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6g.2xlarge, Memory: 32 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit) 🌎
+  - Region added for metric Database Instance MariaDB No license required db r7g.16xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r7g.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: 30 Gigabit) 🌎
+  - Region added for metric Database Instance MariaDB No license required db r6id.12xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6id.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: 18.75 Gbps) 🌎
+  - Region added for metric Database Instance MariaDB No license required db m6g.16xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6g.16xlarge, Memory: 256 GiB, vCPU: 64, Network Performance: 25 Gigabit) 🌎
+  - Region added for metric Database Instance MariaDB No license required db m6g.8xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6g.8xlarge, Memory: 128 GiB, vCPU: 32, Network Performance: 10 Gigabit) 🌎
+  - Region added for metric Database Instance MariaDB No license required db m7i.4xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m7i.4xlarge, Memory: 64 GiB, vCPU: 16, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance MariaDB No license required db r7g.4xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r7g.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 15 Gigabit) 🌎
+  - Region added for metric Database Instance MariaDB No license required db m6id.xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6id.xlarge, Memory: 16 GiB, vCPU: 4, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance MariaDB No license required db m7g.2xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m7g.2xlarge, Memory: 32 GiB, vCPU: 8, Network Performance: Up to 15 Gigabit) 🌎
+  - Region added for metric Database Instance MariaDB No license required db r6id.large Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6id.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance MariaDB No license required db m6gd.xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6gd.xlarge, Memory: 16 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit) 🌎
+  - Region added for metric Database Instance MariaDB No license required db r6i.2xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance MariaDB No license required db r7i.xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r7i.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance MariaDB No license required db r6i.24xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.24xlarge, Memory: 768 GiB, vCPU: 96, Network Performance: 37.5 Gbps) 🌎
+  - Region added for metric Database Instance MariaDB No license required db m6id.32xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6id.32xlarge, Memory: 512 GiB, vCPU: 128, Network Performance: 50 Gbps) 🌎
+  - Region added for metric Database Instance MariaDB No license required db m7g.large General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m7g.large, Memory: 8 GiB, vCPU: 2, Network Performance: Up to 12.5 Gigabit) 🌎
+  - Region added for metric Database Instance MariaDB No license required db m6i.24xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.24xlarge, Memory: 384 GiB, vCPU: 96, Network Performance: 37.5 Gbps) 🌎
+  - Region added for metric Database Instance MariaDB No license required db m7i.12xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m7i.12xlarge, Memory: 192 GiB, vCPU: 48, Network Performance: 18.75 Gbps) 🌎
+  - Region added for metric Database Instance MariaDB No license required db r7i.48xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r7i.48xlarge, Memory: 1536 GiB, vCPU: 192, Network Performance: 50 Gbps) 🌎
+  - Region added for metric Database Instance MariaDB No license required db m6id.4xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6id.4xlarge, Memory: 64 GiB, vCPU: 16, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance MariaDB No license required db r6id.24xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6id.24xlarge, Memory: 768 GiB, vCPU: 96, Network Performance: 37.5 Gbps) 🌎
+  - Region added for metric Database Instance MariaDB No license required db r6i.32xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.32xlarge, Memory: 1024 GiB, vCPU: 128, Network Performance: 50 Gbps) 🌎
+  - Region added for metric Database Instance MariaDB No license required db m6gd.16xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6gd.16xlarge, Memory: 256 GiB, vCPU: 64, Network Performance: 25 Gigabit) 🌎
+  - Region added for metric Database Instance MariaDB No license required db r7i.48xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r7i.48xlarge, Memory: 1536 GiB, vCPU: 192, Network Performance: 50 Gbps) 🌎
+  - Region added for metric Database Instance MariaDB No license required db r6gd.2xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6gd.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit) 🌎
+  - Region added for metric Database Instance MariaDB No license required db r6i.12xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: 18.75 Gbps) 🌎
+  - Region added for metric Database Instance MariaDB No license required db r6id.8xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6id.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: 12.5 Gbps) 🌎
+  - Region added for metric Database Instance MariaDB No license required db t4g.2xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t4g.2xlarge, Memory: 32 GiB, vCPU: 8, Network Performance: Up to 5 Gigabit) 🌎
+  - Region added for metric Database Instance MariaDB No license required db r6g.16xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6g.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: 25 Gigabit) 🌎
+  - Region added for metric Database Instance MariaDB No license required db m6gd.2xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6gd.2xlarge, Memory: 32 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit) 🌎
+  - Region added for metric Database Instance MariaDB No license required db r7g.large Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r7g.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 12.5 Gigabit) 🌎
+  - Region added for metric Database Instance MariaDB No license required db t4g.xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t4g.xlarge, Memory: 16 GiB, vCPU: 4, Network Performance: Up to 5 Gigabit) 🌎
+  - Region added for metric Database Instance MariaDB No license required db r6gd.xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6gd.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit) 🌎
+  - Region added for metric Database Instance MariaDB No license required db r6id.24xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6id.24xlarge, Memory: 768 GiB, vCPU: 96, Network Performance: 37.5 Gbps) 🌎
+  - Region added for metric Database Instance MariaDB No license required db r7i.8xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r7i.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: 12.5 Gbps) 🌎
+  - Region added for metric Database Instance MariaDB No license required db t3.medium General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t3.medium, Memory: 4 GiB, vCPU: 2, Network Performance: Low to Moderate) 🌎
+  - Region added for metric Database Instance MariaDB No license required db m6g.xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6g.xlarge, Memory: 16 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit) 🌎
+  - Region added for metric Database Instance MariaDB No license required db r6gd.large Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6gd.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit) 🌎
+  - Region added for metric Database Instance MariaDB No license required db m6id.16xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6id.16xlarge, Memory: 256 GiB, vCPU: 64, Network Performance: 25 Gbps) 🌎
+  - Region added for metric Database Instance MariaDB No license required db m6i.large General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.large, Memory: 8 GiB, vCPU: 2, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance MariaDB No license required db m6id.8xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6id.8xlarge, Memory: 128 GiB, vCPU: 32, Network Performance: 12.5 Gbps) 🌎
+  - Region added for metric Database Instance MariaDB No license required db r6i.16xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: 25 Gbps) 🌎
+  - Region added for metric Database Instance MariaDB No license required db t3.small General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t3.small, Memory: 2 GiB, vCPU: 2, Network Performance: Low to Moderate) 🌎
+  - Region added for metric Database Instance MariaDB No license required db m7i.48xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m7i.48xlarge, Memory: 768 GiB, vCPU: 192, Network Performance: 50 Gbps) 🌎
+  - Region added for metric Database Instance MariaDB No license required db r6id.2xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6id.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance MariaDB No license required db m6gd.xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6gd.xlarge, Memory: 16 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit) 🌎
+  - Region added for metric Database Instance MariaDB No license required db r6i.8xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: 12.5 Gbps) 🌎
+  - Region added for metric Database Instance MariaDB No license required db r6id.32xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6id.32xlarge, Memory: 1024 GiB, vCPU: 128, Network Performance: 50 Gbps) 🌎
+  - Region added for metric Database Instance MariaDB No license required db r6i.32xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.32xlarge, Memory: 1024 GiB, vCPU: 128, Network Performance: 50 Gbps) 🌎
+  - Region added for metric Database Instance MariaDB No license required db m6i.16xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.16xlarge, Memory: 256 GiB, vCPU: 64, Network Performance: 25 Gbps) 🌎
+  - Region added for metric Database Instance MariaDB No license required db m7i.4xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m7i.4xlarge, Memory: 64 GiB, vCPU: 16, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance MariaDB No license required db r6id.32xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6id.32xlarge, Memory: 1024 GiB, vCPU: 128, Network Performance: 50 Gbps) 🌎
+  - Region added for metric Database Instance MariaDB No license required db m6g.xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6g.xlarge, Memory: 16 GiB, vCPU: 4, Network Performance: Up to 10 Gigabit) 🌎
+  - Region added for metric Database Instance MariaDB No license required db r7g.xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r7g.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 12.5 Gigabit) 🌎
+  - Region added for metric Database Instance MariaDB No license required db t3.2xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t3.2xlarge, Memory: 32 GiB, vCPU: 8, Network Performance: Moderate) 🌎
+  - Region added for metric Database Instance MariaDB No license required db r6gd.2xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6gd.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 10 Gigabit) 🌎
+  - Region added for metric Database Instance MariaDB No license required db m7i.16xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m7i.16xlarge, Memory: 256 GiB, vCPU: 64, Network Performance: 25 Gbps) 🌎
+  - Region added for metric Database Instance MariaDB No license required db m7g.xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m7g.xlarge, Memory: 16 GiB, vCPU: 4, Network Performance: Up to 12.5 Gigabit) 🌎
+  - Region added for metric Database Instance MariaDB No license required db r7i.24xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r7i.24xlarge, Memory: 768 GiB, vCPU: 96, Network Performance: 37.5 Gbps) 🌎
+  - Region added for metric Database Instance MariaDB No license required db m6g.8xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6g.8xlarge, Memory: 128 GiB, vCPU: 32, Network Performance: 10 Gigabit) 🌎
+  - Region added for metric Database Instance MariaDB No license required db m7g.4xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m7g.4xlarge, Memory: 64 GiB, vCPU: 16, Network Performance: Up to 15 Gigabit) 🌎
+  - Region added for metric Database Instance MariaDB No license required db t3.2xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t3.2xlarge, Memory: 32 GiB, vCPU: 8, Network Performance: Moderate) 🌎
+  - Region added for metric Database Instance MariaDB No license required db t3.large General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t3.large, Memory: 8 GiB, vCPU: 2, Network Performance: Low to Moderate) 🌎
+  - Region added for metric Database Instance MariaDB No license required db m6gd.12xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6gd.12xlarge, Memory: 192 GiB, vCPU: 48, Network Performance: 12 gigabit) 🌎
+  - Region added for metric Database Instance MariaDB No license required db m6id.large General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6id.large, Memory: 8 GiB, vCPU: 2, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance MariaDB No license required db r7i.4xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r7i.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance MariaDB No license required db m6gd.large General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6gd.large, Memory: 8 GiB, vCPU: 2, Network Performance: Up to 10 Gigabit) 🌎
+  - Region added for metric Database Instance MariaDB No license required db r6g.4xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6g.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 10 Gigabit) 🌎
+  - Region added for metric Database Instance MariaDB No license required db m7i.xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m7i.xlarge, Memory: 16 GiB, vCPU: 4, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance MariaDB No license required db m7g.2xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m7g.2xlarge, Memory: 32 GiB, vCPU: 8, Network Performance: Up to 15 Gigabit) 🌎
+  - Region added for metric Database Storage Multi AZ General Purpose: Asia Pacific (Taipei) 🌎
+  - Region added for metric Performance Insights ProvisionedAMR vCPU-Months: Asia Pacific (Taipei) 🌎
+  - Region added for metric Database Storage Multi AZ Provisioned IOPS-IO2: Asia Pacific (Taipei) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2: Asia Pacific (Taipei) 🌎
+  - Region added for metric Provisioned GP3 IOPS Single AZ: Asia Pacific (Taipei) 🌎
+  - Region added for metric Provisioned IOPS Multi AZ: Asia Pacific (Taipei) 🌎
+  - Region added for metric Database Storage Single AZ General Purpose-GP3: Asia Pacific (Taipei) 🌎
+  - Region added for metric Provisioned IOPS Single AZ: Asia Pacific (Taipei) 🌎
+  - Region added for metric Database Storage Multi AZ General Purpose-GP3: Asia Pacific (Taipei) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS: Asia Pacific (Taipei) 🌎
+  - Region added for metric Database Storage Multi AZ Provisioned IOPS: Asia Pacific (Taipei) 🌎
+  - Region added for metric Performance Insights ProvisionedFMR vCPU-Months: Asia Pacific (Taipei) 🌎
+  - Region added for metric Provisioned IO2 IOPS Single AZ: Asia Pacific (Taipei) 🌎
+  - Region added for metric Provisioned GP3 IOPS Multi AZ: Asia Pacific (Taipei) 🌎
+  - Region added for metric Database Storage Single AZ General Purpose: Asia Pacific (Taipei) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ: Asia Pacific (Taipei) 🌎
+  - Region added for metric qH1Fb_w6gsIdXjYkWeTEer98-3fLmK4eh02KB5yW9eA V2: Asia Pacific (Taipei) 🌎
+  - Billing metric added: MnvK-b4LrwcAJYEDTXZrGSi8SBhekoTJ9dXZ8RIhCiM V2 💡
+  - Billing metric added: XK1kef7_ylQXfQi3AMKtKPV8kOmVtXPc3ttb7nkIAxA V2 💡
+  - Billing metric added: YHrMg3cbeTvzoFfhqpdTjZ0Id04DIB82n7xvM2Gw2AI V2 💡
+  - Billing metric added: _N5rmjFfNuf0WbiSn1Bag4UDjtkrbcR9hIz-4J1Loq0 V2 💡
+
+- [rds-sqlserver-ondemand](processed/rds-sqlserver-ondemand.json)
+  - Region added for metric 0DVIxBEnDQEZHeTrPPqc-OCCkDPljSjBKVvktMpMW1Q V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric 1fCg37jjTv4niTAjfSA0YRwjg8DiUtA5uZ1XYxFScdY V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric 1kvJXUZ7N7yMIPpUJH7KQ6OLISWp8wgdbA2DPCDW_54 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric 2QHb85pB1UNenRLBmPNLCyBrFQxhVP1HZMZTUZR4X3o V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric 2uCwpCO1at2JXMT8KwQWtltN2fXFW1lastL4ECXe6ZY V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric 3J6yWsch-jVWMPx56LOyOnRd-MAIIOFxH6P1AXY3sU0 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric 3qLc7ouxC_X_Cl0jDFeBnKBYsWEIErVzXJ6EZLIdI3E V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric 4ebrLd0umZAl0FGyzPX_8LazWOpUk4xamAVu5fpMks4 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric 5GyeLmQrbRVMJG5TTs7JAShl20YtXptACP78LBG4Kqo V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric 5RfCyQgkdILcXvWPxve4-tbBtCyDfhMcA6pK-uRQgH4 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric 5lLPo2kIQ98CDac72DiVBfv3Q5X-KtigegHOd8_OsRk V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric 6QgqDhCK-ZaS6LoBR6JveoZvTFgV6WpGaikrZaOSQPA V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric 7uKy2zKMHBs_VRo4bf9oxdRa9mibTtN79ExyWNOjjgQ V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric 8JOjxMX-8GS2YgKfxS0fSt6ElcXk1WPkyWmvIkeJE2g V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric 8V-XYmtMXWAijle8_3KsL9rtnci5G4f1icYtzG3hq8A V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric 9LwRoJJ2K3GivoWWAelOqXKdF36DovBSIn4A8dqD-XY V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric 9gNvJBgwwjXn-92IrPpiT5dWVyWx8qH_YixcqF8OwPo V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric BiguwLEtqaRARWKR_B9dSEe8m3gQyVBFMzYKoVf7imI V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric C1i20FP0KkdQi0x-niIbRZ6gYYr9FSkLQch1JRmcmJU V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric DmhWNfCCtHlI2btm7PAbe-xMqQa1rP9fGLshDiY2bp8 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric EYvfR3bgPy9tSWjDHLIdnMhmrz2EQYTuZvrfGQYPQDs V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric EfEQJmHDItV7rrt7sbcT9ph0fBFdxW7r6yYHUAUNLAM V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric FJXT4Y0p9nEwM2ouBif0sjpxMcYFZGEsaFb_1plV0ac V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric FU21cFW2LDqbF5DoXkBLueNRNhQ4yNB1WUO1p6L6WAE V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric Fv89rp6yEl4HBmxzLY_y3_vCwiEwyc4w0CutX_Zjgbs V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric HjLCyiYXBKVHCx3bVPIckwUP-fKkioftIpmp5Jl335c V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric Hm_XGpG-f8GuOCImMZeUv5T__MnLsBxDWQE94ZiNJgw V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric IRD7MuFAM5nv_iZGOFZNaC7ohUv2Ci3cleYlElNAS6s V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric IarXVtKBGLw9-rJ8DgmpNtaPek900xoaodBfXndp-I4 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric Ir_va-BQ0pnLFeAXr2bAEdwsqEk1FvCdrbBBvjnh9BI V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric IvQ7BmNY2FGeXkEs8bPtJwr96ojxFqhyecqF4oz0qqk V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric K2uwPflyot9KqURCviUHpdUc3NtGbLnmlJ77qbG78bs V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric L2eV3bSbbRw6JyGkWVPVaQtchvadsloyXxvgFIbnpK8 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric LKYVwXcvmlVQsfClOe5V1m9bD-KMkt5DZi5c1RgOkrc V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric MPo-rAiw6DKoFoaffZZAt0Nn1_XmnYELbGETpIwpvao V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric MrtTEPTQZ3-HHIL9ePDBY39sUYJ5Wqg-Mu-IiUXY6O0 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric N4xnQyHiQDBXOEg5KHIutcroUZJeHX_t-MVbMpKWBeU V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric NJEcwKdTbnv-96JYdwqgUZnhoo27qiAihCeqxQGNzO0 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric P-Hb5kjCRZYPWAFFev6aA1KsNj9t-eaLhm-C31mtxZo V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric PYNhBKrO31SbvNVM_rzsgkSVL8HR7H0kr9vPfld_qv4 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric Qch7gK3gJcv6LpFaxvu6aZ0--anocqlszCzKFKeg5PY V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric R5EUB8pmE-KWjZdGh4HI1-WQXJU9HO8yx0eBX-OILUE V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric RMkLrOUBKEzkEFswk-eipOZ4zNItWd10bkiJujzkc9Y V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric RSYxLm1KuvjPr4iIzCm1njpS9_wAaN1dbg0-bOguIeo V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric RuagrDrSuWAssNrUuRn4N-hvqxMRHzOD6FGIfwVBL5I V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric U91WBrA55LxIJZjFinJ7o9xgmTngy6MpaicWcbCv06s V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric UnoS5tn7oH5RfD0ElhXQnjuyeHS1WUbBYSYPjfYmjOA V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric V6hfX_9Yy7hijjnD7-tdKyv-YKx4AmZPqFIi8c92hzo V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric WaDi2lx3aTKVaS1HQT6f-cU8T7TTp0TZNG0Z2tbt3PQ V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric XQnmdcCRK1rnUm-0RmhPzClRWz_Cjmj5H_IZs9xZnC0 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric XmtelWe9nijqA7eh5tZ-HeA9Z1V1DJRyBRyHJ7L-cSg V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric Ym-pcbCSu6UkzAAs7oWuRr3iOt9yLyaq1ZJMusFCbJs V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric YrXaRIHWsLwGAH8UHyM8SDv-64q6cPJsod6iG2nCvbA V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric Z1sHwC-65JYB1IAyF5i8RBMkaa4qQG53niXELqLJpfc V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric ZO-p_TI26JusrjKq5WteuWppOW8qSXxLKWFpTl08aNs V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric ZbhBXy9juCr4_RGQ3dAcITZNSJSZvAVrv1E47neBaq8 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric ZcZgALMJoWsjW-68-DGJJkLe5AFc_j0BJDIUoPS3VrU V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric aCe-xNxSDMViCjopEI-ircLMxAz93PSO87dTJZq2o1Q V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric aaAyy7RfAFB74CmkUzS1FMV6vxlzeKP81KbJz5UE818 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric annXp-txapZaQQpv_Dhenfyjbl4Banhwt_NKZbPaoPg V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric b4wq-8sM0V0lLQWnKPPsqbqTr6yIMbhCtMMOCudzF4s V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric bO5XK3xXvsVTM8I7Q9m9v4S2UdNRjOMQTXZ3hO_wrvA V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric dNVsghjrdUrCrhHXzxmLJt0vlc3EzOaxZGSIkw6Vkao V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric dQ23GiD4J3nTR4MYRwPK-hvKeeYi4TklDjtDnZIfams V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric e0-Xhifjr45vpsN1G_OY53MU4qudyJGoSwJLeFtj6nw V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric eQurxtSVkDkKzKcWCktt4CCrrkKsLjIDSLBlmmKrLO8 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric fUXRESKJ2BsSkzwZAiomXfGYmXoQdY8Atmi_ajei8P8 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric iFDfZI9a0BeXii5K9rImKDaFYs6jTnt-WvLLk5X2TVM V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric ipIGTx3x_n0OriKlEt9iPL3mhQVCI1H8jP602rt1Q0U V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric j-KIY43QXmjZrq_fmotIrHbjgCcr0LOKmtJtH7GYY8Y V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric jt1oRlnEjvvU_f9_3U0yKYyFV2l0f4nG-rbHeqh5myM V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric lDLtyZ7Zgpf3Dyd732Or5itEnnVz1HEqEHAsmTAuNRU V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric m0_Blx5ykko2W-wpuJb5IsQpSO3CGGpFHsB6lW9ASVo V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric nsfvujHikkF7eGQYcQ7Ogh6RTXRHjr2ixDTnNQYyv6I V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric q9Kwxyb9DD2AALGWryGoGxal4-dweNOA-gWE0ExMtl4 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric qEx2E7EST1oGUbYv7K0j74P4SWKXpSBIwY70CFErBDI V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric rr8v9OuHF5GRJLFpFUn7DtjDPwygv7Qzwa28uY9A0Es V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric ruUdzUIhbaArcl4l706asfxLm1aCf1lwwK0Sia4zbrk V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric sK-u9vG_XISrMWZYIHHXC1-ufXdEjhBLoHORMIRA0YY V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric vbEelmCrparhiZ8Oc69a2pHixJiwPGVP1aakex7KL00 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric vp_MBP5Z5TDFctURZYDzRMM5p3_mmLU5VTBu7J1nvW4 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric vyA3iX9dK-YT3c95y_yvq7qxACctKq4jpAWc-tfAZmY V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric w0xM93xbSr-oK80Zh9htL7rQ-eLNVg4kHwLOAHmsqFo V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric wWpeHA6rONM-TVg9aRnnqbstwLQ6lDd9scdX3nvFxJ8 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric xlDwUI5y8ng-mcDkcr3BJfhEFdNttBXQqCC1OWexBes V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric zDZAra8rjpEFUwpM_QmkZeSh0KHs11ru_TSbwbP-_D4 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric zRGaq-fU3lXmY_4ZBMYkN2GH6FfC69FU2eXXSYkRukA V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric Database Instance SQL Server Enterprise License included db r6i.xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance SQL Server Standard License included db r6i.4xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance SQL Server Enterprise License included db m6i.8xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.8xlarge, Memory: 128 GiB, vCPU: 32, Network Performance: 12.5 Gbps) 🌎
+  - Region added for metric Database Instance SQL Server Standard License included db m6i.2xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.2xlarge, Memory: 32 GiB, vCPU: 8, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance SQL Server Standard License included db m6i.xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.xlarge, Memory: 16 GiB, vCPU: 4, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance SQL Server Standard License included db m6i.large General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.large, Memory: 8 GiB, vCPU: 2, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance SQL Server Enterprise License included db r6i.12xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: 18.75 Gbps) 🌎
+  - Region added for metric Database Instance SQL Server Enterprise License included db m6i.24xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.24xlarge, Memory: 384 GiB, vCPU: 96, Network Performance: 37.5 Gbps) 🌎
+  - Region added for metric Database Instance SQL Server Enterprise License included db m6i.12xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.12xlarge, Memory: 192 GiB, vCPU: 48, Network Performance: 18.75 Gbps) 🌎
+  - Region added for metric Database Instance SQL Server Express License included db t3.medium General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t3.medium, Memory: 4 GiB, vCPU: 2, Network Performance: Low to Moderate) 🌎
+  - Region added for metric Database Instance SQL Server Standard License included db r6i.2xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance SQL Server Enterprise License included db r6i.2xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance SQL Server Enterprise License included db m6i.12xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.12xlarge, Memory: 192 GiB, vCPU: 48, Network Performance: 18.75 Gbps) 🌎
+  - Region added for metric Database Instance SQL Server Express License included db t3.large General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t3.large, Memory: 8 GiB, vCPU: 2, Network Performance: Low to Moderate) 🌎
+  - Region added for metric Database Instance SQL Server Web License included db m6i.large General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.large, Memory: 8 GiB, vCPU: 2, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance SQL Server Web License included db m6i.2xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.2xlarge, Memory: 32 GiB, vCPU: 8, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance SQL Server Enterprise License included db r6i.8xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: 12.5 Gbps) 🌎
+  - Region added for metric Database Instance SQL Server Standard License included db t3.xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t3.xlarge, Memory: 16 GiB, vCPU: 4, Network Performance: Moderate) 🌎
+  - Region added for metric Database Instance SQL Server Enterprise License included db r6i.4xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance SQL Server Web License included db t3.2xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t3.2xlarge, Memory: 32 GiB, vCPU: 8, Network Performance: Moderate) 🌎
+  - Region added for metric Database Instance SQL Server Web License included db r6i.large Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.large, Memory: 16 GiB, vCPU: 2, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance SQL Server Enterprise License included db m6i.8xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.8xlarge, Memory: 128 GiB, vCPU: 32, Network Performance: 12.5 Gbps) 🌎
+  - Region added for metric Database Instance SQL Server Enterprise License included db r6i.32xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.32xlarge, Memory: 1024 GiB, vCPU: 128, Network Performance: 50 Gbps) 🌎
+  - Region added for metric Database Instance SQL Server Enterprise License included db m6i.4xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.4xlarge, Memory: 64 GiB, vCPU: 16, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance SQL Server Standard License included db t3.xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t3.xlarge, Memory: 16 GiB, vCPU: 4, Network Performance: Moderate) 🌎
+  - Region added for metric Database Instance SQL Server Enterprise License included db r6i.12xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.12xlarge, Memory: 384 GiB, vCPU: 48, Network Performance: 18.75 Gbps) 🌎
+  - Region added for metric Database Instance SQL Server Web License included db r6i.2xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.2xlarge, Memory: 64 GiB, vCPU: 8, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance SQL Server Web License included db t3.xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t3.xlarge, Memory: 16 GiB, vCPU: 4, Network Performance: Moderate) 🌎
+  - Region added for metric Database Instance SQL Server Enterprise License included db r6i.24xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.24xlarge, Memory: 768 GiB, vCPU: 96, Network Performance: 37.5 Gbps) 🌎
+  - Region added for metric Database Instance SQL Server Enterprise License included db r6i.24xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.24xlarge, Memory: 768 GiB, vCPU: 96, Network Performance: 37.5 Gbps) 🌎
+  - Region added for metric Database Instance SQL Server Enterprise License included db r6i.4xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance SQL Server Enterprise License included db r6i.xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance SQL Server Standard License included db r6i.xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.xlarge, Memory: 32 GiB, vCPU: 4, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance SQL Server Web License included db r6i.4xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance SQL Server Standard License included db m6i.8xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.8xlarge, Memory: 128 GiB, vCPU: 32, Network Performance: 12.5 Gbps) 🌎
+  - Region added for metric Database Instance SQL Server Web License included db m6i.xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.xlarge, Memory: 16 GiB, vCPU: 4, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance SQL Server Enterprise License included db r6i.16xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: 25 Gbps) 🌎
+  - Region added for metric Database Instance SQL Server Standard License included db m6i.4xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.4xlarge, Memory: 64 GiB, vCPU: 16, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance SQL Server Web License included db t3.small General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t3.small, Memory: 2 GiB, vCPU: 2, Network Performance: Low to Moderate) 🌎
+  - Region added for metric Database Instance SQL Server Enterprise License included db r6i.16xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.16xlarge, Memory: 512 GiB, vCPU: 64, Network Performance: 25 Gbps) 🌎
+  - Region added for metric Database Instance SQL Server Standard License included db m6i.8xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.8xlarge, Memory: 128 GiB, vCPU: 32, Network Performance: 12.5 Gbps) 🌎
+  - Region added for metric Database Instance SQL Server Standard License included db r6i.8xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.8xlarge, Memory: 256 GiB, vCPU: 32, Network Performance: 12.5 Gbps) 🌎
+  - Region added for metric Database Instance SQL Server Web License included db t3.medium General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t3.medium, Memory: 4 GiB, vCPU: 2, Network Performance: Low to Moderate) 🌎
+  - Region added for metric Database Instance SQL Server Web License included db t3.large General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t3.large, Memory: 8 GiB, vCPU: 2, Network Performance: Low to Moderate) 🌎
+  - Region added for metric Database Instance SQL Server Enterprise License included db t3.xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t3.xlarge, Memory: 16 GiB, vCPU: 4, Network Performance: Moderate) 🌎
+  - Region added for metric Database Instance SQL Server Enterprise License included db m6i.2xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.2xlarge, Memory: 32 GiB, vCPU: 8, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance SQL Server Standard License included db t3.2xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t3.2xlarge, Memory: 32 GiB, vCPU: 8, Network Performance: Moderate) 🌎
+  - Region added for metric Database Instance SQL Server Express License included db t3.small General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t3.small, Memory: 2 GiB, vCPU: 2, Network Performance: Low to Moderate) 🌎
+  - Region added for metric Database Instance SQL Server Web License included db m6i.4xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.4xlarge, Memory: 64 GiB, vCPU: 16, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance SQL Server Standard License included db m6i.4xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.4xlarge, Memory: 64 GiB, vCPU: 16, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance SQL Server Standard License included db m6i.2xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.2xlarge, Memory: 32 GiB, vCPU: 8, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance SQL Server Enterprise License included db m6i.32xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.32xlarge, Memory: 512 GiB, vCPU: 128, Network Performance: 50 Gbps) 🌎
+  - Region added for metric Database Instance SQL Server Standard License included db r6i.4xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.4xlarge, Memory: 128 GiB, vCPU: 16, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Database Instance SQL Server Enterprise License included db m6i.32xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.32xlarge, Memory: 512 GiB, vCPU: 128, Network Performance: 50 Gbps) 🌎
+  - Region added for metric Database Instance SQL Server Enterprise License included db m6i.16xlarge General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.16xlarge, Memory: 256 GiB, vCPU: 64, Network Performance: 25 Gbps) 🌎
+  - Region added for metric Database Instance SQL Server Enterprise License included db m6i.16xlarge General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.16xlarge, Memory: 256 GiB, vCPU: 64, Network Performance: 25 Gbps) 🌎
+  - Region added for metric Database Instance SQL Server Standard License included db m6i.large General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.m6i.large, Memory: 8 GiB, vCPU: 2, Network Performance: Up to 12.5 Gbps) 🌎
+  - Region added for metric Provisioned Throughput Multi AZ SQL Server Mirror: Asia Pacific (Taipei) 🌎
+  - Region added for metric Provisioned IOPS Single AZ: Asia Pacific (Taipei) 🌎
+  - Region added for metric Provisioned GP3 IOPS Multi AZ: Asia Pacific (Taipei) 🌎
+  - Region added for metric Database Storage Multi AZ SQL Server Mirror Provisioned IOPS-IO2: Asia Pacific (Taipei) 🌎
+  - Region added for metric Database Storage Multi AZ SQL Server Mirror General Purpose-GP3: Asia Pacific (Taipei) 🌎
+  - Region added for metric Database Storage Single AZ General Purpose: Asia Pacific (Taipei) 🌎
+  - Region added for metric Provisioned Throughput Single AZ: Asia Pacific (Taipei) 🌎
+  - Region added for metric Database Storage Multi AZ SQL Server Mirror General Purpose: Asia Pacific (Taipei) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS-IO2: Asia Pacific (Taipei) 🌎
+  - Region added for metric Provisioned IOPS Multi AZ SQL Server Mirror: Asia Pacific (Taipei) 🌎
+  - Region added for metric Provisioned GP3 IOPS Single AZ: Asia Pacific (Taipei) 🌎
+  - Region added for metric Database Storage Single AZ Provisioned IOPS: Asia Pacific (Taipei) 🌎
+  - Region added for metric Performance Insights ProvisionedAMR vCPU-Months: Asia Pacific (Taipei) 🌎
+  - Region added for metric Performance Insights ProvisionedFMR vCPU-Months: Asia Pacific (Taipei) 🌎
+  - Region added for metric Database Storage Single AZ General Purpose-GP3: Asia Pacific (Taipei) 🌎
+  - Region added for metric Provisioned IO2 IOPS Multi AZ SQL Server Mirror: Asia Pacific (Taipei) 🌎
+  - Region added for metric Database Storage Multi AZ SQL Server Mirror Provisioned IOPS: Asia Pacific (Taipei) 🌎
+  - Region added for metric Provisioned IO2 IOPS Single AZ: Asia Pacific (Taipei) 🌎
+  - Region added for metric qH1Fb_w6gsIdXjYkWeTEer98-3fLmK4eh02KB5yW9eA V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric Provisioned GP3 IOPS Multi AZ SQL Server Mirror: Asia Pacific (Taipei) 🌎
+  - Billing metric added: MnvK-b4LrwcAJYEDTXZrGSi8SBhekoTJ9dXZ8RIhCiM V1 💡
+  - Billing metric added: XK1kef7_ylQXfQi3AMKtKPV8kOmVtXPc3ttb7nkIAxA V1 💡
+  - Billing metric added: YHrMg3cbeTvzoFfhqpdTjZ0Id04DIB82n7xvM2Gw2AI V1 💡
+  - Billing metric added: _N5rmjFfNuf0WbiSn1Bag4UDjtkrbcR9hIz-4J1Loq0 V1 💡
+
+
 ## 2025-06-05 21:26
 
 **Modified services:**

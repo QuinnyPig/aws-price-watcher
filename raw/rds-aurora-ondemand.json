@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "rds",
         "accessType": "publish",
-        "esIndex": "plc-rds-usd-20250605210537",
-        "hawkFilePublicationDate": "2025-06-05T21:05:37Z",
-        "ETLIngestionTriggerDate": "2025-06-05T21:05:37Z",
+        "esIndex": "plc-rds-usd-20250605214641",
+        "hawkFilePublicationDate": "2025-06-05T21:46:41Z",
+        "ETLIngestionTriggerDate": "2025-06-05T21:46:41Z",
         "currencyCode": "USD",
         "source": "rds-aurora-ondemand",
         "isMapped": "true"
@@ -43593,11 +43593,413 @@
             }
         },
         "Asia Pacific (Taipei)": {
+            "0wlusPyeyYgx1egy2wj1Pmb-Em11ErBN32mIwwTQd3o V1": {
+                "rateCode": "FE9JTFYNMB8ZV4JZ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "4.5120000000",
+                "RegionlessRateCode": "0wlusPyeyYgx1egy2wj1Pmb-Em11ErBN32mIwwTQd3o",
+                "Instance Type": "db.r6g.8xlarge"
+            },
+            "3YSTRRP_LMM1oeiwa45TiuvlY9X68vp92SrgP2p8xmQ V1": {
+                "rateCode": "ZMPG6R53CVZVHJBE.JRTCKXETXF.6YS6EN2CT7",
+                "price": "7.5600000000",
+                "RegionlessRateCode": "3YSTRRP_LMM1oeiwa45TiuvlY9X68vp92SrgP2p8xmQ",
+                "Instance Type": "db.r6i.12xlarge"
+            },
+            "4lBh8TuAvUcBlgjRXnyjvnkTZiT9qO4GqgpPj4JJ7Og V1": {
+                "rateCode": "CH8FAASTNQ7A2M9S.JRTCKXETXF.6YS6EN2CT7",
+                "price": "2.5200000000",
+                "RegionlessRateCode": "4lBh8TuAvUcBlgjRXnyjvnkTZiT9qO4GqgpPj4JJ7Og",
+                "Instance Type": "db.r6i.4xlarge"
+            },
+            "56xG_ewZ0G5DHN8WpXGSfkDNhKX6-n08YDvQ4KK2liI V1": {
+                "rateCode": "8QP8TDEAJMFWM58A.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.3000000000",
+                "RegionlessRateCode": "56xG_ewZ0G5DHN8WpXGSfkDNhKX6-n08YDvQ4KK2liI",
+                "Instance Type": "db.r7g.large"
+            },
+            "5L470aqSYVa0mALkCe-g-mTCuysS1gAl3rVEgm3PbKs V1": {
+                "rateCode": "E5M4JJ8JXVRGJ585.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.2000000000",
+                "RegionlessRateCode": "5L470aqSYVa0mALkCe-g-mTCuysS1gAl3rVEgm3PbKs",
+                "Instance Type": "db.r7g.2xlarge"
+            },
+            "81Cf-rtHcYPFlznJe1WdX_KqqkLHToCgTUQ2PfpwfrQ V1": {
+                "rateCode": "GZDQKXYJBWCMSTS7.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.1280000000",
+                "RegionlessRateCode": "81Cf-rtHcYPFlznJe1WdX_KqqkLHToCgTUQ2PfpwfrQ",
+                "Instance Type": "db.r6g.2xlarge"
+            },
+            "824PN9SVNOxCdcpBV-8N9m-koowBxwzesA8DAh7jytg V1": {
+                "rateCode": "AEESCB9X4JNZUKH5.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.2600000000",
+                "RegionlessRateCode": "824PN9SVNOxCdcpBV-8N9m-koowBxwzesA8DAh7jytg",
+                "Instance Type": "db.r7i.2xlarge"
+            },
+            "85_qDNO3M2Jlzlp0ZbKAsZPuHRYr22dQI2PH5BaGjAw V1": {
+                "rateCode": "Y22ZKQ9YTK5AQE3B.JRTCKXETXF.6YS6EN2CT7",
+                "price": "5.0400000000",
+                "RegionlessRateCode": "85_qDNO3M2Jlzlp0ZbKAsZPuHRYr22dQI2PH5BaGjAw",
+                "Instance Type": "db.r6i.8xlarge"
+            },
+            "BCygPkoLCzJwdqoAN_hjc7YFClz6g27RnMx-wX-h12g V1": {
+                "rateCode": "A3JJBAGS75HDDZ24.JRTCKXETXF.6YS6EN2CT7",
+                "price": "4.8000000000",
+                "RegionlessRateCode": "BCygPkoLCzJwdqoAN_hjc7YFClz6g27RnMx-wX-h12g",
+                "Instance Type": "db.r7g.8xlarge"
+            },
+            "CmM0bacrrZy2GnZ29p_x9yakUnkQhSGkx3jL1-YgE0U V1": {
+                "rateCode": "FUB8GSCNG79FPQ33.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2820000000",
+                "RegionlessRateCode": "CmM0bacrrZy2GnZ29p_x9yakUnkQhSGkx3jL1-YgE0U",
+                "Instance Type": "db.r6g.large"
+            },
+            "E06qeDXC7zVxiALMCfTVpuQGui7eKHRJJqpLg22x8-U V1": {
+                "rateCode": "CKTN7SPPJNPA9J39.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.6300000000",
+                "RegionlessRateCode": "E06qeDXC7zVxiALMCfTVpuQGui7eKHRJJqpLg22x8-U",
+                "Instance Type": "db.r7i.xlarge"
+            },
+            "EpC8Sa62mgXsdwZCo4sYMK6EDR3ranWIk_GipF8RhwE V1": {
+                "rateCode": "T7AMFZTGEWXSPRY4.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.2600000000",
+                "RegionlessRateCode": "EpC8Sa62mgXsdwZCo4sYMK6EDR3ranWIk_GipF8RhwE",
+                "Instance Type": "db.r6i.2xlarge"
+            },
             "HUtnckURQ5PLWxnB8ia7sqEs10IE0LzSeluyB78O_RU V1": {
                 "rateCode": "27RWE274A8MJVA4C.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0560000000",
                 "RegionlessRateCode": "HUtnckURQ5PLWxnB8ia7sqEs10IE0LzSeluyB78O_RU",
                 "Instance Type": "db.t3.small"
+            },
+            "HwA4s3GmZEpTgG4dw1KQKnoSHmblNMiiY2m2zXy4QLU V1": {
+                "rateCode": "8TRC26MWMPVM6KDC.JRTCKXETXF.6YS6EN2CT7",
+                "price": "2.5200000000",
+                "RegionlessRateCode": "HwA4s3GmZEpTgG4dw1KQKnoSHmblNMiiY2m2zXy4QLU",
+                "Instance Type": "db.r7i.4xlarge"
+            },
+            "MOmAsfzaXHmeR0PIMBZ8B1SnHUNuuziVuosYGpBy7dE V1": {
+                "rateCode": "JZECB5VSEH3CMYSH.JRTCKXETXF.6YS6EN2CT7",
+                "price": "15.1200000000",
+                "RegionlessRateCode": "MOmAsfzaXHmeR0PIMBZ8B1SnHUNuuziVuosYGpBy7dE",
+                "Instance Type": "db.r6i.24xlarge"
+            },
+            "PRLnCR1pFxdtDwq9dKkMkAcxa1RBBYykg6yZs6dgMAA V1": {
+                "rateCode": "U5UT4CGTNQ7SJJY3.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1120000000",
+                "RegionlessRateCode": "PRLnCR1pFxdtDwq9dKkMkAcxa1RBBYykg6yZs6dgMAA",
+                "Instance Type": "db.t3.medium"
+            },
+            "TRGsbygS8h1uvXYArYeKN6l1UGEgXov-rGb8zD2hw3g V1": {
+                "rateCode": "KBTWNCN634FH56BK.JRTCKXETXF.6YS6EN2CT7",
+                "price": "2.2560000000",
+                "RegionlessRateCode": "TRGsbygS8h1uvXYArYeKN6l1UGEgXov-rGb8zD2hw3g",
+                "Instance Type": "db.r6g.4xlarge"
+            },
+            "TWRGqM5xm9Q3j4GGlNNpUiJuUjafWqfOA0lppk6wbRI V1": {
+                "rateCode": "PADHWW7342D5SN9A.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.6000000000",
+                "RegionlessRateCode": "TWRGqM5xm9Q3j4GGlNNpUiJuUjafWqfOA0lppk6wbRI",
+                "Instance Type": "db.r7g.xlarge"
+            },
+            "VAA_6I-hmOlCbIGY9uT0Rm6-cc8ttdGiWKQdbsKqN_I V1": {
+                "rateCode": "5G5XPKKCB6K2RYHG.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1020000000",
+                "RegionlessRateCode": "VAA_6I-hmOlCbIGY9uT0Rm6-cc8ttdGiWKQdbsKqN_I",
+                "Instance Type": "db.t4g.medium"
+            },
+            "_Dkxy7v-1ieE6sDQo5lYJ5hDVxh7qDu6B0tiE3U_GZE V1": {
+                "rateCode": "TBARTAJFZC7R8BGS.JRTCKXETXF.6YS6EN2CT7",
+                "price": "20.1600000000",
+                "RegionlessRateCode": "_Dkxy7v-1ieE6sDQo5lYJ5hDVxh7qDu6B0tiE3U_GZE",
+                "Instance Type": "db.r6i.32xlarge"
+            },
+            "_c_SuTQi14h4YfB92dnttUj2nAZcfg7B_jlicbkRDpQ V1": {
+                "rateCode": "ATPZ9HG8CTQ7EUDY.JRTCKXETXF.6YS6EN2CT7",
+                "price": "9.0240000000",
+                "RegionlessRateCode": "_c_SuTQi14h4YfB92dnttUj2nAZcfg7B_jlicbkRDpQ",
+                "Instance Type": "db.r6g.16xlarge"
+            },
+            "bH9lPTngDJkCWB1xqkOkDkg8PtZiOD6ph1dD1RrCnj8 V1": {
+                "rateCode": "PUBEB5Z5YXQYMRVG.JRTCKXETXF.6YS6EN2CT7",
+                "price": "15.1200000000",
+                "RegionlessRateCode": "bH9lPTngDJkCWB1xqkOkDkg8PtZiOD6ph1dD1RrCnj8",
+                "Instance Type": "db.r7i.24xlarge"
+            },
+            "iRV8dB0G74nrMChk3i-FsLMYtIbH6Y5GfAfJv1tWcTI V1": {
+                "rateCode": "NMB2WR4HQ87NQJKG.JRTCKXETXF.6YS6EN2CT7",
+                "price": "7.5600000000",
+                "RegionlessRateCode": "iRV8dB0G74nrMChk3i-FsLMYtIbH6Y5GfAfJv1tWcTI",
+                "Instance Type": "db.r7i.12xlarge"
+            },
+            "jGstR-_E3QD-5-FoYH0He2dEqKikUSqtjVwEqlZX6bY V1": {
+                "rateCode": "P58FA82ASRA9X3KH.JRTCKXETXF.6YS6EN2CT7",
+                "price": "10.0800000000",
+                "RegionlessRateCode": "jGstR-_E3QD-5-FoYH0He2dEqKikUSqtjVwEqlZX6bY",
+                "Instance Type": "db.r7i.16xlarge"
+            },
+            "o3F4zHu0RceOFLyyNrqd7s7RNdzR91gsnFTwmb4alnM V1": {
+                "rateCode": "4Z7FKNX3ZNBYG4GS.JRTCKXETXF.6YS6EN2CT7",
+                "price": "30.2400000000",
+                "RegionlessRateCode": "o3F4zHu0RceOFLyyNrqd7s7RNdzR91gsnFTwmb4alnM",
+                "Instance Type": "db.r7i.48xlarge"
+            },
+            "oYJzi6GfLICrT5clprBKmxAUrRzaG8O5EmvFBHqgf-w V1": {
+                "rateCode": "FMEWAPKXND2SVU2Q.JRTCKXETXF.6YS6EN2CT7",
+                "price": "10.0800000000",
+                "RegionlessRateCode": "oYJzi6GfLICrT5clprBKmxAUrRzaG8O5EmvFBHqgf-w",
+                "Instance Type": "db.r6i.16xlarge"
+            },
+            "pZ_dUNU2Hmnr2QfUM9F437TRxmWRKDDiaCd0OZO9IOU V1": {
+                "rateCode": "A2PTYTQBK7ME6XQE.JRTCKXETXF.6YS6EN2CT7",
+                "price": "6.7680000000",
+                "RegionlessRateCode": "pZ_dUNU2Hmnr2QfUM9F437TRxmWRKDDiaCd0OZO9IOU",
+                "Instance Type": "db.r6g.12xlarge"
+            },
+            "plsteueWeuFRc4HeKH8Vz8lEAZah1Ya-wlGeXANZd1o V1": {
+                "rateCode": "SBPCKDXDHXPWEJ62.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2030000000",
+                "RegionlessRateCode": "plsteueWeuFRc4HeKH8Vz8lEAZah1Ya-wlGeXANZd1o",
+                "Instance Type": "db.t4g.large"
+            },
+            "sAzbZYUzW5K5W7egUkPG4HziJHXf9K_SyCNFqhJJRzI V1": {
+                "rateCode": "GPZ3JHKKPRXU5U9G.JRTCKXETXF.6YS6EN2CT7",
+                "price": "9.6000000000",
+                "RegionlessRateCode": "sAzbZYUzW5K5W7egUkPG4HziJHXf9K_SyCNFqhJJRzI",
+                "Instance Type": "db.r7g.16xlarge"
+            },
+            "-3c8p28DuyfeeqhWoO1y77_s8TyK--aLegXhWPrlrHc V1": {
+                "rateCode": "UWEAVRQ8EV2QXNYM.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.3000000000",
+                "RegionlessRateCode": "-3c8p28DuyfeeqhWoO1y77_s8TyK--aLegXhWPrlrHc",
+                "Instance Type": "db.r7g.large"
+            },
+            "2G9bkAZKgrLGAnn4_KdChuQrFZdcIARWrcQT4KUoFAM V1": {
+                "rateCode": "S3CAEJH4H7PPQ4QV.JRTCKXETXF.6YS6EN2CT7",
+                "price": "20.1600000000",
+                "RegionlessRateCode": "2G9bkAZKgrLGAnn4_KdChuQrFZdcIARWrcQT4KUoFAM",
+                "Instance Type": "db.r6i.32xlarge"
+            },
+            "3gSmN--GuFkxdfRzCAt9Q30qSau82g2B9RarA4lDhEM V1": {
+                "rateCode": "C44YZCF4F7PKV6HK.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2820000000",
+                "RegionlessRateCode": "3gSmN--GuFkxdfRzCAt9Q30qSau82g2B9RarA4lDhEM",
+                "Instance Type": "db.r6g.large"
+            },
+            "6Bn0XExBW9CDGfx6FOhT6gMW7-06BE3noAGuMiE821w V1": {
+                "rateCode": "WZ6GBDUSV85BZUVW.JRTCKXETXF.6YS6EN2CT7",
+                "price": "7.2000000000",
+                "RegionlessRateCode": "6Bn0XExBW9CDGfx6FOhT6gMW7-06BE3noAGuMiE821w",
+                "Instance Type": "db.r7g.12xlarge"
+            },
+            "6hxbjmadcedhguECSK9jHvCOuC5ocjiZS72De7CKWK0 V1": {
+                "rateCode": "EPZPWEAM8YWFYBJC.JRTCKXETXF.6YS6EN2CT7",
+                "price": "5.0400000000",
+                "RegionlessRateCode": "6hxbjmadcedhguECSK9jHvCOuC5ocjiZS72De7CKWK0",
+                "Instance Type": "db.r6i.8xlarge"
+            },
+            "A3REClXhM9ynr1BuSH8UVM4gDRk7iUrOFJJ7eFZ3sEw V1": {
+                "rateCode": "ZC37F4FSM82TYG4A.JRTCKXETXF.6YS6EN2CT7",
+                "price": "9.6000000000",
+                "RegionlessRateCode": "A3REClXhM9ynr1BuSH8UVM4gDRk7iUrOFJJ7eFZ3sEw",
+                "Instance Type": "db.r7g.16xlarge"
+            },
+            "AOJ9MlLazghYTpS4A5T4KEBG1rdxn3jFs7JlD_uc-cY V1": {
+                "rateCode": "TEJ4STUTKR2BHBBC.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.6000000000",
+                "RegionlessRateCode": "AOJ9MlLazghYTpS4A5T4KEBG1rdxn3jFs7JlD_uc-cY",
+                "Instance Type": "db.r7g.xlarge"
+            },
+            "GuBzpsVw1heoFCJmZQyDfJyHATmtRDJFN-ERPiMaYiI V1": {
+                "rateCode": "6VPMWJ8WABZP5YXT.JRTCKXETXF.6YS6EN2CT7",
+                "price": "2.5200000000",
+                "RegionlessRateCode": "GuBzpsVw1heoFCJmZQyDfJyHATmtRDJFN-ERPiMaYiI",
+                "Instance Type": "db.r6i.4xlarge"
+            },
+            "HmIoQDoWJFyRV3XyWT8OBM5hgQ1vFgItzGor8GtI5Sw V1": {
+                "rateCode": "JQYBAJNYKWBNPTYW.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.3150000000",
+                "RegionlessRateCode": "HmIoQDoWJFyRV3XyWT8OBM5hgQ1vFgItzGor8GtI5Sw",
+                "Instance Type": "db.r6i.large"
+            },
+            "NnBj3PCBOlUbWIrTtsqrncTAcV3AP-w_6bKV9ruFw9I V1": {
+                "rateCode": "6FUQZB9DSQMK833B.JRTCKXETXF.6YS6EN2CT7",
+                "price": "6.7680000000",
+                "RegionlessRateCode": "NnBj3PCBOlUbWIrTtsqrncTAcV3AP-w_6bKV9ruFw9I",
+                "Instance Type": "db.r6g.12xlarge"
+            },
+            "PLta-as7LZ7ywhqPc3Q9iGMcU6bZOIhnV55g8-XZy6c V1": {
+                "rateCode": "R4D44N267YN4P4ZP.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1020000000",
+                "RegionlessRateCode": "PLta-as7LZ7ywhqPc3Q9iGMcU6bZOIhnV55g8-XZy6c",
+                "Instance Type": "db.t4g.medium"
+            },
+            "PzDmBxoSp-6VkmcE_dQ1AX74RB8dIE6xOsncVYH6KsE V1": {
+                "rateCode": "EX87YZGG8AHKYRFY.JRTCKXETXF.6YS6EN2CT7",
+                "price": "30.2400000000",
+                "RegionlessRateCode": "PzDmBxoSp-6VkmcE_dQ1AX74RB8dIE6xOsncVYH6KsE",
+                "Instance Type": "db.r7i.48xlarge"
+            },
+            "WLW4tvRyQWJ9-TTv6IvK7PM6HGPRHwV0z2GaVhWEyGs V1": {
+                "rateCode": "MMBC8WSXAX756FMM.JRTCKXETXF.6YS6EN2CT7",
+                "price": "4.5120000000",
+                "RegionlessRateCode": "WLW4tvRyQWJ9-TTv6IvK7PM6HGPRHwV0z2GaVhWEyGs",
+                "Instance Type": "db.r6g.8xlarge"
+            },
+            "YQwxfattW7ejUw6rKaI3N23hZafjcGG5hXNmPuUWoU8 V1": {
+                "rateCode": "SGBCZ44FX8U2CTXA.JRTCKXETXF.6YS6EN2CT7",
+                "price": "2.5200000000",
+                "RegionlessRateCode": "YQwxfattW7ejUw6rKaI3N23hZafjcGG5hXNmPuUWoU8",
+                "Instance Type": "db.r7i.4xlarge"
+            },
+            "akavaOnqdXXK_pk7fBSQqP36jxWs6CbfS8XcGsA7nFc V1": {
+                "rateCode": "6EZ2AMAMZWHBTZ37.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.6300000000",
+                "RegionlessRateCode": "akavaOnqdXXK_pk7fBSQqP36jxWs6CbfS8XcGsA7nFc",
+                "Instance Type": "db.r6i.xlarge"
+            },
+            "cnmMHM03igCo6s5wfWmsP3qQKANIL6nOLIsAP9yrYcA V1": {
+                "rateCode": "VSXQNHFEKSXABTF6.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.2600000000",
+                "RegionlessRateCode": "cnmMHM03igCo6s5wfWmsP3qQKANIL6nOLIsAP9yrYcA",
+                "Instance Type": "db.r6i.2xlarge"
+            },
+            "i4cQz-bZDBygYCvHzaiUuWyR_OMm2HbRXddJ-dMNSuI V1": {
+                "rateCode": "7RBA86UV2M78PJ8B.JRTCKXETXF.6YS6EN2CT7",
+                "price": "10.0800000000",
+                "RegionlessRateCode": "i4cQz-bZDBygYCvHzaiUuWyR_OMm2HbRXddJ-dMNSuI",
+                "Instance Type": "db.r6i.16xlarge"
+            },
+            "lTKEzZgMKIgbpoD95iz4cSahnG9ZgL-wzndXD10388I V1": {
+                "rateCode": "YZXUP6RPRRYN3FCC.JRTCKXETXF.6YS6EN2CT7",
+                "price": "5.0400000000",
+                "RegionlessRateCode": "lTKEzZgMKIgbpoD95iz4cSahnG9ZgL-wzndXD10388I",
+                "Instance Type": "db.r7i.8xlarge"
+            },
+            "lW1Qe9PqkBn7OUfqONDagWoCsA3aDo94iEmDCGYrcQk V1": {
+                "rateCode": "STAKR8BJ3UTS6847.JRTCKXETXF.6YS6EN2CT7",
+                "price": "15.1200000000",
+                "RegionlessRateCode": "lW1Qe9PqkBn7OUfqONDagWoCsA3aDo94iEmDCGYrcQk",
+                "Instance Type": "db.r6i.24xlarge"
+            },
+            "owgy23xDU5CGoCyi-y5hWooZXSMdS9GtCJWXoC5n1Ek V1": {
+                "rateCode": "YQ86MZ2H6YU78XF8.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.3150000000",
+                "RegionlessRateCode": "owgy23xDU5CGoCyi-y5hWooZXSMdS9GtCJWXoC5n1Ek",
+                "Instance Type": "db.r7i.large"
+            },
+            "qirw7Kj0uw1gxOUWQyQIQiqLWRLMAp8-R_D_RTAFrtM V1": {
+                "rateCode": "98W44V3XM3GTYCGT.JRTCKXETXF.6YS6EN2CT7",
+                "price": "7.5600000000",
+                "RegionlessRateCode": "qirw7Kj0uw1gxOUWQyQIQiqLWRLMAp8-R_D_RTAFrtM",
+                "Instance Type": "db.r6i.12xlarge"
+            },
+            "raQ4A83mfwZLZK5moYhF_34CSkzKEjlMursGl3Q7asc V1": {
+                "rateCode": "SRNZEZ5NUZ46Y5RB.JRTCKXETXF.6YS6EN2CT7",
+                "price": "15.1200000000",
+                "RegionlessRateCode": "raQ4A83mfwZLZK5moYhF_34CSkzKEjlMursGl3Q7asc",
+                "Instance Type": "db.r7i.24xlarge"
+            },
+            "yPHfcOmPw6RXjzwKivmGV6wSBLpY2SLX0D3Vbnt6VmU V1": {
+                "rateCode": "YJ3QAR62PUCRYVEY.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.6300000000",
+                "RegionlessRateCode": "yPHfcOmPw6RXjzwKivmGV6wSBLpY2SLX0D3Vbnt6VmU",
+                "Instance Type": "db.r7i.xlarge"
+            },
+            "ytMQyO-MvLynTI-MWyx3quUrrktELZBGvGUk5DJveA4 V1": {
+                "rateCode": "2YY754JAGRBFCAJP.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2250000000",
+                "RegionlessRateCode": "ytMQyO-MvLynTI-MWyx3quUrrktELZBGvGUk5DJveA4",
+                "Instance Type": "db.t3.large"
+            },
+            "UKpzc9LnRU0qBrEf2r9wowzs82fe9z6uGDe6sUmn62g V4": {
+                "rateCode": "ZRJ34CH43QBJM2SA.JRTCKXETXF.6YS6EN2CT7",
+                "price": "5.4080000000",
+                "RegionlessRateCode": "UKpzc9LnRU0qBrEf2r9wowzs82fe9z6uGDe6sUmn62g",
+                "Instance Type": "db.r6gd.8xlarge"
+            },
+            "Uw6o2INNEZ3H137eK-RceLRhQg6xdrNb9Uqi-g_Lqg4 V4": {
+                "rateCode": "7MWPJAGH7949T5GG.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.3520000000",
+                "RegionlessRateCode": "Uw6o2INNEZ3H137eK-RceLRhQg6xdrNb9Uqi-g_Lqg4",
+                "Instance Type": "db.r6gd.2xlarge"
+            },
+            "T4HrmJJqOqO_LXLfszInrfvt4jzk_DUol0Qa-UZ3zLA V4": {
+                "rateCode": "QVWJFHJW3F7W7PTU.JRTCKXETXF.6YS6EN2CT7",
+                "price": "2.7040000000",
+                "RegionlessRateCode": "T4HrmJJqOqO_LXLfszInrfvt4jzk_DUol0Qa-UZ3zLA",
+                "Instance Type": "db.r6gd.4xlarge"
+            },
+            "E9IsotOD9-r8aoeDBUS9SS_TQcKW9rwmKqC6odf9gQs V4": {
+                "rateCode": "ADXBY6Y787TUYW6S.JRTCKXETXF.6YS6EN2CT7",
+                "price": "24.1920000000",
+                "RegionlessRateCode": "E9IsotOD9-r8aoeDBUS9SS_TQcKW9rwmKqC6odf9gQs",
+                "Instance Type": "db.r6id.32xlarge"
+            },
+            "0r3uDFmrmYw7T7RgW2HB-6Gww5VF_NsQ6Ka9zj9l3lI V7": {
+                "rateCode": "GDNNQSAWWDTVBDMP.JRTCKXETXF.6YS6EN2CT7",
+                "price": "9.8400000000",
+                "RegionlessRateCode": "0r3uDFmrmYw7T7RgW2HB-6Gww5VF_NsQ6Ka9zj9l3lI",
+                "Instance Type": "db.r7i.12xlarge"
+            },
+            "8Mcdok_1vKlq9SADWIeDjonSEZfRuqOOiHaqdZR8nXQ V7": {
+                "rateCode": "FCQ9NRWTYYP6NSTD.JRTCKXETXF.6YS6EN2CT7",
+                "price": "12.4800000000",
+                "RegionlessRateCode": "8Mcdok_1vKlq9SADWIeDjonSEZfRuqOOiHaqdZR8nXQ",
+                "Instance Type": "db.r7g.16xlarge"
+            },
+            "9DYrHlgTlzLDt712qSlMwKBC6QcYaF60u5Z4S0PhH_Q V7": {
+                "rateCode": "P3WTAJ5JRHWUVTBB.JRTCKXETXF.6YS6EN2CT7",
+                "price": "6.5600000000",
+                "RegionlessRateCode": "9DYrHlgTlzLDt712qSlMwKBC6QcYaF60u5Z4S0PhH_Q",
+                "Instance Type": "db.r7i.8xlarge"
+            },
+            "9IrNGSm-O3YFz3oxn1oofOtHqriwpWJ0omJIw-vXnJI V7": {
+                "rateCode": "B68PDQ83QYX559PC.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.4680000000",
+                "RegionlessRateCode": "9IrNGSm-O3YFz3oxn1oofOtHqriwpWJ0omJIw-vXnJI",
+                "Instance Type": "db.r6g.2xlarge"
+            },
+            "HFJyKnT2uBpyVDA0J55YvR2qKZKxOp4SAZx36HSkNyw V7": {
+                "rateCode": "TTW6ANQF8FT6244Y.JRTCKXETXF.6YS6EN2CT7",
+                "price": "9.8400000000",
+                "RegionlessRateCode": "HFJyKnT2uBpyVDA0J55YvR2qKZKxOp4SAZx36HSkNyw",
+                "Instance Type": "db.r6i.12xlarge"
+            },
+            "Jg3LtkOhvyKW-6ec7lVgBtjsf7pL8ah4kk3UgvgwXzA V7": {
+                "rateCode": "VRJMUPYP47SN38UX.JRTCKXETXF.6YS6EN2CT7",
+                "price": "5.8720000000",
+                "RegionlessRateCode": "Jg3LtkOhvyKW-6ec7lVgBtjsf7pL8ah4kk3UgvgwXzA",
+                "Instance Type": "db.r6g.8xlarge"
+            },
+            "LihklUwLMpVXtUu72_LYOT4ljL1XhUPI7ISfc9mhJTA V7": {
+                "rateCode": "A7VE6B9KTASSF7HD.JRTCKXETXF.6YS6EN2CT7",
+                "price": "3.1200000000",
+                "RegionlessRateCode": "LihklUwLMpVXtUu72_LYOT4ljL1XhUPI7ISfc9mhJTA",
+                "Instance Type": "db.r7g.4xlarge"
+            },
+            "PrYr1G7bl-vXeg6yHzDVO7Nk_Fh0vA9g5n2ZF_UByZ4 V7": {
+                "rateCode": "4AM86AFGG9V256XW.JRTCKXETXF.6YS6EN2CT7",
+                "price": "6.5600000000",
+                "RegionlessRateCode": "PrYr1G7bl-vXeg6yHzDVO7Nk_Fh0vA9g5n2ZF_UByZ4",
+                "Instance Type": "db.r6i.8xlarge"
+            },
+            "SWmHctzlnsn2DB-yPjrtcscGF5xieebB8kcoeXPfzmc V7": {
+                "rateCode": "V2DU5EGCSSCQJ9C5.JRTCKXETXF.6YS6EN2CT7",
+                "price": "13.1200000000",
+                "RegionlessRateCode": "SWmHctzlnsn2DB-yPjrtcscGF5xieebB8kcoeXPfzmc",
+                "Instance Type": "db.r7i.16xlarge"
+            },
+            "U4FJi7MMV77JghSAfFGuxkZ456V1SeKAvQAZDe-i7TI V7": {
+                "rateCode": "V5BBXPBRYPFTG7SU.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.4100000000",
+                "RegionlessRateCode": "U4FJi7MMV77JghSAfFGuxkZ456V1SeKAvQAZDe-i7TI",
+                "Instance Type": "db.r6i.large"
+            },
+            "V32mIeH68ax2hxWTERKqioHR1h29uankLUCqCGbpNvY V7": {
+                "rateCode": "V4DQK4JT3UGDPSP4.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.3670000000",
+                "RegionlessRateCode": "V32mIeH68ax2hxWTERKqioHR1h29uankLUCqCGbpNvY",
+                "Instance Type": "db.r6g.large"
             },
             "WsZX3TFGkmQUqqEbS8iIYbpYjkYDTIEPihlEs4b9vtE V7": {
                 "rateCode": "KEVD2BVMKG6HQKCR.JRTCKXETXF.6YS6EN2CT7",
@@ -43605,17 +44007,845 @@
                 "RegionlessRateCode": "WsZX3TFGkmQUqqEbS8iIYbpYjkYDTIEPihlEs4b9vtE",
                 "Instance Type": "db.t3.small"
             },
+            "XUwzH7HXMbII0tyYdQ0TjHjb55YaRTL94xzA3BmEbaY V7": {
+                "rateCode": "HGM9CGZMHAZYA4C9.JRTCKXETXF.6YS6EN2CT7",
+                "price": "11.7440000000",
+                "RegionlessRateCode": "XUwzH7HXMbII0tyYdQ0TjHjb55YaRTL94xzA3BmEbaY",
+                "Instance Type": "db.r6g.16xlarge"
+            },
+            "Yw0lWiAUlTwIOrsveD_J281G4ZS3V-5-pmeYTrWw7lY V7": {
+                "rateCode": "Y2TR7472RAPU7QZW.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1320000000",
+                "RegionlessRateCode": "Yw0lWiAUlTwIOrsveD_J281G4ZS3V-5-pmeYTrWw7lY",
+                "Instance Type": "db.t4g.medium"
+            },
+            "_Wl9KpU6DmreJSDQuC4s18o1oFwyvm-SgOy3sjig71o V7": {
+                "rateCode": "E4P72XQ8DYEFFK5U.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.6400000000",
+                "RegionlessRateCode": "_Wl9KpU6DmreJSDQuC4s18o1oFwyvm-SgOy3sjig71o",
+                "Instance Type": "db.r6i.2xlarge"
+            },
+            "gZIWvbp2C0wowRlFKC1GdTFA7Z6n7ACv-n8YS281c0Y V7": {
+                "rateCode": "8JBZT8RHPDZMGTTF.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.6400000000",
+                "RegionlessRateCode": "gZIWvbp2C0wowRlFKC1GdTFA7Z6n7ACv-n8YS281c0Y",
+                "Instance Type": "db.r7i.2xlarge"
+            },
+            "hruf8Mw09TVqJiYg5L9X6wNUIBP-nK5xcayxv2AhOws V7": {
+                "rateCode": "CPGUUTXQYJFMMHT7.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.8200000000",
+                "RegionlessRateCode": "hruf8Mw09TVqJiYg5L9X6wNUIBP-nK5xcayxv2AhOws",
+                "Instance Type": "db.r7i.xlarge"
+            },
+            "lE-WQAspBaMSefj64XDtZ7_-CaCxlpmWjpm5HWGmLeU V7": {
+                "rateCode": "7FXP2KDCFXH2QJF3.JRTCKXETXF.6YS6EN2CT7",
+                "price": "19.6800000000",
+                "RegionlessRateCode": "lE-WQAspBaMSefj64XDtZ7_-CaCxlpmWjpm5HWGmLeU",
+                "Instance Type": "db.r6i.24xlarge"
+            },
+            "pT3uTKVSEGKD6LXXCrXPELB0icKGKfXFqke1kvUhUFI V7": {
+                "rateCode": "HZ7QND4GT427UB6Z.JRTCKXETXF.6YS6EN2CT7",
+                "price": "26.2400000000",
+                "RegionlessRateCode": "pT3uTKVSEGKD6LXXCrXPELB0icKGKfXFqke1kvUhUFI",
+                "Instance Type": "db.r6i.32xlarge"
+            },
+            "qq1OBPyScSYt39Qf0mL0lwTpIBKNASlwf8fhmYg4D_w V7": {
+                "rateCode": "G2ZVK3H4ZSXHJW2U.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1460000000",
+                "RegionlessRateCode": "qq1OBPyScSYt39Qf0mL0lwTpIBKNASlwf8fhmYg4D_w",
+                "Instance Type": "db.t3.medium"
+            },
+            "srD03SjTlChtF65wHB-IHes9hauIxEYjrXaaSyDertk V7": {
+                "rateCode": "KWNVYYECC6WG56QB.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2930000000",
+                "RegionlessRateCode": "srD03SjTlChtF65wHB-IHes9hauIxEYjrXaaSyDertk",
+                "Instance Type": "db.t3.large"
+            },
+            "wXiCrXeX8vNQaekMdObb6mR6K6udcOYmOVeHQ4Kah2E V7": {
+                "rateCode": "CAP9EQZT52M94ZMF.JRTCKXETXF.6YS6EN2CT7",
+                "price": "8.8080000000",
+                "RegionlessRateCode": "wXiCrXeX8vNQaekMdObb6mR6K6udcOYmOVeHQ4Kah2E",
+                "Instance Type": "db.r6g.12xlarge"
+            },
+            "yRG9sKGnevFDOR6W1g5W3PCbhAVX3pcLZr3ieUtmej8 V7": {
+                "rateCode": "6T68K3RN26GPTJN6.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.7800000000",
+                "RegionlessRateCode": "yRG9sKGnevFDOR6W1g5W3PCbhAVX3pcLZr3ieUtmej8",
+                "Instance Type": "db.r7g.xlarge"
+            },
+            "zcpJuF8-s211G-mKNWsnfJDYmYf8aPb6iDngTbI-dsE V7": {
+                "rateCode": "J3UE9AVN92CS767Y.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.3900000000",
+                "RegionlessRateCode": "zcpJuF8-s211G-mKNWsnfJDYmYf8aPb6iDngTbI-dsE",
+                "Instance Type": "db.r7g.large"
+            },
+            "0Aw44evsadqmcIeIWr_irv1RHdpfQ4cx9bKdHMCtRNY V7": {
+                "rateCode": "SJSQD6CTFCXZERBA.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.3900000000",
+                "RegionlessRateCode": "0Aw44evsadqmcIeIWr_irv1RHdpfQ4cx9bKdHMCtRNY",
+                "Instance Type": "db.r7g.large"
+            },
+            "0xRV8vUfZoX6uJy-ZbRhNdovHMT52puNtY013ndcGas V7": {
+                "rateCode": "JVVN2YZ9HJUV9G9G.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.4680000000",
+                "RegionlessRateCode": "0xRV8vUfZoX6uJy-ZbRhNdovHMT52puNtY013ndcGas",
+                "Instance Type": "db.r6g.2xlarge"
+            },
+            "1EnIdgQZ6sZHQBrtKOcHlT4-tvpTTvDJlOxtR6ABpGg V7": {
+                "rateCode": "6SY2WDK8RC7VJ7EP.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.4100000000",
+                "RegionlessRateCode": "1EnIdgQZ6sZHQBrtKOcHlT4-tvpTTvDJlOxtR6ABpGg",
+                "Instance Type": "db.r6i.large"
+            },
+            "34hMJLBAMeeTtnSG7XrEJZeThK-aYYYX5i_nC0-Dxbc V7": {
+                "rateCode": "YQ9PVVVNVPEHU5CZ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "13.1200000000",
+                "RegionlessRateCode": "34hMJLBAMeeTtnSG7XrEJZeThK-aYYYX5i_nC0-Dxbc",
+                "Instance Type": "db.r7i.16xlarge"
+            },
+            "3qghKhdnxMumGWPNXZIGU4LSVLoCp3ZcB-6Yfmqf_f4 V7": {
+                "rateCode": "38FPHVNSMSFMF6ZE.JRTCKXETXF.6YS6EN2CT7",
+                "price": "3.2800000000",
+                "RegionlessRateCode": "3qghKhdnxMumGWPNXZIGU4LSVLoCp3ZcB-6Yfmqf_f4",
+                "Instance Type": "db.r6i.4xlarge"
+            },
+            "4kTj4e-Wkf4GPFC9HU_Do-e9eJndtBgquupna1Qg2x0 V7": {
+                "rateCode": "BDNU6EZZDCYCJ3CZ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "39.3600000000",
+                "RegionlessRateCode": "4kTj4e-Wkf4GPFC9HU_Do-e9eJndtBgquupna1Qg2x0",
+                "Instance Type": "db.r7i.48xlarge"
+            },
+            "8BWPwJO94zVDVYfrSV4K3kAnV_k-Bs0VwHK-8E5NXEM V7": {
+                "rateCode": "59HEZRRRXEGASSU3.JRTCKXETXF.6YS6EN2CT7",
+                "price": "19.6800000000",
+                "RegionlessRateCode": "8BWPwJO94zVDVYfrSV4K3kAnV_k-Bs0VwHK-8E5NXEM",
+                "Instance Type": "db.r6i.24xlarge"
+            },
+            "DkM-if8tY4XbxhpuyXDaIYBHaNHsSsOHZRe-S7up5y8 V7": {
+                "rateCode": "C3RSECQETV88G66G.JRTCKXETXF.6YS6EN2CT7",
+                "price": "6.5600000000",
+                "RegionlessRateCode": "DkM-if8tY4XbxhpuyXDaIYBHaNHsSsOHZRe-S7up5y8",
+                "Instance Type": "db.r7i.8xlarge"
+            },
+            "E7caiZT_MvOVcVuE9dR_AOUS1usplW3ftl3Ecs3j_pM V7": {
+                "rateCode": "3D2D4NJJFE2AGDE5.JRTCKXETXF.6YS6EN2CT7",
+                "price": "5.8720000000",
+                "RegionlessRateCode": "E7caiZT_MvOVcVuE9dR_AOUS1usplW3ftl3Ecs3j_pM",
+                "Instance Type": "db.r6g.8xlarge"
+            },
+            "GbJlvc8-5i__YAxinQ4yvgO4DF-6ny-tREnYU0iBkhk V7": {
+                "rateCode": "YW9ATVSYNN6RKNY9.JRTCKXETXF.6YS6EN2CT7",
+                "price": "11.7440000000",
+                "RegionlessRateCode": "GbJlvc8-5i__YAxinQ4yvgO4DF-6ny-tREnYU0iBkhk",
+                "Instance Type": "db.r6g.16xlarge"
+            },
+            "GzjN0mlmJGOywL8pp6KmU5jwN79OxOtJuuiEMswbSgk V7": {
+                "rateCode": "9PXF4VVVC86B2M6X.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.6400000000",
+                "RegionlessRateCode": "GzjN0mlmJGOywL8pp6KmU5jwN79OxOtJuuiEMswbSgk",
+                "Instance Type": "db.r6i.2xlarge"
+            },
+            "Hule4fxwuUhfHJgBnuM8PfEh05TrZoIIfowzLjrhdMk V7": {
+                "rateCode": "KM6XGN83YPSJAR3X.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.8200000000",
+                "RegionlessRateCode": "Hule4fxwuUhfHJgBnuM8PfEh05TrZoIIfowzLjrhdMk",
+                "Instance Type": "db.r7i.xlarge"
+            },
+            "Kt7bHJnfqIcUitx6ZTAdIi045461dzVCyH1FuZSHFmY V7": {
+                "rateCode": "RV4KJ7JAT5V7ZMA5.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.4100000000",
+                "RegionlessRateCode": "Kt7bHJnfqIcUitx6ZTAdIi045461dzVCyH1FuZSHFmY",
+                "Instance Type": "db.r7i.large"
+            },
+            "LycKZU3KO8BPvKc3Gw1FmLzJ7KOf_pXJsv5_P-vCYws V7": {
+                "rateCode": "A2NJXUC3MBDKYV9J.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1320000000",
+                "RegionlessRateCode": "LycKZU3KO8BPvKc3Gw1FmLzJ7KOf_pXJsv5_P-vCYws",
+                "Instance Type": "db.t4g.medium"
+            },
+            "PRRD9-sFmTN-RFjZcZNQl6TfdOGgTQWHMV0P-WYxuXo V7": {
+                "rateCode": "29CQBA7B5KKSWBM5.JRTCKXETXF.6YS6EN2CT7",
+                "price": "13.1200000000",
+                "RegionlessRateCode": "PRRD9-sFmTN-RFjZcZNQl6TfdOGgTQWHMV0P-WYxuXo",
+                "Instance Type": "db.r6i.16xlarge"
+            },
+            "S05RHOuNRRQHTk7kqjslTeWGmCK9HAZi3tqmtxFJFos V7": {
+                "rateCode": "GUMA2BZFDUZNJEEP.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.3670000000",
+                "RegionlessRateCode": "S05RHOuNRRQHTk7kqjslTeWGmCK9HAZi3tqmtxFJFos",
+                "Instance Type": "db.r6g.large"
+            },
+            "TU_tNt2mW0KgXZP53Rt1n5JkfEUSPxcvqy2teJg-sGs V7": {
+                "rateCode": "EJQFHV2C52H2FNRC.JRTCKXETXF.6YS6EN2CT7",
+                "price": "3.2800000000",
+                "RegionlessRateCode": "TU_tNt2mW0KgXZP53Rt1n5JkfEUSPxcvqy2teJg-sGs",
+                "Instance Type": "db.r7i.4xlarge"
+            },
+            "ZwaPKIUgUbQoxoOBwh6T7fNECYSIPyJYO3L1eJFugmE V7": {
+                "rateCode": "PKCK7N2RR9N2828H.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.6400000000",
+                "RegionlessRateCode": "ZwaPKIUgUbQoxoOBwh6T7fNECYSIPyJYO3L1eJFugmE",
+                "Instance Type": "db.r7i.2xlarge"
+            },
+            "er21tDfEX11yJzbDM0b5IN4ajhfH83ggZ1cnul0sPl4 V7": {
+                "rateCode": "S48YT2KFN6UEJHE2.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.7800000000",
+                "RegionlessRateCode": "er21tDfEX11yJzbDM0b5IN4ajhfH83ggZ1cnul0sPl4",
+                "Instance Type": "db.r7g.xlarge"
+            },
+            "gP2ays4i9Dj-pvzeEr3CnAbWJt5QpPbrUVVRQJFe2BE V7": {
+                "rateCode": "XEJKSEU64AVRDGPW.JRTCKXETXF.6YS6EN2CT7",
+                "price": "6.5600000000",
+                "RegionlessRateCode": "gP2ays4i9Dj-pvzeEr3CnAbWJt5QpPbrUVVRQJFe2BE",
+                "Instance Type": "db.r6i.8xlarge"
+            },
+            "j5EGXQL_fIUiKF5HmnL0Ea5J-kJocgcG_By9LoafKew V7": {
+                "rateCode": "882JYNWNGS2CRZ7P.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2930000000",
+                "RegionlessRateCode": "j5EGXQL_fIUiKF5HmnL0Ea5J-kJocgcG_By9LoafKew",
+                "Instance Type": "db.t3.large"
+            },
+            "jJeRcV-6bpJ2fgmbhpUGMkelswwjWrvMolQeYYpzb3E V7": {
+                "rateCode": "5RCPPPRB75HSU4RY.JRTCKXETXF.6YS6EN2CT7",
+                "price": "8.8080000000",
+                "RegionlessRateCode": "jJeRcV-6bpJ2fgmbhpUGMkelswwjWrvMolQeYYpzb3E",
+                "Instance Type": "db.r6g.12xlarge"
+            },
+            "l8sQ5l84rWjfVH9hQRlhWhaVLvCU8YaGNDnDgfhBIAw V7": {
+                "rateCode": "TYMZMQCPTP5WENQS.JRTCKXETXF.6YS6EN2CT7",
+                "price": "6.2400000000",
+                "RegionlessRateCode": "l8sQ5l84rWjfVH9hQRlhWhaVLvCU8YaGNDnDgfhBIAw",
+                "Instance Type": "db.r7g.8xlarge"
+            },
+            "nAJ1tORYLBZOYdfb5j8MEvnovR9clENEoFQ6Q8T2hPM V7": {
+                "rateCode": "82EURQR8SS8Z7EG9.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.5600000000",
+                "RegionlessRateCode": "nAJ1tORYLBZOYdfb5j8MEvnovR9clENEoFQ6Q8T2hPM",
+                "Instance Type": "db.r7g.2xlarge"
+            },
+            "nohtHneXuedx_RlY9XXtiDWcBpNE-NuU183r4gfOGoc V7": {
+                "rateCode": "TYBY3F89Y5B7H7Q9.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2640000000",
+                "RegionlessRateCode": "nohtHneXuedx_RlY9XXtiDWcBpNE-NuU183r4gfOGoc",
+                "Instance Type": "db.t4g.large"
+            },
+            "rhuHFkPDVIR8TuvBx6Fc0CjVN-99PDYS6HMpmxJjQTc V7": {
+                "rateCode": "UTR7NFUEPACA4TA6.JRTCKXETXF.6YS6EN2CT7",
+                "price": "3.1200000000",
+                "RegionlessRateCode": "rhuHFkPDVIR8TuvBx6Fc0CjVN-99PDYS6HMpmxJjQTc",
+                "Instance Type": "db.r7g.4xlarge"
+            },
+            "rzlKcgkX1MgZtS2CynJ0-zKZTznlawm3BwHRLTZxW7E V7": {
+                "rateCode": "76ST5TGZWTXNNCPZ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1460000000",
+                "RegionlessRateCode": "rzlKcgkX1MgZtS2CynJ0-zKZTznlawm3BwHRLTZxW7E",
+                "Instance Type": "db.t3.medium"
+            },
+            "unQq03nydDeEauC4ZenQyBgaJ85uU3adtW3_lUx_ZXE V7": {
+                "rateCode": "MF3TSNCA9ZRGWMVS.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.8200000000",
+                "RegionlessRateCode": "unQq03nydDeEauC4ZenQyBgaJ85uU3adtW3_lUx_ZXE",
+                "Instance Type": "db.r6i.xlarge"
+            },
+            "uqww2Sqp_I2QVHTodKyw-qG-8TE-U0D3-QSOL6_QiFY V7": {
+                "rateCode": "BXE8MSN747SMMKWY.JRTCKXETXF.6YS6EN2CT7",
+                "price": "9.3600000000",
+                "RegionlessRateCode": "uqww2Sqp_I2QVHTodKyw-qG-8TE-U0D3-QSOL6_QiFY",
+                "Instance Type": "db.r7g.12xlarge"
+            },
+            "yPAg01yZaFv9DlFxRT01-4H-ZRW99qt00Ccv1gCbk5M V7": {
+                "rateCode": "Z22CRKM7GQPEC6AF.JRTCKXETXF.6YS6EN2CT7",
+                "price": "12.4800000000",
+                "RegionlessRateCode": "yPAg01yZaFv9DlFxRT01-4H-ZRW99qt00Ccv1gCbk5M",
+                "Instance Type": "db.r7g.16xlarge"
+            },
+            "VgSFT1HFlJ58069LTNUxnaSr5XzHWrEuOi5l17CEd0s V10": {
+                "rateCode": "3ANSMFA3MAT5CH2Z.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.8790000000",
+                "RegionlessRateCode": "VgSFT1HFlJ58069LTNUxnaSr5XzHWrEuOi5l17CEd0s",
+                "Instance Type": "db.r6gd.xlarge"
+            },
+            "W4Cu5QlNg3xcM1IW4wUDSpcxvthQm0POxta5lqWRtxs V10": {
+                "rateCode": "DJ8YR97WFYR67U7Q.JRTCKXETXF.6YS6EN2CT7",
+                "price": "31.4490000000",
+                "RegionlessRateCode": "W4Cu5QlNg3xcM1IW4wUDSpcxvthQm0POxta5lqWRtxs",
+                "Instance Type": "db.r6id.32xlarge"
+            },
+            "_XNwFwM9m2eB4HCWr9y27e7M69ohN_8McXvLAz2OzhA V10": {
+                "rateCode": "MEQ5RAVMU5QAGV8T.JRTCKXETXF.6YS6EN2CT7",
+                "price": "7.0320000000",
+                "RegionlessRateCode": "_XNwFwM9m2eB4HCWr9y27e7M69ohN_8McXvLAz2OzhA",
+                "Instance Type": "db.r6gd.8xlarge"
+            },
+            "lCkOeCq7iC5aBQcxhyfgW9tZGJy8anxWAjhcCxtRr_o V10": {
+                "rateCode": "AUYYEM5HNU4UBSU2.JRTCKXETXF.6YS6EN2CT7",
+                "price": "3.5160000000",
+                "RegionlessRateCode": "lCkOeCq7iC5aBQcxhyfgW9tZGJy8anxWAjhcCxtRr_o",
+                "Instance Type": "db.r6gd.4xlarge"
+            },
+            "nhoFYggK4klr6BkJ84BCbZ8wMB3UZKQ7kJo-8t1VBqE V10": {
+                "rateCode": "QVW3RY9Q6J4NTQ7D.JRTCKXETXF.6YS6EN2CT7",
+                "price": "23.5870000000",
+                "RegionlessRateCode": "nhoFYggK4klr6BkJ84BCbZ8wMB3UZKQ7kJo-8t1VBqE",
+                "Instance Type": "db.r6id.24xlarge"
+            },
+            "Database Instance Aurora MySQL No license required db r6g.8xlarge Memory optimized Single-AZ Current Generation": {
+                "rateCode": "FE9JTFYNMB8ZV4JZ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "4.5120000000",
+                "RegionlessRateCode": "0wlusPyeyYgx1egy2wj1Pmb-Em11ErBN32mIwwTQd3o",
+                "Instance Type": "db.r6g.8xlarge"
+            },
+            "Database Instance Aurora MySQL No license required db r6i.12xlarge Memory optimized Single-AZ Current Generation": {
+                "rateCode": "ZMPG6R53CVZVHJBE.JRTCKXETXF.6YS6EN2CT7",
+                "price": "7.5600000000",
+                "RegionlessRateCode": "3YSTRRP_LMM1oeiwa45TiuvlY9X68vp92SrgP2p8xmQ",
+                "Instance Type": "db.r6i.12xlarge"
+            },
+            "Database Instance Aurora MySQL No license required db r6i.4xlarge Memory optimized Single-AZ Current Generation": {
+                "rateCode": "CH8FAASTNQ7A2M9S.JRTCKXETXF.6YS6EN2CT7",
+                "price": "2.5200000000",
+                "RegionlessRateCode": "4lBh8TuAvUcBlgjRXnyjvnkTZiT9qO4GqgpPj4JJ7Og",
+                "Instance Type": "db.r6i.4xlarge"
+            },
+            "Database Instance Aurora MySQL No license required db r7g.large Memory optimized Single-AZ Current Generation": {
+                "rateCode": "8QP8TDEAJMFWM58A.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.3000000000",
+                "RegionlessRateCode": "56xG_ewZ0G5DHN8WpXGSfkDNhKX6-n08YDvQ4KK2liI",
+                "Instance Type": "db.r7g.large"
+            },
+            "Database Instance Aurora MySQL No license required db r7g.2xlarge Memory optimized Single-AZ Current Generation": {
+                "rateCode": "E5M4JJ8JXVRGJ585.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.2000000000",
+                "RegionlessRateCode": "5L470aqSYVa0mALkCe-g-mTCuysS1gAl3rVEgm3PbKs",
+                "Instance Type": "db.r7g.2xlarge"
+            },
+            "Database Instance Aurora MySQL No license required db r6g.2xlarge Memory optimized Single-AZ Current Generation": {
+                "rateCode": "GZDQKXYJBWCMSTS7.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.1280000000",
+                "RegionlessRateCode": "81Cf-rtHcYPFlznJe1WdX_KqqkLHToCgTUQ2PfpwfrQ",
+                "Instance Type": "db.r6g.2xlarge"
+            },
+            "Database Instance Aurora MySQL No license required db r6i.8xlarge Memory optimized Single-AZ Current Generation": {
+                "rateCode": "Y22ZKQ9YTK5AQE3B.JRTCKXETXF.6YS6EN2CT7",
+                "price": "5.0400000000",
+                "RegionlessRateCode": "85_qDNO3M2Jlzlp0ZbKAsZPuHRYr22dQI2PH5BaGjAw",
+                "Instance Type": "db.r6i.8xlarge"
+            },
+            "Database Instance Aurora MySQL No license required db r7g.8xlarge Memory optimized Single-AZ Current Generation": {
+                "rateCode": "A3JJBAGS75HDDZ24.JRTCKXETXF.6YS6EN2CT7",
+                "price": "4.8000000000",
+                "RegionlessRateCode": "BCygPkoLCzJwdqoAN_hjc7YFClz6g27RnMx-wX-h12g",
+                "Instance Type": "db.r7g.8xlarge"
+            },
+            "Database Instance Aurora MySQL No license required db r6g.large Memory optimized Single-AZ Current Generation": {
+                "rateCode": "FUB8GSCNG79FPQ33.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2820000000",
+                "RegionlessRateCode": "CmM0bacrrZy2GnZ29p_x9yakUnkQhSGkx3jL1-YgE0U",
+                "Instance Type": "db.r6g.large"
+            },
+            "Database Instance Aurora MySQL No license required db r6i.2xlarge Memory optimized Single-AZ Current Generation": {
+                "rateCode": "T7AMFZTGEWXSPRY4.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.2600000000",
+                "RegionlessRateCode": "EpC8Sa62mgXsdwZCo4sYMK6EDR3ranWIk_GipF8RhwE",
+                "Instance Type": "db.r6i.2xlarge"
+            },
             "Database Instance Aurora MySQL No license required db t3.small General purpose Single-AZ Current Generation": {
                 "rateCode": "27RWE274A8MJVA4C.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0560000000",
                 "RegionlessRateCode": "HUtnckURQ5PLWxnB8ia7sqEs10IE0LzSeluyB78O_RU",
                 "Instance Type": "db.t3.small"
             },
+            "Database Instance Aurora MySQL No license required db r6i.24xlarge Memory optimized Single-AZ Current Generation": {
+                "rateCode": "JZECB5VSEH3CMYSH.JRTCKXETXF.6YS6EN2CT7",
+                "price": "15.1200000000",
+                "RegionlessRateCode": "MOmAsfzaXHmeR0PIMBZ8B1SnHUNuuziVuosYGpBy7dE",
+                "Instance Type": "db.r6i.24xlarge"
+            },
+            "Database Instance Aurora MySQL No license required db t3.medium General purpose Single-AZ Current Generation": {
+                "rateCode": "U5UT4CGTNQ7SJJY3.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1120000000",
+                "RegionlessRateCode": "PRLnCR1pFxdtDwq9dKkMkAcxa1RBBYykg6yZs6dgMAA",
+                "Instance Type": "db.t3.medium"
+            },
+            "Database Instance Aurora MySQL No license required db t3.medium Single-AZ current-": {
+                "rateCode": "U5UT4CGTNQ7SJJY3.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1120000000",
+                "RegionlessRateCode": "PRLnCR1pFxdtDwq9dKkMkAcxa1RBBYykg6yZs6dgMAA",
+                "Instance Type": "db.t3.medium"
+            },
+            "Database Instance Aurora MySQL No license required db r6g.4xlarge Memory optimized Single-AZ Current Generation": {
+                "rateCode": "KBTWNCN634FH56BK.JRTCKXETXF.6YS6EN2CT7",
+                "price": "2.2560000000",
+                "RegionlessRateCode": "TRGsbygS8h1uvXYArYeKN6l1UGEgXov-rGb8zD2hw3g",
+                "Instance Type": "db.r6g.4xlarge"
+            },
+            "Database Instance Aurora MySQL No license required db r7g.xlarge Memory optimized Single-AZ Current Generation": {
+                "rateCode": "PADHWW7342D5SN9A.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.6000000000",
+                "RegionlessRateCode": "TWRGqM5xm9Q3j4GGlNNpUiJuUjafWqfOA0lppk6wbRI",
+                "Instance Type": "db.r7g.xlarge"
+            },
+            "Database Instance Aurora MySQL No license required db t4g.medium General purpose Single-AZ Current Generation": {
+                "rateCode": "5G5XPKKCB6K2RYHG.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1020000000",
+                "RegionlessRateCode": "VAA_6I-hmOlCbIGY9uT0Rm6-cc8ttdGiWKQdbsKqN_I",
+                "Instance Type": "db.t4g.medium"
+            },
+            "Database Instance Aurora MySQL No license required db r6i.32xlarge Memory optimized Single-AZ Current Generation": {
+                "rateCode": "TBARTAJFZC7R8BGS.JRTCKXETXF.6YS6EN2CT7",
+                "price": "20.1600000000",
+                "RegionlessRateCode": "_Dkxy7v-1ieE6sDQo5lYJ5hDVxh7qDu6B0tiE3U_GZE",
+                "Instance Type": "db.r6i.32xlarge"
+            },
+            "Database Instance Aurora MySQL No license required db r6g.16xlarge Memory optimized Single-AZ Current Generation": {
+                "rateCode": "ATPZ9HG8CTQ7EUDY.JRTCKXETXF.6YS6EN2CT7",
+                "price": "9.0240000000",
+                "RegionlessRateCode": "_c_SuTQi14h4YfB92dnttUj2nAZcfg7B_jlicbkRDpQ",
+                "Instance Type": "db.r6g.16xlarge"
+            },
+            "Database Instance Aurora MySQL No license required db r6i.16xlarge Memory optimized Single-AZ Current Generation": {
+                "rateCode": "FMEWAPKXND2SVU2Q.JRTCKXETXF.6YS6EN2CT7",
+                "price": "10.0800000000",
+                "RegionlessRateCode": "oYJzi6GfLICrT5clprBKmxAUrRzaG8O5EmvFBHqgf-w",
+                "Instance Type": "db.r6i.16xlarge"
+            },
+            "Database Instance Aurora MySQL No license required db r6g.12xlarge Memory optimized Single-AZ Current Generation": {
+                "rateCode": "A2PTYTQBK7ME6XQE.JRTCKXETXF.6YS6EN2CT7",
+                "price": "6.7680000000",
+                "RegionlessRateCode": "pZ_dUNU2Hmnr2QfUM9F437TRxmWRKDDiaCd0OZO9IOU",
+                "Instance Type": "db.r6g.12xlarge"
+            },
+            "Database Instance Aurora MySQL No license required db t4g.large General purpose Single-AZ Current Generation": {
+                "rateCode": "SBPCKDXDHXPWEJ62.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2030000000",
+                "RegionlessRateCode": "plsteueWeuFRc4HeKH8Vz8lEAZah1Ya-wlGeXANZd1o",
+                "Instance Type": "db.t4g.large"
+            },
+            "Database Instance Aurora MySQL No license required db r7g.16xlarge Memory optimized Single-AZ Current Generation": {
+                "rateCode": "GPZ3JHKKPRXU5U9G.JRTCKXETXF.6YS6EN2CT7",
+                "price": "9.6000000000",
+                "RegionlessRateCode": "sAzbZYUzW5K5W7egUkPG4HziJHXf9K_SyCNFqhJJRzI",
+                "Instance Type": "db.r7g.16xlarge"
+            },
+            "Database Instance Aurora PostgreSQL No license required db r7g.large Memory optimized Single-AZ Current Generation": {
+                "rateCode": "UWEAVRQ8EV2QXNYM.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.3000000000",
+                "RegionlessRateCode": "-3c8p28DuyfeeqhWoO1y77_s8TyK--aLegXhWPrlrHc",
+                "Instance Type": "db.r7g.large"
+            },
+            "Database Instance Aurora PostgreSQL No license required db r6i.32xlarge Memory optimized Single-AZ Current Generation": {
+                "rateCode": "S3CAEJH4H7PPQ4QV.JRTCKXETXF.6YS6EN2CT7",
+                "price": "20.1600000000",
+                "RegionlessRateCode": "2G9bkAZKgrLGAnn4_KdChuQrFZdcIARWrcQT4KUoFAM",
+                "Instance Type": "db.r6i.32xlarge"
+            },
+            "Database Instance Aurora PostgreSQL No license required db r6g.large Memory optimized Single-AZ Current Generation": {
+                "rateCode": "C44YZCF4F7PKV6HK.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2820000000",
+                "RegionlessRateCode": "3gSmN--GuFkxdfRzCAt9Q30qSau82g2B9RarA4lDhEM",
+                "Instance Type": "db.r6g.large"
+            },
+            "Database Instance Aurora PostgreSQL No license required db r7g.12xlarge Memory optimized Single-AZ Current Generation": {
+                "rateCode": "WZ6GBDUSV85BZUVW.JRTCKXETXF.6YS6EN2CT7",
+                "price": "7.2000000000",
+                "RegionlessRateCode": "6Bn0XExBW9CDGfx6FOhT6gMW7-06BE3noAGuMiE821w",
+                "Instance Type": "db.r7g.12xlarge"
+            },
+            "Database Instance Aurora PostgreSQL No license required db r6i.8xlarge Memory optimized Single-AZ Current Generation": {
+                "rateCode": "EPZPWEAM8YWFYBJC.JRTCKXETXF.6YS6EN2CT7",
+                "price": "5.0400000000",
+                "RegionlessRateCode": "6hxbjmadcedhguECSK9jHvCOuC5ocjiZS72De7CKWK0",
+                "Instance Type": "db.r6i.8xlarge"
+            },
+            "Database Instance Aurora PostgreSQL No license required db r7g.16xlarge Memory optimized Single-AZ Current Generation": {
+                "rateCode": "ZC37F4FSM82TYG4A.JRTCKXETXF.6YS6EN2CT7",
+                "price": "9.6000000000",
+                "RegionlessRateCode": "A3REClXhM9ynr1BuSH8UVM4gDRk7iUrOFJJ7eFZ3sEw",
+                "Instance Type": "db.r7g.16xlarge"
+            },
+            "Database Instance Aurora PostgreSQL No license required db r7g.xlarge Memory optimized Single-AZ Current Generation": {
+                "rateCode": "TEJ4STUTKR2BHBBC.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.6000000000",
+                "RegionlessRateCode": "AOJ9MlLazghYTpS4A5T4KEBG1rdxn3jFs7JlD_uc-cY",
+                "Instance Type": "db.r7g.xlarge"
+            },
+            "Database Instance Aurora PostgreSQL No license required db r6i.4xlarge Memory optimized Single-AZ Current Generation": {
+                "rateCode": "6VPMWJ8WABZP5YXT.JRTCKXETXF.6YS6EN2CT7",
+                "price": "2.5200000000",
+                "RegionlessRateCode": "GuBzpsVw1heoFCJmZQyDfJyHATmtRDJFN-ERPiMaYiI",
+                "Instance Type": "db.r6i.4xlarge"
+            },
+            "Database Instance Aurora PostgreSQL No license required db r6i.large Memory optimized Single-AZ Current Generation": {
+                "rateCode": "JQYBAJNYKWBNPTYW.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.3150000000",
+                "RegionlessRateCode": "HmIoQDoWJFyRV3XyWT8OBM5hgQ1vFgItzGor8GtI5Sw",
+                "Instance Type": "db.r6i.large"
+            },
+            "Database Instance Aurora PostgreSQL No license required db r6g.12xlarge Memory optimized Single-AZ Current Generation": {
+                "rateCode": "6FUQZB9DSQMK833B.JRTCKXETXF.6YS6EN2CT7",
+                "price": "6.7680000000",
+                "RegionlessRateCode": "NnBj3PCBOlUbWIrTtsqrncTAcV3AP-w_6bKV9ruFw9I",
+                "Instance Type": "db.r6g.12xlarge"
+            },
+            "Database Instance Aurora PostgreSQL No license required db t4g.medium General purpose Single-AZ Current Generation": {
+                "rateCode": "R4D44N267YN4P4ZP.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1020000000",
+                "RegionlessRateCode": "PLta-as7LZ7ywhqPc3Q9iGMcU6bZOIhnV55g8-XZy6c",
+                "Instance Type": "db.t4g.medium"
+            },
+            "Database Instance Aurora PostgreSQL No license required db r6g.8xlarge Memory optimized Single-AZ Current Generation": {
+                "rateCode": "MMBC8WSXAX756FMM.JRTCKXETXF.6YS6EN2CT7",
+                "price": "4.5120000000",
+                "RegionlessRateCode": "WLW4tvRyQWJ9-TTv6IvK7PM6HGPRHwV0z2GaVhWEyGs",
+                "Instance Type": "db.r6g.8xlarge"
+            },
+            "Database Instance Aurora PostgreSQL No license required db r6i.xlarge Memory optimized Single-AZ Current Generation": {
+                "rateCode": "6EZ2AMAMZWHBTZ37.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.6300000000",
+                "RegionlessRateCode": "akavaOnqdXXK_pk7fBSQqP36jxWs6CbfS8XcGsA7nFc",
+                "Instance Type": "db.r6i.xlarge"
+            },
+            "Database Instance Aurora PostgreSQL No license required db r6i.2xlarge Memory optimized Single-AZ Current Generation": {
+                "rateCode": "VSXQNHFEKSXABTF6.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.2600000000",
+                "RegionlessRateCode": "cnmMHM03igCo6s5wfWmsP3qQKANIL6nOLIsAP9yrYcA",
+                "Instance Type": "db.r6i.2xlarge"
+            },
+            "Database Instance Aurora PostgreSQL No license required db r6i.16xlarge Memory optimized Single-AZ Current Generation": {
+                "rateCode": "7RBA86UV2M78PJ8B.JRTCKXETXF.6YS6EN2CT7",
+                "price": "10.0800000000",
+                "RegionlessRateCode": "i4cQz-bZDBygYCvHzaiUuWyR_OMm2HbRXddJ-dMNSuI",
+                "Instance Type": "db.r6i.16xlarge"
+            },
+            "Database Instance Aurora PostgreSQL No license required db r6i.24xlarge Memory optimized Single-AZ Current Generation": {
+                "rateCode": "STAKR8BJ3UTS6847.JRTCKXETXF.6YS6EN2CT7",
+                "price": "15.1200000000",
+                "RegionlessRateCode": "lW1Qe9PqkBn7OUfqONDagWoCsA3aDo94iEmDCGYrcQk",
+                "Instance Type": "db.r6i.24xlarge"
+            },
+            "Database Instance Aurora PostgreSQL No license required db r6i.12xlarge Memory optimized Single-AZ Current Generation": {
+                "rateCode": "98W44V3XM3GTYCGT.JRTCKXETXF.6YS6EN2CT7",
+                "price": "7.5600000000",
+                "RegionlessRateCode": "qirw7Kj0uw1gxOUWQyQIQiqLWRLMAp8-R_D_RTAFrtM",
+                "Instance Type": "db.r6i.12xlarge"
+            },
+            "Database Instance Aurora PostgreSQL No license required db t3.large General purpose Single-AZ Current Generation": {
+                "rateCode": "2YY754JAGRBFCAJP.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2250000000",
+                "RegionlessRateCode": "ytMQyO-MvLynTI-MWyx3quUrrktELZBGvGUk5DJveA4",
+                "Instance Type": "db.t3.large"
+            },
+            "Database Instance Aurora PostgreSQL No license required db t3.large Single-AZ current-": {
+                "rateCode": "2YY754JAGRBFCAJP.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2250000000",
+                "RegionlessRateCode": "ytMQyO-MvLynTI-MWyx3quUrrktELZBGvGUk5DJveA4",
+                "Instance Type": "db.t3.large"
+            },
+            "Database Instance Aurora PostgreSQL No license required db r6gd.8xlarge Memory optimized R6GD Single-AZ Current Generation": {
+                "rateCode": "ZRJ34CH43QBJM2SA.JRTCKXETXF.6YS6EN2CT7",
+                "price": "5.4080000000",
+                "RegionlessRateCode": "UKpzc9LnRU0qBrEf2r9wowzs82fe9z6uGDe6sUmn62g",
+                "Instance Type": "db.r6gd.8xlarge"
+            },
+            "Database Instance Aurora PostgreSQL No license required db r6gd.2xlarge Memory optimized R6GD Single-AZ Current Generation": {
+                "rateCode": "7MWPJAGH7949T5GG.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.3520000000",
+                "RegionlessRateCode": "Uw6o2INNEZ3H137eK-RceLRhQg6xdrNb9Uqi-g_Lqg4",
+                "Instance Type": "db.r6gd.2xlarge"
+            },
+            "Database Instance Aurora PostgreSQL No license required db r6gd.4xlarge Memory optimized R6GD Single-AZ Current Generation": {
+                "rateCode": "QVWJFHJW3F7W7PTU.JRTCKXETXF.6YS6EN2CT7",
+                "price": "2.7040000000",
+                "RegionlessRateCode": "T4HrmJJqOqO_LXLfszInrfvt4jzk_DUol0Qa-UZ3zLA",
+                "Instance Type": "db.r6gd.4xlarge"
+            },
+            "Database Instance Aurora PostgreSQL No license required db r6id.32xlarge Memory optimized R6id Single-AZ Current Generation": {
+                "rateCode": "ADXBY6Y787TUYW6S.JRTCKXETXF.6YS6EN2CT7",
+                "price": "24.1920000000",
+                "RegionlessRateCode": "E9IsotOD9-r8aoeDBUS9SS_TQcKW9rwmKqC6odf9gQs",
+                "Instance Type": "db.r6id.32xlarge"
+            },
+            "Database Instance Aurora MySQL No license required Aurora IO Optimization Mode db r7g.16xlarge Memory optimized Single-AZ Current Generation": {
+                "rateCode": "FCQ9NRWTYYP6NSTD.JRTCKXETXF.6YS6EN2CT7",
+                "price": "12.4800000000",
+                "RegionlessRateCode": "8Mcdok_1vKlq9SADWIeDjonSEZfRuqOOiHaqdZR8nXQ",
+                "Instance Type": "db.r7g.16xlarge"
+            },
+            "Database Instance Aurora MySQL No license required Aurora IO Optimization Mode db r6g.2xlarge Memory optimized Single-AZ Current Generation": {
+                "rateCode": "B68PDQ83QYX559PC.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.4680000000",
+                "RegionlessRateCode": "9IrNGSm-O3YFz3oxn1oofOtHqriwpWJ0omJIw-vXnJI",
+                "Instance Type": "db.r6g.2xlarge"
+            },
+            "Database Instance Aurora MySQL No license required Aurora IO Optimization Mode db r6i.12xlarge Memory optimized Single-AZ Current Generation": {
+                "rateCode": "TTW6ANQF8FT6244Y.JRTCKXETXF.6YS6EN2CT7",
+                "price": "9.8400000000",
+                "RegionlessRateCode": "HFJyKnT2uBpyVDA0J55YvR2qKZKxOp4SAZx36HSkNyw",
+                "Instance Type": "db.r6i.12xlarge"
+            },
+            "Database Instance Aurora MySQL No license required Aurora IO Optimization Mode db r6g.8xlarge Memory optimized Single-AZ Current Generation": {
+                "rateCode": "VRJMUPYP47SN38UX.JRTCKXETXF.6YS6EN2CT7",
+                "price": "5.8720000000",
+                "RegionlessRateCode": "Jg3LtkOhvyKW-6ec7lVgBtjsf7pL8ah4kk3UgvgwXzA",
+                "Instance Type": "db.r6g.8xlarge"
+            },
+            "Database Instance Aurora MySQL No license required Aurora IO Optimization Mode db r7g.4xlarge Memory optimized Single-AZ Current Generation": {
+                "rateCode": "A7VE6B9KTASSF7HD.JRTCKXETXF.6YS6EN2CT7",
+                "price": "3.1200000000",
+                "RegionlessRateCode": "LihklUwLMpVXtUu72_LYOT4ljL1XhUPI7ISfc9mhJTA",
+                "Instance Type": "db.r7g.4xlarge"
+            },
+            "Database Instance Aurora MySQL No license required Aurora IO Optimization Mode db r6i.8xlarge Memory optimized Single-AZ Current Generation": {
+                "rateCode": "4AM86AFGG9V256XW.JRTCKXETXF.6YS6EN2CT7",
+                "price": "6.5600000000",
+                "RegionlessRateCode": "PrYr1G7bl-vXeg6yHzDVO7Nk_Fh0vA9g5n2ZF_UByZ4",
+                "Instance Type": "db.r6i.8xlarge"
+            },
+            "Database Instance Aurora MySQL No license required Aurora IO Optimization Mode db r6i.large Memory optimized Single-AZ Current Generation": {
+                "rateCode": "V5BBXPBRYPFTG7SU.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.4100000000",
+                "RegionlessRateCode": "U4FJi7MMV77JghSAfFGuxkZ456V1SeKAvQAZDe-i7TI",
+                "Instance Type": "db.r6i.large"
+            },
+            "Database Instance Aurora MySQL No license required Aurora IO Optimization Mode db r6g.large Memory optimized Single-AZ Current Generation": {
+                "rateCode": "V4DQK4JT3UGDPSP4.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.3670000000",
+                "RegionlessRateCode": "V32mIeH68ax2hxWTERKqioHR1h29uankLUCqCGbpNvY",
+                "Instance Type": "db.r6g.large"
+            },
             "Database Instance Aurora MySQL No license required Aurora IO Optimization Mode db t3.small General purpose Single-AZ Current Generation": {
                 "rateCode": "KEVD2BVMKG6HQKCR.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0730000000",
                 "RegionlessRateCode": "WsZX3TFGkmQUqqEbS8iIYbpYjkYDTIEPihlEs4b9vtE",
                 "Instance Type": "db.t3.small"
+            },
+            "Database Instance Aurora MySQL No license required Aurora IO Optimization Mode db r6g.16xlarge Memory optimized Single-AZ Current Generation": {
+                "rateCode": "HGM9CGZMHAZYA4C9.JRTCKXETXF.6YS6EN2CT7",
+                "price": "11.7440000000",
+                "RegionlessRateCode": "XUwzH7HXMbII0tyYdQ0TjHjb55YaRTL94xzA3BmEbaY",
+                "Instance Type": "db.r6g.16xlarge"
+            },
+            "Database Instance Aurora MySQL No license required Aurora IO Optimization Mode db t4g.medium General purpose Single-AZ Current Generation": {
+                "rateCode": "Y2TR7472RAPU7QZW.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1320000000",
+                "RegionlessRateCode": "Yw0lWiAUlTwIOrsveD_J281G4ZS3V-5-pmeYTrWw7lY",
+                "Instance Type": "db.t4g.medium"
+            },
+            "Database Instance Aurora MySQL No license required Aurora IO Optimization Mode db r6i.2xlarge Memory optimized Single-AZ Current Generation": {
+                "rateCode": "E4P72XQ8DYEFFK5U.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.6400000000",
+                "RegionlessRateCode": "_Wl9KpU6DmreJSDQuC4s18o1oFwyvm-SgOy3sjig71o",
+                "Instance Type": "db.r6i.2xlarge"
+            },
+            "Database Instance Aurora MySQL No license required Aurora IO Optimization Mode db r6i.24xlarge Memory optimized Single-AZ Current Generation": {
+                "rateCode": "7FXP2KDCFXH2QJF3.JRTCKXETXF.6YS6EN2CT7",
+                "price": "19.6800000000",
+                "RegionlessRateCode": "lE-WQAspBaMSefj64XDtZ7_-CaCxlpmWjpm5HWGmLeU",
+                "Instance Type": "db.r6i.24xlarge"
+            },
+            "Database Instance Aurora MySQL No license required Aurora IO Optimization Mode db r6i.32xlarge Memory optimized Single-AZ Current Generation": {
+                "rateCode": "HZ7QND4GT427UB6Z.JRTCKXETXF.6YS6EN2CT7",
+                "price": "26.2400000000",
+                "RegionlessRateCode": "pT3uTKVSEGKD6LXXCrXPELB0icKGKfXFqke1kvUhUFI",
+                "Instance Type": "db.r6i.32xlarge"
+            },
+            "Database Instance Aurora MySQL No license required Aurora IO Optimization Mode db t3.medium General purpose Single-AZ Current Generation": {
+                "rateCode": "G2ZVK3H4ZSXHJW2U.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1460000000",
+                "RegionlessRateCode": "qq1OBPyScSYt39Qf0mL0lwTpIBKNASlwf8fhmYg4D_w",
+                "Instance Type": "db.t3.medium"
+            },
+            "Database Instance Aurora MySQL No license required Aurora IO Optimization Mode db t3.large General purpose Single-AZ Current Generation": {
+                "rateCode": "KWNVYYECC6WG56QB.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2930000000",
+                "RegionlessRateCode": "srD03SjTlChtF65wHB-IHes9hauIxEYjrXaaSyDertk",
+                "Instance Type": "db.t3.large"
+            },
+            "Database Instance Aurora MySQL No license required Aurora IO Optimization Mode db r6g.12xlarge Memory optimized Single-AZ Current Generation": {
+                "rateCode": "CAP9EQZT52M94ZMF.JRTCKXETXF.6YS6EN2CT7",
+                "price": "8.8080000000",
+                "RegionlessRateCode": "wXiCrXeX8vNQaekMdObb6mR6K6udcOYmOVeHQ4Kah2E",
+                "Instance Type": "db.r6g.12xlarge"
+            },
+            "Database Instance Aurora MySQL No license required Aurora IO Optimization Mode db r7g.xlarge Memory optimized Single-AZ Current Generation": {
+                "rateCode": "6T68K3RN26GPTJN6.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.7800000000",
+                "RegionlessRateCode": "yRG9sKGnevFDOR6W1g5W3PCbhAVX3pcLZr3ieUtmej8",
+                "Instance Type": "db.r7g.xlarge"
+            },
+            "Database Instance Aurora MySQL No license required Aurora IO Optimization Mode db r7g.large Memory optimized Single-AZ Current Generation": {
+                "rateCode": "J3UE9AVN92CS767Y.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.3900000000",
+                "RegionlessRateCode": "zcpJuF8-s211G-mKNWsnfJDYmYf8aPb6iDngTbI-dsE",
+                "Instance Type": "db.r7g.large"
+            },
+            "Database Instance Aurora PostgreSQL No license required Aurora IO Optimization Mode db r7g.large Memory optimized Single-AZ Current Generation": {
+                "rateCode": "SJSQD6CTFCXZERBA.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.3900000000",
+                "RegionlessRateCode": "0Aw44evsadqmcIeIWr_irv1RHdpfQ4cx9bKdHMCtRNY",
+                "Instance Type": "db.r7g.large"
+            },
+            "Database Instance Aurora PostgreSQL No license required Aurora IO Optimization Mode db r6g.2xlarge Memory optimized Single-AZ Current Generation": {
+                "rateCode": "JVVN2YZ9HJUV9G9G.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.4680000000",
+                "RegionlessRateCode": "0xRV8vUfZoX6uJy-ZbRhNdovHMT52puNtY013ndcGas",
+                "Instance Type": "db.r6g.2xlarge"
+            },
+            "Database Instance Aurora PostgreSQL No license required Aurora IO Optimization Mode db r6i.large Memory optimized Single-AZ Current Generation": {
+                "rateCode": "6SY2WDK8RC7VJ7EP.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.4100000000",
+                "RegionlessRateCode": "1EnIdgQZ6sZHQBrtKOcHlT4-tvpTTvDJlOxtR6ABpGg",
+                "Instance Type": "db.r6i.large"
+            },
+            "Database Instance Aurora PostgreSQL No license required Aurora IO Optimization Mode db r6i.4xlarge Memory optimized Single-AZ Current Generation": {
+                "rateCode": "38FPHVNSMSFMF6ZE.JRTCKXETXF.6YS6EN2CT7",
+                "price": "3.2800000000",
+                "RegionlessRateCode": "3qghKhdnxMumGWPNXZIGU4LSVLoCp3ZcB-6Yfmqf_f4",
+                "Instance Type": "db.r6i.4xlarge"
+            },
+            "Database Instance Aurora PostgreSQL No license required Aurora IO Optimization Mode db r6i.24xlarge Memory optimized Single-AZ Current Generation": {
+                "rateCode": "59HEZRRRXEGASSU3.JRTCKXETXF.6YS6EN2CT7",
+                "price": "19.6800000000",
+                "RegionlessRateCode": "8BWPwJO94zVDVYfrSV4K3kAnV_k-Bs0VwHK-8E5NXEM",
+                "Instance Type": "db.r6i.24xlarge"
+            },
+            "Database Instance Aurora PostgreSQL No license required Aurora IO Optimization Mode db r6g.8xlarge Memory optimized Single-AZ Current Generation": {
+                "rateCode": "3D2D4NJJFE2AGDE5.JRTCKXETXF.6YS6EN2CT7",
+                "price": "5.8720000000",
+                "RegionlessRateCode": "E7caiZT_MvOVcVuE9dR_AOUS1usplW3ftl3Ecs3j_pM",
+                "Instance Type": "db.r6g.8xlarge"
+            },
+            "Database Instance Aurora PostgreSQL No license required Aurora IO Optimization Mode db r6g.16xlarge Memory optimized Single-AZ Current Generation": {
+                "rateCode": "YW9ATVSYNN6RKNY9.JRTCKXETXF.6YS6EN2CT7",
+                "price": "11.7440000000",
+                "RegionlessRateCode": "GbJlvc8-5i__YAxinQ4yvgO4DF-6ny-tREnYU0iBkhk",
+                "Instance Type": "db.r6g.16xlarge"
+            },
+            "Database Instance Aurora PostgreSQL No license required Aurora IO Optimization Mode db r6i.2xlarge Memory optimized Single-AZ Current Generation": {
+                "rateCode": "9PXF4VVVC86B2M6X.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.6400000000",
+                "RegionlessRateCode": "GzjN0mlmJGOywL8pp6KmU5jwN79OxOtJuuiEMswbSgk",
+                "Instance Type": "db.r6i.2xlarge"
+            },
+            "Database Instance Aurora PostgreSQL No license required Aurora IO Optimization Mode db t4g.medium General purpose Single-AZ Current Generation": {
+                "rateCode": "A2NJXUC3MBDKYV9J.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1320000000",
+                "RegionlessRateCode": "LycKZU3KO8BPvKc3Gw1FmLzJ7KOf_pXJsv5_P-vCYws",
+                "Instance Type": "db.t4g.medium"
+            },
+            "Database Instance Aurora PostgreSQL No license required Aurora IO Optimization Mode db r6i.16xlarge Memory optimized Single-AZ Current Generation": {
+                "rateCode": "29CQBA7B5KKSWBM5.JRTCKXETXF.6YS6EN2CT7",
+                "price": "13.1200000000",
+                "RegionlessRateCode": "PRRD9-sFmTN-RFjZcZNQl6TfdOGgTQWHMV0P-WYxuXo",
+                "Instance Type": "db.r6i.16xlarge"
+            },
+            "Database Instance Aurora PostgreSQL No license required Aurora IO Optimization Mode db r6g.large Memory optimized Single-AZ Current Generation": {
+                "rateCode": "GUMA2BZFDUZNJEEP.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.3670000000",
+                "RegionlessRateCode": "S05RHOuNRRQHTk7kqjslTeWGmCK9HAZi3tqmtxFJFos",
+                "Instance Type": "db.r6g.large"
+            },
+            "Database Instance Aurora PostgreSQL No license required Aurora IO Optimization Mode db r7g.xlarge Memory optimized Single-AZ Current Generation": {
+                "rateCode": "S48YT2KFN6UEJHE2.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.7800000000",
+                "RegionlessRateCode": "er21tDfEX11yJzbDM0b5IN4ajhfH83ggZ1cnul0sPl4",
+                "Instance Type": "db.r7g.xlarge"
+            },
+            "Database Instance Aurora PostgreSQL No license required Aurora IO Optimization Mode db r6i.8xlarge Memory optimized Single-AZ Current Generation": {
+                "rateCode": "XEJKSEU64AVRDGPW.JRTCKXETXF.6YS6EN2CT7",
+                "price": "6.5600000000",
+                "RegionlessRateCode": "gP2ays4i9Dj-pvzeEr3CnAbWJt5QpPbrUVVRQJFe2BE",
+                "Instance Type": "db.r6i.8xlarge"
+            },
+            "Database Instance Aurora PostgreSQL No license required Aurora IO Optimization Mode db t3.large General purpose Single-AZ Current Generation": {
+                "rateCode": "882JYNWNGS2CRZ7P.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2930000000",
+                "RegionlessRateCode": "j5EGXQL_fIUiKF5HmnL0Ea5J-kJocgcG_By9LoafKew",
+                "Instance Type": "db.t3.large"
+            },
+            "Database Instance Aurora PostgreSQL No license required Aurora IO Optimization Mode db r6g.12xlarge Memory optimized Single-AZ Current Generation": {
+                "rateCode": "5RCPPPRB75HSU4RY.JRTCKXETXF.6YS6EN2CT7",
+                "price": "8.8080000000",
+                "RegionlessRateCode": "jJeRcV-6bpJ2fgmbhpUGMkelswwjWrvMolQeYYpzb3E",
+                "Instance Type": "db.r6g.12xlarge"
+            },
+            "Database Instance Aurora PostgreSQL No license required Aurora IO Optimization Mode db r7g.8xlarge Memory optimized Single-AZ Current Generation": {
+                "rateCode": "TYMZMQCPTP5WENQS.JRTCKXETXF.6YS6EN2CT7",
+                "price": "6.2400000000",
+                "RegionlessRateCode": "l8sQ5l84rWjfVH9hQRlhWhaVLvCU8YaGNDnDgfhBIAw",
+                "Instance Type": "db.r7g.8xlarge"
+            },
+            "Database Instance Aurora PostgreSQL No license required Aurora IO Optimization Mode db r7g.2xlarge Memory optimized Single-AZ Current Generation": {
+                "rateCode": "82EURQR8SS8Z7EG9.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.5600000000",
+                "RegionlessRateCode": "nAJ1tORYLBZOYdfb5j8MEvnovR9clENEoFQ6Q8T2hPM",
+                "Instance Type": "db.r7g.2xlarge"
+            },
+            "Database Instance Aurora PostgreSQL No license required Aurora IO Optimization Mode db t4g.large General purpose Single-AZ Current Generation": {
+                "rateCode": "TYBY3F89Y5B7H7Q9.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.2640000000",
+                "RegionlessRateCode": "nohtHneXuedx_RlY9XXtiDWcBpNE-NuU183r4gfOGoc",
+                "Instance Type": "db.t4g.large"
+            },
+            "Database Instance Aurora PostgreSQL No license required Aurora IO Optimization Mode db r7g.4xlarge Memory optimized Single-AZ Current Generation": {
+                "rateCode": "UTR7NFUEPACA4TA6.JRTCKXETXF.6YS6EN2CT7",
+                "price": "3.1200000000",
+                "RegionlessRateCode": "rhuHFkPDVIR8TuvBx6Fc0CjVN-99PDYS6HMpmxJjQTc",
+                "Instance Type": "db.r7g.4xlarge"
+            },
+            "Database Instance Aurora PostgreSQL No license required Aurora IO Optimization Mode db t3.medium General purpose Single-AZ Current Generation": {
+                "rateCode": "76ST5TGZWTXNNCPZ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1460000000",
+                "RegionlessRateCode": "rzlKcgkX1MgZtS2CynJ0-zKZTznlawm3BwHRLTZxW7E",
+                "Instance Type": "db.t3.medium"
+            },
+            "Database Instance Aurora PostgreSQL No license required Aurora IO Optimization Mode db r6i.xlarge Memory optimized Single-AZ Current Generation": {
+                "rateCode": "MF3TSNCA9ZRGWMVS.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.8200000000",
+                "RegionlessRateCode": "unQq03nydDeEauC4ZenQyBgaJ85uU3adtW3_lUx_ZXE",
+                "Instance Type": "db.r6i.xlarge"
+            },
+            "Database Instance Aurora PostgreSQL No license required Aurora IO Optimization Mode db r7g.12xlarge Memory optimized Single-AZ Current Generation": {
+                "rateCode": "BXE8MSN747SMMKWY.JRTCKXETXF.6YS6EN2CT7",
+                "price": "9.3600000000",
+                "RegionlessRateCode": "uqww2Sqp_I2QVHTodKyw-qG-8TE-U0D3-QSOL6_QiFY",
+                "Instance Type": "db.r7g.12xlarge"
+            },
+            "Database Instance Aurora PostgreSQL No license required Aurora IO Optimization Mode db r7g.16xlarge Memory optimized Single-AZ Current Generation": {
+                "rateCode": "Z22CRKM7GQPEC6AF.JRTCKXETXF.6YS6EN2CT7",
+                "price": "12.4800000000",
+                "RegionlessRateCode": "yPAg01yZaFv9DlFxRT01-4H-ZRW99qt00Ccv1gCbk5M",
+                "Instance Type": "db.r7g.16xlarge"
+            },
+            "Database Instance Aurora PostgreSQL No license required Aurora IO Optimization Mode db r6gd.xlarge Memory optimized R6GD Single-AZ Current Generation": {
+                "rateCode": "3ANSMFA3MAT5CH2Z.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.8790000000",
+                "RegionlessRateCode": "VgSFT1HFlJ58069LTNUxnaSr5XzHWrEuOi5l17CEd0s",
+                "Instance Type": "db.r6gd.xlarge"
+            },
+            "Database Instance Aurora PostgreSQL No license required Aurora IO Optimization Mode db r6id.32xlarge Memory optimized R6id Single-AZ Current Generation": {
+                "rateCode": "DJ8YR97WFYR67U7Q.JRTCKXETXF.6YS6EN2CT7",
+                "price": "31.4490000000",
+                "RegionlessRateCode": "W4Cu5QlNg3xcM1IW4wUDSpcxvthQm0POxta5lqWRtxs",
+                "Instance Type": "db.r6id.32xlarge"
+            },
+            "Database Instance Aurora PostgreSQL No license required Aurora IO Optimization Mode db r6gd.8xlarge Memory optimized R6GD Single-AZ Current Generation": {
+                "rateCode": "MEQ5RAVMU5QAGV8T.JRTCKXETXF.6YS6EN2CT7",
+                "price": "7.0320000000",
+                "RegionlessRateCode": "_XNwFwM9m2eB4HCWr9y27e7M69ohN_8McXvLAz2OzhA",
+                "Instance Type": "db.r6gd.8xlarge"
+            },
+            "Database Instance Aurora PostgreSQL No license required Aurora IO Optimization Mode db r6gd.4xlarge Memory optimized R6GD Single-AZ Current Generation": {
+                "rateCode": "AUYYEM5HNU4UBSU2.JRTCKXETXF.6YS6EN2CT7",
+                "price": "3.5160000000",
+                "RegionlessRateCode": "lCkOeCq7iC5aBQcxhyfgW9tZGJy8anxWAjhcCxtRr_o",
+                "Instance Type": "db.r6gd.4xlarge"
+            },
+            "Database Instance Aurora PostgreSQL No license required Aurora IO Optimization Mode db r6id.24xlarge Memory optimized R6id Single-AZ Current Generation": {
+                "rateCode": "QVW3RY9Q6J4NTQ7D.JRTCKXETXF.6YS6EN2CT7",
+                "price": "23.5870000000",
+                "RegionlessRateCode": "nhoFYggK4klr6BkJ84BCbZ8wMB3UZKQ7kJo-8t1VBqE",
+                "Instance Type": "db.r6id.24xlarge"
             }
         },
         "Asia Pacific (Sydney)": {
