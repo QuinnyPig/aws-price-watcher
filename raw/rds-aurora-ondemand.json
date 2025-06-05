@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "rds",
         "accessType": "publish",
-        "esIndex": "plc-rds-usd-20250605175647",
-        "hawkFilePublicationDate": "2025-06-05T17:56:47Z",
-        "ETLIngestionTriggerDate": "2025-06-05T17:56:47Z",
+        "esIndex": "plc-rds-usd-20250605210537",
+        "hawkFilePublicationDate": "2025-06-05T21:05:37Z",
+        "ETLIngestionTriggerDate": "2025-06-05T21:05:37Z",
         "currencyCode": "USD",
         "source": "rds-aurora-ondemand",
         "isMapped": "true"
@@ -43590,6 +43590,32 @@
                 "price": "9.9530000000",
                 "RegionlessRateCode": "wAqx3jB9fUfSvr-ydokA2lE2HUJe_9G-X57VixQ17QA",
                 "Instance Type": "db.r6gd.12xlarge"
+            }
+        },
+        "Asia Pacific (Taipei)": {
+            "HUtnckURQ5PLWxnB8ia7sqEs10IE0LzSeluyB78O_RU V1": {
+                "rateCode": "27RWE274A8MJVA4C.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0560000000",
+                "RegionlessRateCode": "HUtnckURQ5PLWxnB8ia7sqEs10IE0LzSeluyB78O_RU",
+                "Instance Type": "db.t3.small"
+            },
+            "WsZX3TFGkmQUqqEbS8iIYbpYjkYDTIEPihlEs4b9vtE V7": {
+                "rateCode": "KEVD2BVMKG6HQKCR.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0730000000",
+                "RegionlessRateCode": "WsZX3TFGkmQUqqEbS8iIYbpYjkYDTIEPihlEs4b9vtE",
+                "Instance Type": "db.t3.small"
+            },
+            "Database Instance Aurora MySQL No license required db t3.small General purpose Single-AZ Current Generation": {
+                "rateCode": "27RWE274A8MJVA4C.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0560000000",
+                "RegionlessRateCode": "HUtnckURQ5PLWxnB8ia7sqEs10IE0LzSeluyB78O_RU",
+                "Instance Type": "db.t3.small"
+            },
+            "Database Instance Aurora MySQL No license required Aurora IO Optimization Mode db t3.small General purpose Single-AZ Current Generation": {
+                "rateCode": "KEVD2BVMKG6HQKCR.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0730000000",
+                "RegionlessRateCode": "WsZX3TFGkmQUqqEbS8iIYbpYjkYDTIEPihlEs4b9vtE",
+                "Instance Type": "db.t3.small"
             }
         },
         "Asia Pacific (Sydney)": {

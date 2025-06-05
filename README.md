@@ -1,3 +1,209 @@
+## 2025-06-05 21:26
+
+**Modified services:**
+
+- [rds-storage](processed/rds-storage.json)
+  - Region added for metric Storage Snapshot Aurora PostgreSQL: Asia Pacific (Taipei) 🌎
+  - Region added for metric System Operation: Asia Pacific (Taipei) 🌎
+  - Region added for metric RDS Snapshot Export Aurora MySQL: Asia Pacific (Taipei) 🌎
+  - Region added for metric Provisioned Throughput Multi AZ: Asia Pacific (Taipei) 🌎
+  - Region added for metric RDS Snapshot Export PostgreSQL: Asia Pacific (Taipei) 🌎
+  - Region added for metric Storage Snapshot Aurora MySQL: Asia Pacific (Taipei) 🌎
+  - Region added for metric Provisioned Throughput Multi AZ SQL Server Mirror: Asia Pacific (Taipei) 🌎
+  - Region added for metric RDS Snapshot Export Aurora PostgreSQL: Asia Pacific (Taipei) 🌎
+  - Region added for metric RDS Snapshot Export MySQL: Asia Pacific (Taipei) 🌎
+  - Region added for metric Provisioned Throughput Single AZ: Asia Pacific (Taipei) 🌎
+  - Region added for metric RDS Snapshot Export MariaDB: Asia Pacific (Taipei) 🌎
+  - Region added for metric Storage Snapshot: Asia Pacific (Taipei) 🌎
+  - Region added for metric Aurora PostgreSQL Aurora Global Database: Asia Pacific (Taipei) 🌎
+
+- [rds-aurora-storage](processed/rds-aurora-storage.json)
+  - Region added for metric Aurora MySQL ServerlessV2: Asia Pacific (Taipei) 🌎
+  - Region added for metric System Operation Aurora I O Operation: Asia Pacific (Taipei) 🌎
+  - Region added for metric Storage Snapshot Aurora PostgreSQL: Asia Pacific (Taipei) 🌎
+  - Region added for metric RDS Snapshot Export Aurora MySQL: Asia Pacific (Taipei) 🌎
+  - Region added for metric Aurora PostgreSQL ServerlessV2: Asia Pacific (Taipei) 🌎
+  - Region added for metric Storage Snapshot Aurora MySQL: Asia Pacific (Taipei) 🌎
+  - Region added for metric RDS Snapshot Export Aurora PostgreSQL: Asia Pacific (Taipei) 🌎
+  - Region added for metric Aurora MySQL ServerlessV2 Aurora IO Optimization Mode: Asia Pacific (Taipei) 🌎
+  - Region added for metric Aurora PostgreSQL ServerlessV2 Aurora IO Optimization Mode: Asia Pacific (Taipei) 🌎
+  - Region added for metric Aurora PostgreSQL Aurora Global Database: Asia Pacific (Taipei) 🌎
+
+- [rds-aurora-ondemand](processed/rds-aurora-ondemand.json)
+  - Region added for metric [Database Instance Aurora MySQL No license required General purpose Single-AZ Current Generation] Database Instance Aurora MySQL No license required db t3.small General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t3.small) 🌎
+  - Region added for metric [Database Instance Aurora MySQL No license required Aurora IO Optimization Mode General purpose Single-AZ Current Generation] Database Instance Aurora MySQL No license required Aurora IO Optimization Mode db t3.small General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t3.small) 🌎
+
+- [rds-db2-ondemand](processed/rds-db2-ondemand.json)
+  - Region added for metric 6n6V_fnQA4cj_QFMfO-jSn-NiP_ko3AyaXl4VyMg2NQ V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric 6zCOhyBlzHxvuLWHzYRAW4dPMw3GMO_2rLf9tnvlnIc V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric 9zfrgpr1viNm2iKPzwVGnk6CfZCkKyI9XhfUCGMQpQI V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric MjZdn-05dVCgMGOPmf-g1-bAjZHepHdTl_JxDs5gWzc V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric V6SZdKtKBOY7BggdoGnLRWaDnqYeMfAI3pwwkC9by-o V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric c_MRjdQ11yx0fglMV7Fx2b7zCnfsVnn7zFNqTizzN7o V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric cii1dWdbJc46ikyncCqYhs9sF8D5jeetBg5CL91tryU V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric h9V39COPWnlER2MWpzegLhrjPYM4NniZfEX2oLy7ksw V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric qL39PrZAVCzQNBvJFNppRv44o_loys_LqjsNfM-z1CU V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric rMa9QHmf2d6O6sNMFd4tGN5TP5uc5ayl18z34iDhHx4 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric xcvAe_k5BIOWhCTPKVP8ATH8XQSkoec_QqAjKd8ep9A V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric Provisioned Throughput Multi AZ Advanced: Asia Pacific (Taipei) 🌎
+  - Region added for metric Storage Snapshot Advanced: Asia Pacific (Taipei) 🌎
+  - Region added for metric Provisioned Throughput Single AZ Advanced: Asia Pacific (Taipei) 🌎
+  - Billing metric added: 4dlpaYFMxLO4KW_Ey_6_KpZvot3ml1-DaA6D2PoYadc V1 💡
+  - Billing metric added: PKgQyGXD-dLDPdZXnLQqnAja6ejfYN375qP_D-jVSCM V1 💡
+  - Billing metric added: QTLRkdyGvI4Aeskrgg6au-KcHaFYUJ54VJ15H6idipc V1 💡
+  - Billing metric added: WbqrXOZwx8Q5a49sGlAjVlcFxDZOzzeQn2PEnobCTjg V1 💡
+  - Billing metric added: WyjGztUcAELA92aMFC4pYFz1Rl4Le1foIM4fnWnHAic V1 💡
+  - Billing metric added: iFdxr776ddLvpvMISOTYuE7fqKCDLlXplZ_3MnRBX7g V1 💡
+  - Billing metric added: qVkN3NPVmDt19JqjHRf8cQo7f4_JIJSch0NSuc4GK3E V1 💡
+
+- [rds-mysql-ondemand](processed/rds-mysql-ondemand.json)
+  - Region added for metric 1AzaNfV8Ytz1eAodwLvXqh6lw9oLDsoJJgPaUSF2rLw V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric 2nJWc92RA6vAM0UunyWpbarPjDwfpaE0dN35z2k4LOI V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric 6n6V_fnQA4cj_QFMfO-jSn-NiP_ko3AyaXl4VyMg2NQ V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric 9zfrgpr1viNm2iKPzwVGnk6CfZCkKyI9XhfUCGMQpQI V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric AzKwvjhYG-t_cqTCdc2cN2mmrGNC7z9pkpGoLyU-csA V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric BU7_OzK7T9qVi3fiR83j70wGEMO2-9BT1k8tbhB1aq4 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric GwP42PQTMUuAub_-jtMIsyeIZtRZaiEmCNBEKCqIbZU V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric IqfyiAtoOOIqWlIs3Ip7yQ1eP7qnMVthxmw_Ebttz2E V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric K2IXZXDu2WjwJhh4roa1NLjgXLu2_xKTE9JxqE4x-j0 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric KoMbDg25Fx73wPv4XiFQD0uXHShttNBPR1q9Nx9yrws V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric LXb82e67E_vOPqBJQEiyx8lfuahqye2Wmnnfuit2LD0 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric MjZdn-05dVCgMGOPmf-g1-bAjZHepHdTl_JxDs5gWzc V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric TM5eSN2IrT4-I46oFdm-4wk-wlakotIqS15vkUOvTjs V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric b6a6ijMHvfQmnuwwxXF-3RUM841kpXLYDd745ioeL-M V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric k_pxiFWH588EVicrn0y45dazao7DPJpjWDyIfqyOfCU V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric nQcYZYPXfcy20-gXW4v2hFpA13niYdv_vCo2EFYr9IQ V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric pPXQoVxwM76oujTkHoWJh4yhEmjq0wYlGDJIBX1JahE V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric qL39PrZAVCzQNBvJFNppRv44o_loys_LqjsNfM-z1CU V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric u31ZoTJ3TOWi2nAukwX0_g2wAEiuuueXoIZRRVq1hjo V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric uxcUn8S0COeZwYduaG05euX-ttEMpZlq72saW6rk028 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric xOSyG4qfwDPfSQVz3Xha6EoVJ_UZyxNn7xdos03fXI4 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric xcvAe_k5BIOWhCTPKVP8ATH8XQSkoec_QqAjKd8ep9A V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric Database Instance MySQL No license required db t4g.micro General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t4g.micro, Memory: 1 GiB, vCPU: 2, Network Performance: Up to 5 Gigabit) 🌎
+  - Region added for metric Database Instance MySQL No license required db t4g.micro General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t4g.micro, Memory: 1 GiB, vCPU: 2, Network Performance: Up to 5 Gigabit) 🌎
+  - Region added for metric Database Instance MySQL No license required db r6i.32xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.32xlarge, Memory: 1024 GiB, vCPU: 128, Network Performance: 50 Gbps) 🌎
+  - Region added for metric Database Instance MySQL No license required db r6i.32xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.32xlarge, Memory: 1024 GiB, vCPU: 128, Network Performance: 50 Gbps) 🌎
+  - Region added for metric Database Instance MySQL No license required db t3.micro General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t3.micro, Memory: 1 GiB, vCPU: 2, Network Performance: Low to Moderate) 🌎
+  - Region added for metric Database Instance MySQL No license required db t3.micro General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t3.micro, Memory: 1 GiB, vCPU: 2, Network Performance: Low to Moderate) 🌎
+  - Region added for metric RDS Snapshot Export PostgreSQL: Asia Pacific (Taipei) 🌎
+  - Region added for metric Provisioned Throughput Multi AZ readable standbys: Asia Pacific (Taipei) 🌎
+  - Region added for metric Provisioned Throughput Multi AZ: Asia Pacific (Taipei) 🌎
+  - Region added for metric Provisioned Throughput Single AZ: Asia Pacific (Taipei) 🌎
+  - Region added for metric Storage Snapshot: Asia Pacific (Taipei) 🌎
+  - Region added for metric RDS Snapshot Export MySQL: Asia Pacific (Taipei) 🌎
+  - Region added for metric RDS Snapshot Export MariaDB: Asia Pacific (Taipei) 🌎
+  - Billing metric added: QTLRkdyGvI4Aeskrgg6au-KcHaFYUJ54VJ15H6idipc V1 💡
+
+- [rds-postgresql-ondemand](processed/rds-postgresql-ondemand.json)
+  - Region added for metric 1AzaNfV8Ytz1eAodwLvXqh6lw9oLDsoJJgPaUSF2rLw V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric 2nJWc92RA6vAM0UunyWpbarPjDwfpaE0dN35z2k4LOI V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric 6n6V_fnQA4cj_QFMfO-jSn-NiP_ko3AyaXl4VyMg2NQ V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric 9zfrgpr1viNm2iKPzwVGnk6CfZCkKyI9XhfUCGMQpQI V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric AzKwvjhYG-t_cqTCdc2cN2mmrGNC7z9pkpGoLyU-csA V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric BU7_OzK7T9qVi3fiR83j70wGEMO2-9BT1k8tbhB1aq4 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric GwP42PQTMUuAub_-jtMIsyeIZtRZaiEmCNBEKCqIbZU V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric IqfyiAtoOOIqWlIs3Ip7yQ1eP7qnMVthxmw_Ebttz2E V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric K2IXZXDu2WjwJhh4roa1NLjgXLu2_xKTE9JxqE4x-j0 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric KoMbDg25Fx73wPv4XiFQD0uXHShttNBPR1q9Nx9yrws V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric LXb82e67E_vOPqBJQEiyx8lfuahqye2Wmnnfuit2LD0 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric MjZdn-05dVCgMGOPmf-g1-bAjZHepHdTl_JxDs5gWzc V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric TM5eSN2IrT4-I46oFdm-4wk-wlakotIqS15vkUOvTjs V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric b6a6ijMHvfQmnuwwxXF-3RUM841kpXLYDd745ioeL-M V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric k_pxiFWH588EVicrn0y45dazao7DPJpjWDyIfqyOfCU V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric nQcYZYPXfcy20-gXW4v2hFpA13niYdv_vCo2EFYr9IQ V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric pPXQoVxwM76oujTkHoWJh4yhEmjq0wYlGDJIBX1JahE V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric qL39PrZAVCzQNBvJFNppRv44o_loys_LqjsNfM-z1CU V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric u31ZoTJ3TOWi2nAukwX0_g2wAEiuuueXoIZRRVq1hjo V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric uxcUn8S0COeZwYduaG05euX-ttEMpZlq72saW6rk028 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric xOSyG4qfwDPfSQVz3Xha6EoVJ_UZyxNn7xdos03fXI4 V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric xcvAe_k5BIOWhCTPKVP8ATH8XQSkoec_QqAjKd8ep9A V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db r6i.32xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.32xlarge, Memory: 1024 GiB, vCPU: 128, Network Performance: 50 Gbps) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db t4g.micro General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t4g.micro, Memory: 1 GiB, vCPU: 2, Network Performance: Up to 5 Gigabit) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db r6i.32xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.32xlarge, Memory: 1024 GiB, vCPU: 128, Network Performance: 50 Gbps) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db t3.micro General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t3.micro, Memory: 1 GiB, vCPU: 2, Network Performance: Low to Moderate) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db t3.micro General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t3.micro, Memory: 1 GiB, vCPU: 2, Network Performance: Low to Moderate) 🌎
+  - Region added for metric Database Instance PostgreSQL No license required db t4g.micro General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t4g.micro, Memory: 1 GiB, vCPU: 2, Network Performance: Up to 5 Gigabit) 🌎
+  - Region added for metric RDS Snapshot Export PostgreSQL: Asia Pacific (Taipei) 🌎
+  - Region added for metric RDS Snapshot Export MySQL: Asia Pacific (Taipei) 🌎
+  - Region added for metric RDS Snapshot Export MariaDB: Asia Pacific (Taipei) 🌎
+  - Region added for metric Storage Snapshot: Asia Pacific (Taipei) 🌎
+  - Billing metric added: QTLRkdyGvI4Aeskrgg6au-KcHaFYUJ54VJ15H6idipc V1 💡
+
+- [rds-oracle-ondemand](processed/rds-oracle-ondemand.json)
+  - Region added for metric 2vo-JXwW8xxyAc7P1h4iYXeXep94_LcEMy_mpv8u1mg V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric 4Y2nRmWV6-zWOs9HcoTAIeXd8By6Sd3ofn3eGUvAtyw V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric 6n6V_fnQA4cj_QFMfO-jSn-NiP_ko3AyaXl4VyMg2NQ V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric 9zfrgpr1viNm2iKPzwVGnk6CfZCkKyI9XhfUCGMQpQI V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric KmJOndmRAfCneDn8IsSQlf4-8gh4yCUeV7VmfBgIJlQ V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric LDiTkhAGa450nwF9_2ER-ohR6cUKsYK2xYWR9Y4zanQ V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric MjZdn-05dVCgMGOPmf-g1-bAjZHepHdTl_JxDs5gWzc V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric Mt57cQ-GHzsdOmswRfM7ZQ6Tt4y9sbkwN1hI5EgZNWs V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric iBWnkXF_EaigyrRHZLAuH2GH_kkP3Obfs9fnTdLEu_Y V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric qL39PrZAVCzQNBvJFNppRv44o_loys_LqjsNfM-z1CU V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric tXg5nbhCQ4s-QnOmqT73dQadUeCZPQJrIla9b7PyaCs V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric vmbuPpauecuoLkdT7ZPLuN8yAD8sKx4uIMWjcz7aaHQ V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric xcvAe_k5BIOWhCTPKVP8ATH8XQSkoec_QqAjKd8ep9A V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric ydurKixp7TU1A7YWR12x7W0Y3h0cVsW2TlHn3J5xxNo V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Bring your own license db r6i.32xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.32xlarge, Memory: 1024 GiB, vCPU: 128, Network Performance: 50 Gbps) 🌎
+  - Region added for metric Database Instance Oracle Enterprise Bring your own license db r6i.32xlarge Memory optimized Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.32xlarge, Memory: 1024 GiB, vCPU: 128, Network Performance: 50 Gbps) 🌎
+  - Region added for metric Provisioned Throughput Multi AZ: Asia Pacific (Taipei) 🌎
+  - Region added for metric Storage Snapshot: Asia Pacific (Taipei) 🌎
+  - Billing metric added: QTLRkdyGvI4Aeskrgg6au-KcHaFYUJ54VJ15H6idipc V1 💡
+
+- [rds-mariadb-ondemand](processed/rds-mariadb-ondemand.json)
+  - Region added for metric 1AzaNfV8Ytz1eAodwLvXqh6lw9oLDsoJJgPaUSF2rLw V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric 2nJWc92RA6vAM0UunyWpbarPjDwfpaE0dN35z2k4LOI V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric 6n6V_fnQA4cj_QFMfO-jSn-NiP_ko3AyaXl4VyMg2NQ V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric 9zfrgpr1viNm2iKPzwVGnk6CfZCkKyI9XhfUCGMQpQI V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric AzKwvjhYG-t_cqTCdc2cN2mmrGNC7z9pkpGoLyU-csA V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric BU7_OzK7T9qVi3fiR83j70wGEMO2-9BT1k8tbhB1aq4 V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric GwP42PQTMUuAub_-jtMIsyeIZtRZaiEmCNBEKCqIbZU V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric IqfyiAtoOOIqWlIs3Ip7yQ1eP7qnMVthxmw_Ebttz2E V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric K2IXZXDu2WjwJhh4roa1NLjgXLu2_xKTE9JxqE4x-j0 V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric KoMbDg25Fx73wPv4XiFQD0uXHShttNBPR1q9Nx9yrws V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric LXb82e67E_vOPqBJQEiyx8lfuahqye2Wmnnfuit2LD0 V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric MjZdn-05dVCgMGOPmf-g1-bAjZHepHdTl_JxDs5gWzc V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric TM5eSN2IrT4-I46oFdm-4wk-wlakotIqS15vkUOvTjs V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric b6a6ijMHvfQmnuwwxXF-3RUM841kpXLYDd745ioeL-M V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric k_pxiFWH588EVicrn0y45dazao7DPJpjWDyIfqyOfCU V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric nQcYZYPXfcy20-gXW4v2hFpA13niYdv_vCo2EFYr9IQ V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric pPXQoVxwM76oujTkHoWJh4yhEmjq0wYlGDJIBX1JahE V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric qL39PrZAVCzQNBvJFNppRv44o_loys_LqjsNfM-z1CU V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric u31ZoTJ3TOWi2nAukwX0_g2wAEiuuueXoIZRRVq1hjo V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric uxcUn8S0COeZwYduaG05euX-ttEMpZlq72saW6rk028 V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric xOSyG4qfwDPfSQVz3Xha6EoVJ_UZyxNn7xdos03fXI4 V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric xcvAe_k5BIOWhCTPKVP8ATH8XQSkoec_QqAjKd8ep9A V2: Asia Pacific (Taipei) 🌎
+  - Region added for metric Database Instance MariaDB No license required db t3.micro General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t3.micro, Memory: 1 GiB, vCPU: 2, Network Performance: Low to Moderate) 🌎
+  - Region added for metric Database Instance MariaDB No license required db t3.micro General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t3.micro, Memory: 1 GiB, vCPU: 2, Network Performance: Low to Moderate) 🌎
+  - Region added for metric Database Instance MariaDB No license required db t4g.micro General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t4g.micro, Memory: 1 GiB, vCPU: 2, Network Performance: Up to 5 Gigabit) 🌎
+  - Region added for metric Database Instance MariaDB No license required db t4g.micro General purpose Multi-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t4g.micro, Memory: 1 GiB, vCPU: 2, Network Performance: Up to 5 Gigabit) 🌎
+  - Region added for metric Provisioned Throughput Multi AZ: Asia Pacific (Taipei) 🌎
+  - Region added for metric RDS Snapshot Export PostgreSQL: Asia Pacific (Taipei) 🌎
+  - Region added for metric Storage Snapshot: Asia Pacific (Taipei) 🌎
+  - Region added for metric Provisioned Throughput Single AZ: Asia Pacific (Taipei) 🌎
+  - Region added for metric RDS Snapshot Export MySQL: Asia Pacific (Taipei) 🌎
+  - Region added for metric RDS Snapshot Export MariaDB: Asia Pacific (Taipei) 🌎
+  - Billing metric added: QTLRkdyGvI4Aeskrgg6au-KcHaFYUJ54VJ15H6idipc V2 💡
+
+- [rds-sqlserver-ondemand](processed/rds-sqlserver-ondemand.json)
+  - Region added for metric 6n6V_fnQA4cj_QFMfO-jSn-NiP_ko3AyaXl4VyMg2NQ V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric 6zvv377M1y2nPn2N1JvMTHaizHbaUeBxEuXKq7-Jq1I V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric 9zfrgpr1viNm2iKPzwVGnk6CfZCkKyI9XhfUCGMQpQI V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric Ev-zgFvIt4PO8hR3maO7fMvi4Bqw8nqivNA_QdudajA V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric JwHM59iAGBba9eHsgKYaOSuM7KoHQ18joVLi1dmqa9E V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric MjZdn-05dVCgMGOPmf-g1-bAjZHepHdTl_JxDs5gWzc V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric Y8X2EfCE7a5GGvwFTQiW0fZUxTr_xpMrqSWpvNfqFJo V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric bHtop144CDdSGV38HY6pVxQ2qljm6M6WUSb2MCJMKws V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric dxda0VB1yJApIyG8c75zjE1Lt-qSKx6A37qOPImYGpI V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric fmxDyQPXA-yL8xPVBKXe9HZmEDeGxf8ytQ1UoiEpuRQ V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric qL39PrZAVCzQNBvJFNppRv44o_loys_LqjsNfM-z1CU V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric xcvAe_k5BIOWhCTPKVP8ATH8XQSkoec_QqAjKd8ep9A V1: Asia Pacific (Taipei) 🌎
+  - Region added for metric Database Instance SQL Server Express License included db t3.micro General purpose Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.t3.micro, Memory: 1 GiB, vCPU: 2, Network Performance: Low to Moderate) 🌎
+  - Region added for metric Database Instance SQL Server Enterprise License included db r6i.32xlarge Memory optimized Single-AZ Current Generation: Asia Pacific (Taipei) (Instance Type: db.r6i.32xlarge, Memory: 1024 GiB, vCPU: 128, Network Performance: 50 Gbps) 🌎
+  - Region added for metric Storage Snapshot: Asia Pacific (Taipei) 🌎
+  - Billing metric added: QTLRkdyGvI4Aeskrgg6au-KcHaFYUJ54VJ15H6idipc V1 💡
+
+
 ## 2025-06-05 20:26
 
 **Modified services:**

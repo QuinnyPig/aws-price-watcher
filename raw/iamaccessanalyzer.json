@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "iamaccessanalyzer",
         "accessType": "publish",
-        "esIndex": "plc-iamaccessanalyzer-usd-20250605175551",
-        "hawkFilePublicationDate": "2025-06-05T17:55:51Z",
-        "ETLIngestionTriggerDate": "2025-06-05T17:55:51Z",
+        "esIndex": "plc-iamaccessanalyzer-usd-20250605211332",
+        "hawkFilePublicationDate": "2025-06-05T21:13:32Z",
+        "ETLIngestionTriggerDate": "2025-06-05T21:13:32Z",
         "currencyCode": "USD",
         "source": "iamaccessanalyzer",
         "isMapped": "true"

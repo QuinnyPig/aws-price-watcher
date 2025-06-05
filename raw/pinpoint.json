@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "pinpoint",
         "accessType": "publish",
-        "esIndex": "plc-pinpoint-usd-20250506193137",
-        "hawkFilePublicationDate": "2025-05-06T19:31:37Z",
-        "ETLIngestionTriggerDate": "2025-05-06T19:31:37Z",
+        "esIndex": "plc-pinpoint-usd-20250605203758",
+        "hawkFilePublicationDate": "2025-06-05T20:37:58Z",
+        "ETLIngestionTriggerDate": "2025-06-05T20:37:58Z",
         "currencyCode": "USD",
         "source": "pinpoint",
         "isMapped": "true"
