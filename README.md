@@ -1,3 +1,52 @@
+## 2025-06-05 04:28
+
+**Modified services:**
+
+- [mwaa](processed/mwaa.json)
+  - Region added for metric WebServer Large per Hrs: Asia Pacific (Thailand) 🌎
+  - Region added for metric WebServer Large per Hrs: Asia Pacific (Malaysia) 🌎
+  - Region added for metric WebServer Medium per Hrs: Asia Pacific (Thailand) 🌎
+  - Region added for metric WebServer Medium per Hrs: Asia Pacific (Malaysia) 🌎
+  - Region added for metric Worker 2XLarge per Hrs: Asia Pacific (Thailand) 🌎
+  - Region added for metric Worker 2XLarge per Hrs: Asia Pacific (Malaysia) 🌎
+  - Region added for metric Worker Medium per Hrs: Asia Pacific (Thailand) 🌎
+  - Region added for metric Worker Medium per Hrs: Asia Pacific (Malaysia) 🌎
+  - Region added for metric Worker XLarge per Hrs: Asia Pacific (Thailand) 🌎
+  - Region added for metric Worker XLarge per Hrs: Asia Pacific (Malaysia) 🌎
+  - Region added for metric Scheduler Large per Hrs: Asia Pacific (Thailand) 🌎
+  - Region added for metric Scheduler Large per Hrs: Asia Pacific (Malaysia) 🌎
+  - Region added for metric Environment Small per Hrs: Asia Pacific (Thailand) 🌎
+  - Region added for metric Environment Small per Hrs: Asia Pacific (Malaysia) 🌎
+  - Region added for metric WebServer 2XLarge per Hrs: Asia Pacific (Thailand) 🌎
+  - Region added for metric WebServer 2XLarge per Hrs: Asia Pacific (Malaysia) 🌎
+  - Region added for metric Standard per Gigabyte Month: Asia Pacific (Thailand) 🌎
+  - Region added for metric Standard per Gigabyte Month: Asia Pacific (Malaysia) 🌎
+  - Region added for metric WebServer XLarge per Hrs: Asia Pacific (Thailand) 🌎
+  - Region added for metric WebServer XLarge per Hrs: Asia Pacific (Malaysia) 🌎
+  - Region added for metric Environment 2XLarge per Hrs: Asia Pacific (Thailand) 🌎
+  - Region added for metric Environment 2XLarge per Hrs: Asia Pacific (Malaysia) 🌎
+  - Region added for metric Scheduler Small per Hrs: Asia Pacific (Thailand) 🌎
+  - Region added for metric Scheduler Small per Hrs: Asia Pacific (Malaysia) 🌎
+  - Region added for metric Environment Large per Hrs: Asia Pacific (Thailand) 🌎
+  - Region added for metric Environment Large per Hrs: Asia Pacific (Malaysia) 🌎
+  - Region added for metric WebServer Small per Hrs: Asia Pacific (Thailand) 🌎
+  - Region added for metric WebServer Small per Hrs: Asia Pacific (Malaysia) 🌎
+  - Region added for metric Scheduler Medium per Hrs: Asia Pacific (Thailand) 🌎
+  - Region added for metric Scheduler Medium per Hrs: Asia Pacific (Malaysia) 🌎
+  - Region added for metric Scheduler 2XLarge per Hrs: Asia Pacific (Thailand) 🌎
+  - Region added for metric Scheduler 2XLarge per Hrs: Asia Pacific (Malaysia) 🌎
+  - Region added for metric Worker Small per Hrs: Asia Pacific (Thailand) 🌎
+  - Region added for metric Worker Small per Hrs: Asia Pacific (Malaysia) 🌎
+  - Region added for metric Scheduler XLarge per Hrs: Asia Pacific (Thailand) 🌎
+  - Region added for metric Scheduler XLarge per Hrs: Asia Pacific (Malaysia) 🌎
+  - Region added for metric Environment XLarge per Hrs: Asia Pacific (Thailand) 🌎
+  - Region added for metric Environment XLarge per Hrs: Asia Pacific (Malaysia) 🌎
+  - Region added for metric Environment Medium per Hrs: Asia Pacific (Thailand) 🌎
+  - Region added for metric Environment Medium per Hrs: Asia Pacific (Malaysia) 🌎
+  - Region added for metric Worker Large per Hrs: Asia Pacific (Thailand) 🌎
+  - Region added for metric Worker Large per Hrs: Asia Pacific (Malaysia) 🌎
+
+
 ## 2025-06-04 22:26
 
 **Modified services:**
