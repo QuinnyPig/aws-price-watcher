@@ -1,3 +1,11 @@
+## 2025-06-05 17:24
+
+**Modified services:**
+
+- [codebuild](processed/codebuild.json)
+  - Billing metric added: [Reserved-EC2 Linux] 💡
+
+
 ## 2025-06-05 08:28
 
 **Modified services:**
