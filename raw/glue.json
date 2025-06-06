@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "glue",
         "accessType": "publish",
-        "esIndex": "plc-glue-usd-20250307234720",
-        "hawkFilePublicationDate": "2025-03-07T23:47:20Z",
-        "ETLIngestionTriggerDate": "2025-03-07T23:47:20Z",
+        "esIndex": "plc-glue-usd-20250606220802",
+        "hawkFilePublicationDate": "2025-06-06T22:08:02Z",
+        "ETLIngestionTriggerDate": "2025-06-06T22:08:02Z",
         "currencyCode": "USD",
         "source": "glue",
         "isMapped": "true"
