@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "sagemaker",
         "accessType": "publish",
-        "esIndex": "plc-sagemaker-usd-20250605210450",
-        "hawkFilePublicationDate": "2025-06-05T21:04:50Z",
-        "ETLIngestionTriggerDate": "2025-06-05T21:04:50Z",
+        "esIndex": "plc-sagemaker-usd-20250606060910",
+        "hawkFilePublicationDate": "2025-06-06T06:09:10Z",
+        "ETLIngestionTriggerDate": "2025-06-06T06:09:10Z",
         "currencyCode": "USD",
         "source": "sagemaker-instances-studionotebook",
         "isMapped": "true"
@@ -1476,7 +1476,7 @@
             },
             "B595VYFJYE2WE6A3.JRTCKXETXF.6YS6EN2CT7": {
                 "rateCode": "B595VYFJYE2WE6A3.JRTCKXETXF.6YS6EN2CT7",
-                "price": "37.6885000000",
+                "price": "25.2512860000",
                 "RegionlessRateCode": "sOAUyIJ0IlUi-UatkBK5S0Hbf7HJ0oQIhf6hvaZJi-o",
                 "Instance": "ml.p4d.24xlarge",
                 "Clock Speed": "",
@@ -1487,7 +1487,7 @@
             },
             "DDMX4N59WBX9P3PU.JRTCKXETXF.6YS6EN2CT7": {
                 "rateCode": "DDMX4N59WBX9P3PU.JRTCKXETXF.6YS6EN2CT7",
-                "price": "47.1106000000",
+                "price": "31.5641075000",
                 "RegionlessRateCode": "9aWX_9S_UTo8lu087GSl_43IvdBLaaxgz7Hl_W6z1Nw",
                 "Instance": "ml.p4de.24xlarge",
                 "Clock Speed": "",
@@ -2492,7 +2492,7 @@
             },
             "WJ286VVD7VEXKFX5.JRTCKXETXF.6YS6EN2CT7": {
                 "rateCode": "WJ286VVD7VEXKFX5.JRTCKXETXF.6YS6EN2CT7",
-                "price": "37.6885000000",
+                "price": "25.2512860000",
                 "RegionlessRateCode": "sOAUyIJ0IlUi-UatkBK5S0Hbf7HJ0oQIhf6hvaZJi-o",
                 "Instance": "ml.p4d.24xlarge",
                 "Clock Speed": "",
@@ -3132,7 +3132,7 @@
             },
             "2YRP2RS9NNBHZ3RK.JRTCKXETXF.6YS6EN2CT7": {
                 "rateCode": "2YRP2RS9NNBHZ3RK.JRTCKXETXF.6YS6EN2CT7",
-                "price": "37.6885000000",
+                "price": "25.2512883000",
                 "RegionlessRateCode": "sOAUyIJ0IlUi-UatkBK5S0Hbf7HJ0oQIhf6hvaZJi-o",
                 "Instance": "ml.p4d.24xlarge",
                 "Clock Speed": "",
@@ -3143,7 +3143,7 @@
             },
             "X3FSJEE9HWENQ4H3.JRTCKXETXF.6YS6EN2CT7": {
                 "rateCode": "X3FSJEE9HWENQ4H3.JRTCKXETXF.6YS6EN2CT7",
-                "price": "47.1106000000",
+                "price": "31.5641075000",
                 "RegionlessRateCode": "9aWX_9S_UTo8lu087GSl_43IvdBLaaxgz7Hl_W6z1Nw",
                 "Instance": "ml.p4de.24xlarge",
                 "Clock Speed": "",
@@ -3739,7 +3739,7 @@
             },
             "USBZNTFJ8WV2PG9S.JRTCKXETXF.6YS6EN2CT7": {
                 "rateCode": "USBZNTFJ8WV2PG9S.JRTCKXETXF.6YS6EN2CT7",
-                "price": "61.0310000000",
+                "price": "40.8904350000",
                 "RegionlessRateCode": "sOAUyIJ0IlUi-UatkBK5S0Hbf7HJ0oQIhf6hvaZJi-o",
                 "Instance": "ml.p4d.24xlarge",
                 "Clock Speed": "3 GHz",
@@ -8146,7 +8146,7 @@
             },
             "6J33MED8FH4W7D3K.JRTCKXETXF.6YS6EN2CT7": {
                 "rateCode": "6J33MED8FH4W7D3K.JRTCKXETXF.6YS6EN2CT7",
-                "price": "40.7060000000",
+                "price": "27.2730435000",
                 "RegionlessRateCode": "sOAUyIJ0IlUi-UatkBK5S0Hbf7HJ0oQIhf6hvaZJi-o",
                 "Instance": "ml.p4de.24xlarge",
                 "Clock Speed": "",
@@ -8742,7 +8742,7 @@
             },
             "JQWZ73HUQZB3WYKB.JRTCKXETXF.6YS6EN2CT7": {
                 "rateCode": "JQWZ73HUQZB3WYKB.JRTCKXETXF.6YS6EN2CT7",
-                "price": "47.0865000000",
+                "price": "31.5479270000",
                 "RegionlessRateCode": "sOAUyIJ0IlUi-UatkBK5S0Hbf7HJ0oQIhf6hvaZJi-o",
                 "Instance": "ml.p4d.24xlarge",
                 "Clock Speed": "",
@@ -9338,7 +9338,7 @@
             },
             "GZ7NV6T2Y4D8WGKA.JRTCKXETXF.6YS6EN2CT7": {
                 "rateCode": "GZ7NV6T2Y4D8WGKA.JRTCKXETXF.6YS6EN2CT7",
-                "price": "43.3430000000",
+                "price": "29.0395010000",
                 "RegionlessRateCode": "sOAUyIJ0IlUi-UatkBK5S0Hbf7HJ0oQIhf6hvaZJi-o",
                 "Instance": "ml.p4d.24xlarge",
                 "Clock Speed": "3 GHz",
@@ -9945,7 +9945,7 @@
             },
             "BHWCP5M2RNQ7RQ3A.JRTCKXETXF.6YS6EN2CT7": {
                 "rateCode": "BHWCP5M2RNQ7RQ3A.JRTCKXETXF.6YS6EN2CT7",
-                "price": "51.6605000000",
+                "price": "34.6125160000",
                 "RegionlessRateCode": "sOAUyIJ0IlUi-UatkBK5S0Hbf7HJ0oQIhf6hvaZJi-o",
                 "Instance": "ml.p4de.24xlarge",
                 "Clock Speed": "",
@@ -10453,7 +10453,7 @@
             },
             "5VN965SQ4DDQU8UG.JRTCKXETXF.6YS6EN2CT7": {
                 "rateCode": "5VN965SQ4DDQU8UG.JRTCKXETXF.6YS6EN2CT7",
-                "price": "48.9950000000",
+                "price": "32.8266695000",
                 "RegionlessRateCode": "sOAUyIJ0IlUi-UatkBK5S0Hbf7HJ0oQIhf6hvaZJi-o",
                 "Instance": "ml.p4d.24xlarge",
                 "Clock Speed": "3 GHz",
@@ -10961,7 +10961,7 @@
             },
             "7TGWNZ4MGAZAZJH4.JRTCKXETXF.6YS6EN2CT7": {
                 "rateCode": "7TGWNZ4MGAZAZJH4.JRTCKXETXF.6YS6EN2CT7",
-                "price": "45.2260000000",
+                "price": "30.3015455000",
                 "RegionlessRateCode": "sOAUyIJ0IlUi-UatkBK5S0Hbf7HJ0oQIhf6hvaZJi-o",
                 "Instance": "ml.p4d.24xlarge",
                 "Clock Speed": "3 GHz",
@@ -11469,7 +11469,7 @@
             },
             "5GDPYQY8ZQ2XM74S.JRTCKXETXF.6YS6EN2CT7": {
                 "rateCode": "5GDPYQY8ZQ2XM74S.JRTCKXETXF.6YS6EN2CT7",
-                "price": "52.1968000000",
+                "price": "34.9718220000",
                 "RegionlessRateCode": "sOAUyIJ0IlUi-UatkBK5S0Hbf7HJ0oQIhf6hvaZJi-o",
                 "Instance": "ml.p4de.24xlarge",
                 "Clock Speed": "",

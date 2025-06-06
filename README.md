@@ -1,3 +1,23 @@
+## 2025-06-06 06:28
+
+**Modified services:**
+
+- [sagemaker-instances-studionotebook](processed/sagemaker-instances-studionotebook.json)
+  - Price decreased: [Accelerated Computing Instances - ML Instance - Studio-Notebook] US West (Oregon) (Instance: ml.p4d.24xlarge, Instance Type: ml.p4d.24xlarge-Notebook, Component: Studio-Notebook, VCPU: 96, Memory: 1152 GiB)  **$37.6885** → **$25.251286** 💸
+  - Price decreased: [Accelerated Computing Instances - ML Instance - Studio-Notebook] US West (Oregon) (Instance: ml.p4de.24xlarge, Instance Type: ml.p4de.24xlarge-Notebook, Component: Studio-Notebook, VCPU: 96, Memory: 1152 GiB)  **$47.1106** → **$31.5641075** 💸
+  - Price decreased: [Accelerated Computing Instances - ML Instance - Studio-Notebook] US East (Ohio) (Instance: ml.p4d.24xlarge, Instance Type: ml.p4d.24xlarge-Notebook, Component: Studio-Notebook, VCPU: 96, Memory: 1152 GiB)  **$37.6885** → **$25.251286** 💸
+  - Price decreased: [Accelerated Computing Instances - ML Instance - Studio-Notebook] US East (N. Virginia) (Instance: ml.p4d.24xlarge, Instance Type: ml.p4d.24xlarge-Notebook, Component: Studio-Notebook, VCPU: 96, Memory: 1152 GiB)  **$37.6885** → **$25.2512883** 💸
+  - Price decreased: [Accelerated Computing Instances - ML Instance - Studio-Notebook] US East (N. Virginia) (Instance: ml.p4de.24xlarge, Instance Type: ml.p4de.24xlarge-Notebook, Component: Studio-Notebook, VCPU: 96, Memory: 1152 GiB)  **$47.1106** → **$31.5641075** 💸
+  - Price decreased: [Accelerated Computing Instances - ML Instance - Studio-Notebook] South America (Sao Paulo) (Instance: ml.p4d.24xlarge, Clock Speed: 3 GHz, Instance Type: ml.p4d.24xlarge-Notebook, Component: Studio-Notebook, VCPU: 96, Memory: 1152 GiB)  **$61.031** → **$40.890435** 💸
+  - Price decreased: [Accelerated Computing Instances - ML Instance - Studio-Notebook] EU (Ireland) (Instance: ml.p4de.24xlarge, Instance Type: ml.p4d.24xlarge-Notebook, Component: Studio-Notebook, VCPU: 96, Memory: 1152 GiB)  **$40.706** → **$27.2730435** 💸
+  - Price decreased: [Accelerated Computing Instances - ML Instance - Studio-Notebook] EU (Frankfurt) (Instance: ml.p4d.24xlarge, Instance Type: ml.p4d.24xlarge-Notebook, Component: Studio-Notebook, VCPU: 96, Memory: 1152 GiB)  **$47.0865** → **$31.547927** 💸
+  - Price decreased: [Accelerated Computing Instances - ML Instance - Studio-Notebook] Canada (Central) (Instance: ml.p4d.24xlarge, Clock Speed: 3 GHz, Instance Type: ml.p4d.24xlarge-Notebook, Component: Studio-Notebook, VCPU: 96, Memory: 1152 GiB)  **$43.343** → **$29.039501** 💸
+  - Price decreased: [Accelerated Computing Instances - ML Instance - Studio-Notebook] Asia Pacific (Tokyo) (Instance: ml.p4de.24xlarge, Instance Type: ml.p4d.24xlarge-Notebook, Component: Studio-Notebook, VCPU: 96, Memory: 1152 GiB)  **$51.6605** → **$34.612516** 💸
+  - Price decreased: [Accelerated Computing Instances - ML Instance - Studio-Notebook] Asia Pacific (Sydney) (Instance: ml.p4d.24xlarge, Clock Speed: 3 GHz, Instance Type: ml.p4d.24xlarge-Notebook, Component: Studio-Notebook, VCPU: 96, Memory: 1152 GiB)  **$48.995** → **$32.8266695** 💸
+  - Price decreased: [Accelerated Computing Instances - ML Instance - Studio-Notebook] Asia Pacific (Singapore) (Instance: ml.p4d.24xlarge, Clock Speed: 3 GHz, Instance Type: ml.p4d.24xlarge-Notebook, Component: Studio-Notebook, VCPU: 96, Memory: 1152 GiB)  **$45.226** → **$30.3015455** 💸
+  - Price decreased: [Accelerated Computing Instances - ML Instance - Studio-Notebook] Asia Pacific (Seoul) (Instance: ml.p4de.24xlarge, Instance Type: ml.p4d.24xlarge-Notebook, Component: Studio-Notebook, VCPU: 96, Memory: 1152 GiB)  **$52.1968** → **$34.971822** 💸
+
+
 ## 2025-06-05 22:26
 
 **Modified services:**
