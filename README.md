@@ -1,3 +1,12 @@
+## 2025-06-06 20:27
+
+**Modified services:**
+
+- [ec2](processed/ec2.json)
+  - Region added for metric OnDemand Linux-instancetype-i3en.metal: Asia Pacific (Taipei) 🌎
+  - Region added for metric OnDemand Linux-instancetype-u-12tb1.112xlarge: Israel (Tel Aviv) 🌎
+
+
 ## 2025-06-06 12:29
 
 **Modified services:**
