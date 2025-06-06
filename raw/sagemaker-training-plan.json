@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "sagemaker",
         "accessType": "publish",
-        "esIndex": "plc-sagemaker-usd-20250606212049",
-        "hawkFilePublicationDate": "2025-06-06T21:20:49Z",
-        "ETLIngestionTriggerDate": "2025-06-06T21:20:49Z",
+        "esIndex": "plc-sagemaker-usd-20250606231911",
+        "hawkFilePublicationDate": "2025-06-06T23:19:11Z",
+        "ETLIngestionTriggerDate": "2025-06-06T23:19:11Z",
         "currencyCode": "USD",
         "source": "sagemaker-training-plan"
     },
@@ -15,7 +15,8 @@
             "D24pvjPIdmj_vDl2WbqzyOPp38GBP_UPjWPLUspqm9o",
             "OC5Xj-H0GJULdCn1J91LiMbxJ89C0S7EiOM9c7qPJ6o",
             "Pflf-2L93-D8c9rUPYTpWKvSEa5KuzPe34G5NGpS8y0",
-            "ghQvFMPrBWdugjdm6B2fGkTmhQugEondlio8TQUkeDY"
+            "ghQvFMPrBWdugjdm6B2fGkTmhQugEondlio8TQUkeDY",
+            "rSHpNwalYQ-lR1MaSbcs6siLo3ej5hCdKLdAtZpcDWo"
         ]
     },
     "regions": {
@@ -59,6 +60,14 @@
                 "Memory": "2 TiB",
                 "VCPU": "192",
                 "Instance": "ml.p5e.48xlarge"
+            },
+            "rSHpNwalYQ-lR1MaSbcs6siLo3ej5hCdKLdAtZpcDWo": {
+                "rateCode": "GQWZE9ZJFGWWR38R.JRTCKXETXF.6YS6EN2CT7",
+                "price": "74.8880000000",
+                "RegionlessRateCode": "rSHpNwalYQ-lR1MaSbcs6siLo3ej5hCdKLdAtZpcDWo",
+                "Memory": "2 TiB",
+                "VCPU": "192",
+                "Instance": "ml.p6-b200.48xlarge"
             }
         },
         "US West (N. California)": {
