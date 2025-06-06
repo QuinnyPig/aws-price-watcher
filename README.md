@@ -1,3 +1,11 @@
+## 2025-06-06 12:29
+
+**Modified services:**
+
+- [servicecatalog](processed/servicecatalog.json)
+  - Billing metric removed: ActivePortfolio 💥
+
+
 ## 2025-06-06 06:28
 
 **Modified services:**
