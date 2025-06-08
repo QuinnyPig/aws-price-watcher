@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "lambda",
         "accessType": "publish",
-        "esIndex": "plc-lambda-usd-20250605175554",
-        "hawkFilePublicationDate": "2025-06-05T17:55:54Z",
-        "ETLIngestionTriggerDate": "2025-06-05T17:55:54Z",
+        "esIndex": "plc-lambda-usd-20250608225729",
+        "hawkFilePublicationDate": "2025-06-08T22:57:29Z",
+        "ETLIngestionTriggerDate": "2025-06-08T22:57:29Z",
         "currencyCode": "USD",
         "source": "lambda",
         "isMapped": "true"
