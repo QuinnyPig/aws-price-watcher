@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "storagegatewaydeeparchive",
         "accessType": "publish",
-        "esIndex": "plc-storagegatewaydeeparchive-usd-20250527230131",
-        "hawkFilePublicationDate": "2025-05-27T23:01:31Z",
-        "ETLIngestionTriggerDate": "2025-05-27T23:01:31Z",
+        "esIndex": "plc-storagegatewaydeeparchive-usd-20250609173312",
+        "hawkFilePublicationDate": "2025-06-09T17:33:12Z",
+        "ETLIngestionTriggerDate": "2025-06-09T17:33:12Z",
         "currencyCode": "USD",
         "source": "storagegatewaydeeparchive",
         "isMapped": "true"
@@ -890,6 +890,48 @@
             "Pro rated fee for deleting an archived virtual tape prior to 180 days": {
                 "rateCode": "2UPTYKDNG8XQQJD9.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0018000000",
+                "RegionlessRateCode": "zBG3NJQ1TIc-T-Mir1zg9qz1Fsjd8qCIY3CZT3lp-eM"
+            }
+        },
+        "Asia Pacific (Taipei)": {
+            "e7ysqk_DkodkXpbeDsbO6nhKqrep_tXANd0HThAFBz8": {
+                "rateCode": "FHTPN5SU64N79NSS.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0020000000",
+                "RegionlessRateCode": "e7ysqk_DkodkXpbeDsbO6nhKqrep_tXANd0HThAFBz8"
+            },
+            "lXAkbTDkh7WwCJ9N04MdJUpgu3SmCAzCj-IUu-G2dA8": {
+                "rateCode": "FAZNRQGABZKQDY6J.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0041600000",
+                "RegionlessRateCode": "lXAkbTDkh7WwCJ9N04MdJUpgu3SmCAzCj-IUu-G2dA8"
+            },
+            "r9CCABKUogjIDrdzYO5CJP7l-Fyu8Xb9tngzZE-54vk": {
+                "rateCode": "T27KAP3KU2T5KZSA.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0220000000",
+                "RegionlessRateCode": "r9CCABKUogjIDrdzYO5CJP7l-Fyu8Xb9tngzZE-54vk"
+            },
+            "zBG3NJQ1TIc-T-Mir1zg9qz1Fsjd8qCIY3CZT3lp-eM": {
+                "rateCode": "9A6T9JKT45K2DN9R.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0020000000",
+                "RegionlessRateCode": "zBG3NJQ1TIc-T-Mir1zg9qz1Fsjd8qCIY3CZT3lp-eM"
+            },
+            "Deep Archive Virtual Tape in Library": {
+                "rateCode": "FHTPN5SU64N79NSS.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0020000000",
+                "RegionlessRateCode": "e7ysqk_DkodkXpbeDsbO6nhKqrep_tXANd0HThAFBz8"
+            },
+            "Fee for moving a tape between Glacier and Deep Archive": {
+                "rateCode": "FAZNRQGABZKQDY6J.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0041600000",
+                "RegionlessRateCode": "lXAkbTDkh7WwCJ9N04MdJUpgu3SmCAzCj-IUu-G2dA8"
+            },
+            "Fee for retrieving virtual tape from Deep Archive": {
+                "rateCode": "T27KAP3KU2T5KZSA.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0220000000",
+                "RegionlessRateCode": "r9CCABKUogjIDrdzYO5CJP7l-Fyu8Xb9tngzZE-54vk"
+            },
+            "Pro rated fee for deleting an archived virtual tape prior to 180 days": {
+                "rateCode": "9A6T9JKT45K2DN9R.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0020000000",
                 "RegionlessRateCode": "zBG3NJQ1TIc-T-Mir1zg9qz1Fsjd8qCIY3CZT3lp-eM"
             }
         },

@@ -1,3 +1,30 @@
+## 2025-06-09 18:28
+
+**New services:**
+
+- [evs](processed/evs.json) 🚀
+
+**Modified services:**
+
+- [storagegateway](processed/storagegateway.json)
+  - Region added for metric StorageGateway Standard Virtual Tape in Library: Asia Pacific (Taipei) 🌎
+  - Region added for metric StorageGateway Fee Tape EarlyDelete: Asia Pacific (Taipei) 🌎
+  - Region added for metric StorageGateway Fee Glacier Tape Retrieval Current: Asia Pacific (Taipei) 🌎
+  - Region added for metric StorageGateway Standard Volume Cached: Asia Pacific (Taipei) 🌎
+  - Region added for metric StorageGateway Glacier Archive: Asia Pacific (Taipei) 🌎
+  - Region added for metric StorageGateway UploadedBytes Tier 2: Asia Pacific (Taipei) 🌎
+  - Region added for metric StorageGateway UploadedBytes Over 12.2TB: Asia Pacific (Taipei) 🌎
+  - Region added for metric StorageGateway UploadedBytes Tier 1: Asia Pacific (Taipei) 🌎
+  - Region added for metric StorageGateway UploadedBytes First 12.2 TB: Asia Pacific (Taipei) 🌎
+  - Region added for metric StorageGateway Fee-TapeRetrieval: Asia Pacific (Taipei) 🌎
+
+- [storagegatewaydeeparchive](processed/storagegatewaydeeparchive.json)
+  - Region added for metric Deep Archive Virtual Tape in Library: Asia Pacific (Taipei) 🌎
+  - Region added for metric Fee for moving a tape between Glacier and Deep Archive: Asia Pacific (Taipei) 🌎
+  - Region added for metric Fee for retrieving virtual tape from Deep Archive: Asia Pacific (Taipei) 🌎
+  - Region added for metric Pro rated fee for deleting an archived virtual tape prior to 180 days: Asia Pacific (Taipei) 🌎
+
+
 ## 2025-06-06 20:27
 
 **Modified services:**
