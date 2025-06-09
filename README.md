@@ -1,3 +1,18 @@
+## 2025-06-09 22:26
+
+**Modified services:**
+
+- [glue](processed/glue.json)
+  - Region added for metric ETL Interactive Session: Asia Pacific (Taipei) 🌎
+  - Region added for metric Data catalog crawler run: Asia Pacific (Taipei) 🌎
+  - Region added for metric Data catalog storage: Asia Pacific (Taipei) 🌎
+  - Region added for metric ETL Job run: Asia Pacific (Taipei) 🌎
+  - Region added for metric ETL Job run All versions: Asia Pacific (Taipei) 🌎
+  - Region added for metric Data catalog requests: Asia Pacific (Taipei) 🌎
+  - Region added for metric Data lake optimization job run: Asia Pacific (Taipei) 🌎
+  - Region added for metric ETL Job run NEW version only: Asia Pacific (Taipei) 🌎
+
+
 ## 2025-06-09 18:28
 
 **New services:**

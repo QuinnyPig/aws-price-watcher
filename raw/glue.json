@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "glue",
         "accessType": "publish",
-        "esIndex": "plc-glue-usd-20250606220802",
-        "hawkFilePublicationDate": "2025-06-06T22:08:02Z",
-        "ETLIngestionTriggerDate": "2025-06-06T22:08:02Z",
+        "esIndex": "plc-glue-usd-20250609215039",
+        "hawkFilePublicationDate": "2025-06-09T21:50:39Z",
+        "ETLIngestionTriggerDate": "2025-06-09T21:50:39Z",
         "currencyCode": "USD",
         "source": "glue",
         "isMapped": "true"
@@ -2284,6 +2284,83 @@
             },
             "Data lake optimization job run": {
                 "rateCode": "PWYFRZDYZN7B8S3R.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.4400000000",
+                "RegionlessRateCode": "vdm7kxRzhHb4dAn5d1liovGnmpeMbmSerZtWiRMUzRE"
+            }
+        },
+        "Asia Pacific (Taipei)": {
+            "6XxWX0TnBSofWD4z3pMbZXTadlbToRcutKnGwvFAzZo": {
+                "rateCode": "NYRUW4FUE8G8XFRS.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.4400000000",
+                "RegionlessRateCode": "6XxWX0TnBSofWD4z3pMbZXTadlbToRcutKnGwvFAzZo"
+            },
+            "QyfJUppfyTFnkQUMYsDdBJc6pVWk_I__lKY_cyN93yw": {
+                "rateCode": "JKAC7W9JN6ZUY4D6.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.4400000000",
+                "RegionlessRateCode": "QyfJUppfyTFnkQUMYsDdBJc6pVWk_I__lKY_cyN93yw"
+            },
+            "YzhH0BK3-09E9PRPPKxWMgU7s2oOd2RWPS3DMhypcMk": {
+                "rateCode": "369ACZBZUV8TH29T.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000100000",
+                "RegionlessRateCode": "YzhH0BK3-09E9PRPPKxWMgU7s2oOd2RWPS3DMhypcMk"
+            },
+            "dEN9tXj_OxZhtyPcNqjtLI-Yb3omAsTwylb1DcLXMnU": {
+                "rateCode": "V8QTENGDNSVTKMN6.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.4400000000",
+                "RegionlessRateCode": "dEN9tXj_OxZhtyPcNqjtLI-Yb3omAsTwylb1DcLXMnU"
+            },
+            "jXlnP8aHhEMpNmMBdJn8p3et3SwrxwTdPGpax84usK4": {
+                "rateCode": "KDE5TGMTKXDF873P.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000010000",
+                "RegionlessRateCode": "jXlnP8aHhEMpNmMBdJn8p3et3SwrxwTdPGpax84usK4"
+            },
+            "ojtqQX0mv8kbJtc24eHZQb2Na73RLc9y4DGsFWivvkE": {
+                "rateCode": "XT5Q5UMDSSREN8VV.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.4400000000",
+                "RegionlessRateCode": "ojtqQX0mv8kbJtc24eHZQb2Na73RLc9y4DGsFWivvkE"
+            },
+            "vdm7kxRzhHb4dAn5d1liovGnmpeMbmSerZtWiRMUzRE": {
+                "rateCode": "NTKZXAWR5VSY8CNM.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.4400000000",
+                "RegionlessRateCode": "vdm7kxRzhHb4dAn5d1liovGnmpeMbmSerZtWiRMUzRE"
+            },
+            "ETL Interactive Session": {
+                "rateCode": "NYRUW4FUE8G8XFRS.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.4400000000",
+                "RegionlessRateCode": "6XxWX0TnBSofWD4z3pMbZXTadlbToRcutKnGwvFAzZo"
+            },
+            "Data catalog crawler run": {
+                "rateCode": "JKAC7W9JN6ZUY4D6.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.4400000000",
+                "RegionlessRateCode": "QyfJUppfyTFnkQUMYsDdBJc6pVWk_I__lKY_cyN93yw"
+            },
+            "Data catalog storage": {
+                "rateCode": "369ACZBZUV8TH29T.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000100000",
+                "RegionlessRateCode": "YzhH0BK3-09E9PRPPKxWMgU7s2oOd2RWPS3DMhypcMk"
+            },
+            "ETL Job run": {
+                "rateCode": "V8QTENGDNSVTKMN6.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.4400000000",
+                "RegionlessRateCode": "dEN9tXj_OxZhtyPcNqjtLI-Yb3omAsTwylb1DcLXMnU"
+            },
+            "ETL Job run All versions": {
+                "rateCode": "V8QTENGDNSVTKMN6.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.4400000000",
+                "RegionlessRateCode": "dEN9tXj_OxZhtyPcNqjtLI-Yb3omAsTwylb1DcLXMnU"
+            },
+            "ETL Job run NEW version only": {
+                "rateCode": "V8QTENGDNSVTKMN6.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.4400000000",
+                "RegionlessRateCode": "dEN9tXj_OxZhtyPcNqjtLI-Yb3omAsTwylb1DcLXMnU"
+            },
+            "Data catalog requests": {
+                "rateCode": "KDE5TGMTKXDF873P.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000010000",
+                "RegionlessRateCode": "jXlnP8aHhEMpNmMBdJn8p3et3SwrxwTdPGpax84usK4"
+            },
+            "Data lake optimization job run": {
+                "rateCode": "NTKZXAWR5VSY8CNM.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.4400000000",
                 "RegionlessRateCode": "vdm7kxRzhHb4dAn5d1liovGnmpeMbmSerZtWiRMUzRE"
             }
