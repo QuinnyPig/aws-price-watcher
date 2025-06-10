@@ -1,3 +1,40 @@
+## 2025-06-10 17:26
+
+**Modified services:**
+
+- [codebuild](processed/codebuild.json)
+  - Billing metric removed: [Reserved-EC2 Linux] 💥
+  - Region added for metric [Reserved-EC2-Attributes Linux]: US West (Oregon) (CPU: 32, Memory: 64 GiB, Compute Type: reserved.x86-64.32cpu.64gib) 🌎
+  - Region added for metric [Reserved-EC2-Attributes Linux]: US West (Oregon) (CPU: 64, Memory: 128 GiB, Compute Type: reserved.x86-64.64cpu.128gib) 🌎
+  - Region added for metric [Reserved-EC2-Attributes Linux]: US West (Oregon) (CPU: 64, Memory: 128 GiB, Compute Type: reserved.x86-64.64cpu.128gib.nvme) 🌎
+  - Region added for metric [Reserved-EC2-Attributes Linux]: US East (Ohio) (CPU: 32, Memory: 64 GiB, Compute Type: reserved.x86-64.32cpu.64gib) 🌎
+  - Region added for metric [Reserved-EC2-Attributes Linux]: US East (Ohio) (CPU: 64, Memory: 128 GiB, Compute Type: reserved.x86-64.64cpu.128gib) 🌎
+  - Region added for metric [Reserved-EC2-Attributes Linux]: US East (Ohio) (CPU: 64, Memory: 128 GiB, Compute Type: reserved.x86-64.64cpu.128gib.nvme) 🌎
+  - Region added for metric [Reserved-EC2-Attributes Linux]: US East (N. Virginia) (CPU: 32, Memory: 64 GiB, Compute Type: reserved.x86-64.32cpu.64gib) 🌎
+  - Region added for metric [Reserved-EC2-Attributes Linux]: US East (N. Virginia) (CPU: 64, Memory: 128 GiB, Compute Type: reserved.x86-64.64cpu.128gib) 🌎
+  - Region added for metric [Reserved-EC2-Attributes Linux]: US East (N. Virginia) (CPU: 64, Memory: 128 GiB, Compute Type: reserved.x86-64.64cpu.128gib.nvme) 🌎
+  - Region added for metric [Reserved-EC2-Attributes Linux]: South America (Sao Paulo) (CPU: 32, Memory: 64 GiB, Compute Type: reserved.x86-64.32cpu.64gib) 🌎
+  - Region added for metric [Reserved-EC2-Attributes Linux]: South America (Sao Paulo) (CPU: 64, Memory: 128 GiB, Compute Type: reserved.x86-64.64cpu.128gib) 🌎
+  - Region added for metric [Reserved-EC2-Attributes Linux]: South America (Sao Paulo) (CPU: 64, Memory: 128 GiB, Compute Type: reserved.x86-64.64cpu.128gib.nvme) 🌎
+  - Region added for metric [Reserved-EC2-Attributes Linux]: EU (Ireland) (CPU: 32, Memory: 64 GiB, Compute Type: reserved.x86-64.32cpu.64gib) 🌎
+  - Region added for metric [Reserved-EC2-Attributes Linux]: EU (Ireland) (CPU: 64, Memory: 128 GiB, Compute Type: reserved.x86-64.64cpu.128gib) 🌎
+  - Region added for metric [Reserved-EC2-Attributes Linux]: EU (Ireland) (CPU: 64, Memory: 128 GiB, Compute Type: reserved.x86-64.64cpu.128gib.nvme) 🌎
+  - Region added for metric [Reserved-EC2-Attributes Linux]: EU (Frankfurt) (CPU: 32, Memory: 64 GiB, Compute Type: reserved.x86-64.32cpu.64gib) 🌎
+  - Region added for metric [Reserved-EC2-Attributes Linux]: EU (Frankfurt) (CPU: 64, Memory: 128 GiB, Compute Type: reserved.x86-64.64cpu.128gib) 🌎
+  - Region added for metric [Reserved-EC2-Attributes Linux]: EU (Frankfurt) (CPU: 64, Memory: 128 GiB, Compute Type: reserved.x86-64.64cpu.128gib.nvme) 🌎
+  - Region added for metric [Reserved-EC2-Attributes Linux]: Asia Pacific (Tokyo) (CPU: 32, Memory: 64 GiB, Compute Type: reserved.x86-64.32cpu.64gib) 🌎
+  - Region added for metric [Reserved-EC2-Attributes Linux]: Asia Pacific (Tokyo) (CPU: 64, Memory: 128 GiB, Compute Type: reserved.x86-64.64cpu.128gib) 🌎
+  - Region added for metric [Reserved-EC2-Attributes Linux]: Asia Pacific (Tokyo) (CPU: 64, Memory: 128 GiB, Compute Type: reserved.x86-64.64cpu.128gib.nvme) 🌎
+  - Region added for metric [Reserved-EC2-Attributes Linux]: Asia Pacific (Sydney) (CPU: 32, Memory: 64 GiB, Compute Type: reserved.x86-64.32cpu.64gib) 🌎
+  - Region added for metric [Reserved-EC2-Attributes Linux]: Asia Pacific (Sydney) (CPU: 64, Memory: 128 GiB, Compute Type: reserved.x86-64.64cpu.128gib) 🌎
+  - Region added for metric [Reserved-EC2-Attributes Linux]: Asia Pacific (Sydney) (CPU: 64, Memory: 128 GiB, Compute Type: reserved.x86-64.64cpu.128gib.nvme) 🌎
+  - Region added for metric [Reserved-EC2-Attributes Linux]: Asia Pacific (Singapore) (CPU: 32, Memory: 64 GiB, Compute Type: reserved.x86-64.32cpu.64gib) 🌎
+  - Region added for metric [Reserved-EC2-Attributes Linux]: Asia Pacific (Singapore) (CPU: 64, Memory: 128 GiB, Compute Type: reserved.x86-64.64cpu.128gib) 🌎
+  - Region added for metric [Reserved-EC2-Attributes Linux]: Asia Pacific (Singapore) (CPU: 64, Memory: 128 GiB, Compute Type: reserved.x86-64.64cpu.128gib.nvme) 🌎
+  - Region added for metric [Reserved-EC2-Attributes Linux]: Asia Pacific (Mumbai) (CPU: 32, Memory: 64 GiB, Compute Type: reserved.x86-64.32cpu.64gib) 🌎
+  - Region added for metric [Reserved-EC2-Attributes Linux]: Asia Pacific (Mumbai) (CPU: 64, Memory: 128 GiB, Compute Type: reserved.x86-64.64cpu.128gib) 🌎
+
+
 ## 2025-06-09 22:26
 
 **Modified services:**
