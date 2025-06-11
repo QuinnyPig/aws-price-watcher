@@ -1,3 +1,27 @@
+## 2025-06-11 12:29
+
+**Modified services:**
+
+- [es](processed/es.json)
+  - Region added for metric i4i large.search - Storage optimized - OnDemand - 1 x 468 Nitro SSD - - - Hourly Cost: EU (Spain) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric i4i 16xlarge.search - Storage optimized - OnDemand - 4 x 3 750 Nitro SSD - - - Hourly Cost: EU (Spain) (vCPU: 64, Memory (GiB): 512) 🌎
+  - Region added for metric m7g 8xlarge.search - General purpose - OnDemand - EBS Only - - - Hourly Cost: Asia Pacific (Melbourne) (vCPU: 32, Memory (GiB): 128) 🌎
+  - Region added for metric i4i 24xlarge.search - Storage optimized - OnDemand - 6 x 3 750 Nitro SSD - - - Hourly Cost: EU (Spain) (vCPU: 96, Memory (GiB): 768) 🌎
+  - Region added for metric i4i 8xlarge.search - Storage optimized - OnDemand - 2 x 3 750 Nitro SSD - - - Hourly Cost: EU (Spain) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric i4i 4xlarge.search - Storage optimized - OnDemand - 1 x 3 750 Nitro SSD - - - Hourly Cost: EU (Spain) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric i4i 12xlarge.search - Storage optimized - OnDemand - 3 x 3 750 Nitro SSD - - - Hourly Cost: EU (Spain) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric m7g large.search - General purpose - OnDemand - EBS Only - - - Hourly Cost: Asia Pacific (Melbourne) (vCPU: 2, Memory (GiB): 8) 🌎
+  - Region added for metric m7g 16xlarge.search - General purpose - OnDemand - EBS Only - - - Hourly Cost: Asia Pacific (Melbourne) (vCPU: 64, Memory (GiB): 256) 🌎
+  - Region added for metric m7g medium.search - General purpose - OnDemand - EBS Only - - - Hourly Cost: Asia Pacific (Melbourne) (vCPU: 1, Memory (GiB): 4) 🌎
+  - Region added for metric m7g 4xlarge.search - General purpose - OnDemand - EBS Only - - - Hourly Cost: Asia Pacific (Melbourne) (vCPU: 16, Memory (GiB): 64) 🌎
+  - Region added for metric i4i xlarge.search - Storage optimized - OnDemand - 1 x 937 Nitro SSD - - - Hourly Cost: EU (Spain) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric m7g xlarge.search - General purpose - OnDemand - EBS Only - - - Hourly Cost: Asia Pacific (Melbourne) (vCPU: 4, Memory (GiB): 16) 🌎
+  - Region added for metric i4i 32xlarge.search - Storage optimized - OnDemand - 8 x 3 750 Nitro SSD - - - Hourly Cost: EU (Spain) (vCPU: 128, Memory (GiB): 1024) 🌎
+  - Region added for metric i4i 2xlarge.search - Storage optimized - OnDemand - 1 x 1 875 Nitro SSD - - - Hourly Cost: EU (Spain) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric m7g 2xlarge.search - General purpose - OnDemand - EBS Only - - - Hourly Cost: Asia Pacific (Melbourne) (vCPU: 8, Memory (GiB): 32) 🌎
+  - Region added for metric m7g 12xlarge.search - General purpose - OnDemand - EBS Only - - - Hourly Cost: Asia Pacific (Melbourne) (vCPU: 48, Memory (GiB): 192) 🌎
+
+
 ## 2025-06-10 17:26
 
 **Modified services:**
