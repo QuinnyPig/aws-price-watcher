@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "appsync",
         "accessType": "publish",
-        "esIndex": "plc-appsync-usd-20241111170136",
-        "hawkFilePublicationDate": "2024-10-29T17:34:13Z",
-        "ETLIngestionTriggerDate": "2024-11-11T17:01:36Z",
+        "esIndex": "plc-appsync-usd-20250611020903",
+        "hawkFilePublicationDate": "2025-06-11T02:09:03Z",
+        "ETLIngestionTriggerDate": "2025-06-11T02:09:03Z",
         "currencyCode": "USD",
         "source": "appsync",
         "isMapped": "true"
