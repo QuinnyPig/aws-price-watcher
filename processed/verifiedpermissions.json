@@ -197,6 +197,28 @@
         "AWS GovCloud (US-East)": "0.0000400000",
         "AWS GovCloud (US)": "0.0000400000"
     },
+    "[Verified Permissions SingleAuthorizationRequest]": {
+        "US West (Oregon)": "0.0000050000",
+        "US East (N. Virginia)": "0.0000050000",
+        "Mexico (Central)": "0.0000050000",
+        "Israel (Tel Aviv)": "0.0000050000",
+        "EU (Stockholm)": "0.0000050000",
+        "EU (Spain)": "0.0000050000",
+        "EU (Paris)": "0.0000050000",
+        "EU (Frankfurt)": "0.0000050000",
+        "Canada West (Calgary)": "0.0000050000",
+        "Canada (Central)": "0.0000050000",
+        "Asia Pacific (Thailand)": "0.0000050000",
+        "Asia Pacific (Sydney)": "0.0000050000",
+        "Asia Pacific (Singapore)": "0.0000050000",
+        "Asia Pacific (Seoul)": "0.0000050000",
+        "Asia Pacific (Mumbai)": "0.0000050000",
+        "Asia Pacific (Melbourne)": "0.0000050000",
+        "Asia Pacific (Jakarta)": "0.0000050000",
+        "Asia Pacific (Hyderabad)": "0.0000050000",
+        "Africa (Cape Town)": "0.0000050000",
+        "AWS GovCloud (US-East)": "0.0000050000"
+    },
     "[Verified Permissions UpdatePolicy] Verified Permissions UpdatePolicy per API Requests": {
         "US West (Oregon)": "0.0000400000",
         "US West (N. California)": "0.0000400000",

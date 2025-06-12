@@ -1,3 +1,11 @@
+## 2025-06-12 15:27
+
+**Modified services:**
+
+- [verifiedpermissions](processed/verifiedpermissions.json)
+  - Billing metric added: [Verified Permissions SingleAuthorizationRequest] 💡
+
+
 ## 2025-06-12 01:57
 
 **Modified services:**
