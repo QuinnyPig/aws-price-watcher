@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "verifiedpermissions",
         "accessType": "publish",
-        "esIndex": "plc-verifiedpermissions-usd-20250612151510",
-        "hawkFilePublicationDate": "2025-06-12T15:15:10Z",
-        "ETLIngestionTriggerDate": "2025-06-12T15:15:10Z",
+        "esIndex": "plc-verifiedpermissions-usd-20250612155816",
+        "hawkFilePublicationDate": "2025-06-12T15:58:16Z",
+        "ETLIngestionTriggerDate": "2025-06-12T15:58:16Z",
         "currencyCode": "USD",
         "source": "verifiedpermissions",
         "isMapped": "true"
@@ -205,8 +205,13 @@
             "Z7PQC78DR8JPR5BA JRTCKXETXF.6YS6EN2CT7 0"
         ],
         "Verified Permissions SingleAuthorizationRequest": [
+            "2RS9UJUGEMN8NX85 JRTCKXETXF.6YS6EN2CT7 0",
             "5X25MPVFPEVF9HBT JRTCKXETXF.6YS6EN2CT7 0",
+            "7AN4G4K3TPSBR2RQ JRTCKXETXF.6YS6EN2CT7 0",
             "8HBA8W4DDUTP6XE4 JRTCKXETXF.6YS6EN2CT7 0",
+            "AXK2HBXNPXJ6Z3Z6 JRTCKXETXF.6YS6EN2CT7 0",
+            "C2DJ36K9CHUH3KG3 JRTCKXETXF.6YS6EN2CT7 0",
+            "C83DN6CGVZ7D2RWR JRTCKXETXF.6YS6EN2CT7 0",
             "CTAFC64AQDZ4EGDX JRTCKXETXF.6YS6EN2CT7 0",
             "DA8ZYS7VEVS8S7ZW JRTCKXETXF.6YS6EN2CT7 0",
             "DBRNHR43WCMHCF9V JRTCKXETXF.6YS6EN2CT7 0",
@@ -216,15 +221,26 @@
             "EE9KB62AGM7JVPYQ JRTCKXETXF.6YS6EN2CT7 0",
             "F8EH9672XH63HCAX JRTCKXETXF.6YS6EN2CT7 0",
             "FG2KBFZJQ9E4HSB5 JRTCKXETXF.6YS6EN2CT7 0",
+            "G4D4TJCSFAVRPF4B JRTCKXETXF.6YS6EN2CT7 0",
+            "H52DVS8KFK93CGEC JRTCKXETXF.6YS6EN2CT7 0",
+            "HJ6DHBDXYBHKVKFP JRTCKXETXF.6YS6EN2CT7 0",
+            "HNPHH38VHN6JCGZS JRTCKXETXF.6YS6EN2CT7 0",
+            "JB9Q4P9ZFHNDT56J JRTCKXETXF.6YS6EN2CT7 0",
+            "KAB47P72Z2WGPG4Z JRTCKXETXF.6YS6EN2CT7 0",
             "KF8QQYTQ74PJ6ZP6 JRTCKXETXF.6YS6EN2CT7 0",
             "NV3EQWFZSZKHTYMC JRTCKXETXF.6YS6EN2CT7 0",
+            "PJU7RXHWHVQKDEZ7 JRTCKXETXF.6YS6EN2CT7 0",
             "Q6DFSSYFV5DXWF57 JRTCKXETXF.6YS6EN2CT7 0",
             "QVDATQ8TUCRXNUH9 JRTCKXETXF.6YS6EN2CT7 0",
+            "R9EGHHQR8WGCTKRQ JRTCKXETXF.6YS6EN2CT7 0",
             "RWK2V3T7TE6B5YUF JRTCKXETXF.6YS6EN2CT7 0",
+            "VGHKQNX4JE9VJSJ2 JRTCKXETXF.6YS6EN2CT7 0",
             "VRGVFBMGDCTJNARG JRTCKXETXF.6YS6EN2CT7 0",
             "VTPXVQ726XYFSJMJ JRTCKXETXF.6YS6EN2CT7 0",
+            "WKBMTZB8JSAXVJJH JRTCKXETXF.6YS6EN2CT7 0",
             "XECEGCN8SDJVX9NX JRTCKXETXF.6YS6EN2CT7 0",
-            "XFZD49SBRBAV5Y8E JRTCKXETXF.6YS6EN2CT7 0"
+            "XFZD49SBRBAV5Y8E JRTCKXETXF.6YS6EN2CT7 0",
+            "ZA7TS9XA8ZJFAPC6 JRTCKXETXF.6YS6EN2CT7 0"
         ],
         "Verified Permissions UpdatePolicy": [
             "368WN3U4NC6XZYE8 JRTCKXETXF.6YS6EN2CT7 0",
@@ -409,6 +425,11 @@
                 "price": "0.0000400000",
                 "RegionlessRateCode": "NHuAuA5C6nuqyPRBjL3q28abPvpOZJaiLCTrgcFKg0k"
             },
+            "PJU7RXHWHVQKDEZ7 JRTCKXETXF.6YS6EN2CT7 0": {
+                "rateCode": "PJU7RXHWHVQKDEZ7.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000050000",
+                "RegionlessRateCode": "ZM5jqGhk2_0nVI7qsp463-pL2KWEdVVDCsSetwnF2U8"
+            },
             "PHZK5RUUJYJBZJ67 JRTCKXETXF.6YS6EN2CT7 0": {
                 "rateCode": "PHZK5RUUJYJBZJ67.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0000400000",
@@ -438,6 +459,11 @@
                 "rateCode": "PJ7PQXCW2KTVAH77.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0000400000",
                 "RegionlessRateCode": "NHuAuA5C6nuqyPRBjL3q28abPvpOZJaiLCTrgcFKg0k"
+            },
+            "ZM5jqGhk2_0nVI7qsp463-pL2KWEdVVDCsSetwnF2U8": {
+                "rateCode": "PJU7RXHWHVQKDEZ7.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000050000",
+                "RegionlessRateCode": "ZM5jqGhk2_0nVI7qsp463-pL2KWEdVVDCsSetwnF2U8"
             },
             "r1DM8QP8RFdpF1BjxumynIljOgKLApVVSe-rH9u84js": {
                 "rateCode": "FPV3Q68TFZJKQ6DT.JRTCKXETXF.6YS6EN2CT7",
@@ -516,6 +542,11 @@
                 "price": "0.0000400000",
                 "RegionlessRateCode": "NHuAuA5C6nuqyPRBjL3q28abPvpOZJaiLCTrgcFKg0k"
             },
+            "JB9Q4P9ZFHNDT56J JRTCKXETXF.6YS6EN2CT7 0": {
+                "rateCode": "JB9Q4P9ZFHNDT56J.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000050000",
+                "RegionlessRateCode": "ZM5jqGhk2_0nVI7qsp463-pL2KWEdVVDCsSetwnF2U8"
+            },
             "8AHU65TRWNFQMX9N JRTCKXETXF.6YS6EN2CT7 0": {
                 "rateCode": "8AHU65TRWNFQMX9N.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0000400000",
@@ -545,6 +576,11 @@
                 "rateCode": "Z7PQC78DR8JPR5BA.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0000400000",
                 "RegionlessRateCode": "NHuAuA5C6nuqyPRBjL3q28abPvpOZJaiLCTrgcFKg0k"
+            },
+            "ZM5jqGhk2_0nVI7qsp463-pL2KWEdVVDCsSetwnF2U8": {
+                "rateCode": "JB9Q4P9ZFHNDT56J.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000050000",
+                "RegionlessRateCode": "ZM5jqGhk2_0nVI7qsp463-pL2KWEdVVDCsSetwnF2U8"
             },
             "r1DM8QP8RFdpF1BjxumynIljOgKLApVVSe-rH9u84js": {
                 "rateCode": "68FUBG98R2YPSBZK.JRTCKXETXF.6YS6EN2CT7",
@@ -740,6 +776,11 @@
                 "price": "0.0000400000",
                 "RegionlessRateCode": "NHuAuA5C6nuqyPRBjL3q28abPvpOZJaiLCTrgcFKg0k"
             },
+            "HNPHH38VHN6JCGZS JRTCKXETXF.6YS6EN2CT7 0": {
+                "rateCode": "HNPHH38VHN6JCGZS.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000050000",
+                "RegionlessRateCode": "ZM5jqGhk2_0nVI7qsp463-pL2KWEdVVDCsSetwnF2U8"
+            },
             "K6RS2B64BVJESET3 JRTCKXETXF.6YS6EN2CT7 0": {
                 "rateCode": "K6RS2B64BVJESET3.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0000400000",
@@ -769,6 +810,11 @@
                 "rateCode": "WVP8UZKN65YMSA7P.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0000400000",
                 "RegionlessRateCode": "NHuAuA5C6nuqyPRBjL3q28abPvpOZJaiLCTrgcFKg0k"
+            },
+            "ZM5jqGhk2_0nVI7qsp463-pL2KWEdVVDCsSetwnF2U8": {
+                "rateCode": "HNPHH38VHN6JCGZS.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000050000",
+                "RegionlessRateCode": "ZM5jqGhk2_0nVI7qsp463-pL2KWEdVVDCsSetwnF2U8"
             },
             "r1DM8QP8RFdpF1BjxumynIljOgKLApVVSe-rH9u84js": {
                 "rateCode": "FUR8QJEKS6T7APZS.JRTCKXETXF.6YS6EN2CT7",
@@ -847,6 +893,11 @@
                 "price": "0.0000400000",
                 "RegionlessRateCode": "NHuAuA5C6nuqyPRBjL3q28abPvpOZJaiLCTrgcFKg0k"
             },
+            "ZA7TS9XA8ZJFAPC6 JRTCKXETXF.6YS6EN2CT7 0": {
+                "rateCode": "ZA7TS9XA8ZJFAPC6.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000050000",
+                "RegionlessRateCode": "ZM5jqGhk2_0nVI7qsp463-pL2KWEdVVDCsSetwnF2U8"
+            },
             "NZF45JY5X82TRQER JRTCKXETXF.6YS6EN2CT7 0": {
                 "rateCode": "NZF45JY5X82TRQER.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0000400000",
@@ -876,6 +927,11 @@
                 "rateCode": "3AK6JT9ZJDBKYHVZ.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0000400000",
                 "RegionlessRateCode": "NHuAuA5C6nuqyPRBjL3q28abPvpOZJaiLCTrgcFKg0k"
+            },
+            "ZM5jqGhk2_0nVI7qsp463-pL2KWEdVVDCsSetwnF2U8": {
+                "rateCode": "ZA7TS9XA8ZJFAPC6.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000050000",
+                "RegionlessRateCode": "ZM5jqGhk2_0nVI7qsp463-pL2KWEdVVDCsSetwnF2U8"
             },
             "r1DM8QP8RFdpF1BjxumynIljOgKLApVVSe-rH9u84js": {
                 "rateCode": "CHB64798Q7G85EXB.JRTCKXETXF.6YS6EN2CT7",
@@ -954,6 +1010,11 @@
                 "price": "0.0000400000",
                 "RegionlessRateCode": "NHuAuA5C6nuqyPRBjL3q28abPvpOZJaiLCTrgcFKg0k"
             },
+            "G4D4TJCSFAVRPF4B JRTCKXETXF.6YS6EN2CT7 0": {
+                "rateCode": "G4D4TJCSFAVRPF4B.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000050000",
+                "RegionlessRateCode": "ZM5jqGhk2_0nVI7qsp463-pL2KWEdVVDCsSetwnF2U8"
+            },
             "U8U5DS672J94QATQ JRTCKXETXF.6YS6EN2CT7 0": {
                 "rateCode": "U8U5DS672J94QATQ.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0000400000",
@@ -983,6 +1044,11 @@
                 "rateCode": "3CPUPPG9CXXZEW76.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0000400000",
                 "RegionlessRateCode": "NHuAuA5C6nuqyPRBjL3q28abPvpOZJaiLCTrgcFKg0k"
+            },
+            "ZM5jqGhk2_0nVI7qsp463-pL2KWEdVVDCsSetwnF2U8": {
+                "rateCode": "G4D4TJCSFAVRPF4B.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000050000",
+                "RegionlessRateCode": "ZM5jqGhk2_0nVI7qsp463-pL2KWEdVVDCsSetwnF2U8"
             },
             "r1DM8QP8RFdpF1BjxumynIljOgKLApVVSe-rH9u84js": {
                 "rateCode": "JV7X3Q86MKT3BRZV.JRTCKXETXF.6YS6EN2CT7",
@@ -1190,6 +1256,11 @@
                 "price": "0.0000400000",
                 "RegionlessRateCode": "NHuAuA5C6nuqyPRBjL3q28abPvpOZJaiLCTrgcFKg0k"
             },
+            "7AN4G4K3TPSBR2RQ JRTCKXETXF.6YS6EN2CT7 0": {
+                "rateCode": "7AN4G4K3TPSBR2RQ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000050000",
+                "RegionlessRateCode": "ZM5jqGhk2_0nVI7qsp463-pL2KWEdVVDCsSetwnF2U8"
+            },
             "4F93R6MFCT8KANVR JRTCKXETXF.6YS6EN2CT7 0": {
                 "rateCode": "4F93R6MFCT8KANVR.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0000400000",
@@ -1219,6 +1290,11 @@
                 "rateCode": "7QG7JM8ENHA5Q7WW.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0000400000",
                 "RegionlessRateCode": "NHuAuA5C6nuqyPRBjL3q28abPvpOZJaiLCTrgcFKg0k"
+            },
+            "ZM5jqGhk2_0nVI7qsp463-pL2KWEdVVDCsSetwnF2U8": {
+                "rateCode": "7AN4G4K3TPSBR2RQ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000050000",
+                "RegionlessRateCode": "ZM5jqGhk2_0nVI7qsp463-pL2KWEdVVDCsSetwnF2U8"
             },
             "r1DM8QP8RFdpF1BjxumynIljOgKLApVVSe-rH9u84js": {
                 "rateCode": "9HBTF6Q9P4SFCYDW.JRTCKXETXF.6YS6EN2CT7",
@@ -1648,6 +1724,11 @@
                 "price": "0.0000400000",
                 "RegionlessRateCode": "NHuAuA5C6nuqyPRBjL3q28abPvpOZJaiLCTrgcFKg0k"
             },
+            "C83DN6CGVZ7D2RWR JRTCKXETXF.6YS6EN2CT7 0": {
+                "rateCode": "C83DN6CGVZ7D2RWR.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000050000",
+                "RegionlessRateCode": "ZM5jqGhk2_0nVI7qsp463-pL2KWEdVVDCsSetwnF2U8"
+            },
             "KVPRN36FBYPBYMTQ JRTCKXETXF.6YS6EN2CT7 0": {
                 "rateCode": "KVPRN36FBYPBYMTQ.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0000400000",
@@ -1677,6 +1758,11 @@
                 "rateCode": "J6DH2PZG6EUMTXS9.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0000400000",
                 "RegionlessRateCode": "NHuAuA5C6nuqyPRBjL3q28abPvpOZJaiLCTrgcFKg0k"
+            },
+            "ZM5jqGhk2_0nVI7qsp463-pL2KWEdVVDCsSetwnF2U8": {
+                "rateCode": "C83DN6CGVZ7D2RWR.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000050000",
+                "RegionlessRateCode": "ZM5jqGhk2_0nVI7qsp463-pL2KWEdVVDCsSetwnF2U8"
             },
             "r1DM8QP8RFdpF1BjxumynIljOgKLApVVSe-rH9u84js": {
                 "rateCode": "P93QAFYSSDZ9QKG8.JRTCKXETXF.6YS6EN2CT7",
@@ -1755,6 +1841,11 @@
                 "price": "0.0000400000",
                 "RegionlessRateCode": "NHuAuA5C6nuqyPRBjL3q28abPvpOZJaiLCTrgcFKg0k"
             },
+            "VGHKQNX4JE9VJSJ2 JRTCKXETXF.6YS6EN2CT7 0": {
+                "rateCode": "VGHKQNX4JE9VJSJ2.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000050000",
+                "RegionlessRateCode": "ZM5jqGhk2_0nVI7qsp463-pL2KWEdVVDCsSetwnF2U8"
+            },
             "XKDJXHXXYKPF33SF JRTCKXETXF.6YS6EN2CT7 0": {
                 "rateCode": "XKDJXHXXYKPF33SF.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0000400000",
@@ -1784,6 +1875,11 @@
                 "rateCode": "NA4BTJM2GM7R6BXZ.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0000400000",
                 "RegionlessRateCode": "NHuAuA5C6nuqyPRBjL3q28abPvpOZJaiLCTrgcFKg0k"
+            },
+            "ZM5jqGhk2_0nVI7qsp463-pL2KWEdVVDCsSetwnF2U8": {
+                "rateCode": "VGHKQNX4JE9VJSJ2.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000050000",
+                "RegionlessRateCode": "ZM5jqGhk2_0nVI7qsp463-pL2KWEdVVDCsSetwnF2U8"
             },
             "r1DM8QP8RFdpF1BjxumynIljOgKLApVVSe-rH9u84js": {
                 "rateCode": "FR4VFCQRDSM5S5WP.JRTCKXETXF.6YS6EN2CT7",
@@ -1862,6 +1958,11 @@
                 "price": "0.0000400000",
                 "RegionlessRateCode": "NHuAuA5C6nuqyPRBjL3q28abPvpOZJaiLCTrgcFKg0k"
             },
+            "2RS9UJUGEMN8NX85 JRTCKXETXF.6YS6EN2CT7 0": {
+                "rateCode": "2RS9UJUGEMN8NX85.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000050000",
+                "RegionlessRateCode": "ZM5jqGhk2_0nVI7qsp463-pL2KWEdVVDCsSetwnF2U8"
+            },
             "FT7ANCXZ5YADSDGG JRTCKXETXF.6YS6EN2CT7 0": {
                 "rateCode": "FT7ANCXZ5YADSDGG.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0000400000",
@@ -1891,6 +1992,11 @@
                 "rateCode": "MUCBH2S9NCYPF9S8.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0000400000",
                 "RegionlessRateCode": "NHuAuA5C6nuqyPRBjL3q28abPvpOZJaiLCTrgcFKg0k"
+            },
+            "ZM5jqGhk2_0nVI7qsp463-pL2KWEdVVDCsSetwnF2U8": {
+                "rateCode": "2RS9UJUGEMN8NX85.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000050000",
+                "RegionlessRateCode": "ZM5jqGhk2_0nVI7qsp463-pL2KWEdVVDCsSetwnF2U8"
             },
             "r1DM8QP8RFdpF1BjxumynIljOgKLApVVSe-rH9u84js": {
                 "rateCode": "K2CCBXGZ2KV5EF9M.JRTCKXETXF.6YS6EN2CT7",
@@ -2320,6 +2426,11 @@
                 "price": "0.0000400000",
                 "RegionlessRateCode": "NHuAuA5C6nuqyPRBjL3q28abPvpOZJaiLCTrgcFKg0k"
             },
+            "WKBMTZB8JSAXVJJH JRTCKXETXF.6YS6EN2CT7 0": {
+                "rateCode": "WKBMTZB8JSAXVJJH.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000050000",
+                "RegionlessRateCode": "ZM5jqGhk2_0nVI7qsp463-pL2KWEdVVDCsSetwnF2U8"
+            },
             "8REZRXT8BNQT2UP9 JRTCKXETXF.6YS6EN2CT7 0": {
                 "rateCode": "8REZRXT8BNQT2UP9.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0000400000",
@@ -2349,6 +2460,11 @@
                 "rateCode": "UVC2HESYQSX5S6UN.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0000400000",
                 "RegionlessRateCode": "NHuAuA5C6nuqyPRBjL3q28abPvpOZJaiLCTrgcFKg0k"
+            },
+            "ZM5jqGhk2_0nVI7qsp463-pL2KWEdVVDCsSetwnF2U8": {
+                "rateCode": "WKBMTZB8JSAXVJJH.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000050000",
+                "RegionlessRateCode": "ZM5jqGhk2_0nVI7qsp463-pL2KWEdVVDCsSetwnF2U8"
             },
             "r1DM8QP8RFdpF1BjxumynIljOgKLApVVSe-rH9u84js": {
                 "rateCode": "WEJTKEUJA8GWR5PN.JRTCKXETXF.6YS6EN2CT7",
@@ -2404,6 +2520,18 @@
             },
             "ZM5jqGhk2_0nVI7qsp463-pL2KWEdVVDCsSetwnF2U8": {
                 "rateCode": "VTPXVQ726XYFSJMJ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000050000",
+                "RegionlessRateCode": "ZM5jqGhk2_0nVI7qsp463-pL2KWEdVVDCsSetwnF2U8"
+            }
+        },
+        "Asia Pacific (Taipei)": {
+            "KAB47P72Z2WGPG4Z JRTCKXETXF.6YS6EN2CT7 0": {
+                "rateCode": "KAB47P72Z2WGPG4Z.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000050000",
+                "RegionlessRateCode": "ZM5jqGhk2_0nVI7qsp463-pL2KWEdVVDCsSetwnF2U8"
+            },
+            "ZM5jqGhk2_0nVI7qsp463-pL2KWEdVVDCsSetwnF2U8": {
+                "rateCode": "KAB47P72Z2WGPG4Z.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0000050000",
                 "RegionlessRateCode": "ZM5jqGhk2_0nVI7qsp463-pL2KWEdVVDCsSetwnF2U8"
             }
@@ -2790,6 +2918,11 @@
                 "price": "0.0000400000",
                 "RegionlessRateCode": "NHuAuA5C6nuqyPRBjL3q28abPvpOZJaiLCTrgcFKg0k"
             },
+            "R9EGHHQR8WGCTKRQ JRTCKXETXF.6YS6EN2CT7 0": {
+                "rateCode": "R9EGHHQR8WGCTKRQ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000050000",
+                "RegionlessRateCode": "ZM5jqGhk2_0nVI7qsp463-pL2KWEdVVDCsSetwnF2U8"
+            },
             "FTQA95F5QM2TG7AY JRTCKXETXF.6YS6EN2CT7 0": {
                 "rateCode": "FTQA95F5QM2TG7AY.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0000400000",
@@ -2819,6 +2952,11 @@
                 "rateCode": "VXM6R2QNTWAP4694.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0000400000",
                 "RegionlessRateCode": "NHuAuA5C6nuqyPRBjL3q28abPvpOZJaiLCTrgcFKg0k"
+            },
+            "ZM5jqGhk2_0nVI7qsp463-pL2KWEdVVDCsSetwnF2U8": {
+                "rateCode": "R9EGHHQR8WGCTKRQ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000050000",
+                "RegionlessRateCode": "ZM5jqGhk2_0nVI7qsp463-pL2KWEdVVDCsSetwnF2U8"
             },
             "r1DM8QP8RFdpF1BjxumynIljOgKLApVVSe-rH9u84js": {
                 "rateCode": "F2MBJMADZPVKEJN5.JRTCKXETXF.6YS6EN2CT7",
@@ -3100,6 +3238,18 @@
                 "RegionlessRateCode": "u7m4xFppaDjB85FuNEBo5Cigymvlo6JKLnl8w9EWEDo"
             }
         },
+        "Asia Pacific (Malaysia)": {
+            "H52DVS8KFK93CGEC JRTCKXETXF.6YS6EN2CT7 0": {
+                "rateCode": "H52DVS8KFK93CGEC.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000050000",
+                "RegionlessRateCode": "ZM5jqGhk2_0nVI7qsp463-pL2KWEdVVDCsSetwnF2U8"
+            },
+            "ZM5jqGhk2_0nVI7qsp463-pL2KWEdVVDCsSetwnF2U8": {
+                "rateCode": "H52DVS8KFK93CGEC.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000050000",
+                "RegionlessRateCode": "ZM5jqGhk2_0nVI7qsp463-pL2KWEdVVDCsSetwnF2U8"
+            }
+        },
         "Asia Pacific (Jakarta)": {
             "VYU4YP5W85YJAMFE JRTCKXETXF.MP7YJSV6WY 0": {
                 "rateCode": "VYU4YP5W85YJAMFE.JRTCKXETXF.MP7YJSV6WY",
@@ -3365,6 +3515,11 @@
                 "price": "0.0000400000",
                 "RegionlessRateCode": "NHuAuA5C6nuqyPRBjL3q28abPvpOZJaiLCTrgcFKg0k"
             },
+            "HJ6DHBDXYBHKVKFP JRTCKXETXF.6YS6EN2CT7 0": {
+                "rateCode": "HJ6DHBDXYBHKVKFP.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000050000",
+                "RegionlessRateCode": "ZM5jqGhk2_0nVI7qsp463-pL2KWEdVVDCsSetwnF2U8"
+            },
             "EK8P4A8QZ6EAYSYK JRTCKXETXF.6YS6EN2CT7 0": {
                 "rateCode": "EK8P4A8QZ6EAYSYK.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0000400000",
@@ -3394,6 +3549,11 @@
                 "rateCode": "R6S9JXF425QCZHFZ.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0000400000",
                 "RegionlessRateCode": "NHuAuA5C6nuqyPRBjL3q28abPvpOZJaiLCTrgcFKg0k"
+            },
+            "ZM5jqGhk2_0nVI7qsp463-pL2KWEdVVDCsSetwnF2U8": {
+                "rateCode": "HJ6DHBDXYBHKVKFP.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000050000",
+                "RegionlessRateCode": "ZM5jqGhk2_0nVI7qsp463-pL2KWEdVVDCsSetwnF2U8"
             },
             "r1DM8QP8RFdpF1BjxumynIljOgKLApVVSe-rH9u84js": {
                 "rateCode": "WVWDMXZV8HKZHNBA.JRTCKXETXF.6YS6EN2CT7",
@@ -3439,6 +3599,18 @@
                 "rateCode": "9DHR7QX2JC2Y4QHB.JRTCKXETXF.F83EQNDM5J",
                 "price": "0.0000400000",
                 "RegionlessRateCode": "u7m4xFppaDjB85FuNEBo5Cigymvlo6JKLnl8w9EWEDo"
+            }
+        },
+        "Any": {
+            "AXK2HBXNPXJ6Z3Z6 JRTCKXETXF.6YS6EN2CT7 0": {
+                "rateCode": "AXK2HBXNPXJ6Z3Z6.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000050000",
+                "RegionlessRateCode": "ZM5jqGhk2_0nVI7qsp463-pL2KWEdVVDCsSetwnF2U8"
+            },
+            "ZM5jqGhk2_0nVI7qsp463-pL2KWEdVVDCsSetwnF2U8": {
+                "rateCode": "AXK2HBXNPXJ6Z3Z6.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000050000",
+                "RegionlessRateCode": "ZM5jqGhk2_0nVI7qsp463-pL2KWEdVVDCsSetwnF2U8"
             }
         },
         "Africa (Cape Town)": {
@@ -3706,6 +3878,11 @@
                 "price": "0.0000400000",
                 "RegionlessRateCode": "NHuAuA5C6nuqyPRBjL3q28abPvpOZJaiLCTrgcFKg0k"
             },
+            "C2DJ36K9CHUH3KG3 JRTCKXETXF.6YS6EN2CT7 0": {
+                "rateCode": "C2DJ36K9CHUH3KG3.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000050000",
+                "RegionlessRateCode": "ZM5jqGhk2_0nVI7qsp463-pL2KWEdVVDCsSetwnF2U8"
+            },
             "J65YMAEMWUAKJFHP JRTCKXETXF.6YS6EN2CT7 0": {
                 "rateCode": "J65YMAEMWUAKJFHP.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0000400000",
@@ -3735,6 +3912,11 @@
                 "rateCode": "9JXW29X932C9SDD8.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0000400000",
                 "RegionlessRateCode": "NHuAuA5C6nuqyPRBjL3q28abPvpOZJaiLCTrgcFKg0k"
+            },
+            "ZM5jqGhk2_0nVI7qsp463-pL2KWEdVVDCsSetwnF2U8": {
+                "rateCode": "C2DJ36K9CHUH3KG3.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000050000",
+                "RegionlessRateCode": "ZM5jqGhk2_0nVI7qsp463-pL2KWEdVVDCsSetwnF2U8"
             },
             "r1DM8QP8RFdpF1BjxumynIljOgKLApVVSe-rH9u84js": {
                 "rateCode": "7GJDMRCTE9C5Q9DQ.JRTCKXETXF.6YS6EN2CT7",

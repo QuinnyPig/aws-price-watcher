@@ -1,3 +1,26 @@
+## 2025-06-12 16:27
+
+**Modified services:**
+
+- [verifiedpermissions](processed/verifiedpermissions.json)
+  - Region added for metric [Verified Permissions SingleAuthorizationRequest]: US West (N. California) 🌎
+  - Region added for metric [Verified Permissions SingleAuthorizationRequest]: US East (Ohio) 🌎
+  - Region added for metric [Verified Permissions SingleAuthorizationRequest]: South America (Sao Paulo) 🌎
+  - Region added for metric [Verified Permissions SingleAuthorizationRequest]: Middle East (UAE) 🌎
+  - Region added for metric [Verified Permissions SingleAuthorizationRequest]: Middle East (Bahrain) 🌎
+  - Region added for metric [Verified Permissions SingleAuthorizationRequest]: EU (Zurich) 🌎
+  - Region added for metric [Verified Permissions SingleAuthorizationRequest]: EU (Milan) 🌎
+  - Region added for metric [Verified Permissions SingleAuthorizationRequest]: EU (London) 🌎
+  - Region added for metric [Verified Permissions SingleAuthorizationRequest]: EU (Ireland) 🌎
+  - Region added for metric [Verified Permissions SingleAuthorizationRequest]: Asia Pacific (Tokyo) 🌎
+  - Region added for metric [Verified Permissions SingleAuthorizationRequest]: Asia Pacific (Taipei) 🌎
+  - Region added for metric [Verified Permissions SingleAuthorizationRequest]: Asia Pacific (Osaka) 🌎
+  - Region added for metric [Verified Permissions SingleAuthorizationRequest]: Asia Pacific (Malaysia) 🌎
+  - Region added for metric [Verified Permissions SingleAuthorizationRequest]: Asia Pacific (Hong Kong) 🌎
+  - Region added for metric [Verified Permissions SingleAuthorizationRequest]: Any 🌎
+  - Region added for metric [Verified Permissions SingleAuthorizationRequest]: AWS GovCloud (US) 🌎
+
+
 ## 2025-06-12 15:27
 
 **Modified services:**
