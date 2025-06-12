@@ -32,7 +32,6 @@
         "Asia Pacific (Jakarta)": "0.0000020000",
         "Asia Pacific (Hyderabad)": "0.0000020000",
         "Asia Pacific (Hong Kong)": "0.0000020000",
-        "Any": "0.0000020000",
         "Africa (Cape Town)": "0.0000020000",
         "AWS GovCloud (US-East)": "0.0000020000",
         "AWS GovCloud (US)": "0.0000020000"
@@ -70,7 +69,6 @@
         "Asia Pacific (Jakarta)": "0.0000004000",
         "Asia Pacific (Hyderabad)": "0.0000004000",
         "Asia Pacific (Hong Kong)": "0.0000004000",
-        "Any": "0.0000004000",
         "Africa (Cape Town)": "0.0000004000",
         "AWS GovCloud (US-East)": "0.0000004000",
         "AWS GovCloud (US)": "0.0000004000"
@@ -144,7 +142,6 @@
         "Asia Pacific (Jakarta)": "0.0000000000",
         "Asia Pacific (Hyderabad)": "0.0000000000",
         "Asia Pacific (Hong Kong)": "0.0000000000",
-        "Any": "0.0000000000",
         "Africa (Cape Town)": "0.0000000000",
         "AWS GovCloud (US-East)": "0.0000000000",
         "AWS GovCloud (US)": "0.0000000000"
@@ -180,7 +177,6 @@
         "Asia Pacific (Jakarta)": "0.0010000000",
         "Asia Pacific (Hyderabad)": "0.0010000000",
         "Asia Pacific (Hong Kong)": "0.0010000000",
-        "Any": "0.0010000000",
         "Africa (Cape Town)": "0.0010000000"
     },
     "Rules added per WebACL per month": {
@@ -250,7 +246,6 @@
         "Asia Pacific (Jakarta)": "0.0007000000",
         "Asia Pacific (Hyderabad)": "0.0007000000",
         "Asia Pacific (Hong Kong)": "0.0007000000",
-        "Any": "0.0007000000",
         "Africa (Cape Town)": "0.0007000000"
     },
     "AMR Bot Control Activated per Month": {
@@ -322,7 +317,6 @@
         "Asia Pacific (Jakarta)": "0.0000010000",
         "Asia Pacific (Hyderabad)": "0.0000010000",
         "Asia Pacific (Hong Kong)": "0.0000010000",
-        "Any": "0.0000010000",
         "Africa (Cape Town)": "0.0000010000",
         "AWS GovCloud (US-East)": "0.0000010000",
         "AWS GovCloud (US)": "0.0000010000"
@@ -397,7 +391,6 @@
         "Asia Pacific (Jakarta)": "0.0000012000",
         "Asia Pacific (Hyderabad)": "0.0000012000",
         "Asia Pacific (Hong Kong)": "0.0000012000",
-        "Any": "0.0000012000",
         "Africa (Cape Town)": "0.0000012000",
         "AWS GovCloud (US-East)": "0.0000012000",
         "AWS GovCloud (US)": "0.0000012000"
@@ -433,7 +426,6 @@
         "Asia Pacific (Jakarta)": "0.0004000000",
         "Asia Pacific (Hyderabad)": "0.0004000000",
         "Asia Pacific (Hong Kong)": "0.0004000000",
-        "Any": "0.0004000000",
         "Africa (Cape Town)": "0.0004000000"
     },
     "Captcha Attempts processed per Request": {
@@ -469,7 +461,6 @@
         "Asia Pacific (Jakarta)": "0.0004000000",
         "Asia Pacific (Hyderabad)": "0.0004000000",
         "Asia Pacific (Hong Kong)": "0.0004000000",
-        "Any": "0.0004000000",
         "Africa (Cape Town)": "0.0004000000",
         "AWS GovCloud (US-East)": "0.0004000000",
         "AWS GovCloud (US)": "0.0004000000"
@@ -646,7 +637,6 @@
         "Asia Pacific (Jakarta)": "0.0000000000",
         "Asia Pacific (Hyderabad)": "0.0000000000",
         "Asia Pacific (Hong Kong)": "0.0000000000",
-        "Any": "0.0000000000",
         "Africa (Cape Town)": "0.0000000000"
     },
     "AMR ATP Activated per Month from 0 to Inf": {
@@ -716,7 +706,6 @@
         "Asia Pacific (Jakarta)": "0.0000000000",
         "Asia Pacific (Hyderabad)": "0.0000000000",
         "Asia Pacific (Hong Kong)": "0.0000000000",
-        "Any": "0.0000000000",
         "Africa (Cape Town)": "0.0000000000"
     },
     "AMR Fraud Control request processed per Request from 15000000 to 30000000": {
@@ -750,7 +739,6 @@
         "Asia Pacific (Jakarta)": "0.0002000000",
         "Asia Pacific (Hyderabad)": "0.0002000000",
         "Asia Pacific (Hong Kong)": "0.0002000000",
-        "Any": "0.0002000000",
         "Africa (Cape Town)": "0.0002000000"
     },
     "AMR Fraud Control request processed Shield Protected per Request from 15000000 to 30000000": {
@@ -784,7 +772,6 @@
         "Asia Pacific (Jakarta)": "0.0002000000",
         "Asia Pacific (Hyderabad)": "0.0002000000",
         "Asia Pacific (Hong Kong)": "0.0002000000",
-        "Any": "0.0002000000",
         "Africa (Cape Town)": "0.0002000000"
     },
     "Request Processed Tier1 per Request": {
@@ -885,7 +872,6 @@
         "Asia Pacific (Melbourne)": "0.0000008000",
         "Asia Pacific (Malaysia)": "0.0000008000",
         "Asia Pacific (Jakarta)": "0.0000008000",
-        "Any": "0.0000008000",
         "AWS GovCloud (US-East)": "0.0000008000",
         "AWS GovCloud (US)": "0.0000008000"
     },
@@ -922,7 +908,6 @@
         "Asia Pacific (Jakarta)": "0.0000018000",
         "Asia Pacific (Hyderabad)": "0.0000018000",
         "Asia Pacific (Hong Kong)": "0.0000018000",
-        "Any": "0.0000018000",
         "Africa (Cape Town)": "0.0000018000",
         "AWS GovCloud (US-East)": "0.0000018000",
         "AWS GovCloud (US)": "0.0000018000"
@@ -959,7 +944,6 @@
         "Asia Pacific (Jakarta)": "0.0000100000",
         "Asia Pacific (Hyderabad)": "0.0000100000",
         "Asia Pacific (Hong Kong)": "0.0000100000",
-        "Any": "0.0000100000",
         "Africa (Cape Town)": "0.0000100000",
         "AWS GovCloud (US-East)": "0.0000100000",
         "AWS GovCloud (US)": "0.0000100000"
@@ -995,7 +979,6 @@
         "Asia Pacific (Jakarta)": "0.0000500000",
         "Asia Pacific (Hyderabad)": "0.0000500000",
         "Asia Pacific (Hong Kong)": "0.0000500000",
-        "Any": "0.0000500000",
         "Africa (Cape Town)": "0.0000500000"
     },
     "AMR Fraud Control request processed Shield Protected per Request from 5000000 to 15000000": {
@@ -1029,7 +1012,6 @@
         "Asia Pacific (Jakarta)": "0.0004000000",
         "Asia Pacific (Hyderabad)": "0.0004000000",
         "Asia Pacific (Hong Kong)": "0.0004000000",
-        "Any": "0.0004000000",
         "Africa (Cape Town)": "0.0004000000"
     },
     "Captcha Attempts processed Shield Protected per Request": {
@@ -1065,7 +1047,6 @@
         "Asia Pacific (Jakarta)": "0.0004000000",
         "Asia Pacific (Hyderabad)": "0.0004000000",
         "Asia Pacific (Hong Kong)": "0.0004000000",
-        "Any": "0.0004000000",
         "Africa (Cape Town)": "0.0004000000",
         "AWS GovCloud (US-East)": "0.0004000000",
         "AWS GovCloud (US)": "0.0004000000"
@@ -1101,7 +1082,6 @@
         "Asia Pacific (Jakarta)": "0.0010000000",
         "Asia Pacific (Hyderabad)": "0.0010000000",
         "Asia Pacific (Hong Kong)": "0.0010000000",
-        "Any": "0.0010000000",
         "Africa (Cape Town)": "0.0010000000"
     },
     "AMR Fraud Control request processed per Request from 30000000 to Inf": {
@@ -1135,7 +1115,6 @@
         "Asia Pacific (Jakarta)": "0.0000500000",
         "Asia Pacific (Hyderabad)": "0.0000500000",
         "Asia Pacific (Hong Kong)": "0.0000500000",
-        "Any": "0.0000500000",
         "Africa (Cape Town)": "0.0000500000"
     },
     "Request Processed Tier6 4000WCU per Request": {
@@ -1171,7 +1150,6 @@
         "Asia Pacific (Jakarta)": "0.0000016000",
         "Asia Pacific (Hyderabad)": "0.0000016000",
         "Asia Pacific (Hong Kong)": "0.0000016000",
-        "Any": "0.0000016000",
         "Africa (Cape Town)": "0.0000016000",
         "AWS GovCloud (US-East)": "0.0000016000",
         "AWS GovCloud (US)": "0.0000016000"
@@ -1244,7 +1222,6 @@
         "Asia Pacific (Jakarta)": "0.0000100000",
         "Asia Pacific (Hyderabad)": "0.0000100000",
         "Asia Pacific (Hong Kong)": "0.0000100000",
-        "Any": "0.0000100000",
         "Africa (Cape Town)": "0.0000100000",
         "AWS GovCloud (US-East)": "0.0000100000",
         "AWS GovCloud (US)": "0.0000100000"
@@ -1281,7 +1258,6 @@
         "Asia Pacific (Jakarta)": "0.0000000000",
         "Asia Pacific (Hyderabad)": "0.0000000000",
         "Asia Pacific (Hong Kong)": "0.0000000000",
-        "Any": "0.0000000000",
         "Africa (Cape Town)": "0.0000000000",
         "AWS GovCloud (US-East)": "0.0000000000",
         "AWS GovCloud (US)": "0.0000000000"
@@ -1356,7 +1332,6 @@
         "Asia Pacific (Jakarta)": "0.0000004000",
         "Asia Pacific (Hyderabad)": "0.0000004000",
         "Asia Pacific (Hong Kong)": "0.0000004000",
-        "Any": "0.0000004000",
         "Africa (Cape Town)": "0.0000004000",
         "AWS GovCloud (US-East)": "0.0000004000",
         "AWS GovCloud (US)": "0.0000004000"
@@ -1467,7 +1442,6 @@
         "Asia Pacific (Jakarta)": "0.0000014000",
         "Asia Pacific (Hyderabad)": "0.0000014000",
         "Asia Pacific (Hong Kong)": "0.0000014000",
-        "Any": "0.0000014000",
         "Africa (Cape Town)": "0.0000014000",
         "AWS GovCloud (US-East)": "0.0000014000",
         "AWS GovCloud (US)": "0.0000014000"
@@ -1539,7 +1513,6 @@
         "Asia Pacific (Jakarta)": "0.0007000000",
         "Asia Pacific (Hyderabad)": "0.0007000000",
         "Asia Pacific (Hong Kong)": "0.0007000000",
-        "Any": "0.0007000000",
         "Africa (Cape Town)": "0.0007000000"
     },
     "WebACL per month": {

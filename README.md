@@ -1,3 +1,37 @@
+## 2025-06-12 21:26
+
+**Modified services:**
+
+- [waf](processed/waf.json)
+  - Region removed for metric Request Processed Tier8 5000WCU per Request: Any 💥
+  - Region removed for metric Challenge Served processed per Request: Any 💥
+  - Region removed for metric AMR Bot Control Request Processed Shield Protected per Request from 0 to 1000000: Any 💥
+  - Region removed for metric AMR Fraud Control request processed Shield Protected per Request from 10000 to 2000000: Any 💥
+  - Region removed for metric AMR Fraud Control request processed per Request from 2000000 to 5000000: Any 💥
+  - Region removed for metric Request Processed Tier3 2500WCU per Request: Any 💥
+  - Region removed for metric Request Processed Tier4 3000WCU per Request: Any 💥
+  - Region removed for metric AMR Fraud Control request processed per Request from 5000000 to 15000000: Any 💥
+  - Region removed for metric Captcha Attempts processed per Request: Any 💥
+  - Region removed for metric AMR Fraud Control request processed per Request from 0 to 10000: Any 💥
+  - Region removed for metric AMR Fraud Control request processed Shield Protected per Request from 0 to 10000: Any 💥
+  - Region removed for metric AMR Fraud Control request processed per Request from 15000000 to 30000000: Any 💥
+  - Region removed for metric AMR Fraud Control request processed Shield Protected per Request from 15000000 to 30000000: Any 💥
+  - Region removed for metric Request Processed Tier2 2000WCU per Request: Any 💥
+  - Region removed for metric Request Processed Tier7 4500WCU per Request: Any 💥
+  - Region removed for metric AMR Bot Control Targeted Request Processed per Request from 1000000 to Inf: Any 💥
+  - Region removed for metric AMR Fraud Control request processed Shield Protected per Request from 30000000 to Inf: Any 💥
+  - Region removed for metric AMR Fraud Control request processed Shield Protected per Request from 5000000 to 15000000: Any 💥
+  - Region removed for metric Captcha Attempts processed Shield Protected per Request: Any 💥
+  - Region removed for metric AMR Fraud Control request processed per Request from 10000 to 2000000: Any 💥
+  - Region removed for metric AMR Fraud Control request processed per Request from 30000000 to Inf: Any 💥
+  - Region removed for metric Request Processed Tier6 4000WCU per Request: Any 💥
+  - Region removed for metric AMR Bot Control Request Processed Shield Protected per Request from 1000000 to Inf: Any 💥
+  - Region removed for metric AMR Bot Control Targeted Request Processed per Request from 0 to 1000000: Any 💥
+  - Region removed for metric Challenge Served processed Shield Protected per Request: Any 💥
+  - Region removed for metric Request Processed Tier5 3500WCU per Request: Any 💥
+  - Region removed for metric AMR Fraud Control request processed Shield Protected per Request from 2000000 to 5000000: Any 💥
+
+
 ## 2025-06-12 16:27
 
 **Modified services:**
