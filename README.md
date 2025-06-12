@@ -1,3 +1,34 @@
+## 2025-06-12 01:57
+
+**Modified services:**
+
+- [waf](processed/waf.json)
+  - Region removed for metric AMR Bot Control Request Processed Shield Protected per Request from 0 to 1000000: Thailand (Bangkok) 💥
+  - Region removed for metric AMR Fraud Control request processed Shield Protected per Request from 10000 to 2000000: Thailand (Bangkok) 💥
+  - Region removed for metric AMR Fraud Control request processed per Request from 2000000 to 5000000: Thailand (Bangkok) 💥
+  - Region removed for metric AMR Bot Control Activated per Month: Thailand (Bangkok) 💥
+  - Region removed for metric AMR Fraud Control request processed per Request from 5000000 to 15000000: Thailand (Bangkok) 💥
+  - Region removed for metric AMR Bot Control Request Processed per Request from 10000000 to Inf: Thailand (Bangkok) 💥
+  - Region removed for metric AMR Bot Control Request Processed Shield Protected per Request from 10000000 to Inf: Thailand (Bangkok) 💥
+  - Region removed for metric AMR Bot Control Request Processed Shield Protected per Request from 0 to 10000000: Thailand (Bangkok) 💥
+  - Region removed for metric AMR Fraud Control request processed per Request from 0 to 10000: Thailand (Bangkok) 💥
+  - Region removed for metric AMR ATP Activated per Month from 0 to Inf: Thailand (Bangkok) 💥
+  - Region removed for metric AMR Fraud Control request processed Shield Protected per Request from 0 to 10000: Thailand (Bangkok) 💥
+  - Region removed for metric AMR Fraud Control request processed per Request from 15000000 to 30000000: Thailand (Bangkok) 💥
+  - Region removed for metric AMR Fraud Control request processed Shield Protected per Request from 15000000 to 30000000: Thailand (Bangkok) 💥
+  - Region removed for metric AMR Bot Control Targeted Request Processed per Request from 1000000 to Inf: Thailand (Bangkok) 💥
+  - Region removed for metric AMR Fraud Control request processed Shield Protected per Request from 30000000 to Inf: Thailand (Bangkok) 💥
+  - Region removed for metric AMR Fraud Control request processed Shield Protected per Request from 5000000 to 15000000: Thailand (Bangkok) 💥
+  - Region removed for metric AMR Fraud Control request processed per Request from 10000 to 2000000: Thailand (Bangkok) 💥
+  - Region removed for metric AMR Fraud Control request processed per Request from 30000000 to Inf: Thailand (Bangkok) 💥
+  - Region removed for metric AMR ATP Activated Shield Protected per Month: Thailand (Bangkok) 💥
+  - Region removed for metric AMR Bot Control Request Processed Shield Protected per Request from 1000000 to Inf: Thailand (Bangkok) 💥
+  - Region removed for metric AMR Bot Control Targeted Request Processed per Request from 0 to 1000000: Thailand (Bangkok) 💥
+  - Region removed for metric AMR Bot Control Request Processed per Request from 0 to 10000000: Thailand (Bangkok) 💥
+  - Region removed for metric AMR Bot Control Activated Shield Protected per Month: Thailand (Bangkok) 💥
+  - Region removed for metric AMR Fraud Control request processed Shield Protected per Request from 2000000 to 5000000: Thailand (Bangkok) 💥
+
+
 ## 2025-06-11 12:29
 
 **Modified services:**
