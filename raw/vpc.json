@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "vpc",
         "accessType": "publish",
-        "esIndex": "plc-vpc-usd-20250611225612",
-        "hawkFilePublicationDate": "2025-06-11T22:56:12Z",
-        "ETLIngestionTriggerDate": "2025-06-11T22:56:12Z",
+        "esIndex": "plc-vpc-usd-20250613150548",
+        "hawkFilePublicationDate": "2025-06-13T15:05:48Z",
+        "ETLIngestionTriggerDate": "2025-06-13T15:05:48Z",
         "currencyCode": "USD",
         "source": "vpc",
         "isMapped": "true"
@@ -9463,6 +9463,11 @@
                 "price": "0.0126000000",
                 "RegionlessRateCode": "B2Ei9XNOnhKWFOwpUwfGFeYp5VkKOjTniscEoAmBJ5k"
             },
+            "JcAi1X35vbnmCcp8BjFekdJ35JhfVXOaqGaFgHzBRf4": {
+                "rateCode": "TVSJPM4PA9WQKPJQ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0002700000",
+                "RegionlessRateCode": "JcAi1X35vbnmCcp8BjFekdJ35JhfVXOaqGaFgHzBRf4"
+            },
             "KwQQENobJz5M2MxvmGphiFr6OTLII_8uGwTghmiHsYs": {
                 "rateCode": "7FUVF4VTBK8QFEEP.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0100000000",
@@ -9582,6 +9587,11 @@
                 "rateCode": "2B3DZNQ3P8R34E3N.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0126000000",
                 "RegionlessRateCode": "B2Ei9XNOnhKWFOwpUwfGFeYp5VkKOjTniscEoAmBJ5k"
+            },
+            "Hourly charge for Active IP Addresses per hours": {
+                "rateCode": "TVSJPM4PA9WQKPJQ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0002700000",
+                "RegionlessRateCode": "JcAi1X35vbnmCcp8BjFekdJ35JhfVXOaqGaFgHzBRf4"
             },
             "Hourly charge for IPv4 address in a contiguous block of IPv4 address per Hrs": {
                 "rateCode": "DANKC64SAKJBFWWK.JRTCKXETXF.6YS6EN2CT7",

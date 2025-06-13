@@ -1,3 +1,11 @@
+## 2025-06-13 15:27
+
+**Modified services:**
+
+- [vpc](processed/vpc.json)
+  - Region added for metric Hourly charge for Active IP Addresses per hours: Asia Pacific (Taipei) 🌎
+
+
 ## 2025-06-13 02:54
 
 **Modified services:**
