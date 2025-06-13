@@ -1,3 +1,16 @@
+## 2025-06-13 02:54
+
+**Modified services:**
+
+- [healthlake](processed/healthlake.json)
+  - Price increased: FHIRQueries per Queries from 2520000 to Inf US West (Oregon)  **$1.5e-06** → **$4.8e-06** 🤑
+  - Price increased: FHIRQueries per Queries from 2520000 to Inf US East (Ohio)  **$1.5e-06** → **$4.8e-06** 🤑
+  - Price increased: FHIRQueries per Queries from 2520000 to Inf US East (N. Virginia)  **$1.5e-06** → **$4.8e-06** 🤑
+  - Price increased: FHIRQueries per Queries from 2520000 to Inf EU (London)  **$1.725e-06** → **$5.52e-06** 🤑
+  - Price increased: FHIRQueries per Queries from 2520000 to Inf Asia Pacific (Sydney)  **$1.605e-06** → **$5.136e-06** 🤑
+  - Price increased: FHIRQueries per Queries from 2520000 to Inf Asia Pacific (Mumbai)  **$1.5e-06** → **$4.8e-06** 🤑
+
+
 ## 2025-06-12 21:26
 
 **Modified services:**

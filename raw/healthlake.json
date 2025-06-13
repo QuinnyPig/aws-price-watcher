@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "healthlake",
         "accessType": "publish",
-        "esIndex": "plc-healthlake-usd-20250604214035",
-        "hawkFilePublicationDate": "2025-06-04T21:40:35Z",
-        "ETLIngestionTriggerDate": "2025-06-04T21:40:35Z",
+        "esIndex": "plc-healthlake-usd-20250613022627",
+        "hawkFilePublicationDate": "2025-06-13T02:26:27Z",
+        "ETLIngestionTriggerDate": "2025-06-13T02:26:27Z",
         "currencyCode": "USD",
         "source": "healthlake",
         "isMapped": "true"
@@ -29,7 +29,7 @@
             },
             "ON0uVAKlOcQnq0WkkNVtm6gw4SNMmbez4jTXYeps1nk": {
                 "rateCode": "YYJFGDMENVBU78XS.JRTCKXETXF.75Z7YZYRPB",
-                "price": "0.0000015000",
+                "price": "0.0000048000",
                 "RegionlessRateCode": "ON0uVAKlOcQnq0WkkNVtm6gw4SNMmbez4jTXYeps1nk"
             },
             "eUZ0WyQXxHWp8QFmXTrRAXBg497rCqo251b_6a2qclA": {
@@ -74,7 +74,7 @@
             },
             "FHIRQueries per Queries from 2520000 to Inf": {
                 "rateCode": "YYJFGDMENVBU78XS.JRTCKXETXF.75Z7YZYRPB",
-                "price": "0.0000015000",
+                "price": "0.0000048000",
                 "RegionlessRateCode": "ON0uVAKlOcQnq0WkkNVtm6gw4SNMmbez4jTXYeps1nk"
             },
             "FHIRDataExport per GB": {
@@ -121,7 +121,7 @@
             },
             "ON0uVAKlOcQnq0WkkNVtm6gw4SNMmbez4jTXYeps1nk": {
                 "rateCode": "FGR4Y6F3KKZ6QMEQ.JRTCKXETXF.75Z7YZYRPB",
-                "price": "0.0000015000",
+                "price": "0.0000048000",
                 "RegionlessRateCode": "ON0uVAKlOcQnq0WkkNVtm6gw4SNMmbez4jTXYeps1nk"
             },
             "eUZ0WyQXxHWp8QFmXTrRAXBg497rCqo251b_6a2qclA": {
@@ -166,7 +166,7 @@
             },
             "FHIRQueries per Queries from 2520000 to Inf": {
                 "rateCode": "FGR4Y6F3KKZ6QMEQ.JRTCKXETXF.75Z7YZYRPB",
-                "price": "0.0000015000",
+                "price": "0.0000048000",
                 "RegionlessRateCode": "ON0uVAKlOcQnq0WkkNVtm6gw4SNMmbez4jTXYeps1nk"
             },
             "FHIRDataExport per GB": {
@@ -213,7 +213,7 @@
             },
             "ON0uVAKlOcQnq0WkkNVtm6gw4SNMmbez4jTXYeps1nk": {
                 "rateCode": "UNFGZ55D2PPAJ766.JRTCKXETXF.75Z7YZYRPB",
-                "price": "0.0000015000",
+                "price": "0.0000048000",
                 "RegionlessRateCode": "ON0uVAKlOcQnq0WkkNVtm6gw4SNMmbez4jTXYeps1nk"
             },
             "eUZ0WyQXxHWp8QFmXTrRAXBg497rCqo251b_6a2qclA": {
@@ -258,7 +258,7 @@
             },
             "FHIRQueries per Queries from 2520000 to Inf": {
                 "rateCode": "UNFGZ55D2PPAJ766.JRTCKXETXF.75Z7YZYRPB",
-                "price": "0.0000015000",
+                "price": "0.0000048000",
                 "RegionlessRateCode": "ON0uVAKlOcQnq0WkkNVtm6gw4SNMmbez4jTXYeps1nk"
             },
             "FHIRDataExport per GB": {
@@ -305,7 +305,7 @@
             },
             "ON0uVAKlOcQnq0WkkNVtm6gw4SNMmbez4jTXYeps1nk": {
                 "rateCode": "FYP3RKRRWFUH6VGX.JRTCKXETXF.75Z7YZYRPB",
-                "price": "0.0000017250",
+                "price": "0.0000055200",
                 "RegionlessRateCode": "ON0uVAKlOcQnq0WkkNVtm6gw4SNMmbez4jTXYeps1nk"
             },
             "eUZ0WyQXxHWp8QFmXTrRAXBg497rCqo251b_6a2qclA": {
@@ -350,7 +350,7 @@
             },
             "FHIRQueries per Queries from 2520000 to Inf": {
                 "rateCode": "FYP3RKRRWFUH6VGX.JRTCKXETXF.75Z7YZYRPB",
-                "price": "0.0000017250",
+                "price": "0.0000055200",
                 "RegionlessRateCode": "ON0uVAKlOcQnq0WkkNVtm6gw4SNMmbez4jTXYeps1nk"
             },
             "FHIRDataExport per GB": {
@@ -489,7 +489,7 @@
             },
             "ON0uVAKlOcQnq0WkkNVtm6gw4SNMmbez4jTXYeps1nk": {
                 "rateCode": "JSN8U7DHMQQKWTJ8.JRTCKXETXF.75Z7YZYRPB",
-                "price": "0.0000016050",
+                "price": "0.0000051360",
                 "RegionlessRateCode": "ON0uVAKlOcQnq0WkkNVtm6gw4SNMmbez4jTXYeps1nk"
             },
             "eUZ0WyQXxHWp8QFmXTrRAXBg497rCqo251b_6a2qclA": {
@@ -534,7 +534,7 @@
             },
             "FHIRQueries per Queries from 2520000 to Inf": {
                 "rateCode": "JSN8U7DHMQQKWTJ8.JRTCKXETXF.75Z7YZYRPB",
-                "price": "0.0000016050",
+                "price": "0.0000051360",
                 "RegionlessRateCode": "ON0uVAKlOcQnq0WkkNVtm6gw4SNMmbez4jTXYeps1nk"
             },
             "FHIRDataExport per GB": {
@@ -581,7 +581,7 @@
             },
             "ON0uVAKlOcQnq0WkkNVtm6gw4SNMmbez4jTXYeps1nk": {
                 "rateCode": "P6PBC5ZW56AZVV36.JRTCKXETXF.75Z7YZYRPB",
-                "price": "0.0000015000",
+                "price": "0.0000048000",
                 "RegionlessRateCode": "ON0uVAKlOcQnq0WkkNVtm6gw4SNMmbez4jTXYeps1nk"
             },
             "eUZ0WyQXxHWp8QFmXTrRAXBg497rCqo251b_6a2qclA": {
@@ -621,7 +621,7 @@
             },
             "FHIRQueries per Queries from 2520000 to Inf": {
                 "rateCode": "P6PBC5ZW56AZVV36.JRTCKXETXF.75Z7YZYRPB",
-                "price": "0.0000015000",
+                "price": "0.0000048000",
                 "RegionlessRateCode": "ON0uVAKlOcQnq0WkkNVtm6gw4SNMmbez4jTXYeps1nk"
             },
             "FHIRDataExport per GB": {

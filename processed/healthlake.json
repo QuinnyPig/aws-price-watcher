@@ -27,13 +27,13 @@
         "Asia Pacific (Mumbai)": "0.3700000000"
     },
     "FHIRQueries per Queries from 2520000 to Inf": {
-        "US West (Oregon)": "0.0000015000",
-        "US East (Ohio)": "0.0000015000",
-        "US East (N. Virginia)": "0.0000015000",
-        "EU (London)": "0.0000017250",
+        "US West (Oregon)": "0.0000048000",
+        "US East (Ohio)": "0.0000048000",
+        "US East (N. Virginia)": "0.0000048000",
+        "EU (London)": "0.0000055200",
         "EU (Ireland)": "0.0000051360",
-        "Asia Pacific (Sydney)": "0.0000016050",
-        "Asia Pacific (Mumbai)": "0.0000015000"
+        "Asia Pacific (Sydney)": "0.0000051360",
+        "Asia Pacific (Mumbai)": "0.0000048000"
     },
     "FHIRDataExport per GB": {
         "US West (Oregon)": "0.1900000000",
