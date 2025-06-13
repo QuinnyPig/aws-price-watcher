@@ -1,3 +1,33 @@
+## 2025-06-13 21:26
+
+**Modified services:**
+
+- [securityhub](processed/securityhub.json)
+  - Region added for metric FindingsIngestion first 10000 FREE per Event: Asia Pacific (Taipei) 🌎
+  - Region added for metric FreeFindingsIngestion per Event: Asia Pacific (Taipei) 🌎
+  - Region added for metric first 1000000 per Rule Evaluation Event: Asia Pacific (Taipei) 🌎
+  - Region added for metric first 1000000 per Compliance Checks: Asia Pacific (Taipei) 🌎
+  - Region added for metric FreeFindingsIngestion-FreeTrial per Event: Asia Pacific (Taipei) 🌎
+  - Region added for metric per Rule Evaluation Event: Asia Pacific (Taipei) 🌎
+  - Region added for metric per Compliance Checks: Asia Pacific (Taipei) 🌎
+  - Region added for metric from 100000000 upto 1000000000 per Rule Evaluation Event: Asia Pacific (Taipei) 🌎
+  - Region added for metric from 100000000 upto 1000000000 per Compliance Checks: Asia Pacific (Taipei) 🌎
+  - Region added for metric ComplianceCheck over 500000 per Security Checks: Asia Pacific (Taipei) 🌎
+  - Region added for metric ComplianceCheck over 500000 per Compliance Checks: Asia Pacific (Taipei) 🌎
+  - Region added for metric from 1000000 upto 100000000 per Rule Evaluation Event: Asia Pacific (Taipei) 🌎
+  - Region added for metric from 1000000 upto 100000000 per Compliance Checks: Asia Pacific (Taipei) 🌎
+  - Region added for metric FindingsIngestion per Event: Asia Pacific (Taipei) 🌎
+  - Region added for metric from 1000000000 upto Inf per Rule Evaluation Event: Asia Pacific (Taipei) 🌎
+  - Region added for metric from 1000000000 upto Inf per Compliance Checks: Asia Pacific (Taipei) 🌎
+  - Region added for metric ComplianceCheck first 100000 per Security Checks: Asia Pacific (Taipei) 🌎
+  - Region added for metric ComplianceCheck first 100000 per Compliance Checks: Asia Pacific (Taipei) 🌎
+  - Region added for metric ComplianceCheck next 400000 per Security Checks: Asia Pacific (Taipei) 🌎
+  - Region added for metric ComplianceCheck next 400000 per Compliance Checks: Asia Pacific (Taipei) 🌎
+  - Region added for metric FreeFindingsIngestion-CrossRegion per Event: Asia Pacific (Taipei) 🌎
+  - Region added for metric FreeComplianceCheck per Security Checks: Asia Pacific (Taipei) 🌎
+  - Region added for metric FreeComplianceCheck per Compliance Checks: Asia Pacific (Taipei) 🌎
+
+
 ## 2025-06-13 15:27
 
 **Modified services:**
