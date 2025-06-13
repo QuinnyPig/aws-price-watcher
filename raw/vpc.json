@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "vpc",
         "accessType": "publish",
-        "esIndex": "plc-vpc-usd-20250613150548",
-        "hawkFilePublicationDate": "2025-06-13T15:05:48Z",
-        "ETLIngestionTriggerDate": "2025-06-13T15:05:48Z",
+        "esIndex": "plc-vpc-usd-20250613180949",
+        "hawkFilePublicationDate": "2025-06-13T18:09:49Z",
+        "ETLIngestionTriggerDate": "2025-06-13T18:09:49Z",
         "currencyCode": "USD",
         "source": "vpc",
         "isMapped": "true"
