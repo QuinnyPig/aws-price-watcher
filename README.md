@@ -1,3 +1,22 @@
+## 2025-06-13 23:27
+
+**Modified services:**
+
+- [ec2](processed/ec2.json)
+  - Region added for metric OnDemand Linux-instancetype-m8g.2xlarge: South America (Sao Paulo) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m8g.24xlarge: South America (Sao Paulo) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m8g.metal-48xl: South America (Sao Paulo) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m8g.metal-24xl: South America (Sao Paulo) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m8g.4xlarge: South America (Sao Paulo) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m8g.xlarge: South America (Sao Paulo) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m8g.large: South America (Sao Paulo) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m8g.48xlarge: South America (Sao Paulo) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m8g.8xlarge: South America (Sao Paulo) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m8g.12xlarge: South America (Sao Paulo) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m8g.16xlarge: South America (Sao Paulo) 🌎
+  - Region added for metric OnDemand Linux-instancetype-m8g.medium: South America (Sao Paulo) 🌎
+
+
 ## 2025-06-13 21:26
 
 **Modified services:**
