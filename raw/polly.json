@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "polly",
         "accessType": "publish",
-        "esIndex": "plc-polly-usd-20250326190622",
-        "hawkFilePublicationDate": "2025-03-26T13:56:27Z",
-        "ETLIngestionTriggerDate": "2025-03-26T19:06:22Z",
+        "esIndex": "plc-polly-usd-20250616145132",
+        "hawkFilePublicationDate": "2025-06-16T14:51:32Z",
+        "ETLIngestionTriggerDate": "2025-06-16T14:51:32Z",
         "currencyCode": "USD",
         "source": "polly",
         "isMapped": "true"
@@ -12,6 +12,11 @@
     "sets": {},
     "regions": {
         "US West (Oregon)": {
+            "8xgCzsor6wtehW8df0lAT1OuOcN6vL9xd-nymgCfapM": {
+                "rateCode": "72CUXERTVPEGPMWC.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "8xgCzsor6wtehW8df0lAT1OuOcN6vL9xd-nymgCfapM"
+            },
             "WVWw0k_7zweJfXJFe65T3uNKksGtAHTL-2iPgZ4rfRU": {
                 "rateCode": "9NHBTCP8TY24SED9.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0000160000",
@@ -68,6 +73,11 @@
             }
         },
         "US East (N. Virginia)": {
+            "8xgCzsor6wtehW8df0lAT1OuOcN6vL9xd-nymgCfapM": {
+                "rateCode": "UY2T3RGQCZBTQBUV.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "8xgCzsor6wtehW8df0lAT1OuOcN6vL9xd-nymgCfapM"
+            },
             "DltEo85imq5I-D-CltVvsXTZpae8X19rRO9roGWZ23A": {
                 "rateCode": "KQ7PUQCHEBQR9339.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0001000000",
@@ -234,6 +244,11 @@
             }
         },
         "EU (Frankfurt)": {
+            "8xgCzsor6wtehW8df0lAT1OuOcN6vL9xd-nymgCfapM": {
+                "rateCode": "TN7SC2B5Z3FJHKHC.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "8xgCzsor6wtehW8df0lAT1OuOcN6vL9xd-nymgCfapM"
+            },
             "WVWw0k_7zweJfXJFe65T3uNKksGtAHTL-2iPgZ4rfRU": {
                 "rateCode": "VSWNA7XTE9HRDQYS.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0000160000",
