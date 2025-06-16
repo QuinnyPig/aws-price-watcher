@@ -1,3 +1,24 @@
+## 2025-06-16 23:26
+
+**Modified services:**
+
+- [msk](processed/msk.json)
+  - Region added for metric [ExpressBroker]: Mexico (Central) (Compute Family: express.m7g.12xlarge, usageType: MXC1-Express.m7g.12xlarge, vCPU: 48, Memory (GiB): 192, operation: RunBroker) 🌎
+  - Region added for metric [ExpressBroker]: Mexico (Central) (Compute Family: express.m7g.16xlarge, usageType: MXC1-Express.m7g.16xlarge, vCPU: 64, Memory (GiB): 256, operation: RunBroker) 🌎
+  - Region added for metric [ExpressBroker]: Mexico (Central) (Compute Family: express.m7g.2xlarge, usageType: MXC1-Express.m7g.2xlarge, vCPU: 8, Memory (GiB): 32, operation: RunBroker) 🌎
+  - Region added for metric [ExpressBroker]: Mexico (Central) (Compute Family: express.m7g.4xlarge, usageType: MXC1-Express.m7g.4xlarge, vCPU: 16, Memory (GiB): 64, operation: RunBroker) 🌎
+  - Region added for metric [ExpressBroker]: Mexico (Central) (Compute Family: express.m7g.8xlarge, usageType: MXC1-Express.m7g.8xlarge, vCPU: 32, Memory (GiB): 128, operation: RunBroker) 🌎
+  - Region added for metric [ExpressBroker]: Mexico (Central) (Compute Family: express.m7g.large, usageType: MXC1-Express.m7g.large, vCPU: 2, Memory (GiB): 8, operation: RunBroker) 🌎
+  - Region added for metric [ExpressBroker]: Mexico (Central) (Compute Family: express.m7g.xlarge, usageType: MXC1-Express.m7g.xlarge, vCPU: 4, Memory (GiB): 16, operation: RunBroker) 🌎
+  - Region added for metric [ExpressBroker]: Asia Pacific (Thailand) (Compute Family: express.m7g.12xlarge, usageType: APS9-Express.m7g.12xlarge, vCPU: 48, Memory (GiB): 192, operation: RunBroker) 🌎
+  - Region added for metric [ExpressBroker]: Asia Pacific (Thailand) (Compute Family: express.m7g.16xlarge, usageType: APS9-Express.m7g.16xlarge, vCPU: 64, Memory (GiB): 256, operation: RunBroker) 🌎
+  - Region added for metric [ExpressBroker]: Asia Pacific (Thailand) (Compute Family: express.m7g.2xlarge, usageType: APS9-Express.m7g.2xlarge, vCPU: 8, Memory (GiB): 32, operation: RunBroker) 🌎
+  - Region added for metric [ExpressBroker]: Asia Pacific (Thailand) (Compute Family: express.m7g.4xlarge, usageType: APS9-Express.m7g.4xlarge, vCPU: 16, Memory (GiB): 64, operation: RunBroker) 🌎
+  - Region added for metric [ExpressBroker]: Asia Pacific (Thailand) (Compute Family: express.m7g.8xlarge, usageType: APS9-Express.m7g.8xlarge, vCPU: 32, Memory (GiB): 128, operation: RunBroker) 🌎
+  - Region added for metric [ExpressBroker]: Asia Pacific (Thailand) (Compute Family: express.m7g.large, usageType: APS9-Express.m7g.large, vCPU: 2, Memory (GiB): 8, operation: RunBroker) 🌎
+  - Region added for metric [ExpressBroker]: Asia Pacific (Thailand) (Compute Family: express.m7g.xlarge, usageType: APS9-Express.m7g.xlarge, vCPU: 4, Memory (GiB): 16, operation: RunBroker) 🌎
+
+
 ## 2025-06-13 23:27
 
 **Modified services:**
