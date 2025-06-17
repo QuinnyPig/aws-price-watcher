@@ -1,7 +1,7 @@
 {
   "formatVersion" : "v1.0",
   "disclaimer" : "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
-  "publicationDate" : "2025-06-17T10:56:13Z",
+  "publicationDate" : "2025-06-17T13:10:50Z",
   "offers" : {
     "comprehend" : {
       "offerCode" : "comprehend",
@@ -1446,6 +1446,12 @@
       "versionIndexUrl" : "/offers/v1.0/aws/AmazonEVS/index.json",
       "currentVersionUrl" : "/offers/v1.0/aws/AmazonEVS/current/index.json",
       "currentRegionIndexUrl" : "/offers/v1.0/aws/AmazonEVS/current/region_index.json"
+    },
+    "ACM" : {
+      "offerCode" : "ACM",
+      "versionIndexUrl" : "/offers/v1.0/aws/ACM/index.json",
+      "currentVersionUrl" : "/offers/v1.0/aws/ACM/current/index.json",
+      "currentRegionIndexUrl" : "/offers/v1.0/aws/ACM/current/region_index.json"
     }
   }
 }
