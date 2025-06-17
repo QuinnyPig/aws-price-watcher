@@ -1,3 +1,20 @@
+## 2025-06-17 05:27
+
+**Modified services:**
+
+- [backup](processed/backup.json)
+  - Region added for metric Backup Storage per Count: Middle East (UAE) 🌎
+  - Region added for metric Backup Storage per Count: EU (Zurich) 🌎
+  - Region added for metric Backup Storage per Count: EU (Spain) 🌎
+  - Region added for metric Backup Storage per Count: Asia Pacific (Melbourne) 🌎
+  - Region added for metric Backup Storage per Count: Asia Pacific (Hyderabad) 🌎
+  - Region added for metric Backup Storage per Count-month: Middle East (UAE) 🌎
+  - Region added for metric Backup Storage per Count-month: EU (Zurich) 🌎
+  - Region added for metric Backup Storage per Count-month: EU (Spain) 🌎
+  - Region added for metric Backup Storage per Count-month: Asia Pacific (Melbourne) 🌎
+  - Region added for metric Backup Storage per Count-month: Asia Pacific (Hyderabad) 🌎
+
+
 ## 2025-06-16 23:26
 
 **Modified services:**
