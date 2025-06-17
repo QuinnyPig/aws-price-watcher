@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "inspectorv2",
         "accessType": "publish",
-        "esIndex": "plc-inspectorv2-usd-20250616163209",
-        "hawkFilePublicationDate": "2025-06-13T00:21:58Z",
-        "ETLIngestionTriggerDate": "2025-06-16T16:32:09Z",
+        "esIndex": "plc-inspectorv2-usd-20250617203621",
+        "hawkFilePublicationDate": "2025-06-17T20:36:21Z",
+        "ETLIngestionTriggerDate": "2025-06-17T20:36:21Z",
         "currencyCode": "USD",
         "source": "inspectorv2",
         "isMapped": "true"
@@ -21,6 +21,11 @@
                 "rateCode": "M6CAEFZ9GBRZCVAM.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0024300000",
                 "RegionlessRateCode": "86X--oDEQjkbbEt4yWzE6irtzzaOT0-s_5_PJvB5Vm4"
+            },
+            "8byjaL0WH-YE4iSX-OUgSEs8cEaXXjKXM-BRYi30bi0": {
+                "rateCode": "9U6XNFJWGTMZPYHA.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1500000000",
+                "RegionlessRateCode": "8byjaL0WH-YE4iSX-OUgSEs8cEaXXjKXM-BRYi30bi0"
             },
             "BoA6o9ncuTCErXVrSM3D2buShmjrs4cpqvws-l5sLHU": {
                 "rateCode": "HVSJ8FYAK9ZY886B.JRTCKXETXF.6YS6EN2CT7",
@@ -97,6 +102,16 @@
                 "price": "0.0300000000",
                 "RegionlessRateCode": "q69Gki2SM-e0OjrccaS95la04FZh_5yzQM9VfmZBb8g"
             },
+            "sgdSx-W3YfIXYW-quAyB165l8A_cgl_AkMaBc4wHvuM": {
+                "rateCode": "MUPUZCPV4M4RPJFE.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "sgdSx-W3YfIXYW-quAyB165l8A_cgl_AkMaBc4wHvuM"
+            },
+            "tKg94b5fpSxt_XBCvnLJ4s1foi9N1ZW-kaYoNcJQF6Y": {
+                "rateCode": "XNWFS6RN84YNT56H.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1500000000",
+                "RegionlessRateCode": "tKg94b5fpSxt_XBCvnLJ4s1foi9N1ZW-kaYoNcJQF6Y"
+            },
             "w83ahNNJ-aVSyYye39oK7NEG_Xgw62JI63HzsBsw_po": {
                 "rateCode": "H2Z2BBRSFTQG6CPK.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0000000000",
@@ -106,6 +121,16 @@
                 "rateCode": "URXXBTWNYAQWTEU8.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0100000000",
                 "RegionlessRateCode": "zIdO11Ae40xnbX1Wo4oDXymCORcbL7NXGbUe3VcilVU"
+            },
+            "zKvhcJkBkfbLWyfwueBunmB9E1Dl7lHy3JO4ebx5K84": {
+                "rateCode": "BCBTMNEQV649GV6C.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "zKvhcJkBkfbLWyfwueBunmB9E1Dl7lHy3JO4ebx5K84"
+            },
+            "zkbSjZBCHWrEIiF_S7KjegJxAxU4JvMXXSnoYF7f0ww": {
+                "rateCode": "SEYRYNUHSGHMDZEE.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1500000000",
+                "RegionlessRateCode": "zkbSjZBCHWrEIiF_S7KjegJxAxU4JvMXXSnoYF7f0ww"
             },
             "FREE 15 Days unlimited free trial Code Scanning Hourly": {
                 "rateCode": "FBTPTVC2DEJV59HN.JRTCKXETXF.6YS6EN2CT7",
@@ -376,6 +401,11 @@
                 "price": "0.0024300000",
                 "RegionlessRateCode": "86X--oDEQjkbbEt4yWzE6irtzzaOT0-s_5_PJvB5Vm4"
             },
+            "8byjaL0WH-YE4iSX-OUgSEs8cEaXXjKXM-BRYi30bi0": {
+                "rateCode": "S3VRGEQNP5HJBF5U.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1500000000",
+                "RegionlessRateCode": "8byjaL0WH-YE4iSX-OUgSEs8cEaXXjKXM-BRYi30bi0"
+            },
             "BoA6o9ncuTCErXVrSM3D2buShmjrs4cpqvws-l5sLHU": {
                 "rateCode": "D2QVZ3ADXEBNTTCY.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0000000000",
@@ -451,6 +481,16 @@
                 "price": "0.0300000000",
                 "RegionlessRateCode": "q69Gki2SM-e0OjrccaS95la04FZh_5yzQM9VfmZBb8g"
             },
+            "sgdSx-W3YfIXYW-quAyB165l8A_cgl_AkMaBc4wHvuM": {
+                "rateCode": "4SP6CPTWWV5H854Q.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "sgdSx-W3YfIXYW-quAyB165l8A_cgl_AkMaBc4wHvuM"
+            },
+            "tKg94b5fpSxt_XBCvnLJ4s1foi9N1ZW-kaYoNcJQF6Y": {
+                "rateCode": "KR7V9AAFSZCE5H8K.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1500000000",
+                "RegionlessRateCode": "tKg94b5fpSxt_XBCvnLJ4s1foi9N1ZW-kaYoNcJQF6Y"
+            },
             "w83ahNNJ-aVSyYye39oK7NEG_Xgw62JI63HzsBsw_po": {
                 "rateCode": "SKRGYNQP6KS254CB.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0000000000",
@@ -460,6 +500,16 @@
                 "rateCode": "24AGH39BVJHHJRT6.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0100000000",
                 "RegionlessRateCode": "zIdO11Ae40xnbX1Wo4oDXymCORcbL7NXGbUe3VcilVU"
+            },
+            "zKvhcJkBkfbLWyfwueBunmB9E1Dl7lHy3JO4ebx5K84": {
+                "rateCode": "DQ7GZ77QW76GDF9P.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "zKvhcJkBkfbLWyfwueBunmB9E1Dl7lHy3JO4ebx5K84"
+            },
+            "zkbSjZBCHWrEIiF_S7KjegJxAxU4JvMXXSnoYF7f0ww": {
+                "rateCode": "KFXZCV78U2N7EVJV.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1500000000",
+                "RegionlessRateCode": "zkbSjZBCHWrEIiF_S7KjegJxAxU4JvMXXSnoYF7f0ww"
             },
             "FREE 15 Days unlimited free trial Code Scanning Hourly": {
                 "rateCode": "3U3YGVM7MUNAWS6A.JRTCKXETXF.6YS6EN2CT7",
@@ -568,6 +618,11 @@
                 "price": "0.0024300000",
                 "RegionlessRateCode": "86X--oDEQjkbbEt4yWzE6irtzzaOT0-s_5_PJvB5Vm4"
             },
+            "8byjaL0WH-YE4iSX-OUgSEs8cEaXXjKXM-BRYi30bi0": {
+                "rateCode": "MRGVF6TTPHBPK63V.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1500000000",
+                "RegionlessRateCode": "8byjaL0WH-YE4iSX-OUgSEs8cEaXXjKXM-BRYi30bi0"
+            },
             "DbK4a54yM4tQcFfV4h41hJBn8DDHfcfljiuysw_wu9I": {
                 "rateCode": "J774X6ZTCC5HKR4X.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0000000000",
@@ -638,6 +693,16 @@
                 "price": "0.0300000000",
                 "RegionlessRateCode": "q69Gki2SM-e0OjrccaS95la04FZh_5yzQM9VfmZBb8g"
             },
+            "sgdSx-W3YfIXYW-quAyB165l8A_cgl_AkMaBc4wHvuM": {
+                "rateCode": "B429DCNRF6Z7GQMC.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "sgdSx-W3YfIXYW-quAyB165l8A_cgl_AkMaBc4wHvuM"
+            },
+            "tKg94b5fpSxt_XBCvnLJ4s1foi9N1ZW-kaYoNcJQF6Y": {
+                "rateCode": "ANRGJDMWVCZQ66NT.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1500000000",
+                "RegionlessRateCode": "tKg94b5fpSxt_XBCvnLJ4s1foi9N1ZW-kaYoNcJQF6Y"
+            },
             "vlJ6B0ja0HrbQ3KPhdOflF5NiSkPKTNX-tS8ZmiCJ4k": {
                 "rateCode": "YF5EH7PSU6GEQETR.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0000000000",
@@ -652,6 +717,16 @@
                 "rateCode": "TYJBDM7FPG7HK2SJ.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0100000000",
                 "RegionlessRateCode": "zIdO11Ae40xnbX1Wo4oDXymCORcbL7NXGbUe3VcilVU"
+            },
+            "zKvhcJkBkfbLWyfwueBunmB9E1Dl7lHy3JO4ebx5K84": {
+                "rateCode": "3DYZT33MXU3WQY9V.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "zKvhcJkBkfbLWyfwueBunmB9E1Dl7lHy3JO4ebx5K84"
+            },
+            "zkbSjZBCHWrEIiF_S7KjegJxAxU4JvMXXSnoYF7f0ww": {
+                "rateCode": "QKMZZN4FXQHGTRSE.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1500000000",
+                "RegionlessRateCode": "zkbSjZBCHWrEIiF_S7KjegJxAxU4JvMXXSnoYF7f0ww"
             },
             "FREE 15 Days unlimited free trial Code Scanning Hourly": {
                 "rateCode": "BBYRC4BZRVQNAVBJ.JRTCKXETXF.6YS6EN2CT7",
@@ -1246,6 +1321,11 @@
                 "price": "0.0028900000",
                 "RegionlessRateCode": "86X--oDEQjkbbEt4yWzE6irtzzaOT0-s_5_PJvB5Vm4"
             },
+            "8byjaL0WH-YE4iSX-OUgSEs8cEaXXjKXM-BRYi30bi0": {
+                "rateCode": "498FUXHD3UUQJKKD.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1800000000",
+                "RegionlessRateCode": "8byjaL0WH-YE4iSX-OUgSEs8cEaXXjKXM-BRYi30bi0"
+            },
             "BoA6o9ncuTCErXVrSM3D2buShmjrs4cpqvws-l5sLHU": {
                 "rateCode": "J7H8M2ZXDUJYCRD2.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0000000000",
@@ -1321,6 +1401,16 @@
                 "price": "0.0300000000",
                 "RegionlessRateCode": "q69Gki2SM-e0OjrccaS95la04FZh_5yzQM9VfmZBb8g"
             },
+            "sgdSx-W3YfIXYW-quAyB165l8A_cgl_AkMaBc4wHvuM": {
+                "rateCode": "CCMKW9SHJUAAZ3CJ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "sgdSx-W3YfIXYW-quAyB165l8A_cgl_AkMaBc4wHvuM"
+            },
+            "tKg94b5fpSxt_XBCvnLJ4s1foi9N1ZW-kaYoNcJQF6Y": {
+                "rateCode": "VK397SQPS8B8UG5J.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1800000000",
+                "RegionlessRateCode": "tKg94b5fpSxt_XBCvnLJ4s1foi9N1ZW-kaYoNcJQF6Y"
+            },
             "w83ahNNJ-aVSyYye39oK7NEG_Xgw62JI63HzsBsw_po": {
                 "rateCode": "9ZB7EV8NT7GWDE2M.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0000000000",
@@ -1330,6 +1420,16 @@
                 "rateCode": "X5HE5KFUW4GV2XCE.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0100000000",
                 "RegionlessRateCode": "zIdO11Ae40xnbX1Wo4oDXymCORcbL7NXGbUe3VcilVU"
+            },
+            "zKvhcJkBkfbLWyfwueBunmB9E1Dl7lHy3JO4ebx5K84": {
+                "rateCode": "D6QXHNRT8RKTQ3Z6.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "zKvhcJkBkfbLWyfwueBunmB9E1Dl7lHy3JO4ebx5K84"
+            },
+            "zkbSjZBCHWrEIiF_S7KjegJxAxU4JvMXXSnoYF7f0ww": {
+                "rateCode": "VZC3DQSYNYJFKVNQ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1800000000",
+                "RegionlessRateCode": "zkbSjZBCHWrEIiF_S7KjegJxAxU4JvMXXSnoYF7f0ww"
             },
             "FREE 15 Days unlimited free trial Code Scanning Hourly": {
                 "rateCode": "FWS22Y646TCGZSCG.JRTCKXETXF.6YS6EN2CT7",
@@ -1762,6 +1862,11 @@
                 "price": "0.0028900000",
                 "RegionlessRateCode": "86X--oDEQjkbbEt4yWzE6irtzzaOT0-s_5_PJvB5Vm4"
             },
+            "8byjaL0WH-YE4iSX-OUgSEs8cEaXXjKXM-BRYi30bi0": {
+                "rateCode": "U7N9AHMC4EXM6ARZ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1800000000",
+                "RegionlessRateCode": "8byjaL0WH-YE4iSX-OUgSEs8cEaXXjKXM-BRYi30bi0"
+            },
             "BoA6o9ncuTCErXVrSM3D2buShmjrs4cpqvws-l5sLHU": {
                 "rateCode": "TGWZMP7PAHQBSV8A.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0000000000",
@@ -1837,6 +1942,16 @@
                 "price": "0.0300000000",
                 "RegionlessRateCode": "q69Gki2SM-e0OjrccaS95la04FZh_5yzQM9VfmZBb8g"
             },
+            "sgdSx-W3YfIXYW-quAyB165l8A_cgl_AkMaBc4wHvuM": {
+                "rateCode": "96D2TQ9DMUVNR58U.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "sgdSx-W3YfIXYW-quAyB165l8A_cgl_AkMaBc4wHvuM"
+            },
+            "tKg94b5fpSxt_XBCvnLJ4s1foi9N1ZW-kaYoNcJQF6Y": {
+                "rateCode": "3FDAZR2ZPSF59T8P.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1800000000",
+                "RegionlessRateCode": "tKg94b5fpSxt_XBCvnLJ4s1foi9N1ZW-kaYoNcJQF6Y"
+            },
             "w83ahNNJ-aVSyYye39oK7NEG_Xgw62JI63HzsBsw_po": {
                 "rateCode": "42HW62BQX6A3AJD8.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0000000000",
@@ -1846,6 +1961,16 @@
                 "rateCode": "XQH7E2TX89T9F2U5.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0100000000",
                 "RegionlessRateCode": "zIdO11Ae40xnbX1Wo4oDXymCORcbL7NXGbUe3VcilVU"
+            },
+            "zKvhcJkBkfbLWyfwueBunmB9E1Dl7lHy3JO4ebx5K84": {
+                "rateCode": "5H727HAKS9EQAXH8.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "zKvhcJkBkfbLWyfwueBunmB9E1Dl7lHy3JO4ebx5K84"
+            },
+            "zkbSjZBCHWrEIiF_S7KjegJxAxU4JvMXXSnoYF7f0ww": {
+                "rateCode": "TRVU62S4G8F83CRC.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1800000000",
+                "RegionlessRateCode": "zkbSjZBCHWrEIiF_S7KjegJxAxU4JvMXXSnoYF7f0ww"
             },
             "FREE 15 Days unlimited free trial Code Scanning Hourly": {
                 "rateCode": "PH9AQ68AK2R4PPQT.JRTCKXETXF.6YS6EN2CT7",
@@ -1954,6 +2079,11 @@
                 "price": "0.0024300000",
                 "RegionlessRateCode": "86X--oDEQjkbbEt4yWzE6irtzzaOT0-s_5_PJvB5Vm4"
             },
+            "8byjaL0WH-YE4iSX-OUgSEs8cEaXXjKXM-BRYi30bi0": {
+                "rateCode": "TS47V22J6V5K9Z5W.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1500000000",
+                "RegionlessRateCode": "8byjaL0WH-YE4iSX-OUgSEs8cEaXXjKXM-BRYi30bi0"
+            },
             "BoA6o9ncuTCErXVrSM3D2buShmjrs4cpqvws-l5sLHU": {
                 "rateCode": "UJYJV6HKVVVG4AZT.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0000000000",
@@ -2029,6 +2159,16 @@
                 "price": "0.0300000000",
                 "RegionlessRateCode": "q69Gki2SM-e0OjrccaS95la04FZh_5yzQM9VfmZBb8g"
             },
+            "sgdSx-W3YfIXYW-quAyB165l8A_cgl_AkMaBc4wHvuM": {
+                "rateCode": "QF75H3CR5KVCDXYP.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "sgdSx-W3YfIXYW-quAyB165l8A_cgl_AkMaBc4wHvuM"
+            },
+            "tKg94b5fpSxt_XBCvnLJ4s1foi9N1ZW-kaYoNcJQF6Y": {
+                "rateCode": "T7TXWTSCT2NU9GTU.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1500000000",
+                "RegionlessRateCode": "tKg94b5fpSxt_XBCvnLJ4s1foi9N1ZW-kaYoNcJQF6Y"
+            },
             "w83ahNNJ-aVSyYye39oK7NEG_Xgw62JI63HzsBsw_po": {
                 "rateCode": "R9D2DYGHNWJZKYWE.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0000000000",
@@ -2038,6 +2178,16 @@
                 "rateCode": "DY64WGMFGQEQP5J9.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0100000000",
                 "RegionlessRateCode": "zIdO11Ae40xnbX1Wo4oDXymCORcbL7NXGbUe3VcilVU"
+            },
+            "zKvhcJkBkfbLWyfwueBunmB9E1Dl7lHy3JO4ebx5K84": {
+                "rateCode": "T2JRZKMFWTUDEBEU.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "zKvhcJkBkfbLWyfwueBunmB9E1Dl7lHy3JO4ebx5K84"
+            },
+            "zkbSjZBCHWrEIiF_S7KjegJxAxU4JvMXXSnoYF7f0ww": {
+                "rateCode": "SA8GWXJVCKAR6DUS.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1500000000",
+                "RegionlessRateCode": "zkbSjZBCHWrEIiF_S7KjegJxAxU4JvMXXSnoYF7f0ww"
             },
             "FREE 15 Days unlimited free trial Code Scanning Hourly": {
                 "rateCode": "Y2YGNV6XPR54FEXF.JRTCKXETXF.6YS6EN2CT7",
@@ -2146,6 +2296,11 @@
                 "price": "0.0028900000",
                 "RegionlessRateCode": "86X--oDEQjkbbEt4yWzE6irtzzaOT0-s_5_PJvB5Vm4"
             },
+            "8byjaL0WH-YE4iSX-OUgSEs8cEaXXjKXM-BRYi30bi0": {
+                "rateCode": "XSJMQ5GCVHRBAW4X.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1800000000",
+                "RegionlessRateCode": "8byjaL0WH-YE4iSX-OUgSEs8cEaXXjKXM-BRYi30bi0"
+            },
             "BoA6o9ncuTCErXVrSM3D2buShmjrs4cpqvws-l5sLHU": {
                 "rateCode": "DTZH3RDVXJFTBS2E.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0000000000",
@@ -2221,6 +2376,16 @@
                 "price": "0.0300000000",
                 "RegionlessRateCode": "q69Gki2SM-e0OjrccaS95la04FZh_5yzQM9VfmZBb8g"
             },
+            "sgdSx-W3YfIXYW-quAyB165l8A_cgl_AkMaBc4wHvuM": {
+                "rateCode": "83Y9PN3WY48U6YZR.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "sgdSx-W3YfIXYW-quAyB165l8A_cgl_AkMaBc4wHvuM"
+            },
+            "tKg94b5fpSxt_XBCvnLJ4s1foi9N1ZW-kaYoNcJQF6Y": {
+                "rateCode": "XHKEQBA78PT8PUHW.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1800000000",
+                "RegionlessRateCode": "tKg94b5fpSxt_XBCvnLJ4s1foi9N1ZW-kaYoNcJQF6Y"
+            },
             "w83ahNNJ-aVSyYye39oK7NEG_Xgw62JI63HzsBsw_po": {
                 "rateCode": "VW6DPVDEMRU8QS7V.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0000000000",
@@ -2230,6 +2395,16 @@
                 "rateCode": "62K85FVTXC6N8VAY.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0100000000",
                 "RegionlessRateCode": "zIdO11Ae40xnbX1Wo4oDXymCORcbL7NXGbUe3VcilVU"
+            },
+            "zKvhcJkBkfbLWyfwueBunmB9E1Dl7lHy3JO4ebx5K84": {
+                "rateCode": "89P2XY3SEY3PFNUZ.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "zKvhcJkBkfbLWyfwueBunmB9E1Dl7lHy3JO4ebx5K84"
+            },
+            "zkbSjZBCHWrEIiF_S7KjegJxAxU4JvMXXSnoYF7f0ww": {
+                "rateCode": "SDB299B2TS29FCVG.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1800000000",
+                "RegionlessRateCode": "zkbSjZBCHWrEIiF_S7KjegJxAxU4JvMXXSnoYF7f0ww"
             },
             "FREE 15 Days unlimited free trial Code Scanning Hourly": {
                 "rateCode": "FBBQKX69N4BWVFBJ.JRTCKXETXF.6YS6EN2CT7",
@@ -2500,6 +2675,11 @@
                 "price": "0.0028900000",
                 "RegionlessRateCode": "86X--oDEQjkbbEt4yWzE6irtzzaOT0-s_5_PJvB5Vm4"
             },
+            "8byjaL0WH-YE4iSX-OUgSEs8cEaXXjKXM-BRYi30bi0": {
+                "rateCode": "DN84Q9K2KSPPTB5H.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1800000000",
+                "RegionlessRateCode": "8byjaL0WH-YE4iSX-OUgSEs8cEaXXjKXM-BRYi30bi0"
+            },
             "BoA6o9ncuTCErXVrSM3D2buShmjrs4cpqvws-l5sLHU": {
                 "rateCode": "VSFGV9MMTKADT2YE.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0000000000",
@@ -2575,6 +2755,16 @@
                 "price": "0.0300000000",
                 "RegionlessRateCode": "q69Gki2SM-e0OjrccaS95la04FZh_5yzQM9VfmZBb8g"
             },
+            "sgdSx-W3YfIXYW-quAyB165l8A_cgl_AkMaBc4wHvuM": {
+                "rateCode": "KXHSRD3MTBSNMRNK.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "sgdSx-W3YfIXYW-quAyB165l8A_cgl_AkMaBc4wHvuM"
+            },
+            "tKg94b5fpSxt_XBCvnLJ4s1foi9N1ZW-kaYoNcJQF6Y": {
+                "rateCode": "FX5FYSCBXXQ9GVHD.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1800000000",
+                "RegionlessRateCode": "tKg94b5fpSxt_XBCvnLJ4s1foi9N1ZW-kaYoNcJQF6Y"
+            },
             "w83ahNNJ-aVSyYye39oK7NEG_Xgw62JI63HzsBsw_po": {
                 "rateCode": "QKEC4JKXFTJD7NNZ.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0000000000",
@@ -2584,6 +2774,16 @@
                 "rateCode": "BSKUQR36ETBDFUZN.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0100000000",
                 "RegionlessRateCode": "zIdO11Ae40xnbX1Wo4oDXymCORcbL7NXGbUe3VcilVU"
+            },
+            "zKvhcJkBkfbLWyfwueBunmB9E1Dl7lHy3JO4ebx5K84": {
+                "rateCode": "G3T9BKD288PTMPPP.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "zKvhcJkBkfbLWyfwueBunmB9E1Dl7lHy3JO4ebx5K84"
+            },
+            "zkbSjZBCHWrEIiF_S7KjegJxAxU4JvMXXSnoYF7f0ww": {
+                "rateCode": "MP3EQZK3Y795BAES.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1800000000",
+                "RegionlessRateCode": "zkbSjZBCHWrEIiF_S7KjegJxAxU4JvMXXSnoYF7f0ww"
             },
             "FREE 15 Days unlimited free trial Code Scanning Hourly": {
                 "rateCode": "YRXQE5MNAQ9AU78Y.JRTCKXETXF.6YS6EN2CT7",
@@ -2692,6 +2892,11 @@
                 "price": "0.0024300000",
                 "RegionlessRateCode": "86X--oDEQjkbbEt4yWzE6irtzzaOT0-s_5_PJvB5Vm4"
             },
+            "8byjaL0WH-YE4iSX-OUgSEs8cEaXXjKXM-BRYi30bi0": {
+                "rateCode": "4ZV29Q7RPXXGR5TN.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1500000000",
+                "RegionlessRateCode": "8byjaL0WH-YE4iSX-OUgSEs8cEaXXjKXM-BRYi30bi0"
+            },
             "BoA6o9ncuTCErXVrSM3D2buShmjrs4cpqvws-l5sLHU": {
                 "rateCode": "GVD5MEBJKKTWYK85.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0000000000",
@@ -2767,6 +2972,16 @@
                 "price": "0.0300000000",
                 "RegionlessRateCode": "q69Gki2SM-e0OjrccaS95la04FZh_5yzQM9VfmZBb8g"
             },
+            "sgdSx-W3YfIXYW-quAyB165l8A_cgl_AkMaBc4wHvuM": {
+                "rateCode": "QA95M9Q6B9F6YA2N.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "sgdSx-W3YfIXYW-quAyB165l8A_cgl_AkMaBc4wHvuM"
+            },
+            "tKg94b5fpSxt_XBCvnLJ4s1foi9N1ZW-kaYoNcJQF6Y": {
+                "rateCode": "5F94QJBJHYCQGHTE.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1500000000",
+                "RegionlessRateCode": "tKg94b5fpSxt_XBCvnLJ4s1foi9N1ZW-kaYoNcJQF6Y"
+            },
             "w83ahNNJ-aVSyYye39oK7NEG_Xgw62JI63HzsBsw_po": {
                 "rateCode": "7R2J59SAMGZTA5JZ.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0000000000",
@@ -2776,6 +2991,16 @@
                 "rateCode": "WRN2HAY37544E56E.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0100000000",
                 "RegionlessRateCode": "zIdO11Ae40xnbX1Wo4oDXymCORcbL7NXGbUe3VcilVU"
+            },
+            "zKvhcJkBkfbLWyfwueBunmB9E1Dl7lHy3JO4ebx5K84": {
+                "rateCode": "6P8FEUC37KUDKDXU.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "zKvhcJkBkfbLWyfwueBunmB9E1Dl7lHy3JO4ebx5K84"
+            },
+            "zkbSjZBCHWrEIiF_S7KjegJxAxU4JvMXXSnoYF7f0ww": {
+                "rateCode": "DZ7G8THQMM2CW869.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1500000000",
+                "RegionlessRateCode": "zkbSjZBCHWrEIiF_S7KjegJxAxU4JvMXXSnoYF7f0ww"
             },
             "FREE 15 Days unlimited free trial Code Scanning Hourly": {
                 "rateCode": "8YUMHBYR3KP638WE.JRTCKXETXF.6YS6EN2CT7",
@@ -2884,6 +3109,11 @@
                 "price": "0.0024300000",
                 "RegionlessRateCode": "86X--oDEQjkbbEt4yWzE6irtzzaOT0-s_5_PJvB5Vm4"
             },
+            "8byjaL0WH-YE4iSX-OUgSEs8cEaXXjKXM-BRYi30bi0": {
+                "rateCode": "4ZRHTDGP2N4MENCA.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1500000000",
+                "RegionlessRateCode": "8byjaL0WH-YE4iSX-OUgSEs8cEaXXjKXM-BRYi30bi0"
+            },
             "BoA6o9ncuTCErXVrSM3D2buShmjrs4cpqvws-l5sLHU": {
                 "rateCode": "NY95R9HE74AEAUQZ.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0000000000",
@@ -2959,6 +3189,16 @@
                 "price": "0.0300000000",
                 "RegionlessRateCode": "q69Gki2SM-e0OjrccaS95la04FZh_5yzQM9VfmZBb8g"
             },
+            "sgdSx-W3YfIXYW-quAyB165l8A_cgl_AkMaBc4wHvuM": {
+                "rateCode": "6VF48DCVV66D272V.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "sgdSx-W3YfIXYW-quAyB165l8A_cgl_AkMaBc4wHvuM"
+            },
+            "tKg94b5fpSxt_XBCvnLJ4s1foi9N1ZW-kaYoNcJQF6Y": {
+                "rateCode": "KGH4QF92ZS3NQ66K.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1500000000",
+                "RegionlessRateCode": "tKg94b5fpSxt_XBCvnLJ4s1foi9N1ZW-kaYoNcJQF6Y"
+            },
             "w83ahNNJ-aVSyYye39oK7NEG_Xgw62JI63HzsBsw_po": {
                 "rateCode": "TWBJPZ745K2TC5FM.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0000000000",
@@ -2968,6 +3208,16 @@
                 "rateCode": "DR6FWEDQ9QCNVQDX.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.0100000000",
                 "RegionlessRateCode": "zIdO11Ae40xnbX1Wo4oDXymCORcbL7NXGbUe3VcilVU"
+            },
+            "zKvhcJkBkfbLWyfwueBunmB9E1Dl7lHy3JO4ebx5K84": {
+                "rateCode": "HXXSCQ36F4G28YY7.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.0000000000",
+                "RegionlessRateCode": "zKvhcJkBkfbLWyfwueBunmB9E1Dl7lHy3JO4ebx5K84"
+            },
+            "zkbSjZBCHWrEIiF_S7KjegJxAxU4JvMXXSnoYF7f0ww": {
+                "rateCode": "D38N6DRMG97FQYRP.JRTCKXETXF.6YS6EN2CT7",
+                "price": "0.1500000000",
+                "RegionlessRateCode": "zkbSjZBCHWrEIiF_S7KjegJxAxU4JvMXXSnoYF7f0ww"
             },
             "FREE 15 Days unlimited free trial Code Scanning Hourly": {
                 "rateCode": "P48GYTWY53KXZU8E.JRTCKXETXF.6YS6EN2CT7",
