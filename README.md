@@ -1,3 +1,180 @@
+## 2025-06-17 16:27
+
+**Modified services:**
+
+- [es](processed/es.json)
+  - Region added for metric i4i xlarge.search - Storage optimized - Reserved - 1 x 937 Nitro SSD - All Upfront - 3yr - Hourly Cost: EU (Spain) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric m7g 12xlarge.search - General purpose - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Asia Pacific (Melbourne) (vCPU: 48, Memory (GiB): 192) 🌎
+  - Region added for metric i4i 8xlarge.search - Storage optimized - Reserved - 2 x 3 750 Nitro SSD - All Upfront - 1yr - Hourly Cost: EU (Spain) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric m7g 12xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Asia Pacific (Melbourne) (vCPU: 48, Memory (GiB): 192) 🌎
+  - Region added for metric m7g 8xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (Melbourne) (vCPU: 32, Memory (GiB): 128) 🌎
+  - Region added for metric m7g 16xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (Melbourne) (vCPU: 64, Memory (GiB): 256) 🌎
+  - Region added for metric i4i large.search - Storage optimized - Reserved - 1 x 468 Nitro SSD - Partial Upfront - 3yr - Hourly Cost: EU (Spain) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric i4i 16xlarge.search - Storage optimized - Reserved - 4 x 3 750 Nitro SSD - No Upfront - 1yr - Hourly Cost: EU (Spain) (vCPU: 64, Memory (GiB): 512) 🌎
+  - Region added for metric m7g 16xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Asia Pacific (Melbourne) (vCPU: 64, Memory (GiB): 256) 🌎
+  - Region added for metric m7g 2xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Asia Pacific (Melbourne) (vCPU: 8, Memory (GiB): 32) 🌎
+  - Region added for metric m7g medium.search - General purpose - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Asia Pacific (Melbourne) (vCPU: 1, Memory (GiB): 4) 🌎
+  - Region added for metric m7g large.search - General purpose - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (Melbourne) (vCPU: 2, Memory (GiB): 8) 🌎
+  - Region added for metric m7g 4xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Asia Pacific (Melbourne) (vCPU: 16, Memory (GiB): 64) 🌎
+  - Region added for metric m7g 8xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (Melbourne) (vCPU: 32, Memory (GiB): 128) 🌎
+  - Region added for metric i4i 32xlarge.search - Storage optimized - Reserved - 8 x 3 750 Nitro SSD - No Upfront - 3yr - Hourly Cost: EU (Spain) (vCPU: 128, Memory (GiB): 1024) 🌎
+  - Region added for metric m7g 16xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Asia Pacific (Melbourne) (vCPU: 64, Memory (GiB): 256) 🌎
+  - Region added for metric m7g 2xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Asia Pacific (Melbourne) (vCPU: 8, Memory (GiB): 32) 🌎
+  - Region added for metric m7g 2xlarge.search - General purpose - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Asia Pacific (Melbourne) (vCPU: 8, Memory (GiB): 32) 🌎
+  - Region added for metric i4i 32xlarge.search - Storage optimized - Reserved - 8 x 3 750 Nitro SSD - Partial Upfront - 3yr - Hourly Cost: EU (Spain) (vCPU: 128, Memory (GiB): 1024) 🌎
+  - Region added for metric i4i 8xlarge.search - Storage optimized - Reserved - 2 x 3 750 Nitro SSD - All Upfront - 1yr - PrepaidCost: EU (Spain) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric i4i 4xlarge.search - Storage optimized - Reserved - 1 x 3 750 Nitro SSD - Partial Upfront - 1yr - Hourly Cost: EU (Spain) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric m7g 16xlarge.search - General purpose - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Asia Pacific (Melbourne) (vCPU: 64, Memory (GiB): 256) 🌎
+  - Region added for metric m7g 4xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (Melbourne) (vCPU: 16, Memory (GiB): 64) 🌎
+  - Region added for metric m7g 4xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Asia Pacific (Melbourne) (vCPU: 16, Memory (GiB): 64) 🌎
+  - Region added for metric i4i 16xlarge.search - Storage optimized - Reserved - 4 x 3 750 Nitro SSD - All Upfront - 3yr - PrepaidCost: EU (Spain) (vCPU: 64, Memory (GiB): 512) 🌎
+  - Region added for metric m7g 4xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Asia Pacific (Melbourne) (vCPU: 16, Memory (GiB): 64) 🌎
+  - Region added for metric m7g large.search - General purpose - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (Melbourne) (vCPU: 2, Memory (GiB): 8) 🌎
+  - Region added for metric i4i 2xlarge.search - Storage optimized - Reserved - 1 x 1 875 Nitro SSD - All Upfront - 1yr - PrepaidCost: EU (Spain) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric m7g 4xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (Melbourne) (vCPU: 16, Memory (GiB): 64) 🌎
+  - Region added for metric i4i 32xlarge.search - Storage optimized - Reserved - 8 x 3 750 Nitro SSD - Partial Upfront - 3yr - PrepaidCost: EU (Spain) (vCPU: 128, Memory (GiB): 1024) 🌎
+  - Region added for metric i4i 8xlarge.search - Storage optimized - Reserved - 2 x 3 750 Nitro SSD - Partial Upfront - 1yr - PrepaidCost: EU (Spain) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric m7g medium.search - General purpose - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Asia Pacific (Melbourne) (vCPU: 1, Memory (GiB): 4) 🌎
+  - Region added for metric m7g 12xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (Melbourne) (vCPU: 48, Memory (GiB): 192) 🌎
+  - Region added for metric i4i 16xlarge.search - Storage optimized - Reserved - 4 x 3 750 Nitro SSD - All Upfront - 1yr - PrepaidCost: EU (Spain) (vCPU: 64, Memory (GiB): 512) 🌎
+  - Region added for metric i4i 8xlarge.search - Storage optimized - Reserved - 2 x 3 750 Nitro SSD - Partial Upfront - 3yr - PrepaidCost: EU (Spain) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric i4i 16xlarge.search - Storage optimized - Reserved - 4 x 3 750 Nitro SSD - All Upfront - 1yr - Hourly Cost: EU (Spain) (vCPU: 64, Memory (GiB): 512) 🌎
+  - Region added for metric m7g 16xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Asia Pacific (Melbourne) (vCPU: 64, Memory (GiB): 256) 🌎
+  - Region added for metric i4i 16xlarge.search - Storage optimized - Reserved - 4 x 3 750 Nitro SSD - No Upfront - 3yr - Hourly Cost: EU (Spain) (vCPU: 64, Memory (GiB): 512) 🌎
+  - Region added for metric i4i 8xlarge.search - Storage optimized - Reserved - 2 x 3 750 Nitro SSD - Partial Upfront - 3yr - Hourly Cost: EU (Spain) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric i4i 12xlarge.search - Storage optimized - Reserved - 3 x 3 750 Nitro SSD - All Upfront - 3yr - Hourly Cost: EU (Spain) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric m7g 12xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Asia Pacific (Melbourne) (vCPU: 48, Memory (GiB): 192) 🌎
+  - Region added for metric i4i 8xlarge.search - Storage optimized - Reserved - 2 x 3 750 Nitro SSD - Partial Upfront - 1yr - Hourly Cost: EU (Spain) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric m7g 8xlarge.search - General purpose - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Asia Pacific (Melbourne) (vCPU: 32, Memory (GiB): 128) 🌎
+  - Region added for metric m7g 16xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (Melbourne) (vCPU: 64, Memory (GiB): 256) 🌎
+  - Region added for metric m7g medium.search - General purpose - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (Melbourne) (vCPU: 1, Memory (GiB): 4) 🌎
+  - Region added for metric m7g 2xlarge.search - General purpose - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Asia Pacific (Melbourne) (vCPU: 8, Memory (GiB): 32) 🌎
+  - Region added for metric m7g 4xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (Melbourne) (vCPU: 16, Memory (GiB): 64) 🌎
+  - Region added for metric i4i 16xlarge.search - Storage optimized - Reserved - 4 x 3 750 Nitro SSD - All Upfront - 3yr - Hourly Cost: EU (Spain) (vCPU: 64, Memory (GiB): 512) 🌎
+  - Region added for metric i4i 8xlarge.search - Storage optimized - Reserved - 2 x 3 750 Nitro SSD - All Upfront - 3yr - PrepaidCost: EU (Spain) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric i4i 32xlarge.search - Storage optimized - Reserved - 8 x 3 750 Nitro SSD - All Upfront - 3yr - PrepaidCost: EU (Spain) (vCPU: 128, Memory (GiB): 1024) 🌎
+  - Region added for metric i4i large.search - Storage optimized - Reserved - 1 x 468 Nitro SSD - No Upfront - 1yr - Hourly Cost: EU (Spain) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric i4i large.search - Storage optimized - Reserved - 1 x 468 Nitro SSD - Partial Upfront - 1yr - PrepaidCost: EU (Spain) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric i4i large.search - Storage optimized - Reserved - 1 x 468 Nitro SSD - All Upfront - 3yr - PrepaidCost: EU (Spain) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric i4i 24xlarge.search - Storage optimized - Reserved - 6 x 3 750 Nitro SSD - All Upfront - 1yr - Hourly Cost: EU (Spain) (vCPU: 96, Memory (GiB): 768) 🌎
+  - Region added for metric m7g xlarge.search - General purpose - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Asia Pacific (Melbourne) (vCPU: 4, Memory (GiB): 16) 🌎
+  - Region added for metric m7g xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Asia Pacific (Melbourne) (vCPU: 4, Memory (GiB): 16) 🌎
+  - Region added for metric i4i 32xlarge.search - Storage optimized - Reserved - 8 x 3 750 Nitro SSD - Partial Upfront - 1yr - Hourly Cost: EU (Spain) (vCPU: 128, Memory (GiB): 1024) 🌎
+  - Region added for metric m7g medium.search - General purpose - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (Melbourne) (vCPU: 1, Memory (GiB): 4) 🌎
+  - Region added for metric m7g large.search - General purpose - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Asia Pacific (Melbourne) (vCPU: 2, Memory (GiB): 8) 🌎
+  - Region added for metric i4i large.search - Storage optimized - Reserved - 1 x 468 Nitro SSD - All Upfront - 3yr - Hourly Cost: EU (Spain) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric i4i xlarge.search - Storage optimized - Reserved - 1 x 937 Nitro SSD - All Upfront - 1yr - PrepaidCost: EU (Spain) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric i4i 24xlarge.search - Storage optimized - Reserved - 6 x 3 750 Nitro SSD - All Upfront - 3yr - PrepaidCost: EU (Spain) (vCPU: 96, Memory (GiB): 768) 🌎
+  - Region added for metric i4i 2xlarge.search - Storage optimized - Reserved - 1 x 1 875 Nitro SSD - All Upfront - 1yr - Hourly Cost: EU (Spain) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric i4i 24xlarge.search - Storage optimized - Reserved - 6 x 3 750 Nitro SSD - Partial Upfront - 3yr - Hourly Cost: EU (Spain) (vCPU: 96, Memory (GiB): 768) 🌎
+  - Region added for metric m7g medium.search - General purpose - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Asia Pacific (Melbourne) (vCPU: 1, Memory (GiB): 4) 🌎
+  - Region added for metric i4i 32xlarge.search - Storage optimized - Reserved - 8 x 3 750 Nitro SSD - All Upfront - 1yr - Hourly Cost: EU (Spain) (vCPU: 128, Memory (GiB): 1024) 🌎
+  - Region added for metric m7g 12xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (Melbourne) (vCPU: 48, Memory (GiB): 192) 🌎
+  - Region added for metric i4i 4xlarge.search - Storage optimized - Reserved - 1 x 3 750 Nitro SSD - Partial Upfront - 3yr - Hourly Cost: EU (Spain) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric i4i 2xlarge.search - Storage optimized - Reserved - 1 x 1 875 Nitro SSD - Partial Upfront - 3yr - Hourly Cost: EU (Spain) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric i4i 12xlarge.search - Storage optimized - Reserved - 3 x 3 750 Nitro SSD - Partial Upfront - 1yr - Hourly Cost: EU (Spain) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric i4i 24xlarge.search - Storage optimized - Reserved - 6 x 3 750 Nitro SSD - Partial Upfront - 3yr - PrepaidCost: EU (Spain) (vCPU: 96, Memory (GiB): 768) 🌎
+  - Region added for metric m7g 4xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (Melbourne) (vCPU: 16, Memory (GiB): 64) 🌎
+  - Region added for metric m7g xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Asia Pacific (Melbourne) (vCPU: 4, Memory (GiB): 16) 🌎
+  - Region added for metric m7g 2xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (Melbourne) (vCPU: 8, Memory (GiB): 32) 🌎
+  - Region added for metric i4i 12xlarge.search - Storage optimized - Reserved - 3 x 3 750 Nitro SSD - Partial Upfront - 3yr - Hourly Cost: EU (Spain) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric m7g 8xlarge.search - General purpose - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Asia Pacific (Melbourne) (vCPU: 32, Memory (GiB): 128) 🌎
+  - Region added for metric i4i xlarge.search - Storage optimized - Reserved - 1 x 937 Nitro SSD - All Upfront - 1yr - Hourly Cost: EU (Spain) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric i4i xlarge.search - Storage optimized - Reserved - 1 x 937 Nitro SSD - Partial Upfront - 3yr - Hourly Cost: EU (Spain) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric m7g xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (Melbourne) (vCPU: 4, Memory (GiB): 16) 🌎
+  - Region added for metric m7g 12xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Asia Pacific (Melbourne) (vCPU: 48, Memory (GiB): 192) 🌎
+  - Region added for metric i4i 8xlarge.search - Storage optimized - Reserved - 2 x 3 750 Nitro SSD - No Upfront - 3yr - Hourly Cost: EU (Spain) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric i4i large.search - Storage optimized - Reserved - 1 x 468 Nitro SSD - Partial Upfront - 3yr - PrepaidCost: EU (Spain) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric m7g 12xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (Melbourne) (vCPU: 48, Memory (GiB): 192) 🌎
+  - Region added for metric i4i 4xlarge.search - Storage optimized - Reserved - 1 x 3 750 Nitro SSD - All Upfront - 1yr - PrepaidCost: EU (Spain) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric m7g medium.search - General purpose - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (Melbourne) (vCPU: 1, Memory (GiB): 4) 🌎
+  - Region added for metric i4i 12xlarge.search - Storage optimized - Reserved - 3 x 3 750 Nitro SSD - All Upfront - 3yr - PrepaidCost: EU (Spain) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric m7g large.search - General purpose - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (Melbourne) (vCPU: 2, Memory (GiB): 8) 🌎
+  - Region added for metric m7g medium.search - General purpose - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Asia Pacific (Melbourne) (vCPU: 1, Memory (GiB): 4) 🌎
+  - Region added for metric i4i 32xlarge.search - Storage optimized - Reserved - 8 x 3 750 Nitro SSD - Partial Upfront - 1yr - PrepaidCost: EU (Spain) (vCPU: 128, Memory (GiB): 1024) 🌎
+  - Region added for metric i4i xlarge.search - Storage optimized - Reserved - 1 x 937 Nitro SSD - All Upfront - 3yr - PrepaidCost: EU (Spain) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric i4i 12xlarge.search - Storage optimized - Reserved - 3 x 3 750 Nitro SSD - No Upfront - 1yr - Hourly Cost: EU (Spain) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric i4i large.search - Storage optimized - Reserved - 1 x 468 Nitro SSD - All Upfront - 1yr - Hourly Cost: EU (Spain) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric i4i 24xlarge.search - Storage optimized - Reserved - 6 x 3 750 Nitro SSD - All Upfront - 3yr - Hourly Cost: EU (Spain) (vCPU: 96, Memory (GiB): 768) 🌎
+  - Region added for metric i4i large.search - Storage optimized - Reserved - 1 x 468 Nitro SSD - Partial Upfront - 1yr - Hourly Cost: EU (Spain) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric m7g medium.search - General purpose - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Asia Pacific (Melbourne) (vCPU: 1, Memory (GiB): 4) 🌎
+  - Region added for metric i4i 12xlarge.search - Storage optimized - Reserved - 3 x 3 750 Nitro SSD - Partial Upfront - 1yr - PrepaidCost: EU (Spain) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric i4i 4xlarge.search - Storage optimized - Reserved - 1 x 3 750 Nitro SSD - All Upfront - 3yr - Hourly Cost: EU (Spain) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric i4i 16xlarge.search - Storage optimized - Reserved - 4 x 3 750 Nitro SSD - Partial Upfront - 3yr - PrepaidCost: EU (Spain) (vCPU: 64, Memory (GiB): 512) 🌎
+  - Region added for metric i4i xlarge.search - Storage optimized - Reserved - 1 x 937 Nitro SSD - No Upfront - 1yr - Hourly Cost: EU (Spain) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric i4i 2xlarge.search - Storage optimized - Reserved - 1 x 1 875 Nitro SSD - All Upfront - 3yr - Hourly Cost: EU (Spain) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric m7g 16xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Asia Pacific (Melbourne) (vCPU: 64, Memory (GiB): 256) 🌎
+  - Region added for metric m7g xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (Melbourne) (vCPU: 4, Memory (GiB): 16) 🌎
+  - Region added for metric i4i 4xlarge.search - Storage optimized - Reserved - 1 x 3 750 Nitro SSD - Partial Upfront - 1yr - PrepaidCost: EU (Spain) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric m7g 4xlarge.search - General purpose - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Asia Pacific (Melbourne) (vCPU: 16, Memory (GiB): 64) 🌎
+  - Region added for metric m7g large.search - General purpose - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Asia Pacific (Melbourne) (vCPU: 2, Memory (GiB): 8) 🌎
+  - Region added for metric m7g large.search - General purpose - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Asia Pacific (Melbourne) (vCPU: 2, Memory (GiB): 8) 🌎
+  - Region added for metric m7g 2xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (Melbourne) (vCPU: 8, Memory (GiB): 32) 🌎
+  - Region added for metric i4i 24xlarge.search - Storage optimized - Reserved - 6 x 3 750 Nitro SSD - All Upfront - 1yr - PrepaidCost: EU (Spain) (vCPU: 96, Memory (GiB): 768) 🌎
+  - Region added for metric i4i 4xlarge.search - Storage optimized - Reserved - 1 x 3 750 Nitro SSD - Partial Upfront - 3yr - PrepaidCost: EU (Spain) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric i4i 12xlarge.search - Storage optimized - Reserved - 3 x 3 750 Nitro SSD - All Upfront - 1yr - Hourly Cost: EU (Spain) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric m7g large.search - General purpose - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Asia Pacific (Melbourne) (vCPU: 2, Memory (GiB): 8) 🌎
+  - Region added for metric i4i 4xlarge.search - Storage optimized - Reserved - 1 x 3 750 Nitro SSD - No Upfront - 1yr - Hourly Cost: EU (Spain) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric i4i 16xlarge.search - Storage optimized - Reserved - 4 x 3 750 Nitro SSD - Partial Upfront - 1yr - PrepaidCost: EU (Spain) (vCPU: 64, Memory (GiB): 512) 🌎
+  - Region added for metric m7g 16xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (Melbourne) (vCPU: 64, Memory (GiB): 256) 🌎
+  - Region added for metric m7g 8xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Asia Pacific (Melbourne) (vCPU: 32, Memory (GiB): 128) 🌎
+  - Region added for metric m7g xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (Melbourne) (vCPU: 4, Memory (GiB): 16) 🌎
+  - Region added for metric m7g large.search - General purpose - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Asia Pacific (Melbourne) (vCPU: 2, Memory (GiB): 8) 🌎
+  - Region added for metric i4i 4xlarge.search - Storage optimized - Reserved - 1 x 3 750 Nitro SSD - No Upfront - 3yr - Hourly Cost: EU (Spain) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric m7g xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Asia Pacific (Melbourne) (vCPU: 4, Memory (GiB): 16) 🌎
+  - Region added for metric i4i 2xlarge.search - Storage optimized - Reserved - 1 x 1 875 Nitro SSD - No Upfront - 1yr - Hourly Cost: EU (Spain) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric m7g 2xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (Melbourne) (vCPU: 8, Memory (GiB): 32) 🌎
+  - Region added for metric m7g 2xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost: Asia Pacific (Melbourne) (vCPU: 8, Memory (GiB): 32) 🌎
+  - Region added for metric m7g 16xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (Melbourne) (vCPU: 64, Memory (GiB): 256) 🌎
+  - Region added for metric m7g 8xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Asia Pacific (Melbourne) (vCPU: 32, Memory (GiB): 128) 🌎
+  - Region added for metric i4i 8xlarge.search - Storage optimized - Reserved - 2 x 3 750 Nitro SSD - No Upfront - 1yr - Hourly Cost: EU (Spain) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric m7g large.search - General purpose - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Asia Pacific (Melbourne) (vCPU: 2, Memory (GiB): 8) 🌎
+  - Region added for metric m7g medium.search - General purpose - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Asia Pacific (Melbourne) (vCPU: 1, Memory (GiB): 4) 🌎
+  - Region added for metric m7g 12xlarge.search - General purpose - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Asia Pacific (Melbourne) (vCPU: 48, Memory (GiB): 192) 🌎
+  - Region added for metric i4i 24xlarge.search - Storage optimized - Reserved - 6 x 3 750 Nitro SSD - Partial Upfront - 1yr - PrepaidCost: EU (Spain) (vCPU: 96, Memory (GiB): 768) 🌎
+  - Region added for metric m7g 12xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost: Asia Pacific (Melbourne) (vCPU: 48, Memory (GiB): 192) 🌎
+  - Region added for metric m7g 2xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Asia Pacific (Melbourne) (vCPU: 8, Memory (GiB): 32) 🌎
+  - Region added for metric m7g xlarge.search - General purpose - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Asia Pacific (Melbourne) (vCPU: 4, Memory (GiB): 16) 🌎
+  - Region added for metric i4i 32xlarge.search - Storage optimized - Reserved - 8 x 3 750 Nitro SSD - All Upfront - 3yr - Hourly Cost: EU (Spain) (vCPU: 128, Memory (GiB): 1024) 🌎
+  - Region added for metric i4i 24xlarge.search - Storage optimized - Reserved - 6 x 3 750 Nitro SSD - Partial Upfront - 1yr - Hourly Cost: EU (Spain) (vCPU: 96, Memory (GiB): 768) 🌎
+  - Region added for metric i4i xlarge.search - Storage optimized - Reserved - 1 x 937 Nitro SSD - Partial Upfront - 3yr - PrepaidCost: EU (Spain) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric m7g large.search - General purpose - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (Melbourne) (vCPU: 2, Memory (GiB): 8) 🌎
+  - Region added for metric i4i 12xlarge.search - Storage optimized - Reserved - 3 x 3 750 Nitro SSD - No Upfront - 3yr - Hourly Cost: EU (Spain) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric i4i 12xlarge.search - Storage optimized - Reserved - 3 x 3 750 Nitro SSD - Partial Upfront - 3yr - PrepaidCost: EU (Spain) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric i4i large.search - Storage optimized - Reserved - 1 x 468 Nitro SSD - No Upfront - 3yr - Hourly Cost: EU (Spain) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric m7g 4xlarge.search - General purpose - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost: Asia Pacific (Melbourne) (vCPU: 16, Memory (GiB): 64) 🌎
+  - Region added for metric i4i 2xlarge.search - Storage optimized - Reserved - 1 x 1 875 Nitro SSD - Partial Upfront - 1yr - PrepaidCost: EU (Spain) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric m7g 16xlarge.search - General purpose - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost: Asia Pacific (Melbourne) (vCPU: 64, Memory (GiB): 256) 🌎
+  - Region added for metric m7g 2xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Asia Pacific (Melbourne) (vCPU: 8, Memory (GiB): 32) 🌎
+  - Region added for metric m7g 12xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Asia Pacific (Melbourne) (vCPU: 48, Memory (GiB): 192) 🌎
+  - Region added for metric i4i 24xlarge.search - Storage optimized - Reserved - 6 x 3 750 Nitro SSD - No Upfront - 1yr - Hourly Cost: EU (Spain) (vCPU: 96, Memory (GiB): 768) 🌎
+  - Region added for metric m7g 8xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost: Asia Pacific (Melbourne) (vCPU: 32, Memory (GiB): 128) 🌎
+  - Region added for metric m7g 8xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (Melbourne) (vCPU: 32, Memory (GiB): 128) 🌎
+  - Region added for metric m7g 8xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost: Asia Pacific (Melbourne) (vCPU: 32, Memory (GiB): 128) 🌎
+  - Region added for metric i4i 8xlarge.search - Storage optimized - Reserved - 2 x 3 750 Nitro SSD - All Upfront - 3yr - Hourly Cost: EU (Spain) (vCPU: 32, Memory (GiB): 256) 🌎
+  - Region added for metric i4i xlarge.search - Storage optimized - Reserved - 1 x 937 Nitro SSD - No Upfront - 3yr - Hourly Cost: EU (Spain) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric i4i xlarge.search - Storage optimized - Reserved - 1 x 937 Nitro SSD - Partial Upfront - 1yr - Hourly Cost: EU (Spain) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric i4i 32xlarge.search - Storage optimized - Reserved - 8 x 3 750 Nitro SSD - All Upfront - 1yr - PrepaidCost: EU (Spain) (vCPU: 128, Memory (GiB): 1024) 🌎
+  - Region added for metric m7g medium.search - General purpose - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (Melbourne) (vCPU: 1, Memory (GiB): 4) 🌎
+  - Region added for metric i4i 2xlarge.search - Storage optimized - Reserved - 1 x 1 875 Nitro SSD - Partial Upfront - 3yr - PrepaidCost: EU (Spain) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric i4i 24xlarge.search - Storage optimized - Reserved - 6 x 3 750 Nitro SSD - No Upfront - 3yr - Hourly Cost: EU (Spain) (vCPU: 96, Memory (GiB): 768) 🌎
+  - Region added for metric i4i 4xlarge.search - Storage optimized - Reserved - 1 x 3 750 Nitro SSD - All Upfront - 1yr - Hourly Cost: EU (Spain) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric i4i 2xlarge.search - Storage optimized - Reserved - 1 x 1 875 Nitro SSD - All Upfront - 3yr - PrepaidCost: EU (Spain) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric i4i 12xlarge.search - Storage optimized - Reserved - 3 x 3 750 Nitro SSD - All Upfront - 1yr - PrepaidCost: EU (Spain) (vCPU: 48, Memory (GiB): 384) 🌎
+  - Region added for metric m7g 8xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost: Asia Pacific (Melbourne) (vCPU: 32, Memory (GiB): 128) 🌎
+  - Region added for metric i4i large.search - Storage optimized - Reserved - 1 x 468 Nitro SSD - All Upfront - 1yr - PrepaidCost: EU (Spain) (vCPU: 2, Memory (GiB): 16) 🌎
+  - Region added for metric i4i 2xlarge.search - Storage optimized - Reserved - 1 x 1 875 Nitro SSD - No Upfront - 3yr - Hourly Cost: EU (Spain) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric m7g xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost: Asia Pacific (Melbourne) (vCPU: 4, Memory (GiB): 16) 🌎
+  - Region added for metric m7g xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost: Asia Pacific (Melbourne) (vCPU: 4, Memory (GiB): 16) 🌎
+  - Region added for metric i4i 2xlarge.search - Storage optimized - Reserved - 1 x 1 875 Nitro SSD - Partial Upfront - 1yr - Hourly Cost: EU (Spain) (vCPU: 8, Memory (GiB): 64) 🌎
+  - Region added for metric i4i 16xlarge.search - Storage optimized - Reserved - 4 x 3 750 Nitro SSD - Partial Upfront - 3yr - Hourly Cost: EU (Spain) (vCPU: 64, Memory (GiB): 512) 🌎
+  - Region added for metric i4i 4xlarge.search - Storage optimized - Reserved - 1 x 3 750 Nitro SSD - All Upfront - 3yr - PrepaidCost: EU (Spain) (vCPU: 16, Memory (GiB): 128) 🌎
+  - Region added for metric i4i xlarge.search - Storage optimized - Reserved - 1 x 937 Nitro SSD - Partial Upfront - 1yr - PrepaidCost: EU (Spain) (vCPU: 4, Memory (GiB): 32) 🌎
+  - Region added for metric m7g 4xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost: Asia Pacific (Melbourne) (vCPU: 16, Memory (GiB): 64) 🌎
+  - Region added for metric i4i 32xlarge.search - Storage optimized - Reserved - 8 x 3 750 Nitro SSD - No Upfront - 1yr - Hourly Cost: EU (Spain) (vCPU: 128, Memory (GiB): 1024) 🌎
+  - Region added for metric i4i 16xlarge.search - Storage optimized - Reserved - 4 x 3 750 Nitro SSD - Partial Upfront - 1yr - Hourly Cost: EU (Spain) (vCPU: 64, Memory (GiB): 512) 🌎
+
+
 ## 2025-06-17 14:27
 
 **Modified services:**

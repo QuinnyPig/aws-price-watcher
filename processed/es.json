@@ -61,6 +61,7 @@
         "Israel (Tel Aviv) (vCPU: 4, Memory (GiB): 32)": "0.0000000000",
         "EU (Zurich) (vCPU: 4, Memory (GiB): 32)": "0.0000000000",
         "EU (Stockholm) (vCPU: 4, Memory (GiB): 32)": "0.0000000000",
+        "EU (Spain) (vCPU: 4, Memory (GiB): 32)": "0.0000000000",
         "EU (Paris) (vCPU: 4, Memory (GiB): 32)": "0.0000000000",
         "EU (Milan) (vCPU: 4, Memory (GiB): 32)": "0.0000000000",
         "EU (London) (vCPU: 4, Memory (GiB): 32)": "0.0000000000",
@@ -423,6 +424,7 @@
         "Asia Pacific (Singapore) (vCPU: 48, Memory (GiB): 192)": "2.8040000000",
         "Asia Pacific (Seoul) (vCPU: 48, Memory (GiB): 192)": "2.7570000000",
         "Asia Pacific (Mumbai) (vCPU: 48, Memory (GiB): 192)": "1.6040000000",
+        "Asia Pacific (Melbourne) (vCPU: 48, Memory (GiB): 192)": "2.8030000000",
         "Asia Pacific (Hyderabad) (vCPU: 48, Memory (GiB): 192)": "1.6040000000"
     },
     "i4i 8xlarge.search - Storage optimized - Reserved - 2 x 3 750 Nitro SSD - All Upfront - 1yr - Hourly Cost": {
@@ -437,6 +439,7 @@
         "Israel (Tel Aviv) (vCPU: 32, Memory (GiB): 256)": "0.0000000000",
         "EU (Zurich) (vCPU: 32, Memory (GiB): 256)": "0.0000000000",
         "EU (Stockholm) (vCPU: 32, Memory (GiB): 256)": "0.0000000000",
+        "EU (Spain) (vCPU: 32, Memory (GiB): 256)": "0.0000000000",
         "EU (Paris) (vCPU: 32, Memory (GiB): 256)": "0.0000000000",
         "EU (Milan) (vCPU: 32, Memory (GiB): 256)": "0.0000000000",
         "EU (London) (vCPU: 32, Memory (GiB): 256)": "0.0000000000",
@@ -565,6 +568,7 @@
         "Asia Pacific (Singapore) (vCPU: 48, Memory (GiB): 192)": "51265",
         "Asia Pacific (Seoul) (vCPU: 48, Memory (GiB): 192)": "50407",
         "Asia Pacific (Mumbai) (vCPU: 48, Memory (GiB): 192)": "29316",
+        "Asia Pacific (Melbourne) (vCPU: 48, Memory (GiB): 192)": "51252.307",
         "Asia Pacific (Hyderabad) (vCPU: 48, Memory (GiB): 192)": "29316"
     },
     "r7i xlarge.search - Memory optimized - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost": {
@@ -616,6 +620,7 @@
         "Asia Pacific (Singapore) (vCPU: 32, Memory (GiB): 128)": "0.9080000000",
         "Asia Pacific (Seoul) (vCPU: 32, Memory (GiB): 128)": "0.8920000000",
         "Asia Pacific (Mumbai) (vCPU: 32, Memory (GiB): 128)": "0.5190000000",
+        "Asia Pacific (Melbourne) (vCPU: 32, Memory (GiB): 128)": "0.9080000000",
         "Asia Pacific (Hyderabad) (vCPU: 32, Memory (GiB): 128)": "0.5190000000"
     },
     "r5 2xlarge.search - Memory optimized - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost": {
@@ -882,6 +887,7 @@
         "Asia Pacific (Singapore) (vCPU: 64, Memory (GiB): 256)": "15900",
         "Asia Pacific (Seoul) (vCPU: 64, Memory (GiB): 256)": "15636",
         "Asia Pacific (Mumbai) (vCPU: 64, Memory (GiB): 256)": "9091",
+        "Asia Pacific (Melbourne) (vCPU: 64, Memory (GiB): 256)": "15899.4",
         "Asia Pacific (Hyderabad) (vCPU: 64, Memory (GiB): 256)": "9091"
     },
     "c4 xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost": {
@@ -913,6 +919,7 @@
         "Israel (Tel Aviv) (vCPU: 2, Memory (GiB): 16)": "0.0800000000",
         "EU (Zurich) (vCPU: 2, Memory (GiB): 16)": "0.0900000000",
         "EU (Stockholm) (vCPU: 2, Memory (GiB): 16)": "0.0720000000",
+        "EU (Spain) (vCPU: 2, Memory (GiB): 16)": "0.0760000000",
         "EU (Paris) (vCPU: 2, Memory (GiB): 16)": "0.0800000000",
         "EU (Milan) (vCPU: 2, Memory (GiB): 16)": "0.0800000000",
         "EU (London) (vCPU: 2, Memory (GiB): 16)": "0.0800000000",
@@ -1000,6 +1007,7 @@
         "Israel (Tel Aviv) (vCPU: 64, Memory (GiB): 512)": "7.0180000000",
         "EU (Zurich) (vCPU: 64, Memory (GiB): 512)": "7.9510000000",
         "EU (Stockholm) (vCPU: 64, Memory (GiB): 512)": "6.3350000000",
+        "EU (Spain) (vCPU: 64, Memory (GiB): 512)": "6.6830000000",
         "EU (Paris) (vCPU: 64, Memory (GiB): 512)": "7.0340000000",
         "EU (Milan) (vCPU: 64, Memory (GiB): 512)": "7.0340000000",
         "EU (London) (vCPU: 64, Memory (GiB): 512)": "7.0340000000",
@@ -1647,6 +1655,7 @@
         "Asia Pacific (Singapore) (vCPU: 64, Memory (GiB): 256)": "0.0000000000",
         "Asia Pacific (Seoul) (vCPU: 64, Memory (GiB): 256)": "0.0000000000",
         "Asia Pacific (Mumbai) (vCPU: 64, Memory (GiB): 256)": "0.0000000000",
+        "Asia Pacific (Melbourne) (vCPU: 64, Memory (GiB): 256)": "0.0000000000",
         "Asia Pacific (Hyderabad) (vCPU: 64, Memory (GiB): 256)": "0.0000000000"
     },
     "r7gd 16xlarge.search - Memory optimized - OnDemand - 2 x 1900 NVMe SSD - - - Hourly Cost": {
@@ -2128,6 +2137,7 @@
         "Asia Pacific (Singapore) (vCPU: 8, Memory (GiB): 32)": "3855",
         "Asia Pacific (Seoul) (vCPU: 8, Memory (GiB): 32)": "3792",
         "Asia Pacific (Mumbai) (vCPU: 8, Memory (GiB): 32)": "2204",
+        "Asia Pacific (Melbourne) (vCPU: 8, Memory (GiB): 32)": "3854.838",
         "Asia Pacific (Hyderabad) (vCPU: 8, Memory (GiB): 32)": "2204"
     },
     "c6g 4xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost": {
@@ -2253,6 +2263,7 @@
         "Asia Pacific (Singapore) (vCPU: 1, Memory (GiB): 4)": "484",
         "Asia Pacific (Seoul) (vCPU: 1, Memory (GiB): 4)": "473",
         "Asia Pacific (Mumbai) (vCPU: 1, Memory (GiB): 4)": "273",
+        "Asia Pacific (Melbourne) (vCPU: 1, Memory (GiB): 4)": "478.296",
         "Asia Pacific (Hyderabad) (vCPU: 1, Memory (GiB): 4)": "273"
     },
     "r7gd 12xlarge.search - Memory optimized - OnDemand - 2 x 1425 NVMe SSD - - - Hourly Cost": {
@@ -2300,6 +2311,7 @@
         "Asia Pacific (Singapore) (vCPU: 2, Memory (GiB): 8)": "0.0570000000",
         "Asia Pacific (Seoul) (vCPU: 2, Memory (GiB): 8)": "0.0560000000",
         "Asia Pacific (Mumbai) (vCPU: 2, Memory (GiB): 8)": "0.0320000000",
+        "Asia Pacific (Melbourne) (vCPU: 2, Memory (GiB): 8)": "0.0570000000",
         "Asia Pacific (Hyderabad) (vCPU: 2, Memory (GiB): 8)": "0.0320000000"
     },
     "i4g 2xlarge.search - Storage optimized - Reserved - 1 x 1 875 Nitro SSD - No Upfront - 3yr - Hourly Cost": {
@@ -2466,6 +2478,7 @@
         "Asia Pacific (Singapore) (vCPU: 16, Memory (GiB): 64)": "0.0000000000",
         "Asia Pacific (Seoul) (vCPU: 16, Memory (GiB): 64)": "0.0000000000",
         "Asia Pacific (Mumbai) (vCPU: 16, Memory (GiB): 64)": "0.0000000000",
+        "Asia Pacific (Melbourne) (vCPU: 16, Memory (GiB): 64)": "0.0000000000",
         "Asia Pacific (Hyderabad) (vCPU: 16, Memory (GiB): 64)": "0.0000000000"
     },
     "c6g 2xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost": {
@@ -2523,6 +2536,7 @@
         "Asia Pacific (Singapore) (vCPU: 32, Memory (GiB): 128)": "17798",
         "Asia Pacific (Seoul) (vCPU: 32, Memory (GiB): 128)": "17502",
         "Asia Pacific (Mumbai) (vCPU: 32, Memory (GiB): 128)": "10177",
+        "Asia Pacific (Melbourne) (vCPU: 32, Memory (GiB): 128)": "17791.56",
         "Asia Pacific (Hyderabad) (vCPU: 32, Memory (GiB): 128)": "10177"
     },
     "r4 8xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 3yr - Hourly Cost": {
@@ -2556,6 +2570,7 @@
         "Israel (Tel Aviv) (vCPU: 128, Memory (GiB): 1024)": "10.5780000000",
         "EU (Zurich) (vCPU: 128, Memory (GiB): 1024)": "11.9840000000",
         "EU (Stockholm) (vCPU: 128, Memory (GiB): 1024)": "9.5470000000",
+        "EU (Spain) (vCPU: 128, Memory (GiB): 1024)": "10.0740000000",
         "EU (Paris) (vCPU: 128, Memory (GiB): 1024)": "10.6020000000",
         "EU (Milan) (vCPU: 128, Memory (GiB): 1024)": "10.6020000000",
         "EU (London) (vCPU: 128, Memory (GiB): 1024)": "10.6020000000",
@@ -2770,6 +2785,7 @@
         "Asia Pacific (Singapore) (vCPU: 64, Memory (GiB): 256)": "30850",
         "Asia Pacific (Seoul) (vCPU: 64, Memory (GiB): 256)": "30338",
         "Asia Pacific (Mumbai) (vCPU: 64, Memory (GiB): 256)": "17640",
+        "Asia Pacific (Melbourne) (vCPU: 64, Memory (GiB): 256)": "30850.092",
         "Asia Pacific (Hyderabad) (vCPU: 64, Memory (GiB): 256)": "17640"
     },
     "i4g 2xlarge.search - Storage optimized - OnDemand - 1 x 1 875 Nitro SSD - - - Hourly Cost": {
@@ -2802,6 +2818,7 @@
         "Asia Pacific (Singapore) (vCPU: 8, Memory (GiB): 32)": "0.0000000000",
         "Asia Pacific (Seoul) (vCPU: 8, Memory (GiB): 32)": "0.0000000000",
         "Asia Pacific (Mumbai) (vCPU: 8, Memory (GiB): 32)": "0.0000000000",
+        "Asia Pacific (Melbourne) (vCPU: 8, Memory (GiB): 32)": "0.0000000000",
         "Asia Pacific (Hyderabad) (vCPU: 8, Memory (GiB): 32)": "0.0000000000"
     },
     "m4 4xlarge.search - General purpose - OnDemand - EBS Only - - - Hourly Cost": {
@@ -3079,6 +3096,7 @@
         "Asia Pacific (Singapore) (vCPU: 8, Memory (GiB): 32)": "0.4670000000",
         "Asia Pacific (Seoul) (vCPU: 8, Memory (GiB): 32)": "0.4600000000",
         "Asia Pacific (Mumbai) (vCPU: 8, Memory (GiB): 32)": "0.2670000000",
+        "Asia Pacific (Melbourne) (vCPU: 8, Memory (GiB): 32)": "0.4670000000",
         "Asia Pacific (Hyderabad) (vCPU: 8, Memory (GiB): 32)": "0.2670000000"
     },
     "i4i 32xlarge.search - Storage optimized - Reserved - 8 x 3 750 Nitro SSD - Partial Upfront - 3yr - Hourly Cost": {
@@ -3093,6 +3111,7 @@
         "Israel (Tel Aviv) (vCPU: 128, Memory (GiB): 1024)": "5.0860000000",
         "EU (Zurich) (vCPU: 128, Memory (GiB): 1024)": "5.7620000000",
         "EU (Stockholm) (vCPU: 128, Memory (GiB): 1024)": "4.5900000000",
+        "EU (Spain) (vCPU: 128, Memory (GiB): 1024)": "4.8440000000",
         "EU (Paris) (vCPU: 128, Memory (GiB): 1024)": "5.0970000000",
         "EU (Milan) (vCPU: 128, Memory (GiB): 1024)": "5.0970000000",
         "EU (London) (vCPU: 128, Memory (GiB): 1024)": "5.0970000000",
@@ -3204,6 +3223,7 @@
         "Israel (Tel Aviv) (vCPU: 32, Memory (GiB): 256)": "28960",
         "EU (Zurich) (vCPU: 32, Memory (GiB): 256)": "32809",
         "EU (Stockholm) (vCPU: 32, Memory (GiB): 256)": "26135",
+        "EU (Spain) (vCPU: 32, Memory (GiB): 256)": "27576.042",
         "EU (Paris) (vCPU: 32, Memory (GiB): 256)": "29028",
         "EU (Milan) (vCPU: 32, Memory (GiB): 256)": "29028",
         "EU (London) (vCPU: 32, Memory (GiB): 256)": "29028",
@@ -3297,6 +3317,7 @@
         "Israel (Tel Aviv) (vCPU: 16, Memory (GiB): 128)": "0.8520000000",
         "EU (Zurich) (vCPU: 16, Memory (GiB): 128)": "0.9650000000",
         "EU (Stockholm) (vCPU: 16, Memory (GiB): 128)": "0.7680000000",
+        "EU (Spain) (vCPU: 16, Memory (GiB): 128)": "0.8110000000",
         "EU (Paris) (vCPU: 16, Memory (GiB): 128)": "0.8540000000",
         "EU (Milan) (vCPU: 16, Memory (GiB): 128)": "0.8540000000",
         "EU (London) (vCPU: 16, Memory (GiB): 128)": "0.8540000000",
@@ -3436,6 +3457,7 @@
         "Asia Pacific (Singapore) (vCPU: 64, Memory (GiB): 256)": "2.8170000000",
         "Asia Pacific (Seoul) (vCPU: 64, Memory (GiB): 256)": "2.7710000000",
         "Asia Pacific (Mumbai) (vCPU: 64, Memory (GiB): 256)": "1.6110000000",
+        "Asia Pacific (Melbourne) (vCPU: 64, Memory (GiB): 256)": "2.8170000000",
         "Asia Pacific (Hyderabad) (vCPU: 64, Memory (GiB): 256)": "1.6110000000"
     },
     "c6g 2xlarge.search - Compute optimized - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost": {
@@ -4367,6 +4389,7 @@
         "Asia Pacific (Singapore) (vCPU: 16, Memory (GiB): 64)": "3976",
         "Asia Pacific (Seoul) (vCPU: 16, Memory (GiB): 64)": "3909",
         "Asia Pacific (Mumbai) (vCPU: 16, Memory (GiB): 64)": "2274",
+        "Asia Pacific (Melbourne) (vCPU: 16, Memory (GiB): 64)": "3977.04",
         "Asia Pacific (Hyderabad) (vCPU: 16, Memory (GiB): 64)": "2274"
     },
     "r7i 8xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost": {
@@ -4445,6 +4468,7 @@
         "Asia Pacific (Singapore) (vCPU: 16, Memory (GiB): 64)": "7715",
         "Asia Pacific (Seoul) (vCPU: 16, Memory (GiB): 64)": "7584",
         "Asia Pacific (Mumbai) (vCPU: 16, Memory (GiB): 64)": "4413",
+        "Asia Pacific (Melbourne) (vCPU: 16, Memory (GiB): 64)": "7709.676",
         "Asia Pacific (Hyderabad) (vCPU: 16, Memory (GiB): 64)": "4413"
     },
     "r6gd 8xlarge.search - Memory optimized - Reserved - 1 x 1900 NVMe SSD - Partial Upfront - 3yr - Hourly Cost": {
@@ -4671,6 +4695,7 @@
         "Israel (Tel Aviv) (vCPU: 64, Memory (GiB): 512)": "128301",
         "EU (Zurich) (vCPU: 64, Memory (GiB): 512)": "145356",
         "EU (Stockholm) (vCPU: 64, Memory (GiB): 512)": "115813",
+        "EU (Spain) (vCPU: 64, Memory (GiB): 512)": "122183.078",
         "EU (Paris) (vCPU: 64, Memory (GiB): 512)": "128591",
         "EU (Milan) (vCPU: 64, Memory (GiB): 512)": "128591",
         "EU (London) (vCPU: 64, Memory (GiB): 512)": "128591",
@@ -4717,6 +4742,7 @@
         "Asia Pacific (Singapore) (vCPU: 16, Memory (GiB): 64)": "0.0000000000",
         "Asia Pacific (Seoul) (vCPU: 16, Memory (GiB): 64)": "0.0000000000",
         "Asia Pacific (Mumbai) (vCPU: 16, Memory (GiB): 64)": "0.0000000000",
+        "Asia Pacific (Melbourne) (vCPU: 16, Memory (GiB): 64)": "0.0000000000",
         "Asia Pacific (Hyderabad) (vCPU: 16, Memory (GiB): 64)": "0.0000000000"
     },
     "c6g 8xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost": {
@@ -4999,6 +5025,7 @@
         "Asia Pacific (Singapore) (vCPU: 2, Memory (GiB): 8)": "1110",
         "Asia Pacific (Seoul) (vCPU: 2, Memory (GiB): 8)": "1091",
         "Asia Pacific (Mumbai) (vCPU: 2, Memory (GiB): 8)": "637",
+        "Asia Pacific (Melbourne) (vCPU: 2, Memory (GiB): 8)": "1103.76",
         "Asia Pacific (Hyderabad) (vCPU: 2, Memory (GiB): 8)": "637"
     },
     "c4 8xlarge.search - Compute optimized - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost": {
@@ -5031,6 +5058,7 @@
         "Israel (Tel Aviv) (vCPU: 8, Memory (GiB): 64)": "7243",
         "EU (Zurich) (vCPU: 8, Memory (GiB): 64)": "8199",
         "EU (Stockholm) (vCPU: 8, Memory (GiB): 64)": "6531",
+        "EU (Spain) (vCPU: 8, Memory (GiB): 64)": "6895.434",
         "EU (Paris) (vCPU: 8, Memory (GiB): 64)": "7254",
         "EU (Milan) (vCPU: 8, Memory (GiB): 64)": "7254",
         "EU (London) (vCPU: 8, Memory (GiB): 64)": "7254",
@@ -5338,6 +5366,7 @@
         "Asia Pacific (Singapore) (vCPU: 16, Memory (GiB): 64)": "8902",
         "Asia Pacific (Seoul) (vCPU: 16, Memory (GiB): 64)": "8751",
         "Asia Pacific (Mumbai) (vCPU: 16, Memory (GiB): 64)": "5092",
+        "Asia Pacific (Melbourne) (vCPU: 16, Memory (GiB): 64)": "8908.92",
         "Asia Pacific (Hyderabad) (vCPU: 16, Memory (GiB): 64)": "5092"
     },
     "im4gn 4xlarge.search - Storage optimized - Reserved - 1 x 7500 SSD - All Upfront - 1yr - PrepaidCost": {
@@ -5522,6 +5551,7 @@
         "Israel (Tel Aviv) (vCPU: 128, Memory (GiB): 1024)": "133654",
         "EU (Zurich) (vCPU: 128, Memory (GiB): 1024)": "151412",
         "EU (Stockholm) (vCPU: 128, Memory (GiB): 1024)": "120625",
+        "EU (Spain) (vCPU: 128, Memory (GiB): 1024)": "127300.32",
         "EU (Paris) (vCPU: 128, Memory (GiB): 1024)": "133949",
         "EU (Milan) (vCPU: 128, Memory (GiB): 1024)": "133949",
         "EU (London) (vCPU: 128, Memory (GiB): 1024)": "133949",
@@ -5786,6 +5816,7 @@
         "Israel (Tel Aviv) (vCPU: 32, Memory (GiB): 256)": "14925",
         "EU (Zurich) (vCPU: 32, Memory (GiB): 256)": "16909",
         "EU (Stockholm) (vCPU: 32, Memory (GiB): 256)": "13470",
+        "EU (Spain) (vCPU: 32, Memory (GiB): 256)": "14208.72",
         "EU (Paris) (vCPU: 32, Memory (GiB): 256)": "14961",
         "EU (Milan) (vCPU: 32, Memory (GiB): 256)": "14961",
         "EU (London) (vCPU: 32, Memory (GiB): 256)": "14961",
@@ -6119,6 +6150,7 @@
         "Asia Pacific (Singapore) (vCPU: 1, Memory (GiB): 4)": "0.0000000000",
         "Asia Pacific (Seoul) (vCPU: 1, Memory (GiB): 4)": "0.0000000000",
         "Asia Pacific (Mumbai) (vCPU: 1, Memory (GiB): 4)": "0.0000000000",
+        "Asia Pacific (Melbourne) (vCPU: 1, Memory (GiB): 4)": "0.0000000000",
         "Asia Pacific (Hyderabad) (vCPU: 1, Memory (GiB): 4)": "0.0000000000"
     },
     "c7g xlarge.search - Compute optimized - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost": {
@@ -6302,6 +6334,7 @@
         "Asia Pacific (Singapore) (vCPU: 48, Memory (GiB): 192)": "1.0160000000",
         "Asia Pacific (Seoul) (vCPU: 48, Memory (GiB): 192)": "0.9990000000",
         "Asia Pacific (Mumbai) (vCPU: 48, Memory (GiB): 192)": "0.5810000000",
+        "Asia Pacific (Melbourne) (vCPU: 48, Memory (GiB): 192)": "1.0160000000",
         "Asia Pacific (Hyderabad) (vCPU: 48, Memory (GiB): 192)": "0.5810000000"
     },
     "r4 8xlarge.search - Memory optimized - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost": {
@@ -6430,6 +6463,7 @@
         "Israel (Tel Aviv) (vCPU: 64, Memory (GiB): 512)": "57914",
         "EU (Zurich) (vCPU: 64, Memory (GiB): 512)": "65612",
         "EU (Stockholm) (vCPU: 64, Memory (GiB): 512)": "52277",
+        "EU (Spain) (vCPU: 64, Memory (GiB): 512)": "55152.084",
         "EU (Paris) (vCPU: 64, Memory (GiB): 512)": "58045",
         "EU (Milan) (vCPU: 64, Memory (GiB): 512)": "58045",
         "EU (London) (vCPU: 64, Memory (GiB): 512)": "58045",
@@ -6690,6 +6724,7 @@
         "Israel (Tel Aviv) (vCPU: 32, Memory (GiB): 256)": "33415",
         "EU (Zurich) (vCPU: 32, Memory (GiB): 256)": "37856",
         "EU (Stockholm) (vCPU: 32, Memory (GiB): 256)": "30156",
+        "EU (Spain) (vCPU: 32, Memory (GiB): 256)": "31825.08",
         "EU (Paris) (vCPU: 32, Memory (GiB): 256)": "33494",
         "EU (Milan) (vCPU: 32, Memory (GiB): 256)": "33494",
         "EU (London) (vCPU: 32, Memory (GiB): 256)": "33494",
@@ -6726,6 +6761,7 @@
         "Israel (Tel Aviv) (vCPU: 64, Memory (GiB): 512)": "0.0000000000",
         "EU (Zurich) (vCPU: 64, Memory (GiB): 512)": "0.0000000000",
         "EU (Stockholm) (vCPU: 64, Memory (GiB): 512)": "0.0000000000",
+        "EU (Spain) (vCPU: 64, Memory (GiB): 512)": "0.0000000000",
         "EU (Paris) (vCPU: 64, Memory (GiB): 512)": "0.0000000000",
         "EU (Milan) (vCPU: 64, Memory (GiB): 512)": "0.0000000000",
         "EU (London) (vCPU: 64, Memory (GiB): 512)": "0.0000000000",
@@ -7551,6 +7587,7 @@
         "Asia Pacific (Singapore) (vCPU: 64, Memory (GiB): 256)": "68345",
         "Asia Pacific (Seoul) (vCPU: 64, Memory (GiB): 256)": "67210",
         "Asia Pacific (Mumbai) (vCPU: 64, Memory (GiB): 256)": "39079",
+        "Asia Pacific (Melbourne) (vCPU: 64, Memory (GiB): 256)": "68344.819",
         "Asia Pacific (Hyderabad) (vCPU: 64, Memory (GiB): 256)": "39079"
     },
     "i4i 16xlarge.search - Storage optimized - Reserved - 4 x 3 750 Nitro SSD - No Upfront - 3yr - Hourly Cost": {
@@ -7565,6 +7602,7 @@
         "Israel (Tel Aviv) (vCPU: 64, Memory (GiB): 512)": "5.2890000000",
         "EU (Zurich) (vCPU: 64, Memory (GiB): 512)": "5.9920000000",
         "EU (Stockholm) (vCPU: 64, Memory (GiB): 512)": "4.7740000000",
+        "EU (Spain) (vCPU: 64, Memory (GiB): 512)": "5.0370000000",
         "EU (Paris) (vCPU: 64, Memory (GiB): 512)": "5.3010000000",
         "EU (Milan) (vCPU: 64, Memory (GiB): 512)": "5.3010000000",
         "EU (London) (vCPU: 64, Memory (GiB): 512)": "5.3010000000",
@@ -7724,6 +7762,7 @@
         "Israel (Tel Aviv) (vCPU: 32, Memory (GiB): 256)": "1.2720000000",
         "EU (Zurich) (vCPU: 32, Memory (GiB): 256)": "1.4410000000",
         "EU (Stockholm) (vCPU: 32, Memory (GiB): 256)": "1.1480000000",
+        "EU (Spain) (vCPU: 32, Memory (GiB): 256)": "1.2110000000",
         "EU (Paris) (vCPU: 32, Memory (GiB): 256)": "1.2750000000",
         "EU (Milan) (vCPU: 32, Memory (GiB): 256)": "1.2750000000",
         "EU (London) (vCPU: 32, Memory (GiB): 256)": "1.2750000000",
@@ -7759,6 +7798,7 @@
         "Mexico (Central) (vCPU: 48, Memory (GiB): 384)": "0.0000000000",
         "EU (Zurich) (vCPU: 48, Memory (GiB): 384)": "0.0000000000",
         "EU (Stockholm) (vCPU: 48, Memory (GiB): 384)": "0.0000000000",
+        "EU (Spain) (vCPU: 48, Memory (GiB): 384)": "0.0000000000",
         "EU (Paris) (vCPU: 48, Memory (GiB): 384)": "0.0000000000",
         "EU (Milan) (vCPU: 48, Memory (GiB): 384)": "0.0000000000",
         "EU (London) (vCPU: 48, Memory (GiB): 384)": "0.0000000000",
@@ -7838,6 +7878,7 @@
         "Asia Pacific (Singapore) (vCPU: 48, Memory (GiB): 192)": "23140",
         "Asia Pacific (Seoul) (vCPU: 48, Memory (GiB): 192)": "22753",
         "Asia Pacific (Mumbai) (vCPU: 48, Memory (GiB): 192)": "13233",
+        "Asia Pacific (Melbourne) (vCPU: 48, Memory (GiB): 192)": "23134.722",
         "Asia Pacific (Hyderabad) (vCPU: 48, Memory (GiB): 192)": "13233"
     },
     "r3 4xlarge.search - Memory optimized - OnDemand - 1 x 320 SSD - - - Hourly Cost": {
@@ -7914,6 +7955,7 @@
         "Israel (Tel Aviv) (vCPU: 32, Memory (GiB): 256)": "1.7040000000",
         "EU (Zurich) (vCPU: 32, Memory (GiB): 256)": "1.9300000000",
         "EU (Stockholm) (vCPU: 32, Memory (GiB): 256)": "1.5380000000",
+        "EU (Spain) (vCPU: 32, Memory (GiB): 256)": "1.6220000000",
         "EU (Paris) (vCPU: 32, Memory (GiB): 256)": "1.7080000000",
         "EU (Milan) (vCPU: 32, Memory (GiB): 256)": "1.7080000000",
         "EU (London) (vCPU: 32, Memory (GiB): 256)": "1.7080000000",
@@ -8735,6 +8777,7 @@
         "Asia Pacific (Singapore) (vCPU: 32, Memory (GiB): 128)": "1.8690000000",
         "Asia Pacific (Seoul) (vCPU: 32, Memory (GiB): 128)": "1.8380000000",
         "Asia Pacific (Mumbai) (vCPU: 32, Memory (GiB): 128)": "1.0690000000",
+        "Asia Pacific (Melbourne) (vCPU: 32, Memory (GiB): 128)": "1.8690000000",
         "Asia Pacific (Hyderabad) (vCPU: 32, Memory (GiB): 128)": "1.0690000000"
     },
     "c5 xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost": {
@@ -9123,6 +9166,7 @@
         "Asia Pacific (Singapore) (vCPU: 64, Memory (GiB): 256)": "35596",
         "Asia Pacific (Seoul) (vCPU: 64, Memory (GiB): 256)": "35005",
         "Asia Pacific (Mumbai) (vCPU: 64, Memory (GiB): 256)": "20354",
+        "Asia Pacific (Melbourne) (vCPU: 64, Memory (GiB): 256)": "35609.4",
         "Asia Pacific (Hyderabad) (vCPU: 64, Memory (GiB): 256)": "20354"
     },
     "m5 4xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost": {
@@ -9353,6 +9397,7 @@
         "Asia Pacific (Singapore) (vCPU: 1, Memory (GiB): 4)": "249",
         "Asia Pacific (Seoul) (vCPU: 1, Memory (GiB): 4)": "244",
         "Asia Pacific (Mumbai) (vCPU: 1, Memory (GiB): 4)": "141",
+        "Asia Pacific (Melbourne) (vCPU: 1, Memory (GiB): 4)": "245.28",
         "Asia Pacific (Hyderabad) (vCPU: 1, Memory (GiB): 4)": "141"
     },
     "r4 large.search - Memory optimized - OnDemand - EBS Only - - - Hourly Cost": {
@@ -9396,6 +9441,7 @@
         "Asia Pacific (Singapore) (vCPU: 8, Memory (GiB): 32)": "0.3520000000",
         "Asia Pacific (Seoul) (vCPU: 8, Memory (GiB): 32)": "0.3460000000",
         "Asia Pacific (Mumbai) (vCPU: 8, Memory (GiB): 32)": "0.2010000000",
+        "Asia Pacific (Melbourne) (vCPU: 8, Memory (GiB): 32)": "0.3520000000",
         "Asia Pacific (Hyderabad) (vCPU: 8, Memory (GiB): 32)": "0.2010000000"
     },
     "r7i 4xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost": {
@@ -10484,6 +10530,7 @@
         "Asia Pacific (Singapore) (vCPU: 16, Memory (GiB): 64)": "0.3390000000",
         "Asia Pacific (Seoul) (vCPU: 16, Memory (GiB): 64)": "0.3330000000",
         "Asia Pacific (Mumbai) (vCPU: 16, Memory (GiB): 64)": "0.1940000000",
+        "Asia Pacific (Melbourne) (vCPU: 16, Memory (GiB): 64)": "0.3390000000",
         "Asia Pacific (Hyderabad) (vCPU: 16, Memory (GiB): 64)": "0.1940000000"
     },
     "c7g xlarge.search - Compute optimized - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost": {
@@ -10605,6 +10652,7 @@
         "Israel (Tel Aviv) (vCPU: 64, Memory (GiB): 512)": "0.0000000000",
         "EU (Zurich) (vCPU: 64, Memory (GiB): 512)": "0.0000000000",
         "EU (Stockholm) (vCPU: 64, Memory (GiB): 512)": "0.0000000000",
+        "EU (Spain) (vCPU: 64, Memory (GiB): 512)": "0.0000000000",
         "EU (Paris) (vCPU: 64, Memory (GiB): 512)": "0.0000000000",
         "EU (Milan) (vCPU: 64, Memory (GiB): 512)": "0.0000000000",
         "EU (London) (vCPU: 64, Memory (GiB): 512)": "0.0000000000",
@@ -10755,6 +10803,7 @@
         "Israel (Tel Aviv) (vCPU: 32, Memory (GiB): 256)": "64157",
         "EU (Zurich) (vCPU: 32, Memory (GiB): 256)": "72684",
         "EU (Stockholm) (vCPU: 32, Memory (GiB): 256)": "57900",
+        "EU (Spain) (vCPU: 32, Memory (GiB): 256)": "61091.539",
         "EU (Paris) (vCPU: 32, Memory (GiB): 256)": "64308",
         "EU (Milan) (vCPU: 32, Memory (GiB): 256)": "64308",
         "EU (London) (vCPU: 32, Memory (GiB): 256)": "64308",
@@ -10825,6 +10874,7 @@
         "Israel (Tel Aviv) (vCPU: 128, Memory (GiB): 1024)": "256615",
         "EU (Zurich) (vCPU: 128, Memory (GiB): 1024)": "290711",
         "EU (Stockholm) (vCPU: 128, Memory (GiB): 1024)": "231600",
+        "EU (Spain) (vCPU: 128, Memory (GiB): 1024)": "244391.386",
         "EU (Paris) (vCPU: 128, Memory (GiB): 1024)": "257182",
         "EU (Milan) (vCPU: 128, Memory (GiB): 1024)": "257182",
         "EU (London) (vCPU: 128, Memory (GiB): 1024)": "257182",
@@ -10974,6 +11024,7 @@
         "Israel (Tel Aviv) (vCPU: 2, Memory (GiB): 16)": "0.2190000000",
         "EU (Zurich) (vCPU: 2, Memory (GiB): 16)": "0.2480000000",
         "EU (Stockholm) (vCPU: 2, Memory (GiB): 16)": "0.1970000000",
+        "EU (Spain) (vCPU: 2, Memory (GiB): 16)": "0.2080000000",
         "EU (Paris) (vCPU: 2, Memory (GiB): 16)": "0.2190000000",
         "EU (Milan) (vCPU: 2, Memory (GiB): 16)": "0.2190000000",
         "EU (London) (vCPU: 2, Memory (GiB): 16)": "0.2190000000",
@@ -11072,6 +11123,7 @@
         "Israel (Tel Aviv) (vCPU: 2, Memory (GiB): 16)": "933",
         "EU (Zurich) (vCPU: 2, Memory (GiB): 16)": "1056",
         "EU (Stockholm) (vCPU: 2, Memory (GiB): 16)": "839",
+        "EU (Spain) (vCPU: 2, Memory (GiB): 16)": "884.76",
         "EU (Paris) (vCPU: 2, Memory (GiB): 16)": "933",
         "EU (Milan) (vCPU: 2, Memory (GiB): 16)": "933",
         "EU (London) (vCPU: 2, Memory (GiB): 16)": "933",
@@ -11620,6 +11672,7 @@
         "Israel (Tel Aviv) (vCPU: 2, Memory (GiB): 16)": "4011",
         "EU (Zurich) (vCPU: 2, Memory (GiB): 16)": "4541",
         "EU (Stockholm) (vCPU: 2, Memory (GiB): 16)": "3608",
+        "EU (Spain) (vCPU: 2, Memory (GiB): 16)": "3809.549",
         "EU (Paris) (vCPU: 2, Memory (GiB): 16)": "4011",
         "EU (Milan) (vCPU: 2, Memory (GiB): 16)": "4011",
         "EU (London) (vCPU: 2, Memory (GiB): 16)": "4011",
@@ -11706,6 +11759,7 @@
         "Mexico (Central) (vCPU: 96, Memory (GiB): 768)": "0.0000000000",
         "EU (Zurich) (vCPU: 96, Memory (GiB): 768)": "0.0000000000",
         "EU (Stockholm) (vCPU: 96, Memory (GiB): 768)": "0.0000000000",
+        "EU (Spain) (vCPU: 96, Memory (GiB): 768)": "0.0000000000",
         "EU (Paris) (vCPU: 96, Memory (GiB): 768)": "0.0000000000",
         "EU (Milan) (vCPU: 96, Memory (GiB): 768)": "0.0000000000",
         "EU (London) (vCPU: 96, Memory (GiB): 768)": "0.0000000000",
@@ -12169,6 +12223,7 @@
         "Asia Pacific (Singapore) (vCPU: 4, Memory (GiB): 16)": "0.2340000000",
         "Asia Pacific (Seoul) (vCPU: 4, Memory (GiB): 16)": "0.2300000000",
         "Asia Pacific (Mumbai) (vCPU: 4, Memory (GiB): 16)": "0.1340000000",
+        "Asia Pacific (Melbourne) (vCPU: 4, Memory (GiB): 16)": "0.2330000000",
         "Asia Pacific (Hyderabad) (vCPU: 4, Memory (GiB): 16)": "0.1340000000"
     },
     "r7gd 2xlarge.search - Memory optimized - OnDemand - 1 x 475 NVMe SSD - - - Hourly Cost": {
@@ -12224,6 +12279,7 @@
         "Asia Pacific (Singapore) (vCPU: 4, Memory (GiB): 16)": "4276",
         "Asia Pacific (Seoul) (vCPU: 4, Memory (GiB): 16)": "4201",
         "Asia Pacific (Mumbai) (vCPU: 4, Memory (GiB): 16)": "2447",
+        "Asia Pacific (Melbourne) (vCPU: 4, Memory (GiB): 16)": "4263.667",
         "Asia Pacific (Hyderabad) (vCPU: 4, Memory (GiB): 16)": "2447"
     },
     "c7g 2xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost": {
@@ -12787,6 +12843,7 @@
         "Israel (Tel Aviv) (vCPU: 128, Memory (GiB): 1024)": "6.8150000000",
         "EU (Zurich) (vCPU: 128, Memory (GiB): 1024)": "7.7200000000",
         "EU (Stockholm) (vCPU: 128, Memory (GiB): 1024)": "6.1510000000",
+        "EU (Spain) (vCPU: 128, Memory (GiB): 1024)": "6.4900000000",
         "EU (Paris) (vCPU: 128, Memory (GiB): 1024)": "6.8300000000",
         "EU (Milan) (vCPU: 128, Memory (GiB): 1024)": "6.8300000000",
         "EU (London) (vCPU: 128, Memory (GiB): 1024)": "6.8300000000",
@@ -13055,6 +13112,7 @@
         "Asia Pacific (Singapore) (vCPU: 1, Memory (GiB): 4)": "0.0280000000",
         "Asia Pacific (Seoul) (vCPU: 1, Memory (GiB): 4)": "0.0280000000",
         "Asia Pacific (Mumbai) (vCPU: 1, Memory (GiB): 4)": "0.0160000000",
+        "Asia Pacific (Melbourne) (vCPU: 1, Memory (GiB): 4)": "0.0280000000",
         "Asia Pacific (Hyderabad) (vCPU: 1, Memory (GiB): 4)": "0.0160000000"
     },
     "m7i 12xlarge.search - General purpose - OnDemand - EBS Only - - - Hourly Cost": {
@@ -13181,6 +13239,7 @@
         "Asia Pacific (Singapore) (vCPU: 2, Memory (GiB): 8)": "0.0000000000",
         "Asia Pacific (Seoul) (vCPU: 2, Memory (GiB): 8)": "0.0000000000",
         "Asia Pacific (Mumbai) (vCPU: 2, Memory (GiB): 8)": "0.0000000000",
+        "Asia Pacific (Melbourne) (vCPU: 2, Memory (GiB): 8)": "0.0000000000",
         "Asia Pacific (Hyderabad) (vCPU: 2, Memory (GiB): 8)": "0.0000000000"
     },
     "r4 4xlarge.search - Memory optimized - OnDemand - EBS Only - - - Hourly Cost": {
@@ -13303,6 +13362,7 @@
         "Israel (Tel Aviv) (vCPU: 2, Memory (GiB): 16)": "0.0000000000",
         "EU (Zurich) (vCPU: 2, Memory (GiB): 16)": "0.0000000000",
         "EU (Stockholm) (vCPU: 2, Memory (GiB): 16)": "0.0000000000",
+        "EU (Spain) (vCPU: 2, Memory (GiB): 16)": "0.0000000000",
         "EU (Paris) (vCPU: 2, Memory (GiB): 16)": "0.0000000000",
         "EU (Milan) (vCPU: 2, Memory (GiB): 16)": "0.0000000000",
         "EU (London) (vCPU: 2, Memory (GiB): 16)": "0.0000000000",
@@ -13399,6 +13459,7 @@
         "Israel (Tel Aviv) (vCPU: 4, Memory (GiB): 32)": "3616",
         "EU (Zurich) (vCPU: 4, Memory (GiB): 32)": "4100",
         "EU (Stockholm) (vCPU: 4, Memory (GiB): 32)": "3268",
+        "EU (Spain) (vCPU: 4, Memory (GiB): 32)": "3444.87",
         "EU (Paris) (vCPU: 4, Memory (GiB): 32)": "3627",
         "EU (Milan) (vCPU: 4, Memory (GiB): 32)": "3627",
         "EU (London) (vCPU: 4, Memory (GiB): 32)": "3627",
@@ -13458,6 +13519,7 @@
         "Mexico (Central) (vCPU: 96, Memory (GiB): 768)": "174558.067",
         "EU (Zurich) (vCPU: 96, Memory (GiB): 768)": "218040",
         "EU (Stockholm) (vCPU: 96, Memory (GiB): 768)": "173700",
+        "EU (Spain) (vCPU: 96, Memory (GiB): 768)": "183299.846",
         "EU (Paris) (vCPU: 96, Memory (GiB): 768)": "192887",
         "EU (Milan) (vCPU: 96, Memory (GiB): 768)": "192887",
         "EU (London) (vCPU: 96, Memory (GiB): 768)": "192887",
@@ -13494,6 +13556,7 @@
         "Israel (Tel Aviv) (vCPU: 8, Memory (GiB): 64)": "0.0000000000",
         "EU (Zurich) (vCPU: 8, Memory (GiB): 64)": "0.0000000000",
         "EU (Stockholm) (vCPU: 8, Memory (GiB): 64)": "0.0000000000",
+        "EU (Spain) (vCPU: 8, Memory (GiB): 64)": "0.0000000000",
         "EU (Paris) (vCPU: 8, Memory (GiB): 64)": "0.0000000000",
         "EU (Milan) (vCPU: 8, Memory (GiB): 64)": "0.0000000000",
         "EU (London) (vCPU: 8, Memory (GiB): 64)": "0.0000000000",
@@ -13575,6 +13638,7 @@
         "Mexico (Central) (vCPU: 96, Memory (GiB): 768)": "3.4600000000",
         "EU (Zurich) (vCPU: 96, Memory (GiB): 768)": "4.3210000000",
         "EU (Stockholm) (vCPU: 96, Memory (GiB): 768)": "3.4430000000",
+        "EU (Spain) (vCPU: 96, Memory (GiB): 768)": "3.6330000000",
         "EU (Paris) (vCPU: 96, Memory (GiB): 768)": "3.8230000000",
         "EU (Milan) (vCPU: 96, Memory (GiB): 768)": "3.8230000000",
         "EU (London) (vCPU: 96, Memory (GiB): 768)": "3.8230000000",
@@ -14127,6 +14191,7 @@
         "Asia Pacific (Singapore) (vCPU: 1, Memory (GiB): 4)": "0.0440000000",
         "Asia Pacific (Seoul) (vCPU: 1, Memory (GiB): 4)": "0.0430000000",
         "Asia Pacific (Mumbai) (vCPU: 1, Memory (GiB): 4)": "0.0250000000",
+        "Asia Pacific (Melbourne) (vCPU: 1, Memory (GiB): 4)": "0.0440000000",
         "Asia Pacific (Hyderabad) (vCPU: 1, Memory (GiB): 4)": "0.0250000000"
     },
     "r6gd 4xlarge.search - Memory optimized - Reserved - 1 x 950 NVMe SSD - Partial Upfront - 1yr - Hourly Cost": {
@@ -14609,6 +14674,7 @@
         "Israel (Tel Aviv) (vCPU: 128, Memory (GiB): 1024)": "0.0000000000",
         "EU (Zurich) (vCPU: 128, Memory (GiB): 1024)": "0.0000000000",
         "EU (Stockholm) (vCPU: 128, Memory (GiB): 1024)": "0.0000000000",
+        "EU (Spain) (vCPU: 128, Memory (GiB): 1024)": "0.0000000000",
         "EU (Paris) (vCPU: 128, Memory (GiB): 1024)": "0.0000000000",
         "EU (Milan) (vCPU: 128, Memory (GiB): 1024)": "0.0000000000",
         "EU (London) (vCPU: 128, Memory (GiB): 1024)": "0.0000000000",
@@ -15211,6 +15277,7 @@
         "Asia Pacific (Singapore) (vCPU: 48, Memory (GiB): 192)": "11926",
         "Asia Pacific (Seoul) (vCPU: 48, Memory (GiB): 192)": "11727",
         "Asia Pacific (Mumbai) (vCPU: 48, Memory (GiB): 192)": "6820",
+        "Asia Pacific (Melbourne) (vCPU: 48, Memory (GiB): 192)": "11922.36",
         "Asia Pacific (Hyderabad) (vCPU: 48, Memory (GiB): 192)": "6820"
     },
     "i4g large.search - Storage optimized - Reserved - 1 x 468 Nitro SSD - All Upfront - 3yr - Hourly Cost": {
@@ -15281,6 +15348,7 @@
         "Israel (Tel Aviv) (vCPU: 16, Memory (GiB): 128)": "0.6360000000",
         "EU (Zurich) (vCPU: 16, Memory (GiB): 128)": "0.7200000000",
         "EU (Stockholm) (vCPU: 16, Memory (GiB): 128)": "0.5740000000",
+        "EU (Spain) (vCPU: 16, Memory (GiB): 128)": "0.6060000000",
         "EU (Paris) (vCPU: 16, Memory (GiB): 128)": "0.6370000000",
         "EU (Milan) (vCPU: 16, Memory (GiB): 128)": "0.6370000000",
         "EU (London) (vCPU: 16, Memory (GiB): 128)": "0.6370000000",
@@ -15317,6 +15385,7 @@
         "Israel (Tel Aviv) (vCPU: 8, Memory (GiB): 64)": "0.3180000000",
         "EU (Zurich) (vCPU: 8, Memory (GiB): 64)": "0.3600000000",
         "EU (Stockholm) (vCPU: 8, Memory (GiB): 64)": "0.2870000000",
+        "EU (Spain) (vCPU: 8, Memory (GiB): 64)": "0.3030000000",
         "EU (Paris) (vCPU: 8, Memory (GiB): 64)": "0.3190000000",
         "EU (Milan) (vCPU: 8, Memory (GiB): 64)": "0.3190000000",
         "EU (London) (vCPU: 8, Memory (GiB): 64)": "0.3190000000",
@@ -15765,6 +15834,7 @@
         "Mexico (Central) (vCPU: 48, Memory (GiB): 384)": "2.3180000000",
         "EU (Zurich) (vCPU: 48, Memory (GiB): 384)": "2.8950000000",
         "EU (Stockholm) (vCPU: 48, Memory (GiB): 384)": "2.3060000000",
+        "EU (Spain) (vCPU: 48, Memory (GiB): 384)": "2.4340000000",
         "EU (Paris) (vCPU: 48, Memory (GiB): 384)": "2.5610000000",
         "EU (Milan) (vCPU: 48, Memory (GiB): 384)": "2.5610000000",
         "EU (London) (vCPU: 48, Memory (GiB): 384)": "2.5610000000",
@@ -16168,6 +16238,7 @@
         "Mexico (Central) (vCPU: 96, Memory (GiB): 768)": "90928.8",
         "EU (Zurich) (vCPU: 96, Memory (GiB): 768)": "113562",
         "EU (Stockholm) (vCPU: 96, Memory (GiB): 768)": "90469",
+        "EU (Spain) (vCPU: 96, Memory (GiB): 768)": "95475.24",
         "EU (Paris) (vCPU: 96, Memory (GiB): 768)": "100462",
         "EU (Milan) (vCPU: 96, Memory (GiB): 768)": "100462",
         "EU (London) (vCPU: 96, Memory (GiB): 768)": "100462",
@@ -16406,6 +16477,7 @@
         "Asia Pacific (Singapore) (vCPU: 16, Memory (GiB): 64)": "0.4540000000",
         "Asia Pacific (Seoul) (vCPU: 16, Memory (GiB): 64)": "0.4460000000",
         "Asia Pacific (Mumbai) (vCPU: 16, Memory (GiB): 64)": "0.2600000000",
+        "Asia Pacific (Melbourne) (vCPU: 16, Memory (GiB): 64)": "0.4540000000",
         "Asia Pacific (Hyderabad) (vCPU: 16, Memory (GiB): 64)": "0.2600000000"
     },
     "r5 12xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost": {
@@ -16880,6 +16952,7 @@
         "Asia Pacific (Singapore) (vCPU: 4, Memory (GiB): 16)": "0.0000000000",
         "Asia Pacific (Seoul) (vCPU: 4, Memory (GiB): 16)": "0.0000000000",
         "Asia Pacific (Mumbai) (vCPU: 4, Memory (GiB): 16)": "0.0000000000",
+        "Asia Pacific (Melbourne) (vCPU: 4, Memory (GiB): 16)": "0.0000000000",
         "Asia Pacific (Hyderabad) (vCPU: 4, Memory (GiB): 16)": "0.0000000000"
     },
     "m4 10xlarge.search - General purpose - OnDemand - EBS Only - - - Hourly Cost": {
@@ -16921,6 +16994,7 @@
         "Asia Pacific (Singapore) (vCPU: 8, Memory (GiB): 32)": "0.2270000000",
         "Asia Pacific (Seoul) (vCPU: 8, Memory (GiB): 32)": "0.2230000000",
         "Asia Pacific (Mumbai) (vCPU: 8, Memory (GiB): 32)": "0.1300000000",
+        "Asia Pacific (Melbourne) (vCPU: 8, Memory (GiB): 32)": "0.2270000000",
         "Asia Pacific (Hyderabad) (vCPU: 8, Memory (GiB): 32)": "0.1300000000"
     },
     "r7i 2xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost": {
@@ -17107,6 +17181,7 @@
         "Mexico (Central) (vCPU: 48, Memory (GiB): 384)": "1.7300000000",
         "EU (Zurich) (vCPU: 48, Memory (GiB): 384)": "2.1610000000",
         "EU (Stockholm) (vCPU: 48, Memory (GiB): 384)": "1.7210000000",
+        "EU (Spain) (vCPU: 48, Memory (GiB): 384)": "1.8170000000",
         "EU (Paris) (vCPU: 48, Memory (GiB): 384)": "1.9110000000",
         "EU (Milan) (vCPU: 48, Memory (GiB): 384)": "1.9110000000",
         "EU (London) (vCPU: 48, Memory (GiB): 384)": "1.9110000000",
@@ -17227,6 +17302,7 @@
         "Asia Pacific (Singapore) (vCPU: 32, Memory (GiB): 128)": "1.4090000000",
         "Asia Pacific (Seoul) (vCPU: 32, Memory (GiB): 128)": "1.3850000000",
         "Asia Pacific (Mumbai) (vCPU: 32, Memory (GiB): 128)": "0.8050000000",
+        "Asia Pacific (Melbourne) (vCPU: 32, Memory (GiB): 128)": "1.4090000000",
         "Asia Pacific (Hyderabad) (vCPU: 32, Memory (GiB): 128)": "0.8050000000"
     },
     "m5 xlarge.search - General purpose - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost": {
@@ -17315,6 +17391,7 @@
         "Israel (Tel Aviv) (vCPU: 4, Memory (GiB): 32)": "0.0000000000",
         "EU (Zurich) (vCPU: 4, Memory (GiB): 32)": "0.0000000000",
         "EU (Stockholm) (vCPU: 4, Memory (GiB): 32)": "0.0000000000",
+        "EU (Spain) (vCPU: 4, Memory (GiB): 32)": "0.0000000000",
         "EU (Paris) (vCPU: 4, Memory (GiB): 32)": "0.0000000000",
         "EU (Milan) (vCPU: 4, Memory (GiB): 32)": "0.0000000000",
         "EU (London) (vCPU: 4, Memory (GiB): 32)": "0.0000000000",
@@ -17444,6 +17521,7 @@
         "Israel (Tel Aviv) (vCPU: 4, Memory (GiB): 32)": "0.1590000000",
         "EU (Zurich) (vCPU: 4, Memory (GiB): 32)": "0.1800000000",
         "EU (Stockholm) (vCPU: 4, Memory (GiB): 32)": "0.1440000000",
+        "EU (Spain) (vCPU: 4, Memory (GiB): 32)": "0.1510000000",
         "EU (Paris) (vCPU: 4, Memory (GiB): 32)": "0.1590000000",
         "EU (Milan) (vCPU: 4, Memory (GiB): 32)": "0.1590000000",
         "EU (London) (vCPU: 4, Memory (GiB): 32)": "0.1590000000",
@@ -18191,6 +18269,7 @@
         "Asia Pacific (Singapore) (vCPU: 4, Memory (GiB): 16)": "0.0850000000",
         "Asia Pacific (Seoul) (vCPU: 4, Memory (GiB): 16)": "0.0830000000",
         "Asia Pacific (Mumbai) (vCPU: 4, Memory (GiB): 16)": "0.0490000000",
+        "Asia Pacific (Melbourne) (vCPU: 4, Memory (GiB): 16)": "0.0850000000",
         "Asia Pacific (Hyderabad) (vCPU: 4, Memory (GiB): 16)": "0.0490000000"
     },
     "m5 2xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost": {
@@ -18295,6 +18374,7 @@
         "Asia Pacific (Singapore) (vCPU: 48, Memory (GiB): 192)": "0.0000000000",
         "Asia Pacific (Seoul) (vCPU: 48, Memory (GiB): 192)": "0.0000000000",
         "Asia Pacific (Mumbai) (vCPU: 48, Memory (GiB): 192)": "0.0000000000",
+        "Asia Pacific (Melbourne) (vCPU: 48, Memory (GiB): 192)": "0.0000000000",
         "Asia Pacific (Hyderabad) (vCPU: 48, Memory (GiB): 192)": "0.0000000000"
     },
     "i4i 4xlarge.search - Storage optimized - OnDemand - 1 x 3 750 Nitro SSD - - - Hourly Cost": {
@@ -18462,6 +18542,7 @@
         "Israel (Tel Aviv) (vCPU: 32, Memory (GiB): 256)": "2.6450000000",
         "EU (Zurich) (vCPU: 32, Memory (GiB): 256)": "2.9960000000",
         "EU (Stockholm) (vCPU: 32, Memory (GiB): 256)": "2.3870000000",
+        "EU (Spain) (vCPU: 32, Memory (GiB): 256)": "2.5180000000",
         "EU (Paris) (vCPU: 32, Memory (GiB): 256)": "2.6510000000",
         "EU (Milan) (vCPU: 32, Memory (GiB): 256)": "2.6510000000",
         "EU (London) (vCPU: 32, Memory (GiB): 256)": "2.6510000000",
@@ -18691,6 +18772,7 @@
         "Israel (Tel Aviv) (vCPU: 2, Memory (GiB): 16)": "2089",
         "EU (Zurich) (vCPU: 2, Memory (GiB): 16)": "2365",
         "EU (Stockholm) (vCPU: 2, Memory (GiB): 16)": "1879",
+        "EU (Spain) (vCPU: 2, Memory (GiB): 16)": "1997.28",
         "EU (Paris) (vCPU: 2, Memory (GiB): 16)": "2089",
         "EU (Milan) (vCPU: 2, Memory (GiB): 16)": "2089",
         "EU (London) (vCPU: 2, Memory (GiB): 16)": "2089",
@@ -18812,6 +18894,7 @@
         "Asia Pacific (Singapore) (vCPU: 48, Memory (GiB): 192)": "26700",
         "Asia Pacific (Seoul) (vCPU: 48, Memory (GiB): 192)": "26254",
         "Asia Pacific (Mumbai) (vCPU: 48, Memory (GiB): 192)": "15269",
+        "Asia Pacific (Melbourne) (vCPU: 48, Memory (GiB): 192)": "26700.48",
         "Asia Pacific (Hyderabad) (vCPU: 48, Memory (GiB): 192)": "15269"
     },
     "i4i 4xlarge.search - Storage optimized - Reserved - 1 x 3 750 Nitro SSD - All Upfront - 1yr - PrepaidCost": {
@@ -18826,6 +18909,7 @@
         "Israel (Tel Aviv) (vCPU: 16, Memory (GiB): 128)": "14474",
         "EU (Zurich) (vCPU: 16, Memory (GiB): 128)": "16399",
         "EU (Stockholm) (vCPU: 16, Memory (GiB): 128)": "13062",
+        "EU (Spain) (vCPU: 16, Memory (GiB): 128)": "13790.868",
         "EU (Paris) (vCPU: 16, Memory (GiB): 128)": "14514",
         "EU (Milan) (vCPU: 16, Memory (GiB): 128)": "14514",
         "EU (London) (vCPU: 16, Memory (GiB): 128)": "14514",
@@ -19104,6 +19188,7 @@
         "Asia Pacific (Singapore) (vCPU: 1, Memory (GiB): 4)": "558",
         "Asia Pacific (Seoul) (vCPU: 1, Memory (GiB): 4)": "545",
         "Asia Pacific (Mumbai) (vCPU: 1, Memory (GiB): 4)": "315",
+        "Asia Pacific (Melbourne) (vCPU: 1, Memory (GiB): 4)": "551.88",
         "Asia Pacific (Hyderabad) (vCPU: 1, Memory (GiB): 4)": "315"
     },
     "r7gd 12xlarge.search - Memory optimized - Reserved - 2 x 1425 NVMe SSD - All Upfront - 1yr - Hourly Cost": {
@@ -19982,6 +20067,7 @@
         "Mexico (Central) (vCPU: 48, Memory (GiB): 384)": "87266.419",
         "EU (Zurich) (vCPU: 48, Memory (GiB): 384)": "109014",
         "EU (Stockholm) (vCPU: 48, Memory (GiB): 384)": "86850",
+        "EU (Spain) (vCPU: 48, Memory (GiB): 384)": "91656.23",
         "EU (Paris) (vCPU: 48, Memory (GiB): 384)": "96437",
         "EU (Milan) (vCPU: 48, Memory (GiB): 384)": "96437",
         "EU (London) (vCPU: 48, Memory (GiB): 384)": "96437",
@@ -20028,6 +20114,7 @@
         "Asia Pacific (Singapore) (vCPU: 2, Memory (GiB): 8)": "0.0420000000",
         "Asia Pacific (Seoul) (vCPU: 2, Memory (GiB): 8)": "0.0420000000",
         "Asia Pacific (Mumbai) (vCPU: 2, Memory (GiB): 8)": "0.0240000000",
+        "Asia Pacific (Melbourne) (vCPU: 2, Memory (GiB): 8)": "0.0420000000",
         "Asia Pacific (Hyderabad) (vCPU: 2, Memory (GiB): 8)": "0.0240000000"
     },
     "im4gn large.search - Storage optimized - Reserved - 1 x 937 SSD - Partial Upfront - 1yr - PrepaidCost": {
@@ -20192,6 +20279,7 @@
         "Asia Pacific (Singapore) (vCPU: 1, Memory (GiB): 4)": "1072",
         "Asia Pacific (Seoul) (vCPU: 1, Memory (GiB): 4)": "1047",
         "Asia Pacific (Mumbai) (vCPU: 1, Memory (GiB): 4)": "605",
+        "Asia Pacific (Melbourne) (vCPU: 1, Memory (GiB): 4)": "1059.61",
         "Asia Pacific (Hyderabad) (vCPU: 1, Memory (GiB): 4)": "605"
     },
     "r6gd 4xlarge.search - Memory optimized - Reserved - 1 x 950 NVMe SSD - Partial Upfront - 3yr - PrepaidCost": {
@@ -20330,6 +20418,7 @@
         "Israel (Tel Aviv) (vCPU: 128, Memory (GiB): 1024)": "59699",
         "EU (Zurich) (vCPU: 128, Memory (GiB): 1024)": "67631",
         "EU (Stockholm) (vCPU: 128, Memory (GiB): 1024)": "53879",
+        "EU (Spain) (vCPU: 128, Memory (GiB): 1024)": "56852.4",
         "EU (Paris) (vCPU: 128, Memory (GiB): 1024)": "59831",
         "EU (Milan) (vCPU: 128, Memory (GiB): 1024)": "59831",
         "EU (London) (vCPU: 128, Memory (GiB): 1024)": "59831",
@@ -20525,6 +20614,7 @@
         "Israel (Tel Aviv) (vCPU: 4, Memory (GiB): 32)": "8010",
         "EU (Zurich) (vCPU: 4, Memory (GiB): 32)": "9082",
         "EU (Stockholm) (vCPU: 4, Memory (GiB): 32)": "7241",
+        "EU (Spain) (vCPU: 4, Memory (GiB): 32)": "7631.712",
         "EU (Paris) (vCPU: 4, Memory (GiB): 32)": "8035",
         "EU (Milan) (vCPU: 4, Memory (GiB): 32)": "8035",
         "EU (London) (vCPU: 4, Memory (GiB): 32)": "8035",
@@ -20619,6 +20709,7 @@
         "Mexico (Central) (vCPU: 48, Memory (GiB): 384)": "4.7730000000",
         "EU (Zurich) (vCPU: 48, Memory (GiB): 384)": "5.9630000000",
         "EU (Stockholm) (vCPU: 48, Memory (GiB): 384)": "4.7510000000",
+        "EU (Spain) (vCPU: 48, Memory (GiB): 384)": "5.0140000000",
         "EU (Paris) (vCPU: 48, Memory (GiB): 384)": "5.2750000000",
         "EU (Milan) (vCPU: 48, Memory (GiB): 384)": "5.2750000000",
         "EU (London) (vCPU: 48, Memory (GiB): 384)": "5.2750000000",
@@ -20851,6 +20942,7 @@
         "Israel (Tel Aviv) (vCPU: 2, Memory (GiB): 16)": "0.0000000000",
         "EU (Zurich) (vCPU: 2, Memory (GiB): 16)": "0.0000000000",
         "EU (Stockholm) (vCPU: 2, Memory (GiB): 16)": "0.0000000000",
+        "EU (Spain) (vCPU: 2, Memory (GiB): 16)": "0.0000000000",
         "EU (Paris) (vCPU: 2, Memory (GiB): 16)": "0.0000000000",
         "EU (Milan) (vCPU: 2, Memory (GiB): 16)": "0.0000000000",
         "EU (London) (vCPU: 2, Memory (GiB): 16)": "0.0000000000",
@@ -20969,6 +21061,7 @@
         "Mexico (Central) (vCPU: 96, Memory (GiB): 768)": "0.0000000000",
         "EU (Zurich) (vCPU: 96, Memory (GiB): 768)": "0.0000000000",
         "EU (Stockholm) (vCPU: 96, Memory (GiB): 768)": "0.0000000000",
+        "EU (Spain) (vCPU: 96, Memory (GiB): 768)": "0.0000000000",
         "EU (Paris) (vCPU: 96, Memory (GiB): 768)": "0.0000000000",
         "EU (Milan) (vCPU: 96, Memory (GiB): 768)": "0.0000000000",
         "EU (London) (vCPU: 96, Memory (GiB): 768)": "0.0000000000",
@@ -21029,6 +21122,7 @@
         "Israel (Tel Aviv) (vCPU: 2, Memory (GiB): 16)": "0.1070000000",
         "EU (Zurich) (vCPU: 2, Memory (GiB): 16)": "0.1210000000",
         "EU (Stockholm) (vCPU: 2, Memory (GiB): 16)": "0.0960000000",
+        "EU (Spain) (vCPU: 2, Memory (GiB): 16)": "0.1010000000",
         "EU (Paris) (vCPU: 2, Memory (GiB): 16)": "0.1070000000",
         "EU (Milan) (vCPU: 2, Memory (GiB): 16)": "0.1070000000",
         "EU (London) (vCPU: 2, Memory (GiB): 16)": "0.1070000000",
@@ -21389,6 +21483,7 @@
         "Asia Pacific (Singapore) (vCPU: 1, Memory (GiB): 4)": "0.0590000000",
         "Asia Pacific (Seoul) (vCPU: 1, Memory (GiB): 4)": "0.0570000000",
         "Asia Pacific (Mumbai) (vCPU: 1, Memory (GiB): 4)": "0.0330000000",
+        "Asia Pacific (Melbourne) (vCPU: 1, Memory (GiB): 4)": "0.0580000000",
         "Asia Pacific (Hyderabad) (vCPU: 1, Memory (GiB): 4)": "0.0330000000"
     },
     "m5 large.search - General purpose - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost": {
@@ -21681,6 +21776,7 @@
         "Mexico (Central) (vCPU: 48, Memory (GiB): 384)": "20305.68",
         "EU (Zurich) (vCPU: 48, Memory (GiB): 384)": "25361",
         "EU (Stockholm) (vCPU: 48, Memory (GiB): 384)": "20205",
+        "EU (Spain) (vCPU: 48, Memory (GiB): 384)": "21321.84",
         "EU (Paris) (vCPU: 48, Memory (GiB): 384)": "22435",
         "EU (Milan) (vCPU: 48, Memory (GiB): 384)": "22435",
         "EU (London) (vCPU: 48, Memory (GiB): 384)": "22435",
@@ -21742,6 +21838,7 @@
         "Israel (Tel Aviv) (vCPU: 16, Memory (GiB): 128)": "0.0000000000",
         "EU (Zurich) (vCPU: 16, Memory (GiB): 128)": "0.0000000000",
         "EU (Stockholm) (vCPU: 16, Memory (GiB): 128)": "0.0000000000",
+        "EU (Spain) (vCPU: 16, Memory (GiB): 128)": "0.0000000000",
         "EU (Paris) (vCPU: 16, Memory (GiB): 128)": "0.0000000000",
         "EU (Milan) (vCPU: 16, Memory (GiB): 128)": "0.0000000000",
         "EU (London) (vCPU: 16, Memory (GiB): 128)": "0.0000000000",
@@ -21983,6 +22080,7 @@
         "Israel (Tel Aviv) (vCPU: 64, Memory (GiB): 512)": "66823",
         "EU (Zurich) (vCPU: 64, Memory (GiB): 512)": "75706",
         "EU (Stockholm) (vCPU: 64, Memory (GiB): 512)": "60319",
+        "EU (Spain) (vCPU: 64, Memory (GiB): 512)": "63650.16",
         "EU (Paris) (vCPU: 64, Memory (GiB): 512)": "66975",
         "EU (Milan) (vCPU: 64, Memory (GiB): 512)": "66975",
         "EU (London) (vCPU: 64, Memory (GiB): 512)": "66975",
@@ -22279,6 +22377,7 @@
         "Israel (Tel Aviv) (vCPU: 4, Memory (GiB): 32)": "0.4380000000",
         "EU (Zurich) (vCPU: 4, Memory (GiB): 32)": "0.4970000000",
         "EU (Stockholm) (vCPU: 4, Memory (GiB): 32)": "0.3960000000",
+        "EU (Spain) (vCPU: 4, Memory (GiB): 32)": "0.4170000000",
         "EU (Paris) (vCPU: 4, Memory (GiB): 32)": "0.4400000000",
         "EU (Milan) (vCPU: 4, Memory (GiB): 32)": "0.4400000000",
         "EU (London) (vCPU: 4, Memory (GiB): 32)": "0.4400000000",
@@ -22558,6 +22657,7 @@
         "Israel (Tel Aviv) (vCPU: 8, Memory (GiB): 64)": "0.0000000000",
         "EU (Zurich) (vCPU: 8, Memory (GiB): 64)": "0.0000000000",
         "EU (Stockholm) (vCPU: 8, Memory (GiB): 64)": "0.0000000000",
+        "EU (Spain) (vCPU: 8, Memory (GiB): 64)": "0.0000000000",
         "EU (Paris) (vCPU: 8, Memory (GiB): 64)": "0.0000000000",
         "EU (Milan) (vCPU: 8, Memory (GiB): 64)": "0.0000000000",
         "EU (London) (vCPU: 8, Memory (GiB): 64)": "0.0000000000",
@@ -22738,6 +22838,7 @@
         "Asia Pacific (Singapore) (vCPU: 64, Memory (GiB): 256)": "0.0000000000",
         "Asia Pacific (Seoul) (vCPU: 64, Memory (GiB): 256)": "0.0000000000",
         "Asia Pacific (Mumbai) (vCPU: 64, Memory (GiB): 256)": "0.0000000000",
+        "Asia Pacific (Melbourne) (vCPU: 64, Memory (GiB): 256)": "0.0000000000",
         "Asia Pacific (Hyderabad) (vCPU: 64, Memory (GiB): 256)": "0.0000000000"
     },
     "m7i 2xlarge.search - General purpose - OnDemand - EBS Only - - - Hourly Cost": {
@@ -22829,6 +22930,7 @@
         "Asia Pacific (Singapore) (vCPU: 4, Memory (GiB): 16)": "0.1140000000",
         "Asia Pacific (Seoul) (vCPU: 4, Memory (GiB): 16)": "0.1120000000",
         "Asia Pacific (Mumbai) (vCPU: 4, Memory (GiB): 16)": "0.0650000000",
+        "Asia Pacific (Melbourne) (vCPU: 4, Memory (GiB): 16)": "0.1130000000",
         "Asia Pacific (Hyderabad) (vCPU: 4, Memory (GiB): 16)": "0.0650000000"
     },
     "r4 8xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost": {
@@ -23229,6 +23331,7 @@
         "Israel (Tel Aviv) (vCPU: 16, Memory (GiB): 128)": "7460",
         "EU (Zurich) (vCPU: 16, Memory (GiB): 128)": "8452",
         "EU (Stockholm) (vCPU: 16, Memory (GiB): 128)": "6732",
+        "EU (Spain) (vCPU: 16, Memory (GiB): 128)": "7104.36",
         "EU (Paris) (vCPU: 16, Memory (GiB): 128)": "7480",
         "EU (Milan) (vCPU: 16, Memory (GiB): 128)": "7480",
         "EU (London) (vCPU: 16, Memory (GiB): 128)": "7480",
@@ -23302,6 +23405,7 @@
         "Asia Pacific (Singapore) (vCPU: 16, Memory (GiB): 64)": "0.9350000000",
         "Asia Pacific (Seoul) (vCPU: 16, Memory (GiB): 64)": "0.9190000000",
         "Asia Pacific (Mumbai) (vCPU: 16, Memory (GiB): 64)": "0.5350000000",
+        "Asia Pacific (Melbourne) (vCPU: 16, Memory (GiB): 64)": "0.9340000000",
         "Asia Pacific (Hyderabad) (vCPU: 16, Memory (GiB): 64)": "0.5350000000"
     },
     "m7i 4xlarge.search - General purpose - OnDemand - EBS Only - - - Hourly Cost": {
@@ -23418,6 +23522,7 @@
         "Asia Pacific (Singapore) (vCPU: 2, Memory (GiB): 8)": "0.1170000000",
         "Asia Pacific (Seoul) (vCPU: 2, Memory (GiB): 8)": "0.1150000000",
         "Asia Pacific (Mumbai) (vCPU: 2, Memory (GiB): 8)": "0.0670000000",
+        "Asia Pacific (Melbourne) (vCPU: 2, Memory (GiB): 8)": "0.1170000000",
         "Asia Pacific (Hyderabad) (vCPU: 2, Memory (GiB): 8)": "0.0670000000"
     },
     "r7i large.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost": {
@@ -23720,6 +23825,7 @@
         "Asia Pacific (Singapore) (vCPU: 2, Memory (GiB): 8)": "962",
         "Asia Pacific (Seoul) (vCPU: 2, Memory (GiB): 8)": "945",
         "Asia Pacific (Mumbai) (vCPU: 2, Memory (GiB): 8)": "552",
+        "Asia Pacific (Melbourne) (vCPU: 2, Memory (GiB): 8)": "962.286",
         "Asia Pacific (Hyderabad) (vCPU: 2, Memory (GiB): 8)": "552"
     },
     "r7g xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost": {
@@ -23836,6 +23942,7 @@
         "Asia Pacific (Singapore) (vCPU: 8, Memory (GiB): 32)": "0.1690000000",
         "Asia Pacific (Seoul) (vCPU: 8, Memory (GiB): 32)": "0.1670000000",
         "Asia Pacific (Mumbai) (vCPU: 8, Memory (GiB): 32)": "0.0970000000",
+        "Asia Pacific (Melbourne) (vCPU: 8, Memory (GiB): 32)": "0.1690000000",
         "Asia Pacific (Hyderabad) (vCPU: 8, Memory (GiB): 32)": "0.0970000000"
     },
     "im4gn 16xlarge.search - Storage optimized - OnDemand - 4 x 7500 SSD - - - Hourly Cost": {
@@ -23903,6 +24010,7 @@
         "Mexico (Central) (vCPU: 96, Memory (GiB): 768)": "78793.572",
         "EU (Zurich) (vCPU: 96, Memory (GiB): 768)": "98421",
         "EU (Stockholm) (vCPU: 96, Memory (GiB): 768)": "78406",
+        "EU (Spain) (vCPU: 96, Memory (GiB): 768)": "82739.514",
         "EU (Paris) (vCPU: 96, Memory (GiB): 768)": "87067",
         "EU (Milan) (vCPU: 96, Memory (GiB): 768)": "87067",
         "EU (London) (vCPU: 96, Memory (GiB): 768)": "87067",
@@ -23953,6 +24061,7 @@
         "Israel (Tel Aviv) (vCPU: 16, Memory (GiB): 128)": "16701",
         "EU (Zurich) (vCPU: 16, Memory (GiB): 128)": "18922",
         "EU (Stockholm) (vCPU: 16, Memory (GiB): 128)": "15072",
+        "EU (Spain) (vCPU: 16, Memory (GiB): 128)": "15925.68",
         "EU (Paris) (vCPU: 16, Memory (GiB): 128)": "16747",
         "EU (Milan) (vCPU: 16, Memory (GiB): 128)": "16747",
         "EU (London) (vCPU: 16, Memory (GiB): 128)": "16747",
@@ -24252,6 +24361,7 @@
         "Mexico (Central) (vCPU: 48, Memory (GiB): 384)": "0.0000000000",
         "EU (Zurich) (vCPU: 48, Memory (GiB): 384)": "0.0000000000",
         "EU (Stockholm) (vCPU: 48, Memory (GiB): 384)": "0.0000000000",
+        "EU (Spain) (vCPU: 48, Memory (GiB): 384)": "0.0000000000",
         "EU (Paris) (vCPU: 48, Memory (GiB): 384)": "0.0000000000",
         "EU (Milan) (vCPU: 48, Memory (GiB): 384)": "0.0000000000",
         "EU (London) (vCPU: 48, Memory (GiB): 384)": "0.0000000000",
@@ -24356,6 +24466,7 @@
         "Asia Pacific (Singapore) (vCPU: 2, Memory (GiB): 8)": "0.0880000000",
         "Asia Pacific (Seoul) (vCPU: 2, Memory (GiB): 8)": "0.0860000000",
         "Asia Pacific (Mumbai) (vCPU: 2, Memory (GiB): 8)": "0.0500000000",
+        "Asia Pacific (Melbourne) (vCPU: 2, Memory (GiB): 8)": "0.0880000000",
         "Asia Pacific (Hyderabad) (vCPU: 2, Memory (GiB): 8)": "0.0500000000"
     },
     "im4gn large.search - Storage optimized - Reserved - 1 x 937 SSD - All Upfront - 1yr - Hourly Cost": {
@@ -25153,6 +25264,7 @@
         "Israel (Tel Aviv) (vCPU: 16, Memory (GiB): 128)": "1.7540000000",
         "EU (Zurich) (vCPU: 16, Memory (GiB): 128)": "1.9870000000",
         "EU (Stockholm) (vCPU: 16, Memory (GiB): 128)": "1.5830000000",
+        "EU (Spain) (vCPU: 16, Memory (GiB): 128)": "1.6710000000",
         "EU (Paris) (vCPU: 16, Memory (GiB): 128)": "1.7590000000",
         "EU (Milan) (vCPU: 16, Memory (GiB): 128)": "1.7590000000",
         "EU (London) (vCPU: 16, Memory (GiB): 128)": "1.7590000000",
@@ -25288,6 +25400,7 @@
         "Israel (Tel Aviv) (vCPU: 64, Memory (GiB): 512)": "29848",
         "EU (Zurich) (vCPU: 64, Memory (GiB): 512)": "33815",
         "EU (Stockholm) (vCPU: 64, Memory (GiB): 512)": "26943",
+        "EU (Spain) (vCPU: 64, Memory (GiB): 512)": "28426.2",
         "EU (Paris) (vCPU: 64, Memory (GiB): 512)": "29915",
         "EU (Milan) (vCPU: 64, Memory (GiB): 512)": "29915",
         "EU (London) (vCPU: 64, Memory (GiB): 512)": "29915",
@@ -25712,6 +25825,7 @@
         "Asia Pacific (Singapore) (vCPU: 64, Memory (GiB): 256)": "1.8150000000",
         "Asia Pacific (Seoul) (vCPU: 64, Memory (GiB): 256)": "1.7850000000",
         "Asia Pacific (Mumbai) (vCPU: 64, Memory (GiB): 256)": "1.0380000000",
+        "Asia Pacific (Melbourne) (vCPU: 64, Memory (GiB): 256)": "1.8150000000",
         "Asia Pacific (Hyderabad) (vCPU: 64, Memory (GiB): 256)": "1.0380000000"
     },
     "i4i xlarge.search - Storage optimized - OnDemand - 1 x 937 Nitro SSD - - - Hourly Cost": {
@@ -25773,6 +25887,7 @@
         "Asia Pacific (Singapore) (vCPU: 32, Memory (GiB): 128)": "0.0000000000",
         "Asia Pacific (Seoul) (vCPU: 32, Memory (GiB): 128)": "0.0000000000",
         "Asia Pacific (Mumbai) (vCPU: 32, Memory (GiB): 128)": "0.0000000000",
+        "Asia Pacific (Melbourne) (vCPU: 32, Memory (GiB): 128)": "0.0000000000",
         "Asia Pacific (Hyderabad) (vCPU: 32, Memory (GiB): 128)": "0.0000000000"
     },
     "i4g 16xlarge.search - Storage optimized - Reserved - 4 x 3 750 Nitro SSD - Partial Upfront - 1yr - PrepaidCost": {
@@ -25879,6 +25994,7 @@
         "Asia Pacific (Singapore) (vCPU: 4, Memory (GiB): 16)": "2227",
         "Asia Pacific (Seoul) (vCPU: 4, Memory (GiB): 16)": "2188",
         "Asia Pacific (Mumbai) (vCPU: 4, Memory (GiB): 16)": "1275",
+        "Asia Pacific (Melbourne) (vCPU: 4, Memory (GiB): 16)": "2233.8",
         "Asia Pacific (Hyderabad) (vCPU: 4, Memory (GiB): 16)": "1275"
     },
     "r6g large.search - Memory optimized - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost": {
@@ -25995,6 +26111,7 @@
         "Asia Pacific (Singapore) (vCPU: 2, Memory (GiB): 8)": "2132",
         "Asia Pacific (Seoul) (vCPU: 2, Memory (GiB): 8)": "2094",
         "Asia Pacific (Mumbai) (vCPU: 2, Memory (GiB): 8)": "1224",
+        "Asia Pacific (Melbourne) (vCPU: 2, Memory (GiB): 8)": "2131.834",
         "Asia Pacific (Hyderabad) (vCPU: 2, Memory (GiB): 8)": "1224"
     },
     "i4i 4xlarge.search - Storage optimized - Reserved - 1 x 3 750 Nitro SSD - No Upfront - 3yr - Hourly Cost": {
@@ -26009,6 +26126,7 @@
         "Israel (Tel Aviv) (vCPU: 16, Memory (GiB): 128)": "1.3220000000",
         "EU (Zurich) (vCPU: 16, Memory (GiB): 128)": "1.4980000000",
         "EU (Stockholm) (vCPU: 16, Memory (GiB): 128)": "1.1930000000",
+        "EU (Spain) (vCPU: 16, Memory (GiB): 128)": "1.2590000000",
         "EU (Paris) (vCPU: 16, Memory (GiB): 128)": "1.3250000000",
         "EU (Milan) (vCPU: 16, Memory (GiB): 128)": "1.3250000000",
         "EU (London) (vCPU: 16, Memory (GiB): 128)": "1.3250000000",
@@ -26267,6 +26385,7 @@
         "Asia Pacific (Singapore) (vCPU: 4, Memory (GiB): 16)": "1930",
         "Asia Pacific (Seoul) (vCPU: 4, Memory (GiB): 16)": "1896",
         "Asia Pacific (Mumbai) (vCPU: 4, Memory (GiB): 16)": "1105",
+        "Asia Pacific (Melbourne) (vCPU: 4, Memory (GiB): 16)": "1924.572",
         "Asia Pacific (Hyderabad) (vCPU: 4, Memory (GiB): 16)": "1105"
     },
     "im4gn 2xlarge.search - Storage optimized - Reserved - 1 x 3750 SSD - Partial Upfront - 1yr - Hourly Cost": {
@@ -26538,6 +26657,7 @@
         "Israel (Tel Aviv) (vCPU: 8, Memory (GiB): 64)": "0.8780000000",
         "EU (Zurich) (vCPU: 8, Memory (GiB): 64)": "0.9940000000",
         "EU (Stockholm) (vCPU: 8, Memory (GiB): 64)": "0.7910000000",
+        "EU (Spain) (vCPU: 8, Memory (GiB): 64)": "0.8360000000",
         "EU (Paris) (vCPU: 8, Memory (GiB): 64)": "0.8790000000",
         "EU (Milan) (vCPU: 8, Memory (GiB): 64)": "0.8790000000",
         "EU (London) (vCPU: 8, Memory (GiB): 64)": "0.8790000000",
@@ -26676,6 +26796,7 @@
         "Asia Pacific (Singapore) (vCPU: 8, Memory (GiB): 32)": "1987",
         "Asia Pacific (Seoul) (vCPU: 8, Memory (GiB): 32)": "1954",
         "Asia Pacific (Mumbai) (vCPU: 8, Memory (GiB): 32)": "1136",
+        "Asia Pacific (Melbourne) (vCPU: 8, Memory (GiB): 32)": "1988.52",
         "Asia Pacific (Hyderabad) (vCPU: 8, Memory (GiB): 32)": "1136"
     },
     "r7g large.search - Memory optimized - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost": {
@@ -27023,6 +27144,7 @@
         "Asia Pacific (Singapore) (vCPU: 8, Memory (GiB): 32)": "4448",
         "Asia Pacific (Seoul) (vCPU: 8, Memory (GiB): 32)": "4376",
         "Asia Pacific (Mumbai) (vCPU: 8, Memory (GiB): 32)": "2543",
+        "Asia Pacific (Melbourne) (vCPU: 8, Memory (GiB): 32)": "4441.32",
         "Asia Pacific (Hyderabad) (vCPU: 8, Memory (GiB): 32)": "2543"
     },
     "m5 4xlarge.search - General purpose - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost": {
@@ -27723,6 +27845,7 @@
         "Asia Pacific (Singapore) (vCPU: 64, Memory (GiB): 256)": "1.3550000000",
         "Asia Pacific (Seoul) (vCPU: 64, Memory (GiB): 256)": "1.3320000000",
         "Asia Pacific (Mumbai) (vCPU: 64, Memory (GiB): 256)": "0.7750000000",
+        "Asia Pacific (Melbourne) (vCPU: 64, Memory (GiB): 256)": "1.3550000000",
         "Asia Pacific (Hyderabad) (vCPU: 64, Memory (GiB): 256)": "0.7750000000"
     },
     "r7gd large.search - Memory optimized - Reserved - 1 x 118 NVMe SSD - Partial Upfront - 3yr - PrepaidCost": {
@@ -27770,6 +27893,7 @@
         "Asia Pacific (Singapore) (vCPU: 32, Memory (GiB): 128)": "34172",
         "Asia Pacific (Seoul) (vCPU: 32, Memory (GiB): 128)": "33605",
         "Asia Pacific (Mumbai) (vCPU: 32, Memory (GiB): 128)": "19540",
+        "Asia Pacific (Melbourne) (vCPU: 32, Memory (GiB): 128)": "34172.41",
         "Asia Pacific (Hyderabad) (vCPU: 32, Memory (GiB): 128)": "19540"
     },
     "r7i 12xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 3yr - PrepaidCost": {
@@ -27904,6 +28028,7 @@
         "Israel (Tel Aviv) (vCPU: 32, Memory (GiB): 256)": "3.5090000000",
         "EU (Zurich) (vCPU: 32, Memory (GiB): 256)": "3.9760000000",
         "EU (Stockholm) (vCPU: 32, Memory (GiB): 256)": "3.1670000000",
+        "EU (Spain) (vCPU: 32, Memory (GiB): 256)": "3.3420000000",
         "EU (Paris) (vCPU: 32, Memory (GiB): 256)": "3.5180000000",
         "EU (Milan) (vCPU: 32, Memory (GiB): 256)": "3.5180000000",
         "EU (London) (vCPU: 32, Memory (GiB): 256)": "3.5180000000",
@@ -28929,6 +29054,7 @@
         "Asia Pacific (Singapore) (vCPU: 2, Memory (GiB): 8)": "0.0000000000",
         "Asia Pacific (Seoul) (vCPU: 2, Memory (GiB): 8)": "0.0000000000",
         "Asia Pacific (Mumbai) (vCPU: 2, Memory (GiB): 8)": "0.0000000000",
+        "Asia Pacific (Melbourne) (vCPU: 2, Memory (GiB): 8)": "0.0000000000",
         "Asia Pacific (Hyderabad) (vCPU: 2, Memory (GiB): 8)": "0.0000000000"
     },
     "c6g 2xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost": {
@@ -29052,6 +29178,7 @@
         "Asia Pacific (Singapore) (vCPU: 1, Memory (GiB): 4)": "0.0000000000",
         "Asia Pacific (Seoul) (vCPU: 1, Memory (GiB): 4)": "0.0000000000",
         "Asia Pacific (Mumbai) (vCPU: 1, Memory (GiB): 4)": "0.0000000000",
+        "Asia Pacific (Melbourne) (vCPU: 1, Memory (GiB): 4)": "0.0000000000",
         "Asia Pacific (Hyderabad) (vCPU: 1, Memory (GiB): 4)": "0.0000000000"
     },
     "i3 large.search - Storage optimized - Reserved - 1 x 475 NVMe SSD - All Upfront - 1yr - PrepaidCost": {
@@ -29181,6 +29308,7 @@
         "Asia Pacific (Singapore) (vCPU: 48, Memory (GiB): 192)": "2.1130000000",
         "Asia Pacific (Seoul) (vCPU: 48, Memory (GiB): 192)": "2.0780000000",
         "Asia Pacific (Mumbai) (vCPU: 48, Memory (GiB): 192)": "1.2080000000",
+        "Asia Pacific (Melbourne) (vCPU: 48, Memory (GiB): 192)": "2.1130000000",
         "Asia Pacific (Hyderabad) (vCPU: 48, Memory (GiB): 192)": "1.2080000000"
     },
     "m4 4xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost": {
@@ -29276,6 +29404,7 @@
         "Mexico (Central) (vCPU: 96, Memory (GiB): 768)": "40611.36",
         "EU (Zurich) (vCPU: 96, Memory (GiB): 768)": "50725",
         "EU (Stockholm) (vCPU: 96, Memory (GiB): 768)": "40409",
+        "EU (Spain) (vCPU: 96, Memory (GiB): 768)": "42643.68",
         "EU (Paris) (vCPU: 96, Memory (GiB): 768)": "44873",
         "EU (Milan) (vCPU: 96, Memory (GiB): 768)": "44873",
         "EU (London) (vCPU: 96, Memory (GiB): 768)": "44873",
@@ -29512,6 +29641,7 @@
         "Asia Pacific (Singapore) (vCPU: 48, Memory (GiB): 192)": "1.3610000000",
         "Asia Pacific (Seoul) (vCPU: 48, Memory (GiB): 192)": "1.3390000000",
         "Asia Pacific (Mumbai) (vCPU: 48, Memory (GiB): 192)": "0.7790000000",
+        "Asia Pacific (Melbourne) (vCPU: 48, Memory (GiB): 192)": "1.3610000000",
         "Asia Pacific (Hyderabad) (vCPU: 48, Memory (GiB): 192)": "0.7790000000"
     },
     "im4gn 4xlarge.search - Storage optimized - Reserved - 1 x 7500 SSD - No Upfront - 3yr - Hourly Cost": {
@@ -29652,6 +29782,7 @@
         "Asia Pacific (Singapore) (vCPU: 8, Memory (GiB): 32)": "8540",
         "Asia Pacific (Seoul) (vCPU: 8, Memory (GiB): 32)": "8401",
         "Asia Pacific (Mumbai) (vCPU: 8, Memory (GiB): 32)": "4882",
+        "Asia Pacific (Melbourne) (vCPU: 8, Memory (GiB): 32)": "8539.949",
         "Asia Pacific (Hyderabad) (vCPU: 8, Memory (GiB): 32)": "4882"
     },
     "i4g 16xlarge.search - Storage optimized - Reserved - 4 x 3 750 Nitro SSD - No Upfront - 1yr - Hourly Cost": {
@@ -29968,6 +30099,7 @@
         "Asia Pacific (Singapore) (vCPU: 4, Memory (GiB): 16)": "0.1760000000",
         "Asia Pacific (Seoul) (vCPU: 4, Memory (GiB): 16)": "0.1730000000",
         "Asia Pacific (Mumbai) (vCPU: 4, Memory (GiB): 16)": "0.1010000000",
+        "Asia Pacific (Melbourne) (vCPU: 4, Memory (GiB): 16)": "0.1760000000",
         "Asia Pacific (Hyderabad) (vCPU: 4, Memory (GiB): 16)": "0.1010000000"
     },
     "r4 xlarge.search - Memory optimized - Reserved - EBS Only - All Upfront - 1yr - PrepaidCost": {
@@ -30024,6 +30156,7 @@
         "Israel (Tel Aviv) (vCPU: 128, Memory (GiB): 1024)": "0.0000000000",
         "EU (Zurich) (vCPU: 128, Memory (GiB): 1024)": "0.0000000000",
         "EU (Stockholm) (vCPU: 128, Memory (GiB): 1024)": "0.0000000000",
+        "EU (Spain) (vCPU: 128, Memory (GiB): 1024)": "0.0000000000",
         "EU (Paris) (vCPU: 128, Memory (GiB): 1024)": "0.0000000000",
         "EU (Milan) (vCPU: 128, Memory (GiB): 1024)": "0.0000000000",
         "EU (London) (vCPU: 128, Memory (GiB): 1024)": "0.0000000000",
@@ -30441,6 +30574,7 @@
         "Mexico (Central) (vCPU: 96, Memory (GiB): 768)": "4.6360000000",
         "EU (Zurich) (vCPU: 96, Memory (GiB): 768)": "5.7900000000",
         "EU (Stockholm) (vCPU: 96, Memory (GiB): 768)": "4.6130000000",
+        "EU (Spain) (vCPU: 96, Memory (GiB): 768)": "4.8680000000",
         "EU (Paris) (vCPU: 96, Memory (GiB): 768)": "5.1220000000",
         "EU (Milan) (vCPU: 96, Memory (GiB): 768)": "5.1220000000",
         "EU (London) (vCPU: 96, Memory (GiB): 768)": "5.1220000000",
@@ -30624,6 +30758,7 @@
         "Israel (Tel Aviv) (vCPU: 4, Memory (GiB): 32)": "4172",
         "EU (Zurich) (vCPU: 4, Memory (GiB): 32)": "4730",
         "EU (Stockholm) (vCPU: 4, Memory (GiB): 32)": "3771",
+        "EU (Spain) (vCPU: 4, Memory (GiB): 32)": "3968.28",
         "EU (Paris) (vCPU: 4, Memory (GiB): 32)": "4185",
         "EU (Milan) (vCPU: 4, Memory (GiB): 32)": "4185",
         "EU (London) (vCPU: 4, Memory (GiB): 32)": "4185",
@@ -30882,6 +31017,7 @@
         "Asia Pacific (Singapore) (vCPU: 2, Memory (GiB): 8)": "496",
         "Asia Pacific (Seoul) (vCPU: 2, Memory (GiB): 8)": "487",
         "Asia Pacific (Mumbai) (vCPU: 2, Memory (GiB): 8)": "285",
+        "Asia Pacific (Melbourne) (vCPU: 2, Memory (GiB): 8)": "499.32",
         "Asia Pacific (Hyderabad) (vCPU: 2, Memory (GiB): 8)": "285"
     },
     "r6g 8xlarge.search - Memory optimized - OnDemand - EBS Only - - - Hourly Cost": {
@@ -31018,6 +31154,7 @@
         "Mexico (Central) (vCPU: 48, Memory (GiB): 384)": "3.5970000000",
         "EU (Zurich) (vCPU: 48, Memory (GiB): 384)": "4.4940000000",
         "EU (Stockholm) (vCPU: 48, Memory (GiB): 384)": "3.5800000000",
+        "EU (Spain) (vCPU: 48, Memory (GiB): 384)": "3.7780000000",
         "EU (Paris) (vCPU: 48, Memory (GiB): 384)": "3.9750000000",
         "EU (Milan) (vCPU: 48, Memory (GiB): 384)": "3.9750000000",
         "EU (London) (vCPU: 48, Memory (GiB): 384)": "3.9750000000",
@@ -31098,6 +31235,7 @@
         "Mexico (Central) (vCPU: 48, Memory (GiB): 384)": "45464.4",
         "EU (Zurich) (vCPU: 48, Memory (GiB): 384)": "56778",
         "EU (Stockholm) (vCPU: 48, Memory (GiB): 384)": "45234",
+        "EU (Spain) (vCPU: 48, Memory (GiB): 384)": "47750.76",
         "EU (Paris) (vCPU: 48, Memory (GiB): 384)": "50228",
         "EU (Milan) (vCPU: 48, Memory (GiB): 384)": "50228",
         "EU (London) (vCPU: 48, Memory (GiB): 384)": "50228",
@@ -31349,6 +31487,7 @@
         "Israel (Tel Aviv) (vCPU: 2, Memory (GiB): 16)": "0.1650000000",
         "EU (Zurich) (vCPU: 2, Memory (GiB): 16)": "0.1870000000",
         "EU (Stockholm) (vCPU: 2, Memory (GiB): 16)": "0.1490000000",
+        "EU (Spain) (vCPU: 2, Memory (GiB): 16)": "0.1570000000",
         "EU (Paris) (vCPU: 2, Memory (GiB): 16)": "0.1650000000",
         "EU (Milan) (vCPU: 2, Memory (GiB): 16)": "0.1650000000",
         "EU (London) (vCPU: 2, Memory (GiB): 16)": "0.1650000000",
@@ -31481,6 +31620,7 @@
         "Asia Pacific (Singapore) (vCPU: 16, Memory (GiB): 64)": "0.7050000000",
         "Asia Pacific (Seoul) (vCPU: 16, Memory (GiB): 64)": "0.6930000000",
         "Asia Pacific (Mumbai) (vCPU: 16, Memory (GiB): 64)": "0.4030000000",
+        "Asia Pacific (Melbourne) (vCPU: 16, Memory (GiB): 64)": "0.7040000000",
         "Asia Pacific (Hyderabad) (vCPU: 16, Memory (GiB): 64)": "0.4030000000"
     },
     "r6g 12xlarge.search - Memory optimized - OnDemand - EBS Only - - - Hourly Cost": {
@@ -31671,6 +31811,7 @@
         "Israel (Tel Aviv) (vCPU: 8, Memory (GiB): 64)": "3733",
         "EU (Zurich) (vCPU: 8, Memory (GiB): 64)": "4226",
         "EU (Stockholm) (vCPU: 8, Memory (GiB): 64)": "3366",
+        "EU (Spain) (vCPU: 8, Memory (GiB): 64)": "3556.56",
         "EU (Paris) (vCPU: 8, Memory (GiB): 64)": "3739",
         "EU (Milan) (vCPU: 8, Memory (GiB): 64)": "3739",
         "EU (London) (vCPU: 8, Memory (GiB): 64)": "3739",
@@ -31955,6 +32096,7 @@
         "Asia Pacific (Singapore) (vCPU: 64, Memory (GiB): 256)": "3.7380000000",
         "Asia Pacific (Seoul) (vCPU: 64, Memory (GiB): 256)": "3.6760000000",
         "Asia Pacific (Mumbai) (vCPU: 64, Memory (GiB): 256)": "2.1380000000",
+        "Asia Pacific (Melbourne) (vCPU: 64, Memory (GiB): 256)": "3.7380000000",
         "Asia Pacific (Hyderabad) (vCPU: 64, Memory (GiB): 256)": "2.1380000000"
     },
     "r6g 2xlarge.search - Memory optimized - Reserved - EBS Only - No Upfront - 1yr - Hourly Cost": {
@@ -32077,6 +32219,7 @@
         "Asia Pacific (Singapore) (vCPU: 8, Memory (GiB): 32)": "0.0000000000",
         "Asia Pacific (Seoul) (vCPU: 8, Memory (GiB): 32)": "0.0000000000",
         "Asia Pacific (Mumbai) (vCPU: 8, Memory (GiB): 32)": "0.0000000000",
+        "Asia Pacific (Melbourne) (vCPU: 8, Memory (GiB): 32)": "0.0000000000",
         "Asia Pacific (Hyderabad) (vCPU: 8, Memory (GiB): 32)": "0.0000000000"
     },
     "c7i 16xlarge.search - Compute optimized - OnDemand - EBS Only - - - Hourly Cost": {
@@ -32419,6 +32562,7 @@
         "Asia Pacific (Singapore) (vCPU: 48, Memory (GiB): 192)": "0.0000000000",
         "Asia Pacific (Seoul) (vCPU: 48, Memory (GiB): 192)": "0.0000000000",
         "Asia Pacific (Mumbai) (vCPU: 48, Memory (GiB): 192)": "0.0000000000",
+        "Asia Pacific (Melbourne) (vCPU: 48, Memory (GiB): 192)": "0.0000000000",
         "Asia Pacific (Hyderabad) (vCPU: 48, Memory (GiB): 192)": "0.0000000000"
     },
     "c7i xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 3yr - Hourly Cost": {
@@ -32526,6 +32670,7 @@
         "Mexico (Central) (vCPU: 96, Memory (GiB): 768)": "9.5480000000",
         "EU (Zurich) (vCPU: 96, Memory (GiB): 768)": "11.9270000000",
         "EU (Stockholm) (vCPU: 96, Memory (GiB): 768)": "9.5010000000",
+        "EU (Spain) (vCPU: 96, Memory (GiB): 768)": "10.0260000000",
         "EU (Paris) (vCPU: 96, Memory (GiB): 768)": "10.5510000000",
         "EU (Milan) (vCPU: 96, Memory (GiB): 768)": "10.5510000000",
         "EU (London) (vCPU: 96, Memory (GiB): 768)": "10.5510000000",
@@ -32773,6 +32918,7 @@
         "Asia Pacific (Singapore) (vCPU: 32, Memory (GiB): 128)": "0.0000000000",
         "Asia Pacific (Seoul) (vCPU: 32, Memory (GiB): 128)": "0.0000000000",
         "Asia Pacific (Mumbai) (vCPU: 32, Memory (GiB): 128)": "0.0000000000",
+        "Asia Pacific (Melbourne) (vCPU: 32, Memory (GiB): 128)": "0.0000000000",
         "Asia Pacific (Hyderabad) (vCPU: 32, Memory (GiB): 128)": "0.0000000000"
     },
     "c6g 12xlarge.search - Compute optimized - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost": {
@@ -33011,6 +33157,7 @@
         "Asia Pacific (Singapore) (vCPU: 32, Memory (GiB): 128)": "7950",
         "Asia Pacific (Seoul) (vCPU: 32, Memory (GiB): 128)": "7818",
         "Asia Pacific (Mumbai) (vCPU: 32, Memory (GiB): 128)": "4546",
+        "Asia Pacific (Melbourne) (vCPU: 32, Memory (GiB): 128)": "7954.08",
         "Asia Pacific (Hyderabad) (vCPU: 32, Memory (GiB): 128)": "4546"
     },
     "r5 xlarge.search - Memory optimized - OnDemand - EBS Only - - - Hourly Cost": {
@@ -33165,6 +33312,7 @@
         "Asia Pacific (Singapore) (vCPU: 32, Memory (GiB): 128)": "15425",
         "Asia Pacific (Seoul) (vCPU: 32, Memory (GiB): 128)": "15169",
         "Asia Pacific (Mumbai) (vCPU: 32, Memory (GiB): 128)": "8820",
+        "Asia Pacific (Melbourne) (vCPU: 32, Memory (GiB): 128)": "15425.046",
         "Asia Pacific (Hyderabad) (vCPU: 32, Memory (GiB): 128)": "8820"
     },
     "m6g 4xlarge.search - General purpose - Reserved - EBS Only - No Upfront - 3yr - Hourly Cost": {
@@ -33270,6 +33418,7 @@
         "Israel (Tel Aviv) (vCPU: 32, Memory (GiB): 256)": "0.0000000000",
         "EU (Zurich) (vCPU: 32, Memory (GiB): 256)": "0.0000000000",
         "EU (Stockholm) (vCPU: 32, Memory (GiB): 256)": "0.0000000000",
+        "EU (Spain) (vCPU: 32, Memory (GiB): 256)": "0.0000000000",
         "EU (Paris) (vCPU: 32, Memory (GiB): 256)": "0.0000000000",
         "EU (Milan) (vCPU: 32, Memory (GiB): 256)": "0.0000000000",
         "EU (London) (vCPU: 32, Memory (GiB): 256)": "0.0000000000",
@@ -33306,6 +33455,7 @@
         "Israel (Tel Aviv) (vCPU: 4, Memory (GiB): 32)": "0.3300000000",
         "EU (Zurich) (vCPU: 4, Memory (GiB): 32)": "0.3740000000",
         "EU (Stockholm) (vCPU: 4, Memory (GiB): 32)": "0.2980000000",
+        "EU (Spain) (vCPU: 4, Memory (GiB): 32)": "0.3150000000",
         "EU (Paris) (vCPU: 4, Memory (GiB): 32)": "0.3310000000",
         "EU (Milan) (vCPU: 4, Memory (GiB): 32)": "0.3310000000",
         "EU (London) (vCPU: 4, Memory (GiB): 32)": "0.3310000000",
@@ -33342,6 +33492,7 @@
         "Israel (Tel Aviv) (vCPU: 4, Memory (GiB): 32)": "0.2130000000",
         "EU (Zurich) (vCPU: 4, Memory (GiB): 32)": "0.2410000000",
         "EU (Stockholm) (vCPU: 4, Memory (GiB): 32)": "0.1920000000",
+        "EU (Spain) (vCPU: 4, Memory (GiB): 32)": "0.2030000000",
         "EU (Paris) (vCPU: 4, Memory (GiB): 32)": "0.2130000000",
         "EU (Milan) (vCPU: 4, Memory (GiB): 32)": "0.2130000000",
         "EU (London) (vCPU: 4, Memory (GiB): 32)": "0.2130000000",
@@ -34451,6 +34602,7 @@
         "Israel (Tel Aviv) (vCPU: 128, Memory (GiB): 1024)": "115833",
         "EU (Zurich) (vCPU: 128, Memory (GiB): 1024)": "131224",
         "EU (Stockholm) (vCPU: 128, Memory (GiB): 1024)": "104542",
+        "EU (Spain) (vCPU: 128, Memory (GiB): 1024)": "110315.556",
         "EU (Paris) (vCPU: 128, Memory (GiB): 1024)": "116089",
         "EU (Milan) (vCPU: 128, Memory (GiB): 1024)": "116089",
         "EU (London) (vCPU: 128, Memory (GiB): 1024)": "116089",
@@ -34858,6 +35010,7 @@
         "Asia Pacific (Singapore) (vCPU: 1, Memory (GiB): 4)": "0.0210000000",
         "Asia Pacific (Seoul) (vCPU: 1, Memory (GiB): 4)": "0.0210000000",
         "Asia Pacific (Mumbai) (vCPU: 1, Memory (GiB): 4)": "0.0120000000",
+        "Asia Pacific (Melbourne) (vCPU: 1, Memory (GiB): 4)": "0.0210000000",
         "Asia Pacific (Hyderabad) (vCPU: 1, Memory (GiB): 4)": "0.0120000000"
     },
     "c6g large.search - Compute optimized - Reserved - EBS Only - All Upfront - 3yr - PrepaidCost": {
@@ -35019,6 +35172,7 @@
         "Israel (Tel Aviv) (vCPU: 8, Memory (GiB): 64)": "8357",
         "EU (Zurich) (vCPU: 8, Memory (GiB): 64)": "9461",
         "EU (Stockholm) (vCPU: 8, Memory (GiB): 64)": "7536",
+        "EU (Spain) (vCPU: 8, Memory (GiB): 64)": "7962.84",
         "EU (Paris) (vCPU: 8, Memory (GiB): 64)": "8370",
         "EU (Milan) (vCPU: 8, Memory (GiB): 64)": "8370",
         "EU (London) (vCPU: 8, Memory (GiB): 64)": "8370",
@@ -35490,6 +35644,7 @@
         "Mexico (Central) (vCPU: 96, Memory (GiB): 768)": "7.1960000000",
         "EU (Zurich) (vCPU: 96, Memory (GiB): 768)": "8.9880000000",
         "EU (Stockholm) (vCPU: 96, Memory (GiB): 768)": "7.1600000000",
+        "EU (Spain) (vCPU: 96, Memory (GiB): 768)": "7.5560000000",
         "EU (Paris) (vCPU: 96, Memory (GiB): 768)": "7.9510000000",
         "EU (Milan) (vCPU: 96, Memory (GiB): 768)": "7.9510000000",
         "EU (London) (vCPU: 96, Memory (GiB): 768)": "7.9510000000",
@@ -35658,6 +35813,7 @@
         "Israel (Tel Aviv) (vCPU: 16, Memory (GiB): 128)": "0.0000000000",
         "EU (Zurich) (vCPU: 16, Memory (GiB): 128)": "0.0000000000",
         "EU (Stockholm) (vCPU: 16, Memory (GiB): 128)": "0.0000000000",
+        "EU (Spain) (vCPU: 16, Memory (GiB): 128)": "0.0000000000",
         "EU (Paris) (vCPU: 16, Memory (GiB): 128)": "0.0000000000",
         "EU (Milan) (vCPU: 16, Memory (GiB): 128)": "0.0000000000",
         "EU (London) (vCPU: 16, Memory (GiB): 128)": "0.0000000000",
@@ -35791,6 +35947,7 @@
         "Israel (Tel Aviv) (vCPU: 8, Memory (GiB): 64)": "16046",
         "EU (Zurich) (vCPU: 8, Memory (GiB): 64)": "18165",
         "EU (Stockholm) (vCPU: 8, Memory (GiB): 64)": "14469",
+        "EU (Spain) (vCPU: 8, Memory (GiB): 64)": "15276.038",
         "EU (Paris) (vCPU: 8, Memory (GiB): 64)": "16071",
         "EU (Milan) (vCPU: 8, Memory (GiB): 64)": "16071",
         "EU (London) (vCPU: 8, Memory (GiB): 64)": "16071",
@@ -35951,6 +36108,7 @@
         "Mexico (Central) (vCPU: 48, Memory (GiB): 384)": "39391.092",
         "EU (Zurich) (vCPU: 48, Memory (GiB): 384)": "49208",
         "EU (Stockholm) (vCPU: 48, Memory (GiB): 384)": "39203",
+        "EU (Spain) (vCPU: 48, Memory (GiB): 384)": "41372.604",
         "EU (Paris) (vCPU: 48, Memory (GiB): 384)": "43531",
         "EU (Milan) (vCPU: 48, Memory (GiB): 384)": "43531",
         "EU (London) (vCPU: 48, Memory (GiB): 384)": "43531",
@@ -36112,6 +36270,7 @@
         "Asia Pacific (Singapore) (vCPU: 32, Memory (GiB): 128)": "0.6770000000",
         "Asia Pacific (Seoul) (vCPU: 32, Memory (GiB): 128)": "0.6660000000",
         "Asia Pacific (Mumbai) (vCPU: 32, Memory (GiB): 128)": "0.3870000000",
+        "Asia Pacific (Melbourne) (vCPU: 32, Memory (GiB): 128)": "0.6770000000",
         "Asia Pacific (Hyderabad) (vCPU: 32, Memory (GiB): 128)": "0.3870000000"
     },
     "r7i 16xlarge.search - Memory optimized - Reserved - EBS Only - Partial Upfront - 1yr - PrepaidCost": {
@@ -36257,6 +36416,7 @@
         "Israel (Tel Aviv) (vCPU: 2, Memory (GiB): 16)": "1811",
         "EU (Zurich) (vCPU: 2, Memory (GiB): 16)": "2050",
         "EU (Stockholm) (vCPU: 2, Memory (GiB): 16)": "1628",
+        "EU (Spain) (vCPU: 2, Memory (GiB): 16)": "1719.588",
         "EU (Paris) (vCPU: 2, Memory (GiB): 16)": "1811",
         "EU (Milan) (vCPU: 2, Memory (GiB): 16)": "1811",
         "EU (London) (vCPU: 2, Memory (GiB): 16)": "1811",
@@ -36396,6 +36556,7 @@
         "Israel (Tel Aviv) (vCPU: 8, Memory (GiB): 64)": "0.6610000000",
         "EU (Zurich) (vCPU: 8, Memory (GiB): 64)": "0.7490000000",
         "EU (Stockholm) (vCPU: 8, Memory (GiB): 64)": "0.5960000000",
+        "EU (Spain) (vCPU: 8, Memory (GiB): 64)": "0.6300000000",
         "EU (Paris) (vCPU: 8, Memory (GiB): 64)": "0.6620000000",
         "EU (Milan) (vCPU: 8, Memory (GiB): 64)": "0.6620000000",
         "EU (London) (vCPU: 8, Memory (GiB): 64)": "0.6620000000",
@@ -36442,6 +36603,7 @@
         "Asia Pacific (Singapore) (vCPU: 4, Memory (GiB): 16)": "995",
         "Asia Pacific (Seoul) (vCPU: 4, Memory (GiB): 16)": "977",
         "Asia Pacific (Mumbai) (vCPU: 4, Memory (GiB): 16)": "569",
+        "Asia Pacific (Melbourne) (vCPU: 4, Memory (GiB): 16)": "989.88",
         "Asia Pacific (Hyderabad) (vCPU: 4, Memory (GiB): 16)": "569"
     },
     "i4g xlarge.search - Storage optimized - Reserved - 1 x 937 Nitro SSD - All Upfront - 1yr - Hourly Cost": {
@@ -36574,6 +36736,7 @@
         "Asia Pacific (Singapore) (vCPU: 4, Memory (GiB): 16)": "0.0000000000",
         "Asia Pacific (Seoul) (vCPU: 4, Memory (GiB): 16)": "0.0000000000",
         "Asia Pacific (Mumbai) (vCPU: 4, Memory (GiB): 16)": "0.0000000000",
+        "Asia Pacific (Melbourne) (vCPU: 4, Memory (GiB): 16)": "0.0000000000",
         "Asia Pacific (Hyderabad) (vCPU: 4, Memory (GiB): 16)": "0.0000000000"
     },
     "m5 2xlarge.search - General purpose - Reserved - EBS Only - Partial Upfront - 1yr - Hourly Cost": {
@@ -36808,6 +36971,7 @@
         "Israel (Tel Aviv) (vCPU: 8, Memory (GiB): 64)": "0.4260000000",
         "EU (Zurich) (vCPU: 8, Memory (GiB): 64)": "0.4820000000",
         "EU (Stockholm) (vCPU: 8, Memory (GiB): 64)": "0.3840000000",
+        "EU (Spain) (vCPU: 8, Memory (GiB): 64)": "0.4060000000",
         "EU (Paris) (vCPU: 8, Memory (GiB): 64)": "0.4270000000",
         "EU (Milan) (vCPU: 8, Memory (GiB): 64)": "0.4270000000",
         "EU (London) (vCPU: 8, Memory (GiB): 64)": "0.4270000000",
@@ -37131,6 +37295,7 @@
         "Israel (Tel Aviv) (vCPU: 64, Memory (GiB): 512)": "2.5430000000",
         "EU (Zurich) (vCPU: 64, Memory (GiB): 512)": "2.8810000000",
         "EU (Stockholm) (vCPU: 64, Memory (GiB): 512)": "2.2950000000",
+        "EU (Spain) (vCPU: 64, Memory (GiB): 512)": "2.4220000000",
         "EU (Paris) (vCPU: 64, Memory (GiB): 512)": "2.5490000000",
         "EU (Milan) (vCPU: 64, Memory (GiB): 512)": "2.5490000000",
         "EU (London) (vCPU: 64, Memory (GiB): 512)": "2.5490000000",
@@ -37631,6 +37796,7 @@
         "Israel (Tel Aviv) (vCPU: 16, Memory (GiB): 128)": "32066",
         "EU (Zurich) (vCPU: 16, Memory (GiB): 128)": "36329",
         "EU (Stockholm) (vCPU: 16, Memory (GiB): 128)": "28937",
+        "EU (Spain) (vCPU: 16, Memory (GiB): 128)": "30552.077",
         "EU (Paris) (vCPU: 16, Memory (GiB): 128)": "32154",
         "EU (Milan) (vCPU: 16, Memory (GiB): 128)": "32154",
         "EU (London) (vCPU: 16, Memory (GiB): 128)": "32154",
@@ -38143,6 +38309,7 @@
         "Israel (Tel Aviv) (vCPU: 4, Memory (GiB): 32)": "1863",
         "EU (Zurich) (vCPU: 4, Memory (GiB): 32)": "2113",
         "EU (Stockholm) (vCPU: 4, Memory (GiB): 32)": "1684",
+        "EU (Spain) (vCPU: 4, Memory (GiB): 32)": "1778.28",
         "EU (Paris) (vCPU: 4, Memory (GiB): 32)": "1869",
         "EU (Milan) (vCPU: 4, Memory (GiB): 32)": "1869",
         "EU (London) (vCPU: 4, Memory (GiB): 32)": "1869",
@@ -38359,6 +38526,7 @@
         "Asia Pacific (Singapore) (vCPU: 16, Memory (GiB): 64)": "17093",
         "Asia Pacific (Seoul) (vCPU: 16, Memory (GiB): 64)": "16802",
         "Asia Pacific (Mumbai) (vCPU: 16, Memory (GiB): 64)": "9776",
+        "Asia Pacific (Melbourne) (vCPU: 16, Memory (GiB): 64)": "17079.898",
         "Asia Pacific (Hyderabad) (vCPU: 16, Memory (GiB): 64)": "9776"
     },
     "m7i 2xlarge.search - General purpose - Reserved - EBS Only - All Upfront - 1yr - Hourly Cost": {
@@ -38398,6 +38566,7 @@
         "Israel (Tel Aviv) (vCPU: 128, Memory (GiB): 1024)": "14.0370000000",
         "EU (Zurich) (vCPU: 128, Memory (GiB): 1024)": "15.9020000000",
         "EU (Stockholm) (vCPU: 128, Memory (GiB): 1024)": "12.6680000000",
+        "EU (Spain) (vCPU: 128, Memory (GiB): 1024)": "13.3680000000",
         "EU (Paris) (vCPU: 128, Memory (GiB): 1024)": "14.0680000000",
         "EU (Milan) (vCPU: 128, Memory (GiB): 1024)": "14.0680000000",
         "EU (London) (vCPU: 128, Memory (GiB): 1024)": "14.0680000000",
@@ -38567,6 +38736,7 @@
         "Israel (Tel Aviv) (vCPU: 64, Memory (GiB): 512)": "3.4070000000",
         "EU (Zurich) (vCPU: 64, Memory (GiB): 512)": "3.8600000000",
         "EU (Stockholm) (vCPU: 64, Memory (GiB): 512)": "3.0760000000",
+        "EU (Spain) (vCPU: 64, Memory (GiB): 512)": "3.2450000000",
         "EU (Paris) (vCPU: 64, Memory (GiB): 512)": "3.4150000000",
         "EU (Milan) (vCPU: 64, Memory (GiB): 512)": "3.4150000000",
         "EU (London) (vCPU: 64, Memory (GiB): 512)": "3.4150000000",
