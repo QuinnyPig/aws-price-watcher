@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "paymentcryptography",
         "accessType": "publish",
-        "esIndex": "plc-paymentcryptography-usd-20250612155139",
-        "hawkFilePublicationDate": "2025-06-12T15:51:39Z",
-        "ETLIngestionTriggerDate": "2025-06-12T15:51:39Z",
+        "esIndex": "plc-paymentcryptography-usd-20250618145200",
+        "hawkFilePublicationDate": "2025-06-18T03:09:53Z",
+        "ETLIngestionTriggerDate": "2025-06-18T14:52:00Z",
         "currencyCode": "USD",
         "source": "paymentcryptography",
         "isMapped": "true"
@@ -302,6 +302,90 @@
             "API Request 0 to 20000000": {
                 "rateCode": "Q9P4C4KKC4MG9WGY.JRTCKXETXF.2GQZD7548S",
                 "price": "0.0002400000",
+                "RegionlessRateCode": "wrRrEorPs3m1nUfE4QDSLAkAmmhzCaEm9nBBcWsLVms"
+            }
+        },
+        "Asia Pacific (Osaka)": {
+            "09Rd6MwHCteWVuA4ylXqxIL70bx67l6LSC9eJSn2XzI": {
+                "rateCode": "8E5WVMVH95HZFKSA.JRTCKXETXF.5USK7U6UKE",
+                "price": "0.0000630000",
+                "RegionlessRateCode": "09Rd6MwHCteWVuA4ylXqxIL70bx67l6LSC9eJSn2XzI"
+            },
+            "LUKk9myrSPL9HZc8u2Fzx1hniL7PXqErkPp38QT1768": {
+                "rateCode": "8E5WVMVH95HZFKSA.JRTCKXETXF.ZNZ86FN743",
+                "price": "0.0000800000",
+                "RegionlessRateCode": "LUKk9myrSPL9HZc8u2Fzx1hniL7PXqErkPp38QT1768"
+            },
+            "d1XWTtwufb_2staVLJo3tn6J-g9xBDceebXJ01Qguug": {
+                "rateCode": "NS2WGTKRHTKJ3EMR.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.0000000000",
+                "RegionlessRateCode": "d1XWTtwufb_2staVLJo3tn6J-g9xBDceebXJ01Qguug"
+            },
+            "wrRrEorPs3m1nUfE4QDSLAkAmmhzCaEm9nBBcWsLVms": {
+                "rateCode": "8E5WVMVH95HZFKSA.JRTCKXETXF.2GQZD7548S",
+                "price": "0.0002500000",
+                "RegionlessRateCode": "wrRrEorPs3m1nUfE4QDSLAkAmmhzCaEm9nBBcWsLVms"
+            },
+            "API Request 220000000 to Inf": {
+                "rateCode": "8E5WVMVH95HZFKSA.JRTCKXETXF.5USK7U6UKE",
+                "price": "0.0000630000",
+                "RegionlessRateCode": "09Rd6MwHCteWVuA4ylXqxIL70bx67l6LSC9eJSn2XzI"
+            },
+            "API Request 20000000 to 220000000": {
+                "rateCode": "8E5WVMVH95HZFKSA.JRTCKXETXF.ZNZ86FN743",
+                "price": "0.0000800000",
+                "RegionlessRateCode": "LUKk9myrSPL9HZc8u2Fzx1hniL7PXqErkPp38QT1768"
+            },
+            "Encryption Key": {
+                "rateCode": "NS2WGTKRHTKJ3EMR.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.0000000000",
+                "RegionlessRateCode": "d1XWTtwufb_2staVLJo3tn6J-g9xBDceebXJ01Qguug"
+            },
+            "API Request 0 to 20000000": {
+                "rateCode": "8E5WVMVH95HZFKSA.JRTCKXETXF.2GQZD7548S",
+                "price": "0.0002500000",
+                "RegionlessRateCode": "wrRrEorPs3m1nUfE4QDSLAkAmmhzCaEm9nBBcWsLVms"
+            }
+        },
+        "Asia Pacific (Mumbai)": {
+            "09Rd6MwHCteWVuA4ylXqxIL70bx67l6LSC9eJSn2XzI": {
+                "rateCode": "ERYMKYRNENS664YV.JRTCKXETXF.5USK7U6UKE",
+                "price": "0.0000510000",
+                "RegionlessRateCode": "09Rd6MwHCteWVuA4ylXqxIL70bx67l6LSC9eJSn2XzI"
+            },
+            "LUKk9myrSPL9HZc8u2Fzx1hniL7PXqErkPp38QT1768": {
+                "rateCode": "ERYMKYRNENS664YV.JRTCKXETXF.ZNZ86FN743",
+                "price": "0.0000660000",
+                "RegionlessRateCode": "LUKk9myrSPL9HZc8u2Fzx1hniL7PXqErkPp38QT1768"
+            },
+            "d1XWTtwufb_2staVLJo3tn6J-g9xBDceebXJ01Qguug": {
+                "rateCode": "MMA4H8486BMMMACH.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.0000000000",
+                "RegionlessRateCode": "d1XWTtwufb_2staVLJo3tn6J-g9xBDceebXJ01Qguug"
+            },
+            "wrRrEorPs3m1nUfE4QDSLAkAmmhzCaEm9nBBcWsLVms": {
+                "rateCode": "ERYMKYRNENS664YV.JRTCKXETXF.2GQZD7548S",
+                "price": "0.0002060000",
+                "RegionlessRateCode": "wrRrEorPs3m1nUfE4QDSLAkAmmhzCaEm9nBBcWsLVms"
+            },
+            "API Request 220000000 to Inf": {
+                "rateCode": "ERYMKYRNENS664YV.JRTCKXETXF.5USK7U6UKE",
+                "price": "0.0000510000",
+                "RegionlessRateCode": "09Rd6MwHCteWVuA4ylXqxIL70bx67l6LSC9eJSn2XzI"
+            },
+            "API Request 20000000 to 220000000": {
+                "rateCode": "ERYMKYRNENS664YV.JRTCKXETXF.ZNZ86FN743",
+                "price": "0.0000660000",
+                "RegionlessRateCode": "LUKk9myrSPL9HZc8u2Fzx1hniL7PXqErkPp38QT1768"
+            },
+            "Encryption Key": {
+                "rateCode": "MMA4H8486BMMMACH.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.0000000000",
+                "RegionlessRateCode": "d1XWTtwufb_2staVLJo3tn6J-g9xBDceebXJ01Qguug"
+            },
+            "API Request 0 to 20000000": {
+                "rateCode": "ERYMKYRNENS664YV.JRTCKXETXF.2GQZD7548S",
+                "price": "0.0002060000",
                 "RegionlessRateCode": "wrRrEorPs3m1nUfE4QDSLAkAmmhzCaEm9nBBcWsLVms"
             }
         }

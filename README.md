@@ -1,3 +1,30 @@
+## 2025-06-18 15:27
+
+**Modified services:**
+
+- [pcs](processed/pcs.json)
+  - Region added for metric AWSParallelComputingService Small Running Slurm: AWS GovCloud (US-East) 🌎
+  - Region added for metric AWSParallelComputingService Small Running Slurm: AWS GovCloud (US) 🌎
+  - Region added for metric AWSParallelComputingService SlurmStd: AWS GovCloud (US-East) 🌎
+  - Region added for metric AWSParallelComputingService SlurmStd: AWS GovCloud (US) 🌎
+  - Region added for metric AWSParallelComputingService Large Running Slurm: AWS GovCloud (US-East) 🌎
+  - Region added for metric AWSParallelComputingService Large Running Slurm: AWS GovCloud (US) 🌎
+  - Region added for metric AWSParallelComputingService SlurmAdv: AWS GovCloud (US-East) 🌎
+  - Region added for metric AWSParallelComputingService SlurmAdv: AWS GovCloud (US) 🌎
+  - Region added for metric AWSParallelComputingService Medium Running Slurm: AWS GovCloud (US-East) 🌎
+  - Region added for metric AWSParallelComputingService Medium Running Slurm: AWS GovCloud (US) 🌎
+
+- [paymentcryptography](processed/paymentcryptography.json)
+  - Region added for metric API Request 220000000 to Inf: Asia Pacific (Osaka) 🌎
+  - Region added for metric API Request 220000000 to Inf: Asia Pacific (Mumbai) 🌎
+  - Region added for metric API Request 20000000 to 220000000: Asia Pacific (Osaka) 🌎
+  - Region added for metric API Request 20000000 to 220000000: Asia Pacific (Mumbai) 🌎
+  - Region added for metric Encryption Key: Asia Pacific (Osaka) 🌎
+  - Region added for metric Encryption Key: Asia Pacific (Mumbai) 🌎
+  - Region added for metric API Request 0 to 20000000: Asia Pacific (Osaka) 🌎
+  - Region added for metric API Request 0 to 20000000: Asia Pacific (Mumbai) 🌎
+
+
 ## 2025-06-18 00:41
 
 **Modified services:**
