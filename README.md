@@ -1,3 +1,11 @@
+## 2025-06-18 18:27
+
+**Modified services:**
+
+- [evs](processed/evs.json)
+  - Region added for metric [Amazon Elastic VMware Service BYOS]: EU (Ireland) (Product Family: Amazon Elastic VMware Service, Subscription Model: Bring your own VCF subscription, Instance Type: i4i.metal) 🌎
+
+
 ## 2025-06-18 15:27
 
 **Modified services:**

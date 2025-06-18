@@ -2,9 +2,9 @@
     "manifest": {
         "serviceId": "evs",
         "accessType": "publish",
-        "esIndex": "plc-evs-usd-20250609190105",
-        "hawkFilePublicationDate": "2025-06-09T18:21:58Z",
-        "ETLIngestionTriggerDate": "2025-06-09T19:01:05Z",
+        "esIndex": "plc-evs-usd-20250618180512",
+        "hawkFilePublicationDate": "2025-06-18T17:54:04Z",
+        "ETLIngestionTriggerDate": "2025-06-18T18:05:12Z",
         "currencyCode": "USD",
         "source": "evs"
     },
@@ -14,7 +14,8 @@
             "CFDE6D6YREE43P2J JRTCKXETXF.6YS6EN2CT7 0",
             "GP72ARY5KC3N23J2 JRTCKXETXF.6YS6EN2CT7 0",
             "J7NABCBBEDWEVPZX JRTCKXETXF.6YS6EN2CT7 0",
-            "USYH4SCF2NJNDZTS JRTCKXETXF.6YS6EN2CT7 0"
+            "USYH4SCF2NJNDZTS JRTCKXETXF.6YS6EN2CT7 0",
+            "XSAJKYVXZH8QWRFA JRTCKXETXF.6YS6EN2CT7 0"
         ]
     },
     "regions": {
@@ -66,6 +67,24 @@
             "kCp8WmITdxb3qntRHVG2XnCGLzhwYSbv7uofQNBhhso": {
                 "rateCode": "2QKSJXRF8T69Q7F9.JRTCKXETXF.6YS6EN2CT7",
                 "price": "0.9200000000",
+                "RegionlessRateCode": "kCp8WmITdxb3qntRHVG2XnCGLzhwYSbv7uofQNBhhso",
+                "Product Family": "Amazon Elastic VMware Service",
+                "Subscription Model": "Bring your own VCF subscription",
+                "Instance Type": "i4i.metal"
+            }
+        },
+        "EU (Ireland)": {
+            "XSAJKYVXZH8QWRFA JRTCKXETXF.6YS6EN2CT7 0": {
+                "rateCode": "XSAJKYVXZH8QWRFA.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.0100000000",
+                "RegionlessRateCode": "kCp8WmITdxb3qntRHVG2XnCGLzhwYSbv7uofQNBhhso",
+                "Product Family": "Amazon Elastic VMware Service",
+                "Subscription Model": "Bring your own VCF subscription",
+                "Instance Type": "i4i.metal"
+            },
+            "kCp8WmITdxb3qntRHVG2XnCGLzhwYSbv7uofQNBhhso": {
+                "rateCode": "XSAJKYVXZH8QWRFA.JRTCKXETXF.6YS6EN2CT7",
+                "price": "1.0100000000",
                 "RegionlessRateCode": "kCp8WmITdxb3qntRHVG2XnCGLzhwYSbv7uofQNBhhso",
                 "Product Family": "Amazon Elastic VMware Service",
                 "Subscription Model": "Bring your own VCF subscription",
