@@ -1,3 +1,12 @@
+## 2025-06-18 00:41
+
+**Modified services:**
+
+- [contactcentertelecomm](processed/contactcentertelecomm.json)
+  - Price decreased: [Outbound Call Toll] Outbound Call Toll Philippines 0 Inf Asia Pacific (Sydney) (Country: Philippines)  **$0.12** → **$0.1** 💸
+  - Price decreased: [Outbound Call Toll] Outbound Call Toll Philippines 0 Inf Asia Pacific (Singapore) (Country: Philippines)  **$0.12** → **$0.1** 💸
+
+
 ## 2025-06-17 16:27
 
 **Modified services:**
